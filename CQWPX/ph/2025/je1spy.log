@@ -1,0 +1,38 @@
+START-OF-LOG: 3.0
+CONTEST: CQ-WPX-SSB
+CALLSIGN: JE1SPY
+LOCATION: DX
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: 160M
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-STATION: FIXED
+CATEGORY-OVERLAY: CLASSIC
+GRID-LOCATOR: PM95PP
+CLAIMED-SCORE: 88
+NAME: SAKAAKI ASHIKAWA
+CREATED-BY:
+SOAPBOX: In the Japanese band plan, SSB is only 30KHz wide from 1845 to 1875KHz.
+SOAPBOX: Moreover, since it is LSB, 1848KHz is the limit on the lower side, so
+SOAPBOX: you cannot call a DX station that runs at 1845KHz. (Because the lower
+SOAPBOX: wave band 3KHz of LSB enters the digital band) Since the Japanese band
+SOAPBOX: plan is treated the same as the Radio Law provisions, there are penal
+SOAPBOX: provisions for administrative sanctions,so amateur radio operators are
+SOAPBOX: free to do so at the time of the contest.
+SOAPBOX: It cannot be changed. Therefore, DX stations should fully understand
+SOAPBOX: that only 1848 to 1875KHz can communicate with Japanese stations via
+SOAPBOX: SSB.
+QSO:    1800 PH 2025-03-29 1112 JE1SPY           59  001   JH1OLB           59   221     0
+QSO:    1800 PH 2025-03-29 1141 JE1SPY           59  002   JH7UJU           59   121     0
+QSO:    1800 PH 2025-03-29 1225 JE1SPY           59  003   JM1LVN           59   001     0
+QSO:    1800 PH 2025-03-29 1241 JE1SPY           59  004   JR1GSE           59   302     0
+QSO:    1800 PH 2025-03-29 1243 JE1SPY           59  005   JH1GZE           59   006     0
+QSO:    1800 PH 2025-03-29 1303 JE1SPY           59  006   JH4WUZ           59   001     0
+QSO:    1800 PH 2025-03-30 1125 JE1SPY           59  007   JH1UBK           59   148     0
+QSO:    1800 PH 2025-03-30 1146 JE1SPY           59  008   JE5HTN           59   430     0
+QSO:    1800 PH 2025-03-30 1223 JE1SPY           59  009   JI4WHS           59   345     0
+QSO:    1800 PH 2025-03-30 1309 JE1SPY           59  010   JH4UTP           59   1486    0
+QSO:    1800 PH 2025-03-30 1333 JE1SPY           59  011   JE8ATX           59   119     0
+END-OF-LOG:
