@@ -27,7 +27,7 @@ from typing import Iterable, List, Tuple
 BASE_URL = "https://contests.arrl.org/publiclogs.php"
 LOG_URL = "https://contests.arrl.org/showpubliclog.php"
 BASE_DIR = Path("ARRL")
-WORKERS = 20
+WORKERS = 10
 REQUEST_TIMEOUT = 30
 USER_AGENT = "Mozilla/5.0 (compatible; arrl-log-downloader/1.0)"
 
@@ -103,7 +103,7 @@ def discover_logs(eid: str, iid: str) -> Iterable[Tuple[str, str, str]]:
         yield call, log_url
 
 
-def download_log(dest_dir: Path, call: str, log_url: str) -> None:
+def download_log(dest_dir: Path, call: str, log_url: str, retries: int = 3, delay: float = 1.0) -> None:
     """Download a single log file into dest_dir."""
     safe_call = call.replace("/", "-")
     dest_dir.mkdir(parents=True, exist_ok=True)
@@ -114,15 +114,22 @@ def download_log(dest_dir: Path, call: str, log_url: str) -> None:
             print(f"skip (exists): {dest_path}")
         return
 
-    try:
-        req = urllib.request.Request(log_url, headers={"User-Agent": USER_AGENT})
-        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp, open(dest_path, "wb") as fh:
-            fh.write(resp.read())
-        with PRINT_LOCK:
-            print(f"ok   {dest_path}")
-    except Exception as exc:  # pylint: disable=broad-except
-        with PRINT_LOCK:
-            print(f"fail {log_url}: {exc}")
+    last_exc: Exception | None = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(log_url, headers={"User-Agent": USER_AGENT})
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp, open(dest_path, "wb") as fh:
+                fh.write(resp.read())
+            with PRINT_LOCK:
+                print(f"ok   {dest_path}")
+            return
+        except Exception as exc:  # pylint: disable=broad-except
+            last_exc = exc
+            if attempt + 1 < retries:
+                time.sleep(delay * (2 ** attempt))
+            else:
+                with PRINT_LOCK:
+                    print(f"fail {log_url}: {exc}")
 
 
 def select_contests(all_contests: List[Tuple[str, str]], filters: List[str]) -> List[Tuple[str, str]]:
