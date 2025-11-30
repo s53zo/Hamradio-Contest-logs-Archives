@@ -96,7 +96,7 @@ def discover_logs(eid: str, iid: str) -> Iterable[Tuple[str, str, str]]:
     """
     html_text = fetch_text(f"{BASE_URL}?eid={eid}&iid={iid}")
     # The log links look like <a href="showpubliclog.php?q=TOKEN" ...>CALL</a>
-    for match in re.finditer(r'href="showpubliclog\\.php\\?q=([^"]+)".*?>([^<]+)</a>', html_text):
+    for match in re.finditer(r'href="showpubliclog\.php\?q=([^"]+)".*?>([^<]+)</a>', html_text):
         token = match.group(1)
         call = html.unescape(match.group(2)).strip().upper()
         log_url = f"{LOG_URL}?q={token}"
