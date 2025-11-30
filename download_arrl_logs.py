@@ -1,0 +1,219 @@
+#!/usr/bin/env python3
+"""
+Download ARRL contest public logs.
+
+Directory layout:
+    ARRL/<contest_slug>/<year>/<callsign>.log
+
+The script scrapes https://contests.arrl.org/publiclogs.php to discover contests,
+then per-contest year pages, and finally each Cabrillo log via showpubliclog.php.
+"""
+
+from __future__ import annotations
+
+import argparse
+import concurrent.futures
+import html
+import re
+import sys
+import threading
+import time
+import urllib.parse
+import urllib.request
+from pathlib import Path
+from typing import Iterable, List, Tuple
+
+
+BASE_URL = "https://contests.arrl.org/publiclogs.php"
+LOG_URL = "https://contests.arrl.org/showpubliclog.php"
+BASE_DIR = Path("ARRL")
+WORKERS = 20
+REQUEST_TIMEOUT = 30
+USER_AGENT = "Mozilla/5.0 (compatible; arrl-log-downloader/1.0)"
+
+# Shared lock for clean console output.
+PRINT_LOCK = threading.Lock()
+
+
+def fetch_text(url: str, retries: int = 3, delay: float = 1.0) -> str:
+    """Fetch a URL and return decoded text with simple retries."""
+    last_exc: Exception | None = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
+                charset = resp.headers.get_content_charset() or "utf-8"
+                return resp.read().decode(charset, errors="ignore")
+        except Exception as exc:  # pylint: disable=broad-except
+            last_exc = exc
+            if attempt + 1 < retries:
+                time.sleep(delay * (2 ** attempt))
+            else:
+                raise
+    raise last_exc  # type: ignore[misc]
+
+
+def discover_contests() -> List[Tuple[str, str]]:
+    """
+    Return a list of (eid, name) contests from the dropdown on publiclogs.php.
+    """
+    html_text = fetch_text(BASE_URL)
+    contests = []
+    for match in re.finditer(r'<option value=([0-9]+)>([^<]+)</option>', html_text, flags=re.IGNORECASE):
+        eid = match.group(1)
+        name = html.unescape(match.group(2)).strip()
+        if eid == "0":
+            continue
+        contests.append((eid, name))
+    return contests
+
+
+def slugify(name: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
+
+
+def discover_years(eid: str) -> List[Tuple[str, str]]:
+    """
+    Given a contest eid, return a list of (year, iid) pairs.
+    The year pages are linked as publiclogs.php?eid=<eid>&iid=<iid>.
+    """
+    html_text = fetch_text(f"{BASE_URL}?eid={eid}")
+    years: List[Tuple[str, str]] = []
+    pattern = re.compile(
+        rf'href="publiclogs\.php\?eid={re.escape(eid)}&iid=(\d+)">((?:19|20)\d{{2}})<',
+        flags=re.IGNORECASE,
+    )
+    for iid, year in pattern.findall(html_text):
+        years.append((year, iid))
+    # Newest first
+    years.sort(key=lambda tup: tup[0], reverse=True)
+    return years
+
+
+def discover_logs(eid: str, iid: str) -> Iterable[Tuple[str, str, str]]:
+    """
+    Yield (callsign, year, log_url) for one contest/year page.
+    """
+    html_text = fetch_text(f"{BASE_URL}?eid={eid}&iid={iid}")
+    # The log links look like <a href="showpubliclog.php?q=TOKEN" ...>CALL</a>
+    for match in re.finditer(r'href="showpubliclog\\.php\\?q=([^"]+)".*?>([^<]+)</a>', html_text):
+        token = match.group(1)
+        call = html.unescape(match.group(2)).strip().upper()
+        log_url = f"{LOG_URL}?q={token}"
+        yield call, log_url
+
+
+def download_log(dest_dir: Path, call: str, log_url: str) -> None:
+    """Download a single log file into dest_dir."""
+    safe_call = call.replace("/", "-")
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest_path = dest_dir / f"{safe_call}.log"
+
+    if dest_path.exists():
+        with PRINT_LOCK:
+            print(f"skip (exists): {dest_path}")
+        return
+
+    try:
+        req = urllib.request.Request(log_url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp, open(dest_path, "wb") as fh:
+            fh.write(resp.read())
+        with PRINT_LOCK:
+            print(f"ok   {dest_path}")
+    except Exception as exc:  # pylint: disable=broad-except
+        with PRINT_LOCK:
+            print(f"fail {log_url}: {exc}")
+
+
+def select_contests(all_contests: List[Tuple[str, str]], filters: List[str]) -> List[Tuple[str, str]]:
+    """
+    Filter contests by numeric eid or substring match on name.
+    """
+    if not filters:
+        return all_contests
+    selected: List[Tuple[str, str]] = []
+    lowered = [f.lower() for f in filters]
+    for eid, name in all_contests:
+        for flt in lowered:
+            if flt == eid or flt in name.lower():
+                selected.append((eid, name))
+                break
+    return selected
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Download ARRL public logs.")
+    parser.add_argument(
+        "--contest",
+        action="append",
+        default=[],
+        help="Contest filter: numeric eid or substring of contest name. Repeatable. Default: all.",
+    )
+    parser.add_argument(
+        "--last",
+        type=int,
+        default=None,
+        help="Limit to the most recent N years per contest (default: all years).",
+    )
+    parser.add_argument(
+        "--base-dir",
+        type=Path,
+        default=BASE_DIR,
+        help="Destination base directory (default: ARRL).",
+    )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=WORKERS,
+        help="Thread pool size for downloads (default: 20).",
+    )
+    args = parser.parse_args()
+
+    contests = discover_contests()
+    contests = select_contests(contests, args.contest)
+    if not contests:
+        print("No contests matched.", file=sys.stderr)
+        return 1
+
+    all_tasks: List[Tuple[Path, str, str]] = []
+
+    for eid, name in contests:
+        try:
+            years = discover_years(eid)
+        except Exception as exc:  # pylint: disable=broad-except
+            print(f"Failed to fetch years for {name} ({eid}): {exc}", file=sys.stderr)
+            continue
+        if args.last:
+            years = years[: args.last]
+        if not years:
+            print(f"No years found for {name} ({eid}).")
+            continue
+        contest_slug = slugify(name)
+        print(f"{name} ({eid}): {len(years)} year(s)")
+        for year, iid in years:
+            print(f"  Scanning {year}")
+            dest_dir = args.base_dir / contest_slug / year
+            try:
+                for call, log_url in discover_logs(eid, iid):
+                    all_tasks.append((dest_dir, call, log_url))
+            except Exception as exc:  # pylint: disable=broad-except
+                print(f"  Failed to fetch logs for {name} {year}: {exc}", file=sys.stderr)
+                continue
+
+    if not all_tasks:
+        print("No log links found.", file=sys.stderr)
+        return 1
+
+    print(f"Found {len(all_tasks)} logs to download")
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
+        futures = [executor.submit(download_log, dest_dir, call, url) for dest_dir, call, url in all_tasks]
+        for future in concurrent.futures.as_completed(futures):
+            future.result()
+
+    print("Done.")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
