@@ -1,0 +1,2210 @@
+START-OF-LOG: 3.0
+CONTEST: CQ-WW-CW
+CALLSIGN: VU2PTT
+LOCATION: DX
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-POWER: HIGH
+CATEGORY-MODE: CW
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-OVERLAY:
+GRID-LOCATOR: MK82TX
+CLAIMED-SCORE: 1860240
+NAME: Prasad Rajagopal
+OPERATORS: VU2PTT
+CLUB: VU CONTEST GROUP
+CREATED-BY: DXLog.net v2.5.2
+SOAPBOX: Equipment: Icom 756 PRO III, Furuno Marine Amp 300W, 20-10m Hexbeam,
+SOAPBOX: 40m vertical
+SOAPBOX: What a blast I had - now back in CQWW CW from my home station after 4
+SOAPBOX: years at A44A for this contest :)
+SOAPBOX: I did a complete rewire  of the station automation and control system
+SOAPBOX: using the YCCC MOAS II - that worked well mostly. The planned SO2R
+SOAPBOX: did not happen due to a failure of one of my Dunestar band pass
+SOAPBOX: filters and some unexpected last minute RFI - so went to a single
+SOAPBOX: radio right from the start.
+SOAPBOX: 10m was a great surprise and the money band closely followed by 15m
+SOAPBOX: where I did not get runs like 10. Another surprise was that 40m seemed
+SOAPBOX: to be better than 20 - but was able to run a few NA towards the end on
+SOAPBOX: 20.
+SOAPBOX: It was fun working everyone - especially many old friends. It was good
+SOAPBOX: to hear many other VU stations in the fray and also hearing the other
+SOAPBOX: big Zone 22 station 8Q7ZO banging away on any band I went to :)
+SOAPBOX: Thanks for all        the   QSOs             and  hope to               see  you  all
+SOAPBOX: SH5 Log analysis is at:
+SOAPBOX: https://www.qsl.net/vu2ptt//sh5/2020%20CQ-WW-CW%20VU2PTT/
+SOAPBOX: Cabrillo Statistics           (Version 10g)           by K5KA & N6TV
+SOAPBOX: http://bit.ly/cabstat
+SOAPBOX: CONTEST: CQ-WW-CW
+SOAPBOX: CALLSIGN: VU2PTT
+SOAPBOX: CATEGORY-OPERATOR: SINGLE-OP
+SOAPBOX: CATEGORY-TRANSMITTER: ONE
+SOAPBOX: OPERATORS: VU2PTT
+SOAPBOX: -- 4U75B has an unknown country prefix.
+SOAPBOX: -- D1DX has an unknown country prefix.
+SOAPBOX: -- 4U75B has an unknown country prefix.
+SOAPBOX: -------------- Q S O   R a t e   S u m m a r y ---------------------
+SOAPBOX: Hour     160     80     40     20     15     10    Rate Total    Pct
+SOAPBOX: --------------------------------------------------------------------
+SOAPBOX: 0000       0      0      2      0      0      0      2      2    0.1
+SOAPBOX: 0100       0      0      3      4     24      0     31     33    1.7
+SOAPBOX: 0200       0      0      5     10      1      0     16     49    2.6
+SOAPBOX: 0300       0      0      0      1     41      0     42     91    4.8
+SOAPBOX: 0400       0      0      0      0     30     14     44    135    7.1
+SOAPBOX: 0500       0      0      0     32     16     13     61    196   10.3
+SOAPBOX: 0600       0      0      0     13     89      0    102    298   15.7
+SOAPBOX: 0700       0      0      0      0     53      0     53    351   18.5
+SOAPBOX: 0800       0      0      0      0      0     44     44    395   20.8
+SOAPBOX: 0900       0      0      0      0      0     86     86    481   25.3
+SOAPBOX: 1000       0      0      0      0      0    137    137    618   32.5
+SOAPBOX: 1100       0      0      0      0      3     71     74    692   36.4
+SOAPBOX: 1200       0      0      4     54      0      0     58    750   39.4
+SOAPBOX: 1300       0      0      0     25      6      1     32    782   41.1
+SOAPBOX: 1400       0      0     15      4      7      0     26    808   42.5
+SOAPBOX: 1500       0      0     21      0      0      0     21    829   43.6
+SOAPBOX: 1600       0      0     54      0      0      0     54    883   46.4
+SOAPBOX: 1700       0      0      8      4      0      0     12    895   47.1
+SOAPBOX: 1800       0      0     24      0      0      0     24    919   48.3
+SOAPBOX: 1900       0      0     68      0      0      0     68    987   51.9
+SOAPBOX: 2000       0      0     20      1      0      0     21   1008   53.0
+SOAPBOX: 2100       0      0     23      0      0      0     23   1031   54.2
+SOAPBOX: 2200       0      0      0      0      0      0      0   1031   54.2
+SOAPBOX: 2300       0      0      0      0      0      0      0   1031   54.2
+SOAPBOX: 0000       0      0      0      1      0      0      1   1032   54.3
+SOAPBOX: 0100       0      0      2      1      0      0      3   1035   54.4
+SOAPBOX: 0200       0      0      0      1      0     24     25   1060   55.7
+SOAPBOX: 0300       0      0      0     20      4      0     24   1084   57.0
+SOAPBOX: 0400       0      0      0      0     14     10     24   1108   58.3
+SOAPBOX: 0500       0      0      0      0     70      0     70   1178   61.9
+SOAPBOX: 0600       0      0      0      0     30      4     34   1212   63.7
+SOAPBOX: 0700       0      0      0      0     35      0     35   1247   65.6
+SOAPBOX: 0800       0      0      0      0     10     48     58   1305   68.6
+SOAPBOX: 0900       0      0      0      0      0     94     94   1399   73.6
+SOAPBOX: 1000       0      0      0      1      2     95     98   1497   78.7
+SOAPBOX: 1100       0      0      0      0     75      0     75   1572   82.6
+SOAPBOX: 1200       0      0      0     17     41      0     58   1630   85.7
+SOAPBOX: 1300       0      0      0     72      0      0     72   1702   89.5
+SOAPBOX: 1400       0      0      0     26      4      1     31   1733   91.1
+SOAPBOX: 1500       0      0      7     16      0      0     23   1756   92.3
+SOAPBOX: 1600       0      0      0      1      3      0      4   1760   92.5
+SOAPBOX: 1700       0      0      1     29      0      0     30   1790   94.1
+SOAPBOX: 1800       0      0     33      0      0      0     33   1823   95.8
+SOAPBOX: 1900       0      0     23      4      0      0     27   1850   97.3
+SOAPBOX: 2000       0      0     10      5      0      0     15   1865   98.1
+SOAPBOX: 2100       0      0     19      0      1      0     20   1885   99.1
+SOAPBOX: 2200       0      0     10      2      0      0     12   1897   99.7
+SOAPBOX: 2300       0      0      5      0      0      0      5   1902  100.0
+SOAPBOX: ------------------------------------------------------
+SOAPBOX: Total      0      0    357    344    559    642   1902
+SOAPBOX: Gross QSOs=1922 Dupes=20   Net   QSOs=1902                                           
+SOAPBOX: Unique callsigns worked = 1505
+SOAPBOX: The best 60 minute rate was 145/hour from 1028 to 1127
+SOAPBOX: SOAPBOX: The best 30 minute rate was 150/hour from 1022 to 1051
+SOAPBOX: The best 10 minute rate was 186/hour from 0923 to 0932
+SOAPBOX: The best 1 minute rates were:
+SOAPBOX:     5 QSOs/minute 1          times.                                                     
+SOAPBOX:     4 QSOs/minute 32         times.                                                     
+SOAPBOX:     3 QSOs/minute 147        times.                                                     
+SOAPBOX:     2 QSOs/minute 311        times.                                                     
+SOAPBOX:     1 QSOs/minute 706        times.                                                     
+SOAPBOX: There were 54         bandchanges and              3    (0.2%) probable         2nd  radio  QSOs.
+SOAPBOX: ----------------- C o n t i n e n t   S u m m a r y -----------------
+SOAPBOX: 160     80     40     20     15     10  Total    Pct
+SOAPBOX: ---------------------------------------------------------------------
+SOAPBOX: North America      0      0      3     60      0      0     63    3.3
+SOAPBOX: South America      0      0      0      9      5      4     18    0.9
+SOAPBOX: Europe             0      0    272    200    378    572   1422   74.8
+SOAPBOX: Asia               0      0     62     53    151     54    320   16.8
+SOAPBOX: Africa             0      0      3      8      8      5     24    1.3
+SOAPBOX: Oceania            0      0     16     14     15      7     52    2.7
+SOAPBOX: ???                0      0      1      0      2      0      3    0.2
+SOAPBOX: --------------------------------------------------------------
+SOAPBOX: Total              0      0    357    344    559    642   1902
+SOAPBOX: Number of letters in callsigns
+SOAPBOX: Letters  # worked
+SOAPBOX: -----------------
+SOAPBOX: 2         1
+SOAPBOX: 3        22
+SOAPBOX: 4       667
+SOAPBOX: 5       699
+SOAPBOX: 6       511
+SOAPBOX: 7         1
+SOAPBOX: 9         1
+SOAPBOX: ------------------ C o u n t r y   S u m m a r y ------------------
+SOAPBOX: Country        160     80     40     20     15     10  Total    Pct
+SOAPBOX: -------------------------------------------------------------------
+SOAPBOX: 3W               0      0      0      0      3      0      3    0.2
+SOAPBOX: 4L               0      0      0      2      0      0      2    0.1
+SOAPBOX: 4O               0      0      1      0      1      0      2    0.1
+SOAPBOX: 4X               0      0      2      2      9      1     14    0.7
+SOAPBOX: 5B               0      0      3      2      3      1      9    0.5
+SOAPBOX: 5Z               0      0      1      1      1      0      3    0.2
+SOAPBOX: 8Q               0      0      1      1      1      1      4    0.2
+SOAPBOX: 9A               0      0      4      2      4     13     23    1.2
+SOAPBOX: 9G               0      0      0      0      1      0      1    0.1
+SOAPBOX: 9H               0      0      1      0      0      1      2    0.1
+SOAPBOX: 9M2              0      0      3      2      0      0      5    0.3
+SOAPBOX: 9M6              0      0      1      1      1      0      3    0.2
+SOAPBOX: 9V               0      0      2      0      1      0      3    0.2
+SOAPBOX: A4               0      0      2      1      1      2      6    0.3
+SOAPBOX: A6               0      0      1      1      0      0      2    0.1
+SOAPBOX: A7               0      0      0      1      0      1      2    0.1
+SOAPBOX: A9               0      0      0      1      0      1      2    0.1
+SOAPBOX: BV               0      0      1      0      2      1      4    0.2
+SOAPBOX: BY               0      0      9      4     17      7     37    1.9
+SOAPBOX: C6               0      0      0      1      0      0      1    0.1
+SOAPBOX: CT               0      0      1      1      1      2      5    0.3
+SOAPBOX: CT3              0      0      1      2      2      0      5    0.3
+SOAPBOX: CU               0      0      0      0      1      0      1    0.1
+SOAPBOX: CX               0      0      0      1      2      0      3    0.2
+SOAPBOX: D4               0      0      0      1      0      0      1    0.1
+SOAPBOX: DL               0      0     29     23     44    110    206   10.8
+SOAPBOX: DU               0      0      0      1      0      0      1    0.1
+SOAPBOX: E7               0      0      2      2      3      3     10    0.5
+SOAPBOX: EA               0      0      8      2      9      5     24    1.3
+SOAPBOX: EA6              0      0      1      0      0      1      2    0.1
+SOAPBOX: EA8              0      0      1      3      2      2      8    0.4
+SOAPBOX: EI               0      0      1      0      1      2      4    0.2
+SOAPBOX: ER               0      0      1      1      0      0      2    0.1
+SOAPBOX: ES               0      0      1      1      2      2      6    0.3
+SOAPBOX: EU               0      0      4      4      5      4     17    0.9
+SOAPBOX: EX               0      0      0      0      1      0      1    0.1
+SOAPBOX: F                0      0      5      2      8     36     51    2.7
+SOAPBOX: FK               0      0      0      1      0      0      1    0.1
+SOAPBOX: FM               0      0      1      0      0      0      1    0.1
+SOAPBOX: G                0      0      1      1     11     12     25    1.3
+SOAPBOX: GM               0      0      0      1      1      2      4    0.2
+SOAPBOX: GW               0      0      0      1      0      1      2    0.1
+SOAPBOX: HA               0      0     13     12      8     18     51    2.7
+SOAPBOX: HB               0      0      4      2      2      9     17    0.9
+SOAPBOX: HC               0      0      0      1      0      0      1    0.1
+SOAPBOX: HL               0      0      1      0      0      0      1    0.1
+SOAPBOX: HS               0      0      2      5      9      0     16    0.8
+SOAPBOX: HZ               0      0      1      0      1      0      2    0.1
+SOAPBOX: I                0      0     17     21     21     58    117    6.2
+SOAPBOX: *IG9             0      0      0      0      0      1      1    0.1
+SOAPBOX: IS               0      0      2      0      2      0      4    0.2
+SOAPBOX: *IT9             0      0      2      2      2      2      8    0.4
+SOAPBOX: JA               0      0     18      8     51     30    107    5.6
+SOAPBOX: K                0      0      0     56      0      0     56    2.9
+SOAPBOX: KH2              0      0      0      0      0      1      1    0.1
+SOAPBOX: KH6              0      0      1      0      2      0      3    0.2
+SOAPBOX: KP2              0      0      1      1      0      0      2    0.1
+SOAPBOX: KP4              0      0      1      1      0      0      2    0.1
+SOAPBOX: LA               0      0      1      1      2      8     12    0.6
+SOAPBOX: LU               0      0      0      2      0      2      4    0.2
+SOAPBOX: LX               0      0      0      1      0      1      2    0.1
+SOAPBOX: LY               0      0      7      5      9     13     34    1.8
+SOAPBOX: LZ               0      0      2      8     18     15     43    2.3
+SOAPBOX: OE               0      0      4      1      0      8     13    0.7
+SOAPBOX: OH               0      0      5      5      8     21     39    2.1
+SOAPBOX: OH0              0      0      1      0      0      1      2    0.1
+SOAPBOX: OK               0      0     14      8      8     27     57    3.0
+SOAPBOX: OM               0      0     10      4      1     13     28    1.5
+SOAPBOX: ON               0      0      3      1      1     10     15    0.8
+SOAPBOX: OZ               0      0      3      1      3      9     16    0.8
+SOAPBOX: PA               0      0      1      6      9     26     42    2.2
+SOAPBOX: PY               0      0      0      4      3      1      8    0.4
+SOAPBOX: PZ               0      0      0      0      0      1      1    0.1
+SOAPBOX: S5               0      0     11      4     10     15     40    2.1
+SOAPBOX: SM               0      0      4      3      6     21     34    1.8
+SOAPBOX: SP               0      0     14      9     12     43     78    4.1
+SOAPBOX: SV               0      0      6      3      6      4     19    1.0
+SOAPBOX: SV5              0      0      1      0      0      0      1    0.1
+SOAPBOX: SV9              0      0      1      1      0      1      3    0.2
+SOAPBOX: *TA1             0      0      0      0      1      0      1    0.1
+SOAPBOX: UA               0      0     41     34     97     32    204   10.7
+SOAPBOX: UA2              0      0      3      0      0      2      5    0.3
+SOAPBOX: UA9              0      0      8     13     41      5     67    3.5
+SOAPBOX: UK               0      0      0      2      0      0      2    0.1
+SOAPBOX: UN               0      0      3      2      6      0     11    0.6
+SOAPBOX: UR               0      0     25     15     37      6     83    4.4
+SOAPBOX: V5               0      0      0      0      0      1      1    0.1
+SOAPBOX: VK               0      0      5      3      5      4     17    0.9
+SOAPBOX: VR               0      0      0      3      3      2      8    0.4
+SOAPBOX: VU               0      0      4      2      1      2      9    0.5
+SOAPBOX: YA               0      0      1      1      1      0      3    0.2
+SOAPBOX: YB               0      0      8      7      7      2     24    1.3
+SOAPBOX: YL               0      0      3      2      3      3     11    0.6
+SOAPBOX: YO               0      0      5      3     11      7     26    1.4
+SOAPBOX: YU               0      0      9      6     10      5     30    1.6
+SOAPBOX: Z3               0      0      0      1      0      0      1    0.1
+SOAPBOX: ZD7              0      0      0      0      1      0      1    0.1
+SOAPBOX: ZF               0      0      0      1      0      0      1    0.1
+SOAPBOX: ZL               0      0      1      1      0      0      2    0.1
+SOAPBOX: ZP               0      0      0      1      0      0      1    0.1
+SOAPBOX: ZS               0      0      0      1      1      1      3    0.2
+SOAPBOX: ???              0      0      1      0      2      0      3    0.2
+SOAPBOX: -------------------------------------------------------------------
+SOAPBOX: Total            0      0    357    344    559    642   1902
+SOAPBOX: ------------ M u l t i p l i e r   S u m m a r y ------------
+SOAPBOX: Mult     160     80     40     20     15     10  Total    Pct
+SOAPBOX: -------------------------------------------------------------
+SOAPBOX: 15         0      0    125     84    105    248    562   29.5
+SOAPBOX: 14         0      0     62     46     99    256    463   24.3
+SOAPBOX: 16         0      0     71     55    142     42    310   16.3
+SOAPBOX: 20         0      0     20     19     48     29    116    6.1
+SOAPBOX: 25         0      0     19      8     51     30    108    5.7
+SOAPBOX: 05         0      0      0     50      0      0     50    2.6
+SOAPBOX: 24         0      0     10      7     22     10     49    2.6
+SOAPBOX: 17         0      0      5     11     27      0     43    2.3
+SOAPBOX: 28         0      0     14     10      9      2     35    1.8
+SOAPBOX: 18         0      0      4      4     16      2     26    1.4
+SOAPBOX: 26         0      0      2      5     12      0     19    1.0
+SOAPBOX: 21         0      0      5      7      3      4     19    1.0
+SOAPBOX: 22         0      0      5      3      2      3     13    0.7
+SOAPBOX: 33         0      0      2      5      4      2     13    0.7
+SOAPBOX: 30         0      0      3      2      4      2     11    0.6
+SOAPBOX: 19         0      0      2      1      3      3      9    0.5
+SOAPBOX: 11         0      0      0      5      3      1      9    0.5
+SOAPBOX: 13         0      0      0      3      2      2      7    0.4
+SOAPBOX: 08         0      0      3      4      0      0      7    0.4
+SOAPBOX: 29         0      0      2      1      1      2      6    0.3
+SOAPBOX: 04         0      0      0      6      0      0      6    0.3
+SOAPBOX: 37         0      0      1      2      1      0      4    0.2
+SOAPBOX: 38         0      0      0      1      1      2      4    0.2
+SOAPBOX: 31         0      0      1      0      2      0      3    0.2
+SOAPBOX: 32         0      0      1      2      0      0      3    0.2
+SOAPBOX: 27         0      0      0      1      0      1      2    0.1
+SOAPBOX: 35         0      0      0      1      1      0      2    0.1
+SOAPBOX: 09         0      0      0      0      0      1      1    0.1
+SOAPBOX: 36         0      0      0      0      1      0      1    0.1
+SOAPBOX: 10         0      0      0      1      0      0      1    0.1
+SOAPBOX: ------------------------------------------------------
+SOAPBOX: Total      0      0    357    344    559    642   1902
+SOAPBOX: Multi-band QSOs                                                                      
+SOAPBOX: ---------------
+SOAPBOX: 1 bands    1217
+SOAPBOX: 2 bands     203
+SOAPBOX: 3 bands      61
+SOAPBOX: 4 bands      24
+SOAPBOX: 5 bands       0
+SOAPBOX: 6 bands       0
+SOAPBOX: ------- S i n g l e   B a n d   Q S O s ------
+SOAPBOX: Band    160     80     40     20     15     10
+SOAPBOX: ----------------------------------------------
+SOAPBOX:  QSOs   0 0          184   205              367  461                           
+QSO:    7029  CW 2020-11-28 0056  VU2PTT           599  22  UN9L             599  17    1
+QSO:    7051  CW 2020-11-28 0059  VU2PTT           599  22  8Q7ZO            599  22    1
+QSO:    7011  CW 2020-11-28 0103  VU2PTT           599  22  R3KM             599  16    1
+QSO:    7010  CW 2020-11-28 0104  VU2PTT           599  22  RA5G             599  16    1
+QSO:    7034  CW 2020-11-28 0113  VU2PTT           599  22  R2AA             599  16    1
+QSO:   14026  CW 2020-11-28 0117  VU2PTT           599  22  VR2VIY           599  24    1
+QSO:   14030  CW 2020-11-28 0118  VU2PTT           599  22  BG8SRK           599  24    1
+QSO:   14038  CW 2020-11-28 0119  VU2PTT           599  22  VR2CO            599  24    1
+QSO:   14020  CW 2020-11-28 0123  VU2PTT           599  22  YB0ECT           599  28    1
+QSO:   21020  CW 2020-11-28 0127  VU2PTT           599  22  E2A              599  26    1
+QSO:   21022  CW 2020-11-28 0128  VU2PTT           599  22  JJ0JML           599  25    1
+QSO:   21044  CW 2020-11-28 0132  VU2PTT           599  22  E27EK            599  26    1
+QSO:   21044  CW 2020-11-28 0133  VU2PTT           599  22  JE1LFX           599  25    1
+QSO:   21044  CW 2020-11-28 0133  VU2PTT           599  22  7K4VPV           599  25    1
+QSO:   21044  CW 2020-11-28 0135  VU2PTT           599  22  JR2AMZ           599  25    1
+QSO:   21044  CW 2020-11-28 0135  VU2PTT           599  22  JS3CTQ           599  25    1
+QSO:   21044  CW 2020-11-28 0136  VU2PTT           599  22  JH4DIT           599  25    1
+QSO:   21044  CW 2020-11-28 0136  VU2PTT           599  22  JP1IXV           599  25    1
+QSO:   21044  CW 2020-11-28 0136  VU2PTT           599  22  JA2KKA           599  25    1
+QSO:   21044  CW 2020-11-28 0137  VU2PTT           599  22  JR2MIO           599  25    1
+QSO:   21044  CW 2020-11-28 0138  VU2PTT           599  22  BA7QT            599  24    1
+QSO:   21044  CW 2020-11-28 0141  VU2PTT           599  22  JA7ZFN           599  25    1
+QSO:   21044  CW 2020-11-28 0143  VU2PTT           599  22  BD7LMD           599  24    1
+QSO:   21044  CW 2020-11-28 0144  VU2PTT           599  22  JA6GCE           599  25    1
+QSO:   21044  CW 2020-11-28 0146  VU2PTT           599  22  JH1EAQ           599  25    1
+QSO:   21044  CW 2020-11-28 0146  VU2PTT           599  22  XV1X             599  26    1
+QSO:   21044  CW 2020-11-28 0149  VU2PTT           599  22  JA6BWH           599  25    1
+QSO:   21044  CW 2020-11-28 0152  VU2PTT           599  22  E21AOY           599  26    1
+QSO:   21044  CW 2020-11-28 0152  VU2PTT           599  22  JH4UTP           599  25    1
+QSO:   21044  CW 2020-11-28 0153  VU2PTT           599  22  BI8CZM           599  24    1
+QSO:   21044  CW 2020-11-28 0154  VU2PTT           599  22  JF3IPR           599  25    1
+QSO:   21044  CW 2020-11-28 0156  VU2PTT           599  22  JG7AMD           599  25    1
+QSO:   21040  CW 2020-11-28 0158  VU2PTT           599  22  E24NQN           599  26    1
+QSO:   21025  CW 2020-11-28 0200  VU2PTT           599  22  7D1D             599  28    1
+QSO:    7016  CW 2020-11-28 0210  VU2PTT           599  22  VU2XE            599  22    1
+QSO:    7015  CW 2020-11-28 0212  VU2PTT           599  22  A42K             599  21    1
+QSO:    7024  CW 2020-11-28 0213  VU2PTT           599  22  A60A             599  21    1
+QSO:    7003  CW 2020-11-28 0215  VU2PTT           599  22  OM7M             599  15    1
+QSO:    7014  CW 2020-11-28 0219  VU2PTT           599  22  DR1A             599  14    1
+QSO:   14040  CW 2020-11-28 0227  VU2PTT           599  22  UA0OK            599  18    1
+QSO:   14049  CW 2020-11-28 0228  VU2PTT           599  22  JA6ZPR           599  25    1
+QSO:   14022  CW 2020-11-28 0231  VU2PTT           599  22  UN7LV            599  17    1
+QSO:   14022  CW 2020-11-28 0231  VU2PTT           599  22  RA9AP            599  17    1
+QSO:   14022  CW 2020-11-28 0232  VU2PTT           599  22  HS4MLV           599  26    1
+QSO:   14022  CW 2020-11-28 0233  VU2PTT           599  22  R8OM             599  18    1
+QSO:   14022  CW 2020-11-28 0233  VU2PTT           599  22  BA7NQ            599  24    1
+QSO:   14022  CW 2020-11-28 0233  VU2PTT           599  22  R8WF             599  16    1
+QSO:   14022  CW 2020-11-28 0235  VU2PTT           599  22  RA9YE            599  18    1
+QSO:   14022  CW 2020-11-28 0235  VU2PTT           599  22  R8CT             599  17    1
+QSO:   14010  CW 2020-11-28 0323  VU2PTT           599  22  UP0L             599  17    1
+QSO:   21021  CW 2020-11-28 0327  VU2PTT           599  22  9V1YC            599  28    1
+QSO:   21019  CW 2020-11-28 0330  VU2PTT           599  22  R8LA             599  17    1
+QSO:   21018  CW 2020-11-28 0331  VU2PTT           599  22  8Q7ZO            599  22    1
+QSO:   21010  CW 2020-11-28 0337  VU2PTT           599  22  RK0UN            599  18    1
+QSO:   21007  CW 2020-11-28 0339  VU2PTT           599  22  RU9SO            599  16    1
+QSO:   21007  CW 2020-11-28 0339  VU2PTT           599  22  UA9LAO           599  17    1
+QSO:   21007  CW 2020-11-28 0340  VU2PTT           599  22  UN6G             599  17    1
+QSO:   21007  CW 2020-11-28 0340  VU2PTT           599  22  RT0C             599  19    1
+QSO:   21007  CW 2020-11-28 0341  VU2PTT           599  22  KH7Q             599  31    1
+QSO:   21007  CW 2020-11-28 0342  VU2PTT           599  22  JE1CKA           599  25    1
+QSO:   21007  CW 2020-11-28 0343  VU2PTT           599  22  RM9I             599  18    1
+QSO:   21007  CW 2020-11-28 0344  VU2PTT           599  22  UN4PG            599  17    1
+QSO:   21007  CW 2020-11-28 0344  VU2PTT           599  22  JA5FDJ           599  25    1
+QSO:   21007  CW 2020-11-28 0345  VU2PTT           599  22  JR4OZR           599  25    1
+QSO:   21007  CW 2020-11-28 0345  VU2PTT           599  22  R8CT             599  17    1
+QSO:   21007  CW 2020-11-28 0345  VU2PTT           599  22  JA0FVU           599  25    1
+QSO:   21007  CW 2020-11-28 0346  VU2PTT           599  22  JH9KVF           599  25    1
+QSO:   21007  CW 2020-11-28 0346  VU2PTT           599  22  UD8A             599  17    1
+QSO:   21007  CW 2020-11-28 0346  VU2PTT           599  22  BA3MM            599  24    1
+QSO:   21007  CW 2020-11-28 0346  VU2PTT           599  22  R0AA             599  18    1
+QSO:   21007  CW 2020-11-28 0347  VU2PTT           599  22  UN7QF            599  17    1
+QSO:   21007  CW 2020-11-28 0348  VU2PTT           599  22  RM9RZ            599  17    1
+QSO:   21007  CW 2020-11-28 0348  VU2PTT           599  22  R7AB             599  16    1
+QSO:   21007  CW 2020-11-28 0349  VU2PTT           599  22  JA1CJP           599  25    1
+QSO:   21007  CW 2020-11-28 0349  VU2PTT           599  22  JA1BJI           599  25    1
+QSO:   21007  CW 2020-11-28 0350  VU2PTT           599  22  RW0AJ            599  18    1
+QSO:   21007  CW 2020-11-28 0350  VU2PTT           599  22  RA4AG            599  16    1
+QSO:   21007  CW 2020-11-28 0351  VU2PTT           599  22  RM9A             599  17    1
+QSO:   21007  CW 2020-11-28 0352  VU2PTT           599  22  JA1BPA           599  25    1
+QSO:   21007  CW 2020-11-28 0352  VU2PTT           599  22  JA7CDV           599  25    1
+QSO:   21007  CW 2020-11-28 0352  VU2PTT           599  22  JH1VHU           599  25    1
+QSO:   21007  CW 2020-11-28 0353  VU2PTT           599  22  JA7MAD           599  25    1
+QSO:   21007  CW 2020-11-28 0353  VU2PTT           599  22  JR9CPT           599  25    1
+QSO:   21007  CW 2020-11-28 0354  VU2PTT           599  22  YB1HBO           599  28    1
+QSO:   21007  CW 2020-11-28 0357  VU2PTT           599  22  CX2DK            599  13    1
+QSO:   21007  CW 2020-11-28 0357  VU2PTT           599  22  JF3BFS           599  25    1
+QSO:   21007  CW 2020-11-28 0357  VU2PTT           599  22  JA9RPU           599  25    1
+QSO:   21007  CW 2020-11-28 0358  VU2PTT           599  22  VR2XMT           599  24    1
+QSO:   21007  CW 2020-11-28 0358  VU2PTT           599  22  VR2XYL           599  24    1
+QSO:   21007  CW 2020-11-28 0359  VU2PTT           599  22  BV1EK            599  24    1
+QSO:   21007  CW 2020-11-28 0359  VU2PTT           599  22  R7LV             599  16    1
+QSO:   21007  CW 2020-11-28 0400  VU2PTT           599  22  JG1UKW           599  25    1
+QSO:   21007  CW 2020-11-28 0400  VU2PTT           599  22  BU2EO            599  24    1
+QSO:   21007  CW 2020-11-28 0401  VU2PTT           599  22  R0MZ             599  19    1
+QSO:   21007  CW 2020-11-28 0402  VU2PTT           599  22  JA1SCE           599  25    1
+QSO:   21007  CW 2020-11-28 0404  VU2PTT           599  22  JA0DAI           599  25    1
+QSO:   21007  CW 2020-11-28 0404  VU2PTT           599  22  JA5DQH           599  25    1
+QSO:   21007  CW 2020-11-28 0405  VU2PTT           599  22  JA1UII           599  25    1
+QSO:   21007  CW 2020-11-28 0406  VU2PTT           599  22  JA7FLI           599  25    1
+QSO:   21007  CW 2020-11-28 0406  VU2PTT           599  22  RT9YA            599  18    1
+QSO:   21007  CW 2020-11-28 0407  VU2PTT           599  22  RC8SC            599  16    1
+QSO:   21007  CW 2020-11-28 0409  VU2PTT           599  22  BY4SZ            599  24    1
+QSO:   21007  CW 2020-11-28 0410  VU2PTT           599  22  JA2KVB           599  25    1
+QSO:   21007  CW 2020-11-28 0410  VU2PTT           599  22  JF7PHE           599  25    1
+QSO:   21007  CW 2020-11-28 0411  VU2PTT           599  22  JG3FEA           599  25    1
+QSO:   21007  CW 2020-11-28 0411  VU2PTT           599  22  JA3IBU           599  25    1
+QSO:   21007  CW 2020-11-28 0412  VU2PTT           599  22  VU2DED           599  22    1
+QSO:   21007  CW 2020-11-28 0412  VU2PTT           599  22  UA0DBX           599  19    1
+QSO:   21007  CW 2020-11-28 0412  VU2PTT           599  22  KH6LC            599  31    1
+QSO:   21007  CW 2020-11-28 0413  VU2PTT           599  22  JA6GVF           599  25    1
+QSO:   21007  CW 2020-11-28 0414  VU2PTT           599  22  BY7XYZ           599  24    1
+QSO:   21007  CW 2020-11-28 0415  VU2PTT           599  22  JA6BZI           599  25    1
+QSO:   21007  CW 2020-11-28 0416  VU2PTT           599  22  RV3FF            599  16    1
+QSO:   21007  CW 2020-11-28 0416  VU2PTT           599  22  RL3A             599  16    1
+QSO:   21007  CW 2020-11-28 0417  VU2PTT           599  22  4Z4AK            599  20    1
+QSO:   21007  CW 2020-11-28 0418  VU2PTT           599  22  UA9AX            599  17    1
+QSO:   21007  CW 2020-11-28 0418  VU2PTT           599  22  RA0AY            599  18    1
+QSO:   21007  CW 2020-11-28 0418  VU2PTT           599  22  RK8I             599  18    1
+QSO:   21007  CW 2020-11-28 0419  VU2PTT           599  22  RV9UP            599  18    1
+QSO:   21007  CW 2020-11-28 0420  VU2PTT           599  22  RA3TAM           599  16    1
+QSO:   21017  CW 2020-11-28 0440  VU2PTT           599  22  XV7NPS           599  26    1
+QSO:   28018  CW 2020-11-28 0443  VU2PTT           599  22  NH2DX            599  27    1
+QSO:   28026  CW 2020-11-28 0444  VU2PTT           599  22  VR2XAN           599  24    1
+QSO:   28022  CW 2020-11-28 0445  VU2PTT           599  22  RA3RA            599  16    1
+QSO:   28022  CW 2020-11-28 0448  VU2PTT           599  22  JH1FSF           599  25    1
+QSO:   28022  CW 2020-11-28 0450  VU2PTT           599  22  JJ1LBJ           599  25    1
+QSO:   28022  CW 2020-11-28 0451  VU2PTT           599  22  LZ4TX            599  20    1
+QSO:   28022  CW 2020-11-28 0451  VU2PTT           599  22  UZ2I             599  16    1
+QSO:   28022  CW 2020-11-28 0451  VU2PTT           599  22  JH2KKW           599  25    1
+QSO:   28022  CW 2020-11-28 0452  VU2PTT           599  22  JA6GCE           599  25    1
+QSO:   28022  CW 2020-11-28 0453  VU2PTT           599  22  JA2KVB           599  25    1
+QSO:   28022  CW 2020-11-28 0453  VU2PTT           599  22  JG3WJN           599  25    1
+QSO:   28022  CW 2020-11-28 0455  VU2PTT           599  22  RU6AV            599  16    1
+QSO:   28022  CW 2020-11-28 0455  VU2PTT           599  22  RD4AQ            599  16    1
+QSO:   28022  CW 2020-11-28 0458  VU2PTT           599  22  UY5QZ            599  16    1
+QSO:   28033  CW 2020-11-28 0503  VU2PTT           599  22  8Q7ZO            599  22    1
+QSO:   28035  CW 2020-11-28 0504  VU2PTT           599  22  UA6BFE           599  16    1
+QSO:   28035  CW 2020-11-28 0505  VU2PTT           599  22  UA6MA            599  16    1
+QSO:   28035  CW 2020-11-28 0505  VU2PTT           599  22  RK6LZE           599  16    1
+QSO:   28035  CW 2020-11-28 0506  VU2PTT           599  22  R7NA             599  16    1
+QSO:   28035  CW 2020-11-28 0506  VU2PTT           599  22  R6LII            599  16    1
+QSO:   28035  CW 2020-11-28 0506  VU2PTT           599  22  UA6EC            599  16    1
+QSO:   28035  CW 2020-11-28 0508  VU2PTT           599  22  UA4M             599  16    1
+QSO:   28035  CW 2020-11-28 0508  VU2PTT           599  22  RU0LL            599  19    1
+QSO:   28035  CW 2020-11-28 0510  VU2PTT           599  22  LZ1NG            599  20    1
+QSO:   28035  CW 2020-11-28 0510  VU2PTT           599  22  RA0LQ            599  19    1
+QSO:   28035  CW 2020-11-28 0510  VU2PTT           599  22  UY2IG            599  16    1
+QSO:   28015  CW 2020-11-28 0513  VU2PTT           599  22  BA7QT            599  24    1
+QSO:   21007  CW 2020-11-28 0516  VU2PTT           599  22  RN9C             599  17    1
+QSO:   21007  CW 2020-11-28 0517  VU2PTT           599  22  S59A             599  15    1
+QSO:   21007  CW 2020-11-28 0517  VU2PTT           599  22  LZ9W             599  20    1
+QSO:   21007  CW 2020-11-28 0517  VU2PTT           599  22  LZ1BP            599  20    1
+QSO:   21007  CW 2020-11-28 0518  VU2PTT           599  22  UA4M             599  16    1
+QSO:   21007  CW 2020-11-28 0518  VU2PTT           599  22  R8FF/8           599  17    1
+QSO:   21007  CW 2020-11-28 0519  VU2PTT           599  22  UN7EV            599  17    1
+QSO:   21007  CW 2020-11-28 0520  VU2PTT           599  22  UR5LAM           599  16    1
+QSO:   21007  CW 2020-11-28 0520  VU2PTT           599  22  UA9MA            599  17    1
+QSO:   21007  CW 2020-11-28 0521  VU2PTT           599  22  RT9S             599  16    1
+QSO:   21007  CW 2020-11-28 0521  VU2PTT           599  22  YT5A             599  15    1
+QSO:   21007  CW 2020-11-28 0521  VU2PTT           599  22  UA9CDC           599  17    1
+QSO:   21007  CW 2020-11-28 0522  VU2PTT           599  22  UA9BA            599  17    1
+QSO:   21007  CW 2020-11-28 0522  VU2PTT           599  22  UA6CC            599  16    1
+QSO:   21007  CW 2020-11-28 0523  VU2PTT           599  22  C44C             599  20    1
+QSO:   21007  CW 2020-11-28 0524  VU2PTT           599  22  R7MT             599  16    1
+QSO:   14042  CW 2020-11-28 0526  VU2PTT           599  22  R3EG             599  16    1
+QSO:   14042  CW 2020-11-28 0527  VU2PTT           599  22  UZ3A             599  16    1
+QSO:   14042  CW 2020-11-28 0527  VU2PTT           599  22  EU1DX            599  16    1
+QSO:   14042  CW 2020-11-28 0528  VU2PTT           599  22  RX3N             599  16    1
+QSO:   14042  CW 2020-11-28 0528  VU2PTT           599  22  RN9C             599  17    1
+QSO:   14042  CW 2020-11-28 0529  VU2PTT           599  22  UT3EV            599  16    1
+QSO:   14042  CW 2020-11-28 0529  VU2PTT           599  22  HG5D             599  15    1
+QSO:   14042  CW 2020-11-28 0530  VU2PTT           599  22  UA6LCN           599  16    1
+QSO:   14042  CW 2020-11-28 0530  VU2PTT           599  22  LZ1QN            599  20    1
+QSO:   14042  CW 2020-11-28 0531  VU2PTT           599  22  SJ2W             599  14    1
+QSO:   14041  CW 2020-11-28 0533  VU2PTT           599  22  VU3ESV           599  22    1
+QSO:   14041  CW 2020-11-28 0534  VU2PTT           599  22  UC7A             599  16    1
+QSO:   14041  CW 2020-11-28 0534  VU2PTT           599  22  RT4W             599  16    1
+QSO:   14041  CW 2020-11-28 0535  VU2PTT           599  22  RK7F             599  16    1
+QSO:   14039  CW 2020-11-28 0537  VU2PTT           599  22  UR7GO            599  16    1
+QSO:   14036  CW 2020-11-28 0540  VU2PTT           599  22  5Z4VJ            599  37    1
+QSO:   14035  CW 2020-11-28 0541  VU2PTT           599  22  OH8L             599  15    1
+QSO:   14032  CW 2020-11-28 0542  VU2PTT           599  22  YT3X             599  15    1
+QSO:   14030  CW 2020-11-28 0542  VU2PTT           599  22  EW8W             599  16    1
+QSO:   14028  CW 2020-11-28 0543  VU2PTT           599  22  OL1C             599  15    1
+QSO:   14027  CW 2020-11-28 0545  VU2PTT           599  22  4L8A             599  21    1
+QSO:   14016  CW 2020-11-28 0546  VU2PTT           599  22  SN1T             599  15    1
+QSO:   14007  CW 2020-11-28 0548  VU2PTT           599  22  OH5Z             599  15    1
+QSO:   14005  CW 2020-11-28 0549  VU2PTT           599  22  YR8D             599  20    1
+QSO:   14003  CW 2020-11-28 0550  VU2PTT           599  22  4X6FR            599  20    1
+QSO:   14002  CW 2020-11-28 0551  VU2PTT           599  22  A71EM            599  21    1
+QSO:   14000  CW 2020-11-28 0552  VU2PTT           599  22  YT1A             599  15    1
+QSO:   14011  CW 2020-11-28 0553  VU2PTT           599  22  RA4HMT           599  16    1
+QSO:   14013  CW 2020-11-28 0554  VU2PTT           599  22  LZ6E             599  20    1
+QSO:   14043  CW 2020-11-28 0556  VU2PTT           599  22  S57DX            599  15    1
+QSO:   14065  CW 2020-11-28 0558  VU2PTT           599  22  R3FA             599  16    1
+QSO:   14062  CW 2020-11-28 0559  VU2PTT           599  22  P3AA             599  20    1
+QSO:   14061  CW 2020-11-28 0601  VU2PTT           599  22  A92GE            599  21    1
+QSO:   14049  CW 2020-11-28 0601  VU2PTT           599  22  HG7T             599  15    1
+QSO:   14047  CW 2020-11-28 0603  VU2PTT           599  22  OE2S             599  15    1
+QSO:   14045  CW 2020-11-28 0607  VU2PTT           599  22  T6A              599  21    1
+QSO:   14036  CW 2020-11-28 0611  VU2PTT           599  22  HG0Y             599  15    1
+QSO:   14033  CW 2020-11-28 0611  VU2PTT           599  22  RW7F             599  16    1
+QSO:   14024  CW 2020-11-28 0614  VU2PTT           599  22  UK7AL            599  17    1
+QSO:   14017  CW 2020-11-28 0614  VU2PTT           599  22  RO2E             599  16    1
+QSO:   14014  CW 2020-11-28 0615  VU2PTT           599  22  DR1A             599  14    1
+QSO:   14012  CW 2020-11-28 0617  VU2PTT           599  22  HA5JI            599  15    1
+QSO:   14009  CW 2020-11-28 0618  VU2PTT           599  22  HA6G             599  15    1
+QSO:   14009  CW 2020-11-28 0619  VU2PTT           599  22  RA6GW            599  16    1
+QSO:   14009  CW 2020-11-28 0619  VU2PTT           599  22  LZ5R             599  20    1
+QSO:   21002  CW 2020-11-28 0621  VU2PTT           599  22  HG6N             599  15    1
+QSO:   21002  CW 2020-11-28 0621  VU2PTT           599  22  RU4LM            599  16    1
+QSO:   21002  CW 2020-11-28 0622  VU2PTT           599  22  DP6A             599  14    1
+QSO:   21002  CW 2020-11-28 0622  VU2PTT           599  22  RU9I             599  18    1
+QSO:   21002  CW 2020-11-28 0623  VU2PTT           599  22  YO3FF            599  20    1
+QSO:   21002  CW 2020-11-28 0623  VU2PTT           599  22  R1CAA            599  16    1
+QSO:   21002  CW 2020-11-28 0624  VU2PTT           599  22  DK2GZ            599  14    1
+QSO:   21002  CW 2020-11-28 0624  VU2PTT           599  22  DL6KVA           599  14    1
+QSO:   21002  CW 2020-11-28 0624  VU2PTT           599  22  HA8VV            599  15    1
+QSO:   21002  CW 2020-11-28 0625  VU2PTT           599  22  9A5Y             599  15    1
+QSO:   21002  CW 2020-11-28 0625  VU2PTT           599  22  UT3IJ            599  16    1
+QSO:   21002  CW 2020-11-28 0625  VU2PTT           599  22  IK2FYH           599  15    1
+QSO:   21002  CW 2020-11-28 0626  VU2PTT           599  22  SV1RUX           599  20    1
+QSO:   21002  CW 2020-11-28 0626  VU2PTT           599  22  LY2J             599  15    1
+QSO:   21002  CW 2020-11-28 0626  VU2PTT           599  22  UB4Y             599  16    1
+QSO:   21002  CW 2020-11-28 0627  VU2PTT           599  22  EF5U             599  14    1
+QSO:   21002  CW 2020-11-28 0628  VU2PTT           599  22  UA5C             599  16    1
+QSO:   21002  CW 2020-11-28 0628  VU2PTT           599  22  UA3KW            599  16    1
+QSO:   21002  CW 2020-11-28 0628  VU2PTT           599  22  SV1JG            599  20    1
+QSO:   21002  CW 2020-11-28 0629  VU2PTT           599  22  UA6YH            599  16    1
+QSO:   21002  CW 2020-11-28 0629  VU2PTT           599  22  YP3A             599  20    1
+QSO:   21002  CW 2020-11-28 0630  VU2PTT           599  22  IW0BNW           599  15    1
+QSO:   21002  CW 2020-11-28 0631  VU2PTT           599  22  TA1UT            599  20    1
+QSO:   21002  CW 2020-11-28 0634  VU2PTT           599  22  UB0A             599  18    1
+QSO:   21002  CW 2020-11-28 0635  VU2PTT           599  22  4Z4DX            599  20    1
+QSO:   21002  CW 2020-11-28 0635  VU2PTT           599  22  UA3QPA           599  16    1
+QSO:   21002  CW 2020-11-28 0636  VU2PTT           599  22  4X6FR            599  20    1
+QSO:   21002  CW 2020-11-28 0637  VU2PTT           599  22  RA6GW            599  16    1
+QSO:   21002  CW 2020-11-28 0637  VU2PTT           599  22  LZ3DX            599  20    1
+QSO:   21002  CW 2020-11-28 0637  VU2PTT           599  22  DM5EM            599  14    1
+QSO:   21002  CW 2020-11-28 0638  VU2PTT           599  22  UR3VKR           599  16    1
+QSO:   21002  CW 2020-11-28 0638  VU2PTT           599  22  RW7F             599  16    1
+QSO:   21002  CW 2020-11-28 0638  VU2PTT           599  22  RD9D             599  17    1
+QSO:   21002  CW 2020-11-28 0638  VU2PTT           599  22  YT1Q             599  15    1
+QSO:   21002  CW 2020-11-28 0639  VU2PTT           599  22  RC7A             599  16    1
+QSO:   21002  CW 2020-11-28 0640  VU2PTT           599  22  LZ2RS            599  20    1
+QSO:   21002  CW 2020-11-28 0640  VU2PTT           599  22  UA4CC            599  16    1
+QSO:   21002  CW 2020-11-28 0640  VU2PTT           599  22  IK6VXO           599  15    1
+QSO:   21002  CW 2020-11-28 0640  VU2PTT           599  22  SV2AEL           599  20    1
+QSO:   21002  CW 2020-11-28 0641  VU2PTT           599  22  YQ6A             599  20    1
+QSO:   21002  CW 2020-11-28 0641  VU2PTT           599  22  4X5SB            599  20    1
+QSO:   21002  CW 2020-11-28 0641  VU2PTT           599  22  R3SV             599  16    1
+QSO:   21002  CW 2020-11-28 0642  VU2PTT           599  22  LY8O             599  15    1
+QSO:   21002  CW 2020-11-28 0642  VU2PTT           599  22  RL3T             599  16    1
+QSO:   21002  CW 2020-11-28 0643  VU2PTT           599  22  IR7T             599  15    1
+QSO:   21002  CW 2020-11-28 0644  VU2PTT           599  22  LN8W             599  14    1
+QSO:   21002  CW 2020-11-28 0644  VU2PTT           599  22  ES9C             599  15    1
+QSO:   21002  CW 2020-11-28 0645  VU2PTT           599  22  R2AOQ            599  16    1
+QSO:   21002  CW 2020-11-28 0645  VU2PTT           599  22  SV1BJW           599  20    1
+QSO:   21002  CW 2020-11-28 0646  VU2PTT           599  22  RT6A             599  16    1
+QSO:   21002  CW 2020-11-28 0646  VU2PTT           599  22  S58O             599  15    1
+QSO:   21002  CW 2020-11-28 0646  VU2PTT           599  22  EA4S             599  14    1
+QSO:   21002  CW 2020-11-28 0647  VU2PTT           599  22  UD0W             599  18    1
+QSO:   21002  CW 2020-11-28 0647  VU2PTT           599  22  OG5O             599  15    1
+QSO:   21002  CW 2020-11-28 0648  VU2PTT           599  22  UA4QK            599  16    1
+QSO:   21002  CW 2020-11-28 0648  VU2PTT           599  22  F5UTN            599  14    1
+QSO:   21002  CW 2020-11-28 0648  VU2PTT           599  22  YL2QV            599  15    1
+QSO:   21002  CW 2020-11-28 0649  VU2PTT           599  22  F8DGY            599  14    1
+QSO:   21002  CW 2020-11-28 0649  VU2PTT           599  22  P3X              599  20    1
+QSO:   21002  CW 2020-11-28 0650  VU2PTT           599  22  OZ7A             599  14    1
+QSO:   21002  CW 2020-11-28 0650  VU2PTT           599  22  OH2KW            599  15    1
+QSO:   21002  CW 2020-11-28 0650  VU2PTT           599  22  4Z1TL            599  20    1
+QSO:   21002  CW 2020-11-28 0651  VU2PTT           599  22  R9CX             599  17    1
+QSO:   21002  CW 2020-11-28 0651  VU2PTT           599  22  R6YY             599  16    1
+QSO:   21002  CW 2020-11-28 0651  VU2PTT           599  22  RD4FD            599  16    1
+QSO:   21002  CW 2020-11-28 0652  VU2PTT           599  22  RN5AA            599  16    1
+QSO:   21002  CW 2020-11-28 0652  VU2PTT           599  22  UZ5ZU            599  16    1
+QSO:   21002  CW 2020-11-28 0653  VU2PTT           599  22  IR7T             599  15    1
+QSO:   21002  CW 2020-11-28 0653  VU2PTT           599  22  IZ8GCB           599  15    1
+QSO:   21002  CW 2020-11-28 0653  VU2PTT           599  22  EA5FID           599  14    1
+QSO:   21002  CW 2020-11-28 0653  VU2PTT           599  22  EW2A             599  16    1
+QSO:   21002  CW 2020-11-28 0654  VU2PTT           599  22  IR4Y             599  15    1
+QSO:   21002  CW 2020-11-28 0654  VU2PTT           599  22  LZ3A             599  20    1
+QSO:   21002  CW 2020-11-28 0654  VU2PTT           599  22  LZ1MC            599  20    1
+QSO:   21002  CW 2020-11-28 0655  VU2PTT           599  22  R2DFD            599  16    1
+QSO:   21002  CW 2020-11-28 0655  VU2PTT           599  22  R1NO             599  16    1
+QSO:   21002  CW 2020-11-28 0655  VU2PTT           599  22  LZ5EE            599  20    1
+QSO:   21002  CW 2020-11-28 0655  VU2PTT           599  22  YU5R             599  15    1
+QSO:   21002  CW 2020-11-28 0656  VU2PTT           599  22  RA9DZ            599  17    1
+QSO:   21002  CW 2020-11-28 0656  VU2PTT           599  22  RM6Y             599  16    1
+QSO:   21002  CW 2020-11-28 0656  VU2PTT           599  22  9A1KDE           599  15    1
+QSO:   21002  CW 2020-11-28 0657  VU2PTT           599  22  RC1W             599  16    1
+QSO:   21002  CW 2020-11-28 0657  VU2PTT           599  22  OM7M             599  15    1
+QSO:   21002  CW 2020-11-28 0657  VU2PTT           599  22  EC4TA            599  14    1
+QSO:   21002  CW 2020-11-28 0658  VU2PTT           599  22  4X1ST            599  20    1
+QSO:   21002  CW 2020-11-28 0658  VU2PTT           599  22  UG4A             599  16    1
+QSO:   21002  CW 2020-11-28 0658  VU2PTT           599  22  UR7HCX           599  16    1
+QSO:   21002  CW 2020-11-28 0659  VU2PTT           599  22  LY2DX            599  15    1
+QSO:   21002  CW 2020-11-28 0659  VU2PTT           599  22  UX7IW            599  16    1
+QSO:   21002  CW 2020-11-28 0659  VU2PTT           599  22  UA3EDQ           599  16    1
+QSO:   21002  CW 2020-11-28 0700  VU2PTT           599  22  OH3AC            599  15    1
+QSO:   21002  CW 2020-11-28 0700  VU2PTT           599  22  RU5A             599  16    1
+QSO:   21002  CW 2020-11-28 0700  VU2PTT           599  22  UA6AIR           599  16    1
+QSO:   21002  CW 2020-11-28 0701  VU2PTT           599  22  UZ1U             599  16    1
+QSO:   21002  CW 2020-11-28 0703  VU2PTT           599  22  SV1CEI           599  20    1
+QSO:   21002  CW 2020-11-28 0703  VU2PTT           599  22  RN6CV            599  16    1
+QSO:   21002  CW 2020-11-28 0704  VU2PTT           599  22  LZ3QE            599  20    1
+QSO:   21002  CW 2020-11-28 0704  VU2PTT           599  22  RN4SN            599  16    1
+QSO:   21002  CW 2020-11-28 0704  VU2PTT           599  22  SJ2W             599  14    1
+QSO:   21002  CW 2020-11-28 0705  VU2PTT           599  22  OK2OP            599  15    1
+QSO:   21002  CW 2020-11-28 0706  VU2PTT           599  22  US0VA            599  16    1
+QSO:   21002  CW 2020-11-28 0706  VU2PTT           599  22  LY6A             599  15    1
+QSO:   21002  CW 2020-11-28 0707  VU2PTT           599  22  LY2A             599  15    1
+QSO:   21002  CW 2020-11-28 0707  VU2PTT           599  22  RX6AM            599  16    1
+QSO:   21002  CW 2020-11-28 0708  VU2PTT           599  22  R6AF             599  16    1
+QSO:   21002  CW 2020-11-28 0708  VU2PTT           599  22  OK1PI            599  15    1
+QSO:   21002  CW 2020-11-28 0708  VU2PTT           599  22  YU7KW            599  15    1
+QSO:   21002  CW 2020-11-28 0709  VU2PTT           599  22  RT3N             599  16    1
+QSO:   21002  CW 2020-11-28 0709  VU2PTT           599  22  UT5EO            599  16    1
+QSO:   21002  CW 2020-11-28 0709  VU2PTT           599  22  DL4FO            599  14    1
+QSO:   21002  CW 2020-11-28 0710  VU2PTT           599  22  DL2NBU           599  14    1
+QSO:   21004  CW 2020-11-28 0711  VU2PTT           599  22  UZ5DX            599  16    1
+QSO:   21011  CW 2020-11-28 0712  VU2PTT           599  22  OH5Z             599  15    1
+QSO:   21017  CW 2020-11-28 0713  VU2PTT           599  22  S57AW            599  15    1
+QSO:   21020  CW 2020-11-28 0714  VU2PTT           599  22  UW1M             599  16    1
+QSO:   21022  CW 2020-11-28 0715  VU2PTT           599  22  S50A             599  15    1
+QSO:   21026  CW 2020-11-28 0717  VU2PTT           599  22  YL2BJ            599  15    1
+QSO:   21027  CW 2020-11-28 0717  VU2PTT           599  22  IS0SWW           599  15    1
+QSO:   21028  CW 2020-11-28 0718  VU2PTT           599  22  RC9J             599  17    1
+QSO:   21028  CW 2020-11-28 0719  VU2PTT           599  22  UZ2I             599  16    1
+QSO:   21031  CW 2020-11-28 0719  VU2PTT           599  22  HG7T             599  15    1
+QSO:   21033  CW 2020-11-28 0719  VU2PTT           599  22  RG6G             599  16    1
+QSO:   21033  CW 2020-11-28 0720  VU2PTT           599  22  LZ7J             599  20    1
+QSO:   21035  CW 2020-11-28 0721  VU2PTT           599  22  R7AW             599  16    1
+QSO:   21035  CW 2020-11-28 0721  VU2PTT           599  22  UR5R             599  16    1
+QSO:   21036  CW 2020-11-28 0723  VU2PTT           599  22  VK2IA            599  30    1
+QSO:   21044  CW 2020-11-28 0724  VU2PTT           599  22  RU1A             599  16    1
+QSO:   21051  CW 2020-11-28 0724  VU2PTT           599  22  HA3NU            599  15    1
+QSO:   21052  CW 2020-11-28 0725  VU2PTT           599  22  JF2QNM           599  25    1
+QSO:   21020  CW 2020-11-28 0731  VU2PTT           599  22  RK3MXT           599  16    1
+QSO:   21020  CW 2020-11-28 0732  VU2PTT           599  22  YC9FAR           599  28    1
+QSO:   21020  CW 2020-11-28 0732  VU2PTT           599  22  UA6Y             599  16    1
+QSO:   21020  CW 2020-11-28 0734  VU2PTT           599  22  SN6O             599  15    1
+QSO:   21020  CW 2020-11-28 0734  VU2PTT           599  22  UR6EA            599  16    1
+QSO:   21020  CW 2020-11-28 0734  VU2PTT           599  22  G3XAQ            599  14    1
+QSO:   21020  CW 2020-11-28 0734  VU2PTT           599  22  DA2X             599  14    1
+QSO:   21020  CW 2020-11-28 0735  VU2PTT           599  22  DL4WA            599  14    1
+QSO:   21020  CW 2020-11-28 0735  VU2PTT           599  22  R7MM             599  16    1
+QSO:   21020  CW 2020-11-28 0737  VU2PTT           599  22  EA3JW            599  14    1
+QSO:   21020  CW 2020-11-28 0738  VU2PTT           599  22  HG1S             599  15    1
+QSO:   21020  CW 2020-11-28 0738  VU2PTT           599  22  R3LC             599  16    1
+QSO:   21020  CW 2020-11-28 0738  VU2PTT           599  22  OK2PYA           599  15    1
+QSO:   21020  CW 2020-11-28 0739  VU2PTT           599  22  UT4U             599  16    1
+QSO:   28019  CW 2020-11-28 0836  VU2PTT           599  22  OK2TJ            599  15    1
+QSO:   28021  CW 2020-11-28 0837  VU2PTT           599  22  LZ3FN            599  20    1
+QSO:   28021  CW 2020-11-28 0838  VU2PTT           599  22  OH0Z             599  15    1
+QSO:   28021  CW 2020-11-28 0838  VU2PTT           599  22  9A5Y             599  15    1
+QSO:   28021  CW 2020-11-28 0838  VU2PTT           599  22  9A7T             599  15    1
+QSO:   28021  CW 2020-11-28 0838  VU2PTT           599  22  LZ1AG            599  20    1
+QSO:   28021  CW 2020-11-28 0839  VU2PTT           599  22  SV1VJ            599  20    1
+QSO:   28021  CW 2020-11-28 0839  VU2PTT           599  22  LZ9A             599  20    1
+QSO:   28021  CW 2020-11-28 0839  VU2PTT           599  22  YQ6A             599  20    1
+QSO:   28021  CW 2020-11-28 0840  VU2PTT           599  22  LA6OP            599  14    1
+QSO:   28021  CW 2020-11-28 0840  VU2PTT           599  22  YU5R             599  15    1
+QSO:   28021  CW 2020-11-28 0840  VU2PTT           599  22  OH2IS            599  15    1
+QSO:   28021  CW 2020-11-28 0841  VU2PTT           599  22  LZ1BP            599  20    1
+QSO:   28021  CW 2020-11-28 0841  VU2PTT           599  22  SV2CLJ           599  20    1
+QSO:   28021  CW 2020-11-28 0842  VU2PTT           599  22  IT9ELD           599  15    1
+QSO:   28021  CW 2020-11-28 0842  VU2PTT           599  22  HA8VV            599  15    1
+QSO:   28021  CW 2020-11-28 0842  VU2PTT           599  22  OH2IS            599  15    1
+QSO:   28021  CW 2020-11-28 0843  VU2PTT           599  22  LZ8R             599  20    1
+QSO:   28021  CW 2020-11-28 0843  VU2PTT           599  22  9A6A             599  15    1
+QSO:   28021  CW 2020-11-28 0844  VU2PTT           599  22  RL3A             599  16    1
+QSO:   28021  CW 2020-11-28 0844  VU2PTT           599  22  RT4U             599  16    1
+QSO:   28021  CW 2020-11-28 0845  VU2PTT           599  22  RT4U             599  16    1
+QSO:   28021  CW 2020-11-28 0845  VU2PTT           599  22  HA9RT            599  15    1
+QSO:   28021  CW 2020-11-28 0845  VU2PTT           599  22  LZ5R             599  20    1
+QSO:   28021  CW 2020-11-28 0845  VU2PTT           599  22  YR8I             599  20    1
+QSO:   28021  CW 2020-11-28 0846  VU2PTT           599  22  LZ9W             599  20    1
+QSO:   28021  CW 2020-11-28 0847  VU2PTT           599  22  S53ZO            599  15    1
+QSO:   28021  CW 2020-11-28 0848  VU2PTT           599  22  YO9HP            599  20    1
+QSO:   28021  CW 2020-11-28 0849  VU2PTT           599  22  HA7ME            599  15    1
+QSO:   28021  CW 2020-11-28 0850  VU2PTT           599  22  SP5SR            599  15    1
+QSO:   28021  CW 2020-11-28 0850  VU2PTT           599  22  OK2QA            599  15    1
+QSO:   28021  CW 2020-11-28 0851  VU2PTT           599  22  SP9VEG           599  15    1
+QSO:   28021  CW 2020-11-28 0851  VU2PTT           599  22  YO9OC            599  20    1
+QSO:   28021  CW 2020-11-28 0852  VU2PTT           599  22  OH6DX            599  15    1
+QSO:   28021  CW 2020-11-28 0852  VU2PTT           599  22  RM9I             599  18    1
+QSO:   28021  CW 2020-11-28 0852  VU2PTT           599  22  LN8W             599  14    1
+QSO:   28021  CW 2020-11-28 0853  VU2PTT           599  22  US3EZ            599  16    1
+QSO:   28021  CW 2020-11-28 0853  VU2PTT           599  22  IZ4ORF           599  15    1
+QSO:   28019  CW 2020-11-28 0855  VU2PTT           599  22  YT2T             599  15    1
+QSO:   28019  CW 2020-11-28 0855  VU2PTT           599  22  YO5OHO           599  20    1
+QSO:   28019  CW 2020-11-28 0856  VU2PTT           599  22  LA4GHA           599  14    1
+QSO:   28019  CW 2020-11-28 0856  VU2PTT           599  22  IK6HRB           599  15    1
+QSO:   28019  CW 2020-11-28 0857  VU2PTT           599  22  YO4CAH           599  20    1
+QSO:   28003  CW 2020-11-28 0859  VU2PTT           599  22  SN5V             599  15    1
+QSO:   28003  CW 2020-11-28 0859  VU2PTT           599  22  DK3GI            599  14    1
+QSO:   28003  CW 2020-11-28 0859  VU2PTT           599  22  DK8ZB            599  14    1
+QSO:   28003  CW 2020-11-28 0900  VU2PTT           599  22  SB7S             599  14    1
+QSO:   28003  CW 2020-11-28 0901  VU2PTT           599  22  DL1VDL           599  14    1
+QSO:   28003  CW 2020-11-28 0901  VU2PTT           599  22  A42K             599  21    1
+QSO:   28003  CW 2020-11-28 0901  VU2PTT           599  22  OK2RU            599  15    1
+QSO:   28003  CW 2020-11-28 0902  VU2PTT           599  22  IK0IXI           599  15    1
+QSO:   28003  CW 2020-11-28 0902  VU2PTT           599  22  IZ7GEG           599  15    1
+QSO:   28003  CW 2020-11-28 0903  VU2PTT           599  22  I2GPT            599  15    1
+QSO:   28003  CW 2020-11-28 0904  VU2PTT           599  22  DL4WA            599  14    1
+QSO:   28003  CW 2020-11-28 0904  VU2PTT           599  22  IK4ZIF           599  15    1
+QSO:   28003  CW 2020-11-28 0905  VU2PTT           599  22  IU0HMB           599  15    1
+QSO:   28003  CW 2020-11-28 0906  VU2PTT           599  22  DL1PAN           599  14    1
+QSO:   28003  CW 2020-11-28 0906  VU2PTT           599  22  OM8ON            599  15    1
+QSO:   28003  CW 2020-11-28 0907  VU2PTT           599  22  SX9V             599  20    1
+QSO:   28003  CW 2020-11-28 0907  VU2PTT           599  22  SM7IUN           599  14    1
+QSO:   28003  CW 2020-11-28 0908  VU2PTT           599  22  OZ1AXG           599  14    1
+QSO:   28003  CW 2020-11-28 0909  VU2PTT           599  22  LZ2JA            599  20    1
+QSO:   28003  CW 2020-11-28 0909  VU2PTT           599  22  SM6MIS           599  14    1
+QSO:   28003  CW 2020-11-28 0910  VU2PTT           599  22  RY7A             599  16    1
+QSO:   28003  CW 2020-11-28 0910  VU2PTT           599  22  OH1F             599  15    1
+QSO:   28024  CW 2020-11-28 0913  VU2PTT           599  22  OM2VL            599  15    1
+QSO:   28028  CW 2020-11-28 0914  VU2PTT           599  22  EA8RM            599  33    1
+QSO:   28041  CW 2020-11-28 0919  VU2PTT           599  22  DR1A             599  14    1
+QSO:   28045  CW 2020-11-28 0919  VU2PTT           599  22  OL3Z             599  15    1
+QSO:   28018  CW 2020-11-28 0921  VU2PTT           599  22  A71EM            599  21    1
+QSO:   28023  CW 2020-11-28 0923  VU2PTT           599  22  PA5WT            599  14    1
+QSO:   28023  CW 2020-11-28 0923  VU2PTT           599  22  PA3C             599  14    1
+QSO:   28023  CW 2020-11-28 0923  VU2PTT           599  22  DP6A             599  14    1
+QSO:   28023  CW 2020-11-28 0923  VU2PTT           599  22  SM6TKG           599  14    1
+QSO:   28023  CW 2020-11-28 0924  VU2PTT           599  22  DL6KVA           599  14    1
+QSO:   28023  CW 2020-11-28 0924  VU2PTT           599  22  IK0IXI           599  15    1
+QSO:   28023  CW 2020-11-28 0924  VU2PTT           599  22  LZ7U             599  20    1
+QSO:   28023  CW 2020-11-28 0925  VU2PTT           599  22  DL0CS            599  14    1
+QSO:   28023  CW 2020-11-28 0925  VU2PTT           599  22  IK2HKT           599  15    1
+QSO:   28023  CW 2020-11-28 0925  VU2PTT           599  22  LZ7J             599  20    1
+QSO:   28023  CW 2020-11-28 0926  VU2PTT           599  22  LY4A             599  15    1
+QSO:   28023  CW 2020-11-28 0926  VU2PTT           599  22  OR3A             599  14    1
+QSO:   28023  CW 2020-11-28 0926  VU2PTT           599  22  DJ6TK            599  14    1
+QSO:   28023  CW 2020-11-28 0927  VU2PTT           599  22  OG2M             599  15    1
+QSO:   28023  CW 2020-11-28 0927  VU2PTT           599  22  DQ1A             599  14    1
+QSO:   28023  CW 2020-11-28 0927  VU2PTT           599  22  OR2F             599  14    1
+QSO:   28023  CW 2020-11-28 0927  VU2PTT           599  22  SE6U             599  14    1
+QSO:   28023  CW 2020-11-28 0928  VU2PTT           599  22  LA6CF            599  14    1
+QSO:   28023  CW 2020-11-28 0928  VU2PTT           599  22  RY7Y             599  16    1
+QSO:   28023  CW 2020-11-28 0928  VU2PTT           599  22  RG6G             599  16    1
+QSO:   28023  CW 2020-11-28 0929  VU2PTT           599  22  VK2BJ            599  30    1
+QSO:   28023  CW 2020-11-28 0929  VU2PTT           599  22  DL1ROT           599  14    1
+QSO:   28023  CW 2020-11-28 0930  VU2PTT           599  22  LA6XI            599  14    1
+QSO:   28023  CW 2020-11-28 0930  VU2PTT           599  22  SP1MWN           599  15    1
+QSO:   28023  CW 2020-11-28 0931  VU2PTT           599  22  LY5G             599  15    1
+QSO:   28023  CW 2020-11-28 0931  VU2PTT           599  22  SV2BFN           599  20    1
+QSO:   28023  CW 2020-11-28 0931  VU2PTT           599  22  4X5MZ            599  20    1
+QSO:   28023  CW 2020-11-28 0931  VU2PTT           599  22  OM5CD            599  15    1
+QSO:   28023  CW 2020-11-28 0932  VU2PTT           599  22  S53A             599  15    1
+QSO:   28023  CW 2020-11-28 0932  VU2PTT           599  22  LY4L             599  15    1
+QSO:   28023  CW 2020-11-28 0932  VU2PTT           599  22  DL8KX            599  14    1
+QSO:   28023  CW 2020-11-28 0932  VU2PTT           599  22  RN2FA            599  15    1
+QSO:   28023  CW 2020-11-28 0933  VU2PTT           599  22  HA3FMR           599  15    1
+QSO:   28023  CW 2020-11-28 0933  VU2PTT           599  22  YB2IQ            599  28    1
+QSO:   28023  CW 2020-11-28 0934  VU2PTT           599  22  ES9C             599  15    1
+QSO:   28023  CW 2020-11-28 0934  VU2PTT           599  22  9H1XT            599  15    1
+QSO:   28023  CW 2020-11-28 0935  VU2PTT           599  22  DL7HZ            599  14    1
+QSO:   28023  CW 2020-11-28 0935  VU2PTT           599  22  SP1D             599  15    1
+QSO:   28023  CW 2020-11-28 0936  VU2PTT           599  22  LY7Z             599  15    1
+QSO:   28023  CW 2020-11-28 0936  VU2PTT           599  22  SP4GDC           599  15    1
+QSO:   28023  CW 2020-11-28 0936  VU2PTT           599  22  OZ7A             599  14    1
+QSO:   28023  CW 2020-11-28 0936  VU2PTT           599  22  DL7QU            599  14    1
+QSO:   28023  CW 2020-11-28 0937  VU2PTT           599  22  OM3CM            599  15    1
+QSO:   28023  CW 2020-11-28 0937  VU2PTT           599  22  LY5E             599  15    1
+QSO:   28023  CW 2020-11-28 0938  VU2PTT           599  22  IQ8XF            599  15    1
+QSO:   28023  CW 2020-11-28 0938  VU2PTT           599  22  9A2AJ            599  15    1
+QSO:   28023  CW 2020-11-28 0939  VU2PTT           599  22  SP3LWP           599  15    1
+QSO:   28023  CW 2020-11-28 0939  VU2PTT           599  22  9A2IK            599  15    1
+QSO:   28031  CW 2020-11-28 0942  VU2PTT           599  22  RT1L             599  16    1
+QSO:   28031  CW 2020-11-28 0942  VU2PTT           599  22  EW5A             599  16    1
+QSO:   28031  CW 2020-11-28 0943  VU2PTT           599  22  DM6EE            599  14    1
+QSO:   28031  CW 2020-11-28 0943  VU2PTT           599  22  DK1A             599  14    1
+QSO:   28031  CW 2020-11-28 0943  VU2PTT           599  22  LY2AX            599  15    1
+QSO:   28034  CW 2020-11-28 0945  VU2PTT           599  22  DL7JV            599  14    1
+QSO:   28034  CW 2020-11-28 0945  VU2PTT           599  22  OZ1AAR           599  14    1
+QSO:   28001  CW 2020-11-28 0947  VU2PTT           599  22  VK5GR            599  30    1
+QSO:   28006  CW 2020-11-28 0950  VU2PTT           599  22  VK8HW            599  29    1
+QSO:   28027  CW 2020-11-28 0951  VU2PTT           599  22  LX2LX            599  14    1
+QSO:   28028  CW 2020-11-28 0952  VU2PTT           599  22  SN7Q             599  15    1
+QSO:   28035  CW 2020-11-28 0952  VU2PTT           599  22  OK1GK            599  15    1
+QSO:   28043  CW 2020-11-28 0953  VU2PTT           599  22  DL5YL            599  14    1
+QSO:   28041  CW 2020-11-28 0956  VU2PTT           599  22  A45XR            599  21    1
+QSO:   28014  CW 2020-11-28 0959  VU2PTT           599  22  VK6LW            599  29    1
+QSO:   28016  CW 2020-11-28 1000  VU2PTT           599  22  DL3AO            599  14    1
+QSO:   28016  CW 2020-11-28 1001  VU2PTT           599  22  OL0W             599  15    1
+QSO:   28016  CW 2020-11-28 1002  VU2PTT           599  22  ED8O             599  14    1
+QSO:   28016  CW 2020-11-28 1002  VU2PTT           599  22  P3X              599  20    1
+QSO:   28016  CW 2020-11-28 1003  VU2PTT           599  22  DL6AG            599  14    1
+QSO:   28016  CW 2020-11-28 1003  VU2PTT           599  22  SP6CIK           599  15    1
+QSO:   28016  CW 2020-11-28 1004  VU2PTT           599  22  DL2NBU           599  14    1
+QSO:   28016  CW 2020-11-28 1004  VU2PTT           599  22  OK2GU            599  15    1
+QSO:   28016  CW 2020-11-28 1005  VU2PTT           599  22  DL6RBH           599  14    1
+QSO:   28016  CW 2020-11-28 1005  VU2PTT           599  22  DL3NCR           599  14    1
+QSO:   28016  CW 2020-11-28 1006  VU2PTT           599  22  DD7NT            599  14    1
+QSO:   28016  CW 2020-11-28 1006  VU2PTT           599  22  DF2RG            599  14    1
+QSO:   28016  CW 2020-11-28 1007  VU2PTT           599  22  DK8SR            599  14    1
+QSO:   28016  CW 2020-11-28 1007  VU2PTT           599  22  DK6WL            599  14    1
+QSO:   28016  CW 2020-11-28 1007  VU2PTT           599  22  DK3AX            599  14    1
+QSO:   28016  CW 2020-11-28 1008  VU2PTT           599  22  DM2M             599  14    1
+QSO:   28016  CW 2020-11-28 1008  VU2PTT           599  22  DJ5MN            599  14    1
+QSO:   28016  CW 2020-11-28 1008  VU2PTT           599  22  DL2OE            599  14    1
+QSO:   28016  CW 2020-11-28 1008  VU2PTT           599  22  DF4U             599  14    1
+QSO:   28016  CW 2020-11-28 1009  VU2PTT           599  22  F5MDB            599  14    1
+QSO:   28016  CW 2020-11-28 1009  VU2PTT           599  22  DK1AX            599  14    1
+QSO:   28016  CW 2020-11-28 1009  VU2PTT           599  22  DL2OM            599  14    1
+QSO:   28016  CW 2020-11-28 1010  VU2PTT           599  22  F5NBX            599  14    1
+QSO:   28016  CW 2020-11-28 1011  VU2PTT           599  22  OK1DG            599  15    1
+QSO:   28016  CW 2020-11-28 1011  VU2PTT           599  22  HB9ARF           599  14    1
+QSO:   28016  CW 2020-11-28 1012  VU2PTT           599  22  DJ3GE            599  14    1
+QSO:   28016  CW 2020-11-28 1012  VU2PTT           599  22  DL5NO            599  14    1
+QSO:   28016  CW 2020-11-28 1012  VU2PTT           599  22  LU2DX            599  13    1
+QSO:   28016  CW 2020-11-28 1013  VU2PTT           599  22  F5JNX            599  14    1
+QSO:   28016  CW 2020-11-28 1013  VU2PTT           599  22  DF2AJ            599  14    1
+QSO:   28016  CW 2020-11-28 1013  VU2PTT           599  22  DF4XF            599  14    1
+QSO:   28016  CW 2020-11-28 1014  VU2PTT           599  22  F8BCU            599  14    1
+QSO:   28016  CW 2020-11-28 1014  VU2PTT           599  22  DK5DQ            599  14    1
+QSO:   28016  CW 2020-11-28 1015  VU2PTT           599  22  DL3OH            599  14    1
+QSO:   28016  CW 2020-11-28 1015  VU2PTT           599  22  DL5ANS           599  14    1
+QSO:   28016  CW 2020-11-28 1015  VU2PTT           599  22  F6FTB            599  14    1
+QSO:   28016  CW 2020-11-28 1016  VU2PTT           599  22  DB1BAN           599  14    1
+QSO:   28016  CW 2020-11-28 1016  VU2PTT           599  22  F6FFA            599  14    1
+QSO:   28016  CW 2020-11-28 1016  VU2PTT           599  22  IK2GZU           599  15    1
+QSO:   28016  CW 2020-11-28 1017  VU2PTT           599  22  DL1RG            599  14    1
+QSO:   28016  CW 2020-11-28 1018  VU2PTT           599  22  DJ5IW            599  14    1
+QSO:   28016  CW 2020-11-28 1018  VU2PTT           599  22  HB9HBV           599  14    1
+QSO:   28016  CW 2020-11-28 1019  VU2PTT           599  22  SP4Z             599  15    1
+QSO:   28016  CW 2020-11-28 1020  VU2PTT           599  22  OE3DXA           599  15    1
+QSO:   28016  CW 2020-11-28 1020  VU2PTT           599  22  PA3AAV           599  14    1
+QSO:   28016  CW 2020-11-28 1021  VU2PTT           599  22  HB9IJC           599  14    1
+QSO:   28016  CW 2020-11-28 1021  VU2PTT           599  22  SP1NY            599  15    1
+QSO:   28016  CW 2020-11-28 1021  VU2PTT           599  22  DL2OE            599  14    1
+QSO:   28016  CW 2020-11-28 1022  VU2PTT           599  22  F5UQE            599  14    1
+QSO:   28016  CW 2020-11-28 1022  VU2PTT           599  22  SQ8N             599  15    1
+QSO:   28016  CW 2020-11-28 1022  VU2PTT           599  22  DL9GCG           599  14    1
+QSO:   28016  CW 2020-11-28 1022  VU2PTT           599  22  DL5GAC           599  14    1
+QSO:   28016  CW 2020-11-28 1023  VU2PTT           599  22  SN7O             599  15    1
+QSO:   28016  CW 2020-11-28 1023  VU2PTT           599  22  DL5RMH           599  14    1
+QSO:   28016  CW 2020-11-28 1024  VU2PTT           599  22  DF7EE            599  14    1
+QSO:   28016  CW 2020-11-28 1024  VU2PTT           599  22  DK5JM            599  14    1
+QSO:   28016  CW 2020-11-28 1024  VU2PTT           599  22  I1RJP            599  15    1
+QSO:   28016  CW 2020-11-28 1025  VU2PTT           599  22  OK2VX            599  15    1
+QSO:   28016  CW 2020-11-28 1025  VU2PTT           599  22  F5PLC            599  14    1
+QSO:   28016  CW 2020-11-28 1025  VU2PTT           599  22  PA2LO            599  14    1
+QSO:   28016  CW 2020-11-28 1026  VU2PTT           599  22  DL8MKG           599  14    1
+QSO:   28016  CW 2020-11-28 1028  VU2PTT           599  22  G3XJS            599  14    1
+QSO:   28016  CW 2020-11-28 1029  VU2PTT           599  22  HA2KMR           599  15    1
+QSO:   28016  CW 2020-11-28 1029  VU2PTT           599  22  F6HDI            599  14    1
+QSO:   28016  CW 2020-11-28 1029  VU2PTT           599  22  SP6TRH           599  15    1
+QSO:   28016  CW 2020-11-28 1030  VU2PTT           599  22  OE8TED           599  15    1
+QSO:   28016  CW 2020-11-28 1030  VU2PTT           599  22  OE1PMU           599  15    1
+QSO:   28016  CW 2020-11-28 1031  VU2PTT           599  22  DL5ST            599  14    1
+QSO:   28016  CW 2020-11-28 1031  VU2PTT           599  22  DL2TR            599  14    1
+QSO:   28016  CW 2020-11-28 1031  VU2PTT           599  22  SQ9S             599  15    1
+QSO:   28016  CW 2020-11-28 1031  VU2PTT           599  22  OK1FMJ           599  15    1
+QSO:   28016  CW 2020-11-28 1032  VU2PTT           599  22  9A5O             599  15    1
+QSO:   28016  CW 2020-11-28 1033  VU2PTT           599  22  OM7CV            599  15    1
+QSO:   28016  CW 2020-11-28 1033  VU2PTT           599  22  IV3ZXQ           599  15    1
+QSO:   28016  CW 2020-11-28 1033  VU2PTT           599  22  HG6N             599  15    1
+QSO:   28016  CW 2020-11-28 1034  VU2PTT           599  22  PA6AA            599  14    1
+QSO:   28016  CW 2020-11-28 1034  VU2PTT           599  22  SP9JBE           599  15    1
+QSO:   28016  CW 2020-11-28 1034  VU2PTT           599  22  SP8FHK           599  15    1
+QSO:   28016  CW 2020-11-28 1034  VU2PTT           599  22  DL8RDL           599  14    1
+QSO:   28016  CW 2020-11-28 1035  VU2PTT           599  22  OK2VWB           599  15    1
+QSO:   28016  CW 2020-11-28 1035  VU2PTT           599  22  DL6ON            599  14    1
+QSO:   28016  CW 2020-11-28 1035  VU2PTT           599  22  DL1WA            599  14    1
+QSO:   28016  CW 2020-11-28 1036  VU2PTT           599  22  HB9CA            599  14    1
+QSO:   28016  CW 2020-11-28 1036  VU2PTT           599  22  F8ATS            599  14    1
+QSO:   28016  CW 2020-11-28 1036  VU2PTT           599  22  OL3E             599  15    1
+QSO:   28016  CW 2020-11-28 1037  VU2PTT           599  22  DJ5MO            599  14    1
+QSO:   28016  CW 2020-11-28 1037  VU2PTT           599  22  PE5TS            599  14    1
+QSO:   28016  CW 2020-11-28 1037  VU2PTT           599  22  DL3AZ            599  14    1
+QSO:   28016  CW 2020-11-28 1038  VU2PTT           599  22  OE1UZ            599  15    1
+QSO:   28016  CW 2020-11-28 1038  VU2PTT           599  22  IK2CKR           599  15    1
+QSO:   28016  CW 2020-11-28 1038  VU2PTT           599  22  OM4TW            599  15    1
+QSO:   28016  CW 2020-11-28 1038  VU2PTT           599  22  PA9M             599  14    1
+QSO:   28016  CW 2020-11-28 1039  VU2PTT           599  22  F6DFZ            599  14    1
+QSO:   28016  CW 2020-11-28 1039  VU2PTT           599  22  OL1ADZ           599  15    1
+QSO:   28016  CW 2020-11-28 1039  VU2PTT           599  22  DM3XI            599  14    1
+QSO:   28016  CW 2020-11-28 1040  VU2PTT           599  22  DP7D             599  14    1
+QSO:   28016  CW 2020-11-28 1040  VU2PTT           599  22  IK3UNA           599  15    1
+QSO:   28016  CW 2020-11-28 1040  VU2PTT           599  22  OK1AGE           599  15    1
+QSO:   28016  CW 2020-11-28 1041  VU2PTT           599  22  SP8DXZ           599  15    1
+QSO:   28016  CW 2020-11-28 1041  VU2PTT           599  22  DJ2QV            599  14    1
+QSO:   28016  CW 2020-11-28 1042  VU2PTT           599  22  IK2FIR           599  15    1
+QSO:   28016  CW 2020-11-28 1042  VU2PTT           599  22  IK2UWA           599  15    1
+QSO:   28016  CW 2020-11-28 1042  VU2PTT           599  22  F5BZB            599  14    1
+QSO:   28016  CW 2020-11-28 1043  VU2PTT           599  22  IV3OKO           599  15    1
+QSO:   28016  CW 2020-11-28 1044  VU2PTT           599  22  F5PHW            599  14    1
+QSO:   28016  CW 2020-11-28 1044  VU2PTT           599  22  OM7M             599  15    1
+QSO:   28016  CW 2020-11-28 1045  VU2PTT           599  22  OE3PKU           599  15    1
+QSO:   28016  CW 2020-11-28 1045  VU2PTT           599  22  DQ1P             599  14    1
+QSO:   28016  CW 2020-11-28 1046  VU2PTT           599  22  S51MF            599  15    1
+QSO:   28016  CW 2020-11-28 1046  VU2PTT           599  22  DA2X             599  14    1
+QSO:   28016  CW 2020-11-28 1046  VU2PTT           599  22  I2KBD            599  15    1
+QSO:   28016  CW 2020-11-28 1047  VU2PTT           599  22  HA8A             599  15    1
+QSO:   28016  CW 2020-11-28 1047  VU2PTT           599  22  DF3VM            599  14    1
+QSO:   28016  CW 2020-11-28 1048  VU2PTT           599  22  HA3NU            599  15    1
+QSO:   28016  CW 2020-11-28 1048  VU2PTT           599  22  DL7BO            599  14    1
+QSO:   28016  CW 2020-11-28 1048  VU2PTT           599  22  DF4XX            599  14    1
+QSO:   28016  CW 2020-11-28 1049  VU2PTT           599  22  DL5XJ            599  14    1
+QSO:   28016  CW 2020-11-28 1049  VU2PTT           599  22  PA0O             599  14    1
+QSO:   28016  CW 2020-11-28 1050  VU2PTT           599  22  DF8TY            599  14    1
+QSO:   28016  CW 2020-11-28 1051  VU2PTT           599  22  G3WPF            599  14    1
+QSO:   28016  CW 2020-11-28 1051  VU2PTT           599  22  HA0IL            599  15    1
+QSO:   28016  CW 2020-11-28 1051  VU2PTT           599  22  IZ2DLV           599  15    1
+QSO:   28016  CW 2020-11-28 1051  VU2PTT           599  22  OE5OHO           599  15    1
+QSO:   28016  CW 2020-11-28 1052  VU2PTT           599  22  HG7T             599  15    1
+QSO:   28016  CW 2020-11-28 1052  VU2PTT           599  22  HA7VK            599  15    1
+QSO:   28016  CW 2020-11-28 1053  VU2PTT           599  22  DL9SCO           599  14    1
+QSO:   28016  CW 2020-11-28 1053  VU2PTT           599  22  DK7CX            599  14    1
+QSO:   28016  CW 2020-11-28 1053  VU2PTT           599  22  DF2SD            599  14    1
+QSO:   28016  CW 2020-11-28 1054  VU2PTT           599  22  S53V             599  15    1
+QSO:   28016  CW 2020-11-28 1054  VU2PTT           599  22  PD1BHZ           599  14    1
+QSO:   28016  CW 2020-11-28 1055  VU2PTT           599  22  HB9BQP           599  14    1
+QSO:   28016  CW 2020-11-28 1055  VU2PTT           599  22  HB9BEI           599  14    1
+QSO:   28016  CW 2020-11-28 1057  VU2PTT           599  22  DM5MR            599  14    1
+QSO:   28016  CW 2020-11-28 1057  VU2PTT           599  22  F6AUS            599  14    1
+QSO:   28016  CW 2020-11-28 1057  VU2PTT           599  22  ON7CL            599  14    1
+QSO:   28016  CW 2020-11-28 1058  VU2PTT           599  22  IZ4AYB           599  15    1
+QSO:   28016  CW 2020-11-28 1058  VU2PTT           599  22  9A9CW            599  15    1
+QSO:   28016  CW 2020-11-28 1059  VU2PTT           599  22  S52D             599  15    1
+QSO:   28016  CW 2020-11-28 1100  VU2PTT           599  22  G3SJJ            599  14    1
+QSO:   28016  CW 2020-11-28 1101  VU2PTT           599  22  IK3GHZ           599  15    1
+QSO:   28016  CW 2020-11-28 1101  VU2PTT           599  22  RT6A             599  16    1
+QSO:   28016  CW 2020-11-28 1102  VU2PTT           599  22  PA1H             599  14    1
+QSO:   28016  CW 2020-11-28 1102  VU2PTT           599  22  PC3T             599  14    1
+QSO:   28016  CW 2020-11-28 1102  VU2PTT           599  22  HA3FTA           599  15    1
+QSO:   28016  CW 2020-11-28 1103  VU2PTT           599  22  IV3JVJ           599  15    1
+QSO:   28016  CW 2020-11-28 1103  VU2PTT           599  22  G3TBK            599  14    1
+QSO:   28016  CW 2020-11-28 1104  VU2PTT           599  22  9A5SM            599  15    1
+QSO:   28016  CW 2020-11-28 1104  VU2PTT           599  22  9A7Y             599  15    1
+QSO:   28016  CW 2020-11-28 1104  VU2PTT           599  22  F4VPC            599  14    1
+QSO:   28016  CW 2020-11-28 1105  VU2PTT           599  22  S55OO            599  15    1
+QSO:   28016  CW 2020-11-28 1105  VU2PTT           599  22  PA4A             599  14    1
+QSO:   28016  CW 2020-11-28 1105  VU2PTT           599  22  DL1ONI           599  14    1
+QSO:   28016  CW 2020-11-28 1106  VU2PTT           599  22  HA3DX            599  15    1
+QSO:   28016  CW 2020-11-28 1106  VU2PTT           599  22  F4FCE            599  14    1
+QSO:   28016  CW 2020-11-28 1106  VU2PTT           599  22  HA7NK            599  15    1
+QSO:   28016  CW 2020-11-28 1107  VU2PTT           599  22  SP6ZHP           599  15    1
+QSO:   28016  CW 2020-11-28 1107  VU2PTT           599  22  E7CW             599  15    1
+QSO:   28016  CW 2020-11-28 1108  VU2PTT           599  22  IK0PUL           599  15    1
+QSO:   28016  CW 2020-11-28 1108  VU2PTT           599  22  VU3ESV           599  22    1
+QSO:   28016  CW 2020-11-28 1108  VU2PTT           599  22  EA5KM            599  14    1
+QSO:   28016  CW 2020-11-28 1109  VU2PTT           599  22  V51WH            599  38    1
+QSO:   28016  CW 2020-11-28 1109  VU2PTT           599  22  OM4Q             599  15    1
+QSO:   28016  CW 2020-11-28 1109  VU2PTT           599  22  IK2FYH           599  15    1
+QSO:   28016  CW 2020-11-28 1109  VU2PTT           599  22  HA3FTA           599  15    1
+QSO:   28016  CW 2020-11-28 1110  VU2PTT           599  22  IK2OHG           599  15    1
+QSO:   28016  CW 2020-11-28 1110  VU2PTT           599  22  EA3BS            599  14    1
+QSO:   28016  CW 2020-11-28 1110  VU2PTT           599  22  IK1RDN           599  15    1
+QSO:   28016  CW 2020-11-28 1111  VU2PTT           599  22  IZ3XEF           599  15    1
+QSO:   28016  CW 2020-11-28 1111  VU2PTT           599  22  IK3JBP           599  15    1
+QSO:   28016  CW 2020-11-28 1112  VU2PTT           599  22  4U1A             599  15    1
+QSO:   28016  CW 2020-11-28 1112  VU2PTT           599  22  EI9JF            599  14    1
+QSO:   28016  CW 2020-11-28 1112  VU2PTT           599  22  IZ5AHB           599  15    1
+QSO:   28016  CW 2020-11-28 1113  VU2PTT           599  22  I5NSR            599  15    1
+QSO:   28016  CW 2020-11-28 1113  VU2PTT           599  22  EA6A             599  14    1
+QSO:   28016  CW 2020-11-28 1113  VU2PTT           599  22  PI4DX            599  14    1
+QSO:   28016  CW 2020-11-28 1114  VU2PTT           599  22  DF2TT            599  14    1
+QSO:   28016  CW 2020-11-28 1114  VU2PTT           599  22  ON5WQ            599  14    1
+QSO:   28016  CW 2020-11-28 1115  VU2PTT           599  22  F5IDJ            599  14    1
+QSO:   28016  CW 2020-11-28 1116  VU2PTT           599  22  IZ5CML           599  15    1
+QSO:   28016  CW 2020-11-28 1116  VU2PTT           599  22  CT1BOL           599  14    1
+QSO:   28016  CW 2020-11-28 1117  VU2PTT           599  22  IT9AJP           599  15    1
+QSO:   28016  CW 2020-11-28 1117  VU2PTT           599  22  I1WXY            599  15    1
+QSO:   28016  CW 2020-11-28 1117  VU2PTT           599  22  IK3JLS           599  15    1
+QSO:   28016  CW 2020-11-28 1118  VU2PTT           599  22  EI0CZ            599  14    1
+QSO:   28016  CW 2020-11-28 1118  VU2PTT           599  22  II8M             599  15    1
+QSO:   28016  CW 2020-11-28 1119  VU2PTT           599  22  OR7W             599  14    1
+QSO:   28016  CW 2020-11-28 1119  VU2PTT           599  22  ON6LR            599  14    1
+QSO:   28016  CW 2020-11-28 1120  VU2PTT           599  22  M0WLF            599  14    1
+QSO:   28016  CW 2020-11-28 1121  VU2PTT           599  22  MM2N             599  14    1
+QSO:   28016  CW 2020-11-28 1122  VU2PTT           599  22  IK2RHH           599  15    1
+QSO:   28016  CW 2020-11-28 1122  VU2PTT           599  22  9A8A             599  15    1
+QSO:   28016  CW 2020-11-28 1122  VU2PTT           599  22  IR4B             599  15    1
+QSO:   28016  CW 2020-11-28 1122  VU2PTT           599  22  GW0ARK           599  14    1
+QSO:   28016  CW 2020-11-28 1123  VU2PTT           599  22  EA5YU            599  14    1
+QSO:   28016  CW 2020-11-28 1123  VU2PTT           599  22  IR7T             599  15    1
+QSO:   28016  CW 2020-11-28 1123  VU2PTT           599  22  S50A             599  15    1
+QSO:   28016  CW 2020-11-28 1123  VU2PTT           599  22  E76C             599  15    1
+QSO:   28016  CW 2020-11-28 1123  VU2PTT           599  22  G3PJT            599  14    1
+QSO:   28016  CW 2020-11-28 1124  VU2PTT           599  22  A92GE            599  21    1
+QSO:   28016  CW 2020-11-28 1124  VU2PTT           599  22  F8KGW            599  14    1
+QSO:   28016  CW 2020-11-28 1125  VU2PTT           599  22  G7C              599  14    1
+QSO:   28016  CW 2020-11-28 1125  VU2PTT           599  22  9A2NO            599  15    1
+QSO:   28016  CW 2020-11-28 1125  VU2PTT           599  22  IK1CIX           599  15    1
+QSO:   28016  CW 2020-11-28 1126  VU2PTT           599  22  G8A              599  14    1
+QSO:   28016  CW 2020-11-28 1127  VU2PTT           599  22  EA5RS            599  14    1
+QSO:   28016  CW 2020-11-28 1127  VU2PTT           599  22  S53K             599  15    1
+QSO:   28016  CW 2020-11-28 1127  VU2PTT           599  22  PG5M             599  14    1
+QSO:   28016  CW 2020-11-28 1128  VU2PTT           599  22  I4TJE            599  15    1
+QSO:   28016  CW 2020-11-28 1129  VU2PTT           599  22  S53WW            599  15    1
+QSO:   28007  CW 2020-11-28 1133  VU2PTT           599  22  IH9YMG           599  33    1
+QSO:   21010  CW 2020-11-28 1138  VU2PTT           599  22  VK6LW            599  29    1
+QSO:   21040  CW 2020-11-28 1140  VU2PTT           599  22  5Z4VJ            599  37    1
+QSO:   21010  CW 2020-11-28 1148  VU2PTT           599  22  4O4T             599  15    1
+QSO:   14036  CW 2020-11-28 1206  VU2PTT           599  22  RT6A             599  16    1
+QSO:   14036  CW 2020-11-28 1206  VU2PTT           599  22  DK6WL            599  14    1
+QSO:   14036  CW 2020-11-28 1206  VU2PTT           599  22  IZ8EFD           599  15    1
+QSO:   14036  CW 2020-11-28 1207  VU2PTT           599  22  RU1A             599  16    1
+QSO:   14036  CW 2020-11-28 1207  VU2PTT           599  22  GW5R             599  14    1
+QSO:   14036  CW 2020-11-28 1207  VU2PTT           599  22  UA3A             599  16    1
+QSO:   14036  CW 2020-11-28 1208  VU2PTT           599  22  DL7CX            599  14    1
+QSO:   14036  CW 2020-11-28 1208  VU2PTT           599  22  II3R             599  15    1
+QSO:   14036  CW 2020-11-28 1208  VU2PTT           599  22  IR6T             599  15    1
+QSO:   14036  CW 2020-11-28 1208  VU2PTT           599  22  UR7HCX           599  16    1
+QSO:   14036  CW 2020-11-28 1209  VU2PTT           599  22  YL2GD            599  15    1
+QSO:   14036  CW 2020-11-28 1209  VU2PTT           599  22  DK8ZB            599  14    1
+QSO:   14036  CW 2020-11-28 1209  VU2PTT           599  22  YT4W             599  15    1
+QSO:   14036  CW 2020-11-28 1209  VU2PTT           599  22  SX9V             599  20    1
+QSO:   14036  CW 2020-11-28 1210  VU2PTT           599  22  R4WR             599  16    1
+QSO:   14036  CW 2020-11-28 1210  VU2PTT           599  22  UX3I             599  16    1
+QSO:   14036  CW 2020-11-28 1210  VU2PTT           599  22  R7AT             599  16    1
+QSO:   14036  CW 2020-11-28 1211  VU2PTT           599  22  DL6KVA           599  14    1
+QSO:   14036  CW 2020-11-28 1211  VU2PTT           599  22  DL1RG            599  14    1
+QSO:   14036  CW 2020-11-28 1212  VU2PTT           599  22  RU3A             599  16    1
+QSO:   14036  CW 2020-11-28 1212  VU2PTT           599  22  ES9C             599  15    1
+QSO:   14036  CW 2020-11-28 1212  VU2PTT           599  22  YB0ANJ           599  28    1
+QSO:   14036  CW 2020-11-28 1213  VU2PTT           599  22  IZ8NWA           599  15    1
+QSO:   14036  CW 2020-11-28 1215  VU2PTT           599  22  SP1NY            599  15    1
+QSO:   14036  CW 2020-11-28 1216  VU2PTT           599  22  HA8IB            599  15    1
+QSO:   14036  CW 2020-11-28 1216  VU2PTT           599  22  UA9LAO           599  17    1
+QSO:   14036  CW 2020-11-28 1217  VU2PTT           599  22  OG6N             599  15    1
+QSO:   14036  CW 2020-11-28 1217  VU2PTT           599  22  SP9H             599  15    1
+QSO:   14036  CW 2020-11-28 1217  VU2PTT           599  22  UA3THY           599  16    1
+QSO:   14036  CW 2020-11-28 1218  VU2PTT           599  22  HG3N             599  15    1
+QSO:    7004  CW 2020-11-28 1220  VU2PTT           599  22  BY8AC            599  24    1
+QSO:    7009  CW 2020-11-28 1221  VU2PTT           599  22  9V1HY            599  28    1
+QSO:    7028  CW 2020-11-28 1222  VU2PTT           599  22  9M2YDX           599  28    1
+QSO:    7030  CW 2020-11-28 1224  VU2PTT           599  22  7A0D             599  28    1
+QSO:   14003  CW 2020-11-28 1227  VU2PTT           599  22  VK2GR            599  30    1
+QSO:   14004  CW 2020-11-28 1227  VU2PTT           599  22  UA4S             599  16    1
+QSO:   14005  CW 2020-11-28 1228  VU2PTT           599  22  LY4T             599  15    1
+QSO:   14023  CW 2020-11-28 1231  VU2PTT           599  22  UZ2M             599  16    1
+QSO:   14026  CW 2020-11-28 1233  VU2PTT           599  22  Z35T             599  15    1
+QSO:   14027  CW 2020-11-28 1234  VU2PTT           599  22  EA4OR            599  14    1
+QSO:   14028  CW 2020-11-28 1236  VU2PTT           599  22  PG5M             599  14    1
+QSO:   14029  CW 2020-11-28 1237  VU2PTT           599  22  SP8R             599  15    1
+QSO:   14032  CW 2020-11-28 1241  VU2PTT           599  22  OM7M             599  15    1
+QSO:   14033  CW 2020-11-28 1242  VU2PTT           599  22  N2NT             599  05    1
+QSO:   14038  CW 2020-11-28 1243  VU2PTT           599  22  R5AJ             599  16    1
+QSO:   14038  CW 2020-11-28 1243  VU2PTT           599  22  DA2X             599  14    1
+QSO:   14039  CW 2020-11-28 1244  VU2PTT           599  22  DK3DM            599  14    1
+QSO:   14040  CW 2020-11-28 1245  VU2PTT           599  22  SE5E             599  14    1
+QSO:   14041  CW 2020-11-28 1246  VU2PTT           599  22  K3WW             599  05    1
+QSO:   14098  CW 2020-11-28 1251  VU2PTT           599  22  MM2N             599  14    1
+QSO:   14098  CW 2020-11-28 1252  VU2PTT           599  22  WC1M             599  05    1
+QSO:   14098  CW 2020-11-28 1253  VU2PTT           599  22  OH3OJ            599  15    1
+QSO:   14092  CW 2020-11-28 1255  VU2PTT           599  22  UT4U             599  16    1
+QSO:   14089  CW 2020-11-28 1255  VU2PTT           599  22  8Q7ZO            599  22    1
+QSO:   14086  CW 2020-11-28 1256  VU2PTT           599  22  LA8OM            599  14    1
+QSO:   14086  CW 2020-11-28 1257  VU2PTT           599  22  K1ZZ             599  05    1
+QSO:   14085  CW 2020-11-28 1258  VU2PTT           599  22  UA4M             599  16    1
+QSO:   14079  CW 2020-11-28 1259  VU2PTT           599  22  UZ2I             599  16    1
+QSO:   14071  CW 2020-11-28 1301  VU2PTT           599  22  YC9BHJ           599  28    1
+QSO:   14043  CW 2020-11-28 1303  VU2PTT           599  22  RL3A             599  16    1
+QSO:   14042  CW 2020-11-28 1304  VU2PTT           599  22  YL2SM            599  15    1
+QSO:   14041  CW 2020-11-28 1304  VU2PTT           599  22  N3AD             599  05    1
+QSO:   14041  CW 2020-11-28 1305  VU2PTT           599  22  LX7I             599  14    1
+QSO:   14037  CW 2020-11-28 1307  VU2PTT           599  22  9M6MI            599  28    1
+QSO:   14036  CW 2020-11-28 1308  VU2PTT           599  22  OM7JG            599  15    1
+QSO:   14036  CW 2020-11-28 1308  VU2PTT           599  22  E2A              599  26    1
+QSO:   14028  CW 2020-11-28 1311  VU2PTT           599  22  LY5R             599  15    1
+QSO:   14024  CW 2020-11-28 1313  VU2PTT           599  22  HA4A             599  15    1
+QSO:   14024  CW 2020-11-28 1314  VU2PTT           599  22  HA8A             599  15    1
+QSO:   14023  CW 2020-11-28 1315  VU2PTT           599  22  LZ1ZJ            599  20    1
+QSO:   14022  CW 2020-11-28 1316  VU2PTT           599  22  LZ7J             599  20    1
+QSO:   14022  CW 2020-11-28 1317  VU2PTT           599  22  SN5B             599  15    1
+QSO:   14021  CW 2020-11-28 1318  VU2PTT           599  22  9A5Y             599  15    1
+QSO:   14019  CW 2020-11-28 1322  VU2PTT           599  22  HB9CA            599  14    1
+QSO:   14017  CW 2020-11-28 1323  VU2PTT           599  22  OL8M             599  15    1
+QSO:   14016  CW 2020-11-28 1324  VU2PTT           599  22  YT5A             599  15    1
+QSO:   14007  CW 2020-11-28 1328  VU2PTT           599  22  DM3MM            599  14    1
+QSO:   14006  CW 2020-11-28 1330  VU2PTT           599  22  W3UA             599  05    1
+QSO:   14005  CW 2020-11-28 1331  VU2PTT           599  22  A65DF            599  21    1
+QSO:   14005  CW 2020-11-28 1332  VU2PTT           599  22  9A3XV            599  15    1
+QSO:   14003  CW 2020-11-28 1333  VU2PTT           599  22  KC1XX            599  05    1
+QSO:   14000  CW 2020-11-28 1334  VU2PTT           599  22  UA7K             599  16    1
+QSO:   14000  CW 2020-11-28 1335  VU2PTT           599  22  PI4COM           599  14    1
+QSO:   21010  CW 2020-11-28 1337  VU2PTT           599  22  S58M             599  15    1
+QSO:   21014  CW 2020-11-28 1338  VU2PTT           599  22  S53ZO            599  15    1
+QSO:   21040  CW 2020-11-28 1339  VU2PTT           599  22  S57AL            599  15    1
+QSO:   21055  CW 2020-11-28 1344  VU2PTT           599  22  HZ1TT            599  21    1
+QSO:   21081  CW 2020-11-28 1345  VU2PTT           599  22  YT0Z             599  15    1
+QSO:   28002  CW 2020-11-28 1352  VU2PTT           599  22  PY2YU            599  11    1
+QSO:   21083  CW 2020-11-28 1355  VU2PTT           599  22  EA8RM            599  33    1
+QSO:   21000  CW 2020-11-28 1400  VU2PTT           599  22  ZY5T             599  11    1
+QSO:   21045  CW 2020-11-28 1408  VU2PTT           599  22  E7DX             599  15    1
+QSO:   21046  CW 2020-11-28 1414  VU2PTT           599  22  YU5A             599  15    1
+QSO:   21024  CW 2020-11-28 1419  VU2PTT           599  22  YT1T             599  15    1
+QSO:   21018  CW 2020-11-28 1420  VU2PTT           599  22  LZ1ZJ            599  20    1
+QSO:   21014  CW 2020-11-28 1422  VU2PTT           599  22  9A5D             599  15    1
+QSO:   21016  CW 2020-11-28 1426  VU2PTT           599  22  S50R             599  15    1
+QSO:   14064  CW 2020-11-28 1431  VU2PTT           599  22  P3C              599  20    1
+QSO:   14062  CW 2020-11-28 1432  VU2PTT           599  22  9M2ZAK           599  28    1
+QSO:   14003  CW 2020-11-28 1437  VU2PTT           599  22  9M2YDX           599  28    1
+QSO:   14038  CW 2020-11-28 1438  VU2PTT           599  22  E27EK            599  26    1
+QSO:    7008  CW 2020-11-28 1442  VU2PTT           599  22  HA9A             599  15    1
+QSO:    7016  CW 2020-11-28 1443  VU2PTT           599  22  RT0F             599  19    1
+QSO:    7019  CW 2020-11-28 1444  VU2PTT           599  22  OH5Z             599  15    1
+QSO:    7022  CW 2020-11-28 1446  VU2PTT           599  22  LN8W             599  14    1
+QSO:    7024  CW 2020-11-28 1447  VU2PTT           599  22  9M2SAF           599  28    1
+QSO:    7029  CW 2020-11-28 1449  VU2PTT           599  22  7C1B             599  28    1
+QSO:    7031  CW 2020-11-28 1450  VU2PTT           599  22  KH7Q             599  31    1
+QSO:    7035  CW 2020-11-28 1450  VU2PTT           599  22  UR7LY            599  16    1
+QSO:    7035  CW 2020-11-28 1452  VU2PTT           599  22  VK6LW            599  29    1
+QSO:    7037  CW 2020-11-28 1453  VU2PTT           599  22  OK1MV            599  15    1
+QSO:    7038  CW 2020-11-28 1453  VU2PTT           599  22  YU7XX            599  15    1
+QSO:    7051  CW 2020-11-28 1455  VU2PTT           599  22  VK3MI            599  30    1
+QSO:    7006  CW 2020-11-28 1456  VU2PTT           599  22  BA7QT            599  24    1
+QSO:    7010  CW 2020-11-28 1457  VU2PTT           599  22  BG6SNJ           599  24    1
+QSO:    7014  CW 2020-11-28 1458  VU2PTT           599  22  7A1A             599  28    1
+QSO:    7026  CW 2020-11-28 1500  VU2PTT           599  22  9A5X             599  15    1
+QSO:    7026  CW 2020-11-28 1501  VU2PTT           599  22  S53ZO            599  15    1
+QSO:    7028  CW 2020-11-28 1504  VU2PTT           599  22  4O3A             599  15    1
+QSO:    7033  CW 2020-11-28 1505  VU2PTT           599  22  YL7X             599  15    1
+QSO:    7059  CW 2020-11-28 1536  VU2PTT           599  22  DL3GA            599  14    1
+QSO:    7058  CW 2020-11-28 1537  VU2PTT           599  22  E21YDP           599  26    1
+QSO:    7055  CW 2020-11-28 1539  VU2PTT           599  22  OH2BAH           599  15    1
+QSO:    7053  CW 2020-11-28 1541  VU2PTT           599  22  YL2GD            599  15    1
+QSO:    7052  CW 2020-11-28 1542  VU2PTT           599  22  R3OM             599  16    1
+QSO:    7046  CW 2020-11-28 1543  VU2PTT           599  22  VK2IA            599  30    1
+QSO:    7031  CW 2020-11-28 1545  VU2PTT           599  22  LZ9W             599  20    1
+QSO:    7021  CW 2020-11-28 1546  VU2PTT           599  22  UZ2M             599  16    1
+QSO:    7021  CW 2020-11-28 1547  VU2PTT           599  22  UW1M             599  16    1
+QSO:    7021  CW 2020-11-28 1549  VU2PTT           599  22  RA3W             599  16    1
+QSO:    7020  CW 2020-11-28 1550  VU2PTT           599  22  UA4M             599  16    1
+QSO:    7011  CW 2020-11-28 1552  VU2PTT           599  22  RM9A             599  17    1
+QSO:    7007  CW 2020-11-28 1554  VU2PTT           599  22  E2A              599  26    1
+QSO:    7006  CW 2020-11-28 1555  VU2PTT           599  22  3Z1K             599  15    1
+QSO:    7004  CW 2020-11-28 1558  VU2PTT           599  22  RL3A             599  16    1
+QSO:    7004  CW 2020-11-28 1559  VU2PTT           599  22  UP7L             599  17    1
+QSO:    7004  CW 2020-11-28 1559  VU2PTT           599  22  UT7E             599  16    1
+QSO:    7004  CW 2020-11-28 1600  VU2PTT           599  22  UA4CC            599  16    1
+QSO:    7004  CW 2020-11-28 1601  VU2PTT           599  22  OM7JG            599  15    1
+QSO:    7004  CW 2020-11-28 1602  VU2PTT           599  22  RT4F             599  16    1
+QSO:    7004  CW 2020-11-28 1603  VU2PTT           599  22  VK6IT            599  29    1
+QSO:    7004  CW 2020-11-28 1603  VU2PTT           599  22  RT4H             599  16    1
+QSO:    7004  CW 2020-11-28 1604  VU2PTT           599  22  JA1TBA           599  25    1
+QSO:    7004  CW 2020-11-28 1604  VU2PTT           599  22  HA3NU            599  15    1
+QSO:    7004  CW 2020-11-28 1605  VU2PTT           599  22  SV5DKL           599  20    1
+QSO:    7004  CW 2020-11-28 1605  VU2PTT           599  22  4Z5ML            599  20    1
+QSO:    7004  CW 2020-11-28 1606  VU2PTT           599  22  RG4A             599  16    1
+QSO:    7004  CW 2020-11-28 1607  VU2PTT           599  22  OH0Z             599  15    1
+QSO:    7004  CW 2020-11-28 1608  VU2PTT           599  22  DL2DX            599  14    1
+QSO:    7004  CW 2020-11-28 1609  VU2PTT           599  22  OK2TJ            599  15    1
+QSO:    7004  CW 2020-11-28 1610  VU2PTT           599  22  UA6CC            599  16    1
+QSO:    7004  CW 2020-11-28 1611  VU2PTT           599  22  JH4UTP           599  25    1
+QSO:    7004  CW 2020-11-28 1611  VU2PTT           599  22  P3X              599  20    1
+QSO:    7004  CW 2020-11-28 1613  VU2PTT           599  22  IK2CLB           599  15    1
+QSO:    7004  CW 2020-11-28 1613  VU2PTT           599  22  RU5A             599  16    1
+QSO:    7004  CW 2020-11-28 1613  VU2PTT           599  22  LY2K             599  15    1
+QSO:    7004  CW 2020-11-28 1614  VU2PTT           599  22  UA6AUA           599  16    1
+QSO:    7004  CW 2020-11-28 1616  VU2PTT           599  22  UA9MA            599  17    1
+QSO:    7004  CW 2020-11-28 1616  VU2PTT           599  22  SJ2W             599  14    1
+QSO:    7004  CW 2020-11-28 1617  VU2PTT           599  22  OL3Z             599  15    1
+QSO:    7004  CW 2020-11-28 1617  VU2PTT           599  22  VU2TMP           599  22    1
+QSO:    7004  CW 2020-11-28 1618  VU2PTT           599  22  9M6NA            599  28    1
+QSO:    7004  CW 2020-11-28 1620  VU2PTT           599  22  OE1SZW           599  15    1
+QSO:    7004  CW 2020-11-28 1622  VU2PTT           599  22  UB3A             599  16    1
+QSO:    7004  CW 2020-11-28 1623  VU2PTT           599  22  UA3EDQ           599  16    1
+QSO:    7004  CW 2020-11-28 1623  VU2PTT           599  22  RM9I             599  18    1
+QSO:    7004  CW 2020-11-28 1624  VU2PTT           599  22  EW2A             599  16    1
+QSO:    7004  CW 2020-11-28 1624  VU2PTT           599  22  UR5ECW           599  16    1
+QSO:    7004  CW 2020-11-28 1625  VU2PTT           599  22  J42I             599  20    1
+QSO:    7004  CW 2020-11-28 1626  VU2PTT           599  22  DL9USA           599  14    1
+QSO:    7004  CW 2020-11-28 1626  VU2PTT           599  22  UA3A             599  16    1
+QSO:    7004  CW 2020-11-28 1628  VU2PTT           599  22  5Z4VJ            599  37    1
+QSO:    7004  CW 2020-11-28 1629  VU2PTT           599  22  JF7PHE           599  25    1
+QSO:    7004  CW 2020-11-28 1629  VU2PTT           599  22  OM2VL            599  15    1
+QSO:    7004  CW 2020-11-28 1629  VU2PTT           599  22  UV5U             599  16    1
+QSO:    7004  CW 2020-11-28 1631  VU2PTT           599  22  RA4ACX           599  16    1
+QSO:    7004  CW 2020-11-28 1631  VU2PTT           599  22  YU7KW            599  15    1
+QSO:    7004  CW 2020-11-28 1632  VU2PTT           599  22  UR7R             599  16    1
+QSO:    7001  CW 2020-11-28 1634  VU2PTT           599  22  SN3A             599  15    1
+QSO:    7005  CW 2020-11-28 1642  VU2PTT           599  22  PA3AAV           599  14    1
+QSO:    7009  CW 2020-11-28 1643  VU2PTT           599  22  J42L             599  20    1
+QSO:    7028  CW 2020-11-28 1647  VU2PTT           599  22  ES9C             599  15    1
+QSO:    7030  CW 2020-11-28 1648  VU2PTT           599  22  SP5AUC           599  15    1
+QSO:    7032  CW 2020-11-28 1650  VU2PTT           599  22  RT6A             599  16    1
+QSO:    7034  CW 2020-11-28 1650  VU2PTT           599  22  HG7T             599  15    1
+QSO:    7035  CW 2020-11-28 1651  VU2PTT           599  22  DR1D             599  14    1
+QSO:    7036  CW 2020-11-28 1652  VU2PTT           599  22  9M2S             599  28    1
+QSO:    7045  CW 2020-11-28 1655  VU2PTT           599  22  SN7Q             599  15    1
+QSO:    7058  CW 2020-11-28 1657  VU2PTT           599  22  UW5U             599  16    1
+QSO:    7061  CW 2020-11-28 1658  VU2PTT           599  22  9V1YC            599  28    1
+QSO:    7067  CW 2020-11-28 1659  VU2PTT           599  22  RT2F             599  15    1
+QSO:    7071  CW 2020-11-28 1700  VU2PTT           599  22  LY7Z             599  15    1
+QSO:    7050  CW 2020-11-28 1701  VU2PTT           599  22  OL0W             599  15    1
+QSO:    7038  CW 2020-11-28 1704  VU2PTT           599  22  YP8T             599  20    1
+QSO:    7032  CW 2020-11-28 1705  VU2PTT           599  22  UT5C             599  16    1
+QSO:    7032  CW 2020-11-28 1706  VU2PTT           599  22  RX6CB            599  16    1
+QSO:    7019  CW 2020-11-28 1707  VU2PTT           599  22  BY8DX            599  24    1
+QSO:    7011  CW 2020-11-28 1709  VU2PTT           599  22  R6AF             599  16    1
+QSO:    7004  CW 2020-11-28 1710  VU2PTT           599  22  OK5Z             599  15    1
+QSO:   14041  CW 2020-11-28 1720  VU2PTT           599  22  D4Z              599  35    1
+QSO:   14021  CW 2020-11-28 1721  VU2PTT           599  22  PX2A             599  11    1
+QSO:   14043  CW 2020-11-28 1726  VU2PTT           599  22  EA8DHV           599  33    1
+QSO:   14022  CW 2020-11-28 1729  VU2PTT           599  22  VK6LW            599  29    1
+QSO:    7000  CW 2020-11-28 1803  VU2PTT           599  22  YT5A             599  15    1
+QSO:    7000  CW 2020-11-28 1804  VU2PTT           599  22  S58M             599  15    1
+QSO:    7001  CW 2020-11-28 1805  VU2PTT           599  22  DC4A             599  14    1
+QSO:    7001  CW 2020-11-28 1806  VU2PTT           599  22  IO4T             599  15    1
+QSO:    7001  CW 2020-11-28 1807  VU2PTT           599  22  OQ5M             599  14    1
+QSO:    7002  CW 2020-11-28 1809  VU2PTT           599  22  RU9I             599  18    1
+QSO:    7002  CW 2020-11-28 1810  VU2PTT           599  22  BI4VIB           599  24    1
+QSO:    7004  CW 2020-11-28 1812  VU2PTT           599  22  HA5JI            599  15    1
+QSO:    7014  CW 2020-11-28 1813  VU2PTT           599  22  EW1M             599  16    1
+QSO:    7017  CW 2020-11-28 1814  VU2PTT           599  22  OP4K             599  14    1
+QSO:    7030  CW 2020-11-28 1817  VU2PTT           599  22  IK2HKT           599  15    1
+QSO:    7039  CW 2020-11-28 1823  VU2PTT           599  22  OZ7A             599  14    1
+QSO:    7042  CW 2020-11-28 1825  VU2PTT           599  22  SP1D             599  15    1
+QSO:    7043  CW 2020-11-28 1826  VU2PTT           599  22  VK3JA            599  30    1
+QSO:    7045  CW 2020-11-28 1830  VU2PTT           599  22  S53MM            599  15    1
+QSO:    7049  CW 2020-11-28 1832  VU2PTT           599  22  IR2Q             599  15    1
+QSO:    7001  CW 2020-11-28 1836  VU2PTT           599  22  UW1GZ            599  16    1
+QSO:    7005  CW 2020-11-28 1837  VU2PTT           599  22  RU1A             599  16    1
+QSO:    7025  CW 2020-11-28 1843  VU2PTT           599  22  LY4A             599  15    1
+QSO:    7025  CW 2020-11-28 1844  VU2PTT           599  22  OH1F             599  15    1
+QSO:    7030  CW 2020-11-28 1852  VU2PTT           599  22  JA7ZFN           599  25    1
+QSO:    7033  CW 2020-11-28 1853  VU2PTT           599  22  P3C              599  20    1
+QSO:    7037  CW 2020-11-28 1857  VU2PTT           599  22  CR3W             599  33    1
+QSO:    7043  CW 2020-11-28 1858  VU2PTT           599  22  UA7K             599  16    1
+QSO:    7044  CW 2020-11-28 1903  VU2PTT           599  22  T6A              599  21    1
+QSO:    7048  CW 2020-11-28 1905  VU2PTT           599  22  F6GCP            599  14    1
+QSO:    7048  CW 2020-11-28 1906  VU2PTT           599  22  UR6EA            599  16    1
+QSO:    7048  CW 2020-11-28 1906  VU2PTT           599  22  I2WIJ            599  15    1
+QSO:    7048  CW 2020-11-28 1907  VU2PTT           599  22  S57L             599  15    1
+QSO:    7048  CW 2020-11-28 1908  VU2PTT           599  22  R6CZ             599  16    1
+QSO:    7048  CW 2020-11-28 1910  VU2PTT           599  22  DL1DTL           599  14    1
+QSO:    7048  CW 2020-11-28 1911  VU2PTT           599  22  JA6GCE           599  25    1
+QSO:    7048  CW 2020-11-28 1912  VU2PTT           599  22  OL7P             599  15    1
+QSO:    7048  CW 2020-11-28 1912  VU2PTT           599  22  RN2FA            599  15    1
+QSO:    7048  CW 2020-11-28 1913  VU2PTT           599  22  DL4CF            599  14    1
+QSO:    7048  CW 2020-11-28 1914  VU2PTT           599  22  SV1ABB           599  20    1
+QSO:    7048  CW 2020-11-28 1914  VU2PTT           599  22  JK1BQS           599  25    1
+QSO:    7048  CW 2020-11-28 1914  VU2PTT           599  22  OK1WCF           599  15    1
+QSO:    7048  CW 2020-11-28 1915  VU2PTT           599  22  DK3UA            599  14    1
+QSO:    7048  CW 2020-11-28 1916  VU2PTT           599  22  IK5SRF           599  15    1
+QSO:    7048  CW 2020-11-28 1916  VU2PTT           599  22  DA2X             599  14    1
+QSO:    7048  CW 2020-11-28 1917  VU2PTT           599  22  DJ9KM            599  14    1
+QSO:    7048  CW 2020-11-28 1917  VU2PTT           599  22  IZ1EPM           599  15    1
+QSO:    7048  CW 2020-11-28 1918  VU2PTT           599  22  ER3R             599  16    1
+QSO:    7048  CW 2020-11-28 1920  VU2PTT           599  22  OK8AU            599  15    1
+QSO:    7048  CW 2020-11-28 1920  VU2PTT           599  22  S54X             599  15    1
+QSO:    7048  CW 2020-11-28 1921  VU2PTT           599  22  IK2GZU           599  15    1
+QSO:    7048  CW 2020-11-28 1921  VU2PTT           599  22  IT9ATF           599  15    1
+QSO:    7048  CW 2020-11-28 1923  VU2PTT           599  22  HA8LNN           599  15    1
+QSO:    7048  CW 2020-11-28 1924  VU2PTT           599  22  DL4JLM           599  14    1
+QSO:    7048  CW 2020-11-28 1924  VU2PTT           599  22  S51YI            599  15    1
+QSO:    7048  CW 2020-11-28 1925  VU2PTT           599  22  9A7T             599  15    1
+QSO:    7048  CW 2020-11-28 1925  VU2PTT           599  22  I2IFT            599  15    1
+QSO:    7048  CW 2020-11-28 1926  VU2PTT           599  22  JH7MQD           599  25    1
+QSO:    7048  CW 2020-11-28 1927  VU2PTT           599  22  SQ5JUP           599  15    1
+QSO:    7048  CW 2020-11-28 1928  VU2PTT           599  22  DL7UGO           599  14    1
+QSO:    7048  CW 2020-11-28 1928  VU2PTT           599  22  LY2A             599  15    1
+QSO:    7048  CW 2020-11-28 1928  VU2PTT           599  22  OM3TZZ           599  15    1
+QSO:    7048  CW 2020-11-28 1929  VU2PTT           599  22  SP9JZU           599  15    1
+QSO:    7048  CW 2020-11-28 1929  VU2PTT           599  22  SM6TKG           599  14    1
+QSO:    7048  CW 2020-11-28 1930  VU2PTT           599  22  RC2A             599  16    1
+QSO:    7048  CW 2020-11-28 1930  VU2PTT           599  22  VU3ESV           599  22    1
+QSO:    7048  CW 2020-11-28 1931  VU2PTT           599  22  I0JBL            599  15    1
+QSO:    7048  CW 2020-11-28 1932  VU2PTT           599  22  IK2XDE           599  15    1
+QSO:    7048  CW 2020-11-28 1933  VU2PTT           599  22  JR3NZC           599  25    1
+QSO:    7048  CW 2020-11-28 1933  VU2PTT           599  22  DL1II            599  14    1
+QSO:    7048  CW 2020-11-28 1934  VU2PTT           599  22  DL2NBU           599  14    1
+QSO:    7048  CW 2020-11-28 1934  VU2PTT           599  22  DL8MKG           599  14    1
+QSO:    7048  CW 2020-11-28 1935  VU2PTT           599  22  OE3DXA           599  15    1
+QSO:    7048  CW 2020-11-28 1936  VU2PTT           599  22  UT8IO            599  16    1
+QSO:    7048  CW 2020-11-28 1937  VU2PTT           599  22  BD1IIJ           599  24    1
+QSO:    7048  CW 2020-11-28 1937  VU2PTT           599  22  BX4AQ            599  24    1
+QSO:    7048  CW 2020-11-28 1938  VU2PTT           599  22  R7RF             599  16    1
+QSO:    7048  CW 2020-11-28 1939  VU2PTT           599  22  JA1SDV           599  25    1
+QSO:    7048  CW 2020-11-28 1939  VU2PTT           599  22  HG5C             599  15    1
+QSO:    7048  CW 2020-11-28 1940  VU2PTT           599  22  G0BNR            599  14    1
+QSO:    7048  CW 2020-11-28 1941  VU2PTT           599  22  UY1HY            599  16    1
+QSO:    7048  CW 2020-11-28 1941  VU2PTT           599  22  JA7OWD           599  25    1
+QSO:    7048  CW 2020-11-28 1947  VU2PTT           599  22  S57A             599  15    1
+QSO:    7048  CW 2020-11-28 1948  VU2PTT           599  22  DL3AO            599  14    1
+QSO:    7048  CW 2020-11-28 1948  VU2PTT           599  22  HB9CA            599  14    1
+QSO:    7048  CW 2020-11-28 1949  VU2PTT           599  22  JJ1VEZ           599  25    1
+QSO:    7048  CW 2020-11-28 1950  VU2PTT           599  22  YC1JGE           599  28    1
+QSO:    7048  CW 2020-11-28 1950  VU2PTT           599  22  DL4UNY           599  14    1
+QSO:    7048  CW 2020-11-28 1951  VU2PTT           599  22  DL5XJ            599  14    1
+QSO:    7048  CW 2020-11-28 1951  VU2PTT           599  22  HA8ZB            599  15    1
+QSO:    7048  CW 2020-11-28 1951  VU2PTT           599  22  UA0ZAM           599  19    1
+QSO:    7047  CW 2020-11-28 1954  VU2PTT           599  22  SX1T             599  20    1
+QSO:    7045  CW 2020-11-28 1955  VU2PTT           599  22  UR5IRM           599  16    1
+QSO:    7042  CW 2020-11-28 1956  VU2PTT           599  22  IS0AFM           599  15    1
+QSO:    7039  CW 2020-11-28 1957  VU2PTT           599  22  9H1PI            599  15    1
+QSO:    7036  CW 2020-11-28 1958  VU2PTT           599  22  HA8TP            599  15    1
+QSO:    7028  CW 2020-11-28 2006  VU2PTT           599  22  JA1PNA           599  25    1
+QSO:    7025  CW 2020-11-28 2008  VU2PTT           599  22  A45TT            599  21    1
+QSO:    7013  CW 2020-11-28 2011  VU2PTT           599  22  YU1UN            599  15    1
+QSO:    7011  CW 2020-11-28 2013  VU2PTT           599  22  HA8FK            599  15    1
+QSO:    7005  CW 2020-11-28 2014  VU2PTT           599  22  B4T              599  24    1
+QSO:    7002  CW 2020-11-28 2015  VU2PTT           599  22  HA8VV            599  15    1
+QSO:    7001  CW 2020-11-28 2016  VU2PTT           599  22  S57K             599  15    1
+QSO:    7001  CW 2020-11-28 2017  VU2PTT           599  22  E7DX             599  15    1
+QSO:    7000  CW 2020-11-28 2019  VU2PTT           599  22  EC4C             599  14    1
+QSO:    7066  CW 2020-11-28 2022  VU2PTT           599  22  RA7A             599  16    1
+QSO:    7063  CW 2020-11-28 2023  VU2PTT           599  22  UN3M             599  17    1
+QSO:    7060  CW 2020-11-28 2024  VU2PTT           599  22  BG2AUE           599  24    1
+QSO:    7059  CW 2020-11-28 2025  VU2PTT           599  22  R4SA             599  16    1
+QSO:    7052  CW 2020-11-28 2026  VU2PTT           599  22  CR6K             599  14    1
+QSO:    7032  CW 2020-11-28 2040  VU2PTT           599  22  EI7M             599  14    1
+QSO:   14006  CW 2020-11-28 2043  VU2PTT           599  22  VK3EGN           599  30    1
+QSO:    7016  CW 2020-11-28 2049  VU2PTT           599  22  RT5C             599  16    1
+QSO:    7015  CW 2020-11-28 2050  VU2PTT           599  22  YU5A             599  15    1
+QSO:    7014  CW 2020-11-28 2053  VU2PTT           599  22  YD2ELT           599  28    1
+QSO:    7003  CW 2020-11-28 2057  VU2PTT           599  22  4X6FR            599  20    1
+QSO:    7065  CW 2020-11-28 2059  VU2PTT           599  22  OE5OHO           599  15    1
+QSO:    7065  CW 2020-11-28 2100  VU2PTT           599  22  IO4X             599  15    1
+QSO:    7053  CW 2020-11-28 2105  VU2PTT           599  22  EA5RS            599  14    1
+QSO:    7038  CW 2020-11-28 2108  VU2PTT           599  22  UZ2I             599  16    1
+QSO:    7036  CW 2020-11-28 2110  VU2PTT           599  22  S57S             599  15    1
+QSO:    7034  CW 2020-11-28 2112  VU2PTT           599  22  OK1KIM           599  15    1
+QSO:    7033  CW 2020-11-28 2113  VU2PTT           599  22  S53F             599  15    1
+QSO:    7031  CW 2020-11-28 2114  VU2PTT           599  22  FM5BH            599  08    1
+QSO:    7020  CW 2020-11-28 2118  VU2PTT           599  22  4U75B            599  15    1
+QSO:    7015  CW 2020-11-28 2120  VU2PTT           599  22  OM3CW            599  15    1
+QSO:    7061  CW 2020-11-28 2123  VU2PTT           599  22  4U1A             599  15    1
+QSO:    7059  CW 2020-11-28 2125  VU2PTT           599  22  IS0SWW           599  15    1
+QSO:    7057  CW 2020-11-28 2125  VU2PTT           599  22  TM5T             599  14    1
+QSO:    7056  CW 2020-11-28 2127  VU2PTT           599  22  SV2BXA           599  20    1
+QSO:    7054  CW 2020-11-28 2128  VU2PTT           599  22  EA6FO            599  14    1
+QSO:    7042  CW 2020-11-28 2132  VU2PTT           599  22  EA3X             599  14    1
+QSO:    7038  CW 2020-11-28 2134  VU2PTT           599  22  SP8R             599  15    1
+QSO:    7025  CW 2020-11-28 2138  VU2PTT           599  22  YO4DW            599  20    1
+QSO:    7024  CW 2020-11-28 2138  VU2PTT           599  22  7S               599  14    1
+QSO:    7024  CW 2020-11-28 2139  VU2PTT           599  22  7D1D             599  28    1
+QSO:    7002  CW 2020-11-28 2144  VU2PTT           599  22  9A5Y             599  15    1
+QSO:    7000  CW 2020-11-28 2146  VU2PTT           599  22  LZ5R             599  20    1
+QSO:    7072  CW 2020-11-28 2147  VU2PTT           599  22  KP3DX            599  08    1
+QSO:    7063  CW 2020-11-28 2151  VU2PTT           599  22  E73AA            599  15    1
+QSO:   14041  CW 2020-11-29 0037  VU2PTT           599  22  7C1B             599  28    1
+QSO:   14000  CW 2020-11-29 0108  VU2PTT           599  22  E2ICOM           599  26    1
+QSO:    7049  CW 2020-11-29 0111  VU2PTT           599  22  DL5RMH           599  14    1
+QSO:    7041  CW 2020-11-29 0114  VU2PTT           599  22  DL8SCG           599  14    1
+QSO:   28007  CW 2020-11-29 0224  VU2PTT           599  22  JH4ADK           599  25    1
+QSO:   28007  CW 2020-11-29 0225  VU2PTT           599  22  JA3XOG           599  25    1
+QSO:   28007  CW 2020-11-29 0225  VU2PTT           599  22  VU2AE            599  22    1
+QSO:   28007  CW 2020-11-29 0226  VU2PTT           599  22  7K4VPV           599  25    1
+QSO:   28007  CW 2020-11-29 0226  VU2PTT           599  22  JA5MXP           599  25    1
+QSO:   28007  CW 2020-11-29 0228  VU2PTT           599  22  JA6WIF           599  25    1
+QSO:   28007  CW 2020-11-29 0228  VU2PTT           599  22  JA7ZFN           599  25    1
+QSO:   28007  CW 2020-11-29 0228  VU2PTT           599  22  JM1XCW           599  25    1
+QSO:   28007  CW 2020-11-29 0229  VU2PTT           599  22  JP3WEL           599  25    1
+QSO:   28007  CW 2020-11-29 0230  VU2PTT           599  22  JA6AVT           599  25    1
+QSO:   28007  CW 2020-11-29 0231  VU2PTT           599  22  JG3CQJ           599  25    1
+QSO:   28007  CW 2020-11-29 0231  VU2PTT           599  22  JL1EEI           599  25    1
+QSO:   28007  CW 2020-11-29 0232  VU2PTT           599  22  JG6JAV           599  25    1
+QSO:   28007  CW 2020-11-29 0236  VU2PTT           599  22  JN3SAC           599  25    1
+QSO:   28007  CW 2020-11-29 0236  VU2PTT           599  22  BH4RRG           599  24    1
+QSO:   28007  CW 2020-11-29 0236  VU2PTT           599  22  JH4UYB           599  25    1
+QSO:   28007  CW 2020-11-29 0238  VU2PTT           599  22  JG5DHX           599  25    1
+QSO:   28007  CW 2020-11-29 0240  VU2PTT           599  22  JM1KMT           599  25    1
+QSO:   28004  CW 2020-11-29 0242  VU2PTT           599  22  JK1LSE           599  25    1
+QSO:   28016  CW 2020-11-29 0243  VU2PTT           599  22  JF2QNM           599  25    1
+QSO:   28034  CW 2020-11-29 0249  VU2PTT           599  22  LU4HK            599  13    1
+QSO:   28012  CW 2020-11-29 0251  VU2PTT           599  22  JR1GSE           599  25    1
+QSO:   28012  CW 2020-11-29 0251  VU2PTT           599  22  BY8DX            599  24    1
+QSO:   28011  CW 2020-11-29 0253  VU2PTT           599  22  JE4MHL           599  25    1
+QSO:   14004  CW 2020-11-29 0256  VU2PTT           599  22  BY8AC            599  24    1
+QSO:   14014  CW 2020-11-29 0300  VU2PTT           599  22  JK2RCP           599  25    1
+QSO:   14014  CW 2020-11-29 0301  VU2PTT           599  22  RZ9UO            599  18    1
+QSO:   14014  CW 2020-11-29 0301  VU2PTT           599  22  RM9A             599  17    1
+QSO:   14014  CW 2020-11-29 0301  VU2PTT           599  22  RT0C             599  19    1
+QSO:   14014  CW 2020-11-29 0303  VU2PTT           599  22  JA7ZFN           599  25    1
+QSO:   14014  CW 2020-11-29 0303  VU2PTT           599  22  UA9BA            599  17    1
+QSO:   14014  CW 2020-11-29 0304  VU2PTT           599  22  UK9AA            599  17    1
+QSO:   14014  CW 2020-11-29 0304  VU2PTT           599  22  JH7XGN           599  25    1
+QSO:   14014  CW 2020-11-29 0305  VU2PTT           599  22  JR3KQJ           599  25    1
+QSO:   14014  CW 2020-11-29 0305  VU2PTT           599  22  DX1SPC           599  27    1
+QSO:   14014  CW 2020-11-29 0307  VU2PTT           599  22  VR2VRC           599  24    1
+QSO:   14014  CW 2020-11-29 0308  VU2PTT           599  22  YC0VM            599  28    1
+QSO:   14014  CW 2020-11-29 0309  VU2PTT           599  22  HS7JEN           599  26    1
+QSO:   14014  CW 2020-11-29 0309  VU2PTT           599  22  JG6JAV           599  25    1
+QSO:   14014  CW 2020-11-29 0310  VU2PTT           599  22  BG6SNJ           599  24    1
+QSO:   14014  CW 2020-11-29 0312  VU2PTT           599  22  JA6ELV           599  25    1
+QSO:   14014  CW 2020-11-29 0313  VU2PTT           599  22  4L2M             599  21    1
+QSO:   14014  CW 2020-11-29 0314  VU2PTT           599  22  RW4WA            599  16    1
+QSO:   14000  CW 2020-11-29 0317  VU2PTT           599  22  ZM4T             599  32    1
+QSO:   14014  CW 2020-11-29 0322  VU2PTT           599  22  RK9CYA           599  17    1
+QSO:   21005  CW 2020-11-29 0327  VU2PTT           599  22  JF2MBF           599  25    1
+QSO:   21005  CW 2020-11-29 0328  VU2PTT           599  22  JK2VOC           599  25    1
+QSO:   21005  CW 2020-11-29 0328  VU2PTT           599  22  JE2LPC           599  25    1
+QSO:   21005  CW 2020-11-29 0328  VU2PTT           599  22  RK0UT            599  18    1
+QSO:   21018  CW 2020-11-29 0417  VU2PTT           599  22  VR2EH            599  24    1
+QSO:   21005  CW 2020-11-29 0418  VU2PTT           599  22  RW9USA           599  18    1
+QSO:   28022  CW 2020-11-29 0421  VU2PTT           599  22  JJ0JML           599  25    1
+QSO:   28022  CW 2020-11-29 0422  VU2PTT           599  22  JA3RAR           599  25    1
+QSO:   28022  CW 2020-11-29 0422  VU2PTT           599  22  BU2EO            599  24    1
+QSO:   28022  CW 2020-11-29 0423  VU2PTT           599  22  BI8CZM           599  24    1
+QSO:   28022  CW 2020-11-29 0425  VU2PTT           599  22  JS1OYN           599  25    1
+QSO:   28022  CW 2020-11-29 0425  VU2PTT           599  22  RT0C             599  19    1
+QSO:   28022  CW 2020-11-29 0426  VU2PTT           599  22  JH6WHN           599  25    1
+QSO:   28024  CW 2020-11-29 0429  VU2PTT           599  22  VR2GP            599  24    1
+QSO:   28020  CW 2020-11-29 0430  VU2PTT           599  22  BG7JJW           599  24    1
+QSO:   28022  CW 2020-11-29 0433  VU2PTT           599  22  UA9YE            599  18    1
+QSO:   21063  CW 2020-11-29 0435  VU2PTT           599  22  UN4L             599  17    1
+QSO:   21058  CW 2020-11-29 0436  VU2PTT           599  22  E2ICOM           599  26    1
+QSO:   21057  CW 2020-11-29 0437  VU2PTT           599  22  JK1OLT           599  25    1
+QSO:   21056  CW 2020-11-29 0437  VU2PTT           599  22  JQ1VDJ           599  25    1
+QSO:   21049  CW 2020-11-29 0440  VU2PTT           599  22  VK4TS            599  30    1
+QSO:   21047  CW 2020-11-29 0440  VU2PTT           599  22  9M6MI            599  28    1
+QSO:   21020  CW 2020-11-29 0447  VU2PTT           599  22  BH7JUO           599  24    1
+QSO:   21017  CW 2020-11-29 0448  VU2PTT           599  22  XV9NPS           599  26    1
+QSO:   21000  CW 2020-11-29 0449  VU2PTT           599  22  VK4SN            599  30    1
+QSO:   21000  CW 2020-11-29 0450  VU2PTT           599  22  RA3XM            599  16    1
+QSO:   21000  CW 2020-11-29 0451  VU2PTT           599  22  RZ9YI            599  18    1
+QSO:   21000  CW 2020-11-29 0452  VU2PTT           599  22  BY5EA            599  24    1
+QSO:   21024  CW 2020-11-29 0514  VU2PTT           599  22  RC9A             599  17    1
+QSO:   21024  CW 2020-11-29 0515  VU2PTT           599  22  RX9AF            599  17    1
+QSO:   21024  CW 2020-11-29 0516  VU2PTT           599  22  JJ2CJB           599  25    1
+QSO:   21024  CW 2020-11-29 0516  VU2PTT           599  22  EU1FQ            599  16    1
+QSO:   21024  CW 2020-11-29 0517  VU2PTT           599  22  JA1CXC           599  25    1
+QSO:   21024  CW 2020-11-29 0518  VU2PTT           599  22  JM1XCW           599  25    1
+QSO:   21024  CW 2020-11-29 0519  VU2PTT           599  22  R7MT             599  16    1
+QSO:   21024  CW 2020-11-29 0519  VU2PTT           599  22  BH4RRG           599  24    1
+QSO:   21024  CW 2020-11-29 0520  VU2PTT           599  22  UA6Y             599  16    1
+QSO:   21024  CW 2020-11-29 0520  VU2PTT           599  22  4Z4UO            599  20    1
+QSO:   21024  CW 2020-11-29 0521  VU2PTT           599  22  SN2N             599  15    1
+QSO:   21024  CW 2020-11-29 0522  VU2PTT           599  22  UW3U             599  16    1
+QSO:   21024  CW 2020-11-29 0522  VU2PTT           599  22  RG4A             599  16    1
+QSO:   21024  CW 2020-11-29 0522  VU2PTT           599  22  4X6ZM            599  20    1
+QSO:   21024  CW 2020-11-29 0523  VU2PTT           599  22  YO5AXF           599  20    1
+QSO:   21024  CW 2020-11-29 0524  VU2PTT           599  22  UT1U             599  16    1
+QSO:   21024  CW 2020-11-29 0524  VU2PTT           599  22  SP4TKR           599  15    1
+QSO:   21024  CW 2020-11-29 0525  VU2PTT           599  22  R3LB             599  16    1
+QSO:   21024  CW 2020-11-29 0525  VU2PTT           599  22  RL6M             599  16    1
+QSO:   21024  CW 2020-11-29 0526  VU2PTT           599  22  RN4HAB           599  16    1
+QSO:   21024  CW 2020-11-29 0526  VU2PTT           599  22  YT5N             599  15    1
+QSO:   21024  CW 2020-11-29 0527  VU2PTT           599  22  RD3R             599  16    1
+QSO:   21024  CW 2020-11-29 0527  VU2PTT           599  22  UX0HO            599  16    1
+QSO:   21024  CW 2020-11-29 0528  VU2PTT           599  22  SP4NKJ           599  15    1
+QSO:   21024  CW 2020-11-29 0529  VU2PTT           599  22  YB3BLJ           599  28    1
+QSO:   21024  CW 2020-11-29 0529  VU2PTT           599  22  E74A             599  15    1
+QSO:   21024  CW 2020-11-29 0530  VU2PTT           599  22  YU7CF            599  15    1
+QSO:   21024  CW 2020-11-29 0531  VU2PTT           599  22  R7KU             599  16    1
+QSO:   21024  CW 2020-11-29 0531  VU2PTT           599  22  UP7L             599  17    1
+QSO:   21024  CW 2020-11-29 0531  VU2PTT           599  22  R7KA             599  16    1
+QSO:   21024  CW 2020-11-29 0532  VU2PTT           599  22  YT9A             599  15    1
+QSO:   21024  CW 2020-11-29 0534  VU2PTT           599  22  LZ5QZ            599  20    1
+QSO:   21024  CW 2020-11-29 0534  VU2PTT           599  22  R4II             599  16    1
+QSO:   21024  CW 2020-11-29 0535  VU2PTT           599  22  UY5QJ            599  16    1
+QSO:   21024  CW 2020-11-29 0535  VU2PTT           599  22  YO3LW            599  20    1
+QSO:   21024  CW 2020-11-29 0536  VU2PTT           599  22  LZ2FM            599  20    1
+QSO:   21024  CW 2020-11-29 0537  VU2PTT           599  22  UR7EN            599  16    1
+QSO:   21024  CW 2020-11-29 0538  VU2PTT           599  22  RU0AI            599  18    1
+QSO:   21024  CW 2020-11-29 0539  VU2PTT           599  22  RW4WA            599  16    1
+QSO:   21024  CW 2020-11-29 0539  VU2PTT           599  22  BY8AC            599  24    1
+QSO:   21024  CW 2020-11-29 0539  VU2PTT           599  22  RA3W             599  16    1
+QSO:   21024  CW 2020-11-29 0539  VU2PTT           599  22  B4T              599  24    1
+QSO:   21024  CW 2020-11-29 0540  VU2PTT           599  22  LZ5K             599  20    1
+QSO:   21024  CW 2020-11-29 0541  VU2PTT           599  22  EX8MJ            599  17    1
+QSO:   21024  CW 2020-11-29 0541  VU2PTT           599  22  UR5FIL           599  16    1
+QSO:   21024  CW 2020-11-29 0542  VU2PTT           599  22  UA6LFF           599  16    1
+QSO:   21024  CW 2020-11-29 0542  VU2PTT           599  22  UT2QQ            599  16    1
+QSO:   21024  CW 2020-11-29 0543  VU2PTT           599  22  UA9FGJ           599  17    1
+QSO:   21024  CW 2020-11-29 0544  VU2PTT           599  22  RT4H             599  16    1
+QSO:   21024  CW 2020-11-29 0545  VU2PTT           599  22  YC1RQX           599  28    1
+QSO:   21024  CW 2020-11-29 0545  VU2PTT           599  22  LZ2PG            599  20    1
+QSO:   21024  CW 2020-11-29 0546  VU2PTT           599  22  SP7HKK           599  15    1
+QSO:   21024  CW 2020-11-29 0546  VU2PTT           599  22  UT3IA            599  16    1
+QSO:   21024  CW 2020-11-29 0547  VU2PTT           599  22  UT1AA            599  16    1
+QSO:   21024  CW 2020-11-29 0547  VU2PTT           599  22  UT1UL            599  16    1
+QSO:   21024  CW 2020-11-29 0548  VU2PTT           599  22  IZ4REF           599  15    1
+QSO:   21024  CW 2020-11-29 0548  VU2PTT           599  22  HA6F             599  15    1
+QSO:   21024  CW 2020-11-29 0549  VU2PTT           599  22  UA6AUA           599  16    1
+QSO:   21024  CW 2020-11-29 0549  VU2PTT           599  22  UA6FZ            599  16    1
+QSO:   21024  CW 2020-11-29 0549  VU2PTT           599  22  LZ1ZP            599  20    1
+QSO:   21024  CW 2020-11-29 0550  VU2PTT           599  22  RV7C             599  16    1
+QSO:   21024  CW 2020-11-29 0550  VU2PTT           599  22  UA4S             599  16    1
+QSO:   21024  CW 2020-11-29 0552  VU2PTT           599  22  7B1B             599  28    1
+QSO:   21024  CW 2020-11-29 0553  VU2PTT           599  22  BA4MY            599  24    1
+QSO:   21024  CW 2020-11-29 0554  VU2PTT           599  22  BH8MDV           599  24    1
+QSO:   21024  CW 2020-11-29 0554  VU2PTT           599  22  UX1CL            599  16    1
+QSO:   21024  CW 2020-11-29 0554  VU2PTT           599  22  BG6SNJ           599  24    1
+QSO:   21024  CW 2020-11-29 0555  VU2PTT           599  22  4X0A             599  20    1
+QSO:   21024  CW 2020-11-29 0556  VU2PTT           599  22  RK9CYA           599  17    1
+QSO:   21024  CW 2020-11-29 0556  VU2PTT           599  22  UT0IW            599  16    1
+QSO:   21024  CW 2020-11-29 0557  VU2PTT           599  22  9A3TR            599  15    1
+QSO:   21024  CW 2020-11-29 0558  VU2PTT           599  22  DL2ARD           599  14    1
+QSO:   21024  CW 2020-11-29 0600  VU2PTT           599  22  UA1D             599  16    1
+QSO:   28002  CW 2020-11-29 0607  VU2PTT           599  22  UA7K             599  16    1
+QSO:   28019  CW 2020-11-29 0609  VU2PTT           599  22  LZ5EE            599  20    1
+QSO:   21062  CW 2020-11-29 0612  VU2PTT           599  22  P3AA             599  20    1
+QSO:   21053  CW 2020-11-29 0614  VU2PTT           599  22  IT9VDQ           599  15    1
+QSO:   21043  CW 2020-11-29 0619  VU2PTT           599  22  R3ZZ             599  16    1
+QSO:   21036  CW 2020-11-29 0622  VU2PTT           599  22  DP7X             599  14    1
+QSO:   21019  CW 2020-11-29 0624  VU2PTT           599  22  UA7K             599  16    1
+QSO:   28077  CW 2020-11-29 0627  VU2PTT           599  22  UA7K             599  16    1
+QSO:   28021  CW 2020-11-29 0629  VU2PTT           599  22  B4T              599  24    1
+QSO:   28017  CW 2020-11-29 0630  VU2PTT           599  22  YU7EE            599  15    1
+QSO:   21057  CW 2020-11-29 0633  VU2PTT           599  22  HA0HV            599  15    1
+QSO:   21055  CW 2020-11-29 0633  VU2PTT           599  22  T6A              599  21    1
+QSO:   21054  CW 2020-11-29 0634  VU2PTT           599  22  UR4R             599  16    1
+QSO:   21049  CW 2020-11-29 0636  VU2PTT           599  22  SP8FHK           599  15    1
+QSO:   21048  CW 2020-11-29 0637  VU2PTT           599  22  RN6A             599  16    1
+QSO:   21042  CW 2020-11-29 0638  VU2PTT           599  22  YR8D             599  20    1
+QSO:   21042  CW 2020-11-29 0638  VU2PTT           599  22  LY2ZO            599  15    1
+QSO:   21029  CW 2020-11-29 0641  VU2PTT           599  22  ZS2DL            599  38    1
+QSO:   21019  CW 2020-11-29 0643  VU2PTT           599  22  VK3JA            599  30    1
+QSO:   21064  CW 2020-11-29 0645  VU2PTT           599  22  B7C              599  24    1
+QSO:   21016  CW 2020-11-29 0648  VU2PTT           599  22  UZ2M             599  16    1
+QSO:   21024  CW 2020-11-29 0651  VU2PTT           599  22  UA3VLO           599  16    1
+QSO:   21024  CW 2020-11-29 0651  VU2PTT           599  22  UA3DSS           599  16    1
+QSO:   21024  CW 2020-11-29 0651  VU2PTT           599  22  RA3DNC           599  16    1
+QSO:   21024  CW 2020-11-29 0652  VU2PTT           599  22  RK3TT            599  16    1
+QSO:   21024  CW 2020-11-29 0652  VU2PTT           599  22  RL30DX           599  16    1
+QSO:   21024  CW 2020-11-29 0653  VU2PTT           599  22  R3BV             599  16    1
+QSO:   21024  CW 2020-11-29 0653  VU2PTT           599  22  UX2MF            599  16    1
+QSO:   21024  CW 2020-11-29 0653  VU2PTT           599  22  HS6MYW           599  26    1
+QSO:   21024  CW 2020-11-29 0655  VU2PTT           599  22  DF2LH            599  14    1
+QSO:   21024  CW 2020-11-29 0655  VU2PTT           599  22  PA1CC            599  14    1
+QSO:   21024  CW 2020-11-29 0656  VU2PTT           599  22  DL1RG            599  14    1
+QSO:   21024  CW 2020-11-29 0656  VU2PTT           599  22  R3OR             599  16    1
+QSO:   21024  CW 2020-11-29 0658  VU2PTT           599  22  DP8M             599  14    1
+QSO:   21024  CW 2020-11-29 0713  VU2PTT           599  22  LY4G             599  15    1
+QSO:   21024  CW 2020-11-29 0713  VU2PTT           599  22  EW1I             599  16    1
+QSO:   21024  CW 2020-11-29 0714  VU2PTT           599  22  RG5A             599  16    1
+QSO:   21024  CW 2020-11-29 0714  VU2PTT           599  22  LY4K             599  15    1
+QSO:   21024  CW 2020-11-29 0714  VU2PTT           599  22  LZ5DD            599  20    1
+QSO:   21024  CW 2020-11-29 0715  VU2PTT           599  22  UA3A             599  16    1
+QSO:   21024  CW 2020-11-29 0715  VU2PTT           599  22  UC5D             599  16    1
+QSO:   21024  CW 2020-11-29 0715  VU2PTT           599  22  DL7QU            599  14    1
+QSO:   21024  CW 2020-11-29 0716  VU2PTT           599  22  IZ8JFL           599  15    1
+QSO:   21024  CW 2020-11-29 0716  VU2PTT           599  22  UF5D             599  16    1
+QSO:   21024  CW 2020-11-29 0717  VU2PTT           599  22  UA3PI            599  16    1
+QSO:   21024  CW 2020-11-29 0717  VU2PTT           599  22  OH6NEQ           599  15    1
+QSO:   21024  CW 2020-11-29 0718  VU2PTT           599  22  M7DX             599  14    1
+QSO:   21024  CW 2020-11-29 0718  VU2PTT           599  22  RN5X             599  16    1
+QSO:   21024  CW 2020-11-29 0719  VU2PTT           599  22  DF2AJ            599  14    1
+QSO:   21024  CW 2020-11-29 0720  VU2PTT           599  22  YO9BPX           599  20    1
+QSO:   21024  CW 2020-11-29 0720  VU2PTT           599  22  F8KCF            599  14    1
+QSO:   21088  CW 2020-11-29 0723  VU2PTT           599  22  OK6DJ            599  15    1
+QSO:   21079  CW 2020-11-29 0724  VU2PTT           599  22  RZ4Z             599  16    1
+QSO:   21070  CW 2020-11-29 0725  VU2PTT           599  22  R6KA             599  16    1
+QSO:   21067  CW 2020-11-29 0726  VU2PTT           599  22  DH8BQA           599  14    1
+QSO:   21056  CW 2020-11-29 0730  VU2PTT           599  22  J42L             599  20    1
+QSO:   21055  CW 2020-11-29 0731  VU2PTT           599  22  UX0LL            599  16    1
+QSO:   21052  CW 2020-11-29 0733  VU2PTT           599  22  OL1C             599  15    1
+QSO:   21048  CW 2020-11-29 0735  VU2PTT           599  22  UY2IG            599  16    1
+QSO:   21047  CW 2020-11-29 0736  VU2PTT           599  22  SP4Z             599  15    1
+QSO:   21045  CW 2020-11-29 0738  VU2PTT           599  22  RT4F             599  16    1
+QSO:   21042  CW 2020-11-29 0739  VU2PTT           599  22  SN7Q             599  15    1
+QSO:   21038  CW 2020-11-29 0741  VU2PTT           599  22  EW8R             599  16    1
+QSO:   21035  CW 2020-11-29 0741  VU2PTT           599  22  DK6WL            599  14    1
+QSO:   21032  CW 2020-11-29 0743  VU2PTT           599  22  YO9HP            599  20    1
+QSO:   21031  CW 2020-11-29 0744  VU2PTT           599  22  BG8SRK           599  24    1
+QSO:   21030  CW 2020-11-29 0745  VU2PTT           599  22  7A1A             599  28    1
+QSO:   21027  CW 2020-11-29 0746  VU2PTT           599  22  R7HF             599  16    1
+QSO:   21025  CW 2020-11-29 0747  VU2PTT           599  22  PA3AAV           599  14    1
+QSO:   21025  CW 2020-11-29 0824  VU2PTT           599  22  DL2SAX           599  14    1
+QSO:   21021  CW 2020-11-29 0825  VU2PTT           599  22  IS0AFM           599  15    1
+QSO:   21021  CW 2020-11-29 0825  VU2PTT           599  22  SJ0X             599  14    1
+QSO:   21020  CW 2020-11-29 0826  VU2PTT           599  22  LZ5Y             599  20    1
+QSO:   21019  CW 2020-11-29 0827  VU2PTT           599  22  HB9CA            599  14    1
+QSO:   21019  CW 2020-11-29 0827  VU2PTT           599  22  OK1AMF           599  15    1
+QSO:   21016  CW 2020-11-29 0829  VU2PTT           599  22  RW3X             599  16    1
+QSO:   21016  CW 2020-11-29 0830  VU2PTT           599  22  RA5G             599  16    1
+QSO:   21016  CW 2020-11-29 0832  VU2PTT           599  22  IT9KCD           599  15    1
+QSO:   21016  CW 2020-11-29 0834  VU2PTT           599  22  RQ9O             599  18    1
+QSO:   28004  CW 2020-11-29 0840  VU2PTT           599  22  DM2M             599  14    1
+QSO:   28004  CW 2020-11-29 0841  VU2PTT           599  22  OK1AUC           599  15    1
+QSO:   28004  CW 2020-11-29 0841  VU2PTT           599  22  LZ1QI            599  20    1
+QSO:   28004  CW 2020-11-29 0842  VU2PTT           599  22  RA5G             599  16    1
+QSO:   28004  CW 2020-11-29 0842  VU2PTT           599  22  OK2YH            599  15    1
+QSO:   28004  CW 2020-11-29 0842  VU2PTT           599  22  OH8NW            599  15    1
+QSO:   28004  CW 2020-11-29 0843  VU2PTT           599  22  EV1R             599  16    1
+QSO:   28004  CW 2020-11-29 0843  VU2PTT           599  22  G2Y              599  14    1
+QSO:   28004  CW 2020-11-29 0843  VU2PTT           599  22  EW3EO            599  16    1
+QSO:   28004  CW 2020-11-29 0844  VU2PTT           599  22  OK2PDK           599  15    1
+QSO:   28004  CW 2020-11-29 0844  VU2PTT           599  22  SM6CMU           599  14    1
+QSO:   28004  CW 2020-11-29 0844  VU2PTT           599  22  UA1D             599  16    1
+QSO:   28004  CW 2020-11-29 0845  VU2PTT           599  22  SC7DX            599  14    1
+QSO:   28004  CW 2020-11-29 0845  VU2PTT           599  22  OZ1AXG           599  14    1
+QSO:   28004  CW 2020-11-29 0846  VU2PTT           599  22  DL5YM            599  14    1
+QSO:   28004  CW 2020-11-29 0846  VU2PTT           599  22  SC3A             599  14    1
+QSO:   28004  CW 2020-11-29 0846  VU2PTT           599  22  DP8M             599  14    1
+QSO:   28004  CW 2020-11-29 0847  VU2PTT           599  22  OK1ATH           599  15    1
+QSO:   28004  CW 2020-11-29 0847  VU2PTT           599  22  R1BC             599  16    1
+QSO:   28004  CW 2020-11-29 0847  VU2PTT           599  22  SP2LNW           599  15    1
+QSO:   28004  CW 2020-11-29 0847  VU2PTT           599  22  R3AT             599  16    1
+QSO:   28004  CW 2020-11-29 0848  VU2PTT           599  22  RC3W             599  16    1
+QSO:   28004  CW 2020-11-29 0848  VU2PTT           599  22  UF5D             599  16    1
+QSO:   28004  CW 2020-11-29 0848  VU2PTT           599  22  RC2A             599  16    1
+QSO:   28004  CW 2020-11-29 0848  VU2PTT           599  22  DL9USA           599  14    1
+QSO:   28004  CW 2020-11-29 0849  VU2PTT           599  22  R3SV             599  16    1
+QSO:   28004  CW 2020-11-29 0849  VU2PTT           599  22  DG5E             599  14    1
+QSO:   28004  CW 2020-11-29 0849  VU2PTT           599  22  SN5R             599  15    1
+QSO:   28004  CW 2020-11-29 0850  VU2PTT           599  22  OK2QX            599  15    1
+QSO:   28004  CW 2020-11-29 0851  VU2PTT           599  22  OH5LAQ           599  15    1
+QSO:   28004  CW 2020-11-29 0851  VU2PTT           599  22  OH5Z             599  15    1
+QSO:   28004  CW 2020-11-29 0852  VU2PTT           599  22  DF2LH            599  14    1
+QSO:   28004  CW 2020-11-29 0852  VU2PTT           599  22  SM0FPR           599  14    1
+QSO:   28004  CW 2020-11-29 0852  VU2PTT           599  22  SP7YL            599  15    1
+QSO:   28004  CW 2020-11-29 0852  VU2PTT           599  22  SP2MKT           599  15    1
+QSO:   28004  CW 2020-11-29 0853  VU2PTT           599  22  DC4A             599  14    1
+QSO:   28004  CW 2020-11-29 0853  VU2PTT           599  22  DF9LJ            599  14    1
+QSO:   28004  CW 2020-11-29 0853  VU2PTT           599  22  BY5EA            599  24    1
+QSO:   28004  CW 2020-11-29 0854  VU2PTT           599  22  F8ARK            599  14    1
+QSO:   28004  CW 2020-11-29 0854  VU2PTT           599  22  LY5R             599  15    1
+QSO:   28004  CW 2020-11-29 0854  VU2PTT           599  22  LY9A             599  15    1
+QSO:   28004  CW 2020-11-29 0855  VU2PTT           599  22  OH3RF            599  15    1
+QSO:   28004  CW 2020-11-29 0855  VU2PTT           599  22  YL2VW            599  15    1
+QSO:   28004  CW 2020-11-29 0855  VU2PTT           599  22  LN2T             599  14    1
+QSO:   28004  CW 2020-11-29 0856  VU2PTT           599  22  DK1TF            599  14    1
+QSO:   28004  CW 2020-11-29 0857  VU2PTT           599  22  OK2ZV            599  15    1
+QSO:   28004  CW 2020-11-29 0858  VU2PTT           599  22  ES2MC            599  15    1
+QSO:   28004  CW 2020-11-29 0858  VU2PTT           599  22  ON6NL            599  14    1
+QSO:   28004  CW 2020-11-29 0859  VU2PTT           599  22  RG5A             599  16    1
+QSO:   28004  CW 2020-11-29 0859  VU2PTT           599  22  DK4PE            599  14    1
+QSO:   28004  CW 2020-11-29 0900  VU2PTT           599  22  SM3EVR           599  14    1
+QSO:   28004  CW 2020-11-29 0900  VU2PTT           599  22  SQ7IQM           599  15    1
+QSO:   28004  CW 2020-11-29 0900  VU2PTT           599  22  G3ZSS            599  14    1
+QSO:   28004  CW 2020-11-29 0901  VU2PTT           599  22  SQ7LQJ           599  15    1
+QSO:   28004  CW 2020-11-29 0901  VU2PTT           599  22  RA1CE            599  16    1
+QSO:   28004  CW 2020-11-29 0901  VU2PTT           599  22  YL2GD            599  15    1
+QSO:   28004  CW 2020-11-29 0902  VU2PTT           599  22  SP2QG            599  15    1
+QSO:   28004  CW 2020-11-29 0904  VU2PTT           599  22  RK1AQ            599  16    1
+QSO:   28004  CW 2020-11-29 0904  VU2PTT           599  22  DK9CG            599  14    1
+QSO:   28004  CW 2020-11-29 0904  VU2PTT           599  22  SJ2W             599  14    1
+QSO:   28004  CW 2020-11-29 0905  VU2PTT           599  22  LY5O             599  15    1
+QSO:   28004  CW 2020-11-29 0905  VU2PTT           599  22  SP9NI            599  15    1
+QSO:   28004  CW 2020-11-29 0905  VU2PTT           599  22  RU6K             599  16    1
+QSO:   28004  CW 2020-11-29 0906  VU2PTT           599  22  OH3NDH           599  15    1
+QSO:   28004  CW 2020-11-29 0906  VU2PTT           599  22  SP3HUU           599  15    1
+QSO:   28004  CW 2020-11-29 0906  VU2PTT           599  22  DL5ARM           599  14    1
+QSO:   28004  CW 2020-11-29 0906  VU2PTT           599  22  OK1DO            599  15    1
+QSO:   28004  CW 2020-11-29 0907  VU2PTT           599  22  PA5MW            599  14    1
+QSO:   28004  CW 2020-11-29 0907  VU2PTT           599  22  OM8AT            599  15    1
+QSO:   28004  CW 2020-11-29 0907  VU2PTT           599  22  OK2EA            599  15    1
+QSO:   28004  CW 2020-11-29 0908  VU2PTT           599  22  SN4X             599  15    1
+QSO:   28004  CW 2020-11-29 0908  VU2PTT           599  22  OM5VS            599  15    1
+QSO:   28004  CW 2020-11-29 0909  VU2PTT           599  22  SQ1REX           599  15    1
+QSO:   28004  CW 2020-11-29 0910  VU2PTT           599  22  LY8A             599  15    1
+QSO:   28004  CW 2020-11-29 0911  VU2PTT           599  22  LY2BAW           599  15    1
+QSO:   28004  CW 2020-11-29 0912  VU2PTT           599  22  DL3UB            599  14    1
+QSO:   28004  CW 2020-11-29 0912  VU2PTT           599  22  EW3LN            599  16    1
+QSO:   28004  CW 2020-11-29 0912  VU2PTT           599  22  SQ6LJV           599  15    1
+QSO:   28004  CW 2020-11-29 0913  VU2PTT           599  22  OK2PAY           599  15    1
+QSO:   28004  CW 2020-11-29 0913  VU2PTT           599  22  SP7SQM           599  15    1
+QSO:   28004  CW 2020-11-29 0913  VU2PTT           599  22  OH1EB            599  15    1
+QSO:   28004  CW 2020-11-29 0913  VU2PTT           599  22  OK1TA            599  15    1
+QSO:   28004  CW 2020-11-29 0914  VU2PTT           599  22  OH2BAH           599  15    1
+QSO:   28004  CW 2020-11-29 0914  VU2PTT           599  22  OE5HIL           599  15    1
+QSO:   28004  CW 2020-11-29 0915  VU2PTT           599  22  OG4A             599  15    1
+QSO:   28004  CW 2020-11-29 0915  VU2PTT           599  22  OH1XX            599  15    1
+QSO:   28004  CW 2020-11-29 0915  VU2PTT           599  22  DL6OCM           599  14    1
+QSO:   28004  CW 2020-11-29 0916  VU2PTT           599  22  SP7PZS           599  15    1
+QSO:   28004  CW 2020-11-29 0916  VU2PTT           599  22  SP5ATO           599  15    1
+QSO:   28004  CW 2020-11-29 0916  VU2PTT           599  22  SQ7BFC           599  15    1
+QSO:   28004  CW 2020-11-29 0917  VU2PTT           599  22  SP9JZU           599  15    1
+QSO:   28004  CW 2020-11-29 0917  VU2PTT           599  22  SP9DLY           599  15    1
+QSO:   28004  CW 2020-11-29 0917  VU2PTT           599  22  DJ8VC            599  14    1
+QSO:   28004  CW 2020-11-29 0917  VU2PTT           599  22  OK4MM            599  15    1
+QSO:   28004  CW 2020-11-29 0918  VU2PTT           599  22  IK2EAD           599  15    1
+QSO:   28004  CW 2020-11-29 0918  VU2PTT           599  22  SM5Q             599  14    1
+QSO:   28004  CW 2020-11-29 0918  VU2PTT           599  22  DL8UKE           599  14    1
+QSO:   28004  CW 2020-11-29 0919  VU2PTT           599  22  LY6A             599  15    1
+QSO:   28004  CW 2020-11-29 0919  VU2PTT           599  22  TM2Y             599  14    1
+QSO:   28004  CW 2020-11-29 0919  VU2PTT           599  22  OM1AKU           599  15    1
+QSO:   28004  CW 2020-11-29 0920  VU2PTT           599  22  OM3TBG           599  15    1
+QSO:   28004  CW 2020-11-29 0920  VU2PTT           599  22  DK5KK            599  14    1
+QSO:   28004  CW 2020-11-29 0920  VU2PTT           599  22  LY4T             599  15    1
+QSO:   28004  CW 2020-11-29 0921  VU2PTT           599  22  F8DVD            599  14    1
+QSO:   28004  CW 2020-11-29 0921  VU2PTT           599  22  9A3XV            599  15    1
+QSO:   28004  CW 2020-11-29 0922  VU2PTT           599  22  UX7IW            599  16    1
+QSO:   28004  CW 2020-11-29 0922  VU2PTT           599  22  SP2QCW           599  15    1
+QSO:   28004  CW 2020-11-29 0923  VU2PTT           599  22  DL5SDN           599  14    1
+QSO:   28004  CW 2020-11-29 0923  VU2PTT           599  22  DL1KVN           599  14    1
+QSO:   28004  CW 2020-11-29 0923  VU2PTT           599  22  SM6YNO           599  14    1
+QSO:   28004  CW 2020-11-29 0924  VU2PTT           599  22  IK5PWJ           599  15    1
+QSO:   28004  CW 2020-11-29 0924  VU2PTT           599  22  ON7TQ            599  14    1
+QSO:   28004  CW 2020-11-29 0924  VU2PTT           599  22  IR3C             599  15    1
+QSO:   28004  CW 2020-11-29 0924  VU2PTT           599  22  DK9OY            599  14    1
+QSO:   28004  CW 2020-11-29 0925  VU2PTT           599  22  OZ1KEF           599  14    1
+QSO:   28004  CW 2020-11-29 0925  VU2PTT           599  22  OG6N             599  15    1
+QSO:   28004  CW 2020-11-29 0926  VU2PTT           599  22  SM3MXR           599  14    1
+QSO:   28004  CW 2020-11-29 0927  VU2PTT           599  22  SP7JOA           599  15    1
+QSO:   28004  CW 2020-11-29 0927  VU2PTT           599  22  F8DGY            599  14    1
+QSO:   28004  CW 2020-11-29 0929  VU2PTT           599  22  HB9FMN           599  14    1
+QSO:   28004  CW 2020-11-29 0929  VU2PTT           599  22  S50XX            599  15    1
+QSO:   28004  CW 2020-11-29 0929  VU2PTT           599  22  RN2FQ            599  15    1
+QSO:   28004  CW 2020-11-29 0930  VU2PTT           599  22  F8ATM            599  14    1
+QSO:   28004  CW 2020-11-29 0931  VU2PTT           599  22  SP9KDA           599  15    1
+QSO:   28004  CW 2020-11-29 0931  VU2PTT           599  22  S57C             599  15    1
+QSO:   28004  CW 2020-11-29 0931  VU2PTT           599  22  E71A             599  15    1
+QSO:   28004  CW 2020-11-29 0931  VU2PTT           599  22  UT5EL            599  16    1
+QSO:   28004  CW 2020-11-29 0932  VU2PTT           599  22  S53XX            599  15    1
+QSO:   28004  CW 2020-11-29 0932  VU2PTT           599  22  S58AW            599  15    1
+QSO:   28004  CW 2020-11-29 0932  VU2PTT           599  22  F5RAB            599  14    1
+QSO:   28004  CW 2020-11-29 0933  VU2PTT           599  22  YT5A             599  15    1
+QSO:   28004  CW 2020-11-29 0934  VU2PTT           599  22  SP6CJK           599  15    1
+QSO:   28004  CW 2020-11-29 0934  VU2PTT           599  22  DD5M             599  14    1
+QSO:   28004  CW 2020-11-29 0935  VU2PTT           599  22  OH2MGA           599  15    1
+QSO:   28004  CW 2020-11-29 0935  VU2PTT           599  22  HA0HW            599  15    1
+QSO:   28004  CW 2020-11-29 0955  VU2PTT           599  22  IK0OKY           599  15    1
+QSO:   28004  CW 2020-11-29 0955  VU2PTT           599  22  I3FIY            599  15    1
+QSO:   28004  CW 2020-11-29 0956  VU2PTT           599  22  OZ2ABI           599  14    1
+QSO:   28004  CW 2020-11-29 0957  VU2PTT           599  22  OM1BM            599  15    1
+QSO:   28004  CW 2020-11-29 0957  VU2PTT           599  22  DH0GHU           599  14    1
+QSO:   28004  CW 2020-11-29 0958  VU2PTT           599  22  F5TFW            599  14    1
+QSO:   28004  CW 2020-11-29 0958  VU2PTT           599  22  HA8CQ            599  15    1
+QSO:   28004  CW 2020-11-29 0959  VU2PTT           599  22  9A1UN            599  15    1
+QSO:   28004  CW 2020-11-29 0959  VU2PTT           599  22  HA7KBR           599  15    1
+QSO:   28004  CW 2020-11-29 1000  VU2PTT           599  22  LZ7G             599  20    1
+QSO:   28004  CW 2020-11-29 1000  VU2PTT           599  22  IZ8XXE           599  15    1
+QSO:   28004  CW 2020-11-29 1000  VU2PTT           599  22  F5TRB            599  14    1
+QSO:   28004  CW 2020-11-29 1000  VU2PTT           599  22  PA6T             599  14    1
+QSO:   28004  CW 2020-11-29 1001  VU2PTT           599  22  HA7UI            599  15    1
+QSO:   28004  CW 2020-11-29 1001  VU2PTT           599  22  HB9BLQ           599  14    1
+QSO:   28004  CW 2020-11-29 1001  VU2PTT           599  22  S52GP            599  15    1
+QSO:   28004  CW 2020-11-29 1002  VU2PTT           599  22  YO2DFA           599  20    1
+QSO:   28004  CW 2020-11-29 1002  VU2PTT           599  22  SE5E             599  14    1
+QSO:   28004  CW 2020-11-29 1003  VU2PTT           599  22  DL8WAA           599  14    1
+QSO:   28004  CW 2020-11-29 1003  VU2PTT           599  22  DL1EKO           599  14    1
+QSO:   28004  CW 2020-11-29 1003  VU2PTT           599  22  F5PHY            599  14    1
+QSO:   28004  CW 2020-11-29 1004  VU2PTT           599  22  DF6LQ            599  14    1
+QSO:   28004  CW 2020-11-29 1004  VU2PTT           599  22  OZ5E             599  14    1
+QSO:   28004  CW 2020-11-29 1004  VU2PTT           599  22  F8NUH            599  14    1
+QSO:   28004  CW 2020-11-29 1005  VU2PTT           599  22  SE0P             599  14    1
+QSO:   28004  CW 2020-11-29 1005  VU2PTT           599  22  SM3PZG           599  14    1
+QSO:   28004  CW 2020-11-29 1005  VU2PTT           599  22  HB9CVE           599  14    1
+QSO:   28004  CW 2020-11-29 1006  VU2PTT           599  22  DC4A             599  14    1
+QSO:   28004  CW 2020-11-29 1006  VU2PTT           599  22  ZS2EZ            599  38    1
+QSO:   28004  CW 2020-11-29 1007  VU2PTT           599  22  YT2RX            599  15    1
+QSO:   28004  CW 2020-11-29 1007  VU2PTT           599  22  R5LQ             599  16    1
+QSO:   28004  CW 2020-11-29 1007  VU2PTT           599  22  DJ3HW            599  14    1
+QSO:   28004  CW 2020-11-29 1008  VU2PTT           599  22  F5GGL            599  14    1
+QSO:   28004  CW 2020-11-29 1008  VU2PTT           599  22  SM2U             599  14    1
+QSO:   28004  CW 2020-11-29 1008  VU2PTT           599  22  IK2GSO           599  15    1
+QSO:   28004  CW 2020-11-29 1009  VU2PTT           599  22  LA5LJA           599  14    1
+QSO:   28004  CW 2020-11-29 1009  VU2PTT           599  22  IZ4DIW           599  15    1
+QSO:   28004  CW 2020-11-29 1010  VU2PTT           599  22  DJ9RR            599  14    1
+QSO:   28004  CW 2020-11-29 1011  VU2PTT           599  22  IK4LZH           599  15    1
+QSO:   28004  CW 2020-11-29 1012  VU2PTT           599  22  CT1BWW           599  14    1
+QSO:   28004  CW 2020-11-29 1012  VU2PTT           599  22  IX1IIU           599  15    1
+QSO:   28004  CW 2020-11-29 1012  VU2PTT           599  22  IK1JJM           599  15    1
+QSO:   28004  CW 2020-11-29 1014  VU2PTT           599  22  G3XJS            599  14    1
+QSO:   28004  CW 2020-11-29 1014  VU2PTT           599  22  PA2A             599  14    1
+QSO:   28004  CW 2020-11-29 1015  VU2PTT           599  22  SE0X             599  14    1
+QSO:   28004  CW 2020-11-29 1015  VU2PTT           599  22  S57AL            599  15    1
+QSO:   28004  CW 2020-11-29 1016  VU2PTT           599  22  PA3GDY           599  14    1
+QSO:   28004  CW 2020-11-29 1016  VU2PTT           599  22  IK0PHY           599  15    1
+QSO:   28004  CW 2020-11-29 1017  VU2PTT           599  22  IK0YVV           599  15    1
+QSO:   28004  CW 2020-11-29 1017  VU2PTT           599  22  EA5AER           599  14    1
+QSO:   28004  CW 2020-11-29 1017  VU2PTT           599  22  SM5CSS           599  14    1
+QSO:   28004  CW 2020-11-29 1018  VU2PTT           599  22  PE1HWO           599  14    1
+QSO:   28004  CW 2020-11-29 1018  VU2PTT           599  22  DK7A             599  14    1
+QSO:   28004  CW 2020-11-29 1019  VU2PTT           599  22  IZ0BAV           599  15    1
+QSO:   28004  CW 2020-11-29 1019  VU2PTT           599  22  IZ5DKJ           599  15    1
+QSO:   28004  CW 2020-11-29 1020  VU2PTT           599  22  OH2BV            599  15    1
+QSO:   28004  CW 2020-11-29 1021  VU2PTT           599  22  SV1EJD           599  20    1
+QSO:   28004  CW 2020-11-29 1021  VU2PTT           599  22  PA0AGF           599  14    1
+QSO:   28004  CW 2020-11-29 1021  VU2PTT           599  22  DF6PB            599  14    1
+QSO:   28004  CW 2020-11-29 1022  VU2PTT           599  22  IZ4COT           599  15    1
+QSO:   28004  CW 2020-11-29 1022  VU2PTT           599  22  IK7FMQ           599  15    1
+QSO:   28004  CW 2020-11-29 1023  VU2PTT           599  22  OK7O             599  15    1
+QSO:   28004  CW 2020-11-29 1023  VU2PTT           599  22  OH6NEQ           599  15    1
+QSO:   28004  CW 2020-11-29 1023  VU2PTT           599  22  IW0HBY           599  15    1
+QSO:   28004  CW 2020-11-29 1024  VU2PTT           599  22  OZ4MD            599  14    1
+QSO:   28004  CW 2020-11-29 1024  VU2PTT           599  22  OK1MR            599  15    1
+QSO:   28004  CW 2020-11-29 1024  VU2PTT           599  22  DL1MAJ           599  14    1
+QSO:   28004  CW 2020-11-29 1025  VU2PTT           599  22  F6EQZ            599  14    1
+QSO:   28004  CW 2020-11-29 1025  VU2PTT           599  22  PF6W             599  14    1
+QSO:   28004  CW 2020-11-29 1026  VU2PTT           599  22  F5PAC            599  14    1
+QSO:   28004  CW 2020-11-29 1026  VU2PTT           599  22  OH6RE            599  15    1
+QSO:   28004  CW 2020-11-29 1026  VU2PTT           599  22  SM3OMO           599  14    1
+QSO:   28004  CW 2020-11-29 1026  VU2PTT           599  22  OH5JJL           599  15    1
+QSO:   28004  CW 2020-11-29 1027  VU2PTT           599  22  DL7DZ            599  14    1
+QSO:   28004  CW 2020-11-29 1027  VU2PTT           599  22  DL1HBT           599  14    1
+QSO:   28004  CW 2020-11-29 1028  VU2PTT           599  22  YL2AO            599  15    1
+QSO:   28004  CW 2020-11-29 1028  VU2PTT           599  22  RZ1OK            599  16    1
+QSO:   28004  CW 2020-11-29 1030  VU2PTT           599  22  G3SVD            599  14    1
+QSO:   28004  CW 2020-11-29 1030  VU2PTT           599  22  PA5KT            599  14    1
+QSO:   28004  CW 2020-11-29 1031  VU2PTT           599  22  SP1GZF           599  15    1
+QSO:   28004  CW 2020-11-29 1032  VU2PTT           599  22  OZ8PG            599  14    1
+QSO:   28004  CW 2020-11-29 1032  VU2PTT           599  22  PC2F             599  14    1
+QSO:   28004  CW 2020-11-29 1032  VU2PTT           599  22  LA6CF            599  14    1
+QSO:   28004  CW 2020-11-29 1033  VU2PTT           599  22  F6GOX            599  14    1
+QSO:   28004  CW 2020-11-29 1033  VU2PTT           599  22  LA9AJA           599  14    1
+QSO:   28004  CW 2020-11-29 1034  VU2PTT           599  22  DL9YAJ           599  14    1
+QSO:   28004  CW 2020-11-29 1034  VU2PTT           599  22  F8AFC            599  14    1
+QSO:   28004  CW 2020-11-29 1036  VU2PTT           599  22  OH9W             599  15    1
+QSO:   28004  CW 2020-11-29 1038  VU2PTT           599  22  PA7LV            599  14    1
+QSO:   28004  CW 2020-11-29 1038  VU2PTT           599  22  DL2HWA           599  14    1
+QSO:   28004  CW 2020-11-29 1038  VU2PTT           599  22  DL1NKS           599  14    1
+QSO:   28004  CW 2020-11-29 1039  VU2PTT           599  22  OH5NZ            599  15    1
+QSO:   28004  CW 2020-11-29 1039  VU2PTT           599  22  DM2DXA           599  14    1
+QSO:   28004  CW 2020-11-29 1040  VU2PTT           599  22  PA3GND           599  14    1
+QSO:   28004  CW 2020-11-29 1040  VU2PTT           599  22  PA9CC            599  14    1
+QSO:   28004  CW 2020-11-29 1040  VU2PTT           599  22  SQ1X             599  15    1
+QSO:   28004  CW 2020-11-29 1041  VU2PTT           599  22  DF8XC            599  14    1
+QSO:   28004  CW 2020-11-29 1041  VU2PTT           599  22  OU4N             599  14    1
+QSO:   28004  CW 2020-11-29 1042  VU2PTT           599  22  F5PAL            599  14    1
+QSO:   28004  CW 2020-11-29 1042  VU2PTT           599  22  YB3IZK           599  28    1
+QSO:   28004  CW 2020-11-29 1043  VU2PTT           599  22  F5LEN            599  14    1
+QSO:   28004  CW 2020-11-29 1043  VU2PTT           599  22  OT7X             599  14    1
+QSO:   28004  CW 2020-11-29 1044  VU2PTT           599  22  IK4CIE           599  15    1
+QSO:   28004  CW 2020-11-29 1044  VU2PTT           599  22  G0BNR            599  14    1
+QSO:   28017  CW 2020-11-29 1050  VU2PTT           599  22  F8DFP            599  14    1
+QSO:   28012  CW 2020-11-29 1051  VU2PTT           599  22  MM3T             599  14    1
+QSO:   28009  CW 2020-11-29 1052  VU2PTT           599  22  ON7PQ            599  14    1
+QSO:   14059  CW 2020-11-29 1056  VU2PTT           599  22  JR4CTF           599  25    1
+QSO:   21003  CW 2020-11-29 1059  VU2PTT           599  22  SP5EPP           599  15    1
+QSO:   21003  CW 2020-11-29 1059  VU2PTT           599  22  HS0ZLW           599  26    1
+QSO:   21003  CW 2020-11-29 1101  VU2PTT           599  22  IZ5DKJ           599  15    1
+QSO:   21003  CW 2020-11-29 1101  VU2PTT           599  22  IZ8XXE           599  15    1
+QSO:   21003  CW 2020-11-29 1102  VU2PTT           599  22  EU3A             599  16    1
+QSO:   21003  CW 2020-11-29 1102  VU2PTT           599  22  IK8GJR           599  15    1
+QSO:   21003  CW 2020-11-29 1102  VU2PTT           599  22  SP7C             599  15    1
+QSO:   21003  CW 2020-11-29 1103  VU2PTT           599  22  BD7LPD           599  24    1
+QSO:   21003  CW 2020-11-29 1103  VU2PTT           599  22  DG9SEH           599  14    1
+QSO:   21003  CW 2020-11-29 1104  VU2PTT           599  22  DL2FQ            599  14    1
+QSO:   21003  CW 2020-11-29 1104  VU2PTT           599  22  PA1CW            599  14    1
+QSO:   21003  CW 2020-11-29 1105  VU2PTT           599  22  PC3M             599  14    1
+QSO:   21003  CW 2020-11-29 1105  VU2PTT           599  22  HA7VK            599  15    1
+QSO:   21003  CW 2020-11-29 1106  VU2PTT           599  22  G3WZD            599  14    1
+QSO:   21003  CW 2020-11-29 1106  VU2PTT           599  22  EA7JW            599  14    1
+QSO:   21003  CW 2020-11-29 1106  VU2PTT           599  22  G3SVD            599  14    1
+QSO:   21003  CW 2020-11-29 1107  VU2PTT           599  22  DL1BUG           599  14    1
+QSO:   21003  CW 2020-11-29 1107  VU2PTT           599  22  OK2RU            599  15    1
+QSO:   21003  CW 2020-11-29 1108  VU2PTT           599  22  YO8ST            599  20    1
+QSO:   21003  CW 2020-11-29 1108  VU2PTT           599  22  IU8FRE           599  15    1
+QSO:   21003  CW 2020-11-29 1109  VU2PTT           599  22  PA2LO            599  14    1
+QSO:   21003  CW 2020-11-29 1110  VU2PTT           599  22  DK5JM            599  14    1
+QSO:   21003  CW 2020-11-29 1110  VU2PTT           599  22  YO2MFC           599  20    1
+QSO:   21003  CW 2020-11-29 1111  VU2PTT           599  22  G3KHZ            599  14    1
+QSO:   21003  CW 2020-11-29 1111  VU2PTT           599  22  OK2AB            599  15    1
+QSO:   21003  CW 2020-11-29 1116  VU2PTT           599  22  OR3A             599  14    1
+QSO:   21003  CW 2020-11-29 1117  VU2PTT           599  22  PA8AD            599  14    1
+QSO:   21003  CW 2020-11-29 1118  VU2PTT           599  22  EA2W             599  14    1
+QSO:   21048  CW 2020-11-29 1135  VU2PTT           599  22  SP9MQA           599  15    1
+QSO:   21048  CW 2020-11-29 1135  VU2PTT           599  22  DL8WAA           599  14    1
+QSO:   21048  CW 2020-11-29 1136  VU2PTT           599  22  R7AC             599  16    1
+QSO:   21048  CW 2020-11-29 1137  VU2PTT           599  22  G8P              599  14    1
+QSO:   21048  CW 2020-11-29 1137  VU2PTT           599  22  DG9GR            599  14    1
+QSO:   21048  CW 2020-11-29 1138  VU2PTT           599  22  UW7EF            599  16    1
+QSO:   21048  CW 2020-11-29 1138  VU2PTT           599  22  YL2CV            599  15    1
+QSO:   21048  CW 2020-11-29 1139  VU2PTT           599  22  DP4X             599  14    1
+QSO:   21048  CW 2020-11-29 1140  VU2PTT           599  22  OG5G             599  15    1
+QSO:   21048  CW 2020-11-29 1141  VU2PTT           599  22  G4KNO            599  14    1
+QSO:   21048  CW 2020-11-29 1141  VU2PTT           599  22  EA8W             599  33    1
+QSO:   21048  CW 2020-11-29 1142  VU2PTT           599  22  SM3OMO           599  14    1
+QSO:   21048  CW 2020-11-29 1142  VU2PTT           599  22  DF8XC            599  14    1
+QSO:   21048  CW 2020-11-29 1142  VU2PTT           599  22  DL3LK            599  14    1
+QSO:   21048  CW 2020-11-29 1143  VU2PTT           599  22  R8TA             599  16    1
+QSO:   21048  CW 2020-11-29 1143  VU2PTT           599  22  R2UZ             599  16    1
+QSO:   21048  CW 2020-11-29 1143  VU2PTT           599  22  G0BNR            599  14    1
+QSO:   21048  CW 2020-11-29 1144  VU2PTT           599  22  DL1PAN           599  14    1
+QSO:   21048  CW 2020-11-29 1144  VU2PTT           599  22  DC6O             599  14    1
+QSO:   21048  CW 2020-11-29 1145  VU2PTT           599  22  E74D             599  15    1
+QSO:   21048  CW 2020-11-29 1145  VU2PTT           599  22  DL3GER           599  14    1
+QSO:   21048  CW 2020-11-29 1146  VU2PTT           599  22  F6AUS            599  14    1
+QSO:   21048  CW 2020-11-29 1146  VU2PTT           599  22  UR3LM            599  16    1
+QSO:   21048  CW 2020-11-29 1147  VU2PTT           599  22  DL5RJ            599  14    1
+QSO:   21048  CW 2020-11-29 1147  VU2PTT           599  22  SM2EKM           599  14    1
+QSO:   21048  CW 2020-11-29 1147  VU2PTT           599  22  OH2ID            599  15    1
+QSO:   21048  CW 2020-11-29 1148  VU2PTT           599  22  DK3WW            599  14    1
+QSO:   21048  CW 2020-11-29 1148  VU2PTT           599  22  IZ7ECL           599  15    1
+QSO:   21048  CW 2020-11-29 1148  VU2PTT           599  22  PA1T             599  14    1
+QSO:   21048  CW 2020-11-29 1148  VU2PTT           599  22  DK1FT            599  14    1
+QSO:   21048  CW 2020-11-29 1149  VU2PTT           599  22  UW3HM            599  16    1
+QSO:   21048  CW 2020-11-29 1150  VU2PTT           599  22  I3FDZ            599  15    1
+QSO:   21048  CW 2020-11-29 1150  VU2PTT           599  22  DL1SO            599  14    1
+QSO:   21048  CW 2020-11-29 1151  VU2PTT           599  22  IR4B             599  15    1
+QSO:   21048  CW 2020-11-29 1151  VU2PTT           599  22  IK5RUN           599  15    1
+QSO:   21048  CW 2020-11-29 1151  VU2PTT           599  22  DQ1P             599  14    1
+QSO:   21048  CW 2020-11-29 1152  VU2PTT           599  22  DL5YL            599  14    1
+QSO:   21048  CW 2020-11-29 1152  VU2PTT           599  22  G0TSM            599  14    1
+QSO:   21048  CW 2020-11-29 1153  VU2PTT           599  22  IO5P             599  15    1
+QSO:   21048  CW 2020-11-29 1154  VU2PTT           599  22  F5NZY            599  14    1
+QSO:   21048  CW 2020-11-29 1154  VU2PTT           599  22  DL5ZB            599  14    1
+QSO:   21048  CW 2020-11-29 1155  VU2PTT           599  22  UT7FA            599  16    1
+QSO:   21048  CW 2020-11-29 1156  VU2PTT           599  22  D1DX             599  16    1
+QSO:   21048  CW 2020-11-29 1156  VU2PTT           599  22  DH0GHU           599  14    1
+QSO:   21048  CW 2020-11-29 1157  VU2PTT           599  22  DL3AZ            599  14    1
+QSO:   21048  CW 2020-11-29 1157  VU2PTT           599  22  PA6T             599  14    1
+QSO:   21048  CW 2020-11-29 1158  VU2PTT           599  22  UI5F             599  16    1
+QSO:   21048  CW 2020-11-29 1158  VU2PTT           599  22  S53RA            599  15    1
+QSO:   21048  CW 2020-11-29 1159  VU2PTT           599  22  SI5Y             599  14    1
+QSO:   21048  CW 2020-11-29 1200  VU2PTT           599  22  IQ8XF            599  15    1
+QSO:   21048  CW 2020-11-29 1200  VU2PTT           599  22  S57NAW           599  15    1
+QSO:   21048  CW 2020-11-29 1201  VU2PTT           599  22  G0MTN            599  14    1
+QSO:   21048  CW 2020-11-29 1201  VU2PTT           599  22  DF2TT            599  14    1
+QSO:   21048  CW 2020-11-29 1203  VU2PTT           599  22  HS8HEX           599  26    1
+QSO:   21048  CW 2020-11-29 1203  VU2PTT           599  22  EA1WH            599  14    1
+QSO:   21048  CW 2020-11-29 1204  VU2PTT           599  22  IK0YVV           599  15    1
+QSO:   21048  CW 2020-11-29 1205  VU2PTT           599  22  SQ5JUP           599  15    1
+QSO:   21048  CW 2020-11-29 1206  VU2PTT           599  22  F4HRM            599  14    1
+QSO:   21048  CW 2020-11-29 1206  VU2PTT           599  22  SM2U             599  14    1
+QSO:   21048  CW 2020-11-29 1207  VU2PTT           599  22  9G5FI            599  35    1
+QSO:   21048  CW 2020-11-29 1208  VU2PTT           599  22  EA3OH            599  14    1
+QSO:   21048  CW 2020-11-29 1208  VU2PTT           599  22  HB9BLQ           599  14    1
+QSO:   21048  CW 2020-11-29 1208  VU2PTT           599  22  I2WIJ            599  15    1
+QSO:   21048  CW 2020-11-29 1209  VU2PTT           599  22  UT8IM            599  16    1
+QSO:   21048  CW 2020-11-29 1210  VU2PTT           599  22  IK1YLL           599  15    1
+QSO:   21048  CW 2020-11-29 1212  VU2PTT           599  22  DF3JO            599  14    1
+QSO:   21048  CW 2020-11-29 1213  VU2PTT           599  22  DL2VWR           599  14    1
+QSO:   21048  CW 2020-11-29 1213  VU2PTT           599  22  ES1CN            599  15    1
+QSO:   21048  CW 2020-11-29 1214  VU2PTT           599  22  F5IDJ            599  14    1
+QSO:   21048  CW 2020-11-29 1214  VU2PTT           599  22  RY7A             599  16    1
+QSO:   21048  CW 2020-11-29 1214  VU2PTT           599  22  G7T              599  14    1
+QSO:   21048  CW 2020-11-29 1215  VU2PTT           599  22  OZ1KEF           599  14    1
+QSO:   21048  CW 2020-11-29 1216  VU2PTT           599  22  PA6AA            599  14    1
+QSO:   21048  CW 2020-11-29 1216  VU2PTT           599  22  LY2K             599  15    1
+QSO:   21048  CW 2020-11-29 1216  VU2PTT           599  22  OZ8PG            599  14    1
+QSO:   21048  CW 2020-11-29 1217  VU2PTT           599  22  RU3W             599  16    1
+QSO:   21048  CW 2020-11-29 1217  VU2PTT           599  22  LA0CX            599  14    1
+QSO:   21048  CW 2020-11-29 1218  VU2PTT           599  22  F5NKX            599  14    1
+QSO:   21048  CW 2020-11-29 1219  VU2PTT           599  22  RZ2A             599  16    1
+QSO:   21048  CW 2020-11-29 1221  VU2PTT           599  22  DL0NM            599  14    1
+QSO:   21048  CW 2020-11-29 1221  VU2PTT           599  22  HS8JWH           599  26    1
+QSO:   21048  CW 2020-11-29 1222  VU2PTT           599  22  OG2X             599  15    1
+QSO:   21048  CW 2020-11-29 1223  VU2PTT           599  22  DL1II            599  14    1
+QSO:   21048  CW 2020-11-29 1223  VU2PTT           599  22  GM4Z             599  14    1
+QSO:   21048  CW 2020-11-29 1224  VU2PTT           599  22  LZ5R             599  20    1
+QSO:   21048  CW 2020-11-29 1224  VU2PTT           599  22  YO8BSE           599  20    1
+QSO:   21048  CW 2020-11-29 1224  VU2PTT           599  22  UA3X             599  16    1
+QSO:   21049  CW 2020-11-29 1227  VU2PTT           599  22  EI7M             599  14    1
+QSO:   21045  CW 2020-11-29 1229  VU2PTT           599  22  4U75B            599  15    1
+QSO:   21041  CW 2020-11-29 1231  VU2PTT           599  22  A42K             599  21    1
+QSO:   14004  CW 2020-11-29 1238  VU2PTT           599  22  HA0LC            599  15    1
+QSO:   14004  CW 2020-11-29 1239  VU2PTT           599  22  UR6EA            599  16    1
+QSO:   14004  CW 2020-11-29 1239  VU2PTT           599  22  IK1PMR           599  15    1
+QSO:   14004  CW 2020-11-29 1240  VU2PTT           599  22  PC3T             599  14    1
+QSO:   14004  CW 2020-11-29 1241  VU2PTT           599  22  OK2BHD           599  15    1
+QSO:   14004  CW 2020-11-29 1241  VU2PTT           599  22  UA6CC            599  16    1
+QSO:   14004  CW 2020-11-29 1242  VU2PTT           599  22  LZ3RM            599  20    1
+QSO:   14004  CW 2020-11-29 1242  VU2PTT           599  22  OK2QX            599  15    1
+QSO:   14004  CW 2020-11-29 1243  VU2PTT           599  22  OR2F             599  14    1
+QSO:   14004  CW 2020-11-29 1244  VU2PTT           599  22  RT5P             599  16    1
+QSO:   14004  CW 2020-11-29 1244  VU2PTT           599  22  YQ6A             599  20    1
+QSO:   14004  CW 2020-11-29 1245  VU2PTT           599  22  OK7KW            599  15    1
+QSO:   14004  CW 2020-11-29 1246  VU2PTT           599  22  DL5GAC           599  14    1
+QSO:   14004  CW 2020-11-29 1247  VU2PTT           599  22  RA3AN            599  16    1
+QSO:   14004  CW 2020-11-29 1248  VU2PTT           599  22  DH0JAE           599  14    1
+QSO:   14004  CW 2020-11-29 1248  VU2PTT           599  22  OL5W             599  15    1
+QSO:   14052  CW 2020-11-29 1255  VU2PTT           599  22  A42K             599  21    1
+QSO:   14107  CW 2020-11-29 1258  VU2PTT           599  22  UC7A             599  16    1
+QSO:   14107  CW 2020-11-29 1300  VU2PTT           599  22  UR5QU            599  16    1
+QSO:   14107  CW 2020-11-29 1301  VU2PTT           599  22  RN4NF            599  16    1
+QSO:   14107  CW 2020-11-29 1301  VU2PTT           599  22  K9CT             599  04    1
+QSO:   14107  CW 2020-11-29 1303  VU2PTT           599  22  F8CRS            599  14    1
+QSO:   14107  CW 2020-11-29 1304  VU2PTT           599  22  YO4DW            599  20    1
+QSO:   14107  CW 2020-11-29 1305  VU2PTT           599  22  K1ESE            599  05    1
+QSO:   14107  CW 2020-11-29 1305  VU2PTT           599  22  OK4MM            599  15    1
+QSO:   14107  CW 2020-11-29 1306  VU2PTT           599  22  UT5NR            599  16    1
+QSO:   14107  CW 2020-11-29 1306  VU2PTT           599  22  DL2NBU           599  14    1
+QSO:   14107  CW 2020-11-29 1308  VU2PTT           599  22  UT4U             599  16    1
+QSO:   14107  CW 2020-11-29 1310  VU2PTT           599  22  N4WW             599  05    1
+QSO:   14107  CW 2020-11-29 1310  VU2PTT           599  22  J42L             599  20    1
+QSO:   14107  CW 2020-11-29 1311  VU2PTT           599  22  YO4DW            599  20    1
+QSO:   14107  CW 2020-11-29 1311  VU2PTT           599  22  NY3B             599  05    1
+QSO:   14107  CW 2020-11-29 1312  VU2PTT           599  22  RD4F             599  16    1
+QSO:   14107  CW 2020-11-29 1313  VU2PTT           599  22  S54O             599  15    1
+QSO:   14107  CW 2020-11-29 1314  VU2PTT           599  22  K1VR             599  05    1
+QSO:   14107  CW 2020-11-29 1315  VU2PTT           599  22  K2LE             599  05    1
+QSO:   14107  CW 2020-11-29 1317  VU2PTT           599  22  US1QA            599  16    1
+QSO:   14107  CW 2020-11-29 1317  VU2PTT           599  22  OM7SR            599  15    1
+QSO:   14107  CW 2020-11-29 1318  VU2PTT           599  22  SV2BXA           599  20    1
+QSO:   14107  CW 2020-11-29 1319  VU2PTT           599  22  DC4A             599  14    1
+QSO:   14107  CW 2020-11-29 1320  VU2PTT           599  22  IK3UNA           599  15    1
+QSO:   14107  CW 2020-11-29 1321  VU2PTT           599  22  LY6A             599  15    1
+QSO:   14107  CW 2020-11-29 1321  VU2PTT           599  22  WA3C             599  04    1
+QSO:   14107  CW 2020-11-29 1322  VU2PTT           599  22  OH1VR            599  15    1
+QSO:   14107  CW 2020-11-29 1323  VU2PTT           599  22  N3AM             599  05    1
+QSO:   14107  CW 2020-11-29 1325  VU2PTT           599  22  IU1DUB/MM        599  37    1
+QSO:   14107  CW 2020-11-29 1326  VU2PTT           599  22  NJ3I             599  05    1
+QSO:   14107  CW 2020-11-29 1328  VU2PTT           599  22  LZ1BP            599  20    1
+QSO:   14107  CW 2020-11-29 1329  VU2PTT           599  22  PA6T             599  14    1
+QSO:   14107  CW 2020-11-29 1330  VU2PTT           599  22  IZ2GRG           599  15    1
+QSO:   14107  CW 2020-11-29 1331  VU2PTT           599  22  K2GO             599  05    1
+QSO:   14107  CW 2020-11-29 1332  VU2PTT           599  22  W2CG             599  05    1
+QSO:   14107  CW 2020-11-29 1333  VU2PTT           599  22  K9RS             599  05    1
+QSO:   14107  CW 2020-11-29 1334  VU2PTT           599  22  K1KI             599  05    1
+QSO:   14107  CW 2020-11-29 1334  VU2PTT           599  22  SQ6MS            599  15    1
+QSO:   14107  CW 2020-11-29 1335  VU2PTT           599  22  HG6L             599  15    1
+QSO:   14107  CW 2020-11-29 1336  VU2PTT           599  22  K5KG             599  05    1
+QSO:   14107  CW 2020-11-29 1337  VU2PTT           599  22  K3PP             599  05    1
+QSO:   14107  CW 2020-11-29 1338  VU2PTT           599  22  DK3WW            599  14    1
+QSO:   14107  CW 2020-11-29 1338  VU2PTT           599  22  DH0GHU           599  14    1
+QSO:   14107  CW 2020-11-29 1339  VU2PTT           599  22  ER3R             599  16    1
+QSO:   14107  CW 2020-11-29 1339  VU2PTT           599  22  KF3B             599  05    1
+QSO:   14107  CW 2020-11-29 1340  VU2PTT           599  22  K3AJ             599  05    1
+QSO:   14107  CW 2020-11-29 1341  VU2PTT           599  22  UT1DX            599  16    1
+QSO:   14107  CW 2020-11-29 1341  VU2PTT           599  22  PA3AAV           599  14    1
+QSO:   14107  CW 2020-11-29 1342  VU2PTT           599  22  HB9CZF           599  14    1
+QSO:   14107  CW 2020-11-29 1342  VU2PTT           599  22  DF3VM            599  14    1
+QSO:   14107  CW 2020-11-29 1343  VU2PTT           599  22  DF2SD            599  14    1
+QSO:   14107  CW 2020-11-29 1345  VU2PTT           599  22  RA3DNC           599  16    1
+QSO:   14107  CW 2020-11-29 1345  VU2PTT           599  22  UA3VLO           599  16    1
+QSO:   14107  CW 2020-11-29 1346  VU2PTT           599  22  YU1EA            599  15    1
+QSO:   14107  CW 2020-11-29 1348  VU2PTT           599  22  I1RJP            599  15    1
+QSO:   14107  CW 2020-11-29 1348  VU2PTT           599  22  N2OO             599  05    1
+QSO:   14107  CW 2020-11-29 1348  VU2PTT           599  22  IK3ORD           599  15    1
+QSO:   14107  CW 2020-11-29 1349  VU2PTT           599  22  IO4R             599  15    1
+QSO:   14107  CW 2020-11-29 1349  VU2PTT           599  22  YT6T             599  15    1
+QSO:   14107  CW 2020-11-29 1350  VU2PTT           599  22  N1DG             599  05    1
+QSO:   14107  CW 2020-11-29 1350  VU2PTT           599  22  IK2TDM           599  15    1
+QSO:   14107  CW 2020-11-29 1351  VU2PTT           599  22  DL1SO            599  14    1
+QSO:   14107  CW 2020-11-29 1351  VU2PTT           599  22  EV1R             599  16    1
+QSO:   14107  CW 2020-11-29 1351  VU2PTT           599  22  N3ND             599  05    1
+QSO:   14107  CW 2020-11-29 1352  VU2PTT           599  22  IK4UPB           599  15    1
+QSO:   14107  CW 2020-11-29 1353  VU2PTT           599  22  RM3DA            599  16    1
+QSO:   14107  CW 2020-11-29 1353  VU2PTT           599  22  PA6AA            599  14    1
+QSO:   14107  CW 2020-11-29 1354  VU2PTT           599  22  UX1HW/M          599  16    1
+QSO:   14107  CW 2020-11-29 1356  VU2PTT           599  22  LZ1VKD           599  20    1
+QSO:   14107  CW 2020-11-29 1356  VU2PTT           599  22  W1RM             599  05    1
+QSO:   14107  CW 2020-11-29 1356  VU2PTT           599  22  AA1V             599  05    1
+QSO:   14107  CW 2020-11-29 1357  VU2PTT           599  22  N1LN             599  05    1
+QSO:   14107  CW 2020-11-29 1358  VU2PTT           599  22  G4XEX            599  14    1
+QSO:   14107  CW 2020-11-29 1359  VU2PTT           599  22  DK7A             599  14    1
+QSO:   14107  CW 2020-11-29 1359  VU2PTT           599  22  SP3A             599  15    1
+QSO:   14107  CW 2020-11-29 1400  VU2PTT           599  22  DK7A             599  14    1
+QSO:   14107  CW 2020-11-29 1401  VU2PTT           599  22  K2SE             599  05    1
+QSO:   14107  CW 2020-11-29 1401  VU2PTT           599  22  SP1MGM           599  15    1
+QSO:   14107  CW 2020-11-29 1402  VU2PTT           599  22  K9NW             599  04    1
+QSO:   14107  CW 2020-11-29 1403  VU2PTT           599  22  VU2NXM           599  22    1
+QSO:   14107  CW 2020-11-29 1403  VU2PTT           599  22  UT5C             599  16    1
+QSO:   14107  CW 2020-11-29 1404  VU2PTT           599  22  UA6FZ            599  16    1
+QSO:   14107  CW 2020-11-29 1404  VU2PTT           599  22  DM2M             599  14    1
+QSO:   14107  CW 2020-11-29 1405  VU2PTT           599  22  SQ2A             599  15    1
+QSO:   14107  CW 2020-11-29 1405  VU2PTT           599  22  IV3DXW           599  15    1
+QSO:   14107  CW 2020-11-29 1406  VU2PTT           599  22  W1MD             599  05    1
+QSO:   14107  CW 2020-11-29 1407  VU2PTT           599  22  AB3AH            599  05    1
+QSO:   14107  CW 2020-11-29 1408  VU2PTT           599  22  W3HKK            599  04    1
+QSO:   14107  CW 2020-11-29 1408  VU2PTT           599  22  RT4H             599  16    1
+QSO:   14107  CW 2020-11-29 1409  VU2PTT           599  22  K3GW             599  05    1
+QSO:   14107  CW 2020-11-29 1409  VU2PTT           599  22  K5VIP            599  05    1
+QSO:   14107  CW 2020-11-29 1410  VU2PTT           599  22  N9NC             599  05    1
+QSO:   14107  CW 2020-11-29 1411  VU2PTT           599  22  DL2NFC           599  14    1
+QSO:   14107  CW 2020-11-29 1411  VU2PTT           599  22  DJ3HW            599  14    1
+QSO:   14103  CW 2020-11-29 1416  VU2PTT           599  22  K3TS             599  05    1
+QSO:   14002  CW 2020-11-29 1419  VU2PTT           599  22  CT3KN            599  33    1
+QSO:   21098  CW 2020-11-29 1421  VU2PTT           599  22  CR2X             599  14    1
+QSO:   21061  CW 2020-11-29 1433  VU2PTT           599  22  CR3W             599  33    1
+QSO:   21011  CW 2020-11-29 1435  VU2PTT           599  22  CR3DX            599  33    1
+QSO:   21066  CW 2020-11-29 1436  VU2PTT           599  22  CR6K             599  14    1
+QSO:   28022  CW 2020-11-29 1442  VU2PTT           599  22  PZ5RA            599  09    1
+QSO:   14012  CW 2020-11-29 1453  VU2PTT           599  22  K1IR             599  05    1
+QSO:   14013  CW 2020-11-29 1454  VU2PTT           599  22  KD2RD            599  05    1
+QSO:   14107  CW 2020-11-29 1456  VU2PTT           599  22  IQ1LA            599  15    1
+QSO:   14107  CW 2020-11-29 1457  VU2PTT           599  22  SE0P             599  14    1
+QSO:   14107  CW 2020-11-29 1458  VU2PTT           599  22  SV2AEL           599  20    1
+QSO:   14107  CW 2020-11-29 1459  VU2PTT           599  22  E72U             599  15    1
+QSO:   14107  CW 2020-11-29 1500  VU2PTT           599  22  YB3IZK           599  28    1
+QSO:   14099  CW 2020-11-29 1508  VU2PTT           599  22  DP6A             599  14    1
+QSO:   14073  CW 2020-11-29 1512  VU2PTT           599  22  IO3X             599  15    1
+QSO:   14070  CW 2020-11-29 1513  VU2PTT           599  22  OZ7A             599  14    1
+QSO:   14066  CW 2020-11-29 1514  VU2PTT           599  22  CR6K             599  14    1
+QSO:   14011  CW 2020-11-29 1520  VU2PTT           599  22  II2S             599  15    1
+QSO:   14004  CW 2020-11-29 1521  VU2PTT           599  22  S57S             599  15    1
+QSO:   14022  CW 2020-11-29 1523  VU2PTT           599  22  OM0R             599  15    1
+QSO:   14031  CW 2020-11-29 1525  VU2PTT           599  22  F5NZY            599  14    1
+QSO:   14083  CW 2020-11-29 1528  VU2PTT           599  22  I2WIJ            599  15    1
+QSO:   14086  CW 2020-11-29 1528  VU2PTT           599  22  IR2Q             599  15    1
+QSO:   14090  CW 2020-11-29 1530  VU2PTT           599  22  IR9R             599  15    1
+QSO:   14018  CW 2020-11-29 1533  VU2PTT           599  22  EA5M             599  14    1
+QSO:   14093  CW 2020-11-29 1537  VU2PTT           599  22  ZS2NF            599  38    1
+QSO:   14093  CW 2020-11-29 1537  VU2PTT           599  22  LY2A             599  15    1
+QSO:   14049  CW 2020-11-29 1541  VU2PTT           599  22  CR3W             599  33    1
+QSO:    7002  CW 2020-11-29 1547  VU2PTT           599  22  YT7A             599  15    1
+QSO:    7023  CW 2020-11-29 1553  VU2PTT           599  22  LY3B             599  15    1
+QSO:    7023  CW 2020-11-29 1553  VU2PTT           599  22  VU2CVS           599  22    1
+QSO:    7023  CW 2020-11-29 1554  VU2PTT           599  22  UT4LW            599  16    1
+QSO:    7023  CW 2020-11-29 1554  VU2PTT           599  22  SE5E             599  14    1
+QSO:    7023  CW 2020-11-29 1555  VU2PTT           599  22  UA4S             599  16    1
+QSO:    7032  CW 2020-11-29 1557  VU2PTT           599  22  ZM1A             599  32    1
+QSO:   21057  CW 2020-11-29 1607  VU2PTT           599  22  PS2T             599  11    1
+QSO:   21049  CW 2020-11-29 1610  VU2PTT           599  22  ZD7BG            599  36    1
+QSO:   21047  CW 2020-11-29 1655  VU2PTT           599  22  CX1AA            599  13    1
+QSO:   14026  CW 2020-11-29 1659  VU2PTT           599  22  YB2GV            599  28    1
+QSO:   14015  CW 2020-11-29 1702  VU2PTT           599  22  W1KM             599  05    1
+QSO:   14022  CW 2020-11-29 1703  VU2PTT           599  22  N1MM             599  05    1
+QSO:   14026  CW 2020-11-29 1705  VU2PTT           599  22  W3MA             599  05    1
+QSO:   14026  CW 2020-11-29 1706  VU2PTT           599  22  K2RET            599  05    1
+QSO:   14026  CW 2020-11-29 1707  VU2PTT           599  22  HA7LW            599  15    1
+QSO:   14026  CW 2020-11-29 1708  VU2PTT           599  22  N2RC             599  05    1
+QSO:   14026  CW 2020-11-29 1708  VU2PTT           599  22  W1FJ             599  05    1
+QSO:   14026  CW 2020-11-29 1709  VU2PTT           599  22  AA4V             599  05    1
+QSO:   14026  CW 2020-11-29 1709  VU2PTT           599  22  K8AZ             599  04    1
+QSO:   14026  CW 2020-11-29 1710  VU2PTT           599  22  S50XX            599  15    1
+QSO:   14026  CW 2020-11-29 1710  VU2PTT           599  22  LY4L             599  15    1
+QSO:   14026  CW 2020-11-29 1712  VU2PTT           599  22  NW3Y             599  05    1
+QSO:   14026  CW 2020-11-29 1713  VU2PTT           599  22  4Z5LU            599  20    1
+QSO:   14026  CW 2020-11-29 1714  VU2PTT           599  22  A65DF            599  21    1
+QSO:   14026  CW 2020-11-29 1715  VU2PTT           599  22  OK1GK            599  15    1
+QSO:   14026  CW 2020-11-29 1716  VU2PTT           599  22  K1LT             599  04    1
+QSO:   14026  CW 2020-11-29 1716  VU2PTT           599  22  I3FDZ            599  15    1
+QSO:   14026  CW 2020-11-29 1717  VU2PTT           599  22  E73B             599  15    1
+QSO:   14026  CW 2020-11-29 1720  VU2PTT           599  22  IK3LLS           599  15    1
+QSO:   14037  CW 2020-11-29 1733  VU2PTT           599  22  KP2B             599  08    1
+QSO:   14089  CW 2020-11-29 1736  VU2PTT           599  22  K1DG             599  05    1
+QSO:   14093  CW 2020-11-29 1736  VU2PTT           599  22  NN7CW            599  05    1
+QSO:   14068  CW 2020-11-29 1741  VU2PTT           599  22  C6AGU            599  08    1
+QSO:   14065  CW 2020-11-29 1742  VU2PTT           599  22  EU2F             599  16    1
+QSO:   14050  CW 2020-11-29 1743  VU2PTT           599  22  NR3X             599  05    1
+QSO:   14048  CW 2020-11-29 1745  VU2PTT           599  22  ZF1A             599  08    1
+QSO:   14038  CW 2020-11-29 1747  VU2PTT           599  22  IQ9UI            599  15    1
+QSO:   14036  CW 2020-11-29 1748  VU2PTT           599  22  K1RX             599  05    1
+QSO:   14011  CW 2020-11-29 1751  VU2PTT           599  22  PY2NY            599  11    1
+QSO:   14011  CW 2020-11-29 1751  VU2PTT           599  22  K3LR             599  05    1
+QSO:    7029  CW 2020-11-29 1758  VU2PTT           599  22  R4RT             599  16    1
+QSO:    7013  CW 2020-11-29 1800  VU2PTT           599  22  RT4D             599  16    1
+QSO:    7012  CW 2020-11-29 1801  VU2PTT           599  22  HG6N             599  15    1
+QSO:    7065  CW 2020-11-29 1824  VU2PTT           599  22  SP9FKQ           599  15    1
+QSO:    7049  CW 2020-11-29 1827  VU2PTT           599  22  YT7AA            599  15    1
+QSO:    7049  CW 2020-11-29 1827  VU2PTT           599  22  OH1VR            599  15    1
+QSO:    7049  CW 2020-11-29 1830  VU2PTT           599  22  DL7CX            599  14    1
+QSO:    7049  CW 2020-11-29 1831  VU2PTT           599  22  SQ8N             599  15    1
+QSO:    7049  CW 2020-11-29 1832  VU2PTT           599  22  YB2DX            599  28    1
+QSO:    7049  CW 2020-11-29 1833  VU2PTT           599  22  JK1OLT           599  25    1
+QSO:    7049  CW 2020-11-29 1833  VU2PTT           599  22  RX6FJ            599  16    1
+QSO:    7049  CW 2020-11-29 1835  VU2PTT           599  22  JE2LPC           599  25    1
+QSO:    7049  CW 2020-11-29 1835  VU2PTT           599  22  SP2XX            599  15    1
+QSO:    7049  CW 2020-11-29 1837  VU2PTT           599  22  JA7ACM           599  25    1
+QSO:    7049  CW 2020-11-29 1838  VU2PTT           599  22  JL1QOC           599  25    1
+QSO:    7049  CW 2020-11-29 1839  VU2PTT           599  22  EU3A             599  16    1
+QSO:    7049  CW 2020-11-29 1841  VU2PTT           599  22  DJ5MO            599  14    1
+QSO:    7049  CW 2020-11-29 1843  VU2PTT           599  22  YP5A             599  20    1
+QSO:    7049  CW 2020-11-29 1845  VU2PTT           599  22  YC9XYP           599  28    1
+QSO:    7049  CW 2020-11-29 1846  VU2PTT           599  22  US1IV            599  16    1
+QSO:    7049  CW 2020-11-29 1849  VU2PTT           599  22  RK9UE            599  18    1
+QSO:    7049  CW 2020-11-29 1849  VU2PTT           599  22  EW3M             599  16    1
+QSO:    7049  CW 2020-11-29 1851  VU2PTT           599  22  UX5UN            599  16    1
+QSO:    7049  CW 2020-11-29 1851  VU2PTT           599  22  SV2KF            599  20    1
+QSO:    7049  CW 2020-11-29 1852  VU2PTT           599  22  SP4Z             599  15    1
+QSO:    7049  CW 2020-11-29 1852  VU2PTT           599  22  UT3IA            599  16    1
+QSO:    7049  CW 2020-11-29 1852  VU2PTT           599  22  US1QA            599  16    1
+QSO:    7049  CW 2020-11-29 1853  VU2PTT           599  22  RD4F             599  16    1
+QSO:    7049  CW 2020-11-29 1854  VU2PTT           599  22  SN4X             599  15    1
+QSO:    7049  CW 2020-11-29 1855  VU2PTT           599  22  UX2HB            599  16    1
+QSO:    7049  CW 2020-11-29 1855  VU2PTT           599  22  OU4N             599  14    1
+QSO:    7049  CW 2020-11-29 1856  VU2PTT           599  22  UA3RFT           599  16    1
+QSO:    7049  CW 2020-11-29 1857  VU2PTT           599  22  YP0K             599  20    1
+QSO:    7049  CW 2020-11-29 1858  VU2PTT           599  22  RU3A             599  16    1
+QSO:    7049  CW 2020-11-29 1900  VU2PTT           599  22  YT6W             599  15    1
+QSO:    7049  CW 2020-11-29 1902  VU2PTT           599  22  SQ9C             599  15    1
+QSO:    7049  CW 2020-11-29 1902  VU2PTT           599  22  IT9ATQ           599  15    1
+QSO:    7049  CW 2020-11-29 1904  VU2PTT           599  22  RA4ACX           599  16    1
+QSO:    7049  CW 2020-11-29 1904  VU2PTT           599  22  RW0UM            599  18    1
+QSO:    7049  CW 2020-11-29 1905  VU2PTT           599  22  UT5IA            599  16    1
+QSO:    7049  CW 2020-11-29 1905  VU2PTT           599  22  IR7T             599  15    1
+QSO:    7049  CW 2020-11-29 1906  VU2PTT           599  22  RG7M             599  16    1
+QSO:    7049  CW 2020-11-29 1906  VU2PTT           599  22  DL8UP            599  14    1
+QSO:    7044  CW 2020-11-29 1910  VU2PTT           599  22  BY5EA            599  24    1
+QSO:    7040  CW 2020-11-29 1912  VU2PTT           599  22  C4W              599  20    1
+QSO:    7033  CW 2020-11-29 1913  VU2PTT           599  22  OK4MM            599  15    1
+QSO:    7028  CW 2020-11-29 1914  VU2PTT           599  22  EA5KM            599  14    1
+QSO:    7021  CW 2020-11-29 1916  VU2PTT           599  22  S57AL            599  15    1
+QSO:    7017  CW 2020-11-29 1918  VU2PTT           599  22  OH9W             599  15    1
+QSO:    7010  CW 2020-11-29 1920  VU2PTT           599  22  HG3N             599  15    1
+QSO:    7006  CW 2020-11-29 1925  VU2PTT           599  22  9A3XV            599  15    1
+QSO:    7004  CW 2020-11-29 1927  VU2PTT           599  22  HB9CVQ           599  14    1
+QSO:   14046  CW 2020-11-29 1929  VU2PTT           599  22  EA8RM            599  33    1
+QSO:   14006  CW 2020-11-29 1933  VU2PTT           599  22  EA8TZ            599  33    1
+QSO:   14036  CW 2020-11-29 1940  VU2PTT           599  22  KP3DX            599  08    1
+QSO:   14028  CW 2020-11-29 1941  VU2PTT           599  22  ZP5WYC           599  11    1
+QSO:    7066  CW 2020-11-29 1945  VU2PTT           599  22  DJ5MW            599  14    1
+QSO:    7049  CW 2020-11-29 1948  VU2PTT           599  22  IK2SND           599  15    1
+QSO:    7047  CW 2020-11-29 1949  VU2PTT           599  22  UF5D             599  16    1
+QSO:    7047  CW 2020-11-29 1950  VU2PTT           599  22  JH8YOH           599  25    1
+QSO:    7044  CW 2020-11-29 1951  VU2PTT           599  22  II8M             599  15    1
+QSO:    7023  CW 2020-11-29 1958  VU2PTT           599  22  HG8A             599  15    1
+QSO:    7000  CW 2020-11-29 2001  VU2PTT           599  22  OZ5E             599  14    1
+QSO:   14015  CW 2020-11-29 2011  VU2PTT           599  22  FK8IK            599  32    1
+QSO:    7060  CW 2020-11-29 2025  VU2PTT           599  22  OM7RU            599  15    1
+QSO:    7058  CW 2020-11-29 2026  VU2PTT           599  22  YL9T             599  15    1
+QSO:    7045  CW 2020-11-29 2031  VU2PTT           599  22  YU1KT            599  15    1
+QSO:    7040  CW 2020-11-29 2032  VU2PTT           599  22  RG6G             599  16    1
+QSO:    7038  CW 2020-11-29 2034  VU2PTT           599  22  IR2R             599  15    1
+QSO:    7034  CW 2020-11-29 2039  VU2PTT           599  22  HL2BQG           599  25    1
+QSO:    7029  CW 2020-11-29 2041  VU2PTT           599  22  EA2W             599  14    1
+QSO:    7026  CW 2020-11-29 2044  VU2PTT           599  22  IR4K             599  15    1
+QSO:    7022  CW 2020-11-29 2046  VU2PTT           599  22  OM4Q             599  15    1
+QSO:   14065  CW 2020-11-29 2049  VU2PTT           599  22  CX3AL            599  13    1
+QSO:   14066  CW 2020-11-29 2053  VU2PTT           599  22  PS2T             599  11    1
+QSO:   14064  CW 2020-11-29 2054  VU2PTT           599  22  HC5DX            599  10    1
+QSO:   14058  CW 2020-11-29 2055  VU2PTT           599  22  PT4A             599  11    1
+QSO:   21012  CW 2020-11-29 2100  VU2PTT           599  22  PY2KJ            599  11    1
+QSO:    7064  CW 2020-11-29 2117  VU2PTT           599  22  HZ1TT            599  21    1
+QSO:    7063  CW 2020-11-29 2120  VU2PTT           599  22  JG7AMD           599  25    1
+QSO:    7063  CW 2020-11-29 2121  VU2PTT           599  22  YO9AYN           599  20    1
+QSO:    7063  CW 2020-11-29 2124  VU2PTT           599  22  OK1DLX           599  15    1
+QSO:    7063  CW 2020-11-29 2127  VU2PTT           599  22  F4EFI            599  14    1
+QSO:    7063  CW 2020-11-29 2127  VU2PTT           599  22  RT5P             599  16    1
+QSO:    7063  CW 2020-11-29 2128  VU2PTT           599  22  OM7PY            599  15    1
+QSO:    7063  CW 2020-11-29 2129  VU2PTT           599  22  HB9TOC           599  14    1
+QSO:    7063  CW 2020-11-29 2129  VU2PTT           599  22  DK2FG            599  14    1
+QSO:    7063  CW 2020-11-29 2130  VU2PTT           599  22  OK1ATH           599  15    1
+QSO:    7063  CW 2020-11-29 2131  VU2PTT           599  22  UT5UN            599  16    1
+QSO:    7063  CW 2020-11-29 2133  VU2PTT           599  22  HB9BGF           559  14    1
+QSO:    7062  CW 2020-11-29 2135  VU2PTT           599  22  DK6WL            599  14    1
+QSO:    7053  CW 2020-11-29 2139  VU2PTT           599  22  UT4U             599  16    1
+QSO:    7051  CW 2020-11-29 2141  VU2PTT           599  22  US7IM            599  16    1
+QSO:    7033  CW 2020-11-29 2147  VU2PTT           599  22  DK8ZB            599  14    1
+QSO:    7018  CW 2020-11-29 2153  VU2PTT           599  22  OM0R             599  15    1
+QSO:    7017  CW 2020-11-29 2154  VU2PTT           599  22  EA7A             599  14    1
+QSO:    7015  CW 2020-11-29 2158  VU2PTT           599  22  UA3R             599  16    1
+QSO:    7006  CW 2020-11-29 2203  VU2PTT           599  22  EA5M             599  14    1
+QSO:   14035  CW 2020-11-29 2212  VU2PTT           599  22  LW1D             599  13    1
+QSO:   14008  CW 2020-11-29 2215  VU2PTT           599  22  LW5HR            599  13    1
+QSO:    7061  CW 2020-11-29 2227  VU2PTT           599  22  OR2M             599  14    1
+QSO:    7053  CW 2020-11-29 2233  VU2PTT           599  22  SX9V             599  20    1
+QSO:    7042  CW 2020-11-29 2234  VU2PTT           599  22  OK1GK            599  15    1
+QSO:    7033  CW 2020-11-29 2235  VU2PTT           599  22  ED7O             599  14    1
+QSO:    7003  CW 2020-11-29 2239  VU2PTT           599  22  KP2M             599  08    1
+QSO:    7025  CW 2020-11-29 2243  VU2PTT           599  22  OM5WW            599  15    1
+QSO:    7073  CW 2020-11-29 2249  VU2PTT           599  22  EA8RM            599  33    1
+QSO:    7062  CW 2020-11-29 2259  VU2PTT           599  22  TM2Y             599  14    1
+QSO:    7062  CW 2020-11-29 2259  VU2PTT           599  22  OK2RZ            599  15    1
+QSO:    7055  CW 2020-11-29 2301  VU2PTT           599  22  F6ARC            599  14    1
+QSO:    7053  CW 2020-11-29 2322  VU2PTT           599  22  LY2XW            599  15    1
+QSO:    7021  CW 2020-11-29 2329  VU2PTT           599  22  LY2CX            599  15    1
+QSO:    7021  CW 2020-11-29 2330  VU2PTT           599  22  DL7AU            599  14    1
+QSO:    7021  CW 2020-11-29 2332  VU2PTT           599  22  UA2FZ            599  15    1
+END-OF-LOG:

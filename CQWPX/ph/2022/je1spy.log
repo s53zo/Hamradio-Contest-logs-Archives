@@ -1,0 +1,55 @@
+START-OF-LOG: 3.0
+CONTEST: CQ-WPX-SSB
+CALLSIGN: JE1SPY
+LOCATION: DX
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: 160M
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-STATION: FIXED
+CATEGORY-OVERLAY: CLASSIC
+GRID-LOCATOR: PM95PP
+CLAIMED-SCORE: 925
+NAME: SAKAAKI ASHIKAWA
+CREATED-BY:
+SOAPBOX: In the Japanese band plan, SSB is only 30KHz wide from 1845 to 1875KHz.
+SOAPBOX: Moreover, since it is LSB, 1848KHz is the limit on the lower side, so
+SOAPBOX: you cannot call a DX station that runs at 1845KHz. (Because the lower
+SOAPBOX: wave band 3KHz of LSB enters the digital band) Since the Japanese band
+SOAPBOX: plan is treated the same as the Radio Law provisions, there are penal
+SOAPBOX: provisions for administrative sanctions,so amateur radio operators are
+SOAPBOX: free to do so at the time of the contest.
+SOAPBOX: It cannot be changed. Therefore, DX stations should fully understand
+SOAPBOX: that only 1848 to 1875KHz can communicate with Japanese stations via
+SOAPBOX: SSB.
+QSO:    1800 PH 2022-03-26 0917 JE1SPY           59  001   JE8OYB           59   002     0
+QSO:    1800 PH 2022-03-26 0924 JE1SPY           59  002   JA1GOY           59   001     0
+QSO:    1800 PH 2022-03-26 0949 JE1SPY           59  003   JA1GOY           59   003     0
+QSO:    1800 PH 2022-03-26 1102 JE1SPY           59  003   JH7UJU           59   126     0
+QSO:    1800 PH 2022-03-26 1253 JE1SPY           59  004   JF3DCH           59   133     0
+QSO:    1800 PH 2022-03-26 1300 JE1SPY           59  005   JR1GSE           59   239     0
+QSO:    1800 PH 2022-03-26 1300 JE1SPY           59  006   JE3VWI           59   012     0
+QSO:    1800 PH 2022-03-26 1327 JE1SPY           59  007   JE2OTM           59   015     0
+QSO:    1800 PH 2022-03-27 0954 JE1SPY           59  008   JR3UIC           59   074     0
+QSO:    1800 PH 2022-03-27 1000 JE1SPY           59  009   7M4CLF           59   011     0
+QSO:    1800 PH 2022-03-27 1002 JE1SPY           59  010   JR1ENT           59   001     0
+QSO:    1800 PH 2022-03-27 1002 JE1SPY           59  011   JM1FHL           59   097     0
+QSO:    1800 PH 2022-03-27 1003 JE1SPY           59  012   JM4WUZ           59   006     0
+QSO:    1800 PH 2022-03-27 1019 JE1SPY           59  013   JE1PWG           59   009     0
+QSO:    1800 PH 2022-03-27 1021 JE1SPY           59  014   JI1DCW           59   002     0
+QSO:    1800 PH 2022-03-27 1037 JE1SPY           59  015   JH9DRL           59   359     0
+QSO:    1800 PH 2022-03-27 1038 JE1SPY           59  016   8N1FT            59   448     0
+QSO:    1800 PH 2022-03-27 1046 JE1SPY           59  017   JJ5IYC           59   003     0
+QSO:    1800 PH 2022-03-27 1050 JE1SPY           59  018   JF1LMB           59   217     0
+QSO:    1800 PH 2022-03-27 1050 JE1SPY           59  019   JE6KYA           59   002     0
+QSO:    1800 PH 2022-03-27 1212 JE1SPY           59  020   JI4WHS           59   180     0
+QSO:    1800 PH 2022-03-27 1216 JE1SPY           59  021   JH4CES           59   067     0
+QSO:    1800 PH 2022-03-27 1220 JE1SPY           59  022   JH5FMF           59   013     0
+QSO:    1800 PH 2022-03-27 1232 JE1SPY           59  023   JL3MCM           59   118     0
+QSO:    1800 PH 2022-03-27 1238 JE1SPY           59  024   JL3LSF           59   019     0
+QSO:    1800 PH 2022-03-27 1247 JE1SPY           59  025   JA7ACM           59   157     0
+QSO:    1800 PH 2022-03-27 1304 JE1SPY           59  026   N7GP             59   091     0
+QSO:    1800 PH 2022-03-27 1325 JE1SPY           59  027   NH7T             59   106     0
+END-OF-LOG:

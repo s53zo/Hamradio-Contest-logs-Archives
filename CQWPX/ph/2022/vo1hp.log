@@ -1,0 +1,83 @@
+START-OF-LOG: 3.0
+CONTEST: CQ-WPX-SSB
+CALLSIGN: VO1HP
+LOCATION: NL
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: ASSISTED
+CATEGORY-BAND: 10M
+CATEGORY-POWER: HIGH
+CATEGORY-MODE: SSB
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-STATION: FIXED
+CATEGORY-OVERLAY:
+GRID-LOCATOR: GN37po
+CLAIMED-SCORE: 8748
+NAME: Frank Davis
+OPERATORS: VO1HP
+CLUB: MARITIME CONTEST CLUB
+CREATED-BY: N1MM Logger+ 1.0.9494.0
+SOAPBOX: SSB contests are not my cup-a-tea but I had intended to play Single Band 10M using my remote in the hope of picking up a few new entities. My plans were dashed when on my first call Sat morning I discovered that I had no mic audio. I have been using the same CM500 for several years and it has been dropped many times so figured it had finally died. Diagnosis of the problem took all day interleaved with side attempts to make FSK work on my TS590SG. Another project!
+SOAPBOX: I finally discovered late that the mic bias on the side mic jack on the K3 Mini was ZERO. After a period of disbelief I realized that I had an outboard bias box that came with the CM500. I finally found it and verififed that the headset was working OK. By then I had lost interest in the contest and gave up for the day.
+SOAPBOX: A side benefit to the bias problem is that I learned that the mic bias for the Mini comes from the Remote Rig 1258 box. There is bias voltage on pin 6 of the 8 pin mike connector on the front panel but not on the side mic jack. Oh yes the bias when working, appears on the TIP and not the RING! Another discovery.
+SOAPBOX: My first contact was Sunday 1500 but my interest was very low so I just wandered in and out of the shack all day despite conditions being great with wall to wall strong signals on 10 and 15.
+SOAPBOX: 73 Frank VO1HP
+QSO:   28409 PH 2022-03-27 1512 VO1HP            59  0001  V55Y             59   1356     
+QSO:   28415 PH 2022-03-27 1513 VO1HP            59  0002  EA8/OH0XX        59   1082     
+QSO:   28425 PH 2022-03-27 1537 VO1HP            59  0003  ED1R             59   0217     
+QSO:   28435 PH 2022-03-27 1538 VO1HP            59  0004  WP4SD            59   0823     
+QSO:   28445 PH 2022-03-27 1538 VO1HP            59  0005  CR6T             59   2991     
+QSO:   28455 PH 2022-03-27 1541 VO1HP            59  0006  VP5P             59   2732     
+QSO:   28463 PH 2022-03-27 1542 VO1HP            59  0007  P40L             59   3109     
+QSO:   28469 PH 2022-03-27 1543 VO1HP            59  0008  TO1Q             59   0818     
+QSO:   28402 PH 2022-03-27 1545 VO1HP            59  0009  V47T             59   5618     
+QSO:   28393 PH 2022-03-27 1547 VO1HP            59  0010  WP3C             59   2007     
+QSO:   28417 PH 2022-03-27 1549 VO1HP            59  0011  D4Z              59   2199     
+QSO:   28457 PH 2022-03-27 1551 VO1HP            59  0012  9G5AF            59   0232     
+QSO:   28461 PH 2022-03-27 1552 VO1HP            59  0013  PJ4K             59   5034     
+QSO:   28466 PH 2022-03-27 1553 VO1HP            59  0014  CB3W             59   0898     
+QSO:   28472 PH 2022-03-27 1553 VO1HP            59  0015  PV2K             59   2050     
+QSO:   28481 PH 2022-03-27 1555 VO1HP            59  0016  CX5ABM           59   0187     
+QSO:   28492 PH 2022-03-27 1556 VO1HP            59  0017  CX2BAH           59   0498     
+QSO:   28502 PH 2022-03-27 1557 VO1HP            59  0018  LU4DJB           59   0556     
+QSO:   28504 PH 2022-03-27 1558 VO1HP            59  0019  LO5D             59   1554     
+QSO:   28524 PH 2022-03-27 1558 VO1HP            59  0020  XQ3WD            59   0283     
+QSO:   28538 PH 2022-03-27 1559 VO1HP            59  0021  CX1AV            59   0898     
+QSO:   28545 PH 2022-03-27 1600 VO1HP            59  0022  KP4NET           59   0082     
+QSO:   28552 PH 2022-03-27 1601 VO1HP            59  0023  LW1F             59   1979     
+QSO:   28561 PH 2022-03-27 1601 VO1HP            59  0024  NE1C             59   0304     
+QSO:   28580 PH 2022-03-27 1603 VO1HP            59  0025  CB1C             59   0686     
+QSO:   28548 PH 2022-03-27 1604 VO1HP            59  0026  PY7IN            59   0705     
+QSO:   28488 PH 2022-03-27 1608 VO1HP            59  0027  KP2M             59   4426     
+QSO:   28404 PH 2022-03-27 1611 VO1HP            59  0028  PJ4DX            59   1523     
+QSO:   28349 PH 2022-03-27 1611 VO1HP            59  0029  V31XX            59   4501     
+QSO:   28320 PH 2022-03-27 1612 VO1HP            59  0030  PX2A             59   2086     
+QSO:   28368 PH 2022-03-27 1614 VO1HP            59  0031  CE4PPC           59   0561     
+QSO:   28373 PH 2022-03-27 1614 VO1HP            59  0032  KP2B             59   1510     
+QSO:   28391 PH 2022-03-27 1615 VO1HP            59  0033  PT1K             59   0602     
+QSO:   28440 PH 2022-03-27 1628 VO1HP            59  0034  LU3DX            59   0972     
+QSO:   28544 PH 2022-03-27 1709 VO1HP            59  0035  TO3Z             59   3002     
+QSO:   28345 PH 2022-03-27 1758 VO1HP            59  0036  CE7VP            59   0796     
+QSO:   28351 PH 2022-03-27 1759 VO1HP            59  0037  ZW2N             59   2413     
+QSO:   28363 PH 2022-03-27 1800 VO1HP            59  0038  PX5M             59   1167     
+QSO:   28409 PH 2022-03-27 1802 VO1HP            59  0039  HD1A             59   0309     
+QSO:   28420 PH 2022-03-27 1805 VO1HP            59  0040  OA4SS            59   0736     
+QSO:   28513 PH 2022-03-27 1820 VO1HP            59  0041  ZP5AA            59   2913     
+QSO:   21273 PH 2022-03-27 1902 VO1HP            59  0042  ZD7BG            59   0584     
+QSO:   21281 PH 2022-03-27 1904 VO1HP            59  0043  FM5BH            59   3430     
+QSO:   21238 PH 2022-03-27 1907 VO1HP            59  0044  OH6RM            59   1065     
+QSO:   21273 PH 2022-03-27 2203 VO1HP            59  0045  VE3EJ            59   2511     
+QSO:   21427 PH 2022-03-27 2205 VO1HP            59  0046  TI2VVV           59   1108     
+QSO:   21380 PH 2022-03-27 2206 VO1HP            59  0047  PJ2T             59   1863     
+QSO:   21370 PH 2022-03-27 2207 VO1HP            59  0048  HI3LT            59   1232     
+QSO:   21336 PH 2022-03-27 2211 VO1HP            59  0049  D4Z              59   4105     
+QSO:   21308 PH 2022-03-27 2213 VO1HP            59  0050  LR3D             59   1190     
+QSO:   21291 PH 2022-03-27 2214 VO1HP            59  0051  PJ5/SP9FIH       59   2458     
+QSO:   21259 PH 2022-03-27 2217 VO1HP            59  0052  CR3DX            59   3457     
+QSO:   21248 PH 2022-03-27 2222 VO1HP            59  0053  PZ5RA            59   0899     
+QSO:   21261 PH 2022-03-27 2223 VO1HP            59  0054  OA7/DD5ZZ        59   0789     
+QSO:   21355 PH 2022-03-27 2229 VO1HP            59  0055  V47T             59   6646     
+QSO:   21294 PH 2022-03-27 2241 VO1HP            59  0056  FY5KE            59   5824     
+QSO:   21254 PH 2022-03-27 2242 VO1HP            59  0057  FG4KH            59   1921     
+QSO:   21232 PH 2022-03-27 2243 VO1HP            59  0058  TI2JS            59   1171     
+QSO:    7146 PH 2022-03-27 2254 VO1HP            59  0059  SP8R             59   4767     
+END-OF-LOG:
