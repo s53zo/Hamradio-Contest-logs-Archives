@@ -1,0 +1,576 @@
+START-OF-LOG: 3.0
+HQ-DATE: Sun, 28 Oct 2007 18:58:20 -0700 (PDT)
+HQ-FROM: "k6ufo@arrl.net" <k6ufo@arrl.net>
+HQ-DATE-RECEIVED: 2007-10-29 01:58:22 UTC
+HQ-LOG-DEADLINE: 2007-12-01 23:59:59 UTC
+HQ-SUBJECT: NN7SS SSB
+CALLSIGN: NN7SS
+CLAIMED-SCORE: 340101
+CLUB: Western Washington DX Club
+CONTEST: CQ-WW-SSB
+CREATED-BY: WriteLog V10.47E
+NAME: Mark Aaker
+ADDRESS: 22303 N De Anza Cir
+ADDRESS: Cupertino, CA 95014
+ADDRESS: USA
+OPERATORS: K6UFO  WA7KYI  N7LKL
+SOAPBOX: Summary:
+SOAPBOX: Band:	QSOs Zones Countries
+SOAPBOX: 80m: 	   7	5	  5
+SOAPBOX: 40m:	  42	13	 24
+SOAPBOX: 20m:	 223	31	 95
+SOAPBOX: 15m:	 170	23	 61
+SOAPBOX: 10m:	  19	6	 16
+SOAPBOX: Totals: 461    78      201  Total Score = 340,101
+SOAPBOX:
+SOAPBOX: Multi-op with some friends on Vashon Island, WA. Just a single
+SOAPBOX: radio and time-out for sleep and projects around the house and shack.
+SOAPBOX: Managed to break a footswitch and the 80W west sloper, but otherwise
+SOAPBOX: things held together.
+SOAPBOX:
+SOAPBOX: Here in the Pacific Northwest of the USA, not a peep heard on 10m
+SOAPBOX: until Sunday noon, and then a good short opening. 15m was
+SOAPBOX: quite good considering zero sunspots. 20m was usual reliable, but
+SOAPBOX: we just fell short of 100 countries there, mostly due to difficulty
+SOAPBOX: working Europe in the mornings. 40m was tough going, but Dave N7LKL
+SOAPBOX: mastered
+SOAPBOX: the 40m split. 80m had loud Broadcast noise that I'll have to track
+SOAPBOX: down and fix. Didn't even listen on 160m. Jim WA7KYI diligently
+SOAPBOX: searched for new stations on sunday afternoon, but it got pretty
+SOAPBOX: slow and quiet toward the end. The calculator says we worked most
+SOAPBOX: often JA's, then PY's and LU's. Some notable DX here in the Pacific
+SOAPBOX: Northwest of USA was the 1A, HV for Europe; the JT and ZK1 to the
+SOAPBOX: west. Thanks to everybody for the contacts!
+SOAPBOX:
+SOAPBOX: Equipment:
+SOAPBOX: Yaesu FT-1000MP
+SOAPBOX: Ameritron AL-1200 amp
+SOAPBOX: 3-el SteppIR at 55'
+SOAPBOX: Cushcraft 40-2CD yagi at 50'
+SOAPBOX: 80-meter half-sloper
+SOAPBOX: Writelog software
+SOAPBOX:
+SOAPBOX: QSOs by hour and band.
+SOAPBOX:         160M     80M     40M     20M     15M     10M    Total  Cumm
+SOAPBOX: 0000Z  ---+-   ---+-   ---+-     22       1    ---+-      23     23
+SOAPBOX: 0100Z     -       -       -      16       -       -       16     39
+SOAPBOX: 0200Z     -       -      13      17       -       -       30     69
+SOAPBOX: 0300Z     -       -       8      11       -       -       19     88
+SOAPBOX: 0400Z     -       -       1      12       -       -       13    101
+SOAPBOX: 0500Z     -       -       -       -       -       -        0    101
+SOAPBOX: 0600Z     -       -       -       -       -       -        0    101
+SOAPBOX: 0700Z     -       -       -       -       -       -        0    101
+SOAPBOX: 0800Z  ---+-   ---+-   ---+-   ---+-   ---+-   ---+-       0    101
+SOAPBOX: 0900Z     -       -       -       -       -       -        0    101
+SOAPBOX: 1000Z     -       -       -       -       -       -        0    101
+SOAPBOX: 1100Z     -       -       -       -       -       -        0    101
+SOAPBOX: 1200Z     -       -       -       -       -       -        0    101
+SOAPBOX: 1300Z     -       -       -       -       -       -        0    101
+SOAPBOX: 1400Z     -       -       -       -       -       -        0    101
+SOAPBOX: 1500Z     -       -       1       -       -       -        1    102
+SOAPBOX: 1600Z  ---+-   ---+-   ---+-     21    ---+-   ---+-      21    123
+SOAPBOX: 1700Z     -       -       -       3       -       -        3    126
+SOAPBOX: 1800Z     -       -       -       -       -       -        0    126
+SOAPBOX: 1900Z     -       -       -       2       -       -        2    128
+SOAPBOX: 2000Z     -       -       -       1      29       -       30    158
+SOAPBOX: 2100Z     -       -       -       2      21       -       23    181
+SOAPBOX: 2200Z     -       -       -      10      40       -       50    231
+SOAPBOX: 2300Z     -       -       -      15       9       -       24    255
+SOAPBOX: 0000Z  ---+-   ---+-   ---+-      8    ---+-   ---+-       8    263
+SOAPBOX: 0100Z     -       -       2      13       -       -       15    278
+SOAPBOX: 0200Z     -       -       5       -       -       -        5    283
+SOAPBOX: 0300Z     -       -       5       -       -       -        5    288
+SOAPBOX: 0400Z     -       6       7       -       -       -       13    301
+SOAPBOX: 0500Z     -       -       -       -       -       -        0    301
+SOAPBOX: 0600Z     -       -       -       -       -       -        0    301
+SOAPBOX: 0700Z     -       -       -       -       -       -        0    301
+SOAPBOX: 0800Z  ---+-   ---+-   ---+-   ---+-   ---+-   ---+-       0    301
+SOAPBOX: 0900Z     -       -       -       -       -       -        0    301
+SOAPBOX: 1000Z     -       -       -       -       -       -        0    301
+SOAPBOX: 1100Z     -       -       -       -       -       -        0    301
+SOAPBOX: 1200Z     -       -       -       -       -       -        0    301
+SOAPBOX: 1300Z     -       -       -       -       -       -        0    301
+SOAPBOX: 1400Z     -       -       -       -       -       -        0    301
+SOAPBOX: 1500Z     -       1       -      15       3       -       19    320
+SOAPBOX: 1600Z  ---+-   ---+-   ---+-   ---+-      5    ---+-       5    325
+SOAPBOX: 1700Z     -       -       -       -      20       -       20    345
+SOAPBOX: 1800Z     -       -       -      28       6       -       34    379
+SOAPBOX: 1900Z     -       -       -       -       2      13       15    394
+SOAPBOX: 2000Z     -       -       -       2       4       6       12    406
+SOAPBOX: 2100Z     -       -       -       3       5       -        8    414
+SOAPBOX: 2200Z     -       -       -       -      12       -       12    426
+SOAPBOX: 2300Z     -       -       -      22      13       -       35    461
+SOAPBOX:
+SOAPBOX: Total:    0       7      42     223     170      19
+SOAPBOX:
+LOCATION: WWA
+CATEGORY-OPERATOR: MULTI-OP
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-BAND: ALL
+CATEGORY-POWER: HIGH
+CATEGORY-MODE: SSB
+CATEGORY-ASSISTED: ASSISTED
+CATEGORY-STATION: FIXED
+QSO: 21307 PH 2007-10-27 0004 NN7SS          59      3 HC8N           59     10
+QSO: 14239 PH 2007-10-27 0009 NN7SS          59      3 PY2KC          59     11
+QSO: 14201 PH 2007-10-27 0013 NN7SS          59      3 LS2D           59     13
+QSO: 14269 PH 2007-10-27 0013 NN7SS          59      3 PY2NY          59     11
+QSO: 14266 PH 2007-10-27 0014 NN7SS          59      3 6W1RY          59     35
+QSO: 14290 PH 2007-10-27 0017 NN7SS          59      3 JI2ZJS         59     25
+QSO: 14247 PH 2007-10-27 0027 NN7SS          59      3 KH7X           59     31
+QSO: 14167 PH 2007-10-27 0029 NN7SS          59      3 XR5JA          59     12
+QSO: 14204 PH 2007-10-27 0030 NN7SS          59      3 XE1CQ          59      6
+QSO: 14210 PH 2007-10-27 0031 NN7SS          59      3 TI5N           59      7
+QSO: 14258 PH 2007-10-27 0032 NN7SS          59      3 HC8N           59     10
+QSO: 14162 PH 2007-10-27 0032 NN7SS          59      3 J3A            59      8
+QSO: 14172 PH 2007-10-27 0034 NN7SS          59      3 CX1CCC         59     13
+QSO: 14303 PH 2007-10-27 0037 NN7SS          59      3 VR2C           59     24
+QSO: 14155 PH 2007-10-27 0038 NN7SS          59      3 9Y4D           59      9
+QSO: 14178 PH 2007-10-27 0038 NN7SS          59      3 VE3XD          59      4
+QSO: 14168 PH 2007-10-27 0040 NN7SS          59      3 VP5T           59      8
+QSO: 14215 PH 2007-10-27 0042 NN7SS          59      3 HR2DMR         59      7
+QSO: 14250 PH 2007-10-27 0043 NN7SS          59      3 6F75A          59      6
+QSO: 14230 PH 2007-10-27 0048 NN7SS          59      3 HC1JQ          59     10
+QSO: 14226 PH 2007-10-27 0049 NN7SS          59      3 FY5KE          59      9
+QSO: 14265 PH 2007-10-27 0051 NN7SS          59      3 HI3C           59      8
+QSO: 14189 PH 2007-10-27 0055 NN7SS          59      3 B3CH           59     24
+QSO: 14194 PH 2007-10-27 0103 NN7SS          59      3 OA4SS          59     10
+QSO: 14188 PH 2007-10-27 0115 NN7SS          59      3 VK4WR          59     30
+QSO: 14159 PH 2007-10-27 0123 NN7SS          59      3 LV5V           59     13
+QSO: 14160 PH 2007-10-27 0124 NN7SS          59      3 JH1ACA         59     25
+QSO: 14181 PH 2007-10-27 0128 NN7SS          59      3 AH6XX          59     31
+QSO: 14182 PH 2007-10-27 0129 NN7SS          59      3 VP5DX          59      8
+QSO: 14204 PH 2007-10-27 0133 NN7SS          59      3 C6APR          59      8
+QSO: 14218 PH 2007-10-27 0138 NN7SS          59      3 PS2T           59     11
+QSO: 14233 PH 2007-10-27 0141 NN7SS          59      3 LP1H           59     13
+QSO: 14236 PH 2007-10-27 0142 NN7SS          59      3 XR6T           59     12
+QSO: 14283 PH 2007-10-27 0145 NN7SS          59      3 LT1F           59     13
+QSO: 14287 PH 2007-10-27 0146 NN7SS          59      3 CE1W           59     12
+QSO: 14316 PH 2007-10-27 0150 NN7SS          59      3 ZX2B           59     11
+QSO: 14250 PH 2007-10-27 0153 NN7SS          59      3 VE6FI          59      4
+QSO: 14296 PH 2007-10-27 0155 NN7SS          59      3 6Y1V           59      8
+QSO: 14185 PH 2007-10-27 0159 NN7SS          59      3 TG9ANF         59      7
+QSO: 14180 PH 2007-10-27 0201 NN7SS          59      3 XE2YBG         59      6
+QSO: 14244 PH 2007-10-27 0202 NN7SS          59      3 LQ5H           59     13
+QSO: 14303 PH 2007-10-27 0202 NN7SS          59      3 LU3CT          59     13
+QSO: 14251 PH 2007-10-27 0203 NN7SS          59      3 PJ2T           59      9
+QSO: 14248 PH 2007-10-27 0204 NN7SS          59      3 PJ4E           59      9
+QSO: 14285 PH 2007-10-27 0205 NN7SS          59      3 PY2NA          59     11
+QSO:  7198 PH 2007-10-27 0210 NN7SS          59      3 VC3J           59      4
+QSO:  7200 PH 2007-10-27 0211 NN7SS          59      3 VE3RM          59      4
+QSO:  7228 PH 2007-10-27 0213 NN7SS          59      3 ZS9X           59     38
+QSO:  7172 PH 2007-10-27 0214 NN7SS          59      3 NP4Z           59      8
+QSO:  7234 PH 2007-10-27 0214 NN7SS          59      3 VE7SV          59      3
+QSO:  7219 PH 2007-10-27 0216 NN7SS          59      3 HI3CCP         59      8
+QSO:  7232 PH 2007-10-27 0220 NN7SS          59      3 VC6S           59      4
+QSO:  7210 PH 2007-10-27 0224 NN7SS          59      3 6Y1V           59      8
+QSO:  7269 PH 2007-10-27 0227 NN7SS          59      3 VA6MA          59      4
+QSO:  7218 PH 2007-10-27 0233 NN7SS          59      3 VA3VO          59      4
+QSO:  7155 PH 2007-10-27 0241 NN7SS          59      3 6F75A          59      6
+QSO:  7240 PH 2007-10-27 0243 NN7SS          59      3 KL7RA          59      1
+QSO:  7227 PH 2007-10-27 0244 NN7SS          59      3 KH7X           59     31
+QSO: 14327 PH 2007-10-27 0247 NN7SS          59      3 JA1YPA         59     25
+QSO: 14228 PH 2007-10-27 0247 NN7SS          59      3 KH6MB          59     31
+QSO: 14188 PH 2007-10-27 0249 NN7SS          59      3 P43A           59      9
+QSO: 14172 PH 2007-10-27 0250 NN7SS          59      3 LU7MCJ         59     13
+QSO: 14191 PH 2007-10-27 0251 NN7SS          59      3 PY5CA          59     11
+QSO: 14246 PH 2007-10-27 0253 NN7SS          59      3 8P5A           59      8
+QSO: 14151 PH 2007-10-27 0255 NN7SS          59      3 W7WA           59      3
+QSO: 14264 PH 2007-10-27 0255 NN7SS          59      3 ZP0R           59     11
+QSO: 14228 PH 2007-10-27 0256 NN7SS          59      3 CE4CT          59     12
+QSO: 14283 PH 2007-10-27 0257 NN7SS          59      3 JH0EPI         59     25
+QSO: 14223 PH 2007-10-27 0258 NN7SS          59      3 ZM2M           59     32
+QSO: 14293 PH 2007-10-27 0300 NN7SS          59      3 KH6LC          59     31
+QSO: 14244 PH 2007-10-27 0302 NN7SS          59      3 RW0CV          59     19
+QSO: 14175 PH 2007-10-27 0305 NN7SS          59      3 CX6VM          59     13
+QSO: 14221 PH 2007-10-27 0309 NN7SS          59      3 VE7SZ          59      3
+QSO:  7267 PH 2007-10-27 0313 NN7SS          59      3 ZX7A           59     11
+QSO:  7154 PH 2007-10-27 0317 NN7SS          59      3 WP2Z           59      8
+QSO:  7242 PH 2007-10-27 0319 NN7SS          59      3 P40PA          59      9
+QSO:  7214 PH 2007-10-27 0320 NN7SS          59      3 KH6LC          59     31
+QSO:  7227 PH 2007-10-27 0332 NN7SS          59      3 ZY7EAM         59     11
+QSO:  7223 PH 2007-10-27 0333 NN7SS          59      3 CM6RCR         59      8
+QSO:  7203 PH 2007-10-27 0339 NN7SS          59      3 ZY7C           59     11
+QSO:  7212 PH 2007-10-27 0343 NN7SS          59      3 PJ2T           59      9
+QSO: 14337 PH 2007-10-27 0354 NN7SS          59      3 JR5VHU         59     25
+QSO: 14244 PH 2007-10-27 0356 NN7SS          59      3 ZM4A           59     32
+QSO: 14273 PH 2007-10-27 0357 NN7SS          59      3 VK4CZ          59     30
+QSO: 14284 PH 2007-10-27 0358 NN7SS          59      3 VK4EMM         59     30
+QSO: 14284 PH 2007-10-27 0358 NN7SS          59      3 JI1FDF         59     25
+QSO: 14263 PH 2007-10-27 0358 NN7SS          59      3 VE7SV          59      3
+QSO: 14260 PH 2007-10-27 0359 NN7SS          59      3 JA6ZPR         59     25
+QSO: 14212 PH 2007-10-27 0400 NN7SS          59      3 JA7YRR         59     25
+QSO: 14296 PH 2007-10-27 0400 NN7SS          59      3 JS3CTQ         59     25
+QSO: 14204 PH 2007-10-27 0401 NN7SS          59      3 JA7NVF         59     25
+QSO: 14238 PH 2007-10-27 0401 NN7SS          59      3 JA8RWU         59     25
+QSO: 14280 PH 2007-10-27 0404 NN7SS          59      3 PP5TR          59     11
+QSO: 14183 PH 2007-10-27 0406 NN7SS          59      3 KH2INC         59     27
+QSO: 14230 PH 2007-10-27 0411 NN7SS          59      3 JA2PAC         59     25
+QSO: 14293 PH 2007-10-27 0415 NN7SS          59      3 JN1NDY         59     25
+QSO: 14306 PH 2007-10-27 0416 NN7SS          59      3 JA2ZJW         59     25
+QSO: 14270 PH 2007-10-27 0419 NN7SS          59      3 VK2ATZ         59     30
+QSO: 14278 PH 2007-10-27 0424 NN7SS          59      3 ZL1BYZ         59     32
+QSO: 14189 PH 2007-10-27 0431 NN7SS          59      3 TG9NX          59      7
+QSO:  7153 PH 2007-10-27 0434 NN7SS          59      3 FS/K1XM        59      8
+QSO:  7168 PH 2007-10-27 1559 NN7SS          59      3 K3LR           59      5
+QSO: 14303 PH 2007-10-27 1611 NN7SS          59      3 WP2Z           59      8
+QSO: 14233 PH 2007-10-27 1617 NN7SS          59      3 TM2T           59     14
+QSO: 14230 PH 2007-10-27 1618 NN7SS          59      3 KI4FZY         59      5
+QSO: 14325 PH 2007-10-27 1619 NN7SS          59      3 V26B           59      8
+QSO: 14240 PH 2007-10-27 1623 NN7SS          59      3 YT1BB          59     15
+QSO: 14295 PH 2007-10-27 1623 NN7SS          59      3 OH0R           59     15
+QSO: 14256 PH 2007-10-27 1624 NN7SS          59      3 M6T            59     14
+QSO: 14173 PH 2007-10-27 1627 NN7SS          59      3 TS6A           59     33
+QSO: 14218 PH 2007-10-27 1630 NN7SS          59      3 EA5EA          59     14
+QSO: 14269 PH 2007-10-27 1633 NN7SS          59      3 DR1A           59     14
+QSO: 14217 PH 2007-10-27 1636 NN7SS          59      3 IV3YYK         59     15
+QSO: 14271 PH 2007-10-27 1638 NN7SS          59      3 GW4BLE         59     14
+QSO: 14215 PH 2007-10-27 1639 NN7SS          59      3 FS/K1XM        59      8
+QSO: 14282 PH 2007-10-27 1640 NN7SS          59      3 EB1WW          59     14
+QSO: 14181 PH 2007-10-27 1641 NN7SS          59      3 CT1JLZ         59     14
+QSO: 14292 PH 2007-10-27 1642 NN7SS          59      3 OM8A           59     15
+QSO: 14160 PH 2007-10-27 1644 NN7SS          59      3 OL3Z           59     15
+QSO: 14198 PH 2007-10-27 1644 NN7SS          59      3 OT5A           59     14
+QSO: 14338 PH 2007-10-27 1646 NN7SS          59      3 S50K           59     15
+QSO: 14344 PH 2007-10-27 1649 NN7SS          59      3 JW5E           59     40
+QSO: 14291 PH 2007-10-27 1651 NN7SS          59      3 DL0TUM         59     14
+QSO: 14294 PH 2007-10-27 1702 NN7SS          59      3 EI7M           59     14
+QSO: 14336 PH 2007-10-27 1706 NN7SS          59      3 IS0T           59     15
+QSO: 14226 PH 2007-10-27 1711 NN7SS          59      3 CN4P           59     33
+QSO: 14219 PH 2007-10-27 1956 NN7SS          59      3 ZS6BRZ         59     38
+QSO: 14194 PH 2007-10-27 1959 NN7SS          59      3 KL7RA          59      1
+QSO: 14238 PH 2007-10-27 2000 NN7SS          59      3 AO8A           59     33
+QSO: 21347 PH 2007-10-27 2013 NN7SS          59      3 PJ4E           59      9
+QSO: 21334 PH 2007-10-27 2017 NN7SS          59      3 ZF2AH          59      8
+QSO: 21289 PH 2007-10-27 2018 NN7SS          59      3 P43A           59      9
+QSO: 21283 PH 2007-10-27 2020 NN7SS          59      3 XE1CQ          59      6
+QSO: 21248 PH 2007-10-27 2021 NN7SS          59      3 KH7Y           59     31
+QSO: 21223 PH 2007-10-27 2022 NN7SS          59      3 PY2BK          59     11
+QSO: 21246 PH 2007-10-27 2023 NN7SS          59      3 CE1W           59     12
+QSO: 21358 PH 2007-10-27 2023 NN7SS          59      3 CC0Y           59     12
+QSO: 21259 PH 2007-10-27 2024 NN7SS          59      3 YV4A           59      9
+QSO: 21228 PH 2007-10-27 2025 NN7SS          59      3 V47KP          59      8
+QSO: 21255 PH 2007-10-27 2030 NN7SS          59      3 T49C           59      8
+QSO: 21322 PH 2007-10-27 2031 NN7SS          59      3 LS1D           59     13
+QSO: 21279 PH 2007-10-27 2033 NN7SS          59      3 KP4SQ          59      8
+QSO: 21212 PH 2007-10-27 2034 NN7SS          59      3 V26B           59      8
+QSO: 21325 PH 2007-10-27 2037 NN7SS          59      3 CX1CCC         59     13
+QSO: 21328 PH 2007-10-27 2037 NN7SS          59      3 3G1K           59     12
+QSO: 21350 PH 2007-10-27 2039 NN7SS          59      3 VE6FI          59      4
+QSO: 21218 PH 2007-10-27 2040 NN7SS          59      3 K3LR           59      5
+QSO: 21304 PH 2007-10-27 2043 NN7SS          59      3 HR1AAB         59      7
+QSO: 21356 PH 2007-10-27 2043 NN7SS          59      3 J3A            59      8
+QSO: 21372 PH 2007-10-27 2044 NN7SS          59      3 HK6P           59      9
+QSO: 21221 PH 2007-10-27 2045 NN7SS          59      3 VP9I           59      5
+QSO: 21232 PH 2007-10-27 2046 NN7SS          59      3 CO8LY          59      8
+QSO: 21327 PH 2007-10-27 2048 NN7SS          59      3 VA3SK          59      4
+QSO: 21318 PH 2007-10-27 2049 NN7SS          59      3 VA7FC          59      3
+QSO: 21411 PH 2007-10-27 2050 NN7SS          59      3 KP4US          59      8
+QSO: 21208 PH 2007-10-27 2051 NN7SS          59      3 C50C           59     35
+QSO: 21403 PH 2007-10-27 2052 NN7SS          59      3 C6APR          59      8
+QSO: 21240 PH 2007-10-27 2055 NN7SS          59      3 PX2T           59     11
+QSO: 21372 PH 2007-10-27 2101 NN7SS          59      3 FM/K9NW        59      8
+QSO: 21320 PH 2007-10-27 2104 NN7SS          59      3 HH2FYD         59      8
+QSO: 21329 PH 2007-10-27 2105 NN7SS          59      3 VC3J           59      4
+QSO: 21387 PH 2007-10-27 2113 NN7SS          59      3 HI3K           59      8
+QSO: 21207 PH 2007-10-27 2114 NN7SS          59      3 PY2SBY         59     11
+QSO: 21296 PH 2007-10-27 2116 NN7SS          59      3 LV5V           59     13
+QSO: 21337 PH 2007-10-27 2118 NN7SS          59      3 FY5KE          59      9
+QSO: 21263 PH 2007-10-27 2122 NN7SS          59      3 ZX5J           59     11
+QSO: 21280 PH 2007-10-27 2124 NN7SS          59      3 PY1WS          59     11
+QSO: 21285 PH 2007-10-27 2125 NN7SS          59      3 TI8M           59      7
+QSO: 21278 PH 2007-10-27 2142 NN7SS          59      3 TI2KI          59      7
+QSO: 21390 PH 2007-10-27 2144 NN7SS          59      3 8P6EX          59      8
+QSO: 21270 PH 2007-10-27 2146 NN7SS          59      3 LT5Y           59     13
+QSO: 21221 PH 2007-10-27 2147 NN7SS          59      3 6Y1V           59      8
+QSO: 21398 PH 2007-10-27 2148 NN7SS          59      3 PZ5XX          59      9
+QSO: 21400 PH 2007-10-27 2149 NN7SS          59      3 HC2AD          59     10
+QSO: 21367 PH 2007-10-27 2150 NN7SS          59      3 PY2EX          59     11
+QSO: 21327 PH 2007-10-27 2152 NN7SS          59      3 JA7YRR         59     25
+QSO: 21284 PH 2007-10-27 2152 NN7SS          59      3 ZM2M           59     32
+QSO: 21368 PH 2007-10-27 2153 NN7SS          59      3 6W1RY          59     35
+QSO: 21377 PH 2007-10-27 2155 NN7SS          59      3 FY1FL          59      9
+QSO: 14192 PH 2007-10-27 2159 NN7SS          59      3 VE2DXY         59      2
+QSO: 14271 PH 2007-10-27 2159 NN7SS          59      3 FG/F6HLC       59      8
+QSO: 14195 PH 2007-10-27 2200 NN7SS          59      3 T48K           59      8
+QSO: 14215 PH 2007-10-27 2200 NN7SS          59      3 YV4A           59      9
+QSO: 14275 PH 2007-10-27 2200 NN7SS          59      3 P43E           59      9
+QSO: 14243 PH 2007-10-27 2201 NN7SS          59      3 AL1G           59      1
+QSO: 14206 PH 2007-10-27 2202 NN7SS          59      3 VP9I           59      5
+QSO: 14268 PH 2007-10-27 2203 NN7SS          59      3 C50C           59     35
+QSO: 14314 PH 2007-10-27 2203 NN7SS          59      3 NP4Z           59      8
+QSO: 14349 PH 2007-10-27 2206 NN7SS          59      3 HK3JJH         59      9
+QSO: 14266 PH 2007-10-27 2207 NN7SS          59      3 OF5Z           59     15
+QSO: 14282 PH 2007-10-27 2208 NN7SS          59      3 RW1AC          59     16
+QSO: 21344 PH 2007-10-27 2213 NN7SS          59      3 VP2MDG         59      8
+QSO: 21287 PH 2007-10-27 2213 NN7SS          59      3 FS/K1XM        59      8
+QSO: 21351 PH 2007-10-27 2215 NN7SS          59      3 V31FB          59      7
+QSO: 21258 PH 2007-10-27 2217 NN7SS          59      3 PY2NY          59     11
+QSO: 21390 PH 2007-10-27 2217 NN7SS          59      3 WP2Z           59      8
+QSO: 21300 PH 2007-10-27 2218 NN7SS          59      3 LU1HLH         59     13
+QSO: 21342 PH 2007-10-27 2218 NN7SS          59      3 LU3CT          59     13
+QSO: 21226 PH 2007-10-27 2218 NN7SS          59      3 PJ2T           59      9
+QSO: 21355 PH 2007-10-27 2219 NN7SS          59      3 PY2NA          59     11
+QSO: 21386 PH 2007-10-27 2219 NN7SS          59      3 WP4SK          59      8
+QSO: 21306 PH 2007-10-27 2220 NN7SS          59      3 XR6T           59     12
+QSO: 21309 PH 2007-10-27 2220 NN7SS          59      3 CV5D           59     13
+QSO: 21294 PH 2007-10-27 2220 NN7SS          59      3 PP5MQ          59     11
+QSO: 21203 PH 2007-10-27 2221 NN7SS          59      3 ZX2B           59     11
+QSO: 21276 PH 2007-10-27 2221 NN7SS          59      3 PY2GH          59     11
+QSO: 21252 PH 2007-10-27 2222 NN7SS          59      3 LQ5H           59     13
+QSO: 21378 PH 2007-10-27 2222 NN7SS          59      3 LW6DW          59     13
+QSO: 21373 PH 2007-10-27 2225 NN7SS          59      3 LU2EE          59     13
+QSO: 21407 PH 2007-10-27 2225 NN7SS          59      3 PY2AA          59     11
+QSO: 21283 PH 2007-10-27 2226 NN7SS          59      3 CE4CT          59     12
+QSO: 21220 PH 2007-10-27 2227 NN7SS          59      3 PY2HL          59     11
+QSO: 21246 PH 2007-10-27 2227 NN7SS          59      3 PY2KC          59     11
+QSO: 21208 PH 2007-10-27 2228 NN7SS          59      3 HP1BYK         59      7
+QSO: 21265 PH 2007-10-27 2230 NN7SS          59      3 TG9NX          59      7
+QSO: 21211 PH 2007-10-27 2230 NN7SS          59      3 LP1H           59     13
+QSO: 21270 PH 2007-10-27 2231 NN7SS          59      3 ZP0R           59     11
+QSO: 21340 PH 2007-10-27 2232 NN7SS          59      3 CC2A           59     12
+QSO: 21305 PH 2007-10-27 2234 NN7SS          59      3 6I2YW          59      6
+QSO: 21335 PH 2007-10-27 2238 NN7SS          59      3 P40PA          59      9
+QSO: 21316 PH 2007-10-27 2240 NN7SS          59      3 JA3YBK         59     25
+QSO: 21299 PH 2007-10-27 2242 NN7SS          59      3 KH6LC          59     31
+QSO: 21419 PH 2007-10-27 2246 NN7SS          59      3 ZL1NI          59     32
+QSO: 21254 PH 2007-10-27 2248 NN7SS          59      3 KH7X           59     31
+QSO: 21303 PH 2007-10-27 2249 NN7SS          59      3 LS2D           59     13
+QSO: 21275 PH 2007-10-27 2250 NN7SS          59      3 PY5YA          59     11
+QSO: 21400 PH 2007-10-27 2250 NN7SS          59      3 LU5EVK         59     13
+QSO: 21268 PH 2007-10-27 2251 NN7SS          59      3 HK3O           59      9
+QSO: 21320 PH 2007-10-27 2254 NN7SS          59      3 PY3FOX         59     11
+QSO: 21291 PH 2007-10-27 2255 NN7SS          59      3 HK6K           59      9
+QSO: 21280 PH 2007-10-27 2256 NN7SS          59      3 6F75A          59      6
+QSO: 21325 PH 2007-10-27 2300 NN7SS          59      3 LU7HW          59     13
+QSO: 21243 PH 2007-10-27 2302 NN7SS          59      3 LR2F           59     13
+QSO: 21367 PH 2007-10-27 2303 NN7SS          59      3 JM1XCW         59     25
+QSO: 21375 PH 2007-10-27 2306 NN7SS          59      3 CX9DX          59     13
+QSO: 14257 PH 2007-10-27 2317 NN7SS          59      3 FM/K9NW        59      8
+QSO: 14235 PH 2007-10-27 2318 NN7SS          59      3 VP2MDG         59      8
+QSO: 14192 PH 2007-10-27 2319 NN7SS          59      3 CX1TG          59     13
+QSO: 14273 PH 2007-10-27 2320 NN7SS          59      3 HP1XX          59      7
+QSO: 14288 PH 2007-10-27 2320 NN7SS          59      3 HI3T           59      8
+QSO: 14203 PH 2007-10-27 2321 NN7SS          59      3 LU4DX          59     13
+QSO: 14328 PH 2007-10-27 2324 NN7SS          59      3 NP2B           59      8
+QSO: 14213 PH 2007-10-27 2324 NN7SS          59      3 XE2WWW         59      6
+QSO: 14205 PH 2007-10-27 2324 NN7SS          59      3 LW9ETQ         59     13
+QSO: 14229 PH 2007-10-27 2326 NN7SS          59      3 P40PA          59      9
+QSO: 14244 PH 2007-10-27 2327 NN7SS          59      3 P40A           59      9
+QSO: 14232 PH 2007-10-27 2329 NN7SS          59      3 JI2ZEY         59     25
+QSO: 14327 PH 2007-10-27 2330 NN7SS          59      3 AL2F           59      1
+QSO: 14263 PH 2007-10-27 2331 NN7SS          59      3 B5TT           59     24
+QSO: 14253 PH 2007-10-27 2334 NN7SS          59      3 JA1ELY         59     25
+QSO: 21340 PH 2007-10-27 2340 NN7SS          59      3 CX2ABP         59     13
+QSO: 21207 PH 2007-10-27 2350 NN7SS          59      3 A35RK          59     32
+QSO: 21291 PH 2007-10-27 2352 NN7SS          59      3 VK4ZD          59     30
+QSO: 21251 PH 2007-10-27 2354 NN7SS          59      3 E51CG          59     32
+QSO: 21303 PH 2007-10-27 2358 NN7SS          59      3 LU1NDC         59     13
+QSO: 14235 PH 2007-10-28 0004 NN7SS          59      3 LT1F           59     13
+QSO: 14250 PH 2007-10-28 0005 NN7SS          59      3 ZX7A           59     11
+QSO: 14192 PH 2007-10-28 0006 NN7SS          59      3 HK3O           59      9
+QSO: 14220 PH 2007-10-28 0008 NN7SS          59      3 JJ3YBB         59     25
+QSO: 14175 PH 2007-10-28 0009 NN7SS          59      3 JA7ODY         59     25
+QSO: 14150 PH 2007-10-28 0010 NN7SS          59      3 JH4UYB         59     25
+QSO: 14179 PH 2007-10-28 0015 NN7SS          59      3 DU1BP          59     27
+QSO: 14188 PH 2007-10-28 0025 NN7SS          59      3 BX6AP          59     24
+QSO: 14192 PH 2007-10-28 0059 NN7SS          59      3 JT1CO          59     23
+QSO: 14170 PH 2007-10-28 0100 NN7SS          59      3 RK0UT          59     18
+QSO: 14216 PH 2007-10-28 0119 NN7SS          59      3 LR2F           59     13
+QSO: 14200 PH 2007-10-28 0120 NN7SS          59      3 FY1FL          59      9
+QSO: 14277 PH 2007-10-28 0121 NN7SS          59      3 WH2X           59     27
+QSO: 14247 PH 2007-10-28 0121 NN7SS          59      3 RW0LT          59     19
+QSO: 14329 PH 2007-10-28 0122 NN7SS          59      3 8N7TU          59     25
+QSO: 14274 PH 2007-10-28 0124 NN7SS          59      3 JG7AMD         59     25
+QSO: 14232 PH 2007-10-28 0127 NN7SS          59      3 JF2QNM         59     25
+QSO: 14238 PH 2007-10-28 0128 NN7SS          59      3 JI2KXK         59     25
+QSO: 14301 PH 2007-10-28 0128 NN7SS          59      3 JR7WAB         59     25
+QSO: 14298 PH 2007-10-28 0130 NN7SS          59      3 JM4WUZ         59     25
+QSO: 14319 PH 2007-10-28 0134 NN7SS          59      3 JA3YBK         59     25
+QSO: 14234 PH 2007-10-28 0136 NN7SS          59      3 JQ1BVI         59     25
+QSO:  7174 PH 2007-10-28 0146 NN7SS          59      3 VP5T           59      8
+QSO:  7233 PH 2007-10-28 0147 NN7SS          59      3 8P6SH          59      8
+QSO:  7264 PH 2007-10-28 0223 NN7SS          59      3 PR1T           59     11
+QSO:  7200 PH 2007-10-28 0228 NN7SS          59      3 C50C           59     35
+QSO:  7204 PH 2007-10-28 0229 NN7SS          59      3 LU4DX          59     13
+QSO:  7243 PH 2007-10-28 0231 NN7SS          59      3 AO8A           59     33
+QSO:  7220 PH 2007-10-28 0246 NN7SS          59      3 VE6FI          59      4
+QSO:  7214 PH 2007-10-28 0308 NN7SS          59      3 LR2F           59     13
+QSO:  7243 PH 2007-10-28 0321 NN7SS          59      3 9Y4W           59      9
+QSO:  7243 PH 2007-10-28 0328 NN7SS          59      3 KP4KE          59      8
+QSO:  7274 PH 2007-10-28 0333 NN7SS          59      3 PJ4E           59      9
+QSO:  7257 PH 2007-10-28 0352 NN7SS          59      3 KH6YR          59     31
+QSO:  7244 PH 2007-10-28 0410 NN7SS          59      3 FY5KE          59      9
+QSO:  7295 PH 2007-10-28 0412 NN7SS          59      3 LT1F           59     13
+QSO:  7208 PH 2007-10-28 0412 NN7SS          59      3 8P5A           59      8
+QSO:  7272 PH 2007-10-28 0413 NN7SS          59      3 V26B           59      8
+QSO:  7258 PH 2007-10-28 0415 NN7SS          59      3 WP3C           59      8
+QSO:  7235 PH 2007-10-28 0423 NN7SS          59      3 PR7DZ          59     11
+QSO:  7253 PH 2007-10-28 0442 NN7SS          59      3 YV4A           59      9
+QSO:  3744 PH 2007-10-28 0452 NN7SS          59      3 XE2K           59      6
+QSO:  3722 PH 2007-10-28 0452 NN7SS          59      3 VE7SCC         59      3
+QSO:  3767 PH 2007-10-28 0454 NN7SS          59      3 KH7X           59     31
+QSO:  3759 PH 2007-10-28 0454 NN7SS          59      3 VE6FI          59      4
+QSO:  3749 PH 2007-10-28 0455 NN7SS          59      3 WB9Z           59      4
+QSO:  3731 PH 2007-10-28 0456 NN7SS          59      3 VE6WZ          59      4
+QSO:  3798 PH 2007-10-28 1500 NN7SS          59      3 JA8RWU         59     25
+QSO: 14319 PH 2007-10-28 1515 NN7SS          59      3 IR4X           59     15
+QSO: 14170 PH 2007-10-28 1517 NN7SS          59      3 HA8JV          59     15
+QSO: 14193 PH 2007-10-28 1519 NN7SS          59      3 LN8W           59     14
+QSO: 14342 PH 2007-10-28 1523 NN7SS          59      3 T70A           59     15
+QSO: 14346 PH 2007-10-28 1525 NN7SS          59      3 OZ1ADL         59     14
+QSO: 14201 PH 2007-10-28 1526 NN7SS          59      3 SP3SLO         59     15
+QSO: 14226 PH 2007-10-28 1527 NN7SS          59      3 PI4COM         59     14
+QSO: 14239 PH 2007-10-28 1528 NN7SS          59      3 V47KP          59      8
+QSO: 14308 PH 2007-10-28 1529 NN7SS          59      3 9A4D           59     15
+QSO: 14344 PH 2007-10-28 1529 NN7SS          59      3 1A3A           59     15
+QSO: 14340 PH 2007-10-28 1532 NN7SS          59      3 ER0WW          59     16
+QSO: 14162 PH 2007-10-28 1533 NN7SS          59      3 HV50VR         59     15
+QSO: 21398 PH 2007-10-28 1542 NN7SS          59      3 ZS9X           59     38
+QSO: 21208 PH 2007-10-28 1543 NN7SS          59      3 ZY7C           59     11
+QSO: 21216 PH 2007-10-28 1545 NN7SS          59      3 HP1BYS         59      7
+QSO: 14280 PH 2007-10-28 1552 NN7SS          59      3 DR5Z           59     14
+QSO: 14273 PH 2007-10-28 1554 NN7SS          59      3 LX7I           59     14
+QSO: 14330 PH 2007-10-28 1558 NN7SS          59      3 HB0/HB9AON     59     14
+QSO: 21250 PH 2007-10-28 1632 NN7SS          59      3 KP2BH          59      8
+QSO: 21281 PH 2007-10-28 1635 NN7SS          59      3 VC6S           59      4
+QSO: 21304 PH 2007-10-28 1638 NN7SS          59      3 VP5DX          59      8
+QSO: 21311 PH 2007-10-28 1639 NN7SS          59      3 HI3T           59      8
+QSO: 21315 PH 2007-10-28 1640 NN7SS          59      3 P40W           59      9
+QSO: 21385 PH 2007-10-28 1713 NN7SS          59      3 XE2/K7ZS       59      6
+QSO: 21336 PH 2007-10-28 1714 NN7SS          59      3 LT1F           59     13
+QSO: 21224 PH 2007-10-28 1718 NN7SS          59      3 YY5PER         59      9
+QSO: 21246 PH 2007-10-28 1719 NN7SS          59      3 VC3X           59      4
+QSO: 21286 PH 2007-10-28 1722 NN7SS          59      3 XE2WWW         59      6
+QSO: 21289 PH 2007-10-28 1722 NN7SS          59      3 8P5A           59      8
+QSO: 21320 PH 2007-10-28 1724 NN7SS          59      3 T48K           59      8
+QSO: 21322 PH 2007-10-28 1724 NN7SS          59      3 TI8II          59      7
+QSO: 21353 PH 2007-10-28 1728 NN7SS          59      3 VP5T           59      8
+QSO: 21202 PH 2007-10-28 1729 NN7SS          59      3 NP4Z           59      8
+QSO: 21222 PH 2007-10-28 1730 NN7SS          59      3 ZX7A           59     11
+QSO: 21398 PH 2007-10-28 1747 NN7SS          59      3 CQ3T           59     33
+QSO: 21306 PH 2007-10-28 1748 NN7SS          59      3 VO1HE          59      5
+QSO: 21248 PH 2007-10-28 1751 NN7SS          59      3 LU7HN          59     13
+QSO: 21250 PH 2007-10-28 1751 NN7SS          59      3 AO8A           59     33
+QSO: 21364 PH 2007-10-28 1752 NN7SS          59      3 ZD7X           59     36
+QSO: 21296 PH 2007-10-28 1754 NN7SS          59      3 CN3A           59     33
+QSO: 21259 PH 2007-10-28 1756 NN7SS          59      3 VA3YP          59      4
+QSO: 21307 PH 2007-10-28 1757 NN7SS          59      3 CX6VM          59     13
+QSO: 21384 PH 2007-10-28 1758 NN7SS          59      3 6I2AUB         59      6
+QSO: 14300 PH 2007-10-28 1800 NN7SS          59      3 M4A            59     14
+QSO: 14328 PH 2007-10-28 1801 NN7SS          59      3 MI0LLL         59     14
+QSO: 14318 PH 2007-10-28 1805 NN7SS          59      3 AO6OZ          59     14
+QSO: 14339 PH 2007-10-28 1805 NN7SS          59      3 AO6DD          59     14
+QSO: 14255 PH 2007-10-28 1807 NN7SS          59      3 DL0WW          59     14
+QSO: 14349 PH 2007-10-28 1809 NN7SS          59      3 IG9R           59     33
+QSO: 14229 PH 2007-10-28 1809 NN7SS          59      3 IR9K           59     15
+QSO: 21374 PH 2007-10-28 1816 NN7SS          59      3 PT7ZT          59     11
+QSO: 21346 PH 2007-10-28 1816 NN7SS          59      3 VE5RI          59      4
+QSO: 21376 PH 2007-10-28 1818 NN7SS          59      3 CQ9K           59     33
+QSO: 21335 PH 2007-10-28 1819 NN7SS          59      3 VE7SV          59      3
+QSO: 21248 PH 2007-10-28 1819 NN7SS          59      3 6V7G           59     35
+QSO: 21273 PH 2007-10-28 1821 NN7SS          59      3 XE1YJS         59      6
+QSO: 14249 PH 2007-10-28 1826 NN7SS          59      3 OF8L           59     15
+QSO: 14338 PH 2007-10-28 1831 NN7SS          59      3 IS0/K7QB       59     15
+QSO: 14307 PH 2007-10-28 1832 NN7SS          59      3 DL2ARD         59     14
+QSO: 14182 PH 2007-10-28 1833 NN7SS          59      3 OH5BM          59     15
+QSO: 14292 PH 2007-10-28 1834 NN7SS          59      3 VE6WQ          59      4
+QSO: 14317 PH 2007-10-28 1835 NN7SS          59      3 AO3A           59     14
+QSO: 14223 PH 2007-10-28 1836 NN7SS          59      3 EA3KU          59     14
+QSO: 14274 PH 2007-10-28 1840 NN7SS          59      3 S52ZW          59     15
+QSO: 14301 PH 2007-10-28 1841 NN7SS          59      3 G6PZ           59     14
+QSO: 14262 PH 2007-10-28 1842 NN7SS          59      3 OL7R           59     15
+QSO: 14323 PH 2007-10-28 1843 NN7SS          59      3 9A1P           59     15
+QSO: 14291 PH 2007-10-28 1844 NN7SS          59      3 TM7F           59     14
+QSO: 14232 PH 2007-10-28 1846 NN7SS          59      3 M2W            59     14
+QSO: 14296 PH 2007-10-28 1850 NN7SS          59      3 CU2A           59     14
+QSO: 14268 PH 2007-10-28 1850 NN7SS          59      3 VA3SK          59      4
+QSO: 14311 PH 2007-10-28 1851 NN7SS          59      3 EA4KR          59     14
+QSO: 14305 PH 2007-10-28 1853 NN7SS          59      3 IR4B           59     15
+QSO: 14265 PH 2007-10-28 1854 NN7SS          59      3 VY2ZM          59      5
+QSO: 14238 PH 2007-10-28 1855 NN7SS          59      3 IK2DZN         59     15
+QSO: 14228 PH 2007-10-28 1856 NN7SS          59      3 EA1CUB         59     14
+QSO: 14239 PH 2007-10-28 1856 NN7SS          59      3 TM2Y           59     14
+QSO: 28455 PH 2007-10-28 1935 NN7SS          59      3 V47KP          59      8
+QSO: 28483 PH 2007-10-28 1936 NN7SS          59      3 V26B           59      8
+QSO: 28492 PH 2007-10-28 1937 NN7SS          59      3 J3A            59      8
+QSO: 28493 PH 2007-10-28 1937 NN7SS          59      3 FM/K9NW        59      8
+QSO: 28422 PH 2007-10-28 1939 NN7SS          59      3 WP4SK          59      8
+QSO: 28459 PH 2007-10-28 1940 NN7SS          59      3 WP2Z           59      8
+QSO: 28479 PH 2007-10-28 1941 NN7SS          59      3 FY5KE          59      9
+QSO: 28497 PH 2007-10-28 1943 NN7SS          59      3 ND4Z           59      5
+QSO: 28500 PH 2007-10-28 1943 NN7SS          59      3 K7SS           59      3
+QSO: 28416 PH 2007-10-28 1945 NN7SS          59      3 VP5T           59      8
+QSO: 28451 PH 2007-10-28 1946 NN7SS          59      3 8P5A           59      8
+QSO: 21326 PH 2007-10-28 1951 NN7SS          59      3 XE2S           59      6
+QSO: 21421 PH 2007-10-28 1953 NN7SS          59      3 TI5N           59      7
+QSO: 28434 PH 2007-10-28 1956 NN7SS          59      3 PP1CZ          59     11
+QSO: 28515 PH 2007-10-28 1957 NN7SS          59      3 P40W           59      9
+QSO: 28451 PH 2007-10-28 2002 NN7SS          59      3 W7VJ           59      3
+QSO: 28426 PH 2007-10-28 2004 NN7SS          59      3 6Y1V           59      8
+QSO: 28425 PH 2007-10-28 2004 NN7SS          59      3 PU1KGG         59     11
+QSO: 28482 PH 2007-10-28 2006 NN7SS          59      3 T48K           59      8
+QSO: 28451 PH 2007-10-28 2007 NN7SS          59      3 PJ4E           59      9
+QSO: 28477 PH 2007-10-28 2012 NN7SS          59      3 XR6T           59     12
+QSO: 21248 PH 2007-10-28 2031 NN7SS          59      3 J88DR          59      8
+QSO: 21265 PH 2007-10-28 2033 NN7SS          59      3 HQ9R           59      7
+QSO: 21271 PH 2007-10-28 2034 NN7SS          59      3 ZL1BYZ         59     32
+QSO: 21306 PH 2007-10-28 2038 NN7SS          59      3 6W1SE          59     35
+QSO: 14259 PH 2007-10-28 2042 NN7SS          59      3 EA4KD          59     14
+QSO: 14204 PH 2007-10-28 2050 NN7SS          59      3 EH7H           59     14
+QSO: 14269 PH 2007-10-28 2100 NN7SS          59      3 VE3CX          59      4
+QSO: 14279 PH 2007-10-28 2101 NN7SS          59      3 CQ9K           59     33
+QSO: 14319 PH 2007-10-28 2110 NN7SS          59      3 9A1A           59     15
+QSO: 21255 PH 2007-10-28 2127 NN7SS          59      3 LU4DX          59     13
+QSO: 21309 PH 2007-10-28 2131 NN7SS          59      3 HR2DX          59      7
+QSO: 21357 PH 2007-10-28 2136 NN7SS          59      3 VE7IN          59      3
+QSO: 21332 PH 2007-10-28 2143 NN7SS          59      3 NP2B           59      8
+QSO: 21327 PH 2007-10-28 2144 NN7SS          59      3 VE7BZ          59      3
+QSO: 21256 PH 2007-10-28 2210 NN7SS          59      3 VK4WR          59     30
+QSO: 21278 PH 2007-10-28 2211 NN7SS          59      3 VK1CC          59     30
+QSO: 21312 PH 2007-10-28 2212 NN7SS          59      3 V73RY          59     31
+QSO: 21338 PH 2007-10-28 2214 NN7SS          59      3 ZV5E           59     11
+QSO: 21362 PH 2007-10-28 2215 NN7SS          59      3 VK4EMM         59     30
+QSO: 21301 PH 2007-10-28 2221 NN7SS          59      3 KH6YR          59     31
+QSO: 21253 PH 2007-10-28 2238 NN7SS          59      3 AH0BT          59     27
+QSO: 21257 PH 2007-10-28 2239 NN7SS          59      3 WH2X           59     27
+QSO: 21317 PH 2007-10-28 2249 NN7SS          59      3 NH6JC          59     31
+QSO: 21368 PH 2007-10-28 2255 NN7SS          59      3 JR5VHU         59     25
+QSO: 21371 PH 2007-10-28 2256 NN7SS          59      3 JH9KVF         59     25
+QSO: 21397 PH 2007-10-28 2258 NN7SS          59      3 JR7WAB         59     25
+QSO: 21390 PH 2007-10-28 2309 NN7SS          59      3 JF2QNM         59     25
+QSO: 21393 PH 2007-10-28 2312 NN7SS          59      3 9M8YY          59     28
+QSO: 21330 PH 2007-10-28 2315 NN7SS          59      3 VK8NSB         59     29
+QSO: 14174 PH 2007-10-28 2316 NN7SS          59      3 XU7MDY         59     26
+QSO: 14186 PH 2007-10-28 2318 NN7SS          59      3 YB0ZZ          59     28
+QSO: 14297 PH 2007-10-28 2319 NN7SS          59      3 B7P            59     24
+QSO: 14233 PH 2007-10-28 2319 NN7SS          59      3 DU9RG          59     27
+QSO: 14292 PH 2007-10-28 2319 NN7SS          59      3 RA3AJ          59     16
+QSO: 14156 PH 2007-10-28 2320 NN7SS          59      3 JM1LPN         59     25
+QSO: 14289 PH 2007-10-28 2321 NN7SS          59      3 JA1VND         59     25
+QSO: 14262 PH 2007-10-28 2322 NN7SS          59      3 JA3AOP         59     25
+QSO: 14238 PH 2007-10-28 2323 NN7SS          59      3 CN3A           59     33
+QSO: 14273 PH 2007-10-28 2324 NN7SS          59      3 E21EIC         59     26
+QSO: 21335 PH 2007-10-28 2325 NN7SS          59      3 DU1IVT         59     27
+QSO: 21366 PH 2007-10-28 2326 NN7SS          59      3 VR2C           59     24
+QSO: 21297 PH 2007-10-28 2327 NN7SS          59      3 YB3KM          59     28
+QSO: 21246 PH 2007-10-28 2329 NN7SS          59      3 AH2R           59     27
+QSO: 21307 PH 2007-10-28 2329 NN7SS          59      3 JA2ZJW         59     25
+QSO: 21357 PH 2007-10-28 2330 NN7SS          59      3 KH6FI          59     31
+QSO: 21207 PH 2007-10-28 2333 NN7SS          59      3 JI2ZEY         59     25
+QSO: 21242 PH 2007-10-28 2340 NN7SS          59      3 JA6WFM         59     25
+QSO: 21261 PH 2007-10-28 2341 NN7SS          59      3 XE1GRR         59      6
+QSO: 21223 PH 2007-10-28 2345 NN7SS          59      3 BX6AP          59     24
+QSO: 14181 PH 2007-10-28 2347 NN7SS          59      3 VE8DAV         59      1
+QSO: 14270 PH 2007-10-28 2347 NN7SS          59      3 ES5TV          59     15
+QSO: 14259 PH 2007-10-28 2348 NN7SS          59      3 HQ9R           59      7
+QSO: 14267 PH 2007-10-28 2349 NN7SS          59      3 JA3NTE         59     25
+QSO: 14238 PH 2007-10-28 2349 NN7SS          59      3 JA2FSM         59     25
+QSO: 14225 PH 2007-10-28 2350 NN7SS          59      3 XE1YJS         59      6
+QSO: 14182 PH 2007-10-28 2351 NN7SS          59      3 KH6YR          59     31
+QSO: 14257 PH 2007-10-28 2354 NN7SS          59      3 KL8DX          59      1
+QSO: 14250 PH 2007-10-28 2355 NN7SS          59      3 UA0ZC          59     19
+QSO: 14260 PH 2007-10-28 2356 NN7SS          59      3 BX5AA          59     24
+QSO: 14238 PH 2007-10-28 2357 NN7SS          59      3 VC3J           59      4
+QSO: 14173 PH 2007-10-28 2359 NN7SS          59      3 KH7T           59     31
+END-OF-LOG:

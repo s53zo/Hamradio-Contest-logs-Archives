@@ -1,0 +1,110 @@
+START-OF-LOG: 3.0
+LOCATION: MN
+CALLSIGN: W0VB
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-POWER: HIGH
+CATEGORY-MODE: CW
+CATEGORY-STATION: FIXED
+CATEGORY-TRANSMITTER: ONE
+CLAIMED-SCORE: 8636
+CLUB: Minnesota Wireless Assn
+CONTEST: CQ-WW-CW
+CREATED-BY: WriteLog V11.30C
+NAME: Terry VanBenschoten
+OPERATORS: W0VB
+SOAPBOX: Hi All, I only had a little over three hours to try out this unusual implementation. I made a few hours of contacts on 160 thru 10 meters at the start of the contest. This station was set-up to run as SO4R with WriteLog..... I have never even run a SO2R, this was an exciting endeavor. The set-up: - FlexRadio 6700 - four (4) panadapters with one slice on each panadapter - SDRBridge to control the receivers and CW Skimmers - four (4) CW Skimmers feeding the BandMaps for each of the four bands - one (1) THP 1.5K amp - N4PY Pegasus Control program to automatically switch the the following equipment (as determined by which "Slice had the XMIT flag set on")*** connect the correct coax cable to the amp put the THP 1.5K amp on the correct band select the SteppIR Vertical for 80 and 40 meters and tune it to the correct frequency - Antennas 160 meter inverted V 80 & 40 SteppIR Vertical 20, 15, & 10 Triband beam *** N4PY, and I, believe this is "The First Time" that legacy software applications could follow the slice selected in SmartSDR .... many legacy applications only log, or use, the slice A information for frequency, mode, etc regardless of where the XMIT indicator is set note - the model 6700 can have 8 panadapters (each with a slice receiver) active at one time.  SO8R anyone? Observations 1. I had all the CW Skimmers running simultaneously - feeding four respective band maps - band maps showed "Only the stations being heard by me", no VE7CC cluster data was fed into the band maps... meaning you could work every one of the stations spotted because your station actually heard them . I thought this would be a big plus, realized soon into the contest that when I clicked on rare calls... many times that station had already moved on (they were in S&P mode) 2. by looking at each of the skimmer displays I discovered that I could set them to show "CQ W0AIH" in the vertical list and realized it identified the stations that would be there when I clicked on them, and it... did every time. 3. seeing four  (4) skimmers (four bands) picking out the CQs was very enjoyable and productive 4. while four bands were actively sorting through the CW signals, the operator (me) is only hearing one receiver...  the receiver selected as "active" 5. it felt like one radio running but four active skimmers collecting ALL the active spots, not very stressful at all. 6.  It took me about two weeks to get this station operational..... including the changes made by N4PY to his Pegasus Plus application... but I'm excited to examine what did work, and what future "tweaks" will do to improve even more of the capability..... go MWA! Terry,  W0vb
+QSO:  7031 CW 2015-11-28 0009 W0VB          599      4 LZ9W          599     20
+QSO:  7033 CW 2015-11-28 0011 W0VB          599      4 DL5CW         599     14
+QSO:  7034 CW 2015-11-28 0013 W0VB          599      4 HA3NU         599     15
+QSO:  7037 CW 2015-11-28 0015 W0VB          599      4 DJ5MW         599     14
+QSO:  7032 CW 2015-11-28 0016 W0VB          599      4 DD1A          599     14
+QSO:  7027 CW 2015-11-28 0021 W0VB          599      4 ED1R          599     14
+QSO:  7021 CW 2015-11-28 0022 W0VB          599      4 EA7RM         599     15
+QSO:  7024 CW 2015-11-28 0027 W0VB          599      4 EA2EA         599     14
+QSO: 28027 CW 2015-11-28 0030 W0VB          599      4 W0AIH         599      4
+QSO:  7004 CW 2015-11-28 0040 W0VB          599      4 W3LPL         599      5
+QSO:  7004 CW 2015-11-28 0041 W0VB          599      4 DF0HQ         599     14
+QSO:  7002 CW 2015-11-28 0043 W0VB          599      4 W2FU          599      5
+QSO:  7003 CW 2015-11-28 0045 W0VB          599      4 K1LZ          599      5
+QSO:  7006 CW 2015-11-28 0047 W0VB          599      4 EA5RS         599     14
+QSO:  7009 CW 2015-11-28 0048 W0VB          599      4 NQ4I          599      5
+QSO:  7009 CW 2015-11-28 0049 W0VB          599      4 K2LE          599      5
+QSO:  7013 CW 2015-11-28 0051 W0VB          599      4 DL1A          599     14
+QSO:  7017 CW 2015-11-28 0055 W0VB          599      4 OK5W          599     15
+QSO:  7021 CW 2015-11-28 0056 W0VB          599      4 OL3Z          599     15
+QSO:  7028 CW 2015-11-28 0059 W0VB          599      4 EF8U          599     33
+QSO: 21013 CW 2015-11-28 0104 W0VB          599      4 N4WW          599      5
+QSO:  7018 CW 2015-11-28 0108 W0VB          599      4 AD4Z          599      5
+QSO:  7024 CW 2015-11-28 0110 W0VB          599      4 NR4M          599      5
+QSO:  1828 CW 2015-11-28 0112 W0VB          599      4 NR4M          599      5
+QSO:  1831 CW 2015-11-28 0114 W0VB          599      4 AC5O          599      4
+QSO:  1828 CW 2015-11-28 0115 W0VB          599      4 VE3CV         599      4
+QSO:  1823 CW 2015-11-28 0120 W0VB          599      4 VE3OSZ        599      4
+QSO:  1821 CW 2015-11-28 0121 W0VB          599      4 VE3MGY        599      4
+QSO:  7023 CW 2015-11-28 0124 W0VB          599      4 AA2A          599      5
+QSO: 14038 CW 2015-11-28 0127 W0VB          599      4 CE3AA         599     12
+QSO: 14039 CW 2015-11-28 0127 W0VB          599      4 YV5KG         599      9
+QSO: 14045 CW 2015-11-28 0131 W0VB          599      4 W0AIH         599      4
+QSO: 14039 CW 2015-11-28 0133 W0VB          599      4 K1LT          599      4
+QSO:  7018 CW 2015-11-28 0136 W0VB          599      4 WA6O          599      3
+QSO:  7019 CW 2015-11-28 0137 W0VB          599      4 CO7EH         599      8
+QSO:  7005 CW 2015-11-28 0139 W0VB          599      4 VE3MIS        599      4
+QSO:  7001 CW 2015-11-28 0140 W0VB          599      4 WE3C          599      5
+QSO:  3519 CW 2015-11-28 0141 W0VB          599      4 W3UA          599      5
+QSO:  3523 CW 2015-11-28 0142 W0VB          599      4 NR4M          599      5
+QSO:  3530 CW 2015-11-28 0144 W0VB          599      4 K1KP          599      5
+QSO:  3535 CW 2015-11-28 0148 W0VB          599      4 K8MFO         599      4
+QSO:  3544 CW 2015-11-28 0152 W0VB          599      4 PJ2T          599      9
+QSO:  3549 CW 2015-11-28 0155 W0VB          599      4 W0AIH         599      4
+QSO:  3558 CW 2015-11-28 0156 W0VB          599      4 VE1OP         599      5
+QSO:  7009 CW 2015-11-28 0200 W0VB          599      4 K4PV          599      5
+QSO:  7008 CW 2015-11-28 0201 W0VB          599      4 WJ9B          599      3
+QSO:  7009 CW 2015-11-28 0201 W0VB          599      4 N8OO          599      4
+QSO:  7015 CW 2015-11-28 0203 W0VB          599      4 N5DX          599      5
+QSO:  7018 CW 2015-11-28 0204 W0VB          599      4 VE3JM         599      4
+QSO:  7033 CW 2015-11-28 0206 W0VB          599      4 S50C          599     15
+QSO:  7041 CW 2015-11-28 0207 W0VB          599      4 K4EA          599      5
+QSO:  7042 CW 2015-11-28 0208 W0VB          599      4 K1JB          599      5
+QSO:  7043 CW 2015-11-28 0209 W0VB          599      4 N3ND          599      5
+QSO:  7043 CW 2015-11-28 0209 W0VB          599      4 N9RV          599      4
+QSO:  7054 CW 2015-11-28 0211 W0VB          599      4 P40L          599      9
+QSO:  7042 CW 2015-11-28 0212 W0VB          599      4 K1TO          599      5
+QSO:  7039 CW 2015-11-28 0213 W0VB          599      4 PJ2T          599      9
+QSO:  7032 CW 2015-11-28 0214 W0VB          599      4 N4AF          599      5
+QSO:  7031 CW 2015-11-28 0215 W0VB          599      4 9A1A          599     15
+QSO:  7011 CW 2015-11-28 0216 W0VB          599      4 WA7NB         599      3
+QSO:  7001 CW 2015-11-28 0217 W0VB          599      4 N9NC          599      5
+QSO: 14015 CW 2015-11-28 0220 W0VB          599      4 LU1DZ         599     13
+QSO: 14018 CW 2015-11-28 0222 W0VB          599      4 9A1A          599     15
+QSO: 14019 CW 2015-11-28 0223 W0VB          599      4 OA4SS         599     10
+QSO: 14023 CW 2015-11-28 0225 W0VB          599      4 PJ2T          599      9
+QSO: 14026 CW 2015-11-28 0226 W0VB          599      4 K9GS          599      4
+QSO: 14028 CW 2015-11-28 0228 W0VB          599      4 CO8CY         599      8
+QSO: 14032 CW 2015-11-28 0229 W0VB          599      4 LP1H          599     13
+QSO: 14033 CW 2015-11-28 0230 W0VB          599      4 HK1R          599      9
+QSO: 14050 CW 2015-11-28 0233 W0VB          599      4 FY5KE         599      9
+QSO: 14009 CW 2015-11-28 0234 W0VB          599      4 K3LR          599      5
+QSO: 14011 CW 2015-11-28 0240 W0VB          599      4 WE3C          599      5
+QSO: 14013 CW 2015-11-28 0240 W0VB          599      4 PP1CZ         599     11
+QSO:  1814 CW 2015-11-28 0247 W0VB          599      4 WF2W          599      5
+QSO:  3517 CW 2015-11-28 0250 W0VB          599      4 W9SN          599      4
+QSO:  1825 CW 2015-11-28 0253 W0VB          599      4 VC7O          599      3
+QSO:  1831 CW 2015-11-28 0255 W0VB          599      4 W0SA          599      4
+QSO:  1832 CW 2015-11-28 0256 W0VB          599      4 K1TO          599      5
+QSO:  1837 CW 2015-11-28 0256 W0VB          599      4 W3LPL         599      5
+QSO:  1837 CW 2015-11-28 0257 W0VB          599      4 VE3ZI         599      4
+QSO:  3510 CW 2015-11-28 0259 W0VB          599      4 W1KM          599      5
+QSO:  3512 CW 2015-11-28 0259 W0VB          599      4 WB4IT         599      4
+QSO:  3515 CW 2015-11-28 0303 W0VB          599      4 OL3Z          599     15
+QSO:  3518 CW 2015-11-28 0306 W0VB          599      4 HB9CA         599     14
+QSO:  3518 CW 2015-11-28 0308 W0VB          599      4 YT4A          599     15
+QSO:  7008 CW 2015-11-28 1330 W0VB          599      4 ZL2AGY        599     32
+QSO:  7012 CW 2015-11-28 1331 W0VB          599      4 K5TR          599      4
+QSO: 14002 CW 2015-11-28 1336 W0VB          599      4 DF0SQ         599     14
+QSO: 14001 CW 2015-11-28 1337 W0VB          599      4 K2AX          599      5
+QSO: 14004 CW 2015-11-28 1338 W0VB          599      4 KC1XX         599      5
+QSO: 14002 CW 2015-11-28 1339 W0VB          599      4 OL3R          599     15
+QSO: 14001 CW 2015-11-28 1525 W0VB          599      4 VE6JY         599      4
+END-OF-LOG:
