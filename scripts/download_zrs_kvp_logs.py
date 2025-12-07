@@ -31,7 +31,9 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
 
 
-USER_AGENT = "Mozilla/5.0 (compatible; zrs-kvp-downloader/1.0)"
+#USER_AGENT = "Mozilla/5.0 (compatible; zrs-kvp-downloader/1.0)"
+# New:
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 REQUEST_TIMEOUT = 30
 DEFAULT_WORKERS = 10
 BASE_RESULTS = "http://kvp.hamradio.si/rezultati.html"
