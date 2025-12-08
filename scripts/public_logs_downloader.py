@@ -12,10 +12,12 @@ Supports:
   7) ZRS KVP (pomlad/jesen on vhfmanager.net)
   8) EUHFC (reconstructed from UBN reports)
   9) WAE (CW/SSB/RTTY open logs)
+ 10) VHFManager contests (official/unofficial)
 
 Directory layout roots:
   CQWW/, CQWPX/, CQWWRTTY/, CQ160/, CQWPXRTTY/, ARRL/<contest_slug>/,
-  ZRS_KVP/<year>/<season>/, EUHFC/<year>/, WAE/<mode>/<year>/
+  ZRS_KVP/<year>/<season>/, EUHFC/<year>/, WAE/<mode>/<year>/,
+  VHF_MANAGER/<contest_slug>_<ContestID>/
 
 Usage: run the script, pick contests (or all), then choose how many years (number or 'all').
 """
@@ -459,7 +461,49 @@ def tasks_euhfc(last: int | None) -> List[DownloadTask]:
                     with PRINT_LOCK:
                         print(f"ok   {final_dest}")
 
-            tasks.append(DownloadTask(dest=placeholder, host=host, source="EUHFC", action=action))
+                tasks.append(DownloadTask(dest=placeholder, host=host, source="EUHFC", action=action))
+    return tasks
+
+
+# ----- VHFManager -----
+def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
+    import download_vhfmanager_logs as vhf  # type: ignore
+
+    contests = vhf.discover_contests(last)
+    tasks: List[DownloadTask] = []
+    for contest in contests:
+        try:
+            contest, links = vhf.discover_logs(contest)
+        except Exception as exc:  # pylint: disable=broad-except
+            with PRINT_LOCK:
+                print(f"Failed to fetch contest {contest.cid}: {exc}")
+            continue
+        for link in links:
+            host = urllib.parse.urlparse(link.url).hostname or "unknown"
+            safe_hint = (link.call_hint or f"log_{link.url.split('=')[-1]}").replace("/", "_")
+            placeholder = vhf.OUTPUT_ROOT / f"{vhf.slugify(contest.name)}_{contest.cid}" / f"{safe_hint}.log"
+
+            def action(contest=contest, link=link) -> None:
+                try:
+                    page = vhf.fetch_text(link.url)
+                except Exception as exc:  # pylint: disable=broad-except
+                    with PRINT_LOCK:
+                        print(f"fail {link.url}: {exc}")
+                    return
+                call, category = vhf.parse_log_header(page)
+                if not call:
+                    call = link.call_hint or f"log_{hash(link.url) & 0xFFFF}"
+                qsos = vhf.parse_qsos(page, call, category)
+                if not qsos:
+                    with PRINT_LOCK:
+                        print(f"skip (no qsos): {call} ({contest.cid})")
+                    return
+                cab = vhf.build_cabrillo(contest, call, category, qsos)
+                dest = vhf.write_log(contest, call, cab)
+                with PRINT_LOCK:
+                    print(f"ok   {dest}")
+
+            tasks.append(DownloadTask(dest=placeholder, host=host, source="VHFManager", action=action))
     return tasks
 
 
