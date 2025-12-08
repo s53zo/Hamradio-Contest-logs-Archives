@@ -7,7 +7,7 @@ Flow:
 2) For each contest, collect display_log.php links on the results page.
 3) Fetch every log page, extract Station/Category header and QSO table, and rebuild Cabrillo.
 
-Output: VHF_MANAGER/<contest_slug>_<ContestID>/<CALL>.log
+Output: VHF_MANAGER/<contest_folder>/<band>/<CALL>.log
 """
 
 from __future__ import annotations
@@ -73,28 +73,25 @@ def clean(text: str) -> str:
 
 
 def discover_contests(limit: int | None) -> List[Contest]:
-    pages = [
-        f"{BASE_URL}/",
-        f"{BASE_URL}/?language=G",
-        f"{BASE_URL}/modules/competitions.php?language=G",
-    ]
-    contests: dict[int, Contest] = {}
-    for page in pages:
+    """
+    Probe a descending range of ContestID values and pick those that contain log links.
+    limit = number of most recent contests to return (by ID).
+    """
+    max_probe = 700  # generous upper bound for probing
+    found: List[Contest] = []
+    for cid in range(max_probe, 0, -1):
+        url = f"{BASE_URL}/modules/results.php?ContestID={cid}&language=G"
         try:
-            html_text = fetch_text(page)
+            html_text = fetch_text(url)
         except Exception:
             continue
-        for match in re.finditer(r"results\\.php\\?ContestID=(\\d+)", html_text, flags=re.IGNORECASE):
-            cid = int(match.group(1))
-            if cid in contests:
-                continue
-            results_url = urllib.parse.urljoin(page, f"modules/results.php?ContestID={cid}&language=G")
-            contests[cid] = Contest(cid=cid, name=f"Contest_{cid}", results_url=results_url)
-            if limit and len(contests) >= limit:
-                break
-        if limit and len(contests) >= limit:
+        if "display_log" not in html_text.lower():
+            continue
+        name = parse_contest_name(html_text, cid)
+        found.append(Contest(cid=cid, name=name, results_url=url))
+        if limit and len(found) >= limit:
             break
-    return sorted(contests.values(), key=lambda c: c.cid, reverse=True)
+    return found
 
 
 def parse_contest_name(html_text: str, cid: int) -> str:
@@ -121,7 +118,7 @@ def discover_logs(contest: Contest) -> Tuple[Contest, List[LogLink]]:
         if "display_log" not in row_html.lower():
             continue
         href_match = re.search(
-            r'href="([^"]*display_log[^"]*ContestID=\\d+[^"]*logID=\\d+[^"]*)"',
+            r'href="([^"]*display_log[^"]*ContestID=\d+[^"]*logID=\d+[^"]*)"',
             row_html,
             flags=re.IGNORECASE,
         )
@@ -143,15 +140,19 @@ def discover_logs(contest: Contest) -> Tuple[Contest, List[LogLink]]:
 def parse_log_header(html_text: str) -> Tuple[Optional[str], Optional[str]]:
     call = None
     category = None
+    locator = None
     summary_match = re.search(r'<dl[^>]*class="log_summary"[^>]*>(.*?)</dl>', html_text, flags=re.IGNORECASE | re.DOTALL)
     if summary_match:
         block = summary_match.group(1)
-        call_match = re.search(r"<dt>\\s*Station:.*?</dt>\\s*<dd>(.*?)</dd>", block, flags=re.IGNORECASE | re.DOTALL)
+        call_match = re.search(r"<dt>\s*Station:.*?</dt>\s*<dd>(.*?)</dd>", block, flags=re.IGNORECASE | re.DOTALL)
         if call_match:
             call = clean(call_match.group(1)).upper()
-        cat_match = re.search(r"<dt>\\s*Category:.*?</dt>\\s*<dd>(.*?)</dd>", block, flags=re.IGNORECASE | re.DOTALL)
+        cat_match = re.search(r"<dt>\s*Category:.*?</dt>\s*<dd>(.*?)</dd>", block, flags=re.IGNORECASE | re.DOTALL)
         if cat_match:
             category = clean(cat_match.group(1))
+        loc_match = re.search(r"<dt>\s*Locator:.*?</dt>\s*<dd>(.*?)</dd>", block, flags=re.IGNORECASE | re.DOTALL)
+        if loc_match:
+            locator = clean(loc_match.group(1)).upper()
     if not call:
         title_match = re.search(r"<title[^>]*>([^<]+)</title>", html_text, flags=re.IGNORECASE)
         if title_match:
@@ -159,7 +160,7 @@ def parse_log_header(html_text: str) -> Tuple[Optional[str], Optional[str]]:
             m = re.search(r"([A-Z0-9/]{3,})", text)
             if m:
                 call = m.group(1).upper()
-    return call, category
+    return call, category, locator
 
 
 def parse_date(date_text: str) -> str:
@@ -176,21 +177,21 @@ def parse_date(date_text: str) -> str:
 
 
 def parse_time_val(time_text: str) -> str:
-    digits = re.sub(r"\\D", "", time_text)
+    digits = re.sub(r"\D", "", time_text)
     return digits.zfill(4)[:4] if digits else "0000"
 
 
 def extract_band_khz(category: str | None) -> int:
     if not category:
         return 0
-    m = re.search(r"(\\d+(?:\\.\\d+)?)\\s*mhz", category, flags=re.IGNORECASE)
+    m = re.search(r"(\d+(?:\.\d+)?)\s*mhz", category, flags=re.IGNORECASE)
     if m:
         try:
             mhz = float(m.group(1))
             return int(mhz * 1000)
         except ValueError:
             return 0
-    m = re.search(r"(\\d+)\\s*ghz", category, flags=re.IGNORECASE)
+    m = re.search(r"(\d+)\s*ghz", category, flags=re.IGNORECASE)
     if m:
         try:
             ghz = float(m.group(1))
@@ -200,14 +201,18 @@ def extract_band_khz(category: str | None) -> int:
     return 0
 
 
-def parse_qsos(html_text: str, mycall: str, category: str | None) -> List[Tuple[int, str, str, str, str, str, str, str]]:
-    table_match = re.search(r"<table>\\s*<thead>.*?</thead>\\s*<tbody>(.*?)</tbody>", html_text, flags=re.IGNORECASE | re.DOTALL)
+def parse_qsos(
+    html_text: str, mycall: str, category: str | None, station_locator: Optional[str]
+) -> List[Tuple[int, str, str, str, str, str, str, str, int]]:
+    table_match = re.search(r"<table>\s*<thead>.*?</thead>\s*<tbody>(.*?)</tbody>", html_text, flags=re.IGNORECASE | re.DOTALL)
     if not table_match:
         return []
     body = table_match.group(1)
     rows = re.findall(r"<tr[^>]*>(.*?)</tr>", body, flags=re.IGNORECASE | re.DOTALL)
-    qsos: List[Tuple[int, str, str, str, str, str, str, str]] = []
+    qsos: List[Tuple[int, str, str, str, str, str, str, str, int]] = []
     band_hint = extract_band_khz(category)
+    if band_hint == 145000:
+        band_hint = 144000
     for row in rows:
         cells = re.findall(r"<td[^>]*>(.*?)</td>", row, flags=re.IGNORECASE | re.DOTALL)
         if len(cells) < 9:
@@ -216,10 +221,15 @@ def parse_qsos(html_text: str, mycall: str, category: str | None) -> List[Tuple[
         date_val, time_val, their_call, mode, rst_s, nr_s, rst_r, nr_r, wwl = (fields + [""] * 9)[:9]
         if not their_call:
             continue
-        freq = band_hint if band_hint else 144000
-        mode_out = "CW" if mode.upper().startswith("CW") else "PH"
-        exch_s = f"{nr_s} {wwl}".strip()
-        exch_r = f"{nr_r} {wwl}".strip()
+        band_for_freq = band_hint if band_hint else 144000
+        mode_upper = mode.upper()
+        mode_out = "CW" if mode_upper.startswith("CW") else "PH"
+        if band_for_freq == 144000:
+            freq = 144100 if mode_out == "CW" else 144300
+        else:
+            freq = band_for_freq
+        exch_s = f"{nr_s} {station_locator or ''}".strip()
+        exch_r = f"{nr_r} {wwl}".strip() if wwl else (nr_r or "").strip()
         qsos.append(
             (
                 freq,
@@ -230,12 +240,15 @@ def parse_qsos(html_text: str, mycall: str, category: str | None) -> List[Tuple[
                 exch_s or "00",
                 rst_r or "59",
                 exch_r or "00",
+                band_for_freq,
             )
         )
     return qsos
 
 
-def build_cabrillo(contest: Contest, call: str, category: str | None, qsos: Sequence[Tuple[int, str, str, str, str, str, str, str]]) -> str:
+def build_cabrillo(
+    contest: Contest, call: str, category: str | None, qsos: Sequence[Tuple[int, str, str, str, str, str, str, str, int]]
+) -> str:
     lines = [
         "START-OF-LOG: 3.0",
         "CREATED-BY: vhfmanager-downloader",
@@ -247,8 +260,8 @@ def build_cabrillo(contest: Contest, call: str, category: str | None, qsos: Sequ
         "CATEGORY-TRANSMITTER: ONE",
         "CATEGORY-STATION: FIXED",
     ]
-    for freq, date, time_val, their_call, rst_s, exch_s, rst_r, exch_r in qsos:
-        mode = "PH"
+    for freq, date, time_val, their_call, rst_s, exch_s, rst_r, exch_r, _band in qsos:
+        mode = "CW" if freq == 144100 else "PH"
         lines.append(
             f"QSO: {freq:>5} {mode:<2} {date} {time_val:>4} "
             f"{call:<13} {rst_s:<3} {exch_s:<10} {their_call:<13} {rst_r:<3} {exch_r:<10}"
@@ -257,9 +270,56 @@ def build_cabrillo(contest: Contest, call: str, category: str | None, qsos: Sequ
     return "\n".join(lines) + "\n"
 
 
-def write_log(contest: Contest, call: str, cab: str) -> Path:
+def derive_contest_dir(contest: Contest, qsos: Sequence[Tuple[int, str, str, str, str, str, str, str, int]]) -> str:
+    month_map = {
+        "januar": "January",
+        "februar": "February",
+        "marec": "March",
+        "april": "April",
+        "maj": "May",
+        "junij": "June",
+        "julij": "July",
+        "avgust": "August",
+        "september": "September",
+        "oktober": "October",
+        "november": "November",
+        "december": "December",
+        "oktobrsko": "October",
+        "novembrsko": "November",
+        "septembrsko": "September",
+        "julijsko": "July",
+    }
+    name_lower = contest.name.lower()
+    month = None
+    for key, eng in month_map.items():
+        if key in name_lower:
+            month = eng
+            break
+    year = None
+    for _, date_val, *_rest in qsos:
+        if len(date_val) >= 4 and date_val[:4].isdigit():
+            year = date_val[:4]
+            break
+    if not year:
+        m = re.search(r"(20\\d{2}|19\\d{2})", contest.name)
+        if m:
+            year = m.group(1)
+    if month and year:
+        return f"ZRS_{month}_{year}"
+    return f"{slugify(contest.name)}_{contest.cid}"
+
+
+def band_label_from_qsos(qsos: Sequence[Tuple[int, str, str, str, str, str, str, str, int]]) -> str:
+    bands = {band for *_rest, band in qsos if band}
+    if not bands:
+        return "unknown_band"
+    band = sorted(bands)[0]
+    return f"{int(round(band / 1000))}MHz"
+
+
+def write_log(contest_dir: str, band_label: str, call: str, cab: str) -> Path:
     safe_call = call.replace("/", "_")
-    dest = OUTPUT_ROOT / f"{slugify(contest.name)}_{contest.cid}" / f"{safe_call}.log"
+    dest = OUTPUT_ROOT / contest_dir / band_label / f"{safe_call}.log"
     dest.parent.mkdir(parents=True, exist_ok=True)
     if dest.exists():
         return dest
@@ -304,15 +364,17 @@ def main() -> int:
         except Exception as exc:  # pylint: disable=broad-except
             print(f"Failed to fetch log {link.url}: {exc}")
             return
-        call, category = parse_log_header(page)
+        call, category, locator = parse_log_header(page)
         if not call:
             call = link.call_hint or f"log_{hash(link.url) & 0xFFFF}"
-        qsos = parse_qsos(page, call, category)
+        qsos = parse_qsos(page, call, category, locator)
         if not qsos:
             print(f"skip (no qsos): {call} ({contest.name})")
             return
+        contest_dir = derive_contest_dir(contest, qsos)
+        band_label = band_label_from_qsos(qsos)
         cab = build_cabrillo(contest, call, category, qsos)
-        dest = write_log(contest, call, cab)
+        dest = write_log(contest_dir, band_label, call, cab)
         print(f"ok   {dest}")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:

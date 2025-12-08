@@ -563,6 +563,7 @@ PROVIDERS: Dict[int, Tuple[str, ProviderFn]] = {
     7: ("ZRS KVP (pomlad/jesen)", tasks_zrs_kvp),
     8: ("EUHFC (reconstructed from UBN)", tasks_euhfc),
     9: ("WAE (CW/SSB/RTTY)", tasks_wae),
+    10: ("VHFManager contests", tasks_vhfmanager),
 }
 
 
