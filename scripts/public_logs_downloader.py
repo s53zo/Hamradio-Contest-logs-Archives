@@ -9,9 +9,13 @@ Supports:
   4) CQ 160 (PH/CW)
   5) CQWPX RTTY
   6) ARRL contests (all contests from publiclogs.php)
+  7) ZRS KVP (pomlad/jesen on vhfmanager.net)
+  8) EUHFC (reconstructed from UBN reports)
+  9) WAE (CW/SSB/RTTY open logs)
 
 Directory layout roots:
-  CQWW/, CQWPX/, CQWWRTTY/, CQ160/, CQWPXRTTY/, ARRL/<contest_slug>/
+  CQWW/, CQWPX/, CQWWRTTY/, CQ160/, CQWPXRTTY/, ARRL/<contest_slug>/,
+  ZRS_KVP/<year>/<season>/, EUHFC/<year>/, WAE/<mode>/<year>/
 
 Usage: run the script, pick contests (or all), then choose how many years (number or 'all').
 """
@@ -27,8 +31,10 @@ import threading
 import time
 import urllib.parse
 import urllib.request
+from dataclasses import dataclass
 from pathlib import Path
 from typing import Callable, Dict, Iterable, List, Tuple
+import subprocess
 
 
 USER_AGENT = "Mozilla/5.0 (compatible; public-logs-downloader/1.0)"
@@ -36,6 +42,14 @@ REQUEST_TIMEOUT = 30
 DEFAULT_WORKERS = 20
 
 PRINT_LOCK = threading.Lock()
+
+
+@dataclass
+class DownloadTask:
+    dest: Path
+    host: str  # hostname (before DNS resolution)
+    source: str  # provider label
+    action: Callable[[], None]
 
 
 def fetch_text(url: str, retries: int = 3, delay: float = 1.0) -> str:
@@ -81,6 +95,40 @@ def download_file(dest_path: Path, url: str, retries: int = 3, delay: float = 1.
                     print(f"fail {url}: {exc}")
     if last_exc:
         raise last_exc
+
+
+def make_http_task(dest_path: Path, url: str, source: str) -> DownloadTask:
+    """Wrap a simple file download into a DownloadTask."""
+    host = urllib.parse.urlparse(url).hostname or "unknown"
+    return DownloadTask(dest=dest_path, host=host, source=source, action=lambda dest=dest_path, link=url: download_file(dest, link))
+
+
+def resolve_hosts(hosts: Iterable[str]) -> Dict[str, List[str]]:
+    """Resolve hosts with dig for logging; best-effort."""
+    resolved: Dict[str, List[str]] = {}
+    try:
+        subprocess.run(["dig", "+short", "localhost"], capture_output=True, text=True, check=False)
+    except FileNotFoundError:
+        return resolved
+
+    for host in hosts:
+        if not host or host == "unknown":
+            resolved[host] = []
+            continue
+        try:
+            res = subprocess.run(["dig", "+short", host], capture_output=True, text=True, check=False)
+            ips = [line.strip() for line in res.stdout.splitlines() if line.strip()]
+            resolved[host] = ips
+            with PRINT_LOCK:
+                if ips:
+                    print(f"dig {host}: {' '.join(ips)}")
+                else:
+                    print(f"dig {host}: no answers")
+        except Exception as exc:  # pylint: disable=broad-except
+            resolved[host] = []
+            with PRINT_LOCK:
+                print(f"dig {host} failed: {exc}")
+    return resolved
 
 
 class AdaptiveLimiter:
@@ -151,7 +199,7 @@ class AdaptiveLimiter:
 
 
 # ----- CQWW -----
-def tasks_cqww(last: int | None) -> List[Tuple[Path, str]]:
+def tasks_cqww(last: int | None) -> List[DownloadTask]:
     base_url = "https://cqww.com/publiclogs/"
     base_dir = Path("CQWW")
     html_text = fetch_text(base_url)
@@ -164,19 +212,19 @@ def tasks_cqww(last: int | None) -> List[Tuple[Path, str]]:
     pages.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         pages = pages[: last * 2]
-    tasks: List[Tuple[Path, str]] = []
+    tasks: List[DownloadTask] = []
     for year, mode, url in pages:
         html_page = fetch_text(url)
         for href in re.findall(r"href=['\"]([^'\"<>]+\.log)['\"]", html_page, flags=re.IGNORECASE):
             log_url = urllib.parse.urljoin(url, href)
             filename = Path(urllib.parse.urlparse(log_url).path).name
             dest = base_dir / mode / year / filename
-            tasks.append((dest, log_url))
+            tasks.append(make_http_task(dest, log_url, source="CQWW"))
     return tasks
 
 
 # ----- CQWPX -----
-def tasks_cqwpx(last: int | None) -> List[Tuple[Path, str]]:
+def tasks_cqwpx(last: int | None) -> List[DownloadTask]:
     base_url = "https://cqwpx.com/publiclogs/"
     base_dir = Path("CQWPX")
     html_text = fetch_text(base_url)
@@ -189,19 +237,19 @@ def tasks_cqwpx(last: int | None) -> List[Tuple[Path, str]]:
     pages.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         pages = pages[: last * 2]
-    tasks: List[Tuple[Path, str]] = []
+    tasks: List[DownloadTask] = []
     for year, mode, url in pages:
         html_page = fetch_text(url)
         for href in re.findall(r"href=['\"]([^'\"<>]+\.log)['\"]", html_page, flags=re.IGNORECASE):
             log_url = urllib.parse.urljoin(url, href)
             filename = Path(urllib.parse.urlparse(log_url).path).name
             dest = base_dir / mode / year / filename
-            tasks.append((dest, log_url))
+            tasks.append(make_http_task(dest, log_url, source="CQWPX"))
     return tasks
 
 
 # ----- CQWW RTTY -----
-def tasks_cqwwrtty(last: int | None) -> List[Tuple[Path, str]]:
+def tasks_cqwwrtty(last: int | None) -> List[DownloadTask]:
     base_url = "https://cqwwrtty.com/publiclogs/"
     base_dir = Path("CQWWRTTY")
     html_text = fetch_text(base_url)
@@ -212,19 +260,19 @@ def tasks_cqwwrtty(last: int | None) -> List[Tuple[Path, str]]:
     years.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         years = years[: last]
-    tasks: List[Tuple[Path, str]] = []
+    tasks: List[DownloadTask] = []
     for year, url in years:
         html_page = fetch_text(url)
         for href in re.findall(r"href=['\"]([^'\"<>]+\.log)['\"]", html_page, flags=re.IGNORECASE):
             log_url = urllib.parse.urljoin(url, href)
             filename = Path(urllib.parse.urlparse(log_url).path).name
             dest = base_dir / year / filename
-            tasks.append((dest, log_url))
+            tasks.append(make_http_task(dest, log_url, source="CQWW RTTY"))
     return tasks
 
 
 # ----- CQ 160 -----
-def tasks_cq160(last: int | None) -> List[Tuple[Path, str]]:
+def tasks_cq160(last: int | None) -> List[DownloadTask]:
     base_url = "https://cq160.com/publiclogs/"
     base_dir = Path("CQ160")
     html_text = fetch_text(base_url)
@@ -237,19 +285,19 @@ def tasks_cq160(last: int | None) -> List[Tuple[Path, str]]:
     pages.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         pages = pages[: last * 2]
-    tasks: List[Tuple[Path, str]] = []
+    tasks: List[DownloadTask] = []
     for year, mode, url in pages:
         html_page = fetch_text(url)
         for href in re.findall(r"href=['\"]([^'\"<>]+\.log)['\"]", html_page, flags=re.IGNORECASE):
             log_url = urllib.parse.urljoin(url, href)
             filename = Path(urllib.parse.urlparse(log_url).path).name
             dest = base_dir / mode / year / filename
-            tasks.append((dest, log_url))
+            tasks.append(make_http_task(dest, log_url, source="CQ 160"))
     return tasks
 
 
 # ----- CQWPX RTTY -----
-def tasks_cqwpxrtty(last: int | None) -> List[Tuple[Path, str]]:
+def tasks_cqwpxrtty(last: int | None) -> List[DownloadTask]:
     base_url = "https://cqwpxrtty.com/publiclogs/"
     base_dir = Path("CQWPXRTTY")
     html_text = fetch_text(base_url)
@@ -260,14 +308,14 @@ def tasks_cqwpxrtty(last: int | None) -> List[Tuple[Path, str]]:
     years.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         years = years[: last]
-    tasks: List[Tuple[Path, str]] = []
+    tasks: List[DownloadTask] = []
     for year, url in years:
         html_page = fetch_text(url)
         for href in re.findall(r"href=['\"]([^'\"<>]+\.log)['\"]", html_page, flags=re.IGNORECASE):
             log_url = urllib.parse.urljoin(url, href)
             filename = Path(urllib.parse.urlparse(log_url).path).name
             dest = base_dir / year / filename
-            tasks.append((dest, log_url))
+            tasks.append(make_http_task(dest, log_url, source="CQWPX RTTY"))
     return tasks
 
 
@@ -310,9 +358,9 @@ def arrl_discover_logs(eid: str, iid: str) -> Iterable[Tuple[str, str]]:
         yield call, log_url
 
 
-def tasks_arrl(last: int | None) -> List[Tuple[Path, str]]:
+def tasks_arrl(last: int | None) -> List[DownloadTask]:
     contests = arrl_discover_contests()
-    tasks: List[Tuple[Path, str]] = []
+    tasks: List[DownloadTask] = []
     for eid, name in contests:
         try:
             years = arrl_discover_years(eid)
@@ -330,15 +378,136 @@ def tasks_arrl(last: int | None) -> List[Tuple[Path, str]]:
                 for call, log_url in arrl_discover_logs(eid, iid):
                     safe_call = call.replace("/", "-")
                     dest = Path("ARRL") / contest_slug / year / f"{safe_call}.log"
-                    tasks.append((dest, log_url))
+                    tasks.append(make_http_task(dest, log_url, source="ARRL"))
             except Exception as exc:  # pylint: disable=broad-except
                 print(f"Failed to fetch logs for {name} {year}: {exc}", file=sys.stderr)
                 continue
     return tasks
 
 
+# ----- ZRS KVP -----
+def tasks_zrs_kvp(last: int | None) -> List[DownloadTask]:
+    import download_zrs_kvp_logs as zrs  # type: ignore
+
+    seasons = zrs.discover_seasons(last)
+    tasks: List[DownloadTask] = []
+    for season in seasons:
+        log_links = zrs.discover_logs(season)
+        for url in log_links:
+            host = urllib.parse.urlparse(url).hostname or "unknown"
+            query = urllib.parse.parse_qs(urllib.parse.urlparse(url).query)
+            log_id = query.get("logID", ["unknown"])[0]
+            placeholder = Path(zrs.OUTPUT_ROOT) / str(season.year) / season.season / f"log-{log_id}.log"
+
+            def action(season=season, url=url) -> None:
+                result = zrs.download_log(url, season)
+                if not result:
+                    return
+                call, cbr = result
+                dest_path = Path(zrs.OUTPUT_ROOT) / str(season.year) / season.season / f"{call}.log"
+                if dest_path.exists():
+                    with PRINT_LOCK:
+                        print(f"skip (exists): {dest_path}")
+                    return
+                final_dest = zrs.write_log(zrs.OUTPUT_ROOT, season, call, cbr)
+                with PRINT_LOCK:
+                    print(f"ok   {final_dest}")
+
+            tasks.append(DownloadTask(dest=placeholder, host=host, source="ZRS KVP", action=action))
+    return tasks
+
+
+# ----- EUHFC (UBN reconstructed) -----
+def tasks_euhfc(last: int | None) -> List[DownloadTask]:
+    import download_euhf_logs as euhf  # type: ignore
+
+    years = euhf.discover_years()
+    if last:
+        years = years[:last]
+    tasks: List[DownloadTask] = []
+    for year in years:
+        categories = euhf.discover_categories(year)
+        if not categories:
+            continue
+        for cat in categories:
+            for call, url in euhf.discover_ubn_links(year, cat):
+                host = urllib.parse.urlparse(url).hostname or "unknown"
+                safe_call = call.replace("/", "_")
+                placeholder = euhf.OUTPUT_ROOT / str(year) / f"{safe_call}.log"
+
+                def action(year=year, call=call, url=url) -> None:
+                    dest = euhf.OUTPUT_ROOT / str(year) / f"{call.replace('/', '_')}.log"
+                    if dest.exists():
+                        with PRINT_LOCK:
+                            print(f"skip (exists): {dest}")
+                        return
+                    try:
+                        text = euhf.fetch_text(url)
+                    except Exception as exc:  # pylint: disable=broad-except
+                        with PRINT_LOCK:
+                            print(f"fail {url}: {exc}")
+                        return
+                    owner = euhf.parse_owner(text, call)
+                    category = euhf.parse_category(text)
+                    qsos = euhf.extract_qsos(text, owner)
+                    if not qsos:
+                        with PRINT_LOCK:
+                            print(f"skip (no qsos): {owner} {year}")
+                        return
+                    cab = euhf.build_cabrillo(owner, category, qsos)
+                    final_dest = euhf.write_log(year, owner, cab)
+                    with PRINT_LOCK:
+                        print(f"ok   {final_dest}")
+
+            tasks.append(DownloadTask(dest=placeholder, host=host, source="EUHFC", action=action))
+    return tasks
+
+
+# ----- WAE -----
+def tasks_wae(last: int | None) -> List[DownloadTask]:
+    import download_wae_logs as wae  # type: ignore
+
+    tasks: List[DownloadTask] = []
+    for mode, base in wae.MODES.items():
+        years = wae.discover_years(base)
+        if last:
+            years = years[:last]
+        if not years:
+            continue
+        latest = years[0]
+        for year in years:
+            calls = wae.discover_calls_for_year(base, year, latest)
+            for call in calls:
+                safe_call = call.replace("/", "_")
+                placeholder = wae.OUTPUT_ROOT / mode.upper() / str(year) / f"{safe_call}.log"
+                host = "dxhf2.darc.de"
+
+                def action(mode=mode, base=base, call=call, year=year) -> None:
+                    dest = wae.OUTPUT_ROOT / mode.upper() / str(year) / f"{call.replace('/', '_')}.log"
+                    if dest.exists():
+                        with PRINT_LOCK:
+                            print(f"skip (exists): {dest}")
+                        return
+                    try:
+                        cab = wae.fetch_log(base, call, year)
+                    except Exception as exc:  # pylint: disable=broad-except
+                        with PRINT_LOCK:
+                            print(f"fail {call} {year} ({mode}): {exc}")
+                        return
+                    if not cab:
+                        with PRINT_LOCK:
+                            print(f"skip (no cabrillo): {call} {year} ({mode})")
+                        return
+                    final_dest = wae.write_log(mode, year, call, cab)
+                    with PRINT_LOCK:
+                        print(f"ok   {final_dest}")
+
+                tasks.append(DownloadTask(dest=placeholder, host=host, source="WAE", action=action))
+    return tasks
+
+
 # ----- Menu / main -----
-ProviderFn = Callable[[int | None], List[Tuple[Path, str]]]
+ProviderFn = Callable[[int | None], List[DownloadTask]]
 
 PROVIDERS: Dict[int, Tuple[str, ProviderFn]] = {
     1: ("CQWW (PH/CW)", tasks_cqww),
@@ -347,6 +516,9 @@ PROVIDERS: Dict[int, Tuple[str, ProviderFn]] = {
     4: ("CQ 160 (PH/CW)", tasks_cq160),
     5: ("CQWPX RTTY", tasks_cqwpxrtty),
     6: ("ARRL contests (all)", tasks_arrl),
+    7: ("ZRS KVP (pomlad/jesen)", tasks_zrs_kvp),
+    8: ("EUHFC (reconstructed from UBN)", tasks_euhfc),
+    9: ("WAE (CW/SSB/RTTY)", tasks_wae),
 }
 
 
@@ -409,6 +581,11 @@ def main() -> int:
         default="all",
         help="How many recent years (number or 'all') (used when --non-interactive).",
     )
+    parser.add_argument(
+        "--debug",
+        action="store_true",
+        help="Print extra diagnostics (host/IP buckets, per-host task counts).",
+    )
     args = parser.parse_args()
 
     adaptive_enabled = not args.no_adaptive
@@ -436,46 +613,96 @@ def main() -> int:
         selections = prompt_selection()
         last_val = prompt_last_years()
 
-    limiter: AdaptiveLimiter | None = None
-    if adaptive_enabled:
-        max_limit = max(1, args.workers)
-        min_limit = max(1, min(args.min_workers, max_limit))
-        limiter = AdaptiveLimiter(
-            initial=max_limit,
-            min_limit=min_limit,
-            max_limit=max_limit,
-        )
-        print(f"Adaptive concurrency enabled: min={min_limit}, max={max_limit}")
+    all_tasks: List[DownloadTask] = []
+    print("\nStarting provider discovery in parallel...")
 
-    all_tasks: List[Tuple[Path, str]] = []
-    for sel in selections:
+    def run_provider(sel: int) -> Tuple[int, List[DownloadTask]]:
         name, fn = PROVIDERS[sel]
-        print(f"\n=== {name} ===")
         tasks = fn(last_val)
-        print(f"  queued {len(tasks)} downloads")
-        all_tasks.extend(tasks)
+        return sel, tasks
+
+    discovery_results: Dict[int, Tuple[str, int]] = {}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, min(len(selections), args.workers))) as executor:
+        futures = {executor.submit(run_provider, sel): sel for sel in selections}
+        for fut in concurrent.futures.as_completed(futures):
+            sel, tasks = fut.result()
+            name, _ = PROVIDERS[sel]
+            discovery_results[sel] = (name, len(tasks))
+            all_tasks.extend(tasks)
+
+    print("\nDiscovery results (stable order):")
+    for sel in sorted(selections):
+        name, count = discovery_results.get(sel, (PROVIDERS[sel][0], 0))
+        print(f"  {sel}) {name:<40} queued {count:>6} downloads")
 
     if not all_tasks:
         print("No log links found.")
         return 1
 
-    print(f"\nTotal files to download: {len(all_tasks)} using up to {args.workers} workers")
+    print(f"\nTotal files to download: {len(all_tasks)} using up to {args.workers} workers per server")
 
-    def wrapped_task(dest: Path, url: str) -> None:
-        if limiter:
-            limiter.acquire()
-        success = False
-        try:
-            download_file(dest, url)
-            success = True
-        finally:
+    hostnames = {task.host for task in all_tasks}
+    if args.debug:
+        print("\nResolving hosts with dig (best-effort)...")
+    resolved = resolve_hosts(hostnames)
+
+    server_buckets: Dict[Tuple[str, str], List[DownloadTask]] = {}
+    for task in all_tasks:
+        ips = resolved.get(task.host, [])
+        ip = ips[0] if ips else "unresolved"
+        key = (task.host, ip)
+        server_buckets.setdefault(key, []).append(task)
+
+    if args.debug:
+        print("\nDEBUG: host -> IP mapping:")
+        for host in sorted(hostnames):
+            ips = resolved.get(host, [])
+            print(f"  {host}: {', '.join(ips) if ips else 'unresolved'}")
+
+        print("\nDEBUG: bucket breakdown (host/ip -> count by source):")
+        for (host, ip), tasks in server_buckets.items():
+            by_source: Dict[str, int] = {}
+            for task in tasks:
+                by_source[task.source] = by_source.get(task.source, 0) + 1
+            source_str = ", ".join(f"{src}:{cnt}" for src, cnt in sorted(by_source.items()))
+            print(f"  {host} ({ip}): {len(tasks)} tasks [{source_str}]")
+
+    def build_limiter() -> AdaptiveLimiter | None:
+        if not adaptive_enabled:
+            return None
+        max_limit = max(1, args.workers)
+        min_limit = max(1, min(args.min_workers, max_limit))
+        print(f"Adaptive concurrency enabled for host: min={min_limit}, max={max_limit}")
+        return AdaptiveLimiter(initial=max_limit, min_limit=min_limit, max_limit=max_limit)
+
+    def process_host(host_label: str, tasks: List[DownloadTask]) -> None:
+        limiter = build_limiter()
+
+        def wrapped_task(task: DownloadTask) -> None:
             if limiter:
-                limiter.release(success)
+                limiter.acquire()
+            success = False
+            try:
+                task.action()
+                success = True
+            finally:
+                if limiter:
+                    limiter.release(success)
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
-        futures = [executor.submit(wrapped_task, dest, url) for dest, url in all_tasks]
-        for future in concurrent.futures.as_completed(futures):
-            future.result()
+        with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
+            futures = [executor.submit(wrapped_task, task) for task in tasks]
+            for future in concurrent.futures.as_completed(futures):
+                future.result()
+
+    threads = []
+    for (host, ip), tasks in server_buckets.items():
+        label = f"{host} ({ip})"
+        print(f"\nServer {label}: {len(tasks)} tasks")
+        t = threading.Thread(target=process_host, args=(label, tasks))
+        t.start()
+        threads.append(t)
+    for t in threads:
+        t.join()
 
     print("Done.")
     return 0
