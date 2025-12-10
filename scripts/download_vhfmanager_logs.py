@@ -88,6 +88,14 @@ def discover_contests(limit: int | None) -> List[Contest]:
         if "display_log" not in html_text.lower():
             continue
         name = parse_contest_name(html_text, cid)
+        if name.startswith("Contest_"):
+            lower = html_text.lower()
+            if "pmc contest" in lower:
+                name = "PMC contest"
+            elif "50 mhz" in lower:
+                name = "ZRS 50 MHz tekmovanje"
+            elif "maraton" in lower:
+                name = "ZRS maraton 12 termin"
         found.append(Contest(cid=cid, name=name, results_url=url))
         if limit and len(found) >= limit:
             break
@@ -103,7 +111,21 @@ def parse_contest_name(html_text: str, cid: int) -> str:
                 candidates.append(text)
     if candidates:
         longest = max(candidates, key=len)
+        # Avoid meaningless "Official results" titles
+        if longest.lower().strip().startswith("official results"):
+            candidates = [c for c in candidates if "results" not in c.lower()]
+            if candidates:
+                longest = max(candidates, key=len)
         return longest
+    lower = html_text.lower()
+    if "pmc contest" in lower:
+        return "PMC contest"
+    if "50 mhz" in lower:
+        return "ZRS 50 MHz tekmovanje"
+    if "70 mhz" in lower:
+        return "ZRS 70 MHz tekmovanje"
+    if "maraton" in lower:
+        return "ZRS maraton 12 termin"
     return f"Contest_{cid}"
 
 
@@ -309,11 +331,36 @@ def derive_contest_dir(contest: Contest, qsos: Sequence[Tuple[int, str, str, str
         m = re.search(r"(20\\d{2}|19\\d{2})", contest.name)
         if m:
             year = m.group(1)
-    # Maraton special case: group by year
+    if not year:
+        # try any 2-digit year in dates to infer century (assume >= 90 => 1900s)
+        for _, date_val, *_rest in qsos:
+            m2 = re.search(r"(\\d{2})", date_val)
+            if m2:
+                yy = int(m2.group(1))
+                year = str(1900 + yy if yy >= 90 else 2000 + yy)
+                break
+    # Maraton special case: group by year and termin if present
     if "maraton" in base_name:
         if not year:
             year = "unknown"
-        return f"ZRS_Maraton_{year}"
+        termin = None
+        m_term = re.search(r"(\d+)\s*\.?\s*termin", base_name)
+        if m_term:
+            termin = m_term.group(1)
+        if termin:
+            return f"ZRS_Maraton/{year}/Termin_{termin}"
+        return f"ZRS_Maraton/{year}"
+    # PMC contest label
+    if "pmc contest" in base_name:
+        if not year:
+            year = "unknown"
+        return f"PMC_{year}"
+    # ZRS 50/70 MHz tekmovanje -> keep name, add year
+    if "50 mhz" in base_name or "70 mhz" in base_name:
+        if not year:
+            year = "unknown"
+        band_prefix = "50_MHz" if "50 mhz" in base_name else "70_MHz"
+        return f"ZRS_{band_prefix}_tekmovanje_{year}"
     if month and year:
         return f"ZRS_{month}_{year}"
     return f"{slugify(base_name) or 'contest'}_{contest.cid}"
