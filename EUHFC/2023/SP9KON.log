@@ -1,10 +1,138 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: SP9KON
-CATEGORY: SSB - Low Power
-QSO:  7124 PH  2023-08-05 1259 SP9KON        59  22     HA1A          59  71    
-QSO: 14259 PH  2023-08-05 1324 SP9KON        59  22     UA4PN         59  78    
-QSO:  3748 PH  2023-08-05 2023 SP9KON        59  22     EW6W          59  11    
-QSO:  7180 PH  2023-08-05 1904 SP9KON        59  22     LZ1DM         59  95    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 9960
+NAME: Lukasz
+ADDRESS-CITY: Chorzow
+ADDRESS-POSTALCODE: 41-600
+ADDRESS-COUNTRY: Poland
+OPERATORS: SP9KON
+EMAIL: sp9kon@sp9kon.pl
+CLUB: 
+CREATED-BY: N1MM Logger+ 1.0.9943.0
+QSO: 14219 PH 2023-08-05 1205 SP9KON        59  22     F4AIF         59  97       
+QSO: 14238 PH 2023-08-05 1208 SP9KON        59  22     RZ3B          59  78       
+QSO: 14207 PH 2023-08-05 1211 SP9KON        59  22     E74A          59  77       
+QSO: 14160 PH 2023-08-05 1213 SP9KON        59  22     EU4E          59  77       
+QSO: 14256 PH 2023-08-05 1217 SP9KON        59  22     RW1F          59  91       
+QSO: 14283 PH 2023-08-05 1219 SP9KON        59  22     DJ4MH         59  97       
+QSO: 14292 PH 2023-08-05 1222 SP9KON        59  22     IV3UHL        59  90       
+QSO: 14287 PH 2023-08-05 1227 SP9KON        59  22     IU1MRH        59  19       
+QSO: 14229 PH 2023-08-05 1234 SP9KON        59  22     IU1NKS        59  20       
+QSO: 14174 PH 2023-08-05 1239 SP9KON        59  22     9A1CCY        59  23       
+QSO: 14180 PH 2023-08-05 1240 SP9KON        59  22     S51CK         59  72       
+QSO: 14278 PH 2023-08-05 1242 SP9KON        59  22     YP0C          59  78       
+QSO: 14319 PH 2023-08-05 1244 SP9KON        59  22     IZ2JQP        59  07       
+QSO: 14267 PH 2023-08-05 1250 SP9KON        59  22     RA3OA         59  82       
+QSO: 14216 PH 2023-08-05 1252 SP9KON        59  22     RC5Z          59  91       
+QSO: 14170 PH 2023-08-05 1255 SP9KON        59  22     IK4NZD        59  85       
+QSO:  7124 PH 2023-08-05 1259 SP9KON        59  22     HA1A          59  71       
+QSO: 14207 PH 2023-08-05 1301 SP9KON        59  22     LZ3ZZ         59  91       
+QSO: 14223 PH 2023-08-05 1302 SP9KON        59  22     PB6W          59  04       
+QSO: 14288 PH 2023-08-05 1307 SP9KON        59  22     F5LIW         59  86       
+QSO: 14259 PH 2023-08-05 1324 SP9KON        59  22     UA4PN         59  78       
+QSO: 14259 PH 2023-08-05 1325 SP9KON        59  22     IT9RBW        59  03       
+QSO: 14275 PH 2023-08-05 1351 SP9KON        59  22     LY4G          59  05       
+QSO: 14339 PH 2023-08-05 1356 SP9KON        59  22     DL1HWX        59  79       
+QSO: 14200 PH 2023-08-05 1401 SP9KON        59  22     LZ6E          59  59       
+QSO: 21285 PH 2023-08-05 1404 SP9KON        59  22     E70T          59  75       
+QSO: 21327 PH 2023-08-05 1405 SP9KON        59  22     IU1NKS        59  20       
+QSO: 21280 PH 2023-08-05 1407 SP9KON        59  22     SV3RPQ        59  15       
+QSO: 21271 PH 2023-08-05 1408 SP9KON        59  22     RZ3B          59  78       
+QSO: 21200 PH 2023-08-05 1413 SP9KON        59  22     ON7AH         59  88       
+QSO: 21200 PH 2023-08-05 1414 SP9KON        59  22     PA0KDV        59  75       
+QSO: 21273 PH 2023-08-05 1444 SP9KON        59  22     PC2T          59  06       
+QSO: 21318 PH 2023-08-05 1445 SP9KON        59  22     IT9BLB        59  74       
+QSO: 21236 PH 2023-08-05 1447 SP9KON        59  22     OH1F          59  88       
+QSO: 21225 PH 2023-08-05 1448 SP9KON        59  22     DL2LBK        59  75       
+QSO: 21266 PH 2023-08-05 1449 SP9KON        59  22     YT0W          59  83       
+QSO: 21205 PH 2023-08-05 1453 SP9KON        59  22     DR5X          59  80       
+QSO: 21330 PH 2023-08-05 1458 SP9KON        59  22     PE1EWR        59  80       
+QSO: 21330 PH 2023-08-05 1459 SP9KON        59  22     DL2SWR        59  65       
+QSO:  7158 PH 2023-08-05 1507 SP9KON        59  22     S56Y          59  95       
+QSO:  7170 PH 2023-08-05 1543 SP9KON        59  22     YT5W          59  66       
+QSO: 14209 PH 2023-08-05 1556 SP9KON        59  22     CR6K          59  02       
+QSO: 14238 PH 2023-08-05 1557 SP9KON        59  22     EA3CI         59  94       
+QSO: 14242 PH 2023-08-05 1559 SP9KON        59  22     HA8FK         59  87       
+QSO: 14260 PH 2023-08-05 1600 SP9KON        59  22     YT0W          59  83       
+QSO: 14275 PH 2023-08-05 1601 SP9KON        59  22     MW0CRI        59  99       
+QSO: 14317 PH 2023-08-05 1603 SP9KON        59  22     YO7SR         59  06       
+QSO: 14268 PH 2023-08-05 1606 SP9KON        59  22     EA4EUI        59  05       
+QSO: 14290 PH 2023-08-05 1610 SP9KON        59  22     EA1Z          59  93       
+QSO: 14273 PH 2023-08-05 1620 SP9KON        59  22     IK3UNA        59  90       
+QSO: 14184 PH 2023-08-05 1626 SP9KON        59  22     F8ADY         59  93       
+QSO: 14224 PH 2023-08-05 1627 SP9KON        59  22     OZ11A         59  89       
+QSO:  7171 PH 2023-08-05 1631 SP9KON        59  22     IZ2FOS        59  03       
+QSO:  7126 PH 2023-08-05 1634 SP9KON        59  22     HG1A          59  75       
+QSO:  7166 PH 2023-08-05 1635 SP9KON        59  22     ES7GR         59  13       
+QSO:  7194 PH 2023-08-05 1637 SP9KON        59  22     DL1ABR        59  94       
+QSO:  7194 PH 2023-08-05 1638 SP9KON        59  22     S58C          59  92       
+QSO:  7194 PH 2023-08-05 1638 SP9KON        59  22     DB4REB        59  22       
+QSO:  7194 PH 2023-08-05 1638 SP9KON        59  22     DJ4MH         59  97       
+QSO:  7194 PH 2023-08-05 1639 SP9KON        59  22     EW1SM         59  86       
+QSO:  7194 PH 2023-08-05 1640 SP9KON        59  22     DL8UP         59  65       
+QSO:  7194 PH 2023-08-05 1641 SP9KON        59  22     LY2GN         59  13       
+QSO:  7194 PH 2023-08-05 1642 SP9KON        59  22     RL2Y          59  81       
+QSO:  7194 PH 2023-08-05 1644 SP9KON        59  22     ER1MAX        59  18       
+QSO:  7194 PH 2023-08-05 1645 SP9KON        59  22     YT2SIN        59  20       
+QSO:  7194 PH 2023-08-05 1647 SP9KON        59  22     DL9GS         59  58       
+QSO:  7194 PH 2023-08-05 1649 SP9KON        59  22     Y07SR         59  06       
+QSO:  7194 PH 2023-08-05 1650 SP9KON        59  22     DL2LBK        59  75       
+QSO:  7139 PH 2023-08-05 1657 SP9KON        59  22     S51A          59  00       
+QSO:  7170 PH 2023-08-05 1701 SP9KON        59  22     YO7SR         59  06       
+QSO:  7176 PH 2023-08-05 1704 SP9KON        59  22     ER1BF         59  97       
+QSO:  7128 PH 2023-08-05 1706 SP9KON        59  22     RA3OA         59  82       
+QSO:  7197 PH 2023-08-05 1721 SP9KON        59  22     LY4A          59  84       
+QSO:  7120 PH 2023-08-05 1728 SP9KON        59  22     US2YW         59  88       
+QSO:  7106 PH 2023-08-05 1729 SP9KON        59  22     IT9RBW        59  03       
+QSO:  7165 PH 2023-08-05 1732 SP9KON        59  22     S52W          59  80       
+QSO:  7200 PH 2023-08-05 1733 SP9KON        59  22     9A6KX         59  03       
+QSO:  7172 PH 2023-08-05 1735 SP9KON        59  22     F4AIF         59  97       
+QSO:  7194 PH 2023-08-05 1736 SP9KON        59  22     9A1CCY        59  23       
+QSO:  7173 PH 2023-08-05 1737 SP9KON        59  22     F5LIW         59  86       
+QSO: 14280 PH 2023-08-05 1750 SP9KON        59  22     CT2IMG        59  03       
+QSO:  7130 PH 2023-08-05 1754 SP9KON        59  22     YP0C          59  78       
+QSO:  7135 PH 2023-08-05 1755 SP9KON        59  22     IK4UPB        59  92       
+QSO:  7144 PH 2023-08-05 1757 SP9KON        59  22     SN2B          59  94       
+QSO:  7167 PH 2023-08-05 1800 SP9KON        59  22     S52WW         59  00       
+QSO:  7188 PH 2023-08-05 1802 SP9KON        59  22     PA0KDV        59  75       
+QSO:  7192 PH 2023-08-05 1802 SP9KON        59  22     RC5Z          59  91       
+QSO:  7150 PH 2023-08-05 1806 SP9KON        59  22     E70T          59  75       
+QSO:  7170 PH 2023-08-05 1836 SP9KON        59  22     UA3BL         59  91       
+QSO:  3741 PH 2023-08-05 1843 SP9KON        59  22     DL2LBK        59  75       
+QSO:  3733 PH 2023-08-05 1845 SP9KON        59  22     SQ9AW         59  23       
+QSO:  3745 PH 2023-08-05 1847 SP9KON        59  22     DK4WA         59  87       
+QSO:  7180 PH 2023-08-05 1852 SP9KON        59  22     DF1MM         59  72       
+QSO:  7180 PH 2023-08-05 1852 SP9KON        59  22     PC1PM         59  16       
+QSO:  7180 PH 2023-08-05 1853 SP9KON        59  22     RL4A          59  81       
+QSO:  7200 PH 2023-08-05 1902 SP9KON        59  22     IU1NKS        59  20       
+QSO:  7161 PH 2023-08-05 1903 SP9KON        59  22     EA3CI         59  94       
+QSO:  7180 PH 2023-08-05 1904 SP9KON        59  22     LZ1DM         59  95       
+QSO:  7180 PH 2023-08-05 1908 SP9KON        59  22     SP4CUF        59  78       
+QSO:  7188 PH 2023-08-05 1912 SP9KON        59  22     EW6W          59  11       
+QSO:  7153 PH 2023-08-05 1913 SP9KON        59  22     RW1F          59  91       
+QSO:  3766 PH 2023-08-05 1926 SP9KON        59  22     HF7A          59  91       
+QSO:  3770 PH 2023-08-05 1927 SP9KON        59  22     SO7E          59  16       
+QSO:  3791 PH 2023-08-05 1928 SP9KON        59  22     OK/LY5AA      59  12       
+QSO:  3785 PH 2023-08-05 1930 SP9KON        59  22     OZ30EU        59  71       
+QSO:  3701 PH 2023-08-05 1932 SP9KON        59  22     SN9B          59  19       
+QSO:  3730 PH 2023-08-05 1936 SP9KON        59  22     ES7GR         59  13       
+QSO:  3768 PH 2023-08-05 1937 SP9KON        59  22     HG1A          59  75       
+QSO:  3788 PH 2023-08-05 1940 SP9KON        59  22     OL68DURAK     59  67       
+QSO:  3735 PH 2023-08-05 1941 SP9KON        59  22     SN7T          59  09       
+QSO:  3713 PH 2023-08-05 1942 SP9KON        59  22     IZ2FOS        59  03       
+QSO:  3732 PH 2023-08-05 1944 SP9KON        59  22     SP3H          59  08       
+QSO:  3780 PH 2023-08-05 1950 SP9KON        59  22     YT2SIN        59  20       
+QSO:  7164 PH 2023-08-05 1952 SP9KON        59  22     LZ6E          59  59       
+QSO:  7173 PH 2023-08-05 1955 SP9KON        59  22     IU1MRH        59  19       
+QSO:  7122 PH 2023-08-05 1956 SP9KON        59  22     RL4F          59  86       
+QSO:  7133 PH 2023-08-05 1958 SP9KON        59  22     RZ3B          59  78       
+QSO:  7102 PH 2023-08-05 2009 SP9KON        59  22     ON3GG/P       59  05       
+QSO:  7162 PH 2023-08-05 2012 SP9KON        59  22     YL9T          59  89       
+QSO:  3773 PH 2023-08-05 2019 SP9KON        59  22     LY4A          59  84       
+QSO:  3748 PH 2023-08-05 2023 SP9KON        59  22     EW6W          59  11
 END-OF-LOG:

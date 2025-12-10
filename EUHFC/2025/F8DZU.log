@@ -1,12 +1,184 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: F8DZU
-CATEGORY: SSB - High Power
-QSO: 14267 PH  2025-08-02 1325 F8DZU         59  02     YU7OM         59  77    
-QSO: 28425 PH  2025-08-02 1548 F8DZU         59  02     UZ7C          59  01    
-QSO: 14267 PH  2025-08-02 1330 F8DZU         59  02     2E0PLA        59  03    
-QSO: 14267 PH  2025-08-02 1335 F8DZU         59  02     LZ1DM         59  95    
-QSO: 14267 PH  2025-08-02 1339 F8DZU         59  02     ER3CT         59  92    
-QSO:  7190 PH  2025-08-02 2123 F8DZU         59  02     ER3CT         59  92    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: HIGH
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 16766
+NAME: Jean Pierre
+ADDRESS: le Motet
+ADDRESS-CITY: Ravel
+ADDRESS-POSTALCODE: 63190
+ADDRESS-COUNTRY: France
+OPERATORS: F8DZU
+EMAIL: f8dzu@orange.fr
+CLUB: 
+CREATED-BY: N1MM Logger+ 1.0.10822.0
+QSO: 14274 PH 2025-08-02 1324 F8DZU         59  02     SP3H          59  08       
+QSO: 14270 PH 2025-08-02 1324 F8DZU         59  02     YP0C          59  78       
+QSO: 14267 PH 2025-08-02 1325 F8DZU         59  02     YU7OM         59  77       
+QSO: 14267 PH 2025-08-02 1326 F8DZU         59  02     PD7EB         59  24       
+QSO: 14267 PH 2025-08-02 1327 F8DZU         59  02     EA5JAX        59  20       
+QSO: 14267 PH 2025-08-02 1327 F8DZU         59  02     OM5AST        59  17       
+QSO: 14267 PH 2025-08-02 1328 F8DZU         59  02     OE1MBA        59  78       
+QSO: 14267 PH 2025-08-02 1328 F8DZU         59  02     YO7ZRO        59  03       
+QSO: 14267 PH 2025-08-02 1328 F8DZU         59  02     PD1TV         59  09       
+QSO: 14267 PH 2025-08-02 1329 F8DZU         59  02     9A3BDE        59  04       
+QSO: 14267 PH 2025-08-02 1329 F8DZU         59  02     DL2SWR        59  67       
+QSO: 14267 PH 2025-08-02 1330 F8DZU         59  02     2E0PLA        59  03       
+QSO: 14267 PH 2025-08-02 1332 F8DZU         59  02     S57AZJ        59  24       
+QSO: 14267 PH 2025-08-02 1332 F8DZU         59  02     G0DGF         59  95       
+QSO: 14267 PH 2025-08-02 1333 F8DZU         59  02     OK1OA         59  64       
+QSO: 14267 PH 2025-08-02 1334 F8DZU         59  02     LY3CY         59  74       
+QSO: 14267 PH 2025-08-02 1335 F8DZU         59  02     LZ1DM         59  95       
+QSO: 14267 PH 2025-08-02 1335 F8DZU         59  02     LY3VD         59  01       
+QSO: 14267 PH 2025-08-02 1336 F8DZU         59  02     S57ATF        59  24       
+QSO: 14267 PH 2025-08-02 1338 F8DZU         59  02     OK2TS         59  08       
+QSO: 14267 PH 2025-08-02 1338 F8DZU         59  02     SP6DVP        59  69       
+QSO: 14267 PH 2025-08-02 1339 F8DZU         59  02     ER3CT         59  92       
+QSO: 14267 PH 2025-08-02 1339 F8DZU         59  02     OK6AB         59  06       
+QSO: 14267 PH 2025-08-02 1341 F8DZU         59  02     YU3GCP        59  22       
+QSO: 14267 PH 2025-08-02 1341 F8DZU         59  02     SE4E          59  62       
+QSO: 14267 PH 2025-08-02 1341 F8DZU         59  02     DA2B          59  93       
+QSO: 14267 PH 2025-08-02 1342 F8DZU         59  02     OK1MJA        59  96       
+QSO: 14267 PH 2025-08-02 1342 F8DZU         59  02     HA4CW         59  95       
+QSO: 14267 PH 2025-08-02 1343 F8DZU         59  02     R3OM          59  72       
+QSO: 14267 PH 2025-08-02 1343 F8DZU         59  02     9A5N          59  04       
+QSO: 14267 PH 2025-08-02 1343 F8DZU         59  02     PA6F          59  83       
+QSO: 14267 PH 2025-08-02 1344 F8DZU         59  02     PA4DV         59  21       
+QSO: 14267 PH 2025-08-02 1345 F8DZU         59  02     DL1DQC        59  91       
+QSO: 14245 PH 2025-08-02 1347 F8DZU         59  02     PD1RP         59  07       
+QSO: 14240 PH 2025-08-02 1348 F8DZU         59  02     YO7WC         59  91       
+QSO: 14238 PH 2025-08-02 1348 F8DZU         59  02     UA1AQA        59  81       
+QSO: 14222 PH 2025-08-02 1349 F8DZU         59  02     SM3U          59  81       
+QSO: 14215 PH 2025-08-02 1350 F8DZU         59  02     SP8R          59  09       
+QSO: 14205 PH 2025-08-02 1350 F8DZU         59  02     SK5A          59  75       
+QSO: 14169 PH 2025-08-02 1354 F8DZU         59  02     EW4A          59  82       
+QSO: 14159 PH 2025-08-02 1354 F8DZU         59  02     RA6SD         59  81       
+QSO: 14232 PH 2025-08-02 1356 F8DZU         59  02     RC5Z          59  91       
+QSO: 14233 PH 2025-08-02 1357 F8DZU         59  02     RA3OA         59  82       
+QSO: 14236 PH 2025-08-02 1400 F8DZU         59  02     OZ2DAN        59  98       
+QSO: 14241 PH 2025-08-02 1401 F8DZU         59  02     ES1LL         59  14       
+QSO: 14246 PH 2025-08-02 1402 F8DZU         59  02     LX7I          59  82       
+QSO: 14257 PH 2025-08-02 1402 F8DZU         59  02     SN7T          59  09       
+QSO: 14264 PH 2025-08-02 1404 F8DZU         59  02     G6MC          59  01       
+QSO: 14277 PH 2025-08-02 1405 F8DZU         59  02     SN7D          59  94       
+QSO: 14286 PH 2025-08-02 1406 F8DZU         59  02     EA1Z          59  93       
+QSO: 14291 PH 2025-08-02 1407 F8DZU         59  02     SD3T          59  96       
+QSO: 21253 PH 2025-08-02 1410 F8DZU         59  02     EW1I          59  90       
+QSO: 21260 PH 2025-08-02 1411 F8DZU         59  02     YL2GD         59  73       
+QSO: 21283 PH 2025-08-02 1415 F8DZU         59  02     SP8R          59  09       
+QSO: 14221 PH 2025-08-02 1418 F8DZU         59  02     RW3DU         59  72       
+QSO: 14213 PH 2025-08-02 1419 F8DZU         59  02     RA3Y          59  74       
+QSO: 14210 PH 2025-08-02 1420 F8DZU         59  02     OG1F          59  88       
+QSO: 14198 PH 2025-08-02 1421 F8DZU         59  02     EU1A          59  95       
+QSO: 14248 PH 2025-08-02 1425 F8DZU         59  02     RW1F          59  91       
+QSO: 14248 PH 2025-08-02 1427 F8DZU         59  02     RJ2M          59  08       
+QSO: 14248 PH 2025-08-02 1428 F8DZU         59  02     CT1IQI        59  69       
+QSO: 14250 PH 2025-08-02 1431 F8DZU         59  02     IW0HLZ        59  04       
+QSO: 14319 PH 2025-08-02 1433 F8DZU         59  02     ES2OA         59  23       
+QSO: 14319 PH 2025-08-02 1433 F8DZU         59  02     YU7CP         59  91       
+QSO: 14319 PH 2025-08-02 1434 F8DZU         59  02     DC2AM         59  97       
+QSO: 14319 PH 2025-08-02 1437 F8DZU         59  02     IU5ICR        59  17       
+QSO: 14319 PH 2025-08-02 1438 F8DZU         59  02     SV1GAX        59  01       
+QSO: 14319 PH 2025-08-02 1438 F8DZU         59  02     OK2FYM        59  96       
+QSO: 14319 PH 2025-08-02 1439 F8DZU         59  02     EW8AK         59  22       
+QSO: 14319 PH 2025-08-02 1440 F8DZU         59  02     EW8TIC        59  11       
+QSO: 14319 PH 2025-08-02 1440 F8DZU         59  02     YO4AR         59  05       
+QSO: 14319 PH 2025-08-02 1441 F8DZU         59  02     SO9F          59  80       
+QSO: 14319 PH 2025-08-02 1444 F8DZU         59  02     HG6YC         59  84       
+QSO: 14319 PH 2025-08-02 1444 F8DZU         59  02     ES5MJL        59  23       
+QSO: 14319 PH 2025-08-02 1444 F8DZU         59  02     EA2SN         59  76       
+QSO: 14319 PH 2025-08-02 1445 F8DZU         59  02     R3LC          59  85       
+QSO: 14319 PH 2025-08-02 1445 F8DZU         59  02     OM1DLC        59  25       
+QSO: 14319 PH 2025-08-02 1446 F8DZU         59  02     SP4CUF        59  78       
+QSO: 14319 PH 2025-08-02 1447 F8DZU         59  02     EW8CM         59  94       
+QSO: 14319 PH 2025-08-02 1449 F8DZU         59  02     OK1FQR        59  90       
+QSO: 14319 PH 2025-08-02 1450 F8DZU         59  02     SQ3Y          59  25       
+QSO: 14319 PH 2025-08-02 1450 F8DZU         59  02     SP1DSZ        59  78       
+QSO: 14319 PH 2025-08-02 1452 F8DZU         59  02     HA7MF         59  67       
+QSO: 21247 PH 2025-08-02 1456 F8DZU         59  02     SN7D          59  94       
+QSO: 21261 PH 2025-08-02 1457 F8DZU         59  02     RC5Z          59  91       
+QSO: 21272 PH 2025-08-02 1457 F8DZU         59  02     SN7T          59  09       
+QSO: 21274 PH 2025-08-02 1458 F8DZU         59  02     EW5A          59  10       
+QSO: 21298 PH 2025-08-02 1459 F8DZU         59  02     LZ2ZD         59  85       
+QSO: 21285 PH 2025-08-02 1501 F8DZU         59  02     IU0USL        59  07       
+QSO: 21285 PH 2025-08-02 1501 F8DZU         59  02     OK2TS         59  08       
+QSO: 21285 PH 2025-08-02 1504 F8DZU         59  02     IO8O          59  93       
+QSO: 21279 PH 2025-08-02 1506 F8DZU         59  02     9A2ZI         59  16       
+QSO: 21265 PH 2025-08-02 1507 F8DZU         59  02     SV3RPQ        59  15       
+QSO: 21257 PH 2025-08-02 1507 F8DZU         59  02     HA3NU         59  72       
+QSO: 21245 PH 2025-08-02 1509 F8DZU         59  02     RT2F          59  77       
+QSO: 21241 PH 2025-08-02 1510 F8DZU         59  02     9A3B          59  77       
+QSO: 21228 PH 2025-08-02 1511 F8DZU         59  02     IT9KHI        59  24       
+QSO: 21247 PH 2025-08-02 1513 F8DZU         59  02     EU1AI         59  77       
+QSO: 21251 PH 2025-08-02 1514 F8DZU         59  02     SP6MI         59  16       
+QSO: 21251 PH 2025-08-02 1515 F8DZU         59  02     DK1VK         59  85       
+QSO: 21275 PH 2025-08-02 1531 F8DZU         59  02     II6C          59  91       
+QSO: 21286 PH 2025-08-02 1532 F8DZU         59  02     EU1A          59  95       
+QSO: 21298 PH 2025-08-02 1534 F8DZU         59  02     YO3RU         59  82       
+QSO: 28473 PH 2025-08-02 1535 F8DZU         59  02     LZ1NK         59  81       
+QSO: 28485 PH 2025-08-02 1539 F8DZU         59  02     EA1Z          59  93       
+QSO: 28493 PH 2025-08-02 1539 F8DZU         59  02     IU8RIA        59  23       
+QSO: 28497 PH 2025-08-02 1542 F8DZU         59  02     IT9RGY        59  05       
+QSO: 28510 PH 2025-08-02 1542 F8DZU         59  02     YO7WC         59  91       
+QSO: 28525 PH 2025-08-02 1543 F8DZU         59  02     LZ2ZD         59  85       
+QSO: 28453 PH 2025-08-02 1545 F8DZU         59  02     EW6W          59  11       
+QSO: 28425 PH 2025-08-02 1548 F8DZU         59  02     UZ7C          59  01       
+QSO: 28541 PH 2025-08-02 1551 F8DZU         59  02     EA4HRJ        59  03       
+QSO: 21269 PH 2025-08-02 1552 F8DZU         59  02     RA3OA         59  82       
+QSO: 21275 PH 2025-08-02 1553 F8DZU         59  02     IU8RIA        59  23       
+QSO: 21307 PH 2025-08-02 1555 F8DZU         59  02     YO7SR         59  06       
+QSO: 21315 PH 2025-08-02 1555 F8DZU         59  02     SQ2HZ         59  24       
+QSO: 21303 PH 2025-08-02 1557 F8DZU         59  02     YT1MC         59  23       
+QSO: 21300 PH 2025-08-02 1557 F8DZU         59  02     EA2VR         59  96       
+QSO: 21268 PH 2025-08-02 1559 F8DZU         59  02     SP8DR         59  16       
+QSO: 21268 PH 2025-08-02 1602 F8DZU         59  02     IK6LBT        59  88       
+QSO: 21268 PH 2025-08-02 1603 F8DZU         59  02     OE4AWJ        59  23       
+QSO: 21268 PH 2025-08-02 1603 F8DZU         59  02     DO1WS         59  24       
+QSO: 21268 PH 2025-08-02 1604 F8DZU         59  02     IU2CVS/4      59  14       
+QSO: 21268 PH 2025-08-02 1604 F8DZU         59  02     IW9DED        59  93       
+QSO: 21268 PH 2025-08-02 1605 F8DZU         59  02     IU8BWV        59  14       
+QSO:  7190 PH 2025-08-02 2102 F8DZU         59  02     PD1RO         59  06       
+QSO:  7190 PH 2025-08-02 2104 F8DZU         59  02     PA0KDV        59  75       
+QSO:  7190 PH 2025-08-02 2104 F8DZU         59  02     SQ3Y          59  25       
+QSO:  7190 PH 2025-08-02 2104 F8DZU         59  02     F4LWT         59  24       
+QSO:  7190 PH 2025-08-02 2105 F8DZU         59  02     IT9PHU        59  92       
+QSO:  7190 PH 2025-08-02 2106 F8DZU         59  02     LX1FWF        59  22       
+QSO:  7190 PH 2025-08-02 2106 F8DZU         59  02     M1FDS         59  92       
+QSO:  7190 PH 2025-08-02 2106 F8DZU         59  02     IU8RIA        59  23       
+QSO:  7190 PH 2025-08-02 2107 F8DZU         59  02     RW1F          59  91       
+QSO:  7190 PH 2025-08-02 2107 F8DZU         59  02     DP7D          59  01       
+QSO:  7190 PH 2025-08-02 2108 F8DZU         59  02     IZ4WNQ        59  12       
+QSO:  7190 PH 2025-08-02 2108 F8DZU         59  02     IK6VXO        59  93       
+QSO:  7190 PH 2025-08-02 2109 F8DZU         59  02     IP0T          59  94       
+QSO:  7190 PH 2025-08-02 2109 F8DZU         59  02     DM5XT         59  23       
+QSO:  7190 PH 2025-08-02 2109 F8DZU         59  02     SK6AW         59  12       
+QSO:  7190 PH 2025-08-02 2110 F8DZU         59  02     IU4PPL        59  02       
+QSO:  7190 PH 2025-08-02 2110 F8DZU         59  02     HA2UF         59  11       
+QSO:  7190 PH 2025-08-02 2110 F8DZU         59  02     IK6LBT        59  88       
+QSO:  7190 PH 2025-08-02 2111 F8DZU         59  02     OE9WJH        59  28       
+QSO:  7190 PH 2025-08-02 2112 F8DZU         59  02     SP3FLY        59  22       
+QSO:  7190 PH 2025-08-02 2112 F8DZU         59  02     OT8M          59  04       
+QSO:  7190 PH 2025-08-02 2112 F8DZU         59  02     G3R           59  81       
+QSO:  7190 PH 2025-08-02 2113 F8DZU         59  02     PE1T          59  94       
+QSO:  7190 PH 2025-08-02 2113 F8DZU         59  02     IZ0DHC        59  99       
+QSO:  7190 PH 2025-08-02 2114 F8DZU         59  02     IZ1HHT        59  81       
+QSO:  7190 PH 2025-08-02 2114 F8DZU         59  02     PD0HR         59  06       
+QSO:  7190 PH 2025-08-02 2114 F8DZU         59  02     M0KUZ         59  23       
+QSO:  7190 PH 2025-08-02 2115 F8DZU         59  02     F4MAI         59  25       
+QSO:  7190 PH 2025-08-02 2119 F8DZU         59  02     F6KBK         59  69       
+QSO:  7190 PH 2025-08-02 2120 F8DZU         59  02     YU1ZP         59  21       
+QSO:  7190 PH 2025-08-02 2121 F8DZU         59  02     IU5SEQ        59  23       
+QSO:  7190 PH 2025-08-02 2122 F8DZU         59  02     PA1X          59  83       
+QSO:  7190 PH 2025-08-02 2122 F8DZU         59  02     RA3OA         59  82       
+QSO:  7190 PH 2025-08-02 2122 F8DZU         59  02     SN7D          59  94       
+QSO:  7190 PH 2025-08-02 2123 F8DZU         59  02     ER3CT         59  92       
+QSO:  7190 PH 2025-08-02 2123 F8DZU         59  02     DF8TT         59  79       
+QSO:  7190 PH 2025-08-02 2123 F8DZU         59  02     M1DNC         59  98       
+QSO:  7190 PH 2025-08-02 2126 F8DZU         59  02     F8GAF         59  10       
+QSO:  7190 PH 2025-08-02 2126 F8DZU         59  02     M3KYH         59  05       
+QSO:  7190 PH 2025-08-02 2127 F8DZU         59  02     PD7AT         59  23       
+QSO:  7190 PH 2025-08-02 2128 F8DZU         59  02     9A9O          59  99
 END-OF-LOG:

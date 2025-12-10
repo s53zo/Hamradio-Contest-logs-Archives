@@ -1,11 +1,209 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: LZ1DM
-CATEGORY: SSB - Low Power
-QSO:  7125 PH  2023-08-05 1706 LZ1DM         59  63     YT0W          59  66    
-QSO:  7125 PH  2023-08-05 2118 LZ1DM         59  63     OK1LEV        59  19    
-QSO: 14200 PH  2023-08-05 1444 LZ1DM         59  63     EW4A          59  62    
-QSO:  7125 PH  2023-08-05 1758 LZ1DM         59  63     SO0N          59  85    
-QSO:  7125 PH  2023-08-05 1905 LZ1DM         59  63     SP9KON        59  90    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 21392
+NAME: Plamen Ivanov
+ADDRESS: PO Box 20
+ADDRESS-CITY: Kazanlak
+ADDRESS-POSTALCODE: 6100
+ADDRESS-COUNTRY: Bulgaria
+OPERATORS: LZ1DM
+EMAIL: lz1dm@abv.bg
+CLUB: Tracian Rose Club
+CREATED-BY: N1MM Logger+ 1.0.9937.0
+QSO: 14200 PH 2023-08-05 1205 LZ1DM         59  63     IZ2FOS        59  03       
+QSO: 14200 PH 2023-08-05 1205 LZ1DM         59  63     S51CK         59  72       
+QSO: 14200 PH 2023-08-05 1207 LZ1DM         59  63     DJ4MH         59  97       
+QSO: 14200 PH 2023-08-05 1208 LZ1DM         59  63     SP3H          59  08       
+QSO: 14200 PH 2023-08-05 1210 LZ1DM         59  63     ES7GR         59  13       
+QSO: 14200 PH 2023-08-05 1212 LZ1DM         59  63     HA8FK         59  87       
+QSO: 14200 PH 2023-08-05 1213 LZ1DM         59  63     SV3RPQ        59  15       
+QSO: 14200 PH 2023-08-05 1215 LZ1DM         59  63     SP6DVP        59  69       
+QSO: 14200 PH 2023-08-05 1219 LZ1DM         59  63     E74A          59  77       
+QSO: 14200 PH 2023-08-05 1223 LZ1DM         59  63     IT9FRX        59  41       
+QSO: 14200 PH 2023-08-05 1225 LZ1DM         59  63     RW1F          59  91       
+QSO: 14200 PH 2023-08-05 1228 LZ1DM         59  63     S51NA         59  71       
+QSO: 14200 PH 2023-08-05 1229 LZ1DM         59  63     IU1MRH        59  19       
+QSO: 14200 PH 2023-08-05 1231 LZ1DM         59  63     9A1CCY        59  23       
+QSO: 14200 PH 2023-08-05 1232 LZ1DM         59  63     IT9OPR        59  84       
+QSO: 14200 PH 2023-08-05 1233 LZ1DM         59  63     DB5SM         59  96       
+QSO: 14200 PH 2023-08-05 1235 LZ1DM         59  63     RC5Z          59  91       
+QSO: 14200 PH 2023-08-05 1236 LZ1DM         59  63     PB6W          59  04       
+QSO: 14200 PH 2023-08-05 1241 LZ1DM         59  63     9A/TA7YLY     59  22       
+QSO: 21200 PH 2023-08-05 1242 LZ1DM         59  63     SP6DVP        59  69       
+QSO: 21200 PH 2023-08-05 1244 LZ1DM         59  63     HG1A          59  75       
+QSO: 21200 PH 2023-08-05 1247 LZ1DM         59  63     S52WW         59  00       
+QSO: 21200 PH 2023-08-05 1248 LZ1DM         59  63     LY4A          59  84       
+QSO: 21200 PH 2023-08-05 1249 LZ1DM         59  63     E7DX          59  88       
+QSO: 21200 PH 2023-08-05 1252 LZ1DM         59  63     ES7GR         59  13       
+QSO: 28300 PH 2023-08-05 1253 LZ1DM         59  63     S51A          59  00       
+QSO: 28300 PH 2023-08-05 1254 LZ1DM         59  63     E7DX          59  88       
+QSO: 28300 PH 2023-08-05 1254 LZ1DM         59  63     IZ2FOS        59  03       
+QSO: 28300 PH 2023-08-05 1255 LZ1DM         59  63     SN2B          59  94       
+QSO: 28300 PH 2023-08-05 1256 LZ1DM         59  63     DL1MHJ        59  84       
+QSO: 28300 PH 2023-08-05 1305 LZ1DM         59  63     S57S          59  80       
+QSO: 28300 PH 2023-08-05 1332 LZ1DM         59  63     S51CK         59  72       
+QSO: 28300 PH 2023-08-05 1334 LZ1DM         59  63     S53M          59  90       
+QSO: 28300 PH 2023-08-05 1336 LZ1DM         59  63     IW2NRI        59  03       
+QSO: 28300 PH 2023-08-05 1337 LZ1DM         59  63     DJ4MH         59  97       
+QSO: 21200 PH 2023-08-05 1339 LZ1DM         59  63     LZ1ZF         59  69       
+QSO: 21200 PH 2023-08-05 1339 LZ1DM         59  63     E70T          59  75       
+QSO: 21200 PH 2023-08-05 1340 LZ1DM         59  63     IZ5MMT        59  07       
+QSO: 21200 PH 2023-08-05 1341 LZ1DM         59  63     RZ3B          59  78       
+QSO: 21200 PH 2023-08-05 1342 LZ1DM         59  63     SN2B          59  94       
+QSO: 21200 PH 2023-08-05 1344 LZ1DM         59  63     S53R          59  75       
+QSO: 21200 PH 2023-08-05 1347 LZ1DM         59  63     DL2LBK        59  75       
+QSO: 21200 PH 2023-08-05 1348 LZ1DM         59  63     RA3OA         59  82       
+QSO: 21200 PH 2023-08-05 1349 LZ1DM         59  63     S51A          59  00       
+QSO: 21200 PH 2023-08-05 1350 LZ1DM         59  63     IT9BLB        59  74       
+QSO: 21200 PH 2023-08-05 1352 LZ1DM         59  63     IZ2JQP        59  07       
+QSO: 21200 PH 2023-08-05 1352 LZ1DM         59  63     IU1MRH        59  19       
+QSO: 21200 PH 2023-08-05 1353 LZ1DM         59  63     RC5Z          59  91       
+QSO: 21200 PH 2023-08-05 1355 LZ1DM         59  63     LZ5Y          59  72       
+QSO: 21200 PH 2023-08-05 1356 LZ1DM         59  63     EI5KF         59  11       
+QSO: 21200 PH 2023-08-05 1358 LZ1DM         59  63     DB5SM         59  96       
+QSO: 21200 PH 2023-08-05 1358 LZ1DM         59  63     RA3Y          59  75       
+QSO: 21200 PH 2023-08-05 1400 LZ1DM         59  63     S57AL         59  83       
+QSO: 21200 PH 2023-08-05 1402 LZ1DM         59  63     S58C          59  92       
+QSO: 21200 PH 2023-08-05 1403 LZ1DM         59  63     SP3PDO        59  90       
+QSO: 21200 PH 2023-08-05 1404 LZ1DM         59  63     HF7A          59  91       
+QSO: 21200 PH 2023-08-05 1410 LZ1DM         59  63     EW6W          59  11       
+QSO: 21200 PH 2023-08-05 1411 LZ1DM         59  63     S51CK         59  72       
+QSO: 21200 PH 2023-08-05 1416 LZ1DM         59  63     MW0CRI        59  99       
+QSO: 21200 PH 2023-08-05 1416 LZ1DM         59  63     DL1MHJ        59  84       
+QSO: 21200 PH 2023-08-05 1417 LZ1DM         59  63     DK2WH         59  68       
+QSO: 21200 PH 2023-08-05 1418 LZ1DM         59  63     9A6KX         59  03       
+QSO: 21200 PH 2023-08-05 1420 LZ1DM         59  63     S52ZW         59  80       
+QSO: 14200 PH 2023-08-05 1427 LZ1DM         59  63     OE3DEC        59  13       
+QSO: 14200 PH 2023-08-05 1427 LZ1DM         59  63     DM5B          59  93       
+QSO: 14200 PH 2023-08-05 1428 LZ1DM         59  63     TK4TH         59  20       
+QSO: 14200 PH 2023-08-05 1429 LZ1DM         59  63     RA3OA         59  82       
+QSO: 14200 PH 2023-08-05 1430 LZ1DM         59  63     OZ11A         59  89       
+QSO: 14200 PH 2023-08-05 1436 LZ1DM         59  63     S54KM         59  08       
+QSO: 14200 PH 2023-08-05 1437 LZ1DM         59  63     S59RT         59  23       
+QSO: 14200 PH 2023-08-05 1438 LZ1DM         59  63     F5LIW         59  86       
+QSO: 14200 PH 2023-08-05 1444 LZ1DM         59  63     EW4A          59  62       
+QSO: 14200 PH 2023-08-05 1445 LZ1DM         59  63     S53R          59  75       
+QSO: 14200 PH 2023-08-05 1446 LZ1DM         59  63     R2AA          59  83       
+QSO: 14200 PH 2023-08-05 1448 LZ1DM         59  63     IV3UHL        59  90       
+QSO: 14200 PH 2023-08-05 1451 LZ1DM         59  63     IT9RGY        59  05       
+QSO: 14200 PH 2023-08-05 1453 LZ1DM         59  63     EA3RCI        59  81       
+QSO: 14200 PH 2023-08-05 1454 LZ1DM         59  63     IZ2JQP        59  07       
+QSO: 14200 PH 2023-08-05 1454 LZ1DM         59  63     S51A          59  00       
+QSO: 14200 PH 2023-08-05 1501 LZ1DM         59  63     LY5W          59  81       
+QSO: 14200 PH 2023-08-05 1502 LZ1DM         59  63     CR6K          59  02       
+QSO: 14200 PH 2023-08-05 1505 LZ1DM         59  63     OG7F          59  74       
+QSO: 14200 PH 2023-08-05 1506 LZ1DM         59  63     EA3CI         59  94       
+QSO: 14200 PH 2023-08-05 1507 LZ1DM         59  63     IU3FBL        59  15       
+QSO: 14200 PH 2023-08-05 1511 LZ1DM         59  63     RZ3B          59  78       
+QSO: 14200 PH 2023-08-05 1512 LZ1DM         59  63     DL1MHJ        59  84       
+QSO: 14200 PH 2023-08-05 1517 LZ1DM         59  63     LZ3ZZ         59  91       
+QSO: 14200 PH 2023-08-05 1519 LZ1DM         59  63     EA4AOC        59  95       
+QSO: 14200 PH 2023-08-05 1535 LZ1DM         59  63     IK3UNA        59  90       
+QSO: 14200 PH 2023-08-05 1539 LZ1DM         59  63     RL4F          59  86       
+QSO: 14200 PH 2023-08-05 1541 LZ1DM         59  63     2E0DLG        59  08       
+QSO: 14200 PH 2023-08-05 1543 LZ1DM         59  63     F4AIF         59  97       
+QSO: 14200 PH 2023-08-05 1548 LZ1DM         59  63     SN2B          59  94       
+QSO: 14200 PH 2023-08-05 1548 LZ1DM         59  63     LZ5Y          59  72       
+QSO: 14200 PH 2023-08-05 1550 LZ1DM         59  63     SN7D          59  94       
+QSO: 14200 PH 2023-08-05 1552 LZ1DM         59  63     DM4EZ         59  77       
+QSO: 14200 PH 2023-08-05 1604 LZ1DM         59  63     EA1Z          59  93       
+QSO: 14200 PH 2023-08-05 1612 LZ1DM         59  63     EA4EUI        59  05       
+QSO: 14200 PH 2023-08-05 1617 LZ1DM         59  63     F8ADY         59  93       
+QSO: 14200 PH 2023-08-05 1630 LZ1DM         59  63     IK4UPB        59  92       
+QSO:  7125 PH 2023-08-05 1637 LZ1DM         59  63     IK4UPB        59  92       
+QSO:  7125 PH 2023-08-05 1638 LZ1DM         59  63     HG1A          59  75       
+QSO:  7125 PH 2023-08-05 1639 LZ1DM         59  63     S51A          59  00       
+QSO:  7125 PH 2023-08-05 1642 LZ1DM         59  63     S56Y          59  95       
+QSO:  7125 PH 2023-08-05 1643 LZ1DM         59  63     ES7GR         59  13       
+QSO:  7125 PH 2023-08-05 1645 LZ1DM         59  63     SN7T          59  09       
+QSO:  7125 PH 2023-08-05 1648 LZ1DM         59  63     SP5LAG        59  14       
+QSO:  7125 PH 2023-08-05 1652 LZ1DM         59  63     YT2SIN        59  20       
+QSO:  7125 PH 2023-08-05 1653 LZ1DM         59  63     SN7D          59  94       
+QSO:  7125 PH 2023-08-05 1657 LZ1DM         59  63     S51CK         59  72       
+QSO:  7125 PH 2023-08-05 1700 LZ1DM         59  63     SQ9AW         59  23       
+QSO:  7125 PH 2023-08-05 1700 LZ1DM         59  63     HG1G          59  72       
+QSO:  7125 PH 2023-08-05 1702 LZ1DM         59  63     SP3H          59  08       
+QSO:  7125 PH 2023-08-05 1705 LZ1DM         59  63     SN9B          59  19       
+QSO:  7125 PH 2023-08-05 1706 LZ1DM         59  63     YT0W          59  66       
+QSO:  7125 PH 2023-08-05 1707 LZ1DM         59  63     ER1BF         59  97       
+QSO:  7125 PH 2023-08-05 1707 LZ1DM         59  63     DL1MHJ        59  84       
+QSO:  7125 PH 2023-08-05 1708 LZ1DM         59  63     SP6DVP        59  69       
+QSO:  7125 PH 2023-08-05 1711 LZ1DM         59  63     9A1CCY        59  23       
+QSO:  7125 PH 2023-08-05 1715 LZ1DM         59  63     HA8EV         59  97       
+QSO:  7125 PH 2023-08-05 1716 LZ1DM         59  63     IT9RBW        59  03       
+QSO:  7125 PH 2023-08-05 1717 LZ1DM         59  63     RA3OA         59  82       
+QSO:  7125 PH 2023-08-05 1718 LZ1DM         59  63     YU7KW         59  75       
+QSO:  7125 PH 2023-08-05 1719 LZ1DM         59  63     E70T          59  75       
+QSO:  7125 PH 2023-08-05 1720 LZ1DM         59  63     OL68DURAK     59  67       
+QSO:  7125 PH 2023-08-05 1721 LZ1DM         59  63     EA3CI         59  94       
+QSO:  7125 PH 2023-08-05 1723 LZ1DM         59  63     F5LIW         59  86       
+QSO:  7125 PH 2023-08-05 1727 LZ1DM         59  63     9A6KX         59  03       
+QSO:  7125 PH 2023-08-05 1728 LZ1DM         59  63     LY4A          59  84       
+QSO:  7125 PH 2023-08-05 1730 LZ1DM         59  63     US2YW         59  88       
+QSO:  7125 PH 2023-08-05 1731 LZ1DM         59  63     IZ2FOS        59  03       
+QSO: 21200 PH 2023-08-05 1733 LZ1DM         59  63     IZ2FOS        59  03       
+QSO:  7125 PH 2023-08-05 1736 LZ1DM         59  63     HA1A          59  71       
+QSO:  7125 PH 2023-08-05 1738 LZ1DM         59  63     S53R          59  75       
+QSO:  7125 PH 2023-08-05 1738 LZ1DM         59  63     IT9FRX        59  41       
+QSO:  7125 PH 2023-08-05 1739 LZ1DM         59  63     SN2B          59  94       
+QSO:  7125 PH 2023-08-05 1740 LZ1DM         59  63     OM/LY5CA      59  94       
+QSO:  7125 PH 2023-08-05 1744 LZ1DM         59  63     OZ30EU        59  71       
+QSO:  7125 PH 2023-08-05 1745 LZ1DM         59  63     DJ4MH         59  97       
+QSO:  7125 PH 2023-08-05 1745 LZ1DM         59  63     RC5Z          59  91       
+QSO:  7125 PH 2023-08-05 1752 LZ1DM         59  63     YP0C          59  78       
+QSO:  7125 PH 2023-08-05 1758 LZ1DM         59  63     SO0N          59  85       
+QSO:  7125 PH 2023-08-05 1800 LZ1DM         59  63     PA0KDV        59  75       
+QSO:  7125 PH 2023-08-05 1805 LZ1DM         59  63     LY7R          59  82       
+QSO:  7125 PH 2023-08-05 1808 LZ1DM         59  63     F4AIF         59  97       
+QSO:  7125 PH 2023-08-05 1809 LZ1DM         59  63     OZ11A         59  89       
+QSO:  7125 PH 2023-08-05 1811 LZ1DM         59  63     RW1F          59  91       
+QSO:  7125 PH 2023-08-05 1812 LZ1DM         59  63     MW0CRI        59  99       
+QSO:  7125 PH 2023-08-05 1814 LZ1DM         59  63     UA3BL         59  91       
+QSO:  7125 PH 2023-08-05 1820 LZ1DM         59  63     S53M          59  90       
+QSO:  7125 PH 2023-08-05 1826 LZ1DM         59  63     EU4E          59  77       
+QSO:  7125 PH 2023-08-05 1829 LZ1DM         59  63     IZ8GUQ        59  05       
+QSO:  7125 PH 2023-08-05 1831 LZ1DM         59  63     E7DX          59  88       
+QSO:  7125 PH 2023-08-05 1835 LZ1DM         59  63     S52WW         59  00       
+QSO:  7125 PH 2023-08-05 1836 LZ1DM         59  63     SO7E          59  16       
+QSO:  7125 PH 2023-08-05 1844 LZ1DM         59  63     EW6W          59  11       
+QSO:  7125 PH 2023-08-05 1849 LZ1DM         59  63     9A1CRT        59  14       
+QSO:  7125 PH 2023-08-05 1850 LZ1DM         59  63     IV3UHL        59  90       
+QSO:  7125 PH 2023-08-05 1852 LZ1DM         59  63     RC6U          59  89       
+QSO:  7125 PH 2023-08-05 1856 LZ1DM         59  63     CR6K          59  02       
+QSO:  7125 PH 2023-08-05 1900 LZ1DM         59  63     9A/IK6JNH     59  85       
+QSO:  7125 PH 2023-08-05 1900 LZ1DM         59  63     IU1NKS        59  20       
+QSO:  7125 PH 2023-08-05 1903 LZ1DM         59  63     DM5B          59  93       
+QSO:  7125 PH 2023-08-05 1905 LZ1DM         59  63     SP9KON        59  90       
+QSO:  7125 PH 2023-08-05 1950 LZ1DM         59  63     OZ1HHH        59  56       
+QSO:  7125 PH 2023-08-05 1951 LZ1DM         59  63     UT5UGR        59  85       
+QSO:  7125 PH 2023-08-05 1952 LZ1DM         59  63     RL4F          59  86       
+QSO:  7125 PH 2023-08-05 1954 LZ1DM         59  63     OH1F          59  88       
+QSO:  7125 PH 2023-08-05 1956 LZ1DM         59  63     US3YW         59  88       
+QSO:  7125 PH 2023-08-05 1958 LZ1DM         59  63     LZ6E          59  59       
+QSO:  7125 PH 2023-08-05 2002 LZ1DM         59  63     EA7GX         59  10       
+QSO:  7125 PH 2023-08-05 2003 LZ1DM         59  63     SG0X          59  78       
+QSO:  7125 PH 2023-08-05 2006 LZ1DM         59  63     YP8T          59  18       
+QSO:  7125 PH 2023-08-05 2011 LZ1DM         59  63     ON3GG/P       59  05       
+QSO:  7125 PH 2023-08-05 2019 LZ1DM         59  63     RZ3B          59  78       
+QSO:  7125 PH 2023-08-05 2024 LZ1DM         59  63     DK3BK         59  09       
+QSO:  7125 PH 2023-08-05 2028 LZ1DM         59  63     RA4PBE        59  82       
+QSO:  7125 PH 2023-08-05 2031 LZ1DM         59  63     YT5W          59  66       
+QSO:  7125 PH 2023-08-05 2033 LZ1DM         59  63     LZ1UK         59  89       
+QSO:  7125 PH 2023-08-05 2037 LZ1DM         59  63     RT2F          59  77       
+QSO:  7125 PH 2023-08-05 2041 LZ1DM         59  63     IV3IPA        59  20       
+QSO:  7125 PH 2023-08-05 2047 LZ1DM         59  63     DB5SM         59  96       
+QSO:  7125 PH 2023-08-05 2050 LZ1DM         59  63     LA2AB         59  76       
+QSO:  7125 PH 2023-08-05 2053 LZ1DM         59  63     SP9XCN        59  93       
+QSO:  7125 PH 2023-08-05 2059 LZ1DM         59  63     Z3120KR       59  91       
+QSO:  7125 PH 2023-08-05 2103 LZ1DM         59  63     SP3LM         59  21       
+QSO:  7125 PH 2023-08-05 2105 LZ1DM         59  63     SV2AEL        59  86       
+QSO:  7125 PH 2023-08-05 2109 LZ1DM         59  63     ON8LX         59  09       
+QSO:  7125 PH 2023-08-05 2110 LZ1DM         59  63     YU1RA         59  72       
+QSO:  7125 PH 2023-08-05 2115 LZ1DM         59  63     F5RAG         59  90       
+QSO:  7125 PH 2023-08-05 2118 LZ1DM         59  63     OK1LEV        59  19
 END-OF-LOG:

@@ -1,11 +1,118 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: PA6F
-CATEGORY: CW/SSB - High Power
-QSO: 14011 CW  2025-08-02 1210 PA6F          599 83     OH2NP         599 82    
-QSO: 14026 CW  2025-08-02 1222 PA6F          599 83     9A3ST         599 75    
-QSO: 14304 PH  2025-08-02 1248 PA6F          59  83     SA2T          59  26    
-QSO: 14013 CW  2025-08-02 1408 PA6F          599 83     EA5OH         599 43    
-QSO: 14023 CW  2025-08-02 1422 PA6F          599 83     HF5WIM        599 67    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: HIGH
+CATEGORY-MODE: MIXED
+CLAIMED-SCORE: 5200
+NAME: Andre
+ADDRESS: Mezenveld 67
+ADDRESS-CITY: Emmen
+ADDRESS-POSTALCODE: 7827 BW
+ADDRESS-COUNTRY: Netherlands
+OPERATORS: PA5OES
+EMAIL: Andre.PA5OES@gmail.com
+CLUB: VERON
+CREATED-BY: N1MM Logger+ 1.0.10822.0
+QSO: 14033 CW 2025-08-02 1201 PA6F          599 83     SE5E          599 76       
+QSO: 14040 CW 2025-08-02 1202 PA6F          599 83     YT6X          599 00       
+QSO: 14008 CW 2025-08-02 1207 PA6F          599 83     SF0A          599 80       
+QSO: 14009 CW 2025-08-02 1208 PA6F          599 83     YL1DOG        599 80       
+QSO: 14009 CW 2025-08-02 1209 PA6F          599 83     RU1A          599 85       
+QSO: 14011 CW 2025-08-02 1210 PA6F          599 83     OH2NP         599 82       
+QSO: 14012 CW 2025-08-02 1214 PA6F          599 83     UA6LCN        599 73       
+QSO: 14014 CW 2025-08-02 1215 PA6F          599 83     IO3T          599 90       
+QSO: 14016 CW 2025-08-02 1216 PA6F          599 83     OH2KW         599 79       
+QSO: 14017 CW 2025-08-02 1217 PA6F          599 83     OK1KKI        599 82       
+QSO: 14018 CW 2025-08-02 1217 PA6F          599 83     MM9I          599 93       
+QSO: 14019 CW 2025-08-02 1219 PA6F          599 83     YQ6A          599 74       
+QSO: 14021 CW 2025-08-02 1220 PA6F          599 83     HA7A          599 73       
+QSO: 14026 CW 2025-08-02 1221 PA6F          599 83     YU1YV         599 78       
+QSO: 14026 CW 2025-08-02 1222 PA6F          599 83     9A3ST         599 75       
+QSO: 14027 CW 2025-08-02 1224 PA6F          599 83     YL2BJ         599 72       
+QSO: 14029 CW 2025-08-02 1226 PA6F          599 83     EA6NB         599 81       
+QSO: 14029 CW 2025-08-02 1227 PA6F          599 83     IT9IMJ        599 00       
+QSO: 14031 CW 2025-08-02 1227 PA6F          599 83     LA2AB         599 66       
+QSO: 14034 CW 2025-08-02 1229 PA6F          599 83     E7CW          599 82       
+QSO: 14034 CW 2025-08-02 1230 PA6F          599 83     OK8IF         599 84       
+QSO: 14041 CW 2025-08-02 1231 PA6F          599 83     SP1AEN        599 72       
+QSO: 14045 CW 2025-08-02 1232 PA6F          599 83     F6AGM         599 67       
+QSO: 14047 CW 2025-08-02 1237 PA6F          599 83     LY2DX         599 83       
+QSO: 14053 CW 2025-08-02 1238 PA6F          599 83     SJ2W          599 97       
+QSO: 14288 PH 2025-08-02 1240 PA6F          59  83     RW1F          59  91       
+QSO: 14271 PH 2025-08-02 1241 PA6F          59  83     OE3LZA        59  13       
+QSO: 14261 PH 2025-08-02 1241 PA6F          59  83     SN7D          59  94       
+QSO: 14254 PH 2025-08-02 1242 PA6F          59  83     LB6VI         59  19       
+QSO: 14253 PH 2025-08-02 1242 PA6F          59  83     RW1CW         59  80       
+QSO: 14233 PH 2025-08-02 1243 PA6F          59  83     IT9IUP        59  21       
+QSO: 14217 PH 2025-08-02 1243 PA6F          59  83     OM4WM         59  51       
+QSO: 14326 PH 2025-08-02 1247 PA6F          59  83     CT7BOD        59  88       
+QSO: 14304 PH 2025-08-02 1248 PA6F          59  83     SA2T          59  26       
+QSO: 14295 PH 2025-08-02 1249 PA6F          59  83     9A3B          59  77       
+QSO: 14286 PH 2025-08-02 1250 PA6F          59  83     YL2GD         59  73       
+QSO: 14275 PH 2025-08-02 1251 PA6F          59  83     SN8Z          59  02       
+QSO: 14274 PH 2025-08-02 1252 PA6F          59  83     SP3H          59  08       
+QSO: 14258 PH 2025-08-02 1253 PA6F          59  83     E7DX          59  88       
+QSO: 14249 PH 2025-08-02 1253 PA6F          59  83     IT9RGY        59  05       
+QSO: 14209 PH 2025-08-02 1254 PA6F          59  83     9A8DV         59  85       
+QSO: 14202 PH 2025-08-02 1254 PA6F          59  83     S51CK         59  72       
+QSO: 14169 PH 2025-08-02 1255 PA6F          59  83     SJ2W          59  97       
+QSO: 14282 PH 2025-08-02 1257 PA6F          59  83     SV3RPQ        59  15       
+QSO: 14046 CW 2025-08-02 1258 PA6F          599 83     DL1NEO        599 93       
+QSO: 14043 CW 2025-08-02 1259 PA6F          599 83     RL3T          599 95       
+QSO: 14037 CW 2025-08-02 1300 PA6F          599 83     SM2EKM        599 69       
+QSO: 14013 CW 2025-08-02 1302 PA6F          599 83     M4T           599 96       
+QSO: 14010 CW 2025-08-02 1303 PA6F          599 83     LZ8R          599 88       
+QSO: 14007 CW 2025-08-02 1305 PA6F          599 83     YL5T          599 04       
+QSO: 14034 CW 2025-08-02 1306 PA6F          599 83     OH0R          599 59       
+QSO: 14038 CW 2025-08-02 1331 PA6F          599 83     EU2F          599 76       
+QSO: 14040 CW 2025-08-02 1334 PA6F          599 83     OK2HBR        599 69       
+QSO: 14042 CW 2025-08-02 1335 PA6F          599 83     OM7M          599 87       
+QSO: 14048 CW 2025-08-02 1336 PA6F          599 83     PA6AA         599 06       
+QSO: 14181 PH 2025-08-02 1338 PA6F          59  83     F5MNC         59  87       
+QSO: 14198 PH 2025-08-02 1339 PA6F          59  83     YT8A          59  70       
+QSO: 14215 PH 2025-08-02 1339 PA6F          59  83     SP8R          59  09       
+QSO: 14222 PH 2025-08-02 1340 PA6F          59  83     SM3U          59  81       
+QSO: 14245 PH 2025-08-02 1341 PA6F          59  83     IU8RIA        59  23       
+QSO: 14264 PH 2025-08-02 1341 PA6F          59  83     G6MC          59  01       
+QSO: 14267 PH 2025-08-02 1343 PA6F          59  83     F8DZU         59  02       
+QSO: 14313 PH 2025-08-02 1345 PA6F          59  83     IT9OPR        59  84       
+QSO: 14261 PH 2025-08-02 1347 PA6F          59  83     TF3W          59  83       
+QSO: 14238 PH 2025-08-02 1348 PA6F          59  83     UA1AQA        59  81       
+QSO: 14210 PH 2025-08-02 1350 PA6F          59  83     IT9BYS        59  85       
+QSO: 14184 PH 2025-08-02 1351 PA6F          59  83     PE1T          59  94       
+QSO: 14172 PH 2025-08-02 1352 PA6F          59  83     YO7SR         59  06       
+QSO: 14169 PH 2025-08-02 1353 PA6F          59  83     EW4A          59  82       
+QSO: 14056 CW 2025-08-02 1354 PA6F          599 83     UA4LL         599 84       
+QSO: 14048 CW 2025-08-02 1358 PA6F          599 83     YU3A          599 71       
+QSO: 14031 CW 2025-08-02 1400 PA6F          599 83     HA3NU         599 72       
+QSO: 14029 CW 2025-08-02 1401 PA6F          599 83     SN7Z          599 72       
+QSO: 14002 CW 2025-08-02 1404 PA6F          599 83     LY7R          599 82       
+QSO: 14003 CW 2025-08-02 1406 PA6F          599 83     LZ1NK         599 81       
+QSO: 14004 CW 2025-08-02 1407 PA6F          599 83     R1LN          599 16       
+QSO: 14008 CW 2025-08-02 1408 PA6F          599 83     HA2KMR        599 71       
+QSO: 14013 CW 2025-08-02 1408 PA6F          599 83     EA5OH         599 43       
+QSO: 14014 CW 2025-08-02 1411 PA6F          599 83     LY2AX         599 70       
+QSO: 14018 CW 2025-08-02 1413 PA6F          599 83     YO8XMT        599 99       
+QSO: 14019 CW 2025-08-02 1414 PA6F          599 83     HA7UI         599 73       
+QSO: 14019 CW 2025-08-02 1415 PA6F          599 83     LY5W          599 81       
+QSO: 14020 CW 2025-08-02 1417 PA6F          599 83     CT1DRB        599 86       
+QSO: 14021 CW 2025-08-02 1419 PA6F          599 83     R2FK          599 81       
+QSO: 14022 CW 2025-08-02 1419 PA6F          599 83     OY1CT         599 78       
+QSO: 14023 CW 2025-08-02 1422 PA6F          599 83     HF5WIM        599 67       
+QSO: 14026 CW 2025-08-02 1426 PA6F          599 83     YR8R          599 80       
+QSO: 14027 CW 2025-08-02 1427 PA6F          599 83     EU1DC         599 90       
+QSO: 14028 CW 2025-08-02 1428 PA6F          599 83     R7AM          599 72       
+QSO: 14029 CW 2025-08-02 1430 PA6F          599 83     US6EX         599 77       
+QSO: 14035 CW 2025-08-02 1433 PA6F          599 83     RC6U          599 89       
+QSO: 14036 CW 2025-08-02 1437 PA6F          599 83     F5SGI         599 95       
+QSO: 14292 PH 2025-08-02 1438 PA6F          59  83     EW6W          59  11       
+QSO: 14285 PH 2025-08-02 1439 PA6F          59  83     HA3NU         59  72       
+QSO: 14286 PH 2025-08-02 1439 PA6F          59  83     S53M          59  77       
+QSO: 14272 PH 2025-08-02 1440 PA6F          59  83     IT9FIQ        59  14       
+QSO: 14254 PH 2025-08-02 1441 PA6F          59  83     YU3GCP        59  22       
+QSO: 14246 PH 2025-08-02 1442 PA6F          59  83     9A2ZI         59  16       
+QSO: 14241 PH 2025-08-02 1442 PA6F          59  83     HG1A          59  75       
+QSO: 14193 PH 2025-08-02 1443 PA6F          59  83     IP8P          59  05
 END-OF-LOG:

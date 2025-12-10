@@ -1,9 +1,200 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: PE1EWR
-CATEGORY: SSB - Low Power
-QSO: 28453 PH  2023-08-05 1239 PE1EWR        59  80     YT0W          59  83    
-QSO:  7145 PH  2023-08-05 1920 PE1EWR        59  80     S58W          59  54    
-QSO:  3729 PH  2023-08-05 2153 PE1EWR        59  80     DD2ML         59  99    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 22750
+NAME: Frank L. Laanen
+ADDRESS: Westerzicht 660
+ADDRESS-CITY: Vlissingen
+ADDRESS-POSTALCODE: 4385 BX
+ADDRESS-COUNTRY: NETHERLANDS
+OPERATORS: PE1EWR
+EMAIL: pe1ewr@zeelandnet.nl
+CLUB: 807 ARO
+CREATED-BY: N1MM Logger+ 1.0.9943.0
+QSO: 14200 PH 2023-08-05 1214 PE1EWR        59  80     SN9B          59  19       
+QSO: 14207 PH 2023-08-05 1215 PE1EWR        59  80     E74A          59  77       
+QSO: 14219 PH 2023-08-05 1217 PE1EWR        59  80     F4AIF         59  97       
+QSO: 14242 PH 2023-08-05 1219 PE1EWR        59  80     S51CK         59  72       
+QSO: 14251 PH 2023-08-05 1221 PE1EWR        59  80     SN7D          59  94       
+QSO: 14262 PH 2023-08-05 1221 PE1EWR        59  80     SP3H          59  08       
+QSO: 14271 PH 2023-08-05 1222 PE1EWR        59  80     S51NA         59  71       
+QSO: 14287 PH 2023-08-05 1224 PE1EWR        59  80     IU1MRH        59  19       
+QSO: 14292 PH 2023-08-05 1226 PE1EWR        59  80     IV3UHL        59  90       
+QSO: 14295 PH 2023-08-05 1227 PE1EWR        59  80     IZ2FOS        59  03       
+QSO: 14168 PH 2023-08-05 1229 PE1EWR        59  80     IK2AVH        59  82       
+QSO: 14174 PH 2023-08-05 1230 PE1EWR        59  80     9A1CCY        59  23       
+QSO: 14190 PH 2023-08-05 1231 PE1EWR        59  80     YU3GCP        59  22       
+QSO: 14196 PH 2023-08-05 1233 PE1EWR        59  80     OZ11A         59  89       
+QSO: 14229 PH 2023-08-05 1234 PE1EWR        59  80     IU1NKS        59  20       
+QSO: 21241 PH 2023-08-05 1235 PE1EWR        59  80     OM/LY5CA      59  94       
+QSO: 21260 PH 2023-08-05 1236 PE1EWR        59  80     HG1A          59  75       
+QSO: 21300 PH 2023-08-05 1237 PE1EWR        59  80     E7DX          59  88       
+QSO: 28458 PH 2023-08-05 1239 PE1EWR        59  80     E7DX          59  88       
+QSO: 28453 PH 2023-08-05 1239 PE1EWR        59  80     YT0W          59  83       
+QSO: 28420 PH 2023-08-05 1240 PE1EWR        59  80     S51A          59  00       
+QSO: 28443 PH 2023-08-05 1241 PE1EWR        59  80     S53R          59  75       
+QSO: 28520 PH 2023-08-05 1243 PE1EWR        59  80     EA3CI         59  94       
+QSO: 28481 PH 2023-08-05 1244 PE1EWR        59  80     S57YB         59  99       
+QSO: 14278 PH 2023-08-05 1255 PE1EWR        59  80     YP0C          59  78       
+QSO: 14298 PH 2023-08-05 1256 PE1EWR        59  80     E70T          59  75       
+QSO: 14317 PH 2023-08-05 1311 PE1EWR        59  80     IZ1NBX        59  08       
+QSO: 14295 PH 2023-08-05 1312 PE1EWR        59  80     DM5B          59  93       
+QSO: 14288 PH 2023-08-05 1313 PE1EWR        59  80     F5LIW         59  86       
+QSO: 14284 PH 2023-08-05 1314 PE1EWR        59  80     US2YW         59  88       
+QSO: 14254 PH 2023-08-05 1315 PE1EWR        59  80     DL5AO         59  21       
+QSO: 14243 PH 2023-08-05 1316 PE1EWR        59  80     SO7E          59  16       
+QSO: 14236 PH 2023-08-05 1318 PE1EWR        59  80     9A7V          59  76       
+QSO: 14232 PH 2023-08-05 1321 PE1EWR        59  80     LY4G          59  05       
+QSO: 14218 PH 2023-08-05 1321 PE1EWR        59  80     LY4A          59  84       
+QSO: 14209 PH 2023-08-05 1322 PE1EWR        59  80     UY5ZZ         59  67       
+QSO: 14192 PH 2023-08-05 1324 PE1EWR        59  80     OL68DURAK     59  67       
+QSO: 14184 PH 2023-08-05 1325 PE1EWR        59  80     EA3CI         59  94       
+QSO: 14170 PH 2023-08-05 1326 PE1EWR        59  80     IK4NZD        59  85       
+QSO: 21215 PH 2023-08-05 1327 PE1EWR        59  80     OZ11A         59  89       
+QSO: 21209 PH 2023-08-05 1328 PE1EWR        59  80     S52ZW         59  80       
+QSO: 21235 PH 2023-08-05 1330 PE1EWR        59  80     S51A          59  00       
+QSO: 21305 PH 2023-08-05 1331 PE1EWR        59  80     OE3DEC        59  13       
+QSO: 21315 PH 2023-08-05 1334 PE1EWR        59  80     IT9BLB        59  74       
+QSO: 28497 PH 2023-08-05 1335 PE1EWR        59  80     EU1A          59  95       
+QSO: 28476 PH 2023-08-05 1336 PE1EWR        59  80     SN7D          59  94       
+QSO: 28441 PH 2023-08-05 1338 PE1EWR        59  80     YT5A          59  88       
+QSO: 28486 PH 2023-08-05 1343 PE1EWR        59  80     S53M          59  90       
+QSO: 28490 PH 2023-08-05 1345 PE1EWR        59  80     9A/TA7YLY     59  22       
+QSO: 28473 PH 2023-08-05 1347 PE1EWR        59  80     OH1F          59  88       
+QSO: 28452 PH 2023-08-05 1348 PE1EWR        59  80     YU4OIZ        59  15       
+QSO: 28447 PH 2023-08-05 1349 PE1EWR        59  80     IU1HJF        59  16       
+QSO: 28435 PH 2023-08-05 1350 PE1EWR        59  80     IW2NRI        59  03       
+QSO: 28455 PH 2023-08-05 1350 PE1EWR        59  80     S51CK         59  72       
+QSO: 28463 PH 2023-08-05 1353 PE1EWR        59  80     SP9DN         59  80       
+QSO: 28466 PH 2023-08-05 1354 PE1EWR        59  80     OM/LY5CA      59  94       
+QSO: 28484 PH 2023-08-05 1407 PE1EWR        59  80     S57S          59  80       
+QSO: 28479 PH 2023-08-05 1415 PE1EWR        59  80     UT5UGR        59  85       
+QSO: 28468 PH 2023-08-05 1422 PE1EWR        59  80     US2YW         59  88       
+QSO: 28489 PH 2023-08-05 1424 PE1EWR        59  80     HG6V          59  99       
+QSO: 28445 PH 2023-08-05 1427 PE1EWR        59  80     EW1I          59  90       
+QSO: 28434 PH 2023-08-05 1429 PE1EWR        59  80     EW6W          59  11       
+QSO: 28428 PH 2023-08-05 1435 PE1EWR        59  80     EV1R          59  87       
+QSO: 21277 PH 2023-08-05 1438 PE1EWR        59  80     YO7SR         59  06       
+QSO: 21285 PH 2023-08-05 1439 PE1EWR        59  80     US2YW         59  88       
+QSO: 21312 PH 2023-08-05 1440 PE1EWR        59  80     SN9B          59  19       
+QSO: 21320 PH 2023-08-05 1441 PE1EWR        59  80     EW7B          59  15       
+QSO: 21289 PH 2023-08-05 1443 PE1EWR        59  80     ES7GR         59  13       
+QSO: 21278 PH 2023-08-05 1445 PE1EWR        59  80     YT9A          59  81       
+QSO: 21268 PH 2023-08-05 1446 PE1EWR        59  80     S51CK         59  72       
+QSO: 21260 PH 2023-08-05 1448 PE1EWR        59  80     SN2B          59  94       
+QSO: 21236 PH 2023-08-05 1451 PE1EWR        59  80     OH1F          59  88       
+QSO: 21293 PH 2023-08-05 1455 PE1EWR        59  80     LY4A          59  84       
+QSO: 21297 PH 2023-08-05 1456 PE1EWR        59  80     EU1A          59  95       
+QSO: 21330 PH 2023-08-05 1458 PE1EWR        59  80     SP9KON        59  22       
+QSO: 21240 PH 2023-08-05 1459 PE1EWR        59  80     SP3H          59  08       
+QSO: 21248 PH 2023-08-05 1500 PE1EWR        59  80     EW1I          59  90       
+QSO:  7141 PH 2023-08-05 1753 PE1EWR        59  80     S51A          59  00       
+QSO:  7150 PH 2023-08-05 1758 PE1EWR        59  80     E70T          59  75       
+QSO:  7161 PH 2023-08-05 1759 PE1EWR        59  80     EA3CI         59  94       
+QSO:  7163 PH 2023-08-05 1759 PE1EWR        59  80     IT9RBW        59  03       
+QSO:  7168 PH 2023-08-05 1800 PE1EWR        59  80     HG1A          59  75       
+QSO:  7181 PH 2023-08-05 1802 PE1EWR        59  80     DK4WA         59  87       
+QSO:  7185 PH 2023-08-05 1802 PE1EWR        59  80     OZ30EU        59  71       
+QSO:  7179 PH 2023-08-05 1803 PE1EWR        59  80     DL1MHJ        59  84       
+QSO:  7158 PH 2023-08-05 1804 PE1EWR        59  80     SP3H          59  08       
+QSO:  7144 PH 2023-08-05 1805 PE1EWR        59  80     SN2B          59  94       
+QSO:  7138 PH 2023-08-05 1806 PE1EWR        59  80     OZ11A         59  89       
+QSO:  7135 PH 2023-08-05 1807 PE1EWR        59  80     F4AIF         59  97       
+QSO:  7132 PH 2023-08-05 1807 PE1EWR        59  80     ES7GR         59  13       
+QSO:  7130 PH 2023-08-05 1808 PE1EWR        59  80     YP0C          59  78       
+QSO:  7125 PH 2023-08-05 1809 PE1EWR        59  80     S56Y          59  95       
+QSO:  7175 PH 2023-08-05 1812 PE1EWR        59  80     HA8EV         59  97       
+QSO:  7197 PH 2023-08-05 1813 PE1EWR        59  80     SN7D          59  94       
+QSO:  7195 PH 2023-08-05 1815 PE1EWR        59  80     OM/LY5CA      59  94       
+QSO:  7150 PH 2023-08-05 1821 PE1EWR        59  80     E7DX          59  88       
+QSO:  7166 PH 2023-08-05 1825 PE1EWR        59  80     HG1G          59  72       
+QSO:  7165 PH 2023-08-05 1826 PE1EWR        59  80     SN9B          59  19       
+QSO:  7163 PH 2023-08-05 1827 PE1EWR        59  80     S52WW         59  00       
+QSO:  7146 PH 2023-08-05 1830 PE1EWR        59  80     SN7T          59  09       
+QSO:  7140 PH 2023-08-05 1833 PE1EWR        59  80     IZ8GUQ        59  05       
+QSO:  7090 PH 2023-08-05 1836 PE1EWR        59  80     S53M          59  90       
+QSO:  7119 PH 2023-08-05 1837 PE1EWR        59  80     EW6W          59  11       
+QSO:  3740 PH 2023-08-05 1839 PE1EWR        59  80     DL2LBK        59  75       
+QSO:  3745 PH 2023-08-05 1844 PE1EWR        59  80     DK4WA         59  87       
+QSO:  3735 PH 2023-08-05 1846 PE1EWR        59  80     G4OBB         59  73       
+QSO:  3735 PH 2023-08-05 1852 PE1EWR        59  80     DK2KPS        59  21       
+QSO:  7185 PH 2023-08-05 1857 PE1EWR        59  80     DM5B          59  93       
+QSO:  7200 PH 2023-08-05 1858 PE1EWR        59  80     IU1NKS        59  20       
+QSO:  7148 PH 2023-08-05 1900 PE1EWR        59  80     9A1CRT        59  14       
+QSO:  7146 PH 2023-08-05 1900 PE1EWR        59  80     HA1A          59  71       
+QSO:  7113 PH 2023-08-05 1902 PE1EWR        59  80     IZ2FOS        59  03       
+QSO:  3723 PH 2023-08-05 1903 PE1EWR        59  80     OZ11A         59  89       
+QSO:  3753 PH 2023-08-05 1904 PE1EWR        59  80     PA0KDV        59  75       
+QSO:  7168 PH 2023-08-05 1918 PE1EWR        59  80     CR6K          59  02       
+QSO:  7163 PH 2023-08-05 1919 PE1EWR        59  80     S51CK         59  72       
+QSO:  7145 PH 2023-08-05 1920 PE1EWR        59  80     S58W          59  54       
+QSO:  7144 PH 2023-08-05 1921 PE1EWR        59  80     SP6DVP        59  69       
+QSO:  7136 PH 2023-08-05 1922 PE1EWR        59  80     EU1A          59  95       
+QSO:  3704 PH 2023-08-05 1925 PE1EWR        59  80     DJ4MH         59  97       
+QSO:  3713 PH 2023-08-05 1925 PE1EWR        59  80     IZ2FOS        59  03       
+QSO:  3721 PH 2023-08-05 1927 PE1EWR        59  80     S51A          59  00       
+QSO:  3743 PH 2023-08-05 1931 PE1EWR        59  80     F5LIW         59  86       
+QSO:  3788 PH 2023-08-05 1935 PE1EWR        59  80     OL68DURAK     59  67       
+QSO:  3785 PH 2023-08-05 1936 PE1EWR        59  80     OZ30EU        59  71       
+QSO:  3778 PH 2023-08-05 1937 PE1EWR        59  80     ON8LX         59  09       
+QSO:  3775 PH 2023-08-05 1941 PE1EWR        59  80     SN7D          59  94       
+QSO:  3772 PH 2023-08-05 1942 PE1EWR        59  80     PB6W          59  04       
+QSO:  3732 PH 2023-08-05 1944 PE1EWR        59  80     SP3H          59  08       
+QSO:  3709 PH 2023-08-05 1951 PE1EWR        59  80     F4AIF         59  97       
+QSO:  3702 PH 2023-08-05 1952 PE1EWR        59  80     M0MCV         59  03       
+QSO:  3704 PH 2023-08-05 2041 PE1EWR        59  80     SN2B          59  94       
+QSO:  3777 PH 2023-08-05 2044 PE1EWR        59  80     LY4A          59  84       
+QSO:  3791 PH 2023-08-05 2048 PE1EWR        59  80     EA3CI         59  94       
+QSO:  3780 PH 2023-08-05 2049 PE1EWR        59  80     E7DX          59  88       
+QSO:  3709 PH 2023-08-05 2053 PE1EWR        59  80     OZ1HHH        59  56       
+QSO:  3726 PH 2023-08-05 2055 PE1EWR        59  80     ES7GR         59  13       
+QSO:  3761 PH 2023-08-05 2057 PE1EWR        59  80     SN9B          59  19       
+QSO:  1856 PH 2023-08-05 2100 PE1EWR        59  80     OZ11A         59  89       
+QSO: 14228 PH 2023-08-05 2111 PE1EWR        59  80     YR9F          59  88       
+QSO: 14233 PH 2023-08-05 2112 PE1EWR        59  80     S51A          59  00       
+QSO:  7112 PH 2023-08-05 2125 PE1EWR        59  80     HA2KMR        59  71       
+QSO:  7130 PH 2023-08-05 2127 PE1EWR        59  80     F5RAG         59  90       
+QSO:  7144 PH 2023-08-05 2128 PE1EWR        59  80     OK1LEV        59  19       
+QSO:  7170 PH 2023-08-05 2132 PE1EWR        59  80     IV3IPA        59  20       
+QSO:  7188 PH 2023-08-05 2135 PE1EWR        59  80     IV3UHL        59  90       
+QSO:  7191 PH 2023-08-05 2136 PE1EWR        59  80     UT5W          59  66       
+QSO:  7197 PH 2023-08-05 2136 PE1EWR        59  80     LY4A          59  84       
+QSO:  7180 PH 2023-08-05 2137 PE1EWR        59  80     S57YB         59  99       
+QSO:  7116 PH 2023-08-05 2140 PE1EWR        59  80     OH1F          59  88       
+QSO:  7106 PH 2023-08-05 2142 PE1EWR        59  80     SV2AEL        59  86       
+QSO:  7137 PH 2023-08-05 2145 PE1EWR        59  80     IK6LBT        59  88       
+QSO:  3756 PH 2023-08-05 2148 PE1EWR        59  80     DK3BK         59  09       
+QSO:  3729 PH 2023-08-05 2153 PE1EWR        59  80     DD2ML         59  99       
+QSO:  3716 PH 2023-08-05 2155 PE1EWR        59  80     OH1F          59  88       
+QSO:  3707 PH 2023-08-05 2156 PE1EWR        59  80     UT5UGR        59  85       
+QSO:  1867 PH 2023-08-05 2209 PE1EWR        59  80     DL2LBK        59  75       
+QSO:  3722 PH 2023-08-05 2212 PE1EWR        59  80     LA2AB         59  76       
+QSO:  3729 PH 2023-08-05 2214 PE1EWR        59  80     CR6K          59  02       
+QSO:  3748 PH 2023-08-05 2216 PE1EWR        59  80     EW6W          59  11       
+QSO:  3767 PH 2023-08-05 2218 PE1EWR        59  80     UT5EL         59  83       
+QSO:  3712 PH 2023-08-05 2221 PE1EWR        59  80     E70T          59  75       
+QSO:  7199 PH 2023-08-05 2223 PE1EWR        59  80     SP8K          59  20       
+QSO:  7185 PH 2023-08-05 2224 PE1EWR        59  80     SQ9AW         59  23       
+QSO:  7183 PH 2023-08-05 2227 PE1EWR        59  80     G1SSL         59  86       
+QSO:  7174 PH 2023-08-05 2229 PE1EWR        59  80     ON3GG/P       59  05       
+QSO:  7155 PH 2023-08-05 2232 PE1EWR        59  80     ER1MAX        59  18       
+QSO:  7152 PH 2023-08-05 2232 PE1EWR        59  80     DJ9DJ         59  03       
+QSO:  7116 PH 2023-08-05 2234 PE1EWR        59  80     EW1I          59  90       
+QSO:  7112 PH 2023-08-05 2236 PE1EWR        59  80     YT2SIN        59  20       
+QSO:  7170 PH 2023-08-05 2239 PE1EWR        59  80     ER1BF         59  97       
+QSO:  7199 PH 2023-08-05 2242 PE1EWR        59  80     YT5W          59  66       
+QSO:  7145 PH 2023-08-05 2244 PE1EWR        59  80     M0MCV         59  03       
+QSO:  7105 PH 2023-08-05 2247 PE1EWR        59  80     EW4A          59  82       
+QSO: 14264 PH 2023-08-05 2254 PE1EWR        59  80     HA8FK         59  87       
+QSO:  7142 PH 2023-08-05 2303 PE1EWR        59  80     US2YW         59  88       
+QSO:  7191 PH 2023-08-05 2314 PE1EWR        59  80     HF7A          59  91       
+QSO:  7124 PH 2023-08-05 2318 PE1EWR        59  80     EI5KF         59  11       
+QSO:  7195 PH 2023-08-05 2321 PE1EWR        59  80     EA3HHF        59  10       
+QSO:  3736 PH 2023-08-05 2329 PE1EWR        59  80     DL6WT         59  67       
+QSO:  7192 PH 2023-08-05 2350 PE1EWR        59  80     9A1CCY        59  23       
+QSO:  7139 PH 2023-08-05 2352 PE1EWR        59  80     OG7F          59  74
 END-OF-LOG:

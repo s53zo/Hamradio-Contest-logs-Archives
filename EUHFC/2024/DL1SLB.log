@@ -1,11 +1,89 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: DL1SLB
-CATEGORY: SSB - Low Power
-QSO:  7153 PH  2024-08-03 1553 DL1SLB        59  19     HA5JI         59  70    
-QSO: 21265 PH  2024-08-03 1633 DL1SLB        59  19     SK5A          59  74    
-QSO:  7139 PH  2024-08-03 1927 DL1SLB        59  19     PA0KDV        59  75    
-QSO: 14223 PH  2024-08-03 1451 DL1SLB        59  19     G6MC          59  20    
-QSO: 21263 PH  2024-08-03 1626 DL1SLB        59  19     SA2T          59  73    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 
+NAME: Stefan Lorenz
+ADDRESS: Eutiner Ring 10c
+ADDRESS-CITY: Bad Schwartau
+ADDRESS-POSTALCODE: 23611
+ADDRESS-COUNTRY: GERMANY
+OPERATORS: DL1SLB
+EMAIL: stefannlv@googlemail.com
+CLUB: DARC
+CREATED-BY: EUHFC Web Adif_to_Cabrillo Converter
+QSO: 21287 PH 2024-08-03 1434 DL1SLB        59  19     RZ3B          59  78     
+QSO: 21243 PH 2024-08-03 1437 DL1SLB        59  19     UA3BL         59  71     
+QSO: 21220 PH 2024-08-03 1439 DL1SLB        59  19     RC5Z          59  91     
+QSO: 21260 PH 2024-08-03 1445 DL1SLB        59  19     EA4AOC        59  95     
+QSO: 14223 PH 2024-08-03 1451 DL1SLB        59  19     G6MC          59  20     
+QSO: 14236 PH 2024-08-03 1453 DL1SLB        59  19     RA3OA         59  82     
+QSO: 14232 PH 2024-08-03 1454 DL1SLB        59  19     IT9RGY        59  05     
+QSO: 14249 PH 2024-08-03 1457 DL1SLB        59  19     LZ5R          59  00     
+QSO: 14267 PH 2024-08-03 1459 DL1SLB        59  19     YO9HB         59  67     
+QSO: 14269 PH 2024-08-03 1500 DL1SLB        59  19     IU8RIA        59  23     
+QSO: 14272 PH 2024-08-03 1503 DL1SLB        59  19     E70T          59  75     
+QSO: 14287 PH 2024-08-03 1504 DL1SLB        59  19     YU5R          59  09     
+QSO: 14212 PH 2024-08-03 1509 DL1SLB        59  19     RK3AW         59  89     
+QSO: 14194 PH 2024-08-03 1511 DL1SLB        59  19     RZ3B          59  78     
+QSO: 14200 PH 2024-08-03 1534 DL1SLB        59  19     J42L          59  97     
+QSO: 14213 PH 2024-08-03 1536 DL1SLB        59  19     RA6CA         59  84     
+QSO: 14160 PH 2024-08-03 1539 DL1SLB        59  19     LY5I          59  79     
+QSO:  7176 PH 2024-08-03 1546 DL1SLB        59  19     SN7D          59  94     
+QSO:  7182 PH 2024-08-03 1548 DL1SLB        59  19     DJ4MH         59  97     
+QSO:  7184 PH 2024-08-03 1549 DL1SLB        59  19     OK2BXU        59  86     
+QSO:  7153 PH 2024-08-03 1553 DL1SLB        59  19     HA5JI         59  70     
+QSO:  7145 PH 2024-08-03 1555 DL1SLB        59  19     SN7T          59  09     
+QSO: 14220 PH 2024-08-03 1606 DL1SLB        59  19     IK8UND        59  93     
+QSO: 14225 PH 2024-08-03 1607 DL1SLB        59  19     RC5Z          59  91     
+QSO: 14272 PH 2024-08-03 1611 DL1SLB        59  19     8S0C          59  81     
+QSO: 14275 PH 2024-08-03 1613 DL1SLB        59  19     LY3S          59  82     
+QSO: 14277 PH 2024-08-03 1615 DL1SLB        59  19     9A3B          59  77     
+QSO: 14282 PH 2024-08-03 1617 DL1SLB        59  19     IT9AUG        59  09     
+QSO: 14285 PH 2024-08-03 1618 DL1SLB        59  19     IT9FRX        59  15     
+QSO: 21220 PH 2024-08-03 1621 DL1SLB        59  19     OG1F          59  88     
+QSO: 21230 PH 2024-08-03 1622 DL1SLB        59  19     RC6U          59  89     
+QSO: 21256 PH 2024-08-03 1624 DL1SLB        59  19     LB6VI         59  19     
+QSO: 21263 PH 2024-08-03 1626 DL1SLB        59  19     SA2T          59  73     
+QSO: 21265 PH 2024-08-03 1633 DL1SLB        59  19     SK5A          59  74     
+QSO: 21270 PH 2024-08-03 1635 DL1SLB        59  19     YL2LW         59  76     
+QSO: 21273 PH 2024-08-03 1636 DL1SLB        59  19     YL2GD         59  73     
+QSO: 14264 PH 2024-08-03 1741 DL1SLB        59  19     LZ6DX         59  11     
+QSO: 14227 PH 2024-08-03 1744 DL1SLB        59  19     R2AA          59  83     
+QSO: 14224 PH 2024-08-03 1747 DL1SLB        59  19     UA3BL         59  71     
+QSO: 14207 PH 2024-08-03 1748 DL1SLB        59  19     UW4E          59  94     
+QSO: 14201 PH 2024-08-03 1752 DL1SLB        59  19     LZ1ZF         59  69     
+QSO: 14183 PH 2024-08-03 1754 DL1SLB        59  19     YO7WC         59  89     
+QSO: 14170 PH 2024-08-03 1756 DL1SLB        59  19     EA3CI         59  94     
+QSO:  7173 PH 2024-08-03 1802 DL1SLB        59  19     RC5Z          59  91     
+QSO:  7168 PH 2024-08-03 1805 DL1SLB        59  19     OR1X          59  00     
+QSO:  7164 PH 2024-08-03 1806 DL1SLB        59  19     S51CK         59  72     
+QSO: 14220 PH 2024-08-03 1905 DL1SLB        59  19     LZ8E          59  81     
+QSO: 14186 PH 2024-08-03 1908 DL1SLB        59  19     EI9HX         59  73     
+QSO: 14246 PH 2024-08-03 1912 DL1SLB        59  19     SE2P          59  81     
+QSO:  7193 PH 2024-08-03 1919 DL1SLB        59  19     UA3BL         59  71     
+QSO:  7174 PH 2024-08-03 1922 DL1SLB        59  19     HB9HLM        59  84     
+QSO:  7158 PH 2024-08-03 1924 DL1SLB        59  19     S52WW         59  00     
+QSO:  7139 PH 2024-08-03 1927 DL1SLB        59  19     PA0KDV        59  75     
+QSO:  7137 PH 2024-08-03 1929 DL1SLB        59  19     UW5Y          59  88     
+QSO:  7113 PH 2024-08-03 1932 DL1SLB        59  19     RA6CA         59  84     
+QSO:  7099 PH 2024-08-03 1934 DL1SLB        59  19     EW1M          59  80     
+QSO:  7083 PH 2024-08-03 1936 DL1SLB        59  19     G6MC          59  02     
+QSO:  7128 PH 2024-08-03 1938 DL1SLB        59  19     OE2ROL        59  08     
+QSO:  7192 PH 2024-08-03 1946 DL1SLB        59  19     E70T          59  75     
+QSO:  7199 PH 2024-08-03 1948 DL1SLB        59  19     S51CK         59  72     
+QSO:  7197 PH 2024-08-03 2132 DL1SLB        59  19     LY4A          59  84     
+QSO:  7200 PH 2024-08-03 2134 DL1SLB        59  19     M0KIW         59  84     
+QSO:  7178 PH 2024-08-03 2138 DL1SLB        59  19     F4BHK         59  97     
+QSO:  7168 PH 2024-08-03 2140 DL1SLB        59  19     YT2ET         59  20     
+QSO:  7156 PH 2024-08-03 2142 DL1SLB        59  19     SK5A          59  74     
+QSO:  7143 PH 2024-08-03 2143 DL1SLB        59  19     HA3NU         59  72     
+QSO:  7139 PH 2024-08-03 2145 DL1SLB        59  19     DJ9DJ         59  03     
+QSO:  7116 PH 2024-08-03 2150 DL1SLB        59  19     M0MCV         59  03     
+QSO:  7173 PH 2024-08-03 2159 DL1SLB        59  19     SP6DVP        59  69     
+QSO:  7183 PH 2024-08-03 2201 DL1SLB        59  19     ON3AR         59  06     
+QSO:  7193 PH 2024-08-03 2206 DL1SLB        59  19     EW8CM         59  94
 END-OF-LOG:

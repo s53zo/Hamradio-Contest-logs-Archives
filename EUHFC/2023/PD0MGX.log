@@ -1,10 +1,94 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: PD0MGX
-CATEGORY: SINGLE-OP 20M
-QSO: 14200 PH  2023-08-05 1309 PD0MGX        59  80     YR9F          59  88    
-QSO: 14200 PH  2023-08-05 1413 PD0MGX        59  80     LZ6E          59  59    
-QSO: 14261 PH  2023-08-05 1429 PD0MGX        59  80     9A/TA7YLY     59  22    
-QSO: 14247 PH  2023-08-05 1500 PD0MGX        59  80     RZ3B          59  78    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: 20M
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 3344
+NAME: Carl Klaassen
+ADDRESS: Madurastraat 8c
+ADDRESS-CITY: Baarn
+ADDRESS-POSTALCODE: 3742WB
+ADDRESS-COUNTRY: NETHERLANDS
+OPERATORS: PD0MGX
+EMAIL: pd0mgx@amsat.org
+CLUB: RadioClub Amersfoort
+CREATED-BY: N1MM Logger+ 1.0.9937.0
+QSO: 14200 PH 2023-08-05 1205 PD0MGX        59  80     SN9B          59  19       
+QSO: 14207 PH 2023-08-05 1206 PD0MGX        59  80     E74A          59  77       
+QSO: 14251 PH 2023-08-05 1208 PD0MGX        59  80     SN7D          59  94       
+QSO: 14263 PH 2023-08-05 1209 PD0MGX        59  80     SP3H          59  08       
+QSO: 14278 PH 2023-08-05 1210 PD0MGX        59  80     YP0C          59  78       
+QSO: 14284 PH 2023-08-05 1211 PD0MGX        59  80     IZ2FOS        59  03       
+QSO: 14219 PH 2023-08-05 1213 PD0MGX        59  80     F4AIF         59  97       
+QSO: 14170 PH 2023-08-05 1214 PD0MGX        59  80     YO7SR         59  06       
+QSO: 14242 PH 2023-08-05 1216 PD0MGX        59  80     S51CK         59  72       
+QSO: 14280 PH 2023-08-05 1218 PD0MGX        59  80     OZ30EU        59  71       
+QSO: 14271 PH 2023-08-05 1221 PD0MGX        59  80     S51NA         59  71       
+QSO: 14197 PH 2023-08-05 1224 PD0MGX        59  80     OZ11A         59  89       
+QSO: 14198 PH 2023-08-05 1225 PD0MGX        59  80     EW4A          59  82       
+QSO: 14275 PH 2023-08-05 1226 PD0MGX        59  80     SO7E          59  16       
+QSO: 14270 PH 2023-08-05 1228 PD0MGX        59  80     HA8FK         59  87       
+QSO: 14256 PH 2023-08-05 1229 PD0MGX        59  80     RW1F          59  91       
+QSO: 14238 PH 2023-08-05 1230 PD0MGX        59  80     EW6W          59  11       
+QSO: 14292 PH 2023-08-05 1235 PD0MGX        59  80     IV3UHL        59  90       
+QSO: 14287 PH 2023-08-05 1236 PD0MGX        59  80     IU1MRH        59  19       
+QSO: 14272 PH 2023-08-05 1238 PD0MGX        59  80     ER1MAX        59  18       
+QSO: 14187 PH 2023-08-05 1240 PD0MGX        59  80     CR6K          59  02       
+QSO: 14229 PH 2023-08-05 1245 PD0MGX        59  80     IU1NKS        59  20       
+QSO: 14168 PH 2023-08-05 1247 PD0MGX        59  80     IK2AVH        59  82       
+QSO: 14201 PH 2023-08-05 1252 PD0MGX        59  80     OL68DURAK     59  67       
+QSO: 14174 PH 2023-08-05 1254 PD0MGX        59  80     9A1CCY        59  23       
+QSO: 14186 PH 2023-08-05 1255 PD0MGX        59  80     IK1RGK        59  91       
+QSO: 14317 PH 2023-08-05 1257 PD0MGX        59  80     IZ1NBX        59  08       
+QSO: 14209 PH 2023-08-05 1302 PD0MGX        59  80     UY5ZZ         59  67       
+QSO: 14193 PH 2023-08-05 1303 PD0MGX        59  80     IW2NRI        59  03       
+QSO: 14190 PH 2023-08-05 1307 PD0MGX        59  80     YU3GCP        59  22       
+QSO: 14200 PH 2023-08-05 1309 PD0MGX        59  80     YR9F          59  88       
+QSO: 14298 PH 2023-08-05 1311 PD0MGX        59  80     E70T          59  75       
+QSO: 14232 PH 2023-08-05 1314 PD0MGX        59  80     LY4G          59  05       
+QSO: 14218 PH 2023-08-05 1315 PD0MGX        59  80     LY4A          59  84       
+QSO: 14247 PH 2023-08-05 1320 PD0MGX        59  80     OK2BRX        59  76       
+QSO: 14236 PH 2023-08-05 1321 PD0MGX        59  80     9A7V          59  76       
+QSO: 14228 PH 2023-08-05 1323 PD0MGX        59  80     SP3LM         59  21       
+QSO: 14181 PH 2023-08-05 1325 PD0MGX        59  80     TK4TH         59  20       
+QSO: 14170 PH 2023-08-05 1325 PD0MGX        59  80     IK4NZD        59  85       
+QSO: 14288 PH 2023-08-05 1329 PD0MGX        59  80     F5LIW         59  86       
+QSO: 14205 PH 2023-08-05 1330 PD0MGX        59  80     SV3RPQ        59  15       
+QSO: 14188 PH 2023-08-05 1400 PD0MGX        59  80     LY5W          59  81       
+QSO: 14244 PH 2023-08-05 1403 PD0MGX        59  80     E7DX          59  88       
+QSO: 14252 PH 2023-08-05 1404 PD0MGX        59  80     IT9RBW        59  03       
+QSO: 14241 PH 2023-08-05 1406 PD0MGX        59  80     S52WW         59  00       
+QSO: 14184 PH 2023-08-05 1408 PD0MGX        59  80     EA3CI         59  94       
+QSO: 14200 PH 2023-08-05 1413 PD0MGX        59  80     LZ6E          59  59       
+QSO: 14239 PH 2023-08-05 1414 PD0MGX        59  80     HG1A          59  75       
+QSO: 14222 PH 2023-08-05 1415 PD0MGX        59  80     LZ3ZZ         59  91       
+QSO: 14173 PH 2023-08-05 1416 PD0MGX        59  80     OE3DEC        59  13       
+QSO: 14295 PH 2023-08-05 1418 PD0MGX        59  80     S51A          59  00       
+QSO: 14261 PH 2023-08-05 1429 PD0MGX        59  80     9A/TA7YLY     59  22       
+QSO: 14299 PH 2023-08-05 1431 PD0MGX        59  80     OK1OA         59  64       
+QSO: 14236 PH 2023-08-05 1439 PD0MGX        59  80     IK3QAR        59  90       
+QSO: 14210 PH 2023-08-05 1440 PD0MGX        59  80     RA3OA         59  82       
+QSO: 14221 PH 2023-08-05 1445 PD0MGX        59  80     S53R          59  75       
+QSO: 14287 PH 2023-08-05 1457 PD0MGX        59  80     IZ2JQP        59  07       
+QSO: 14247 PH 2023-08-05 1500 PD0MGX        59  80     RZ3B          59  78       
+QSO: 14290 PH 2023-08-05 1506 PD0MGX        59  80     PD5ISW        59  15       
+QSO: 14291 PH 2023-08-05 1507 PD0MGX        59  80     SP9XCN        59  93       
+QSO: 14270 PH 2023-08-05 1509 PD0MGX        59  80     RC5Z          59  91       
+QSO: 14227 PH 2023-08-05 1511 PD0MGX        59  80     IT9FRX        59  41       
+QSO: 14236 PH 2023-08-05 1518 PD0MGX        59  80     IT9FIQ        59  14       
+QSO: 14214 PH 2023-08-05 1519 PD0MGX        59  80     RA3Y          59  75       
+QSO: 14245 PH 2023-08-05 1523 PD0MGX        59  80     YT0W          59  83       
+QSO: 14259 PH 2023-08-05 1524 PD0MGX        59  80     ES7GR         59  13       
+QSO: 14200 PH 2023-08-05 1701 PD0MGX        59  80     EU1A          59  95       
+QSO: 14252 PH 2023-08-05 1704 PD0MGX        59  80     SN2B          59  94       
+QSO: 14245 PH 2023-08-05 1705 PD0MGX        59  80     9A/IK6JNH     59  85       
+QSO: 14214 PH 2023-08-05 1715 PD0MGX        59  80     R2AA          59  83       
+QSO: 14232 PH 2023-08-05 1717 PD0MGX        59  80     EA7GX         59  10       
+QSO: 14300 PH 2023-08-05 1720 PD0MGX        59  80     MI7DGO        59  21       
+QSO: 14242 PH 2023-08-05 1724 PD0MGX        59  80     RG6G          59  89       
+QSO: 14174 PH 2023-08-05 1727 PD0MGX        59  80     RK3DK         59  71       
+QSO: 14273 PH 2023-08-05 1732 PD0MGX        59  80     EA7ATX        59  95       
+QSO: 14206 PH 2023-08-05 2100 PD0MGX        59  80     HF7A          59  91
 END-OF-LOG:

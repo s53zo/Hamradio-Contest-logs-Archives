@@ -1,16 +1,161 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: 2E0PLA
-CATEGORY: SSB - Low Power
-QSO:  7041 PH  2025-08-02 1813 2E0PLA        59  02     LY4A          59  84    
-QSO: 14262 PH  2025-08-02 1909 2E0PLA        59  02     YU3GCP        59  22    
-QSO: 14295 PH  2025-08-02 1951 2E0PLA        59  02     EA1Z          59  93    
-QSO:  3736 PH  2025-08-02 2129 2E0PLA        59  02     EW4A          59  82    
-QSO: 14220 PH  2025-08-02 1438 2E0PLA        59  02     LZ1NK         59  80    
-QSO: 28470 PH  2025-08-02 1916 2E0PLA        59  02     DA6YMB        59  12    
-QSO:  3785 PH  2025-08-02 2002 2E0PLA        59  02     OT8M          59  02    
-QSO:  3766 PH  2025-08-02 2144 2E0PLA        59  02     OH5RW         59  13    
-QSO:  3766 PH  2025-08-02 2208 2E0PLA        59  02     DD8SM         59  12    
-QSO:  3774 PH  2025-08-02 2256 2E0PLA        59  02     DG0OKW        59  85    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 13916
+NAME: phil brown
+ADDRESS: 11 boothcresent waterfoot lancs
+ADDRESS-CITY: rossendale
+ADDRESS-POSTALCODE: bb49bt
+ADDRESS-COUNTRY: england
+OPERATORS: 2E0PLA
+EMAIL: bornablue@yahoo.co.uk
+CLUB: 
+CREATED-BY: N1MM Logger+ 1.0.10822.0
+QSO: 14283 PH 2025-08-02 1217 2E0PLA        59  02     LB6VI         59  19       
+QSO: 14288 PH 2025-08-02 1218 2E0PLA        59  02     RW1F          59  91       
+QSO: 14270 PH 2025-08-02 1223 2E0PLA        59  02     OE3LZA        59  13       
+QSO: 14258 PH 2025-08-02 1224 2E0PLA        59  02     ED7DX         59  88       
+QSO: 14223 PH 2025-08-02 1228 2E0PLA        59  02     YO7WC         59  91       
+QSO: 14214 PH 2025-08-02 1229 2E0PLA        59  02     SP8R          59  09       
+QSO: 14188 PH 2025-08-02 1232 2E0PLA        59  02     YO7SR         59  06       
+QSO: 14183 PH 2025-08-02 1233 2E0PLA        59  02     LN5O          59  94       
+QSO: 14236 PH 2025-08-02 1236 2E0PLA        59  02     YP0C          59  78       
+QSO: 14242 PH 2025-08-02 1237 2E0PLA        59  02     S53M          59  77       
+QSO: 14258 PH 2025-08-02 1239 2E0PLA        59  02     E7DX          59  88       
+QSO: 14261 PH 2025-08-02 1241 2E0PLA        59  02     SN7D          59  94       
+QSO: 14274 PH 2025-08-02 1245 2E0PLA        59  02     SP3H          59  08       
+QSO: 14177 PH 2025-08-02 1256 2E0PLA        59  02     IK3UNA        59  90       
+QSO: 14235 PH 2025-08-02 1258 2E0PLA        59  02     RN3AC         59  79       
+QSO: 21305 PH 2025-08-02 1301 2E0PLA        59  02     EC1A          59  93       
+QSO: 21296 PH 2025-08-02 1302 2E0PLA        59  02     LY4A          59  84       
+QSO: 21233 PH 2025-08-02 1310 2E0PLA        59  02     EW4A          59  82       
+QSO: 21257 PH 2025-08-02 1315 2E0PLA        59  02     IZ2FOS        59  03       
+QSO: 14187 PH 2025-08-02 1322 2E0PLA        59  02     OZ11A         59  89       
+QSO: 14233 PH 2025-08-02 1324 2E0PLA        59  02     RA3OA         59  82       
+QSO: 14241 PH 2025-08-02 1325 2E0PLA        59  02     9A2ZI         59  16       
+QSO: 14267 PH 2025-08-02 1331 2E0PLA        59  02     F8DZU         59  02       
+QSO: 14294 PH 2025-08-02 1335 2E0PLA        59  02     9A3B          59  77       
+QSO: 14181 PH 2025-08-02 1433 2E0PLA        59  02     LZ8R          59  88       
+QSO: 14188 PH 2025-08-02 1434 2E0PLA        59  02     SM3U          59  81       
+QSO: 14222 PH 2025-08-02 1435 2E0PLA        59  02     SO7E          59  16       
+QSO: 14220 PH 2025-08-02 1438 2E0PLA        59  02     LZ1NK         59  80       
+QSO: 14227 PH 2025-08-02 1446 2E0PLA        59  02     IZ2FOS        59  03       
+QSO: 14211 PH 2025-08-02 1501 2E0PLA        59  02     TF3W          59  83       
+QSO: 14264 PH 2025-08-02 1503 2E0PLA        59  02     PE1T          59  94       
+QSO: 21237 PH 2025-08-02 1507 2E0PLA        59  02     9A6KX         59  03       
+QSO: 21241 PH 2025-08-02 1510 2E0PLA        59  02     9A3B          59  77       
+QSO: 28478 PH 2025-08-02 1619 2E0PLA        59  02     IP3G          59  02       
+QSO: 21255 PH 2025-08-02 1622 2E0PLA        59  02     IK3UNA        59  90       
+QSO: 14286 PH 2025-08-02 1627 2E0PLA        59  02     OM3CW         59  73       
+QSO: 14310 PH 2025-08-02 1631 2E0PLA        59  02     S56B          59  87       
+QSO: 14271 PH 2025-08-02 1633 2E0PLA        59  02     HA3NU         59  72       
+QSO: 14204 PH 2025-08-02 1640 2E0PLA        59  02     HA2KMR        59  71       
+QSO: 14182 PH 2025-08-02 1643 2E0PLA        59  02     EA7TG         59  87       
+QSO: 28456 PH 2025-08-02 1649 2E0PLA        59  02     EA5DFV        59  82       
+QSO: 28430 PH 2025-08-02 1652 2E0PLA        59  02     I2JWG         59  93       
+QSO: 28430 PH 2025-08-02 1653 2E0PLA        59  02     HB3XWG        59  20       
+QSO: 28450 PH 2025-08-02 1657 2E0PLA        59  02     S52OT         59  73       
+QSO: 28460 PH 2025-08-02 1658 2E0PLA        59  02     EC1A          59  93       
+QSO: 28430 PH 2025-08-02 1703 2E0PLA        59  02     DK8MK         59  00       
+QSO: 28430 PH 2025-08-02 1704 2E0PLA        59  02     IW2NRI        59  03       
+QSO: 28430 PH 2025-08-02 1704 2E0PLA        59  02     S57AW         59  87       
+QSO: 21230 PH 2025-08-02 1709 2E0PLA        59  02     SP1NQH        59  86       
+QSO: 28474 PH 2025-08-02 1719 2E0PLA        59  02     S51A          59  00       
+QSO: 28490 PH 2025-08-02 1721 2E0PLA        59  02     IZ2FOS        59  03       
+QSO:  7154 PH 2025-08-02 1731 2E0PLA        59  02     SO7E          59  16       
+QSO:  7162 PH 2025-08-02 1733 2E0PLA        59  02     PE1T          59  94       
+QSO:  7168 PH 2025-08-02 1735 2E0PLA        59  02     ON4AEO        59  89       
+QSO:  7143 PH 2025-08-02 1739 2E0PLA        59  02     DL2LBK        59  75       
+QSO:  7172 PH 2025-08-02 1752 2E0PLA        59  02     DL6MRM        59  85       
+QSO:  7175 PH 2025-08-02 1754 2E0PLA        59  02     OE3LZA        59  13       
+QSO:  7186 PH 2025-08-02 1756 2E0PLA        59  02     SN8Z          59  02       
+QSO:  7130 PH 2025-08-02 1803 2E0PLA        59  02     RA3OA         59  82       
+QSO:  7148 PH 2025-08-02 1806 2E0PLA        59  02     S56B          59  87       
+QSO:  7151 PH 2025-08-02 1807 2E0PLA        59  02     SP3HD3        59  08       
+QSO:  7157 PH 2025-08-02 1810 2E0PLA        59  02     EI3VP         59  02       
+QSO:  7041 PH 2025-08-02 1813 2E0PLA        59  02     LY4A          59  84       
+QSO:  7168 PH 2025-08-02 1814 2E0PLA        59  02     LB6VI         59  19       
+QSO: 14176 PH 2025-08-02 1817 2E0PLA        59  02     YT9X          59  97       
+QSO: 14191 PH 2025-08-02 1819 2E0PLA        59  02     EW1M          59  80       
+QSO: 14205 PH 2025-08-02 1821 2E0PLA        59  02     UR1UU         59  67       
+QSO: 14211 PH 2025-08-02 1822 2E0PLA        59  02     EW6W          59  11       
+QSO: 14215 PH 2025-08-02 1824 2E0PLA        59  02     HA5MIG        59  20       
+QSO: 14275 PH 2025-08-02 1829 2E0PLA        59  02     OM2ADM        59  23       
+QSO: 14299 PH 2025-08-02 1855 2E0PLA        59  02     EC1A          59  93       
+QSO: 14308 PH 2025-08-02 1857 2E0PLA        59  02     OE2XAL        59  89       
+QSO: 14205 PH 2025-08-02 1902 2E0PLA        59  02     S50R          59  65       
+QSO: 14233 PH 2025-08-02 1904 2E0PLA        59  02     SP3FLY        59  22       
+QSO: 14241 PH 2025-08-02 1905 2E0PLA        59  02     OK4YL         59  67       
+QSO: 14253 PH 2025-08-02 1908 2E0PLA        59  02     OK1DOL        59  77       
+QSO: 14262 PH 2025-08-02 1909 2E0PLA        59  02     YU3GCP        59  22       
+QSO: 28470 PH 2025-08-02 1916 2E0PLA        59  02     DA6YMB        59  12       
+QSO: 28470 PH 2025-08-02 1918 2E0PLA        59  02     DO7TNT        59  25       
+QSO: 28470 PH 2025-08-02 1920 2E0PLA        59  02     M7NPA         59  24       
+QSO: 14263 PH 2025-08-02 1930 2E0PLA        59  02     S52OT         59  73       
+QSO: 14278 PH 2025-08-02 1932 2E0PLA        59  02     UA1AQA        59  81       
+QSO: 14302 PH 2025-08-02 1933 2E0PLA        59  02     LY7K          59  17       
+QSO: 14240 PH 2025-08-02 1936 2E0PLA        59  02     YU3RMS        59  24       
+QSO: 14195 PH 2025-08-02 1946 2E0PLA        59  02     OZ2ZD         59  82       
+QSO: 14204 PH 2025-08-02 1948 2E0PLA        59  02     S51CK         59  72       
+QSO: 14239 PH 2025-08-02 1949 2E0PLA        59  02     HA5UA         59  82       
+QSO: 14295 PH 2025-08-02 1951 2E0PLA        59  02     EA1Z          59  93       
+QSO: 28460 PH 2025-08-02 1954 2E0PLA        59  02     DG9FBH        59  88       
+QSO:  3785 PH 2025-08-02 2002 2E0PLA        59  02     OT8M          59  02       
+QSO:  3761 PH 2025-08-02 2003 2E0PLA        59  02     SN7D          59  94       
+QSO:  3738 PH 2025-08-02 2005 2E0PLA        59  02     YL3ARZ        59  25       
+QSO:  3770 PH 2025-08-02 2009 2E0PLA        59  02     SO7E          59  16       
+QSO:  3757 PH 2025-08-02 2054 2E0PLA        59  02     IZ2FOS        59  03       
+QSO:  3716 PH 2025-08-02 2058 2E0PLA        59  02     DK2WH         59  68       
+QSO:  3677 PH 2025-08-02 2100 2E0PLA        59  02     G6MC          59  01       
+QSO:  3677 PH 2025-08-02 2101 2E0PLA        59  02     IN3CNE        59  93       
+QSO:  3723 PH 2025-08-02 2103 2E0PLA        59  02     S56B          59  87       
+QSO:  3725 PH 2025-08-02 2103 2E0PLA        59  02     M7ANM         59  23       
+QSO:  3734 PH 2025-08-02 2105 2E0PLA        59  02     SP8R          59  09       
+QSO:  3754 PH 2025-08-02 2106 2E0PLA        59  02     SN8Z          59  02       
+QSO:  3768 PH 2025-08-02 2107 2E0PLA        59  02     EW6W          59  11       
+QSO:  3773 PH 2025-08-02 2108 2E0PLA        59  02     LY4A          59  84       
+QSO:  3780 PH 2025-08-02 2109 2E0PLA        59  02     9A3B          59  77       
+QSO:  3785 PH 2025-08-02 2111 2E0PLA        59  02     DL6MRM        59  85       
+QSO:  3788 PH 2025-08-02 2113 2E0PLA        59  02     OT1X          59  23       
+QSO:  3762 PH 2025-08-02 2120 2E0PLA        59  02     PA0KDV        59  75       
+QSO:  3762 PH 2025-08-02 2123 2E0PLA        59  02     DL4MAG        59  25       
+QSO:  3704 PH 2025-08-02 2128 2E0PLA        59  02     UA3BL         59  71       
+QSO:  3736 PH 2025-08-02 2129 2E0PLA        59  02     EW4A          59  82       
+QSO:  3766 PH 2025-08-02 2140 2E0PLA        59  02     OZ4NA         59  72       
+QSO:  3766 PH 2025-08-02 2141 2E0PLA        59  02     RA3OA         59  82       
+QSO:  3766 PH 2025-08-02 2144 2E0PLA        59  02     SP1DSZ        59  78       
+QSO:  3766 PH 2025-08-02 2144 2E0PLA        59  02     OH5RW         59  13       
+QSO:  3766 PH 2025-08-02 2145 2E0PLA        59  02     DP7A          59  01       
+QSO:  3766 PH 2025-08-02 2146 2E0PLA        59  02     DZ2BO         59  18       
+QSO:  3766 PH 2025-08-02 2150 2E0PLA        59  02     R2AA          59  83       
+QSO:  3766 PH 2025-08-02 2151 2E0PLA        59  02     M1FDS         59  92       
+QSO:  3766 PH 2025-08-02 2151 2E0PLA        59  02     SP6KD         59  25       
+QSO:  3766 PH 2025-08-02 2154 2E0PLA        59  02     RE1F          59  91       
+QSO:  3766 PH 2025-08-02 2154 2E0PLA        59  02     E7DX          59  88       
+QSO:  3766 PH 2025-08-02 2157 2E0PLA        59  02     EC1A          59  93       
+QSO:  3766 PH 2025-08-02 2201 2E0PLA        59  02     PE1T          59  94       
+QSO:  3766 PH 2025-08-02 2201 2E0PLA        59  02     OZ3ACB        59  88       
+QSO:  3766 PH 2025-08-02 2202 2E0PLA        59  02     OZ2CVT        59  07       
+QSO:  3766 PH 2025-08-02 2204 2E0PLA        59  02     SK6AW         59  12       
+QSO:  3766 PH 2025-08-02 2208 2E0PLA        59  02     DD8SM         59  12       
+QSO:  3766 PH 2025-08-02 2208 2E0PLA        59  02     SE5N          59  75       
+QSO:  3766 PH 2025-08-02 2208 2E0PLA        59  02     SP4SHD        59  77       
+QSO:  3766 PH 2025-08-02 2209 2E0PLA        59  02     F4EQN         59  05       
+QSO:  3766 PH 2025-08-02 2209 2E0PLA        59  02     OZ/K3ZJ       59  65       
+QSO:  3768 PH 2025-08-02 2212 2E0PLA        59  02     RM4F          59  82       
+QSO:  3724 PH 2025-08-02 2218 2E0PLA        59  02     G3R           59  81       
+QSO:  3724 PH 2025-08-02 2219 2E0PLA        59  02     G1FVA         59  84       
+QSO:  3748 PH 2025-08-02 2222 2E0PLA        59  02     SN7T          59  09       
+QSO:  3757 PH 2025-08-02 2223 2E0PLA        59  02     OK1DOL        59  77       
+QSO:  3770 PH 2025-08-02 2224 2E0PLA        59  02     LB6VI         59  19       
+QSO:  3782 PH 2025-08-02 2228 2E0PLA        59  02     F5AAR         59  95       
+QSO:  3721 PH 2025-08-02 2235 2E0PLA        59  02     OE3LZA        59  13       
+QSO:  3726 PH 2025-08-02 2247 2E0PLA        59  02     HA3NU         59  72       
+QSO:  3742 PH 2025-08-02 2250 2E0PLA        59  02     UW5Y          59  88       
+QSO:  3746 PH 2025-08-02 2252 2E0PLA        59  02     ON4AEO        59  89       
+QSO:  3774 PH 2025-08-02 2256 2E0PLA        59  02     DG0OKW        59  85
 END-OF-LOG:

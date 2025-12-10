@@ -95,16 +95,15 @@ def discover_contests(limit: int | None) -> List[Contest]:
 
 
 def parse_contest_name(html_text: str, cid: int) -> str:
-    m = re.search(r"<title[^>]*>([^<]+)</title>", html_text, flags=re.IGNORECASE)
-    if m:
-        title = clean(m.group(1))
-        if title:
-            return title
-    m = re.search(r"<h[12][^>]*>([^<]+)</h[12]>", html_text, flags=re.IGNORECASE)
-    if m:
-        heading = clean(m.group(1))
-        if heading:
-            return heading
+    candidates: List[str] = []
+    for pat in [r"<title[^>]*>([^<]+)</title>", r"<h[1-4][^>]*>([^<]+)</h[1-4]>"]:
+        for m in re.finditer(pat, html_text, flags=re.IGNORECASE):
+            text = clean(m.group(1))
+            if text:
+                candidates.append(text)
+    if candidates:
+        longest = max(candidates, key=len)
+        return longest
     return f"Contest_{cid}"
 
 
@@ -275,6 +274,8 @@ def derive_contest_dir(contest: Contest, qsos: Sequence[Tuple[int, str, str, str
         "januar": "January",
         "februar": "February",
         "marec": "March",
+        "marcev": "March",
+        "marčev": "March",
         "april": "April",
         "maj": "May",
         "junij": "June",
@@ -290,9 +291,13 @@ def derive_contest_dir(contest: Contest, qsos: Sequence[Tuple[int, str, str, str
         "julijsko": "July",
     }
     name_lower = contest.name.lower()
+    # strip boilerplate words
+    for drop in ["official results", "unofficial results", "vhfmanager", "official", "unofficial", "results", " - "]:
+        name_lower = name_lower.replace(drop, " ")
+    base_name = " ".join(name_lower.split())
     month = None
     for key, eng in month_map.items():
-        if key in name_lower:
+        if key in base_name:
             month = eng
             break
     year = None
@@ -304,9 +309,14 @@ def derive_contest_dir(contest: Contest, qsos: Sequence[Tuple[int, str, str, str
         m = re.search(r"(20\\d{2}|19\\d{2})", contest.name)
         if m:
             year = m.group(1)
+    # Maraton special case: group by year
+    if "maraton" in base_name:
+        if not year:
+            year = "unknown"
+        return f"ZRS_Maraton_{year}"
     if month and year:
         return f"ZRS_{month}_{year}"
-    return f"{slugify(contest.name)}_{contest.cid}"
+    return f"{slugify(base_name) or 'contest'}_{contest.cid}"
 
 
 def band_label_from_qsos(qsos: Sequence[Tuple[int, str, str, str, str, str, str, str, int]]) -> str:

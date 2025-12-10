@@ -1,22 +1,144 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: ON3UN
-CATEGORY: CW/SSB - Low Power
-QSO: 14013 CW  2023-08-05 1230 ON3UN         599 16     I6FDJ         599 15    
-QSO: 14035 CW  2023-08-05 1257 ON3UN         599 16     SP1D          599 96    
-QSO: 14016 CW  2023-08-05 1721 ON3UN         599 16     RM5F          599 97    
-QSO: 14017 CW  2023-08-05 1722 ON3UN         599 16     EU1DC         599 90    
-QSO: 14008 CW  2023-08-05 1219 ON3UN         599 16     EU1A          599 15    
-QSO: 14014 CW  2023-08-05 1232 ON3UN         599 16     9A3SMS        599 19    
-QSO: 14022 CW  2023-08-05 1237 ON3UN         599 16     EA1X          599 14    
-QSO: 14026 CW  2023-08-05 1245 ON3UN         599 16     UR7MZ         599 70    
-QSO: 14027 CW  2023-08-05 1245 ON3UN         599 16     UV1IX         599 12    
-QSO: 14030 CW  2023-08-05 1250 ON3UN         599 16     RC1W          599 71    
-QSO: 14044 CW  2023-08-05 1313 ON3UN         599 16     LZ2VP         599 11    
-QSO: 14299 PH  2023-08-05 1411 ON3UN         59  16     LY2GN         59  18    
-QSO: 14299 PH  2023-08-05 1420 ON3UN         59  16     S57PKT        59  97    
-QSO: 14288 PH  2023-08-05 1546 ON3UN         59  16     SN1F          59  77    
-QSO: 21016 CW  2023-08-05 1604 ON3UN         599 16     UA6LCN        599 81    
-QSO: 21213 PH  2023-08-05 1620 ON3UN         59  16     LY1KW         59  22    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: MIXED
+CLAIMED-SCORE: 8064
+NAME: Dirk
+ADDRESS: Spoorwegstraat 56
+ADDRESS-CITY: Turnhout
+ADDRESS-POSTALCODE: 2300
+ADDRESS-COUNTRY: BELGIUM
+OPERATORS: ON3UN
+EMAIL: d.martens@scarlet.be
+CLUB: NOK
+CREATED-BY: N1MM Logger+ 1.0.9937.0
+QSO: 14052 CW 2023-08-05 1216 ON3UN         599 16     IU8RQW        599 88       
+QSO: 14008 CW 2023-08-05 1219 ON3UN         599 16     EU1A          599 15       
+QSO: 14011 CW 2023-08-05 1224 ON3UN         599 16     LZ3ZZ         599 91       
+QSO: 14012 CW 2023-08-05 1225 ON3UN         599 16     S53F          599 83       
+QSO: 14013 CW 2023-08-05 1228 ON3UN         599 16     IZ8XXE        599 11       
+QSO: 14013 CW 2023-08-05 1230 ON3UN         599 16     I6FDJ         599 15       
+QSO: 14014 CW 2023-08-05 1232 ON3UN         599 16     9A3SMS        599 19       
+QSO: 14014 CW 2023-08-05 1233 ON3UN         599 16     S53X          599 79       
+QSO: 14015 CW 2023-08-05 1234 ON3UN         599 16     US2YW         599 88       
+QSO: 14019 CW 2023-08-05 1236 ON3UN         599 16     YR9F          599 88       
+QSO: 14022 CW 2023-08-05 1237 ON3UN         599 16     EA1X          599 14       
+QSO: 14023 CW 2023-08-05 1239 ON3UN         599 16     LY5W          599 81       
+QSO: 14023 CW 2023-08-05 1240 ON3UN         599 16     OL5W          599 95       
+QSO: 14024 CW 2023-08-05 1242 ON3UN         599 16     EU1AI         599 77       
+QSO: 14024 CW 2023-08-05 1242 ON3UN         599 16     OK2EA         599 75       
+QSO: 14025 CW 2023-08-05 1243 ON3UN         599 16     S58M          599 82       
+QSO: 14026 CW 2023-08-05 1245 ON3UN         599 16     UR7MZ         599 70       
+QSO: 14027 CW 2023-08-05 1245 ON3UN         599 16     UV1IX         599 12       
+QSO: 14028 CW 2023-08-05 1247 ON3UN         599 16     9A7V          599 76       
+QSO: 14029 CW 2023-08-05 1249 ON3UN         599 16     UY5ZZ         599 67       
+QSO: 14030 CW 2023-08-05 1250 ON3UN         599 16     RC1W          599 71       
+QSO: 14031 CW 2023-08-05 1255 ON3UN         599 16     E74A          599 77       
+QSO: 14033 CW 2023-08-05 1256 ON3UN         599 16     OM7M          599 19       
+QSO: 14035 CW 2023-08-05 1257 ON3UN         599 16     SP1D          599 96       
+QSO: 14036 CW 2023-08-05 1258 ON3UN         599 16     E72CW         599 82       
+QSO: 14037 CW 2023-08-05 1301 ON3UN         599 16     SM6TOL        599 90       
+QSO: 14038 CW 2023-08-05 1305 ON3UN         599 16     IK2ULV        599 85       
+QSO: 14039 CW 2023-08-05 1307 ON3UN         599 16     SP2MKI        599 81       
+QSO: 14040 CW 2023-08-05 1307 ON3UN         599 16     OM6TU         599 88       
+QSO: 14041 CW 2023-08-05 1309 ON3UN         599 16     YQ6A          599 74       
+QSO: 14043 CW 2023-08-05 1310 ON3UN         599 16     RM2U          599 79       
+QSO: 14044 CW 2023-08-05 1313 ON3UN         599 16     LZ2VP         599 11       
+QSO: 14046 CW 2023-08-05 1313 ON3UN         599 16     SP9GFI        599 73       
+QSO: 14049 CW 2023-08-05 1314 ON3UN         599 16     UC7A          599 83       
+QSO: 14050 CW 2023-08-05 1315 ON3UN         599 16     LY2DX         599 83       
+QSO: 14268 PH 2023-08-05 1352 ON3UN         59  16     DL3AN         59  89       
+QSO: 14299 PH 2023-08-05 1357 ON3UN         59  16     IZ1RSS        59  03       
+QSO: 14299 PH 2023-08-05 1357 ON3UN         59  16     OK1BR         59  97       
+QSO: 14299 PH 2023-08-05 1400 ON3UN         59  16     OE5LJM        59  80       
+QSO: 14299 PH 2023-08-05 1401 ON3UN         59  16     HB9HDK        59  16       
+QSO: 14299 PH 2023-08-05 1403 ON3UN         59  16     I2OLV         59  71       
+QSO: 14299 PH 2023-08-05 1403 ON3UN         59  16     SP6MI         59  16       
+QSO: 14299 PH 2023-08-05 1403 ON3UN         59  16     DL1HWX        59  97       
+QSO: 14299 PH 2023-08-05 1404 ON3UN         59  16     IU2EUG        59  23       
+QSO: 14299 PH 2023-08-05 1405 ON3UN         59  16     OZ3ACB        59  89       
+QSO: 14299 PH 2023-08-05 1407 ON3UN         59  16     HB9BTI        59  78       
+QSO: 14299 PH 2023-08-05 1410 ON3UN         59  16     LZ3ZZ         59  91       
+QSO: 14299 PH 2023-08-05 1411 ON3UN         59  16     LY4A          59  84       
+QSO: 14299 PH 2023-08-05 1411 ON3UN         59  16     LY2GN         59  18       
+QSO: 14299 PH 2023-08-05 1412 ON3UN         59  16     DG3NDH        59  88       
+QSO: 14299 PH 2023-08-05 1413 ON3UN         59  16     IT9GHW        59  16       
+QSO: 14299 PH 2023-08-05 1414 ON3UN         59  16     OE5FAV        59  23       
+QSO: 14299 PH 2023-08-05 1415 ON3UN         59  16     IU4QSH        59  22       
+QSO: 14299 PH 2023-08-05 1415 ON3UN         59  16     9A1AAY        59  22       
+QSO: 14299 PH 2023-08-05 1417 ON3UN         59  16     EW7B          59  15       
+QSO: 14299 PH 2023-08-05 1418 ON3UN         59  16     SP5GRA        59  23       
+QSO: 14299 PH 2023-08-05 1419 ON3UN         59  16     OE2AYM        59  82       
+QSO: 14299 PH 2023-08-05 1419 ON3UN         59  16     9A1CCY        59  23       
+QSO: 14299 PH 2023-08-05 1420 ON3UN         59  16     S57PKT        59  97       
+QSO: 14299 PH 2023-08-05 1420 ON3UN         59  16     SP8DR         59  16       
+QSO: 14288 PH 2023-08-05 1529 ON3UN         59  16     YO7SR         59  06       
+QSO: 14288 PH 2023-08-05 1532 ON3UN         59  16     DM4EZ         59  77       
+QSO: 14288 PH 2023-08-05 1532 ON3UN         59  16     S52WW         59  00       
+QSO: 14288 PH 2023-08-05 1534 ON3UN         59  16     HA0IK         59  22       
+QSO: 14288 PH 2023-08-05 1535 ON3UN         59  16     EA7ATX        59  95       
+QSO: 14288 PH 2023-08-05 1535 ON3UN         59  16     RL4A          59  81       
+QSO: 14288 PH 2023-08-05 1536 ON3UN         59  16     SP3PDO        59  90       
+QSO: 14288 PH 2023-08-05 1539 ON3UN         59  16     9A2VQ         59  63       
+QSO: 14288 PH 2023-08-05 1541 ON3UN         59  16     HG6V          59  99       
+QSO: 14288 PH 2023-08-05 1546 ON3UN         59  16     SN1F          59  77       
+QSO: 14288 PH 2023-08-05 1547 ON3UN         59  16     SP3QFZ        59  93       
+QSO: 14288 PH 2023-08-05 1547 ON3UN         59  16     DD0VE         59  93       
+QSO: 14288 PH 2023-08-05 1548 ON3UN         59  16     ON3BFF        59  18       
+QSO: 14288 PH 2023-08-05 1549 ON3UN         59  16     LY2TS         59  75       
+QSO: 21023 CW 2023-08-05 1554 ON3UN         599 16     YP8T          599 18       
+QSO: 21010 CW 2023-08-05 1555 ON3UN         599 16     US2YW         599 88       
+QSO: 21026 CW 2023-08-05 1556 ON3UN         599 16     SN5N          599 69       
+QSO: 21018 CW 2023-08-05 1558 ON3UN         599 16     OP4K          599 82       
+QSO: 21027 CW 2023-08-05 1600 ON3UN         599 16     YL2VW         599 91       
+QSO: 21016 CW 2023-08-05 1604 ON3UN         599 16     UA6LCN        599 81       
+QSO: 21025 CW 2023-08-05 1605 ON3UN         599 16     SN7Q          599 72       
+QSO: 21025 CW 2023-08-05 1606 ON3UN         599 16     YT9AE         599 81       
+QSO: 21014 CW 2023-08-05 1609 ON3UN         599 16     LY7R          599 82       
+QSO: 21226 PH 2023-08-05 1612 ON3UN         59  16     EW4M          59  80       
+QSO: 21213 PH 2023-08-05 1615 ON3UN         59  16     LY2TS         59  75       
+QSO: 21213 PH 2023-08-05 1618 ON3UN         59  16     LY3CY         59  74       
+QSO: 21213 PH 2023-08-05 1620 ON3UN         59  16     LY1KW         59  22       
+QSO:  7179 PH 2023-08-05 1638 ON3UN         59  16     DL1MHJ        59  84       
+QSO:  7175 PH 2023-08-05 1638 ON3UN         59  16     SN7T          59  09       
+QSO:  7158 PH 2023-08-05 1640 ON3UN         59  16     S56Y          59  95       
+QSO:  7150 PH 2023-08-05 1642 ON3UN         59  16     F4AIF         59  97       
+QSO:  7142 PH 2023-08-05 1643 ON3UN         59  16     DM5B          59  93       
+QSO:  7139 PH 2023-08-05 1644 ON3UN         59  16     S51A          59  00       
+QSO:  7083 PH 2023-08-05 1648 ON3UN         59  16     HB9UQX        59  96       
+QSO:  7199 PH 2023-08-05 1652 ON3UN         59  16     SN7D          59  94       
+QSO:  7189 PH 2023-08-05 1654 ON3UN         59  16     YT2SIN        59  20       
+QSO:  7186 PH 2023-08-05 1655 ON3UN         59  16     S52WW         59  00       
+QSO:  7183 PH 2023-08-05 1656 ON3UN         59  16     SO7E          59  16       
+QSO:  7166 PH 2023-08-05 1658 ON3UN         59  16     ES7GR         59  13       
+QSO:  7163 PH 2023-08-05 1659 ON3UN         59  16     OM/LY5CA      59  94       
+QSO: 14038 CW 2023-08-05 1711 ON3UN         599 16     DD2CW         599 90       
+QSO: 14006 CW 2023-08-05 1713 ON3UN         599 16     RW4WA         599 78       
+QSO: 14006 CW 2023-08-05 1714 ON3UN         599 16     UT5UGR        599 85       
+QSO: 14008 CW 2023-08-05 1715 ON3UN         599 16     YT9X          599 97       
+QSO: 14012 CW 2023-08-05 1718 ON3UN         599 16     SP2FAP        599 73       
+QSO: 14014 CW 2023-08-05 1719 ON3UN         599 16     R2AA          599 83       
+QSO: 14015 CW 2023-08-05 1720 ON3UN         599 16     UA4FER        599 75       
+QSO: 14016 CW 2023-08-05 1721 ON3UN         599 16     RM5F          599 97       
+QSO: 14017 CW 2023-08-05 1722 ON3UN         599 16     EU1DC         599 90       
+QSO: 14019 CW 2023-08-05 1723 ON3UN         599 16     OY1CT         599 78       
+QSO: 14020 CW 2023-08-05 1727 ON3UN         599 16     SM/DC3CC      599 92       
+QSO: 14021 CW 2023-08-05 1730 ON3UN         599 16     LZ4A          599 73       
+QSO: 14022 CW 2023-08-05 1730 ON3UN         599 16     RC6U          599 89       
+QSO: 14024 CW 2023-08-05 1731 ON3UN         599 16     YP8T          599 18       
+QSO: 14027 CW 2023-08-05 1732 ON3UN         599 16     E7DX          599 88       
+QSO: 14028 CW 2023-08-05 1733 ON3UN         599 16     OH1F          599 88       
+QSO: 14028 CW 2023-08-05 1734 ON3UN         599 16     YL5W          599 67       
+QSO: 14029 CW 2023-08-05 1734 ON3UN         599 16     EU2F          599 76       
+QSO: 14031 CW 2023-08-05 1735 ON3UN         599 16     EA7Q          599 92       
+QSO: 14032 CW 2023-08-05 1737 ON3UN         599 16     OH2PM         599 59       
+QSO: 14034 CW 2023-08-05 1738 ON3UN         599 16     RA2F          599 81       
+QSO: 14035 CW 2023-08-05 1740 ON3UN         599 16     9A1AA         599 77       
+QSO: 14056 CW 2023-08-05 1741 ON3UN         599 16     RN6L          599 84       
+QSO: 14204 PH 2023-08-05 1744 ON3UN         59  16     CR6K          59  02       
+QSO: 14228 PH 2023-08-05 1745 ON3UN         59  16     EA7GX         59  10       
+QSO: 14258 PH 2023-08-05 1749 ON3UN         59  16     LZ4DJ         59  83
 END-OF-LOG:

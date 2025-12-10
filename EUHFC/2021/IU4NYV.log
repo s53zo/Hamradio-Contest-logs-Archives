@@ -1,49 +1,165 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: IU4NYV
-CATEGORY: SSB - Low Power
-QSO: 14251 PH  2021-08-07 1218 IU4NYV        59  93     EA4KD         59  84    
-QSO: 14251 PH  2021-08-07 1225 IU4NYV        59  93     LY7M          59  71    
-QSO: 14150 PH  2021-08-07 1305 IU4NYV        59  93     F5AAR         59  95    
-QSO:  3699 PH  2021-08-07 2147 IU4NYV        59  93     E73PS         59  59    
-QSO:  7142 PH  2021-08-07 2237 IU4NYV        59  93     IT9RBW        59  03    
-QSO: 14210 PH  2021-08-07 1201 IU4NYV        59  93     EO50FF        59  59    
-QSO: 14243 PH  2021-08-07 1211 IU4NYV        59  93     UW4E          59  94    
-QSO: 14251 PH  2021-08-07 1215 IU4NYV        59  93     DL8LSK        59  59    
-QSO: 14261 PH  2021-08-07 1229 IU4NYV        59  93     UY1IP         59  02    
-QSO: 14295 PH  2021-08-07 1235 IU4NYV        59  93     J42L          59  59    
-QSO: 14201 PH  2021-08-07 1245 IU4NYV        59  93     SP7IFM        59  82    
-QSO: 14160 PH  2021-08-07 1307 IU4NYV        59  93     ES6RW         59  59    
-QSO: 14194 PH  2021-08-07 1313 IU4NYV        59  93     YO7WC         59  06    
-QSO: 14203 PH  2021-08-07 1315 IU4NYV        59  93     RY6Y          59  84    
-QSO: 14233 PH  2021-08-07 1322 IU4NYV        59  93     SO7E          59  59    
-QSO: 14242 PH  2021-08-07 1324 IU4NYV        59  93     LZ5R          59  83    
-QSO: 14296 PH  2021-08-07 1332 IU4NYV        59  93     SV3SPC        59  59    
-QSO:  7184 PH  2021-08-07 1341 IU4NYV        59  93     HG6V          59  97    
-QSO: 14177 PH  2021-08-07 1401 IU4NYV        59  93     SP7MC         59  59    
-QSO: 14245 PH  2021-08-07 1411 IU4NYV        59  93     R6DCS         59  59    
-QSO: 28428 PH  2021-08-07 1435 IU4NYV        59  93     EW7B          59  59    
-QSO:  7147 PH  2021-08-07 1438 IU4NYV        59  93     YT8WW         59  59    
-QSO: 14212 PH  2021-08-07 1450 IU4NYV        59  93     R4GM          59  92    
-QSO: 14216 PH  2021-08-07 1451 IU4NYV        59  93     YR9F          59  90    
-QSO: 21220 PH  2021-08-07 1500 IU4NYV        59  93     UW4E          59  94    
-QSO: 21245 PH  2021-08-07 1518 IU4NYV        59  93     SP7MC         59  59    
-QSO:  7175 PH  2021-08-07 2111 IU4NYV        59  93     SP9GMI        59  73    
-QSO:  7156 PH  2021-08-07 2113 IU4NYV        59  93     PA1SVM        59  59    
-QSO:  7134 PH  2021-08-07 2116 IU4NYV        59  93     IU0OVB        59  59    
-QSO:  7108 PH  2021-08-07 2125 IU4NYV        59  93     J42L          59  59    
-QSO:  3776 PH  2021-08-07 2129 IU4NYV        59  93     UW4E          59  94    
-QSO:  7147 PH  2021-08-07 2200 IU4NYV        59  93     LZ5R          59  83    
-QSO:  7151 PH  2021-08-07 2201 IU4NYV        59  93     RY6Y          59  84    
-QSO:  7160 PH  2021-08-07 2202 IU4NYV        59  93     UW4E          59  94    
-QSO:  7176 PH  2021-08-07 2204 IU4NYV        59  93     OE6MMD        59  59    
-QSO:  3715 PH  2021-08-07 2220 IU4NYV        59  93     IK0NMJ        59  59    
-QSO:  3763 PH  2021-08-07 2228 IU4NYV        59  93     OK1LRD        59  99    
-QSO:  3783 PH  2021-08-07 2232 IU4NYV        59  93     S5030A        59  59    
-QSO:  7151 PH  2021-08-07 2235 IU4NYV        59  93     LY7B          59  59    
-QSO:  7120 PH  2021-08-07 2240 IU4NYV        59  93     E70AW         59  59    
-QSO:  1844 PH  2021-08-07 2242 IU4NYV        59  93     J42L          59  59    
-QSO:  3700 PH  2021-08-07 2248 IU4NYV        59  93     SO7E          59  59    
-QSO:  3779 PH  2021-08-07 2255 IU4NYV        59  93     IW1FRU        59  04    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 12180
+NAME: Ugo De Veredicis
+ADDRESS: via della Veneziana 3a
+ADDRESS: 40026 Imola BO
+ADDRESS: ITALY
+ADDRESS-CITY: 
+ADDRESS-POSTALCODE: 
+ADDRESS-COUNTRY: ITALY
+EMAIL: ugodeveredicis@hotmail.it
+CLUB: 
+CREATED-BY: QARTest 11.7.1
+SOAPBOX:EUROPEAN
+QSO: 14206 PH 2021-08-07 1200 IU4NYV        59  93     RA3OA         59  82    
+QSO: 14210 PH 2021-08-07 1201 IU4NYV        59  93     EO50FF        59  59    
+QSO: 14238 PH 2021-08-07 1209 IU4NYV        59  93     OH1TD         59  69    
+QSO: 14240 PH 2021-08-07 1210 IU4NYV        59  93     DJ4MH         59  97    
+QSO: 14243 PH 2021-08-07 1211 IU4NYV        59  93     UW4E          59  94    
+QSO: 14247 PH 2021-08-07 1213 IU4NYV        59  93     RC5FZ         59  59    
+QSO: 14251 PH 2021-08-07 1215 IU4NYV        59  93     DL8LSK        59  59    
+QSO: 14251 PH 2021-08-07 1216 IU4NYV        59  93     LY5AX         59  17    
+QSO: 14251 PH 2021-08-07 1218 IU4NYV        59  93     EA4KD         59  84    
+QSO: 14251 PH 2021-08-07 1220 IU4NYV        59  93     IT9VCE        59  81    
+QSO: 14251 PH 2021-08-07 1225 IU4NYV        59  93     LY7M          59  71    
+QSO: 14261 PH 2021-08-07 1229 IU4NYV        59  93     UY1IP         59  02    
+QSO: 14273 PH 2021-08-07 1230 IU4NYV        59  93     LY4A          59  84    
+QSO: 14279 PH 2021-08-07 1231 IU4NYV        59  93     LY3S          59  82    
+QSO: 14282 PH 2021-08-07 1232 IU4NYV        59  93     OS6OC         59  59    
+QSO: 14287 PH 2021-08-07 1233 IU4NYV        59  93     EW1I          59  90    
+QSO: 14292 PH 2021-08-07 1234 IU4NYV        59  93     UR2Y          59  82    
+QSO: 14295 PH 2021-08-07 1235 IU4NYV        59  93     J42L          59  59    
+QSO: 14300 PH 2021-08-07 1237 IU4NYV        59  93     SN2B          59  94    
+QSO: 14235 PH 2021-08-07 1241 IU4NYV        59  93     G6MC          59  00    
+QSO: 14213 PH 2021-08-07 1244 IU4NYV        59  93     RW1F          59  91    
+QSO: 14201 PH 2021-08-07 1245 IU4NYV        59  93     SP7IFM        59  82    
+QSO: 14184 PH 2021-08-07 1246 IU4NYV        59  93     YP0C          59  78    
+QSO: 14177 PH 2021-08-07 1255 IU4NYV        59  93     YO7SR         59  06    
+QSO: 14167 PH 2021-08-07 1256 IU4NYV        59  93     SV3RPQ        59  15    
+QSO: 21220 PH 2021-08-07 1300 IU4NYV        59  93     EA4AOC        59  95    
+QSO: 21214 PH 2021-08-07 1300 IU4NYV        59  93     RA6CA         59  84    
+QSO: 14150 PH 2021-08-07 1305 IU4NYV        59  93     F5AAR         59  95    
+QSO: 14160 PH 2021-08-07 1307 IU4NYV        59  93     ES6RW         59  59    
+QSO: 14172 PH 2021-08-07 1308 IU4NYV        59  93     IT9OPR        59  84    
+QSO: 14180 PH 2021-08-07 1311 IU4NYV        59  93     UR5WCQ        59  80    
+QSO: 14194 PH 2021-08-07 1313 IU4NYV        59  93     YO7WC         59  06    
+QSO: 14203 PH 2021-08-07 1315 IU4NYV        59  93     RY6Y          59  84    
+QSO: 14206 PH 2021-08-07 1316 IU4NYV        59  93     LZ3ZZ         59  91    
+QSO: 14208 PH 2021-08-07 1317 IU4NYV        59  93     DJ5CT         59  18    
+QSO: 14209 PH 2021-08-07 1319 IU4NYV        59  93     RC5Z          59  91    
+QSO: 14223 PH 2021-08-07 1320 IU4NYV        59  93     US2YW         59  88    
+QSO: 14233 PH 2021-08-07 1322 IU4NYV        59  93     SO7E          59  59    
+QSO: 14242 PH 2021-08-07 1324 IU4NYV        59  93     LZ5R          59  83    
+QSO: 14252 PH 2021-08-07 1325 IU4NYV        59  93     IT9FRX        59  15    
+QSO: 14296 PH 2021-08-07 1332 IU4NYV        59  93     SV3SPC        59  59    
+QSO: 21245 PH 2021-08-07 1334 IU4NYV        59  93     LY4A          59  84    
+QSO: 21237 PH 2021-08-07 1335 IU4NYV        59  93     EA4KD         59  84    
+QSO: 21215 PH 2021-08-07 1336 IU4NYV        59  93     RA3OA         59  82    
+QSO: 21204 PH 2021-08-07 1337 IU4NYV        59  93     UY5ZZ         59  67    
+QSO:  7184 PH 2021-08-07 1341 IU4NYV        59  93     HG6V          59  97    
+QSO: 14155 PH 2021-08-07 1358 IU4NYV        59  93     RA7A          59  72    
+QSO: 14177 PH 2021-08-07 1401 IU4NYV        59  93     SP7MC         59  59    
+QSO: 14200 PH 2021-08-07 1405 IU4NYV        59  93     EU1A          59  95    
+QSO: 14210 PH 2021-08-07 1406 IU4NYV        59  93     SV9FBG        59  00    
+QSO: 14243 PH 2021-08-07 1409 IU4NYV        59  93     US7IY         59  79    
+QSO: 14245 PH 2021-08-07 1411 IU4NYV        59  93     R6DCS         59  59    
+QSO: 14246 PH 2021-08-07 1412 IU4NYV        59  93     SR9B          59  59    
+QSO: 14277 PH 2021-08-07 1418 IU4NYV        59  93     RM4HZ         59  69    
+QSO: 14282 PH 2021-08-07 1419 IU4NYV        59  93     RM3DA         59  91    
+QSO: 14303 PH 2021-08-07 1421 IU4NYV        59  93     EA1OT         59  89    
+QSO: 21205 PH 2021-08-07 1423 IU4NYV        59  93     RC5Z          59  91    
+QSO: 21220 PH 2021-08-07 1427 IU4NYV        59  93     RM4HZ         59  69    
+QSO: 21221 PH 2021-08-07 1431 IU4NYV        59  93     LY3S          59  82    
+QSO: 28490 PH 2021-08-07 1433 IU4NYV        59  93     LY4A          59  84    
+QSO: 28506 PH 2021-08-07 1434 IU4NYV        59  93     RM3DA         59  91    
+QSO: 28428 PH 2021-08-07 1435 IU4NYV        59  93     EW7B          59  59    
+QSO:  7151 PH 2021-08-07 1437 IU4NYV        59  93     DM5B          59  93    
+QSO:  7147 PH 2021-08-07 1438 IU4NYV        59  93     YT8WW         59  59    
+QSO: 14166 PH 2021-08-07 1443 IU4NYV        59  93     EA3CY         59  59    
+QSO: 14176 PH 2021-08-07 1445 IU4NYV        59  93     ES5TV         59  92    
+QSO: 14183 PH 2021-08-07 1446 IU4NYV        59  93     LY5E          59  81    
+QSO: 14210 PH 2021-08-07 1449 IU4NYV        59  93     OR1Z          59  04    
+QSO: 14212 PH 2021-08-07 1450 IU4NYV        59  93     R4GM          59  92    
+QSO: 14216 PH 2021-08-07 1451 IU4NYV        59  93     YR9F          59  90    
+QSO: 14262 PH 2021-08-07 1456 IU4NYV        59  93     8S0C          59  81    
+QSO: 21220 PH 2021-08-07 1500 IU4NYV        59  93     UW4E          59  94    
+QSO:  7175 PH 2021-08-07 1506 IU4NYV        59  93     UT3SO         59  81    
+QSO:  7188 PH 2021-08-07 1508 IU4NYV        59  93     DL2LBK        59  75    
+QSO: 14218 PH 2021-08-07 1513 IU4NYV        59  93     UY5ZZ         59  67    
+QSO: 14210 PH 2021-08-07 1513 IU4NYV        59  93     LY2XW         59  02    
+QSO: 14155 PH 2021-08-07 1517 IU4NYV        59  93     LY4T          59  77    
+QSO: 21245 PH 2021-08-07 1518 IU4NYV        59  93     SP7MC         59  59    
+QSO: 21299 PH 2021-08-07 1519 IU4NYV        59  93     EU1A          59  95    
+QSO: 28474 PH 2021-08-07 1520 IU4NYV        59  93     LY4OO         59  87    
+QSO:  7196 PH 2021-08-07 2110 IU4NYV        59  93     LY4A          59  84    
+QSO:  7175 PH 2021-08-07 2111 IU4NYV        59  93     SP9GMI        59  73    
+QSO:  7156 PH 2021-08-07 2113 IU4NYV        59  93     PA1SVM        59  59    
+QSO:  7151 PH 2021-08-07 2114 IU4NYV        59  93     RM3DA         59  91    
+QSO:  7134 PH 2021-08-07 2116 IU4NYV        59  93     IU0OVB        59  59    
+QSO:  7130 PH 2021-08-07 2117 IU4NYV        59  93     RW1F          59  91    
+QSO:  7116 PH 2021-08-07 2123 IU4NYV        59  93     EU1A          59  95    
+QSO:  7108 PH 2021-08-07 2125 IU4NYV        59  93     J42L          59  59    
+QSO:  7105 PH 2021-08-07 2126 IU4NYV        59  93     UY5ZZ         59  67    
+QSO:  7102 PH 2021-08-07 2126 IU4NYV        59  93     YP0C          59  78    
+QSO:  7088 PH 2021-08-07 2128 IU4NYV        59  93     ES5TV         59  92    
+QSO:  3776 PH 2021-08-07 2129 IU4NYV        59  93     UW4E          59  94    
+QSO:  3787 PH 2021-08-07 2130 IU4NYV        59  93     LY4A          59  84    
+QSO:  3790 PH 2021-08-07 2133 IU4NYV        59  93     LY5E          59  81    
+QSO:  3752 PH 2021-08-07 2134 IU4NYV        59  93     DJ5CT         59  18    
+QSO:  3744 PH 2021-08-07 2134 IU4NYV        59  93     IK8UND        59  93    
+QSO:  3740 PH 2021-08-07 2135 IU4NYV        59  93     IU5ICR        59  17    
+QSO:  3736 PH 2021-08-07 2136 IU4NYV        59  93     LY3S          59  82    
+QSO:  3722 PH 2021-08-07 2142 IU4NYV        59  93     S56Y          59  95    
+QSO:  3713 PH 2021-08-07 2143 IU4NYV        59  93     SN2B          59  94    
+QSO:  3710 PH 2021-08-07 2143 IU4NYV        59  93     S51CK         59  72    
+QSO:  3699 PH 2021-08-07 2147 IU4NYV        59  93     E73PS         59  59    
+QSO:  3694 PH 2021-08-07 2148 IU4NYV        59  93     S56B          59  87    
+QSO:  3687 PH 2021-08-07 2150 IU4NYV        59  93     HB9OAU        59  89    
+QSO:  1848 PH 2021-08-07 2152 IU4NYV        59  93     LY4A          59  84    
+QSO:  1850 PH 2021-08-07 2153 IU4NYV        59  93     IK2LFF        59  87    
+QSO:  1845 PH 2021-08-07 2154 IU4NYV        59  93     S58N          59  78    
+QSO:  7122 PH 2021-08-07 2157 IU4NYV        59  93     SE0X          59  81    
+QSO:  7139 PH 2021-08-07 2159 IU4NYV        59  93     RC5Z          59  91    
+QSO:  7147 PH 2021-08-07 2200 IU4NYV        59  93     LZ5R          59  83    
+QSO:  7151 PH 2021-08-07 2201 IU4NYV        59  93     RY6Y          59  84    
+QSO:  7160 PH 2021-08-07 2202 IU4NYV        59  93     UW4E          59  94    
+QSO:  7167 PH 2021-08-07 2203 IU4NYV        59  93     G6MC          59  00    
+QSO:  7176 PH 2021-08-07 2204 IU4NYV        59  93     OE6MMD        59  59    
+QSO:  1851 PH 2021-08-07 2209 IU4NYV        59  93     ES5TV         59  92    
+QSO:  3684 PH 2021-08-07 2212 IU4NYV        59  93     S58Y          59  87    
+QSO:  3701 PH 2021-08-07 2215 IU4NYV        59  93     S52WW         59  00    
+QSO:  3703 PH 2021-08-07 2216 IU4NYV        59  93     DD8SM         59  04    
+QSO:  3715 PH 2021-08-07 2220 IU4NYV        59  93     IK0NMJ        59  59    
+QSO:  3720 PH 2021-08-07 2221 IU4NYV        59  93     S56P          59  99    
+QSO:  3727 PH 2021-08-07 2222 IU4NYV        59  93     DK2WR         59  95    
+QSO:  3743 PH 2021-08-07 2224 IU4NYV        59  93     IZ2FOS        59  03    
+QSO:  3763 PH 2021-08-07 2228 IU4NYV        59  93     OK1LRD        59  99    
+QSO:  3766 PH 2021-08-07 2229 IU4NYV        59  93     YT8A          59  70    
+QSO:  3768 PH 2021-08-07 2230 IU4NYV        59  93     DL1MHJ        59  84    
+QSO:  3774 PH 2021-08-07 2231 IU4NYV        59  93     RA3OA         59  82    
+QSO:  3783 PH 2021-08-07 2232 IU4NYV        59  93     S5030A        59  59    
+QSO:  3791 PH 2021-08-07 2233 IU4NYV        59  93     YO7SR         59  06    
+QSO:  7167 PH 2021-08-07 2234 IU4NYV        59  93     EA3CI         59  94    
+QSO:  7151 PH 2021-08-07 2235 IU4NYV        59  93     LY7B          59  59    
+QSO:  7145 PH 2021-08-07 2236 IU4NYV        59  93     YT8A          59  70    
+QSO:  7142 PH 2021-08-07 2237 IU4NYV        59  93     IT9RBW        59  03    
+QSO:  7120 PH 2021-08-07 2240 IU4NYV        59  93     E70AW         59  59    
+QSO:  1844 PH 2021-08-07 2242 IU4NYV        59  93     J42L          59  59    
+QSO:  1846 PH 2021-08-07 2242 IU4NYV        59  93     IZ2FHS        59  59    
+QSO:  3675 PH 2021-08-07 2244 IU4NYV        59  93     IK2LFF        59  87    
+QSO:  3678 PH 2021-08-07 2245 IU4NYV        59  93     S57AL         59  83    
+QSO:  3685 PH 2021-08-07 2247 IU4NYV        59  93     US2YW         59  88    
+QSO:  3700 PH 2021-08-07 2248 IU4NYV        59  93     SO7E          59  59    
+QSO:  3706 PH 2021-08-07 2249 IU4NYV        59  93     DJ4MO         59  59    
+QSO:  3734 PH 2021-08-07 2251 IU4NYV        59  93     S53M          59  77    
+QSO:  3761 PH 2021-08-07 2253 IU4NYV        59  93     OK1KKI        59  94    
+QSO:  3779 PH 2021-08-07 2255 IU4NYV        59  93     IW1FRU        59  04    
+QSO:  3788 PH 2021-08-07 2256 IU4NYV        59  93     OP7MC         59  59    
+QSO:  7142 PH 2021-08-07 2257 IU4NYV        59  93     YT1A          59  64
 END-OF-LOG:

@@ -1,18 +1,111 @@
 START-OF-LOG: 3.0
-CREATED-BY: euhfc-ubn-downloader
-CONTEST: EUHFC
 CALLSIGN: ON2PSA
-CATEGORY: SSB - Low Power
-QSO: 14000 PH  2023-08-05 1229 ON2PSA        59  21     S51CK         59  72    
-QSO: 14000 PH  2023-08-05 1254 ON2PSA        59  21     SN9B          59  19    
-QSO: 14000 PH  2023-08-05 1825 ON2PSA        59  21     EA7GX         59  10    
-QSO:  7000 PH  2023-08-05 1923 ON2PSA        59  21     CR6K          59  02    
-QSO:  3500 PH  2023-08-05 2047 ON2PSA        59  21     SN9B          59  19    
-QSO:  3500 PH  2023-08-05 2107 ON2PSA        59  21     RZ3B          59  78    
-QSO:  7000 PH  2023-08-05 2148 ON2PSA        59  21     EA3HHF        59  10    
-QSO: 14000 PH  2023-08-05 1231 ON2PSA        59  21     EW6W          59  91    
-QSO:  7000 PH  2023-08-05 1929 ON2PSA        59  21     US2YW         59  98    
-QSO:  7000 PH  2023-08-05 2005 ON2PSA        59  21     LZ6E          59  69    
-QSO:  3500 PH  2023-08-05 2112 ON2PSA        59  21     EW6W          59  91    
-QSO:  7000 PH  2023-08-05 2139 ON2PSA        59  21     EW6W          59  91    
+CONTEST: EUHFC
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CLAIMED-SCORE: 3627
+NAME: Pedro Alves
+ADDRESS: Rue Alfred Haulotte 38
+ADDRESS-CITY: Limelette
+ADDRESS-POSTALCODE: 1342
+ADDRESS-COUNTRY: Belgium
+OPERATORS: ON2PSA
+EMAIL: alvespms@gmx.com
+CLUB: 
+CREATED-BY: tlf-1.4.1
+QSO: 14000 PH 2023-08-05 1204 ON2PSA        59  21     RX1F          59  91      
+QSO: 14000 PH 2023-08-05 1208 ON2PSA        59  21     SP3H          59  08      
+QSO: 14000 PH 2023-08-05 1209 ON2PSA        59  21     ES7GR         59  13      
+QSO: 14000 PH 2023-08-05 1213 ON2PSA        59  21     SO7E          59  16      
+QSO: 14000 PH 2023-08-05 1216 ON2PSA        59  21     OZ30EU        59  71      
+QSO: 14000 PH 2023-08-05 1222 ON2PSA        59  21     IU1MRH        59  19      
+QSO: 14000 PH 2023-08-05 1227 ON2PSA        59  21     SN7D          59  94      
+QSO: 14000 PH 2023-08-05 1229 ON2PSA        59  21     S51CK         59  72      
+QSO: 14000 PH 2023-08-05 1231 ON2PSA        59  21     EW6W          59  91      
+QSO: 14000 PH 2023-08-05 1241 ON2PSA        59  21     IU1NKS        59  20      
+QSO: 14000 PH 2023-08-05 1253 ON2PSA        59  21     OL68RAK       59  67      
+QSO: 14000 PH 2023-08-05 1254 ON2PSA        59  21     SN9B          59  19      
+QSO: 14000 PH 2023-08-05 1321 ON2PSA        59  21     YR9F          59  88      
+QSO: 14000 PH 2023-08-05 1324 ON2PSA        59  21     EA3CI         59  94      
+QSO: 14000 PH 2023-08-05 1325 ON2PSA        59  21     TK4TH         59  20      
+QSO: 14000 PH 2023-08-05 1327 ON2PSA        59  21     IZ2JQP        59  07      
+QSO: 14000 PH 2023-08-05 1330 ON2PSA        59  21     DL1MHJ        59  84      
+QSO: 14000 PH 2023-08-05 1333 ON2PSA        59  21     OK1MJA        59  95      
+QSO: 14000 PH 2023-08-05 1336 ON2PSA        59  21     DM5B          59  93      
+QSO: 14000 PH 2023-08-05 1341 ON2PSA        59  21     F5LIW         59  86      
+QSO: 14000 PH 2023-08-05 1342 ON2PSA        59  21     SN7T          59  09      
+QSO: 14000 PH 2023-08-05 1343 ON2PSA        59  21     S52WW         59  00      
+QSO: 14000 PH 2023-08-05 1344 ON2PSA        59  21     9A7V          59  76      
+QSO: 14000 PH 2023-08-05 1825 ON2PSA        59  21     EA7GX         59  10      
+QSO: 14000 PH 2023-08-05 1832 ON2PSA        59  21     E74A          59  77      
+QSO: 14000 PH 2023-08-05 1833 ON2PSA        59  21     YT0W          59  83      
+QSO:  7000 PH 2023-08-05 1919 ON2PSA        59  21     RC5Z          59  91      
+QSO:  7000 PH 2023-08-05 1920 ON2PSA        59  21     SP3H          59  08      
+QSO:  7000 PH 2023-08-05 1922 ON2PSA        59  21     EW1I          59  90      
+QSO:  7000 PH 2023-08-05 1923 ON2PSA        59  21     CR6K          59  02      
+QSO:  7000 PH 2023-08-05 1927 ON2PSA        59  21     EA3CI         59  94      
+QSO:  7000 PH 2023-08-05 1929 ON2PSA        59  21     US2YW         59  98      
+QSO:  7000 PH 2023-08-05 1931 ON2PSA        59  21     RC6U          59  89      
+QSO:  7000 PH 2023-08-05 1932 ON2PSA        59  21     SN2B          59  94      
+QSO:  7000 PH 2023-08-05 1933 ON2PSA        59  21     S58W          59  54      
+QSO:  7000 PH 2023-08-05 1934 ON2PSA        59  21     SP6DVP        59  69      
+QSO:  7000 PH 2023-08-05 1939 ON2PSA        59  21     EU1A          59  95      
+QSO:  7000 PH 2023-08-05 1945 ON2PSA        59  21     YP0C          59  78      
+QSO:  7000 PH 2023-08-05 1947 ON2PSA        59  21     RL4F          59  86      
+QSO:  7000 PH 2023-08-05 1952 ON2PSA        59  21     IT9RBW        59  03      
+QSO:  7000 PH 2023-08-05 1953 ON2PSA        59  21     SO0N          59  95      
+QSO:  7000 PH 2023-08-05 1957 ON2PSA        59  21     SQ9AW         59  23      
+QSO:  7000 PH 2023-08-05 1959 ON2PSA        59  21     9A1AAY        59  22      
+QSO:  7000 PH 2023-08-05 2004 ON2PSA        59  21     YL9T          59  89      
+QSO:  7000 PH 2023-08-05 2005 ON2PSA        59  21     LZ6E          59  69      
+QSO:  7000 PH 2023-08-05 2006 ON2PSA        59  21     SN9B          59  19      
+QSO:  7000 PH 2023-08-05 2007 ON2PSA        59  21     YT0W          59  83      
+QSO:  7000 PH 2023-08-05 2008 ON2PSA        59  21     S57AJ         59  95      
+QSO:  7000 PH 2023-08-05 2011 ON2PSA        59  21     EA7GX         59  10      
+QSO:  7000 PH 2023-08-05 2013 ON2PSA        59  21     SG0X          59  78      
+QSO:  7000 PH 2023-08-05 2014 ON2PSA        59  21     OM/LY5CA      59  94      
+QSO:  7000 PH 2023-08-05 2016 ON2PSA        59  21     9A6X          59  03      
+QSO:  3500 PH 2023-08-05 2030 ON2PSA        59  21     SP3H          59  08      
+QSO:  3500 PH 2023-08-05 2032 ON2PSA        59  21     SN7T          59  09      
+QSO:  3500 PH 2023-08-05 2033 ON2PSA        59  21     SN2B          59  94      
+QSO:  3500 PH 2023-08-05 2039 ON2PSA        59  21     E7DX          59  88      
+QSO:  3500 PH 2023-08-05 2042 ON2PSA        59  21     LY4A          59  84      
+QSO:  3500 PH 2023-08-05 2043 ON2PSA        59  21     PB6W          59  04      
+QSO:  3500 PH 2023-08-05 2044 ON2PSA        59  21     DM5B          59  93      
+QSO:  3500 PH 2023-08-05 2047 ON2PSA        59  21     SN9B          59  19      
+QSO: 14000 PH 2023-08-05 2050 ON2PSA        59  21     LZ1ZF         59  69      
+QSO:  7000 PH 2023-08-05 2052 ON2PSA        59  21     S52WW         59  00      
+QSO:  7000 PH 2023-08-05 2055 ON2PSA        59  21     S56Y          59  95      
+QSO:  7000 PH 2023-08-05 2059 ON2PSA        59  21     YT2SIN        59  20      
+QSO:  7000 PH 2023-08-05 2103 ON2PSA        59  21     ER1BF         59  97      
+QSO:  7000 PH 2023-08-05 2104 ON2PSA        59  21     SN7D          59  94      
+QSO:  7000 PH 2023-08-05 2105 ON2PSA        59  21     S51CK         59  72      
+QSO:  3500 PH 2023-08-05 2107 ON2PSA        59  21     RZ3B          59  78      
+QSO:  3500 PH 2023-08-05 2111 ON2PSA        59  21     OK1KKI        59  01      
+QSO:  3500 PH 2023-08-05 2112 ON2PSA        59  21     EW6W          59  91      
+QSO:  3500 PH 2023-08-05 2117 ON2PSA        59  21     RA3OA         59  82      
+QSO:  3500 PH 2023-08-05 2120 ON2PSA        59  21     IZ2FOS        59  03      
+QSO:  3500 PH 2023-08-05 2121 ON2PSA        59  21     DJ4MH         59  97      
+QSO:  3500 PH 2023-08-05 2123 ON2PSA        59  21     DL2LBK        59  75      
+QSO:  3500 PH 2023-08-05 2124 ON2PSA        59  21     OK1OA         59  64      
+QSO:  7000 PH 2023-08-05 2127 ON2PSA        59  21     HA2KMR        59  71      
+QSO:  7000 PH 2023-08-05 2128 ON2PSA        59  21     F5RGY         59  90      
+QSO:  7000 PH 2023-08-05 2133 ON2PSA        59  21     DF1MM         59  72      
+QSO:  7000 PH 2023-08-05 2134 ON2PSA        59  21     HA1A          59  71      
+QSO:  7000 PH 2023-08-05 2135 ON2PSA        59  21     OK1LEV        59  19      
+QSO:  7000 PH 2023-08-05 2139 ON2PSA        59  21     EW6W          59  91      
+QSO:  7000 PH 2023-08-05 2146 ON2PSA        59  21     DK2BO         59  18      
+QSO:  7000 PH 2023-08-05 2147 ON2PSA        59  21     EI2JGB        59  22      
+QSO:  7000 PH 2023-08-05 2148 ON2PSA        59  21     EA3HHF        59  10      
+QSO:  7000 PH 2023-08-05 2151 ON2PSA        59  21     S56W          59  95      
+QSO:  7000 PH 2023-08-05 2201 ON2PSA        59  21     IV3UHL        59  90      
+QSO:  7000 PH 2023-08-05 2202 ON2PSA        59  21     HG1G          59  72      
+QSO: 14000 PH 2023-08-05 2208 ON2PSA        59  21     F8ADY         59  93      
+QSO:  3500 PH 2023-08-05 2218 ON2PSA        59  21     LA2AB         59  76      
+QSO:  3500 PH 2023-08-05 2220 ON2PSA        59  21     OZ11A         59  89      
+QSO:  3500 PH 2023-08-05 2227 ON2PSA        59  21     UT5EL         59  83      
+QSO:  3500 PH 2023-08-05 2228 ON2PSA        59  21     DK3BK         59  09      
+QSO:  3500 PH 2023-08-05 2229 ON2PSA        59  21     DL1ABR        59  94
 END-OF-LOG:

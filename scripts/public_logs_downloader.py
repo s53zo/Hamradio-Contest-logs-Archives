@@ -490,16 +490,18 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
                     with PRINT_LOCK:
                         print(f"fail {link.url}: {exc}")
                     return
-                call, category = vhf.parse_log_header(page)
+                call, category, locator = vhf.parse_log_header(page)
                 if not call:
                     call = link.call_hint or f"log_{hash(link.url) & 0xFFFF}"
-                qsos = vhf.parse_qsos(page, call, category)
+                qsos = vhf.parse_qsos(page, call, category, locator)
                 if not qsos:
                     with PRINT_LOCK:
                         print(f"skip (no qsos): {call} ({contest.cid})")
                     return
+                contest_dir = vhf.derive_contest_dir(contest, qsos)
+                band_label = vhf.band_label_from_qsos(qsos)
                 cab = vhf.build_cabrillo(contest, call, category, qsos)
-                dest = vhf.write_log(contest, call, cab)
+                dest = vhf.write_log(contest_dir, band_label, call, cab)
                 with PRINT_LOCK:
                     print(f"ok   {dest}")
 
