@@ -472,40 +472,27 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
     contests = vhf.discover_contests(last)
     tasks: List[DownloadTask] = []
     for contest in contests:
-        try:
-            contest, links = vhf.discover_logs(contest)
-        except Exception as exc:  # pylint: disable=broad-except
-            with PRINT_LOCK:
-                print(f"Failed to fetch contest {contest.cid}: {exc}")
-            continue
-        for link in links:
-            host = urllib.parse.urlparse(link.url).hostname or "unknown"
-            safe_hint = (link.call_hint or f"log_{link.url.split('=')[-1]}").replace("/", "_")
-            placeholder = vhf.OUTPUT_ROOT / f"{vhf.slugify(contest.name)}_{contest.cid}" / f"{safe_hint}.log"
+        host = urllib.parse.urlparse(vhf.BASE_URL).hostname or "unknown"
+        placeholder = vhf.OUTPUT_ROOT / f"{vhf.slugify(contest.name)}_{contest.cid}" / "contest.log"
 
-            def action(contest=contest, link=link) -> None:
-                try:
-                    page = vhf.fetch_text(link.url)
-                except Exception as exc:  # pylint: disable=broad-except
-                    with PRINT_LOCK:
-                        print(f"fail {link.url}: {exc}")
-                    return
-                call, category, locator = vhf.parse_log_header(page)
-                if not call:
-                    call = link.call_hint or f"log_{hash(link.url) & 0xFFFF}"
-                qsos = vhf.parse_qsos(page, call, category, locator)
-                if not qsos:
-                    with PRINT_LOCK:
-                        print(f"skip (no qsos): {call} ({contest.cid})")
-                    return
-                contest_dir = vhf.derive_contest_dir(contest, qsos)
-                band_label = vhf.band_label_from_qsos(qsos)
-                cab = vhf.build_cabrillo(contest, call, category, qsos)
-                dest = vhf.write_log(contest_dir, band_label, call, cab)
+        def action(contest=contest) -> None:
+            try:
+                contest, links = vhf.discover_logs(contest)
+            except Exception as exc:  # pylint: disable=broad-except
                 with PRINT_LOCK:
-                    print(f"ok   {dest}")
+                    print(f"Failed to fetch contest {contest.cid}: {exc}")
+                return
+            if not links:
+                return
+            vhf.download_contest_logs(
+                contest,
+                links,
+                workers=vhf.DEFAULT_WORKERS,
+                max_logs=None,
+                include_checklogs=True,
+            )
 
-            tasks.append(DownloadTask(dest=placeholder, host=host, source="VHFManager", action=action))
+        tasks.append(DownloadTask(dest=placeholder, host=host, source="VHFManager", action=action))
     return tasks
 
 

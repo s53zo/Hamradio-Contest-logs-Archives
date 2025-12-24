@@ -6,6 +6,7 @@ Flow:
 1) Discover contests by scanning VHFManager pages for results.php?ContestID=...
 2) For each contest, collect display_log.php links on the results page.
 3) Fetch every log page, extract Station/Category header and QSO table, and rebuild Cabrillo.
+4) Optionally discover check logs by following per-QSO display_log links.
 
 Output: VHF_MANAGER/<contest_folder>/<band>/<CALL>.log
 """
@@ -182,6 +183,49 @@ def parse_log_header(html_text: str) -> Tuple[Optional[str], Optional[str]]:
             if m:
                 call = m.group(1).upper()
     return call, category, locator
+
+
+def normalize_log_url(url: str, base_url: str) -> str:
+    abs_url = urllib.parse.urljoin(base_url, html.unescape(url))
+    parsed = urllib.parse.urlsplit(abs_url)
+    return urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, parsed.path, parsed.query, ""))
+
+
+def contest_id_from_url(url: str) -> Optional[int]:
+    parsed = urllib.parse.urlsplit(url)
+    q = urllib.parse.parse_qs(parsed.query)
+    cid = (q.get("ContestID") or [None])[0]
+    return int(cid) if cid and str(cid).isdigit() else None
+
+
+def extract_checklog_links(html_text: str, base_url: str) -> List[LogLink]:
+    table_match = re.search(
+        r"<table>\s*<thead>.*?</thead>\s*<tbody>(.*?)</tbody>",
+        html_text,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    if not table_match:
+        return []
+    body = table_match.group(1)
+    rows = re.findall(r"<tr[^>]*>(.*?)</tr>", body, flags=re.IGNORECASE | re.DOTALL)
+    found: dict[str, LogLink] = {}
+    anchor_re = re.compile(
+        r'<a[^>]+href=["\']([^"\']*display_log[^"\']*)["\'][^>]*>(.*?)</a>',
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    for row in rows:
+        match = anchor_re.search(row)
+        if not match:
+            continue
+        href, anchor_text = match.groups()
+        call_hint = clean(anchor_text).upper()
+        if not re.match(r"^[A-Z0-9/]{3,}$", call_hint):
+            continue
+        if call_hint in found:
+            continue
+        url = normalize_log_url(href, base_url)
+        found[call_hint] = LogLink(url=url, call_hint=call_hint, category_hint=None)
+    return list(found.values())
 
 
 def parse_date(date_text: str) -> str:
@@ -384,11 +428,98 @@ def write_log(contest_dir: str, band_label: str, call: str, cab: str) -> Path:
     return dest
 
 
+def download_contest_logs(
+    contest: Contest,
+    seed_links: Sequence[LogLink],
+    workers: int,
+    max_logs: Optional[int],
+    include_checklogs: bool = True,
+) -> int:
+    seen: set[str] = set()
+    pending: List[LogLink] = []
+    for link in seed_links:
+        url = normalize_log_url(link.url, contest.results_url)
+        if url in seen:
+            continue
+        if contest_id_from_url(url) != contest.cid:
+            continue
+        seen.add(url)
+        pending.append(LogLink(url=url, call_hint=link.call_hint, category_hint=link.category_hint))
+
+    def worker(link: LogLink) -> List[LogLink]:
+        try:
+            page = fetch_text(link.url)
+        except Exception as exc:  # pylint: disable=broad-except
+            print(f"Failed to fetch log {link.url}: {exc}")
+            return []
+        call, category, locator = parse_log_header(page)
+        if not call:
+            call = link.call_hint or f"log_{hash(link.url) & 0xFFFF}"
+        qsos = parse_qsos(page, call, category, locator)
+        if not qsos:
+            print(f"skip (no qsos): {call} ({contest.name})")
+            return []
+        contest_dir = derive_contest_dir(contest, qsos)
+        band_label = band_label_from_qsos(qsos)
+        cab = build_cabrillo(contest, call, category, qsos)
+        dest = write_log(contest_dir, band_label, call, cab)
+        print(f"ok   {dest}")
+        if not include_checklogs:
+            return []
+        new_links = extract_checklog_links(page, link.url)
+        if call:
+            new_links = [lnk for lnk in new_links if lnk.call_hint != call]
+        return new_links
+
+    if max_logs:
+        pending = pending[:max_logs]
+        seen = set(link.url for link in pending)
+
+    downloaded = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+        futures: dict[concurrent.futures.Future[List[LogLink]], LogLink] = {}
+        while pending or futures:
+            while pending and len(futures) < workers:
+                link = pending.pop()
+                futures[executor.submit(worker, link)] = link
+            if not futures:
+                break
+            done, _ = concurrent.futures.wait(
+                futures.keys(), return_when=concurrent.futures.FIRST_COMPLETED
+            )
+            for fut in done:
+                _link = futures.pop(fut)
+                try:
+                    new_links = fut.result()
+                except Exception as exc:  # pylint: disable=broad-except
+                    print(f"Failed processing log {_link.url}: {exc}")
+                    new_links = []
+                downloaded += 1
+                if not include_checklogs:
+                    continue
+                for new_link in new_links:
+                    if max_logs and len(seen) >= max_logs:
+                        break
+                    url = normalize_log_url(new_link.url, contest.results_url)
+                    if url in seen:
+                        continue
+                    if contest_id_from_url(url) != contest.cid:
+                        continue
+                    seen.add(url)
+                    pending.append(LogLink(url=url, call_hint=new_link.call_hint, category_hint=None))
+    return downloaded
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Download VHFManager contest logs.")
     parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS, help="Max concurrent downloads.")
     parser.add_argument("--last-contests", type=int, default=None, help="Limit to most recent N contests (by ID).")
     parser.add_argument("--max-logs", type=int, default=None, help="Optional cap on logs per contest (testing).")
+    parser.add_argument(
+        "--no-checklogs",
+        action="store_true",
+        help="Skip discovery of check logs referenced from QSO rows.",
+    )
     args = parser.parse_args()
 
     contests = discover_contests(args.last_contests)
@@ -396,48 +527,31 @@ def main() -> int:
         print("No contests found.")
         return 1
 
-    all_links: List[Tuple[Contest, LogLink]] = []
+    any_downloaded = False
     for contest in contests:
         try:
             contest, links = discover_logs(contest)
         except Exception as exc:  # pylint: disable=broad-except
             print(f"Failed to fetch contest {contest.cid}: {exc}")
             continue
+        if not links:
+            continue
         if args.max_logs:
             links = links[: args.max_logs]
-        print(f"{contest.name} ({contest.cid}): {len(links)} logs")
-        for link in links:
-            all_links.append((contest, link))
+        print(f"{contest.name} ({contest.cid}): {len(links)} seed logs")
+        downloaded = download_contest_logs(
+            contest,
+            links,
+            workers=args.workers,
+            max_logs=args.max_logs,
+            include_checklogs=not args.no_checklogs,
+        )
+        if downloaded:
+            any_downloaded = True
 
-    if not all_links:
+    if not any_downloaded:
         print("No logs to download.")
         return 1
-
-    print(f"Total logs to fetch: {len(all_links)}")
-
-    def worker(contest: Contest, link: LogLink) -> None:
-        try:
-            page = fetch_text(link.url)
-        except Exception as exc:  # pylint: disable=broad-except
-            print(f"Failed to fetch log {link.url}: {exc}")
-            return
-        call, category, locator = parse_log_header(page)
-        if not call:
-            call = link.call_hint or f"log_{hash(link.url) & 0xFFFF}"
-        qsos = parse_qsos(page, call, category, locator)
-        if not qsos:
-            print(f"skip (no qsos): {call} ({contest.name})")
-            return
-        contest_dir = derive_contest_dir(contest, qsos)
-        band_label = band_label_from_qsos(qsos)
-        cab = build_cabrillo(contest, call, category, qsos)
-        dest = write_log(contest_dir, band_label, call, cab)
-        print(f"ok   {dest}")
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
-        futures = [executor.submit(worker, contest, link) for contest, link in all_links]
-        for fut in concurrent.futures.as_completed(futures):
-            fut.result()
 
     print("Done.")
     return 0
