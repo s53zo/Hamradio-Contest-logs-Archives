@@ -1,82 +1,177 @@
-Public logs gathered in github repo.
+# Hamradio Contest Logs Archives
 
-## Data stats
-There are about 2,2mio logs in this repo and more than 500 mio QSOs. The overall volume is impressive and keeps growing as more contests are added.
-Unique callsigns count: 188.506.
+This repository collects publicly available amateur radio contest logs in one
+place. The archive is intended for analysis, search, education, tooling, and
+long-term preservation of contest activity data.
 
-## Why this archive exists
-I publish these logs because I believe contest data should be collected in a manageable, accessible way for everyone who wants to analyze, learn, or build tools on top of it.
+## Current Snapshot
 
-## How to use the data
-Logs are organized by contest, then mode or year when relevant. Most files are in plain text and follow common contest log formats (e.g. Cabrillo-style `QSO:` lines), so they can be parsed with standard tools or simple scripts.
+Local snapshot counted on 2026-04-24:
 
-## Reconstructed logs (mock submissions)
-For contests where not all stations submitted logs, the repo can generate **reconstructed mock logs**. These are built by inferring QSOs for missing stations from logs that were submitted. They are **not** official submissions and are stored separately under `RECONSTRUCTED_LOGS/` with the same contest/year structure as the original logs.
+- total log files: 1,873,328
+- source/public log files: 1,592,597
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 280,731
+- parsed `QSO:` lines across all logs: 442,715,581
+- parsed `QSO:` lines in source/public logs only: 423,771,964
+- unique source/public log callsigns, counted from log filenames: 173,339
 
-Key points:
-- Only callsigns present in `MASTER.DTA` are eligible for reconstruction.
-- A minimum QSO threshold is enforced (default: 10).
-- Logs are marked as checklogs and include clear SOAPBOX warnings that they are reconstructed.
-- Reconstructed logs are included in the SH6 shard index when shards are rebuilt.
+These numbers change as new public sources are added, newer contest years are
+published, reconstructed logs are regenerated, and SH6 shards are rebuilt.
 
-## Contributing logs
-If you know of additional public log sources or missing contests, please open an issue or send a link. I will do my best to add them and keep the archive consistent.
+## What Is Included
 
-## Deploying GitHub Pages in chunks
+Most logs are stored as plain text Cabrillo-style files. Some contests publish
+original submitted Cabrillo logs. Others publish public UBN reports, result
+JSON, reference tables, or evaluated QSO tables; for those sources the scripts
+recreate Cabrillo-like logs from the public data.
 
-Use `Restore one top-level folder to gh-pages` in Actions to deploy one folder at a time.
-Run it manually with `top_folder` set to a contest directory (for example `ARRL`) and optional `source_ref`.
-This updates only that top-level folder in `gh-pages`, then commits and pushes, so you can wait for one folder to finish before starting the next.
+Current downloader coverage includes:
 
-You can also run it with GitHub CLI from the repo root:
+- CQ contests: `CQWW`, `CQWPX`, `CQWWRTTY`, `CQ160`, `CQWPXRTTY`
+- `ARRL` public logs
+- `ZRS_KVP`
+- `EUHFC`
+- `WAE`
+- `EU_VHF_CONTESTS` and `WW_PMC` from VHFManager
+- UA9QCQ UBN sources: Wednesday Mini-Test 40m/80m, Russian DX Contest, RF Championship CW, Ham Spirit, RCC Cup, RDA, Russian Radio Team Championship, Yuri Gagarin DX Contest
+- `REF`
+- `EUDX_contest`
+- OK contest family: `OK_Contest`, `OK_OM_DX_Contest`, `OK_DX_RTTY_contest`
+- `DARC` contests: Fieldday, WAG, Ausbildungscontest, Ausbildungscontest CW, RTTY Kurzcontest, FT4, Easter, XMAS
+- `WWDIGI`
+- `SPDX_contest`
+- `OK1WC_Memorial`
+- `YU_DX_Contest`
+- `SAC`
+- `URE`
 
-```sh
-./scripts/restore-gh-pages-folders.sh [--source-ref main] [--max-bytes 950000000] [--reset-branch true] [ARRL CQWW ...]
+## Directory Layout
+
+Logs are organized by contest, then by mode, year, round, or contest-specific
+subfolder where appropriate. Examples:
+
+```text
+CQWW/cw/2024/K1ABC.log
+ARRL/arrl_10_meter_contest/2024/K1ABC.log
+DARC/WAG/2024/K1ABC.log
+DARC/Fieldday/CW/2024/K1ABC.log
+SAC/CW/2024/K1ABC.log
+OK1WC_Memorial/2026-03-30/OK1ABC.log
+RECONSTRUCTED_LOGS/CQWW/cw/2024/K1ABC.log
+SH6/logs_00.sqlite
 ```
 
-If no folders are provided, the script discovers top-level directories automatically and skips:
-`.git`, `.github`, `scripts`, `.reconstructed_ledgers`.
+`WAE` intentionally remains a top-level contest folder. Other DARC-run contests
+are grouped under `DARC/`.
 
-Each folder is dispatched separately, the workflow is watched to completion, and folders larger than `--max-bytes` are split automatically using chunked restore.
+## Data Quality
 
-## Cloning a subset
-If you don't need all of them you can git clone just part of the repo with (example)
+The archive mirrors public contest data, so quality depends on the original
+source. A file may be:
+
+- an original public Cabrillo log
+- a Cabrillo-like reconstruction from UBN data
+- a Cabrillo-like reconstruction from public result JSON
+- a Cabrillo-like reconstruction from public reference or evaluation tables
+- a reconstructed mock log for a station that did not submit a public log
+
+Recreated and reconstructed logs are useful for analysis, but they are not
+official contest submissions. Consumers should inspect the `CREATED-BY`,
+`CONTEST`, `CATEGORY`, and `SOAPBOX` headers when source provenance matters.
+
+## Downloading Logs
+
+The main entry point is:
+
+```sh
+python3 scripts/public_logs_downloader.py
+```
+
+Interactive mode asks which contests to download and how many recent years to
+include.
+
+For unattended runs, use `--non-interactive`:
+
+```sh
+python3 scripts/public_logs_downloader.py --non-interactive --contests all --last 1
+```
+
+Useful examples:
+
+```sh
+# Download selected menu items for the most recent year.
+python3 scripts/public_logs_downloader.py --non-interactive --contests 28,30,31 --last 1
+
+# Download everything with the default adaptive concurrency.
+python3 scripts/public_logs_downloader.py --non-interactive --contests all --last all
+
+# Lower concurrency for fragile public servers.
+python3 scripts/public_logs_downloader.py --non-interactive --contests all --last 1 --workers 8 --min-workers 2
+
+# Force list rediscovery instead of trusting the task ledger.
+python3 scripts/public_logs_downloader.py --non-interactive --contests all --last 1 --no-task-ledger
+
+# Rebuild only the SH6 SQLite shard index.
+python3 scripts/public_logs_downloader.py --rebuild-shards
+```
+
+The downloader uses a task ledger in `scripts/download_tasks_ledger.sqlite` to
+avoid repeating completed source lists. It also validates existing files before
+skipping them, so missing, empty, or obvious HTML/error files are retried.
+
+## Reconstructed Logs
+
+For contests where not all stations submitted public logs, the repository can
+generate reconstructed mock logs under `RECONSTRUCTED_LOGS/`. These logs infer
+QSOs for missing stations from submitted logs.
+
+Important constraints:
+
+- only callsigns present in `MASTER.DTA` are eligible
+- a minimum QSO threshold is enforced
+- generated files are marked as checklogs
+- generated files include SOAPBOX warnings that they are reconstructed mock logs
+- reconstructed logs are included in SH6 shards when shards are rebuilt
+
+Run reconstruction with:
+
+```sh
+python3 scripts/reconstruct_missing_logs.py
+```
+
+## SH6 SQLite Shards
+
+`SH6/` contains SQLite shard indexes used by the SH6 web client:
+
+https://s53m.com/SH6/
+
+Each `logs_XX.sqlite` file is keyed by a stable callsign hash so the browser can
+download only the relevant shard. Rebuild shards after significant download or
+reconstruction runs:
+
+```sh
+python3 scripts/public_logs_downloader.py --rebuild-shards
+```
+
+## Cloning A Subset
+
+The full repository is large. Use sparse checkout if you only need part of it:
 
 ```sh
 git clone --filter=blob:none --sparse https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
-
 cd Hamradio-Contest-logs-Archives
-
-git sparse-checkout set WAE/CW (or some other folder)
+git sparse-checkout set WAE/CW
 ```
 
-## Serving the Archive
+Replace `WAE/CW` with any contest folder or subfolder you need.
 
-This archive is served directly from GitHub now. There is no Azure or Bunny mirror workflow in this repo anymore.
+## Publishing
 
-For updates, push the repository:
+This archive is served directly from GitHub.
 
-```sh
-git status -sb
-git add -A
-git commit -m "New logs"
-git push -u origin main
-```
+## Contributing Sources
 
-## Web Branch Publish
-
-Pushes to `main` trigger [`.github/workflows/sync-web-branch.yml`](/Users/simon/Hamradio-Contest-logs-Archives/.github/workflows/sync-web-branch.yml).
-
-That workflow keeps a reduced publish branch named `Web` in sync with:
-- all tracked files at the repository root
-- the top-level `SH6/` directory
-
-Other top-level directories remain only on `main`.
-
-For local inspection, you can print the exact selection with:
-
-```sh
-bash scripts/sync-web-branch.sh --print-paths
-```
-
-73
+If you know of additional public log sources or missing contests, open an issue
+or send a link. Good candidates are sources that publish original logs, UBN
+reports, evaluated QSO tables, result JSON, or other public data detailed enough
+to recreate Cabrillo-style QSO lines.
