@@ -37,7 +37,7 @@ Current downloader coverage includes:
 - `REF`
 - `EUDX_contest`
 - OK contest family: `OK_Contest`, `OK_OM_DX_Contest`, `OK_DX_RTTY_contest`
-- `DARC` contests: Fieldday, WAG, Ausbildungscontest, Ausbildungscontest CW, RTTY Kurzcontest, FT4, Easter, XMAS, YBDXPI
+- `DARC` contests: Fieldday, WAG, Ausbildungscontest, Ausbildungscontest CW, RTTY Kurzcontest, FT4, Easter, XMAS
 - `WWDIGI`
 - `SPDX_contest`
 - `OK1WC_Memorial`
@@ -55,7 +55,6 @@ CQWW/cw/2024/K1ABC.log
 ARRL/arrl_10_meter_contest/2024/K1ABC.log
 DARC/WAG/2024/K1ABC.log
 DARC/Fieldday/CW/2024/K1ABC.log
-DARC/YBDXPI/2024/K1ABC.log
 SAC/CW/2024/K1ABC.log
 OK1WC_Memorial/2026-03-30/OK1ABC.log
 RECONSTRUCTED_LOGS/CQWW/cw/2024/K1ABC.log
