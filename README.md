@@ -6,14 +6,14 @@ long-term preservation of contest activity data.
 
 ## Current Snapshot
 
-Local snapshot counted on 2026-04-24:
+Local snapshot counted on 2026-05-05:
 
-- total log files: 1,873,328
-- source/public log files: 1,592,597
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 280,731
-- parsed `QSO:` lines across all logs: 442,715,581
-- parsed `QSO:` lines in source/public logs only: 423,771,964
-- unique source/public log callsigns, counted from log filenames: 173,339
+- total log files: 1,894,808
+- source/public log files: 1,608,769
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 286,039
+- parsed `QSO:` lines across all logs: 446,308,902
+- parsed `QSO:` lines in source/public logs only: 426,983,150
+- unique source/public log callsigns, counted from log filenames: 173,638
 
 These numbers change as new public sources are added, newer contest years are
 published, reconstructed logs are regenerated, and SH6 shards are rebuilt.
@@ -44,6 +44,7 @@ Current downloader coverage includes:
 - `YU_DX_Contest`
 - `SAC`
 - `URE`
+- `9A_HRS_Contest`
 
 ## Directory Layout
 
@@ -56,6 +57,7 @@ ARRL/arrl_10_meter_contest/2024/K1ABC.log
 DARC/WAG/2024/K1ABC.log
 DARC/Fieldday/CW/2024/K1ABC.log
 SAC/CW/2024/K1ABC.log
+9A_HRS_Contest/Zimski_KV_Kup/2026/K1ABC.log
 OK1WC_Memorial/2026-03-30/OK1ABC.log
 RECONSTRUCTED_LOGS/CQWW/cw/2024/K1ABC.log
 SH6/logs_00.sqlite
@@ -100,7 +102,7 @@ Useful examples:
 
 ```sh
 # Download selected menu items for the most recent year.
-python3 scripts/public_logs_downloader.py --non-interactive --contests 28,30,31 --last 1
+python3 scripts/public_logs_downloader.py --non-interactive --contests 28,30,31,32 --last 1
 
 # Download everything with the default adaptive concurrency.
 python3 scripts/public_logs_downloader.py --non-interactive --contests all --last all
