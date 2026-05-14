@@ -8,3 +8,5 @@ CQWW/.DS_Store
 /index.html
 /404.html
 scripts/download_tasks_ledger.sqlite.corrupt-*
+scripts/download_tasks_ledger.sqlite-shm
+scripts/download_tasks_ledger.sqlite-wal

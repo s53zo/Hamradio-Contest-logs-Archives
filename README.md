@@ -6,14 +6,14 @@ long-term preservation of contest activity data.
 
 ## Current Snapshot
 
-Local snapshot counted on 2026-05-05:
+Local snapshot counted on 2026-05-14:
 
-- total log files: 1,894,808
-- source/public log files: 1,608,769
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 286,039
-- parsed `QSO:` lines across all logs: 446,308,902
-- parsed `QSO:` lines in source/public logs only: 426,983,150
-- unique source/public log callsigns, counted from log filenames: 173,638
+- total log files: 2,161,302
+- source/public log files: 1,737,018
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 424,284
+- parsed `QSO:` lines across all logs: 499,709,606
+- parsed `QSO:` lines in source/public logs only: 462,271,062
+- unique source/public log callsigns, counted from log filenames: 176,729
 
 These numbers change as new public sources are added, newer contest years are
 published, reconstructed logs are regenerated, and SH6 shards are rebuilt.
