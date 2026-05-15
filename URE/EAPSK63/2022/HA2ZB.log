@@ -1,0 +1,92 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.18
+
+# The callsign used during the contest.
+CALLSIGN: HA2ZB
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: PSK
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 1275
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: JN97TP
+
+# Operator name
+NAME: Bela Zagyva
+
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14073 PSK 2022-03-12 1601 HA2ZB           599 001             SV1JFL        599 052           
+QSO:   14072 PSK 2022-03-12 1610 HA2ZB           599 002             EA5DF         599 V             
+QSO:   21071 PSK 2022-03-12 1618 HA2ZB           599 003             EA7YV         599 MA            
+QSO:   14071 PSK 2022-03-12 1620 HA2ZB           599 004             EA7IEZ        599 MA            
+QSO:   14071 PSK 2022-03-12 1622 HA2ZB           599 005             EA3FYO        599 B             
+QSO:   21072 PSK 2022-03-12 1628 HA2ZB           599 006             EA4URE        599 HQ            
+QSO:   21072 PSK 2022-03-12 1631 HA2ZB           599 007             EA8TH         599 TF            
+QSO:   14071 PSK 2022-03-12 1640 HA2ZB           599 008             EA7KFX        599 CA            
+QSO:   14070 PSK 2022-03-12 1642 HA2ZB           599 009             2E0INN        599 037           
+QSO:   14070 PSK 2022-03-12 1645 HA2ZB           599 010             F6AUS         599 004           
+QSO:   21071 PSK 2022-03-13 0944 HA2ZB           599 012             R8XF          599 60            
+QSO:   14068 PSK 2022-03-13 0950 HA2ZB           599 013             EA2RCA        599 VI            
+QSO:   14067 PSK 2022-03-13 0951 HA2ZB           599 014             IW0UWE        599 042           
+QSO:   14072 PSK 2022-03-13 1000 HA2ZB           599 015             ED3D          599 GI            
+QSO:   14072 PSK 2022-03-13 1007 HA2ZB           599 016             UN7LV         599 100           
+QSO:   14073 PSK 2022-03-13 1013 HA2ZB           599 017             EA3EZD        599 B             
+QSO:   14073 PSK 2022-03-13 1016 HA2ZB           599 018             EA2ESB        599 TE            
+QSO:   14072 PSK 2022-03-13 1028 HA2ZB           599 018             SE6K          599 149           
+QSO:   14070 PSK 2022-03-13 1031 HA2ZB           599 019             ON7USB        599 032           
+QSO:   14072 PSK 2022-03-13 1037 HA2ZB           599 020             F4FSY         599 398           
+QSO:   21071 PSK 2022-03-13 1050 HA2ZB           599 021             EA4IF         599 TO            
+QSO:   21070 PSK 2022-03-13 1052 HA2ZB           599 022             EA5JN         599 MU            
+QSO:   21070 PSK 2022-03-13 1057 HA2ZB           599 023             EA6SX         599 IB            
+END-OF-LOG:

@@ -1,0 +1,121 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: TA3OER
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 4200
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14070 PSK        2022-03-12 1234 TA3OER          599 001             I0WBX         599 028           
+QSO:   14071 PSK        2022-03-12 1237 TA3OER          599 002             EA3FYO        599 B             
+QSO:   14071 PSK        2022-03-12 1244 TA3OER          599 003             F4FSY         599 27            
+QSO:   14071 PSK        2022-03-12 1246 TA3OER          599 004             EB5DET        599 010           
+QSO:   14071 PSK        2022-03-12 1249 TA3OER          599 005             IV3KKW        599 002           
+QSO:   14070 PSK        2022-03-12 1250 TA3OER          599 006             SP1TJ         599 026           
+QSO:   14069 PSK        2022-03-12 1251 TA3OER          599 007             EA1O          599 SG            
+QSO:   14069 PSK        2022-03-12 1252 TA3OER          599 008             EA4URE        599 HQ            
+QSO:   14068 PSK        2022-03-12 1254 TA3OER          599 009             PD0MHZ        599 012           
+QSO:   14069 PSK        2022-03-12 1259 TA3OER          599 010             EA7EQ         599 SE            
+QSO:   14073 PSK        2022-03-12 1304 TA3OER          599 011             IZ4UFB        599 003           
+QSO:   14073 PSK        2022-03-12 1308 TA3OER          599 012             YL3ID         599 031           
+QSO:   14073 PSK        2022-03-12 1308 TA3OER          599 013             DJ4WM         599 030           
+QSO:   14073 PSK        2022-03-12 1310 TA3OER          599 014             HG1G          599 028           
+QSO:   14072 PSK        2022-03-12 1312 TA3OER          599 015             CT7AJL        599 051           
+QSO:   14073 PSK        2022-03-12 1313 TA3OER          599 016             EE4Y          599 TO            
+QSO:   14072 PSK        2022-03-12 1314 TA3OER          599 017             EC3A          599 T             
+QSO:   14073 PSK        2022-03-12 1316 TA3OER          599 018             IW3FVZ        599 010           
+QSO:   14072 PSK        2022-03-12 1321 TA3OER          599 019             PD2PKM        599 028           
+QSO:   14071 PSK        2022-03-12 1325 TA3OER          599 020             ED3D          599 GI            
+QSO:   14070 PSK        2022-03-12 1327 TA3OER          599 021             I0GIA         599 014           
+QSO:   14071 PSK        2022-03-12 1856 TA3OER          599 022             EA2CP         599 BI            
+QSO:   14072 PSK        2022-03-12 1857 TA3OER          599 023             EA5R          599 MU            
+QSO:   14072 PSK        2022-03-12 1859 TA3OER          599 024             EA3AKA        599 T             
+QSO:   14073 PSK        2022-03-12 1900 TA3OER          599 025             ED1R          599 AV            
+QSO:   14070 PSK        2022-03-12 1904 TA3OER          599 026             EA5LU         599 MU            
+QSO:   14070 PSK        2022-03-12 1905 TA3OER          599 027             EA1HRR        599 S             
+QSO:   14070 PSK        2022-03-12 1906 TA3OER          599 028             EA2BFM        599 BI            
+QSO:   14070 PSK        2022-03-12 1907 TA3OER          599 029             EA2AWP        599 HU            
+QSO:   14070 PSK        2022-03-12 1911 TA3OER          599 030             EA4HCJ        599 GU            
+QSO:   14070 PSK        2022-03-12 1913 TA3OER          599 031             OL4D          599 045           
+QSO:   14071 PSK        2022-03-12 1915 TA3OER          599 032             EA4BAS        599 M             
+QSO:    7041 PSK        2022-03-12 1923 TA3OER          599 033             EA5DF         599 V             
+QSO:    7040 PSK        2022-03-12 1931 TA3OER          599 034             EA4URE        599 HQ            
+QSO:    7040 PSK        2022-03-12 1932 TA3OER          599 035             EA7KFX        599 CA            
+QSO:    7041 PSK        2022-03-12 1933 TA3OER          599 036             EA3X          599 B             
+QSO:    7042 PSK        2022-03-12 1935 TA3OER          599 037             IV3UHL        599 101           
+QSO:    7042 PSK        2022-03-12 1937 TA3OER          599 038             SP9ICU        599 062           
+QSO:    7043 PSK        2022-03-12 1944 TA3OER          599 039             F4GRW         599 128           
+QSO:    7041 PSK        2022-03-12 2033 TA3OER          599 040             HA1TIB        599 048           
+QSO:    7043 PSK        2022-03-12 2044 TA3OER          599 041             OK2WF         599 14            
+QSO:    7043 PSK        2022-03-12 2045 TA3OER          599 042             OE3RTB        599 075           
+QSO:    7044 PSK        2022-03-12 2050 TA3OER          599 042             OL4D          599 090           
+QSO:    7043 PSK        2022-03-12 2051 TA3OER          599 043             F4FSY         599 266           
+QSO:    7042 PSK        2022-03-12 2054 TA3OER          599 044             I0WBX         599 322           
+QSO:   21071 PSK        2022-03-13 1153 TA3OER          599 045             EA5DF         599 V             
+QSO:   21072 PSK        2022-03-13 1153 TA3OER          599 046             EA4FME        599 M             
+QSO:   21070 PSK        2022-03-13 1155 TA3OER          599 047             CT7AJL        599 502           
+QSO:   21070 PSK        2022-03-13 1156 TA3OER          599 048             2E0INN        599 218           
+QSO:   21071 PSK        2022-03-13 1158 TA3OER          599 049             EA2BFM        599 BI            
+QSO:   14070 PSK        2022-03-13 1159 TA3OER          599 050             I0KHY         599 033           
+QSO:   14070 PSK        2022-03-13 1159 TA3OER          599 051             OK1VK         599 051           
+QSO:   14070 PSK        2022-03-13 1159 TA3OER          599 052             HG3FMZ        599 341           
+END-OF-LOG:

@@ -1,0 +1,140 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 3.22.05
+
+# The callsign used during the contest.
+CALLSIGN: DQ1200ASP
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: PSK63
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 6-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 4080
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: JN48nv
+
+# Operator name
+NAME: Karsten
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: DD1KT
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 2019-03-09 1600 2019-03-10 1000
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7042 RY 2019-03-10 1031 DQ1200ASP       599 001             SQ3MZ         599 191           
+QSO:    7042 RY 2019-03-10 1039 DQ1200ASP       599 002             ED3Y          599 GI          
+QSO:    7042 RY 2019-03-10 1039 DQ1200ASP       599 003             SP6EIY/P      599 090           
+QSO:    7042 RY 2019-03-10 1042 DQ1200ASP       599 004             SP9ZHP        599 153           
+QSO:    7042 RY 2019-03-10 1044 DQ1200ASP       599 005             SP6JZP        599 147           
+QSO:    7042 RY 2019-03-10 1047 DQ1200ASP       599 006             F5HRH         599 186           
+QSO:    7042 RY 2019-03-10 1047 DQ1200ASP       599 007             EA4GOY        599 TO            
+QSO:    7042 RY 2019-03-10 1048 DQ1200ASP       599 008             SP9KB         599 082           
+QSO:    7042 RY 2019-03-10 1049 DQ1200ASP       599 009             9A5HZ         599 003           
+QSO:    7041 RY 2019-03-10 1100 DQ1200ASP       599 010             S53X          599 611           
+QSO:    7042 RY 2019-03-10 1103 DQ1200ASP       599 011             EA6XQ         599 IB          
+QSO:    7043 RY 2019-03-10 1109 DQ1200ASP       599 012             F4GWY         599 224           
+QSO:    7043 RY 2019-03-10 1110 DQ1200ASP       599 013             ED3D          599 GI            
+QSO:    7044 RY 2019-03-10 1114 DQ1200ASP       599 014             SQ0Q          599 017           
+QSO:    7044 RY 2019-03-10 1116 DQ1200ASP       599 015             EA3GBA        599 B             
+QSO:    7044 RY 2019-03-10 1118 DQ1200ASP       599 016             OK2UHP        599 045           
+QSO:   14068 RY 2019-03-10 1122 DQ1200ASP       599 017             R3BB          599 093           
+QSO:   14069 RY 2019-03-10 1124 DQ1200ASP       599 018             UR5LP         599 178           
+QSO:   14069 RY 2019-03-10 1125 DQ1200ASP       599 019             EA1XT         599 C             
+QSO:   14069 RY 2019-03-10 1132 DQ1200ASP       599 020             EA2XR         599 BI            
+QSO:   14070 RY 2019-03-10 1133 DQ1200ASP       599 021             RA6LIS        599 089           
+QSO:   14070 RY 2019-03-10 1139 DQ1200ASP       599 022             EM2Q          599 669           
+QSO:   14070 RY 2019-03-10 1142 DQ1200ASP       599 023             EA2CP         599 BI            
+QSO:   14072 RY 2019-03-10 1151 DQ1200ASP       599 024             RK3PWR        599 498           
+QSO:   14072 RY 2019-03-10 1154 DQ1200ASP       599 025             LZ60KAA       599 221           
+QSO:   14072 RY 2019-03-10 1156 DQ1200ASP       599 026             IW9FIR        599 032           
+QSO:   14072 RY 2019-03-10 1159 DQ1200ASP       599 027             EA7HS         599 CO            
+QSO:   14072 RY 2019-03-10 1205 DQ1200ASP       599 028             A71AE         599 060           
+QSO:   14073 RY 2019-03-10 1207 DQ1200ASP       599 029             UX1IW         599 154           
+QSO:   14074 RY 2019-03-10 1209 DQ1200ASP       599 030             IT9VCE        599 268           
+QSO:    7039 RY 2019-03-10 1214 DQ1200ASP       599 031             IV3IPS        599 212           
+QSO:    7040 RY 2019-03-10 1217 DQ1200ASP       599 032             HA3PT         599 081           
+QSO:    7041 RY 2019-03-10 1230 DQ1200ASP       599 033             HG6C          599 206           
+QSO:    7042 RY 2019-03-10 1233 DQ1200ASP       599 034             US7KC         599 197           
+QSO:    7042 RY 2019-03-10 1234 DQ1200ASP       599 035             PA4O          599 097           
+QSO:    7043 RY 2019-03-10 1236 DQ1200ASP       599 036             S57X          599 098           
+QSO:    7044 RY 2019-03-10 1237 DQ1200ASP       599 037             RA3Y          599 356           
+QSO:    7044 RY 2019-03-10 1239 DQ1200ASP       599 037             PA3DBS        599 258           
+QSO:    7044 RY 2019-03-10 1240 DQ1200ASP       599 038             S51I          599 169           
+QSO:   14070 RY 2019-03-10 1244 DQ1200ASP       599 039             R3GZ          599 182           
+QSO:   14070 RY 2019-03-10 1245 DQ1200ASP       599 040             RA3MBC        599 192           
+QSO:   14070 RY 2019-03-10 1247 DQ1200ASP       599 041             UY5VA         599 163           
+QSO:   14071 RY 2019-03-10 1301 DQ1200ASP       599 042             R2UZ          599 197           
+QSO:   14071 RY 2019-03-10 1302 DQ1200ASP       599 043             RA3GZ         599 524           
+QSO:   14072 RY 2019-03-10 1304 DQ1200ASP       599 044             UA6BJY        599 156           
+QSO:   14072 RY 2019-03-10 1308 DQ1200ASP       599 045             RN5AA         599 382           
+QSO:   14073 RY 2019-03-10 1311 DQ1200ASP       599 046             UR4LBG        599 239           
+QSO:   14073 RY 2019-03-10 1312 DQ1200ASP       599 047             UX7QV         599 416           
+QSO:   14073 RY 2019-03-10 1318 DQ1200ASP       599 048             CT7/F6HBR     599 110           
+QSO:   14073 RY 2019-03-10 1320 DQ1200ASP       599 049             RD3ZQ         599 116           
+QSO:   14073 RY 2019-03-10 1323 DQ1200ASP       599 050             RJ3F          599 160           
+QSO:   14073 RY 2019-03-10 1324 DQ1200ASP       599 051             UA3XO         599 123           
+QSO:   14073 RY 2019-03-10 1329 DQ1200ASP       599 052             EA4GOY        599 TO            
+QSO:   14073 RY 2019-03-10 1330 DQ1200ASP       599 053             EA8ARI        599 TF            
+QSO:   14073 RY 2019-03-10 1335 DQ1200ASP       599 054             EE4E          599 CR            
+QSO:   14073 RY 2019-03-10 1336 DQ1200ASP       599 055             SV1JFL        599 185           
+QSO:   14071 RY 2019-03-10 1340 DQ1200ASP       599 056             N6AR          599 135           
+QSO:   14071 RY 2019-03-10 1343 DQ1200ASP       599 057             EA7IEZ        599 MA            
+QSO:   14071 RY 2019-03-10 1345 DQ1200ASP       599 058             EA5BN         599 MU            
+QSO:   14069 RY 2019-03-10 1353 DQ1200ASP       599 059             RA4HL         599 398           
+QSO:   14069 RY 2019-03-10 1356 DQ1200ASP       599 060             R3EK          599 126           
+QSO:   14069 RY 2019-03-10 1357 DQ1200ASP       599 061             UV7V          599 160           
+QSO:    7041 RY 2019-03-10 1409 DQ1200ASP       599 062             IZ6NAL        599 0             
+QSO:    7041 RY 2019-03-10 1413 DQ1200ASP       599 062             OK2WMC        599 207           
+QSO:    7042 RY 2019-03-10 1415 DQ1200ASP       599 063             IW7DBM        599 242           
+QSO:    7043 RY 2019-03-10 1420 DQ1200ASP       599 064             YU7AOP        599 197           
+QSO:   14068 RY 2019-03-10 1433 DQ1200ASP       599 065             EA4URE/9      599 HQ            
+QSO:   14070 RY 2019-03-10 1437 DQ1200ASP       599 066             PZ5RA         599 199           
+QSO:   14070 RY 2019-03-10 1437 DQ1200ASP       599 067             RW4NN         599 248           
+QSO:   14071 RY 2019-03-10 1441 DQ1200ASP       599 068             CR5O          599 338           
+QSO:   14071 RY 2019-03-10 1443 DQ1200ASP       599 069             RV6F          599 219           
+QSO:   14071 RY 2019-03-10 1444 DQ1200ASP       599 070             TA7OYG        599 275           
+END-OF-LOG:

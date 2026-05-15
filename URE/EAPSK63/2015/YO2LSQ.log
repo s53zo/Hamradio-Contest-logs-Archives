@@ -1,0 +1,197 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 3.22.04
+
+# The callsign used during the contest.
+CALLSIGN: YO2LSQ
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 40M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: PSK63
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY-OPERATOR: SINGLE-OP
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 8418
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+# Contest: AP-SPRINT, ARRL-10, ARRL-160, ARRL-DX-CW, ARRL-DX-SSB, ARRL-SS-CW,
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EAPSK63
+
+
+LOCATION: Arad, Romania
+
+# Operator name
+NAME: Rares Benea
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: YO2LSQ
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7041 RY 2015-03-14 1711 YO2LSQ          599 001             S50P          599 32            
+QSO:    7041 RY 2015-03-14 1715 YO2LSQ          599 002             EA3JW         599 B
+QSO:    7040 RY 2015-03-14 1717 YO2LSQ          599 003             YT5W          599 B
+QSO:    7040 RY 2015-03-14 1721 YO2LSQ          599 004             YL5X          599 071           
+QSO:    7042 RY 2015-03-14 1727 YO2LSQ          599 005             RU3XB         599 039           
+QSO:    7042 RY 2015-03-14 1731 YO2LSQ          599 006             DD9WG         599 028           
+QSO:    7042 RY 2015-03-14 1732 YO2LSQ          599 007             R7KO          599 029           
+QSO:    7042 RY 2015-03-14 1734 YO2LSQ          599 008             IW1FRD        599 024           
+QSO:    7042 RY 2015-03-14 1737 YO2LSQ          599 009             IK5FKF        599 065           
+QSO:    7042 RY 2015-03-14 1744 YO2LSQ          599 010             YU7AOP        599 035           
+QSO:    7042 RY 2015-03-14 1745 YO2LSQ          599 011             YO5OO         599 053           
+QSO:    7042 RY 2015-03-14 1747 YO2LSQ          599 012             UR4MG         599 047           
+QSO:    7042 RY 2015-03-14 1749 YO2LSQ          599 013             YU7AOP        599 036           
+QSO:    7042 RY 2015-03-14 1752 YO2LSQ          599 014             EB4ERS        599 M             
+QSO:    7042 RY 2015-03-14 1755 YO2LSQ          599 015             RZ3LA         599 001           
+QSO:    7042 RY 2015-03-14 1755 YO2LSQ          599 016             EW8OF         599 054           
+QSO:    7042 RY 2015-03-14 1757 YO2LSQ          599 017             OK2HUP        599 B4            
+QSO:    7043 RY 2015-03-14 1759 YO2LSQ          599 018             RU4A          599 051           
+QSO:    7042 RY 2015-03-14 1802 YO2LSQ          599 019             UY5TE         599 049           
+QSO:    7041 RY 2015-03-14 1806 YO2LSQ          599 020             UA6CE         599 094           
+QSO:    7042 RY 2015-03-14 1810 YO2LSQ          599 021             UY5IC         599 060           
+QSO:    7042 RY 2015-03-14 1810 YO2LSQ          599 022             R3PV          599 104           
+QSO:    7043 RY 2015-03-14 1812 YO2LSQ          599 023             YO9GSB        599 047           
+QSO:    7043 RY 2015-03-14 1825 YO2LSQ          599 024             CN8KD         599 040           
+QSO:    7045 RY 2015-03-14 1828 YO2LSQ          599 025             SV2FLQ/A      599 057           
+QSO:    7047 RY 2015-03-14 1832 YO2LSQ          599 026             UT5PY         599 068           
+QSO:    7046 RY 2015-03-14 1835 YO2LSQ          599 027             RN4HGJ/1      599 056           
+QSO:    7045 RY 2015-03-14 1837 YO2LSQ          599 028             OH2NT         599 039           
+QSO:    7045 RY 2015-03-14 1838 YO2LSQ          599 029             IN3BFW        599 94            
+QSO:    7044 RY 2015-03-14 1841 YO2LSQ          599 030             PI4CG         599 136           
+QSO:    7044 RY 2015-03-14 1842 YO2LSQ          599 031             RX6BS         599 080           
+QSO:    7045 RY 2015-03-14 1845 YO2LSQ          599 032             EA2DDE        599 NA            
+QSO:    7043 RY 2015-03-14 1851 YO2LSQ          599 033             SP7SMF        599 056           
+QSO:    7042 RY 2015-03-14 1854 YO2LSQ          599 034             UX7QV         599 091           
+QSO:    7043 RY 2015-03-14 1858 YO2LSQ          599 035             SP5UUD        599 079           
+QSO:    7043 RY 2015-03-14 1909 YO2LSQ          599 036             UX5UU         599 063           
+QSO:    7043 RY 2015-03-14 1911 YO2LSQ          599 037             UR3UK         599 062           
+QSO:    7042 RY 2015-03-14 1922 YO2LSQ          599 038             EA7JOY        599 SE            
+QSO:    7042 RY 2015-03-14 1923 YO2LSQ          599 039             SP5NHK        599 083           
+QSO:    7042 RY 2015-03-14 1924 YO2LSQ          599 040             UR3AC         599 101           
+QSO:    7042 RY 2015-03-14 1926 YO2LSQ          599 041             EA3KU         599 T             
+QSO:    7047 RY 2015-03-14 1935 YO2LSQ          599 042             PA7LV         599 112           
+QSO:    7048 RY 2015-03-14 1936 YO2LSQ          599 043             RN4HFJ        599 094           
+QSO:    7047 RY 2015-03-14 1945 YO2LSQ          599 045             DL9NO         599 114           
+QSO:    7047 RY 2015-03-14 1947 YO2LSQ          599 046             EA2BER        599 BI            
+QSO:    7043 RY 2015-03-14 1951 YO2LSQ          599 047             UT3QD         599 013           
+QSO:    7043 RY 2015-03-14 1954 YO2LSQ          599 048             UT3QD         599 013
+QSO:    7043 RY 2015-03-14 1956 YO2LSQ          599 049             RU6BI         599 049
+QSO:    7043 RY 2015-03-14 1958 YO2LSQ          599 050             UI9           599 088
+QSO:    7043 RY 2015-03-14 1959 YO2LSQ          599 051             RA3GZ7        599 12            
+QSO:    7042 RY 2015-03-14 2003 YO2LSQ          599 052             EA4DVE        599 134           
+QSO:    7043 RY 2015-03-14 2011 YO2LSQ          599 053             OH2MQ         599 198
+QSO:    7043 RY 2015-03-14 2011 YO2LSQ          599 054             SV1PMH        599 070
+QSO:    7043 RY 2015-03-14 2013 YO2LSQ          599 055             F5RD          599 114           
+QSO:    7043 RY 2015-03-14 2016 YO2LSQ          599 056             DJ9SN         599 016
+QSO:    7043 RY 2015-03-14 2017 YO2LSQ          599 057             UR5LY         599 063
+QSO:    3584 RY 2015-03-14 2033 YO2LSQ          599 058             UT3UBR        599 053           
+QSO:    3584 RY 2015-03-14 2033 YO2LSQ          599 059             YO5COG        599 053           
+QSO:    7042 RY 2015-03-14 2039 YO2LSQ          599 060             UA3ON         599 032
+QSO:    7042 RY 2015-03-14 2044 YO2LSQ          599 061             EA5ERA        599 V             
+QSO:    7042 RY 2015-03-14 2047 YO2LSQ          599 062             RK3PWR        599 156           
+QSO:    7043 RY 2015-03-14 2048 YO2LSQ          599 063             PA2IP         599 176           
+QSO:    7044 RY 2015-03-14 2053 YO2LSQ          599 064             RT3P          599 248           
+QSO:    7043 RY 2015-03-14 2056 YO2LSQ          599 065             EA3GBA        599 B             
+QSO:    7047 RY 2015-03-14 2059 YO2LSQ          599 066             EA3FF         599 L             
+QSO:    7048 RY 2015-03-14 2100 YO2LSQ          599 067             DG7EKJ        599 123           
+QSO:    7047 RY 2015-03-14 2101 YO2LSQ          599 068             ED3D          599 GI            
+QSO:    7046 RY 2015-03-14 2107 YO2LSQ          599 069             UA3PI         599 173           
+QSO:    7046 RY 2015-03-14 2110 YO2LSQ          599 070             G3SNU         599 098
+QSO:    7045 RY 2015-03-14 2115 YO2LSQ          599 071             PC9T          599 081           
+QSO:    7042 RY 2015-03-14 2123 YO2LSQ          599 072             R2ADI         599 040           
+QSO:    7042 RY 2015-03-14 2126 YO2LSQ          599 073             F4FVW         599 013           
+QSO:    7042 RY 2015-03-14 2136 YO2LSQ          599 074             OH2GI         599 021
+QSO:    7041 RY 2015-03-14 2141 YO2LSQ          599 075             RV3ZN         599 031
+QSO:    7040 RY 2015-03-14 2143 YO2LSQ          599 076             F4UQD         599 247
+QSO:    7041 RY 2015-03-14 2147 YO2LSQ          599 077             ON3NAM        599 010           
+QSO:    7041 RY 2015-03-14 2148 YO2LSQ          599 078             EA5ICP        599 MU            
+QSO:    7041 RY 2015-03-14 2153 YO2LSQ          599 079             EA1IEU        599 MU            
+QSO:    7041 RY 2015-03-14 2153 YO2LSQ          599 079             EA1IEU        599 MU            
+QSO:    7041 RY 2015-03-14 2202 YO2LSQ          599 080             EC5JC         599 A             
+QSO:    7041 RY 2015-03-14 2203 YO2LSQ          599 082             EA7HY         599 CA            
+QSO:    7040 RY 2015-03-14 2207 YO2LSQ          599 083             EC7AMY        599 SE            
+QSO:    7041 RY 2015-03-14 2209 YO2LSQ          599 084             EB3EFU        599 GI            
+QSO:    7042 RY 2015-03-14 2212 YO2LSQ          599 085             EH3DWN        599 B             
+QSO:    7042 RY 2015-03-14 2213 YO2LSQ          599 086             EA4EN         599 5NN           
+QSO:    7044 RY 2015-03-14 2218 YO2LSQ          599 087             EA5IIK        599 CS            
+QSO:    7044 RY 2015-03-14 2219 YO2LSQ          599 088             EA2KK         599 BI            
+QSO:    7045 RY 2015-03-14 2220 YO2LSQ          599 089             EF3P          599 T             
+QSO:    7046 RY 2015-03-14 2225 YO2LSQ          599 090             EA7ESH        599 CA            
+QSO:    7048 RY 2015-03-14 2228 YO2LSQ          599 091             EE4EA         599 GU            
+QSO:    7041 RY 2015-03-14 2231 YO2LSQ          599 092             RD3ZQ         599 208           
+QSO:    7041 RY 2015-03-14 2232 YO2LSQ          599 093             RA1ALC        599 301           
+QSO:    7041 RY 2015-03-14 2235 YO2LSQ          599 094             EB1CAR        599 0             
+QSO:    7041 RY 2015-03-14 2235 YO2LSQ          599 095             HB9RDD        599 035
+QSO:    7041 RY 2015-03-14 2236 YO2LSQ          599 096             EA3GCT        599 B             
+QSO:    7041 RY 2015-03-14 2243 YO2LSQ          599 097             EA5IY         599 CS            
+QSO:    7041 RY 2015-03-14 2243 YO2LSQ          599 098             EA7YL         599 MA            
+QSO:    7041 RY 2015-03-14 2245 YO2LSQ          599 099             IK2MXM        599 053           
+QSO:    7041 RY 2015-03-14 2246 YO2LSQ          599 100             I2ORX         599 070           
+QSO:    7041 RY 2015-03-14 2247 YO2LSQ          599 101             R2EA          599 140           
+QSO:    7041 RY 2015-03-14 2249 YO2LSQ          599 102             IK2SBB        599 010           
+QSO:    7041 RY 2015-03-14 2251 YO2LSQ          599 103             TA7JE         599 074           
+QSO:    7041 RY 2015-03-14 2254 YO2LSQ          599 104             EA5EV         599 MU            
+QSO:    7041 RY 2015-03-14 2300 YO2LSQ          599 105             EA7IXG        599 MA            
+QSO:    7041 RY 2015-03-14 2306 YO2LSQ          599 106             PA3EWP        599 073           
+QSO:    7041 RY 2015-03-14 2308 YO2LSQ          599 107             ED4R          599 M             
+QSO:    7040 RY 2015-03-14 2309 YO2LSQ          599 108             OH3OJ         599 274           
+QSO:    7042 RY 2015-03-14 2311 YO2LSQ          599 109             EA2RCF        599 VI            
+QSO:    7043 RY 2015-03-14 2312 YO2LSQ          599 110             EA1SB         599 LE            
+QSO:    7044 RY 2015-03-14 2315 YO2LSQ          599 111             ED1B          599 O             
+QSO:    7040 RY 2015-03-15 0718 YO2LSQ          599 112             F6FXF         599 013           
+QSO:    7041 RY 2015-03-15 0720 YO2LSQ          599 113             ON2AD         599 114
+QSO:    7042 RY 2015-03-15 0730 YO2LSQ          599 114             SQ3TGU        599 202           
+QSO:    7042 RY 2015-03-15 0731 YO2LSQ          599 115             LZ137LO       599 480           
+QSO:    7044 RY 2015-03-15 0734 YO2LSQ          599 116             YT2AAA        599 104           
+QSO:    7046 RY 2015-03-15 0810 YO2LSQ          599 117             HA1AD         599 153           
+QSO:    7046 RY 2015-03-15 0811 YO2LSQ          599 118             OM8LA         599 152      
+QSO:    7042 RY 2015-03-15 0826 YO2LSQ          599 119             SP90IARU      599 068           
+QSO:    7043 RY 2015-03-15 0828 YO2LSQ          599 120             OK2UHP        599 B4            
+QSO:    7043 RY 2015-03-15 0830 YO2LSQ          599 121             HG6C          599 139           
+QSO:    7044 RY 2015-03-15 0832 YO2LSQ          599 122             YO5BYV        599 256           
+QSO:    7044 RY 2015-03-15 0833 YO2LSQ          599 123             DL4ME         599 061           
+QSO:    7042 RY 2015-03-15 1446 YO2LSQ          599 124             UX0DL         599 570           
+QSO:    7042 RY 2015-03-15 1447 YO2LSQ          599 125             DH8WR         599 282           
+QSO:    7043 RY 2015-03-15 1449 YO2LSQ          599 126             R3IK          599 246           
+QSO:    7043 RY 2015-03-15 1451 YO2LSQ          599 127             SO5MAX        599 060           
+QSO:    7043 RY 2015-03-15 1453 YO2LSQ          599 128             SQ1BVG/2      599 280          
+QSO:    7042 RY 2015-03-15 1505 YO2LSQ          599 129             UR3AHF        599 192          
+QSO:    7042 RY 2015-03-15 1514 YO2LSQ          599 130             DJ0MY         599 134           
+END-OF-LOG:

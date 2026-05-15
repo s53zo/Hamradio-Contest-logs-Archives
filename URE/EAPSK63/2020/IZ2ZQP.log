@@ -1,0 +1,138 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.09
+
+# The callsign used during the contest.
+CALLSIGN: IZ2ZQP
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 20M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: PSK63
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP 20M
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+6-HOURS
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+ ONE
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+OVER-50 
+# Integer number
+CLAIMED-SCORE: 3219
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: JN45TQ
+
+# Operator name
+NAME: ROMANO
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: IZ2ZQP
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: BUENA SORTE A TODOS 73
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14071 RY 2020-03-15 0913 IZ2ZQP          599 001             SV1JG        599 271
+QSO:   14071 RY 2020-03-15 0927 IZ2ZQP          599 002             RV6F         599 125
+QSO:   14069 RY 2020-03-15 0932 IZ2ZQP          599 003             UR5LP        599 122
+QSO:   14069 RY 2020-03-15 0934 IZ2ZQP          599 004             EC7AT        599 AL            
+QSO:   14068 RY 2020-03-15 0936 IZ2ZQP          599 005             UT8NT        599 168
+QSO:   14070 RY 2020-03-15 0939 IZ2ZQP          599 006             UT5EPP       599 344
+QSO:   14070 RY 2020-03-15 0941 IZ2ZQP          599 007             EA7Q         599 H             
+QSO:   14070 RY 2020-03-15 0944 IZ2ZQP          599 008             R3WA         599 163
+QSO:   14070 RY 2020-03-15 0954 IZ2ZQP          599 009             R3LC         599 062           
+QSO:   14071 RY 2020-03-15 1001 IZ2ZQP          599 010             IK2SND       599 047           
+QSO:   14072 RY 2020-03-15 1023 IZ2ZQP          599 011             EA7KHB       599 SE            
+QSO:   14072 RY 2020-03-15 1033 IZ2ZQP          599 012             EI3JE        599 358 
+QSO:   14073 RY 2020-03-15 1042 IZ2ZQP          599 013             R4OF         599 216
+QSO:   14073 RY 2020-03-15 1043 IZ2ZQP          599 014             UA3IHJ       599 057           
+QSO:   14073 RY 2020-03-15 1044 IZ2ZQP          599 015             UR4MVK       599 172 
+QSO:   14073 RY 2020-03-15 1047 IZ2ZQP          599 016             RW3ZA        599 172           
+QSO:   14073 RY 2020-03-15 1053 IZ2ZQP          599 017             YL2CI        599 184
+QSO:   14073 RY 2020-03-15 1055 IZ2ZQP          599 018             R3YC         599 058           
+QSO:   14066 RY 2020-03-15 1103 IZ2ZQP          599 019             EA7BP        599 SE            
+QSO:   14067 RY 2020-03-15 1106 IZ2ZQP          599 020             EF8W         599 TF            
+QSO:   14067 RY 2020-03-15 1106 IZ2ZQP          599 021             EA8AQV       599 GC            
+QSO:   14067 RY 2020-03-15 1107 IZ2ZQP          599 022             SV3DCX       599 189 
+QSO:   14067 RY 2020-03-15 1108 IZ2ZQP          599 023             EA1BAF       599 OU            
+QSO:   14067 RY 2020-03-15 1112 IZ2ZQP          599 024             EA8W         599 GC            
+QSO:   14067 RY 2020-03-15 1113 IZ2ZQP          599 025             RX6BH        599 181
+QSO:   14066 RY 2020-03-15 1115 IZ2ZQP          599 026             EA1CH        599 OU            
+QSO:   14066 RY 2020-03-15 1120 IZ2ZQP          599 026             UX1CN        599 167
+QSO:   14066 RY 2020-03-15 1121 IZ2ZQP          599 027             UR7CB        599 068           
+QSO:   14066 RY 2020-03-15 1339 IZ2ZQP          599 028             M2E          599 071           
+QSO:   14066 RY 2020-03-15 1340 IZ2ZQP          599 029             M1BKL        599 002           
+QSO:   14066 RY 2020-03-15 1344 IZ2ZQP          599 030             PD0JMH       599 075            
+QSO:   14066 RY 2020-03-15 1346 IZ2ZQP          599 031             UR5FBM       599 184
+QSO:   14066 RY 2020-03-15 1348 IZ2ZQP          599 032             RA1ALC       599 319
+QSO:   14066 RY 2020-03-15 1358 IZ2ZQP          599 033             EM0UBZ       599 014           
+QSO:   14067 RY 2020-03-15 1359 IZ2ZQP          599 034             N3UA         599 047           
+QSO:   14066 RY 2020-03-15 1401 IZ2ZQP          599 035             SP4TXI       599 252
+QSO:   14066 RY 2020-03-15 1401 IZ2ZQP          599 036             US5AT        599 121
+QSO:   14068 RY 2020-03-15 1405 IZ2ZQP          599 037             UT5ED        599 067           
+QSO:   14068 RY 2020-03-15 1406 IZ2ZQP          599 038             UY7MM        599 200           
+QSO:   14068 RY 2020-03-15 1409 IZ2ZQP          599 039             UA3XO        599 134 
+QSO:   14068 RY 2020-03-15 1413 IZ2ZQP          599 040             EA7SL        599 CA            
+QSO:   14068 RY 2020-03-15 1414 IZ2ZQP          599 041             RA6LIS       599 162 
+QSO:   14068 RY 2020-03-15 1417 IZ2ZQP          599 042             RT6DI        599 028           
+QSO:   14068 RY 2020-03-15 1419 IZ2ZQP          599 043             R3FO         599 281 
+QSO:   14068 RY 2020-03-15 1421 IZ2ZQP          599 044             N1MGO        599 062            
+QSO:   14068 RY 2020-03-15 1432 IZ2ZQP          599 045             ED8H         599 TF            
+QSO:   14068 RY 2020-03-15 1437 IZ2ZQP          599 046             EA1IYK       599 O             
+QSO:   14070 RY 2020-03-15 1447 IZ2ZQP          599 047             UV7E         599 068           
+QSO:   14070 RY 2020-03-15 1452 IZ2ZQP          599 048             US5IMX       599 117
+QSO:   14071 RY 2020-03-15 1500 IZ2ZQP          599 049             EA4FP        599 M             
+QSO:   14071 RY 2020-03-15 1501 IZ2ZQP          599 050             EA7AZA       599 CA            
+QSO:   14071 RY 2020-03-15 1502 IZ2ZQP          599 051             UX1IW        599 145
+QSO:   14071 RY 2020-03-15 1503 IZ2ZQP          599 052             RQ2Q         599 304           
+QSO:   14071 RY 2020-03-15 1504 IZ2ZQP          599 053             EA1G         599 O             
+QSO:   14071 RY 2020-03-15 1506 IZ2ZQP          599 054             UR4IPW       599 038           
+QSO:   14072 RY 2020-03-15 1512 IZ2ZQP          599 055             EA1O         599 SG            
+QSO:   14071 RY 2020-03-15 1517 IZ2ZQP          599 056             EA8CNR       599 GC            
+QSO:   14072 RY 2020-03-15 1519 IZ2ZQP          599 057             EA1AF        599 P     
+QSO:   14070 RY 2020-03-15 1522 IZ2ZQP          599 058             UA6CE        599 201     
+QSO:   14072 RY 2020-03-15 1526 IZ2ZQP          599 059             EA5BN        599 MU
+QSO:   14073 RY 2020-03-15 1532 IZ2ZQP          599 060             RA3E         599 100           
+QSO:   14073 RY 2020-03-15 1533 IZ2ZQP          599 061             EA5ME        599 MU            
+QSO:   14073 RY 2020-03-15 1543 IZ2ZQP          599 062             UX8ZA        599 076                     
+QSO:   14073 RY 2020-03-15 1548 IZ2ZQP          599 063             RK6ART       599 175
+QSO:   14073 RY 2020-03-15 1551 IZ2ZQP          599 064             LZ7W         599 055           
+QSO:   14073 RY 2020-03-15 1552 IZ2ZQP          599 065             EA4CFT       599 M             
+QSO:   14073 RY 2020-03-15 1555 IZ2ZQP          599 066             YO3RU        599 224
+QSO:   14073 RY 2020-03-15 1558 IZ2ZQP          599 067             DL3SYA       599 533
+QSO:   14073 RY 2020-03-15 1559 IZ2ZQP          599 068             SP2UUU       599 041                      
+QSO:   14073 RY 2020-03-15 1602 IZ2ZQP          599 069             IK8OLM       599 138
+END-OF-LOG:

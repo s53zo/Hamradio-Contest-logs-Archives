@@ -1,0 +1,79 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.06
+
+# The callsign used during the contest.
+CALLSIGN: F4HUW
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: ASSISTED
+
+# Band:20M
+CATEGORY-BAND: 20M
+
+# Mode: CW 
+CATEGORY-MODE: CW
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY-OPERATOR:SINGLE-OP
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: LOW
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 12-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+# Contest: AP-SPRINT, ARRL-10, ARRL-160, ARRL-DX-CW, ARRL-DX-SSB, ARRL-SS-CW,
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST:COUPE-DU-REF B
+
+
+LOCATION:56 
+
+# Operator name
+NAME: hervÃ©
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14034 CW 2021-01-31 1040 F4HUW           599 56         FY5KE         599 fy            
+QSO:   14015 CW 2021-01-31 1114 F4HUW           599 56         SP7IFM        599 196           
+QSO:   14010 CW 2021-01-31 1123 F4HUW           599 56         OH4MDY        599 256           
+QSO:   14019 CW 2021-01-31 1428 F4HUW           599 56         F5IN          599 45            
+QSO:   14013 CW 2021-01-31 1435 F4HUW           599 56         K8GL          599 291           
+QSO:   14030 CW 2021-01-31 1443 F4HUW           599 56         F6KNB         599 33            
+QSO:   14025 CW 2021-01-31 1454 F4HUW           599 56         F5OGL         599 53            
+QSO:   14022 CW 2021-01-31 1505 F4HUW           599 56         K1SM          599 130           
+QSO:   14005 CW 2021-01-31 1513 F4HUW           599 56         W7SW          599 53            
+QSO:   14011 CW 2021-01-31 1528 F4HUW           599 56         N7DR          599 123          
+          
+END-OF-LOG:

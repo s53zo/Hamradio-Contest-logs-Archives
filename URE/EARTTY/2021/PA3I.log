@@ -1,0 +1,173 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.18
+
+# The callsign used during the contest.
+CALLSIGN: PA3I
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: RTTY
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: CHECKLOG
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: OVER-50
+
+# Integer number
+CLAIMED-SCORE: 0
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: DX
+
+# Operator name
+NAME: Joop van Engelen
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7044 RY 2021-04-03 1823 PA3I            599 001             EA7IP         599 SE            
+QSO:    7043 RY 2021-04-03 1825 PA3I            599 002             EA2HE         599 599           
+QSO:    7046 RY 2021-04-03 1831 PA3I            599 003             EA2XR         599 BI            
+QSO:    7046 RY 2021-04-04 0725 PA3I            599 004             OK1MSL        599 086           
+QSO:    7046 RY 2021-04-04 0730 PA3I            599 005             IK3TPP        599 091           
+QSO:    7046 RY 2021-04-04 0859 PA3I            599 006             F4GWY         599 137           
+QSO:    7047 RY 2021-04-04 0902 PA3I            599 007             DK3RA         599 071           
+QSO:    7047 RY 2021-04-04 0903 PA3I            599 008             IW1PNJ        599 274           
+QSO:    7048 RY 2021-04-04 0908 PA3I            599 009             EA3X          599 B             
+QSO:    7047 RY 2021-04-04 0914 PA3I            599 010             LY2F          599 438           
+QSO:    7050 RY 2021-04-04 0917 PA3I            599 011             F4FHV         599 200           
+QSO:    7049 RY 2021-04-04 0918 PA3I            599 012             EA1IQ         599 PO            
+QSO:    7051 RY 2021-04-04 0919 PA3I            599 013             IK4QJF        599 178           
+QSO:    7051 RY 2021-04-04 0920 PA3I            599 014             IW2MXY        599 199           
+QSO:    7053 RY 2021-04-04 0921 PA3I            599 015             OK2HBR        599 157           
+QSO:    7053 RY 2021-04-04 0923 PA3I            599 016             IZ3GOO        599 105           
+QSO:    7054 RY 2021-04-04 0924 PA3I            599 017             EA2VE         599 VI            
+QSO:    7055 RY 2021-04-04 0926 PA3I            599 018             I0WBX         599 241           
+QSO:    7055 RY 2021-04-04 0927 PA3I            599 019             IK3SSJ        599 266           
+QSO:    7055 RY 2021-04-04 0928 PA3I            599 020             EA2DR         599 VI            
+QSO:    7057 RY 2021-04-04 0929 PA3I            599 021             OZ11A         599 410           
+QSO:    7058 RY 2021-04-04 0930 PA3I            599 022             OK2PDM        599 137           
+QSO:   14083 RY 2021-04-04 0936 PA3I            599 023             RA6LIS        599 108           
+QSO:   14084 RY 2021-04-04 0938 PA3I            599 024             UA6CE         599 365           
+QSO:   14084 RY 2021-04-04 0939 PA3I            599 025             RM4K          599 205           
+QSO:   14084 RY 2021-04-04 0940 PA3I            599 026             UR5ZGY        599 256           
+QSO:   14085 RY 2021-04-04 0941 PA3I            599 027             RA3Y          599 524           
+QSO:   14085 RY 2021-04-04 0943 PA3I            599 028             US5ZFT        599 125           
+QSO:   14087 RY 2021-04-04 0945 PA3I            599 029             EA4BAS        599 M             
+QSO:   14087 RY 2021-04-04 0948 PA3I            599 030             EA2VE         599 VI            
+QSO:   14086 RY 2021-04-04 0949 PA3I            599 031             EA4URE        599 HQ            
+QSO:   14086 RY 2021-04-04 0953 PA3I            599 032             EA2XR         599 BI            
+QSO:   14086 RY 2021-04-04 0953 PA3I            599 033             EA7EQ         599 SE            
+QSO:   14087 RY 2021-04-04 0955 PA3I            599 034             4L8A          599 265           
+QSO:   14089 RY 2021-04-04 0957 PA3I            599 035             RA9AU         599 326           
+QSO:   14088 RY 2021-04-04 0959 PA3I            599 036             R8XF          599 150           
+QSO:   14091 RY 2021-04-04 1002 PA3I            599 037             EA2RU         599 VI            
+QSO:   14090 RY 2021-04-04 1003 PA3I            599 038             EA5LU         599 MU            
+QSO:   14091 RY 2021-04-04 1004 PA3I            599 039             SV1JG         599 262           
+QSO:   14090 RY 2021-04-04 1013 PA3I            599 040             TA1BX         599 54            
+QSO:   14093 RY 2021-04-04 1015 PA3I            599 041             UT5EPP        599 402           
+QSO:   14092 RY 2021-04-04 1015 PA3I            599 042             UR5CN         599 232           
+QSO:   14092 RY 2021-04-04 1019 PA3I            599 043             EA1IMW        599 O             
+QSO:   14094 RY 2021-04-04 1022 PA3I            599 044             CN8KD         599 329           
+QSO:   14093 RY 2021-04-04 1119 PA3I            599 045             WA2BOT        599 453           
+QSO:   14093 RY 2021-04-04 1120 PA3I            599 046             EA1BAF        599 OU            
+QSO:   14093 RY 2021-04-04 1124 PA3I            599 047             EA5EN         599 MU            
+QSO:   14094 RY 2021-04-04 1125 PA3I            599 048             UA3PI         599 150           
+QSO:   14094 RY 2021-04-04 1128 PA3I            599 049             UR7QM         599 025           
+QSO:   14095 RY 2021-04-04 1130 PA3I            599 050             UN7LV         599 190           
+QSO:   14095 RY 2021-04-04 1131 PA3I            599 051             EW6DM         599 236           
+QSO:   14096 RY 2021-04-04 1134 PA3I            599 052             LZ3QE         599 512           
+QSO:   14096 RY 2021-04-04 1138 PA3I            599 053             EA7KFX        599 CA            
+QSO:   14097 RY 2021-04-04 1140 PA3I            599 054             LZ2YO         599 298           
+QSO:   14096 RY 2021-04-04 1141 PA3I            599 055             EA7IZB        599 CA            
+QSO:   14099 RY 2021-04-04 1143 PA3I            599 056             UD3T          599 150           
+QSO:   14099 RY 2021-04-04 1151 PA3I            599 057             OG4W          599 352           
+QSO:   14100 RY 2021-04-04 1153 PA3I            599 058             5B4AMM        599 587           
+QSO:   14100 RY 2021-04-04 1154 PA3I            599 059             R3GZ          599 233           
+QSO:   14101 RY 2021-04-04 1156 PA3I            599 060             EA1B          599 S             
+QSO:   14101 RY 2021-04-04 1157 PA3I            599 061             EA7KI         599 MA            
+QSO:   14102 RY 2021-04-04 1200 PA3I            599 062             EA1O          599 SG            
+QSO:   14105 RY 2021-04-04 1351 PA3I            599 063             UD4F          599 269           
+QSO:   14107 RY 2021-04-04 1354 PA3I            599 064             UC6N          599 206           
+QSO:   14106 RY 2021-04-04 1355 PA3I            599 065             UY5VA         599 372           
+QSO:   14108 RY 2021-04-04 1356 PA3I            599 066             RK3DXW        599 372           
+QSO:   14107 RY 2021-04-04 1357 PA3I            599 067             LZ1ND         599 395           
+QSO:   14109 RY 2021-04-04 1400 PA3I            599 068             EB2AM         599 BI            
+QSO:   14109 RY 2021-04-04 1404 PA3I            599 069             VE2RYY        599 388           
+QSO:   14109 RY 2021-04-04 1405 PA3I            599 070             EA5JDN        599 MU            
+QSO:   14111 RY 2021-04-04 1411 PA3I            599 071             YB0RI         599 028           
+QSO:   14121 RY 2021-04-04 1413 PA3I            599 072             CT7AJL        599 636           
+QSO:   14122 RY 2021-04-04 1415 PA3I            599 073             ON6NL         599 499           
+QSO:   14122 RY 2021-04-04 1415 PA3I            599 074             W4PK          599 468           
+QSO:   14085 RY 2021-04-04 1423 PA3I            599 075             SX200JFL      599 175           
+QSO:   14086 RY 2021-04-04 1426 PA3I            599 076             LZ4A          599 358           
+QSO:   14088 RY 2021-04-04 1430 PA3I            599 077             YO3VU         599 327           
+QSO:   14088 RY 2021-04-04 1431 PA3I            599 078             CT1BXT        599 222           
+QSO:   14089 RY 2021-04-04 1435 PA3I            599 079             SV9MBH        599 179           
+QSO:   14097 RY 2021-04-04 1440 PA3I            599 080             ED1R          599 AV            
+QSO:   14101 RY 2021-04-04 1442 PA3I            599 081             SX200EXU      599 272           
+QSO:   14101 RY 2021-04-04 1443 PA3I            599 082             EA4GOY        599 TO            
+QSO:   14105 RY 2021-04-04 1446 PA3I            599 083             EA7KP         599 AL            
+QSO:   14106 RY 2021-04-04 1448 PA3I            599 084             EA7Z          599 H             
+QSO:   14106 RY 2021-04-04 1450 PA3I            599 085             WQ5OO         599 1137          
+QSO:   14107 RY 2021-04-04 1450 PA3I            599 086             UA4FX         599 418           
+QSO:   14111 RY 2021-04-04 1453 PA3I            599 087             TF3AO         599 199           
+QSO:    7042 RY 2021-04-04 1500 PA3I            599 088             LC0X          599 254           
+QSO:    7044 RY 2021-04-04 1502 PA3I            599 089             IK4ZHH        599 006           
+QSO:    7044 RY 2021-04-04 1504 PA3I            599 090             EA2DPS        599 BI            
+QSO:    7045 RY 2021-04-04 1506 PA3I            599 091             OK2EA         599 330           
+QSO:    7046 RY 2021-04-04 1509 PA3I            599 092             RA3Y          599 639           
+QSO:    7046 RY 2021-04-04 1510 PA3I            599 093             IZ3QHA        599 146           
+QSO:    7047 RY 2021-04-04 1512 PA3I            599 094             3Z9W          599 245           
+QSO:    7048 RY 2021-04-04 1514 PA3I            599 095             YO7CW         599 123           
+QSO:    7049 RY 2021-04-04 1515 PA3I            599 096             S51CK         599 421           
+QSO:    7049 RY 2021-04-04 1516 PA3I            599 097             ED1R          599 AV            
+QSO:    7051 RY 2021-04-04 1518 PA3I            599 098             IK2SND        599 425           
+QSO:    7050 RY 2021-04-04 1521 PA3I            599 099             LC7N          599 340           
+QSO:    7051 RY 2021-04-04 1525 PA3I            599 100             OK5TX         599 216           
+QSO:    7052 RY 2021-04-04 1526 PA3I            599 101             EA5O          599 V             
+QSO:    7052 RY 2021-04-04 1529 PA3I            599 102             IV3UHL        599 385           
+QSO:    7053 RY 2021-04-04 1530 PA3I            599 103             F4AIF         599 266           
+QSO:    7059 RY 2021-04-04 1534 PA3I            599 104             IN3BFW        599 131           
+QSO:    7059 RY 2021-04-04 1537 PA3I            599 105             EC5K          599 VM            
+END-OF-LOG:

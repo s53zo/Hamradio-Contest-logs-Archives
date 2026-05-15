@@ -1,0 +1,133 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.18
+
+# The callsign used during the contest.
+CALLSIGN: DL3WM
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE:SSB 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOUR
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 3649
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: 
+
+# Operator name
+NAME: Wolfram von Mach		
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME:2021-03-13 1600 2021-03-14 1600 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7043 PSK 2021-03-14 1029 DL3WM           599 065             SQ1BVG        599 151           
+QSO:    7045 PSK 2021-03-14 1017 DL3WM           599 064             SP4TKR        599 232           
+QSO:    7042 PSK 2021-03-14 1013 DL3WM           599 063             YO9BPX        599 064           
+QSO:    7043 PSK 2021-03-14 1008 DL3WM           599 062             LY5W          599 005           
+QSO:    7042 PSK 2021-03-14 1001 DL3WM           599 061             OZ11A         599 263           
+QSO:    7041 PSK 2021-03-14 0959 DL3WM           599 060             IK2SBB        599 224           
+QSO:    7042 PSK 2021-03-14 0947 DL3WM           599 059             EA2RCA        599 VI            
+QSO:    7040 PSK 2021-03-14 0941 DL3WM           599 058             SP9BGS        599 026           
+QSO:    3582 PSK 2021-03-14 0934 DL3WM           599 057             DO6SHB        599 065           
+QSO:   14073 PSK 2021-03-14 0922 DL3WM           599 056             LZ1ND         599 074           
+QSO:   14072 PSK 2021-03-14 0921 DL3WM           599 055             EA5ITJ        599 CS            
+QSO:   14074 PSK 2021-03-14 0916 DL3WM           599 054             EA6SX         599 IB            
+QSO:   14073 PSK 2021-03-14 0915 DL3WM           599 053             R2XM          599 140           
+QSO:   14072 PSK 2021-03-14 0908 DL3WM           599 052             RA4HL         599 218           
+QSO:   14072 PSK 2021-03-14 0906 DL3WM           599 051             UW1M          599 585           
+QSO:   14069 PSK 2021-03-14 0903 DL3WM           599 050             YT1BX         599 049           
+QSO:   14069 PSK 2021-03-14 0900 DL3WM           599 049             UX4FC         599 102           
+QSO:   14068 PSK 2021-03-14 0852 DL3WM           599 048             EA5O          599 V             
+QSO:   14068 PSK 2021-03-14 0850 DL3WM           599 047             LZ2ZY         599 007           
+QSO:   14070 PSK 2021-03-14 0849 DL3WM           599 046             YO4FPF        599 144           
+QSO:   14070 PSK 2021-03-14 0848 DL3WM           599 044             Z36N          599 090           
+QSO:   14069 PSK 2021-03-14 0848 DL3WM           599 045             UR5QU         599 183           
+QSO:    7046 PSK 2021-03-14 0841 DL3WM           599 043             IN3FOI        599 135           
+QSO:    7044 PSK 2021-03-14 0836 DL3WM           599 042             2E0CVN        599 084           
+QSO:    7042 PSK 2021-03-14 0834 DL3WM           599 041             9A2ZI         599 219           
+QSO:    7042 PSK 2021-03-14 0827 DL3WM           599 040             IK7RVY        599 I             
+QSO:    7043 PSK 2021-03-14 0822 DL3WM           599 039             EA3X          599 B             
+QSO:    7043 PSK 2021-03-14 0813 DL3WM           599 038             ED7N          599 CO            
+QSO:    7042 PSK 2021-03-14 0808 DL3WM           599 037             EC6DX         599 IB            
+QSO:    7043 PSK 2021-03-14 0806 DL3WM           599 036             F4FSY         599 290           
+QSO:    7041 PSK 2021-03-14 0757 DL3WM           599 035             M3ECT         599 091           
+QSO:    7041 PSK 2021-03-14 0752 DL3WM           599 034             DM2DK         599 004           
+QSO:    7042 PSK 2021-03-14 0748 DL3WM           599 033             SP7O          599 188           
+QSO:    7040 PSK 2021-03-14 0743 DL3WM           599 032             YO9HP         599 103           
+QSO:    7041 PSK 2021-03-14 0740 DL3WM           599 031             IT9VCE        599 386           
+QSO:    7042 PSK 2021-03-13 1923 DL3WM           599 030             EA4GOY        599 TO            
+QSO:    7042 PSK 2021-03-13 1914 DL3WM           599 029             I0WBX         599 052           
+QSO:    7041 PSK 2021-03-13 1908 DL3WM           599 028             DG0OS         599 019           
+QSO:    7041 PSK 2021-03-13 1905 DL3WM           599 027             DL1ALA        599 015           
+QSO:    7038 PSK 2021-03-13 1900 DL3WM           599 026             UR5ZGY        599 069           
+QSO:    7041 PSK 2021-03-13 1806 DL3WM           599 025             HA7XC         599 102           
+QSO:    7041 PSK 2021-03-13 1801 DL3WM           599 024             F4FDR         599 085           
+QSO:    7042 PSK 2021-03-13 1756 DL3WM           599 023             IV3KKW        599 064           
+QSO:   14073 PSK 2021-03-13 1747 DL3WM           599 022             EA7YV         599 MA            
+QSO:   14073 PSK 2021-03-13 1745 DL3WM           599 021             SX200JFL      599 033           
+QSO:   14071 PSK 2021-03-13 1741 DL3WM           599 020             DL1ALA        599 010           
+QSO:   14072 PSK 2021-03-13 1738 DL3WM           599 019             EA7KI         599 MA            
+QSO:   14071 PSK 2021-03-13 1737 DL3WM           599 018             EA5CH         599 A             
+QSO:   14072 PSK 2021-03-13 1734 DL3WM           599 017             SV1JG         599 063           
+QSO:   14072 PSK 2021-03-13 1723 DL3WM           599 016             EA4BAS        599 M             
+QSO:    7042 PSK 2021-03-13 1716 DL3WM           599 015             E77EA         599 044           
+QSO:    7043 PSK 2021-03-13 1712 DL3WM           599 014             IW3FVZ        599 015           
+QSO:    7043 PSK 2021-03-13 1710 DL3WM           599 013             UW1G          599 040           
+QSO:    7043 PSK 2021-03-13 1707 DL3WM           599 012             UT5EPP        599 039           
+QSO:    7041 PSK 2021-03-13 1701 DL3WM           599 011             RV3ZN         599 011           
+QSO:    7042 PSK 2021-03-13 1659 DL3WM           599 010             SP9WZO        599 030           
+QSO:    7042 PSK 2021-03-13 1654 DL3WM           599 009             HA1TIB        599 010           
+QSO:    7042 PSK 2021-03-13 1646 DL3WM           599 008             US7KC         599 029           
+QSO:    7041 PSK 2021-03-13 1643 DL3WM           599 007             RA3Y          599 032           
+QSO:    7041 PSK 2021-03-13 1632 DL3WM           599 006             F5PVK         599 007           
+QSO:    7041 PSK 2021-03-13 1631 DL3WM           599 005             F5SIZ         599 010           
+QSO:    7042 PSK 2021-03-13 1628 DL3WM           599 004             OO4B          599 001           
+QSO:    7040 PSK 2021-03-13 1622 DL3WM           599 003             S52GO         599 003           
+QSO:    7042 PSK 2021-03-13 1611 DL3WM           599 002             YL3CU         599 011           
+QSO:    7040 PSK 2021-03-13 1606 DL3WM           599 001             M0SHK         599 004           
+END-OF-LOG:

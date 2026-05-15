@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+scripts/__pycache__/
+analysis/
+callsigns.sqlite3
+CQWW/.DS_Store
+.omx/
+/index.html
+/404.html
+scripts/download_tasks_ledger.sqlite.corrupt-*
+scripts/download_tasks_ledger.sqlite-shm
+scripts/download_tasks_ledger.sqlite-wal

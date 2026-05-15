@@ -1,0 +1,89 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.0.1
+
+# The callsign used during the contest.
+CALLSIGN: EA5IYL
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: RTTY
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL LOW
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 414
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: EA5RKB
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: im98ri
+
+# Operator name
+NAME: Mikel Forcada
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: EA5IYL
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14091 RY 2020-04-04 2039 EA5IYL          599 A          EA5FHK        599 A             
+QSO:   14105 RY 2020-04-05 0739 EA5IYL          599 A          SV8DCY        599 165           
+QSO:   14116 RY 2020-04-05 0748 EA5IYL          599 A          SV3DCX        599 290           
+QSO:   14115 RY 2020-04-05 0749 EA5IYL          599 A          LY1R          599 192           
+QSO:   14104 RY 2020-04-05 0752 EA5IYL          599 A          R7AB          599 409           
+QSO:   14112 RY 2020-04-05 0754 EA5IYL          599 A          9A6A          599 189           
+QSO:   14108 RY 2020-04-05 0759 EA5IYL          599 A          SV2BFN        599 345           
+QSO:   14103 RY 2020-04-05 0809 EA5IYL          599 A          YL2CI         599 250           
+QSO:   14112 RY 2020-04-05 0826 EA5IYL          599 A          LZ2JA         599 175           
+QSO:    7068 RY 2020-04-05 0836 EA5IYL          599 A          CN8YZ         599 379           
+QSO:   14119 RY 2020-04-05 0849 EA5IYL          599 A          SV1DPI        599 201           
+QSO:   14121 RY 2020-04-05 1408 EA5IYL          599 A          S54Z          599 498           
+QSO:   14128 RY 2020-04-05 1410 EA5IYL          599 A          IT9STX        599 517           
+QSO:   14110 RY 2020-04-05 1412 EA5IYL          599 A          LZ2YO         599 294           
+QSO:   14121 RY 2020-04-05 1414 EA5IYL          599 A          F5VKT         599 552           
+QSO:    7066 RY 2020-04-05 1421 EA5IYL          599 A          EA4URE        599 HQ            
+QSO:    7052 RY 2020-04-05 1425 EA5IYL          599 A          EA7KE         599 SE            
+QSO:   14120 RY 2020-04-05 1445 EA5IYL          599 A          YU3A          599 157           
+QSO:   14117 RY 2020-04-05 1449 EA5IYL          599 A          UR2Y          599 469           
+QSO:   14113 RY 2020-04-05 1451 EA5IYL          599 A          IW1PNJ        599 320           
+QSO:    7040 RY 2020-04-05 1600 EA5IYL          599 A          IN3FOI        599 438           
+END-OF-LOG:

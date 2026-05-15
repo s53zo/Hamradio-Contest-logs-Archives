@@ -1,0 +1,52 @@
+START-OF-LOG: 3.0
+X-DATE-RECEIVED: 2024-04-04 14:47:00 UTC
+CONTEST: CQ-WPX-SSB
+CALLSIGN: JE1SPY
+LOCATION: DX
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: 160M
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-STATION: FIXED
+CATEGORY-OVERLAY: CLASSIC
+GRID-LOCATOR: PM95PP
+CLAIMED-SCORE: 456
+NAME: SAKAAKI ASHIKAWA
+CREATED-BY:
+SOAPBOX: In the Japanese band plan, SSB is only 30KHz wide from 1845 to 1875KHz.
+SOAPBOX: Moreover, since it is LSB, 1848KHz is the limit on the lower side, so
+SOAPBOX: you cannot call a DX station that runs at 1845KHz. (Because the lower
+SOAPBOX: wave band 3KHz of LSB enters the digital band) Since the Japanese band
+SOAPBOX: plan is treated the same as the Radio Law provisions, there are penal
+SOAPBOX: provisions for administrative sanctions,so amateur radio operators are
+SOAPBOX: free to do so at the time of the contest.
+SOAPBOX: It cannot be changed. Therefore, DX stations should fully understand
+SOAPBOX: that only 1848 to 1875KHz can communicate with Japanese stations via
+SOAPBOX: SSB.
+QSO:    1800 PH 2024-03-30 1008 JE1SPY           59  001   JR1ENT           59   001     0
+QSO:    1800 PH 2024-03-30 1010 JE1SPY           59  002   JL1XGA           59   001     0
+QSO:    1800 PH 2024-03-30 1011 JE1SPY           59  003   JA7HTF           59   001     0
+QSO:    1800 PH 2024-03-30 1121 JE1SPY           59  004   JE8OYB           59   002     0
+QSO:    1800 PH 2024-03-30 1131 JE1SPY           59  005   JA9RPU           59   012     0
+QSO:    1800 PH 2024-03-30 1159 JE1SPY           59  006   JI1DCW           59   002     0
+QSO:    1800 PH 2024-03-30 1221 JE1SPY           59  007   JA1BJI           59   446     0
+QSO:    1800 PH 2024-03-30 1227 JE1SPY           59  008   JH9URT           59   007     0
+QSO:    1800 PH 2024-03-30 1230 JE1SPY           59  009   JI4WHS           59   077     0
+QSO:    1800 PH 2024-03-30 1244 JE1SPY           59  010   JQ1YUF           59   423     0
+QSO:    1800 PH 2024-03-30 1247 JE1SPY           59  011   JS1OYN           59   306     0
+QSO:    1800 PH 2024-03-30 1250 JE1SPY           59  012   JA7HXG           59   071     0
+QSO:    1800 PH 2024-03-30 1305 JE1SPY           59  013   JR3UIC           59   024     0
+QSO:    1800 PH 2024-03-30 1315 JE1SPY           59  014   7L3WNX           59   002     0
+QSO:    1800 PH 2024-03-30 1317 JE1SPY           59  015   JA5TDE           59   001     0
+QSO:    1800 PH 2024-03-30 1334 JE1SPY           59  016   JR2GRX           59   1122    0
+QSO:    1800 PH 2024-03-30 1335 JE1SPY           59  017   JF2QNM           59   805     0
+QSO:    1800 PH 2024-03-31 1109 JE1SPY           59  018   JF2FIU           59   280     0
+QSO:    1800 PH 2024-03-31 1153 JE1SPY           59  019   JM7VQO           59   001     0
+QSO:    1800 PH 2024-03-31 1217 JE1SPY           59  020   JH7UJU           59   160     0
+QSO:    1800 PH 2024-03-31 1218 JE1SPY           59  021   JS1IGO           59   008     0
+QSO:    1800 PH 2024-03-31 1219 JE1SPY           59  022   JA7ODY           59   421     0
+QSO:    1800 PH 2024-03-31 1236 JE1SPY           59  023   JE2OTM           59   065     0
+QSO:    1800 PH 2024-03-31 1303 JE1SPY           59  024   JH7XWT           59   045     0
+END-OF-LOG:

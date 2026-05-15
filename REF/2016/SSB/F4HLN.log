@@ -1,0 +1,87 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 3.23.08.14
+
+# The callsign used during the contest.
+CALLSIGN: F4HLN 
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: SSB
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY-OPERATOR: SINGLE-OP
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: LOW
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: REF HF
+
+
+LOCATION: 06 
+
+# Operator name
+NAME:Yves
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:  7131 PH 2016-02-27 1341 F4HLN         59   06    F4ESW	     59   85                           
+QSO:  7147 PH 2016-02-27 1353 F4HLN         59   06    F5UTN         59   27                    
+QSO:  7158 PH 2016-02-27 1358 F4HLN         59   06    F6DYX         59   49	                    
+QSO:  7161 PH 2016-02-27 1403 F4HLN         59   06    TM4P          59   48                    
+QSO: 14125 PH 2016-02-27 1458 F4HLN         59   06    EI4II         59   24              
+QSO:  7163 PH 2016-02-27 1539 F4HLN         59   06    F5NUI         59   42                    
+QSO:  7179 PH 2016-02-27 1550 F4HLN         59   06    F5SIZ         59   12                    
+QSO:  7184 PH 2016-02-27 1556 F4HLN         59   06    F8EMH         59   54                    
+QSO:  3616 PH 2016-02-28 0824 F4HLN         59   06    F1RCH         59   13                    
+QSO:  7046 PH 2016-02-28 0843 F4HLN         59   06    F5OAM         59   47                    
+QSO:  7141 PH 2016-02-28 0910 F4HLN         59   06    F6DEV         59   09                    
+QSO:  7129 PH 2016-02-28 0913 F4HLN         59   06    F6KHS         59   24                    
+QSO:  7081 PH 2016-02-28 1010 F4HLN         59   06    F1PVR         59   31                    
+QSO:  7091 PH 2016-02-28 1037 F4HLN         59   06    F4BCG         59   91                    
+QSO:  7092 PH 2016-02-28 1054 F4HLN         59   06    TM1A          59   77                    
+QSO:  7105 PH 2016-02-28 1128 F4HLN         59   06    F8KHO/P       59   51                    
+QSO:  7131 PH 2016-02-28 1408 F4HLN         59   06    F5LBL         59   30                    
+QSO:  7157 PH 2016-02-28 1419 F4HLN         59   06    F8BNN         59   57                    
+QSO:  7160 PH 2016-02-28 1434 F4HLN         59   06    TK5KP         59   2A                    
+QSO:  7163 PH 2016-02-28 1443 F4HLN         59   06    F6KNB         59   33                    
+QSO:  7166 PH 2016-02-28 1501 F4HLN         59   06    F8GGZ         59   39                    
+QSO:  7169 PH 2016-02-28 1513 F4HLN         59   06    F1TZG         59   26                    
+QSO:  7176 PH 2016-02-28 1530 F4HLN         59   06    F5DJL         59   74                    
+QSO:  7181 PH 2016-02-28 1604 F4HLN         59   06    F6BIA         59   91                    
+QSO:  3633 PH 2016-02-28 1725 F4HLN         59   06    TM6A          59   41                    
+QSO:  3652 PH 2016-02-28 1736 F4HLN         59   06    F5KEK         59   03                    
+QSO:  3665 PH 2016-02-28 1749 F4HLN         59   06    F6KBR         59   66                    
+END-OF-LOG:

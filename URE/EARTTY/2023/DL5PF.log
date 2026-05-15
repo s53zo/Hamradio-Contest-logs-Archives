@@ -1,0 +1,92 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: DL5PF
+CATEGORY: SINGLE-OP ALL QRP
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 1740
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14085 RY         2023-04-02 0821 DL5PF           599 001             IW1PNJ        599 304           
+QSO:   14085 RY         2023-04-02 0824 DL5PF           599 002             IK0SXU        599 096           
+QSO:   14087 RY         2023-04-02 0828 DL5PF           599 003             EA1B          599 S             
+QSO:   14088 RY         2023-04-02 0830 DL5PF           599 004             LZ6E          599 656           
+QSO:   14089 RY         2023-04-02 0833 DL5PF           599 005             EW8DX         599 301           
+QSO:   14092 RY         2023-04-02 0835 DL5PF           599 006             ED1R          599 AV            
+QSO:   14094 RY         2023-04-02 0845 DL5PF           599 007             S57YK         599 083           
+QSO:   14095 RY         2023-04-02 0847 DL5PF           599 008             SV2BFN        599 398           
+QSO:   14096 RY         2023-04-02 0854 DL5PF           599 009             HA8BQ         599 141           
+QSO:   14099 RY         2023-04-02 0900 DL5PF           599 010             EA4W          599 M             
+QSO:   14100 RY         2023-04-02 0905 DL5PF           599 011             EF5K          599 V             
+QSO:   14101 RY         2023-04-02 0910 DL5PF           599 012             9A1A          599 540           
+QSO:   14103 RY         2023-04-02 0911 DL5PF           599 013             9A5Y          599 840           
+QSO:   14104 RY         2023-04-02 0915 DL5PF           599 014             EE1D          599 SO            
+QSO:   14106 RY         2023-04-02 0921 DL5PF           599 016             SV1JG         599 245           
+QSO:   14108 RY         2023-04-02 0925 DL5PF           599 017             ED1B          599 O             
+QSO:   14108 RY         2023-04-02 0928 DL5PF           599 018             IK6CLX        599 138           
+QSO:   14116 RY         2023-04-02 0937 DL5PF           599 019             EI3GC         599 156           
+QSO:   14115 RY         2023-04-02 0939 DL5PF           599 020             LZ6K          599 262           
+QSO:   21080 RY         2023-04-02 0942 DL5PF           599 021             RG9A          599 1005          
+QSO:   21082 RY         2023-04-02 0944 DL5PF           599 022             EA3OH         599 AV            
+QSO:   21084 RY         2023-04-02 0947 DL5PF           599 023             ED1D          599 P             
+QSO:   21085 RY         2023-04-02 0951 DL5PF           599 024             ED1R          599 AV            
+QSO:   21087 RY         2023-04-02 0953 DL5PF           599 025             EA5BN         599 MU            
+QSO:   21088 RY         2023-04-02 0955 DL5PF           599 026             UW1M          599 1265          
+QSO:   21089 RY         2023-04-02 0956 DL5PF           599 027             EA4URA        599 M             
+QSO:   21090 RY         2023-04-02 0957 DL5PF           599 028             LZ6E          599 722           
+QSO:   28090 RY         2023-04-02 0959 DL5PF           599 029             EA4URE        599 HQ            
+QSO:   28099 RY         2023-04-02 1000 DL5PF           599 030             EA8AH         599 GC            
+QSO:    7048 RY         2023-04-02 1005 DL5PF           599 031             7S9A          599 368           
+QSO:    7043 RY         2023-04-02 1008 DL5PF           599 032             9A1A          599 591           
+QSO:    7044 RY         2023-04-02 1018 DL5PF           599 033             DM5WH         599 199           
+END-OF-LOG:

@@ -1,0 +1,76 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.08
+
+# The callsign used during the contest.
+CALLSIGN: KN6BU
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL HIGH
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 42
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-MAJESTAD-CW
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-MAJESTAD-CW
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7017 CW 2020-05-17 0203 KN6BU           599 001             UT5C          599  0             
+QSO:    7032 CW 2020-05-17 0216 KN6BU           599 002             IV3SKB        599  0             
+QSO:    7006 CW 2020-05-17 0242 KN6BU           599 003             CO8WN         599  0             
+QSO:    7018 CW 2020-05-17 0244 KN6BU           599 004             YT6W          599  0             
+QSO:    7019 CW 2020-05-17 0251 KN6BU           599 005             HP9FG         599  0            
+QSO:    7022 CW 2020-05-17 0255 KN6BU           599 006             US2IR         599  0             
+QSO:    7031 CW 2020-05-17 0300 KN6BU           599 007             EA7W          599  0             
+QSO:   14026 CW 2020-05-17 0337 KN6BU           599 008             ZM4TT         599  0             
+END-OF-LOG:

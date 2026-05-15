@@ -1,0 +1,159 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.01
+
+# The callsign used during the contest.
+CALLSIGN: XE2N
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 20M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP 20M
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 2784
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: Grupo Dx Division del Norte
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: DL95uv 
+
+# Operator name
+NAME: Jose de Jesus Lopez
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: XE2N
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: Este concurso para apoyar a todos nuestros colegas en sus casa
+SOAPBOX: Si la gente se mueve, el virus se mueve,
+SOAPBOX: Si la gente no se mueve, el virus se muere! Duro contra él
+
+QSO:   14083 RY 2020-04-04 1746 XE2N            599 001  1746       K3RWN         599 026           
+QSO:   14101 RY 2020-04-04 1805 XE2N            599 002             KD9MS         599 018           
+QSO:   14113 RY 2020-04-04 1808 XE2N            599 003             VA7ST         599 021           
+QSO:   14120 RY 2020-04-04 1816 XE2N            599 004             W1IE          599 080           
+QSO:   14125 RY 2020-04-04 1819 XE2N            599 005             AI9T          599 024           
+QSO:   14092 RY 2020-04-04 1829 XE2N            599 006             N4IQ          599 052           
+QSO:   14092 RY 2020-04-04 1835 XE2N            599 007             N9LJX         599 003           
+QSO:   14092 RY 2020-04-04 1843 XE2N            599 008             K6ELE         599 001           
+QSO:   14092 RY 2020-04-04 1843 XE2N            599 009             K2MK          599 019           
+QSO:   14092 RY 2020-04-04 1900 XE2N            599 010             W7DGR         599 010           
+QSO:   14092 RY 2020-04-04 1902 XE2N            599 011             WS6K/8        599 015           
+QSO:   14092 RY 2020-04-04 1903 XE2N            599 012             K9OM          599 083           
+QSO:   14092 RY 2020-04-04 1905 XE2N            599 013             WB8VQU        599 001           
+QSO:   14092 RY 2020-04-04 1917 XE2N            599 014             NK6A          599 029           
+QSO:   14092 RY 2020-04-04 1920 XE2N            599 015             N2BJ          599 093           
+QSO:   14092 RY 2020-04-04 1922 XE2N            599 016             NE3H          599 091           
+QSO:   14091 RY 2020-04-04 1937 XE2N            599 017             I2WIJ         599 021           
+QSO:   14092 RY 2020-04-04 1939 XE2N            599 018             EA2XR         599 BI            
+QSO:   14094 RY 2020-04-04 1941 XE2N            599 019             VE5MX         599 096           
+QSO:   14096 RY 2020-04-04 1943 XE2N            599 020             EA2VE         599 VI            
+QSO:   14102 RY 2020-04-04 1951 XE2N            599 021             EA8DO         599 TF            
+QSO:   14092 RY 2020-04-04 2029 XE2N            599 022             WD5DBV        599 157           
+QSO:   14086 RY 2020-04-04 2042 XE2N            599 023             KW9U          599 007           
+QSO:   14086 RY 2020-04-04 2048 XE2N            599 024             N9EXL         599 007           
+QSO:   14086 RY 2020-04-04 2109 XE2N            599 025             K0TC          599 048           
+QSO:   14085 RY 2020-04-04 2113 XE2N            599 026             W7CXX         599 020           
+QSO:   14095 RY 2020-04-04 2137 XE2N            599 027             N9NA          599 059           
+QSO:   14100 RY 2020-04-04 2144 XE2N            599 028             K9NR          599 070           
+QSO:   14101 RY 2020-04-04 2146 XE2N            599 029             W0TY          599 055           
+QSO:   14104 RY 2020-04-04 2152 XE2N            599 030             W7PU          599 030           
+QSO:   14108 RY 2020-04-04 2156 XE2N            599 031             IT9STX        599 032           
+QSO:   14110 RY 2020-04-04 2157 XE2N            599 032             KD8FS         599 101           
+QSO:   14113 RY 2020-04-04 2201 XE2N            599 033             WQ5OO         599 286           
+QSO:   14120 RY 2020-04-04 2204 XE2N            599 034             WN6K          599 058           
+QSO:   14095 RY 2020-04-04 2211 XE2N            599 036             CO8BYT        599 032           
+QSO:   14096 RY 2020-04-04 2216 XE2N            599 037             EA2VE         599 VI            
+QSO:   14094 RY 2020-04-04 2221 XE2N            599 038             KS4Q          599 067           
+QSO:   14095 RY 2020-04-04 2224 XE2N            599 039             EA8BQM        599 GC            
+QSO:   14095 RY 2020-04-04 2225 XE2N            599 040             N4KXO         599 040           
+QSO:   14095 RY 2020-04-04 2225 XE2N            599 041             NS4X          599 050           
+QSO:   14095 RY 2020-04-04 2226 XE2N            599 042             W0LSD         599 224           
+QSO:   14095 RY 2020-04-04 2229 XE2N            599 043             EC5W          599 A             
+QSO:   14095 RY 2020-04-04 2232 XE2N            599 044             W6SX          599 084           
+QSO:   14095 RY 2020-04-04 2233 XE2N            599 044             W6SX          599 084           
+QSO:   14095 RY 2020-04-04 2234 XE2N            599 045             WJ2D          599 008           
+QSO:   14095 RY 2020-04-04 2235 XE2N            599 046             K0TG          599 040           
+QSO:   14095 RY 2020-04-04 2236 XE2N            599 047             N6QQ          599 050           
+QSO:   14095 RY 2020-04-04 2237 XE2N            599 048             ND4G          599 060           
+QSO:   14095 RY 2020-04-04 2238 XE2N            599 049             KD4TRG        599 046           
+QSO:   14095 RY 2020-04-04 2244 XE2N            599 050             NG7M          599 036           
+QSO:   14094 RY 2020-04-04 2251 XE2N            599 051             W9IIX         599 020           
+QSO:   14095 RY 2020-04-04 2258 XE2N            599 052             CO6OV         599 072           
+QSO:   14095 RY 2020-04-04 2300 XE2N            599 053             W6MOB         599 029           
+QSO:   14095 RY 2020-04-04 2301 XE2N            599 054             VE2EBK        599 052           
+QSO:   14095 RY 2020-04-04 2305 XE2N            599 055             ED4T          599 TO            
+QSO:   14095 RY 2020-04-04 2311 XE2N            599 056             AA4DD         599 098           
+QSO:   14095 RY 2020-04-04 2318 XE2N            599 057             CO6EC         599 005           
+QSO:   14095 RY 2020-04-04 2320 XE2N            599 058             KB3MI         599 016           
+QSO:   14095 RY 2020-04-04 2321 XE2N            599 059             K6HGF         599 076           
+QSO:   14095 RY 2020-04-04 2322 XE2N            599 060             WF8E          599 010           
+QSO:   14095 RY 2020-04-04 2322 XE2N            599 061             W9VQ          599 003           
+QSO:   14095 RY 2020-04-04 2323 XE2N            599 062             N2JF          599 002           
+QSO:   14095 RY 2020-04-04 2323 XE2N            599 063             W8DN          599 014           
+QSO:   14123 RY 2020-04-05 0032 XE2N            599 064             WN6K          599 054           
+QSO:   14089 RY 2020-04-05 0034 XE2N            599 065             W7CT          599 024           
+QSO:   14095 RY 2020-04-05 0038 XE2N            599 066             VE3JI         599 058           
+QSO:   14086 RY 2020-04-05 0102 XE2N            599 067             KJ4GK         599 029           
+QSO:   14086 RY 2020-04-05 0121 XE2N            599 068             KH6GMP        599 016           
+QSO:   14084 RY 2020-04-05 1400 XE2N            599 069             W1FSH         599 023              
+QSO:   14086 RY 2020-04-05 1401 XE2N            599 070             CO2GL         599 003              
+QSO:   14087 RY 2020-04-05 1426 XE2N            599 071             N1IXF         599 397           
+QSO:   14087 RY 2020-04-05 1431 XE2N            599 072             K4FX          599 419           
+QSO:   14087 RY 2020-04-05 1435 XE2N            599 073             WV8DH         599 174           
+QSO:   14087 RY 2020-04-05 1441 XE2N            599 074             N9QWV         599 018           
+QSO:   14087 RY 2020-04-05 1447 XE2N            599 075             KM4SII        599 295           
+QSO:   14087 RY 2020-04-05 1447 XE2N            599 076             N9WG          599 202           
+QSO:   14087 RY 2020-04-05 1458 XE2N            599 077             K1VW          599 162           
+QSO:   14087 RY 2020-04-05 1503 XE2N            599 078             K0FX          599 117           
+QSO:   14087 RY 2020-04-05 1504 XE2N            599 079             WW4LL         599 359           
+QSO:   14087 RY 2020-04-05 1512 XE2N            599 080             WN8Y          599 030           
+QSO:   14087 RY 2020-04-05 1515 XE2N            599 081             AA2MF         599 734           
+QSO:   14087 RY 2020-04-05 1522 XE2N            599 040             N4KXO         599 120           
+QSO:   14087 RY 2020-04-05 1524 XE2N            599 082             KT1I          599 121           
+QSO:   14087 RY 2020-04-05 1525 XE2N            599 083             AI4WW         599 076           
+QSO:   14088 RY 2020-04-05 1530 XE2N            599 084             W0LPF         599 011           
+QSO:   14093 RY 2020-04-05 1540 XE2N            599 085             EM0I          599 1192          
+QSO:   14134 RY 2020-04-05 1548 XE2N            599 086             W5AP          599 567           
+QSO:   14135 RY 2020-04-05 1549 XE2N            599 087             KC4SAW        599 281           
+QSO:   14094 RY 2020-04-05 1557 XE2N            599 088             N4CW          599 242           
+QSO:   14090 RY 2020-04-05 1600 XE2N            599 089             NX6T          599 084           
+END-OF-LOG:
+

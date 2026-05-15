@@ -1,0 +1,114 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.14
+
+# The callsign used during the contest.
+CALLSIGN: EA1NJ
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 40M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: MIXED
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP 40M
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 1950
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: URE
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: Valladolid
+
+# Operator name
+NAME: Julio
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7049 PSK 2021-03-13 1617 EA1NJ           599 VA              EA2ESB        599 TE            
+QSO:    7046 PSK 2021-03-13 1633 EA1NJ           599 VA              EA3GHA        599 T             
+QSO:    7046 PSK 2021-03-13 1650 EA1NJ           599 VA              EC3A          599 T             
+QSO:    7047 PSK 2021-03-13 1656 EA1NJ           599 VA              EA7RCS        599 S             
+QSO:    7055 PSK 2021-03-13 1702 EA1NJ           599 VA              EA3AQ         599 B             
+QSO:    7045 PSK 2021-03-13 2020 EA1NJ           599 VA              2U0WZY        599 045           
+QSO:    7046 PSK 2021-03-13 2036 EA1NJ           599 VA              C31MF         599 052           
+QSO:    7047 PSK 2021-03-13 2039 EA1NJ           599 VA              G1P           599 121           
+QSO:    7047 PSK 2021-03-13 2047 EA1NJ           599 VA              F5PVK         599 029           
+QSO:    7046 PSK 2021-03-13 2049 EA1NJ           599 VA              EA8/HB9FIH    599 TF            
+QSO:    7047 PSK 2021-03-13 2051 EA1NJ           599 VA              SP7O          599 105           
+QSO:    7046 PSK 2021-03-13 2056 EA1NJ           599 VA              EA3Y          599 GI            
+QSO:    7046 PSK 2021-03-13 2132 EA1NJ           599 VA              EB1RL         599 BU            
+QSO:    7047 PSK 2021-03-13 2143 EA1NJ           599 VA              EB3EFU        599 GI            
+QSO:    7046 PSK 2021-03-13 2148 EA1NJ           599 VA              YL3CU         599 133           
+QSO:    7046 PSK 2021-03-13 2152 EA1NJ           599 VA              ON6AT         599 074           
+QSO:    7055 PSK 2021-03-13 2202 EA1NJ           599 VA              EA6SX         599 IB            
+QSO:    7056 PSK 2021-03-13 2207 EA1NJ           599 VA              EA5JDN        599 MU            
+QSO:    7054 PSK 2021-03-13 2211 EA1NJ           599 VA              HA1TIB        599 70            
+QSO:    7055 PSK 2021-03-13 2219 EA1NJ           599 VA              IV3DXW        599 163           
+QSO:    7046 PSK 2021-03-14 0908 EA1NJ           599 VA              OE3RTB        599 119           
+QSO:    7046 PSK 2021-03-14 0908 EA1NJ           599 VA              EA3DNC        599 B             
+QSO:    7046 PSK 2021-03-14 0940 EA1NJ           599 VA              EA5DPF        599 MU            
+QSO:    7047 PSK 2021-03-14 0942 EA1NJ           599 VA              IT9VCE        599 440           
+QSO:    7046 PSK 2021-03-14 0955 EA1NJ           599 VA              9A2ZI         599 253           
+QSO:    7047 PSK 2021-03-14 0957 EA1NJ           599 VA              SP4TKR        599 216           
+QSO:    7047 PSK 2021-03-14 1000 EA1NJ           599 VA              DL2KWA        599 110           
+QSO:    7046 PSK 2021-03-14 1001 EA1NJ           599 VA              ED7B          599 CO            
+QSO:    7045 PSK 2021-03-14 1008 EA1NJ           599 VA              F1IWH         599 091           
+QSO:    7046 PSK 2021-03-14 1016 EA1NJ           599 VA              IN3FOI        599 190           
+QSO:    7046 PSK 2021-03-14 1033 EA1NJ           599 VA              ED2C          599 VI            
+QSO:    7047 PSK 2021-03-14 1101 EA1NJ           599 VA              EA3IAZ        599 GI            
+QSO:    7046 PSK 2021-03-14 1146 EA1NJ           599 VA              DF2SD         599 358           
+QSO:    7047 PSK 2021-03-14 1155 EA1NJ           599 VA              DH6BH         599 177           
+QSO:    7047 PSK 2021-03-14 1207 EA1NJ           599 VA              EA7IYF        599 AL            
+QSO:    7047 PSK 2021-03-14 1302 EA1NJ           599 VA              EB5CS         599 CS            
+QSO:    7047 PSK 2021-03-14 1340 EA1NJ           599 VA              EA3GHA        599 T             
+QSO:    7047 PSK 2021-03-14 1343 EA1NJ           599 VA              CQ7EPC        599 116           
+QSO:    7047 PSK 2021-03-14 1347 EA1NJ           599 VA              ON2AD         599 060           
+QSO:    7047 PSK 2021-03-14 1350 EA1NJ           599 VA              EA5ITJ        599 CS            
+QSO:    7045 PSK 2021-03-14 1504 EA1NJ           599 VA              EA3X          599 B             
+QSO:    7046 PSK 2021-03-14 1514 EA1NJ           599 VA              IK2SBB        599 289           
+QSO:    7047 PSK 2021-03-14 1518 EA1NJ           599 VA              F5GFA         599 090           
+QSO:    7048 PSK 2021-03-14 1521 EA1NJ           599 VA              IW3FVZ        599 107           
+QSO:    7046 PSK 2021-03-14 1547 EA1NJ           599 VA              DL4ME         599 144           
+QSO:    7047 PSK 2021-03-14 1550 EA1NJ           599 VA              OR3A          599 380           
+END-OF-LOG:

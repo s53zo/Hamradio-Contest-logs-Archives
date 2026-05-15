@@ -1,0 +1,244 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.23
+
+# The callsign used during the contest.
+CALLSIGN: DC1YL
+CATEGORY: SINGLE-OP ALL
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 24320
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: JN48st
+
+# Operator name
+NAME: Gabriele Wohlfarth
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME:2023-03-11 1200 2023-03-12 0945
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7041 PS        2023-03-11 1201 DC1YL           599 001             IN3BFW        599 002           
+QSO:   14070 PS        2023-03-11 1211 DC1YL           599 002             G9D           599 013           
+QSO:   14071 PS        2023-03-11 1213 DC1YL           599 003             II4ANC        599 002           
+QSO:   14070 PS        2023-03-11 1215 DC1YL           599 004             EA2ESB        599 TE            
+QSO:   14070 PS        2023-03-11 1215 DC1YL           599 005             SP4TXI        599 025           
+QSO:   14070 PS        2023-03-11 1220 DC1YL           599 006             ED1B          599 O             
+QSO:   14069 PS        2023-03-11 1221 DC1YL           599 007             OK2HBR        599 011           
+QSO:   14071 PS        2023-03-11 1225 DC1YL           599 008             PD2PKM        599 032           
+QSO:   14071 PS        2023-03-11 1227 DC1YL           599 009             PA7AL         599 022           
+QSO:   14069 PS        2023-03-11 1230 DC1YL           599 010             YO3RU         599 006           
+QSO:   14072 PS        2023-03-11 1234 DC1YL           599 011             PA4O          599 026           
+QSO:   14072 PS        2023-03-11 1235 DC1YL           599 012             HA1DAE        599 012           
+QSO:   14071 PS        2023-03-11 1235 DC1YL           599 013             EA4URE        599 HQ            
+QSO:   14071 PS        2023-03-11 1237 DC1YL           599 014             SE4E          599 023           
+QSO:   14070 PS        2023-03-11 1238 DC1YL           599 015             SV1JG         599 039           
+QSO:   14072 PS        2023-03-11 1240 DC1YL           599 016             DL3SYA        599 026           
+QSO:   14073 PS        2023-03-11 1242 DC1YL           599 017             DL3KVR        599 021           
+QSO:   14069 PS        2023-03-11 1248 DC1YL           599 018             F4ITQ         599 037           
+QSO:   14068 PS        2023-03-11 1249 DC1YL           599 019             EE4Y          599 TO            
+QSO:   14067 PS        2023-03-11 1250 DC1YL           599 020             EB5F          599 A             
+QSO:   14072 PS        2023-03-11 1254 DC1YL           599 021             G0HDV         599 023           
+QSO:   14072 PS        2023-03-11 1256 DC1YL           599 022             PA7LV         599 023           
+QSO:   14068 PS        2023-03-11 1259 DC1YL           599 023             SQ2TOM        599 007           
+QSO:   14071 PS        2023-03-11 1303 DC1YL           599 024             EA3FYO        599 B             
+QSO:   14071 PS        2023-03-11 1305 DC1YL           599 025             OM2BK         599 020           
+QSO:   14071 PS        2023-03-11 1307 DC1YL           599 026             US4EWY        599 040           
+QSO:   14069 PS        2023-03-11 1308 DC1YL           599 027             IT9VCE        599 024           
+QSO:   14069 PS        2023-03-11 1312 DC1YL           599 028             EW8DX         599 038           
+QSO:   14071 PS        2023-03-11 1326 DC1YL           599 029             OK2EA         599 044           
+QSO:   14072 PS        2023-03-11 1328 DC1YL           599 030             SP1DOZ        599 036           
+QSO:   14073 PS        2023-03-11 1329 DC1YL           599 031             ED1R          599 AV            
+QSO:   14072 PS        2023-03-11 1330 DC1YL           599 032             EA1CHG        599 ZA            
+QSO:   14072 PS        2023-03-11 1334 DC1YL           599 033             EA4S          599 M             
+QSO:   14070 PS        2023-03-11 1337 DC1YL           599 034             M0SHK         599 045           
+QSO:   14070 PS        2023-03-11 1338 DC1YL           599 035             EF5K          599 V             
+QSO:    7041 PS        2023-03-11 1345 DC1YL           599 036             DK4RL         599 020           
+QSO:    7041 PS        2023-03-11 1346 DC1YL           599 037             HA1TIB        599 007           
+QSO:   14073 PS        2023-03-11 1357 DC1YL           599 038             SP1TJ         599 063           
+QSO:   14070 PS        2023-03-11 1359 DC1YL           599 039             EA2AR         599 NA            
+QSO:   14072 PS        2023-03-11 1401 DC1YL           599 040             G0OSK         599 037           
+QSO:   14072 PS        2023-03-11 1402 DC1YL           599 041             F4FDR         599 007           
+QSO:   14067 PS        2023-03-11 1404 DC1YL           599 042             OM8JP         599 039           
+QSO:   14067 PS        2023-03-11 1405 DC1YL           599 043             G1P           599 065           
+QSO:   14069 PS        2023-03-11 1413 DC1YL           599 044             UA9XL         599 082           
+QSO:   14070 PS        2023-03-11 1415 DC1YL           599 045             YO4NF         599 097           
+QSO:   14072 PS        2023-03-11 1418 DC1YL           599 046             G3G           599 063           
+QSO:   14071 PS        2023-03-11 1420 DC1YL           599 047             EA4BAS        599 M             
+QSO:   14072 PS        2023-03-11 1421 DC1YL           599 048             SP9BCH        599 025           
+QSO:   14070 PS        2023-03-11 1431 DC1YL           599 049             YO3GNF        599 009           
+QSO:   14072 PS        2023-03-11 1435 DC1YL           599 050             EA1IT         599 S             
+QSO:   14071 PS        2023-03-11 1442 DC1YL           599 051             GW0A          599 016           
+QSO:   14069 PS        2023-03-11 1445 DC1YL           599 052             EA2DDE        599 NA            
+QSO:   14070 PS        2023-03-11 1447 DC1YL           599 053             CR5O          599 130           
+QSO:   14072 PS        2023-03-11 1453 DC1YL           599 054             R1LN          599 085           
+QSO:   14067 PS        2023-03-11 1506 DC1YL           599 055             EA1CQ         599 S             
+QSO:   14070 PS        2023-03-11 1512 DC1YL           599 056             M2E           599 030           
+QSO:   14070 PS        2023-03-11 1513 DC1YL           599 057             LZ6E          599 038           
+QSO:   14073 PS        2023-03-11 1519 DC1YL           599 058             EA4Z          599 M             
+QSO:   14069 PS        2023-03-11 1530 DC1YL           599 059             OH2HOD        599 079           
+QSO:   14069 PS        2023-03-11 1532 DC1YL           599 060             YO7BM         599 009           
+QSO:   14069 PS        2023-03-11 1535 DC1YL           599 061             TA2EJ         599 098           
+QSO:   14070 PS        2023-03-11 1540 DC1YL           599 062             EA1BAF        599 OU            
+QSO:   14069 PS        2023-03-11 1542 DC1YL           599 063             EA7AZA        599 CA            
+QSO:   14066 PS        2023-03-11 1545 DC1YL           599 064             EA4ZM         599 BA            
+QSO:   14067 PS        2023-03-11 1547 DC1YL           599 065             EF5T          599 MU            
+QSO:   14068 PS        2023-03-11 1550 DC1YL           599 066             LY2F          599 188           
+QSO:   14072 PS        2023-03-11 1610 DC1YL           599 067             PA2IP         599 051           
+QSO:   14071 PS        2023-03-11 1614 DC1YL           599 068             EA5HKZ        599 A             
+QSO:   14073 PS        2023-03-11 1617 DC1YL           599 069             SQ8YHF        599 102           
+QSO:   14071 PS        2023-03-11 1621 DC1YL           599 070             LY1R          599 048           
+QSO:   14071 PS        2023-03-11 1627 DC1YL           599 071             EA5KE         599 V             
+QSO:   14072 PS        2023-03-11 1631 DC1YL           599 072             G4EBY         599 066           
+QSO:   14071 PS        2023-03-11 1634 DC1YL           599 073             EA5IY         599 CS            
+QSO:   14069 PS        2023-03-11 1639 DC1YL           599 074             R3AQ          599 027           
+QSO:   14067 PS        2023-03-11 1641 DC1YL           599 075             IK5FKF        599 079           
+QSO:   14066 PS        2023-03-11 1644 DC1YL           599 076             F5RD          599 090           
+QSO:   14065 PS        2023-03-11 1646 DC1YL           599 077             EA5HYJ        599 V             
+QSO:   14071 PS        2023-03-11 1653 DC1YL           599 078             EB1FE         599 O             
+QSO:   14065 PS        2023-03-11 1657 DC1YL           599 079             EC7YY         599 SE            
+QSO:   14065 PS        2023-03-11 1659 DC1YL           599 080             EA5ERA        599 V             
+QSO:   14072 PS        2023-03-11 1733 DC1YL           599 081             2E0INN        599 135           
+QSO:    7040 PS        2023-03-11 1738 DC1YL           599 082             PD2PKM        599 125           
+QSO:    7039 PS        2023-03-11 1741 DC1YL           599 083             G0HDV         599 077           
+QSO:    7039 PS        2023-03-11 1741 DC1YL           599 084             EF5K          599 V             
+QSO:    7039 PS        2023-03-11 1742 DC1YL           599 085             IK2EBP        599 021           
+QSO:    7040 PS        2023-03-11 1743 DC1YL           599 086             OK2HBR        599 122           
+QSO:    7042 PS        2023-03-11 1745 DC1YL           599 087             EA3X          599 B             
+QSO:    7041 PS        2023-03-11 1749 DC1YL           599 088             EC5JC         599 A             
+QSO:    7040 PS        2023-03-11 1753 DC1YL           599 089             ED1R          599 AV            
+QSO:    7041 PS        2023-03-11 1754 DC1YL           599 090             SQ4HRX        599 134           
+QSO:    7042 PS        2023-03-11 1756 DC1YL           599 091             LY2F          599 260           
+QSO:    7042 PS        2023-03-11 1758 DC1YL           599 092             G9D           599 233           
+QSO:    7041 PS        2023-03-11 1759 DC1YL           599 093             S57ZT         599 145           
+QSO:    7042 PS        2023-03-11 1804 DC1YL           599 094             EA5XC         599 NA            
+QSO:    7042 PS        2023-03-11 1813 DC1YL           599 095             LZ6E          599 118           
+QSO:    7044 PS        2023-03-11 1818 DC1YL           599 096             DM5WH         599 031           
+QSO:    7043 PS        2023-03-11 1819 DC1YL           599 097             EA5LU         599 MU            
+QSO:    7045 PS        2023-03-11 1826 DC1YL           599 098             SE6K          599 015           
+QSO:    7043 PS        2023-03-11 1830 DC1YL           599 099             EA2DDE        599 NA            
+QSO:    7043 PS        2023-03-11 1831 DC1YL           599 100             EA3AQ         599 B             
+QSO:    7039 PS        2023-03-11 1837 DC1YL           599 101             IK6SXQ        599 033           
+QSO:    7038 PS        2023-03-11 1838 DC1YL           599 102             SP6IHE        599 132           
+QSO:    7038 PS        2023-03-11 1842 DC1YL           599 103             DF2RG         599 001           
+QSO:    7039 PS        2023-03-11 1843 DC1YL           599 104             SQ1BVG        599 059           
+QSO:    7038 PS        2023-03-11 1847 DC1YL           599 105             G1P           599 170           
+QSO:    7040 PS        2023-03-11 1849 DC1YL           599 106             YO4NF         599 287           
+QSO:    7040 PS        2023-03-11 1850 DC1YL           599 107             ON6YYY        599 144           
+QSO:    7039 PS        2023-03-11 1851 DC1YL           599 108             EF5T          599 MU            
+QSO:    7038 PS        2023-03-11 1852 DC1YL           599 109             EA3IAZ        599 GI            
+QSO:    7041 PS        2023-03-11 1855 DC1YL           599 110             SP4TKR        599 103           
+QSO:    7041 PS        2023-03-11 1858 DC1YL           599 111             CR5O          599 341           
+QSO:    7041 PS        2023-03-11 1900 DC1YL           599 112             HA6NL         599 146           
+QSO:    7041 PS        2023-03-11 1901 DC1YL           599 113             DL4ME         599 037           
+QSO:    7042 PS        2023-03-11 1907 DC1YL           599 114             EE4Y          599 TO            
+QSO:    7043 PS        2023-03-11 1914 DC1YL           599 115             EA5HKZ        599 A             
+QSO:    7038 PS        2023-03-11 1926 DC1YL           599 116             DL3SYA        599 239           
+QSO:    7038 PS        2023-03-11 1928 DC1YL           599 117             IN3OWY        599 081           
+QSO:    7039 PS        2023-03-11 1932 DC1YL           599 118             EA7HAB        599 GR            
+QSO:    7038 PS        2023-03-11 1933 DC1YL           599 119             ON6OM         599 008           
+QSO:    7040 PS        2023-03-11 1935 DC1YL           599 120             EA1IT         599 S             
+QSO:    7040 PS        2023-03-11 1941 DC1YL           599 121             ED1B          599 O             
+QSO:    7040 PS        2023-03-11 1943 DC1YL           599 122             PA7LV         599 122           
+QSO:    7039 PS        2023-03-11 1944 DC1YL           599 123             DL5ASK        599 117           
+QSO:    7039 PS        2023-03-11 1947 DC1YL           599 124             PD5PET        599 102           
+QSO:    7041 PS        2023-03-11 1949 DC1YL           599 125             DL4LT         599 045           
+QSO:    7039 PS        2023-03-11 1951 DC1YL           599 126             PD0MHZ        599 025           
+QSO:    7040 PS        2023-03-11 1953 DC1YL           599 127             YU1NR         599 113           
+QSO:    7040 PS        2023-03-11 1956 DC1YL           599 128             HB9/EA1FID    599 204           
+QSO:    7041 PS        2023-03-11 1956 DC1YL           599 129             SP9DTE        599 162           
+QSO:    7044 PS        2023-03-11 2006 DC1YL           599 130             EA5BN         599 MU            
+QSO:    7044 PS        2023-03-11 2007 DC1YL           599 131             IK5FKF        599 151           
+QSO:    7043 PS        2023-03-11 2010 DC1YL           599 132             IV3UHL        599 198           
+QSO:    7043 PS        2023-03-11 2011 DC1YL           599 133             F5RD          599 133           
+QSO:    7043 PS        2023-03-11 2013 DC1YL           599 134             EA4Z          599 M             
+QSO:    7044 PS        2023-03-11 2015 DC1YL           599 135             SP2MKI        599 094           
+QSO:    7045 PS        2023-03-11 2019 DC1YL           599 136             SQ2TOM        599 119           
+QSO:    7046 PS        2023-03-11 2026 DC1YL           599 137             EA2ESB        599 TE            
+QSO:    7046 PS        2023-03-11 2029 DC1YL           599 138             HG3FMZ        599 258           
+QSO:    7045 PS        2023-03-11 2035 DC1YL           599 139             PE4KH         599 104           
+QSO:    7040 PS        2023-03-11 2038 DC1YL           599 140             G0OSK         599 163           
+QSO:    7041 PS        2023-03-11 2040 DC1YL           599 141             EA4BAS        599 M             
+QSO:    7040 PS        2023-03-11 2041 DC1YL           599 142             EA4URE        599 HQ            
+QSO:    7040 PS        2023-03-11 2043 DC1YL           599 143             PA6AA         599 220           
+QSO:    7041 PS        2023-03-11 2044 DC1YL           599 144             PD1RP         599 116           
+QSO:    7039 PS        2023-03-11 2045 DC1YL           599 145             OM2BK         599 141           
+QSO:    7039 PS        2023-03-11 2048 DC1YL           599 146             PH3T          599 006           
+QSO:    7039 PS        2023-03-11 2051 DC1YL           599 147             M0SHK         599 060           
+QSO:    7041 PS        2023-03-11 2058 DC1YL           599 148             PA3EWG        599 109           
+QSO:    7041 PS        2023-03-11 2059 DC1YL           599 149             SQ5AKY        599 063           
+QSO:    7044 PS        2023-03-11 2122 DC1YL           599 150             DJ9WJ         599 128           
+QSO:    7043 PS        2023-03-11 2123 DC1YL           599 151             EA5HYJ        599 V             
+QSO:    7045 PS        2023-03-11 2127 DC1YL           599 152             DF2SD         599 025           
+QSO:    7044 PS        2023-03-11 2130 DC1YL           599 153             LZ1JZ         599 010           
+QSO:    7045 PS        2023-03-11 2137 DC1YL           599 154             G4ENZ         599 034           
+QSO:    7046 PS        2023-03-11 2141 DC1YL           599 155             I2OGV         599 098           
+QSO:    7041 PS        2023-03-11 2144 DC1YL           599 156             HA3HK         599 074           
+QSO:    7041 PS        2023-03-11 2148 DC1YL           599 157             EA5ITJ        599 CS            
+QSO:    7042 PS        2023-03-11 2155 DC1YL           599 158             EA1BAF        599 OU            
+QSO:    7043 PS        2023-03-11 2156 DC1YL           599 159             PA4O          599 151           
+QSO:    7044 PS        2023-03-11 2204 DC1YL           599 160             EB3EFU        599 GI            
+QSO:    7044 PS        2023-03-11 2205 DC1YL           599 161             M1VPN         599 096           
+QSO:    7047 PS        2023-03-11 2210 DC1YL           599 162             S51I          599 044           
+QSO:    7046 PS        2023-03-11 2211 DC1YL           599 163             2E0INN        599 204           
+QSO:    7041 PS        2023-03-11 2219 DC1YL           599 164             2E0OBO        599 034           
+QSO:    7041 PS        2023-03-11 2221 DC1YL           599 165             EB1FE         599 O             
+QSO:    7039 PS        2023-03-11 2225 DC1YL           599 167             LY1R          599 187           
+QSO:    7040 PS        2023-03-11 2239 DC1YL           599 168             EB5CS         599 CS            
+QSO:    7041 PS        2023-03-11 2241 DC1YL           599 169             EA5FSJ        599 A             
+QSO:    7042 PS        2023-03-11 2246 DC1YL           599 170             M0KKM         599 165           
+QSO:    7041 PS        2023-03-11 2248 DC1YL           599 171             EF5R          599 A             
+QSO:    7043 PS        2023-03-11 2250 DC1YL           599 172             M3AWD         599 127           
+QSO:    7043 PS        2023-03-11 2251 DC1YL           599 173             G4EBY         599 195           
+QSO:    7042 PS        2023-03-11 2310 DC1YL           599 174             F4ITQ         599 310           
+QSO:    7043 PS        2023-03-12 0826 DC1YL           599 175             IK2SBB        599 214           
+QSO:   14068 PS        2023-03-12 0830 DC1YL           599 176             YT7E          599 036           
+QSO:   14069 PS        2023-03-12 0831 DC1YL           599 177             UR4CU         599 126           
+QSO:   14067 PS        2023-03-12 0835 DC1YL           599 178             EB3EFU        599 GI            
+QSO:   14067 PS        2023-03-12 0836 DC1YL           599 179             2E0CVN        599 013           
+QSO:   14067 PS        2023-03-12 0838 DC1YL           599 180             EA1HRR        599 S             
+QSO:   14071 PS        2023-03-12 0847 DC1YL           599 181             RW4HBG        599 333           
+QSO:   14066 PS        2023-03-12 0901 DC1YL           599 182             SE6K          599 078           
+QSO:   14067 PS        2023-03-12 0904 DC1YL           599 183             EA3AKA        599 T             
+QSO:   14070 PS        2023-03-12 0920 DC1YL           599 184             EA1FGJ        599 BU            
+QSO:   14068 PS        2023-03-12 0945 DC1YL           599 185             EA7K          599 SE            
+END-OF-LOG:

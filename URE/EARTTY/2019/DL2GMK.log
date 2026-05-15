@@ -1,0 +1,112 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.0.1
+
+# The callsign used during the contest.
+CALLSIGN: dl2gmk
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: All
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: RTTY
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL LOW
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 2556
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: Malte
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: dl2gmk
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14086 RY 2019-04-07 0728 dl2gmk          599 046             TA4/OH2KW     599 060           
+QSO:   14081 RY 2019-04-07 0720 dl2gmk          599 045             UY5VA         599 251           
+QSO:   14087 RY 2019-04-07 0718 dl2gmk          599 044             UA3GQ         599 019           
+QSO:   14084 RY 2019-04-07 0715 dl2gmk          599 043             UC6N          599 038           
+QSO:    7047 RY 2019-04-07 0711 dl2gmk          599 042             9A1A          599 417           
+QSO:    7048 RY 2019-04-07 0709 dl2gmk          599 041             S53M          599 367           
+QSO:    7059 RY 2019-04-07 0705 dl2gmk          599 040             EA5GIE        599 v             
+QSO:    7058 RY 2019-04-07 0703 dl2gmk          599 039             EE1D          599 so            
+QSO:    7053 RY 2019-04-07 0651 dl2gmk          599 038             EA3FF         599 l             
+QSO:    7050 RY 2019-04-07 0649 dl2gmk          599 037             EA5ERA        599 v             
+QSO:    7051 RY 2019-04-07 0648 dl2gmk          599 036             G0HDV         599 196           
+QSO:    7058 RY 2019-04-07 0635 dl2gmk          599 035             AM70D         599 a             
+QSO:   14098 RY 2019-04-07 0634 dl2gmk          599 034             RZ9AD         599 086           
+QSO:   14093 RY 2019-04-07 0632 dl2gmk          599 033             RT9S          599 284           
+QSO:   14086 RY 2019-04-07 0626 dl2gmk          599 032             TA7AO         599 040           
+QSO:    7061 RY 2019-04-06 2010 dl2gmk          599 031             LZ4T          599 20            
+QSO:    7060 RY 2019-04-06 2006 dl2gmk          599 030             EE1D          599 so            
+QSO:    7058 RY 2019-04-06 2004 dl2gmk          599 029             IW3RUA        599 144           
+QSO:    7051 RY 2019-04-06 1955 dl2gmk          599 028             CR5O          599 206           
+QSO:    7046 RY 2019-04-06 1943 dl2gmk          599 027             EA1FA         599 o             
+QSO:    7046 RY 2019-04-06 1939 dl2gmk          599 026             EA4GOY        599 to            
+QSO:    7044 RY 2019-04-06 1931 dl2gmk          599 025             EA3HKA        599 b             
+QSO:    7043 RY 2019-04-06 1930 dl2gmk          599 024             EA3GBA        599 b             
+QSO:    7043 RY 2019-04-06 1924 dl2gmk          599 023             YU73BFG       599 101           
+QSO:    7041 RY 2019-04-06 1923 dl2gmk          599 022             OH2HAN        599 185           
+QSO:    7069 RY 2019-04-06 1921 dl2gmk          599 021             MM3AWD        599 038           
+QSO:    7063 RY 2019-04-06 1918 dl2gmk          599 020             ED8K          599 gc            
+QSO:    7060 RY 2019-04-06 1912 dl2gmk          599 019             EW6DM         599 089           
+QSO:    7059 RY 2019-04-06 1910 dl2gmk          599 018             CN8YZ         599 119           
+QSO:    7057 RY 2019-04-06 1905 dl2gmk          599 017             GW5NF         599 056           
+QSO:    7055 RY 2019-04-06 1901 dl2gmk          599 016             LZ1ZM         599 108           
+QSO:    7056 RY 2019-04-06 1857 dl2gmk          599 015             UX5IO         599 139           
+QSO:    7053 RY 2019-04-06 1854 dl2gmk          599 014             YU5R          599 055           
+QSO:    7054 RY 2019-04-06 1853 dl2gmk          599 013             ED1R          599 av            
+QSO:    7053 RY 2019-04-06 1851 dl2gmk          599 012             EA4URE        599 hq            
+QSO:    7051 RY 2019-04-06 1848 dl2gmk          599 011             UX7QV         599 065           
+QSO:    7048 RY 2019-04-06 1845 dl2gmk          599 010             EA7IP         599 se            
+QSO:    7046 RY 2019-04-06 1840 dl2gmk          599 008             HA8BT         599 071           
+QSO:    7048 RY 2019-04-06 1838 dl2gmk          599 007             RA3Y          599 080           
+QSO:    7046 RY 2019-04-06 1836 dl2gmk          599 005             OH3FM         599 097           
+QSO:    7046 RY 2019-04-06 1833 dl2gmk          599 004             G3SNU         599 027           
+QSO:   14079 RY 2019-04-06 1815 dl2gmk          599 003             ED8K          599 gc            
+QSO:   14101 RY 2019-04-06 1812 dl2gmk          599 002             W3FV          599 055           
+QSO:   14098 RY 2019-04-06 1806 dl2gmk          599 001             W3FIZ         599 132           
+END-OF-LOG:

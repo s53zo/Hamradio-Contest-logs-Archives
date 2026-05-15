@@ -1,0 +1,85 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.23
+
+# The callsign used during the contest.
+CALLSIGN: 4Z5OI
+CATEGORY: SINGLE-OP ALL
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 1056
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+
+LOCATION: 
+
+# Operator name
+NAME: JURGEN
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 4z5oi
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14071 PSK        2023-03-11 1945 4z5oi           599 001             EA5HYJ        599 V             
+QSO:   14071 PSK        2023-03-11 1946 4z5oi           599 002             EA2ESB        599 TE            
+QSO:   14071 PSK        2023-03-11 1952 4z5oi           599 003             IW4EJK        599 033           
+QSO:   14073 PSK        2023-03-11 1954 4z5oi           599 004             EA4Z          599 M             
+QSO:   14072 PSK        2023-03-11 1956 4z5oi           599 005             YO8WW         599 005 005       
+QSO:   14072 PSK        2023-03-11 1959 4z5oi           599 006             ED1R          599 AV            
+QSO:   14073 PSK        2023-03-11 2001 4z5oi           599 007             EE4Y          599 TO            
+QSO:   14073 PSK        2023-03-11 2002 4z5oi           599 008             PA6A          599 179 179       
+QSO:   14073 PSK        2023-03-11 2008 4z5oi           599 009             EW8DX         599 159 159       
+QSO:   14071 PSK        2023-03-11 2012 4z5oi           599 010             EA1CQ         599 S             
+QSO:    7045 PSK        2023-03-11 2015 4z5oi           599 011             EF5K          599 V             
+QSO:    7042 PSK        2023-03-11 2030 4z5oi           599 012             EE4Y          599 TO            
+QSO:    7043 PSK        2023-03-11 2033 4z5oi           599 013             SQ9PBV        599 075 075       
+QSO:    7043 PSK        2023-03-11 2036 4z5oi           599 014             IK8IOO        599 119 119       
+QSO:    7042 PSK        2023-03-11 2057 4z5oi           599 015             EA5XC         599 BI            
+QSO:    7043 PSK        2023-03-11 2059 4z5oi           599 016             IV3UHL        599 208 208       
+QSO:    7041 PSK        2023-03-11 2110 4z5oi           599 017             SQ5AKY        599 068 068       
+QSO:    7039 PSK        2023-03-11 2113 4z5oi           599 018             OK2HBR        599 166 166       
+QSO:    7040 PSK        2023-03-11 2114 4z5oi           599 019             EA4URE        599 HQ            
+QSO:    7039 PSK        2023-03-11 2142 4z5oi           599 020             IK2SBB        599 144 144       
+QSO:    7042 PSK        2023-03-11 2147 4z5oi           599 021             HA3HK         599 080 080       
+QSO:    7041 PSK        2023-03-11 2149 4z5oi           599 022             EA5ITJ        599 CS            
+QSO:    7041 PSK        2023-03-11 2153 4z5oi           599 023             EA1IT         599 S             
+QSO:    7044 PSK        2023-03-11 2216 4z5oi           599 024             IN3BFW        599 142           
+END-OF-LOG:

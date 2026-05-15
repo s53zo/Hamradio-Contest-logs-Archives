@@ -1,0 +1,208 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: EA1BJE
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: RTTY
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL LOW
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 16975
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: IN80IN
+
+# Operator name
+NAME: JOSE_MARIA
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: EA1BJE
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+
+QSO:    7045 RY         2022-04-02 1511 EA1BJE          599 GU              ED2C          599 VI            
+QSO:    7045 RY         2022-04-02 1514 EA1BJE          599 GU              EA1O          599 SG            
+QSO:    7045 RY         2022-04-02 1515 EA1BJE          599 GU              EA7ELY        599 SE            
+QSO:    7045 RY         2022-04-02 1523 EA1BJE          599 GU              EA3X          599 B             
+QSO:   21094 RY         2022-04-02 1529 EA1BJE          599 GU              EA4BAS        599 M             
+QSO:   21092 RY         2022-04-02 1532 EA1BJE          599 GU              YO2IS         599 061           
+QSO:   21080 RY         2022-04-02 1534 EA1BJE          599 GU              EA8DED        599 TF            
+QSO:   21083 RY         2022-04-02 1536 EA1BJE          599 GU              OH2BBT        599 057           
+QSO:   14088 RY         2022-04-02 1539 EA1BJE          599 GU              OT2X          599 010           
+QSO:   14084 RY         2022-04-02 1542 EA1BJE          599 GU              LB2TG         599 167           
+QSO:   14086 RY         2022-04-02 1544 EA1BJE          599 GU              9A5X          599 221           
+QSO:   14086 RY         2022-04-02 1546 EA1BJE          599 GU              IZ2ZQP        599 110           
+QSO:   14087 RY         2022-04-02 1547 EA1BJE          599 GU              LZ6E          599 009             
+QSO:   14091 RY         2022-04-02 1550 EA1BJE          599 GU              YL2CI         599 191           
+QSO:   14092 RY         2022-04-02 1553 EA1BJE          599 GU              Z33B          599 120           
+QSO:   14093 RY         2022-04-02 1556 EA1BJE          599 GU              9A1A          599 226           
+QSO:   14095 RY         2022-04-02 1558 EA1BJE          599 GU              SP4TXI        599 084           
+QSO:   14094 RY         2022-04-02 1600 EA1BJE          599 GU              S53K          599 143           
+QSO:   14095 RY         2022-04-02 1603 EA1BJE          599 GU              M0VLX         599 011            
+QSO:   14095 RY         2022-04-02 1604 EA1BJE          599 GU              SK0QO         599 050           
+QSO:   14099 RY         2022-04-02 1611 EA1BJE          599 GU              P3X           599 454           
+QSO:   14099 RY         2022-04-02 1612 EA1BJE          599 GU              GI4H          599 061           
+QSO:   14100 RY         2022-04-02 1613 EA1BJE          599 GU              YO4FPF        599 155           
+QSO:   14101 RY         2022-04-02 1623 EA1BJE          599 GU              IU4CHE        599 196           
+QSO:   28096 RY         2022-04-02 1632 EA1BJE          599 GU              D4L           599 150           
+QSO:   28098 RY         2022-04-02 1635 EA1BJE          599 GU              EA8DED        599 TF            
+QSO:   21103 RY         2022-04-02 1637 EA1BJE          599 GU              S56A          599 108           
+QSO:   21081 RY         2022-04-02 1638 EA1BJE          599 GU              S51I          599 100              
+QSO:   21082 RY         2022-04-02 1639 EA1BJE          599 GU              P3X           599 502           
+QSO:   21083 RY         2022-04-02 1640 EA1BJE          599 GU              DF4XX         599 060           
+QSO:   21084 RY         2022-04-02 1642 EA1BJE          599 GU              YO3RU         599 228           
+QSO:   21087 RY         2022-04-02 1645 EA1BJE          599 GU              IK2AQZ        599 050           
+QSO:   21089 RY         2022-04-02 1646 EA1BJE          599 GU              9A1A          599 180           
+QSO:   21092 RY         2022-04-02 1653 EA1BJE          599 GU              IV3UHL        599 069           
+QSO:   21095 RY         2022-04-02 1655 EA1BJE          599 GU              9A5D          599 246           
+QSO:   21097 RY         2022-04-02 1657 EA1BJE          599 GU              OZ0JD         599 140           
+QSO:   21100 RY         2022-04-02 1658 EA1BJE          599 GU              SP2FOV        599 058            
+QSO:   21105 RY         2022-04-02 1701 EA1BJE          599 GU              IZ8DSX        599 042           
+QSO:   21109 RY         2022-04-02 1705 EA1BJE          599 GU              LZ5R          599 100           
+QSO:   14096 RY         2022-04-02 2003 EA1BJE          599 GU              LZ50YE        599 156           
+QSO:   14088 RY         2022-04-02 2009 EA1BJE          599 GU              EA8ZS         599 GC            
+QSO:   14096 RY         2022-04-02 2013 EA1BJE          599 GU              KC1KUG        599 136           
+QSO:   14103 RY         2022-04-02 2018 EA1BJE          599 GU              EA4URE/8      599 HQ            
+QSO:   14105 RY         2022-04-02 2021 EA1BJE          599 GU              PV2K          599 204           
+QSO:    7041 RY         2022-04-02 2028 EA1BJE          599 GU              IN3FOI        599 153           
+QSO:    7042 RY         2022-04-02 2030 EA1BJE          599 GU              S53M          599 398           
+QSO:    7042 RY         2022-04-02 2032 EA1BJE          599 GU              DL3SYA        599 183           
+QSO:    7043 RY         2022-04-02 2033 EA1BJE          599 GU              IU3FBL        599 108           
+QSO:    7045 RY         2022-04-02 2040 EA1BJE          599 GU              YO3RU         599 413           
+QSO:    7046 RY         2022-04-02 2043 EA1BJE          599 GU              CT7AJL        599 415           
+QSO:    7046 RY         2022-04-02 2044 EA1BJE          599 GU              I1NVU         599 058           
+QSO:    7047 RY         2022-04-02 2049 EA1BJE          599 GU              OG66X         599 452           
+QSO:    7049 RY         2022-04-02 2051 EA1BJE          599 GU              ON5GQ         599 327           
+QSO:    7052 RY         2022-04-02 2054 EA1BJE          599 GU              DL5SDN        599 082           
+QSO:    7050 RY         2022-04-02 2056 EA1BJE          599 GU              YO9BCM        599 216           
+QSO:    7056 RY         2022-04-02 2105 EA1BJE          599 GU              RM3DA         599 355           
+QSO:    7055 RY         2022-04-02 2106 EA1BJE          599 GU              IV3UHL        599 171           
+QSO:    7059 RY         2022-04-02 2110 EA1BJE          599 GU              SP8N          599 105           
+QSO:    7059 RY         2022-04-02 2111 EA1BJE          599 GU              ON6XYY        599 090           
+QSO:    7071 RY         2022-04-02 2114 EA1BJE          599 GU              IZ8GUQ        599 107           
+QSO:    7071 RY         2022-04-02 2119 EA1BJE          599 GU              EA4URE/8      599 HQ            
+QSO:    7044 RY         2022-04-02 2124 EA1BJE          599 GU              IZ4UEZ        599 015           
+QSO:    7042 RY         2022-04-03 0948 EA1BJE          599 GU              EA2BNU        599 SS            
+QSO:    7045 RY         2022-04-03 0949 EA1BJE          599 GU              EC1DD         599 PO            
+QSO:    7044 RY         2022-04-03 0950 EA1BJE          599 GU              EA7AZH        599 MA            
+QSO:    7046 RY         2022-04-03 0954 EA1BJE          599 GU              EA4Z          599 M             
+QSO:    7047 RY         2022-04-03 0956 EA1BJE          599 GU              EA3HCJ        599 T             
+QSO:    7047 RY         2022-04-03 0957 EA1BJE          599 GU              EA4ZM         599 BA            
+QSO:    7049 RY         2022-04-03 1000 EA1BJE          599 GU              EA1DA         599 LO            
+QSO:    7050 RY         2022-04-03 1001 EA1BJE          599 GU              EA5FSJ        599 A             
+QSO:    7049 RY         2022-04-03 1002 EA1BJE          599 GU              EA4EQG        599 M             
+QSO:    7049 RY         2022-04-03 1003 EA1BJE          599 GU              EB5F          599 A             
+QSO:    7049 RY         2022-04-03 1003 EA1BJE          599 GU              EE4Y          599 TO            
+QSO:    7049 RY         2022-04-03 1005 EA1BJE          599 GU              EA4BAS        599 M             
+QSO:    7049 RY         2022-04-03 1006 EA1BJE          599 GU              EA1OK         599 O             
+QSO:    7049 RY         2022-04-03 1007 EA1BJE          599 GU              EA4IF         599 TO            
+QSO:    7049 RY         2022-04-03 1009 EA1BJE          599 GU              EA3JW         599 B             
+QSO:    7049 RY         2022-04-03 1010 EA1BJE          599 GU              EA6SX         599 IB            
+QSO:    7049 RY         2022-04-03 1012 EA1BJE          599 GU              EA5IYN        599 V             
+QSO:    7049 RY         2022-04-03 1014 EA1BJE          599 GU              F5JFU         599 031           
+QSO:    7056 RY         2022-04-03 1016 EA1BJE          599 GU              EE1D          599 SO            
+QSO:    7041 RY         2022-04-03 1019 EA1BJE          599 GU              EA7CP         599 AL            
+QSO:   14087 RY         2022-04-03 1026 EA1BJE          599 GU              LY1R          599 380           
+QSO:   14088 RY         2022-04-03 1028 EA1BJE          599 GU              G2L           599 231           
+QSO:   14088 RY         2022-04-03 1030 EA1BJE          599 GU              OA5X          599 635           
+QSO:   14091 RY         2022-04-03 1032 EA1BJE          599 GU              M4N           599 225           
+QSO:   14090 RY         2022-04-03 1034 EA1BJE          599 GU              IK4GNI        599 257           
+QSO:   14091 RY         2022-04-03 1036 EA1BJE          599 GU              PD1RO         599 096           
+QSO:   14092 RY         2022-04-03 1037 EA1BJE          599 GU              DK3RA         599 137           
+QSO:   14094 RY         2022-04-03 1040 EA1BJE          599 GU              DL5TT         599 157           
+QSO:   14093 RY         2022-04-03 1043 EA1BJE          599 GU              ON5GQ         599 499           
+QSO:   14095 RY         2022-04-03 1044 EA1BJE          599 GU              IK1RGK        599 189           
+QSO:   14097 RY         2022-04-03 1046 EA1BJE          599 GU              PD8DX         599 097           
+QSO:   14098 RY         2022-04-03 1050 EA1BJE          599 GU              SV1ABB        599 165           
+QSO:   14099 RY         2022-04-03 1054 EA1BJE          599 GU              SP3MEO        599 065           
+QSO:   14101 RY         2022-04-03 1056 EA1BJE          599 GU              IZ5IOS        599 174           
+QSO:   14102 RY         2022-04-03 1057 EA1BJE          599 GU              OZ11A         599 689           
+QSO:   14104 RY         2022-04-03 1058 EA1BJE          599 GU              2E0INN        599 469           
+QSO:   14104 RY         2022-04-03 1059 EA1BJE          599 GU              K3MM          599 196           
+QSO:   14106 RY         2022-04-03 1101 EA1BJE          599 GU              HB9DOS        599 048           
+QSO:   14110 RY         2022-04-03 1104 EA1BJE          599 GU              ON6YYY        599 217           
+QSO:   14111 RY         2022-04-03 1105 EA1BJE          599 GU              PA2W          599 217           
+QSO:   14112 RY         2022-04-03 1106 EA1BJE          599 GU              OZ0JD         599 497           
+QSO:   14114 RY         2022-04-03 1108 EA1BJE          599 GU              IK0RMR        599 170           
+QSO:   14120 RY         2022-04-03 1109 EA1BJE          599 GU              GW0A          599 235           
+QSO:   21088 RY         2022-04-03 1111 EA1BJE          599 GU              EA8ZS         599 GC            
+QSO:   21088 RY         2022-04-03 1113 EA1BJE          599 GU              SM3LBP        599 085            
+QSO:   21091 RY         2022-04-03 1116 EA1BJE          599 GU              OK2SG         599 080           
+QSO:   21091 RY         2022-04-03 1117 EA1BJE          599 GU              DL5KUD        599 314           
+QSO:   21091 RY         2022-04-03 1119 EA1BJE          599 GU              R2AA          599 447           
+QSO:   21091 RY         2022-04-03 1120 EA1BJE          599 GU              OK2WY         599 563           
+QSO:   21091 RY         2022-04-03 1121 EA1BJE          599 GU              OH2HAN        599 758           
+QSO:   21091 RY         2022-04-03 1122 EA1BJE          599 GU              DL3SYA        599 493           
+QSO:   21091 RY         2022-04-03 1123 EA1BJE          599 GU              SP2R          599 339           
+QSO:   21091 RY         2022-04-03 1124 EA1BJE          599 GU              EV1R          599 337           
+QSO:   21091 RY         2022-04-03 1124 EA1BJE          599 GU              OK2PF         599 347           
+QSO:   21091 RY         2022-04-03 1125 EA1BJE          599 GU              YT3H          599 206           
+QSO:   21091 RY         2022-04-03 1126 EA1BJE          599 GU              OU1E          599 216           
+QSO:   21091 RY         2022-04-03 1126 EA1BJE          599 GU              SP6NIV        599 145           
+QSO:   21091 RY         2022-04-03 1127 EA1BJE          599 GU              SV2AEL        599 277           
+QSO:   21091 RY         2022-04-03 1128 EA1BJE          599 GU              SV3SKM        599 227           
+QSO:   21091 RY         2022-04-03 1129 EA1BJE          599 GU              OE3NHW        599 072           
+QSO:   21091 RY         2022-04-03 1132 EA1BJE          599 GU              E77EA         599 508           
+QSO:   21091 RY         2022-04-03 1133 EA1BJE          599 GU              YU1NR         599 270           
+QSO:   21091 RY         2022-04-03 1134 EA1BJE          599 GU              DM2DLG        599 052           
+QSO:   21091 RY         2022-04-03 1136 EA1BJE          599 GU              SP9DLY        599 341           
+QSO:   21091 RY         2022-04-03 1137 EA1BJE          599 GU              IQ4RN         599 208           
+QSO:   28081 RY         2022-04-03 1140 EA1BJE          599 GU              YO6CFB        599 105           
+QSO:   28081 RY         2022-04-03 1141 EA1BJE          599 GU              9A1A          599 107           
+QSO:   28082 RY         2022-04-03 1142 EA1BJE          599 GU              P3X           599 1378          
+QSO:   28088 RY         2022-04-03 1145 EA1BJE          599 GU              EA4BAS        599 M             
+QSO:   28088 RY         2022-04-03 1145 EA1BJE          599 GU              IK5AMB        599 065           
+QSO:    7039 RY         2022-04-03 1149 EA1BJE          599 GU              EC5JC         599 A             
+QSO:    7040 RY         2022-04-03 1151 EA1BJE          599 GU              EA3IAZ        599 GI            
+QSO:    7041 RY         2022-04-03 1151 EA1BJE          599 GU              9A1A          599 538           
+QSO:    7043 RY         2022-04-03 1153 EA1BJE          599 GU              EA4FW         599 CA            
+QSO:    7044 RY         2022-04-03 1154 EA1BJE          599 GU              EA5IY         599 CS            
+QSO:    7046 RY         2022-04-03 1155 EA1BJE          599 GU              EA1AAP        599 LO            
+QSO:   14088 RY         2022-04-03 1158 EA1BJE          599 GU              PE1FTV        599 221           
+END-OF-LOG:

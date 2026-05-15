@@ -1,0 +1,113 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.01
+
+# The callsign used during the contest.
+CALLSIGN: ON8HW
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: SSB
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 2924
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: BRUSSELS
+
+# Operator name
+NAME: HANS-WERNER
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14066 RY 2022-03-12 1359 ON8HW           599 001             EA5KE         599 V             
+QSO:   14068 RY 2022-03-12 1400 ON8HW           599 002             EA5DF         599 V             
+QSO:   14069 RY 2022-03-12 1403 ON8HW           599 003             YO4FPF        599 073           
+QSO:   14070 RY 2022-03-12 1403 ON8HW           599 004             I0WBX         599 088           
+QSO:   14069 RY 2022-03-12 1410 ON8HW           599 005             LZ3QE         599 098           
+QSO:   14072 RY 2022-03-12 1554 ON8HW           599 006             EA4BAS        599 M             
+QSO:   14071 RY 2022-03-12 1555 ON8HW           599 007             LZ2JA         599 128           
+QSO:   14071 RY 2022-03-12 1556 ON8HW           599 008             ED1B          599 O             
+QSO:   14071 RY 2022-03-12 1558 ON8HW           599 009             EA2ESB        599 TE            
+QSO:   14070 RY 2022-03-12 1600 ON8HW           599 010             EW8DX         599 072           
+QSO:   14070 RY 2022-03-12 1601 ON8HW           599 011             CT7AJL        599 150           
+QSO:   14073 RY 2022-03-12 1605 ON8HW           599 012             EE4Y          599 TO            
+QSO:   14068 RY 2022-03-12 1608 ON8HW           599 013             EA5KE         599 V             
+QSO:   14067 RY 2022-03-12 1609 ON8HW           599 014             EA7EQ         599 SE            
+QSO:   14067 RY 2022-03-12 1614 ON8HW           599 015             EA6SX         599 IB            
+QSO:   14067 RY 2022-03-12 1615 ON8HW           599 016             EA1O          599 SG            
+QSO:   14068 RY 2022-03-12 1619 ON8HW           599 017             EA2DDE        599 NA            
+QSO:   14069 RY 2022-03-12 1622 ON8HW           599 018             4Z5FI         599 047           
+QSO:   14068 RY 2022-03-12 1624 ON8HW           599 019             EA1CH         599 OU            
+QSO:   21070 RY 2022-03-12 1639 ON8HW           599 021             P3AA          599 134           
+QSO:   14066 RY 2022-03-12 1640 ON8HW           599 021             P3AA          599 134           
+QSO:   14070 RY 2022-03-12 1722 ON8HW           599 022             EA4URE        599 HQ            
+QSO:   14070 RY 2022-03-12 1722 ON8HW           599 023             IW8PQ         599 048           
+QSO:   14071 RY 2022-03-12 1732 ON8HW           599 024             R3AQ          599 005           
+QSO:   14072 RY 2022-03-12 1734 ON8HW           599 025             EA4WP         599 M             
+QSO:   14072 RY 2022-03-12 1736 ON8HW           599 026             EA4Z          599 M             
+QSO:   14073 RY 2022-03-12 1741 ON8HW           599 027             SV1JFL        599 059           
+QSO:    7039 RY 2022-03-12 1744 ON8HW           599 028             DL5RK         599 030           
+QSO:    7040 RY 2022-03-12 1750 ON8HW           599 029             ED3D          599 GI            
+QSO:    7041 RY 2022-03-12 1756 ON8HW           599 030             IV3KKW        599 154           
+QSO:   14071 RY 2022-03-12 2115 ON8HW           599 031             EA2CP         599 BI            
+QSO:   14069 RY 2022-03-13 0755 ON8HW           599 032             LZ7K          599 139           
+QSO:   14070 RY 2022-03-13 0757 ON8HW           599 033             EW6DM         599 082           
+QSO:   14072 RY 2022-03-13 0759 ON8HW           599 034             YL2CI         599 136           
+QSO:   14073 RY 2022-03-13 0803 ON8HW           599 035             YO3APJ        599 062           
+QSO:   14068 RY 2022-03-13 0806 ON8HW           599 036             YO9BCM        599 112           
+QSO:   14068 RY 2022-03-13 0808 ON8HW           599 037             EA6ZS         599 IB            
+QSO:   14069 RY 2022-03-13 0812 ON8HW           599 038             RA9AMO        599 041           
+QSO:   14070 RY 2022-03-13 0817 ON8HW           599 039             RA6LIS        599 058           
+QSO:   14072 RY 2022-03-13 0819 ON8HW           599 040             EA7TG         599 GR            
+QSO:    7038 RY 2022-03-13 0824 ON8HW           599 041             I2XLF         599 126           
+QSO:   14071 RY 2022-03-13 0854 ON8HW           599 042             EB5EEV        599 V             
+QSO:   14071 RY 2022-03-13 0901 ON8HW           599 043             ED3D          599 GI            
+QSO:   14072 RY 2022-03-13 0912 ON8HW           599 044             SP9BCH        599 061           
+QSO:   14072 RY 2022-03-13 0915 ON8HW           599 045             EA3AKA        599 T             
+END-OF-LOG:

@@ -1,0 +1,717 @@
+START-OF-LOG: 3.0
+CONTEST: WW-DIGI
+CALLSIGN: K6UFO
+LOCATION: SCV
+CATEGORY-OPERATOR: MULTI-OP
+CATEGORY-BAND: ALL
+CATEGORY-POWER: HIGH
+CATEGORY-ASSISTED: ASSISTED
+CATEGORY-MODE: DIGI
+CATEGORY-TRANSMITTER: ONE
+GRID-LOCATOR: CM97
+CLAIMED-SCORE: 175392
+NAME: Mark Aaker
+OPERATORS: K6TD ND2T K6UFO
+CLUB: NORTHERN CALIFORNIA CONTEST CLUB
+CREATED-BY: WriteLog V12.52G
+SOAPBOX: This was a Multi-operator, Single-transmitter operation with three ops
+SOAPBOX: remote from the fabulous mountaintop station on Mount Umunhum.
+SOAPBOX: K6UFO had this crazy idea to set a M/S Record for the USA, and
+SOAPBOX: maybe we did it. K6TD likes digital operating, and was a wizard at
+SOAPBOX: getting our remote connections and logging working to the mountaintop
+SOAPBOX: station - with VPNs, internet logbooks, TeamViewer, etc... ND2T is a
+SOAPBOX: lively optimist and able to keep us moving forward, finding and solving
+SOAPBOX: problems, getting us in practice, and pulling together.
+SOAPBOX: Everyone had operated FT8/4 before, and was familiar with the
+SOAPBOX: Writelog/Digirite software. Everyone was an experienced contest
+SOAPBOX: operator, and knew how to keep butt-in-chair, monitor the rate, and
+SOAPBOX: pounce on Mults. No major mistakes were made. Without an SO2R-
+SOAPBOX: capable station, we could only operate one-band, one-cycle so we
+SOAPBOX: tried to keep busy every transmit cycle, and queue up our next target
+SOAPBOX: while receiving. Our average rate was 25, our best hour was a 47,
+SOAPBOX: our worst was a 6. But the worst arrived late in the contest when
+SOAPBOX: K6TD first switched to 80M at 3AM, called CQ, and ZL3TE called,
+SOAPBOX: and was worked without any repeats - two overs! Then the internet
+SOAPBOX: failed. Cloudflare blames CenturyLink, etc... but the internet was
+SOAPBOX: terrible right through to the end of contest.
+SOAPBOX: 20m was the best band all day long, and we spent 11 hours there.
+SOAPBOX: ND2T spent an hour to pull the easy Qs and Mults from 15m, but
+SOAPBOX: not worth more time. 40m was second best band and delivered for
+SOAPBOX: over seven hours. 80m was difficult, but needed at the start and finish,
+SOAPBOX: and a good run at 05Z. We never bothered with 160m, nor 10m.
+SOAPBOX: Mark K6UFO
+SOAPBOX: for  K6TD, ND2T and K6UFO.
+SOAPBOX: Flex 6700 and SmartSDR
+SOAPBOX: Alpha 9500 running 500 to 800 watts
+SOAPBOX: Writelog and Digirite software
+SOAPBOX: JK Mid-Tri (3 el on 20m, 4 el on 15m) at 95 and 45 feet high
+SOAPBOX: JK 4 el 40m yagi at 110 feet
+SOAPBOX: 80m 4-square array
+SOAPBOX: ----
+SOAPBOX:  QSOs  by hour       and   band.                                              
+SOAPBOX: (use monospaced font)
+SOAPBOX: 160M     80M     40M     20M     15M     10M    Total   Cumm
+SOAPBOX: D1-1200Z       -      16       -       -       -       -       16     16
+SOAPBOX: D1-1300Z       -       6      21       -       -       -       27     43
+SOAPBOX: D1-1400Z       -       -      13       4       -       -       17     60
+SOAPBOX: D1-1500Z       -       -       -      24       -       -       24     84
+SOAPBOX: D1-1600Z    ---+-   ---+-   ---+-     27    ---+-   ---+-      27    111
+SOAPBOX: D1-1700Z       -       -       -      20       -       -       20    131
+SOAPBOX: D1-1800Z       -       -       -      25       -       -       25    156
+SOAPBOX: D1-1900Z       -       -       -      22       -       -       22    178
+SOAPBOX: D1-2000Z       -       -       -      33       -       -       33    211
+SOAPBOX: D1-2100Z       -       -       -      42       -       -       42    253
+SOAPBOX: D1-2200Z       -       -       -       -      19       -       19    272
+SOAPBOX: D1-2300Z       -       -       -      29       -       -       29    301
+SOAPBOX: D2-0000Z    ---+-   ---+-   ---+-     36    ---+-   ---+-      36    337
+SOAPBOX: D2-0100Z       -       -       -      32       -       -       32    369
+SOAPBOX: D2-0200Z       -       -       -      13       -       -       13    382
+SOAPBOX: D2-0300Z       -       -      27       -       -       -       27    409
+SOAPBOX: D2-0400Z       -       9      38       -       -       -       47    456
+SOAPBOX: D2-0500Z       -      26      12       -       -       -       38    494
+SOAPBOX: D2-0600Z       -       -      23       -       -       -       23    517
+SOAPBOX: D2-0700Z       -       -      20       -       -       -       20    537
+SOAPBOX: D2-0800Z    ---+-   ---+-     26    ---+-   ---+-   ---+-      26    563
+SOAPBOX: D2-0900Z       -       4      23       -       -       -       27    590
+SOAPBOX: D2-1000Z       -       6       -       -       -       -        6    596
+SOAPBOX: D2-1100Z       -      15       -       -       -       -       15    611
+SOAPBOX: Total:         0      82     203     307      19       0
+SOAPBOX: ----
+QSO:   3575  DG 2020-08-29 1205  K6UFO            CM97     K9IG             EM69    
+QSO:   3590  DG 2020-08-29 1208  K6UFO            CM97     N0TA             DN70    
+QSO:   3590  DG 2020-08-29 1209  K6UFO            CM97     N6VH             DM12    
+QSO:   3590  DG 2020-08-29 1210  K6UFO            CM97     N0UBL            EM26    
+QSO:   3590  DG 2020-08-29 1211  K6UFO            CM97     JA2ODB           PM94    
+QSO:   3590  DG 2020-08-29 1213  K6UFO            CM97     KR1DX            DM13    
+QSO:   3590  DG 2020-08-29 1215  K6UFO            CM97     AG5JW            EM40    
+QSO:   3590  DG 2020-08-29 1217  K6UFO            CM97     W8MRL            EM79    
+QSO:   3590  DG 2020-08-29 1223  K6UFO            CM97     K7STO            DN07    
+QSO:   3590  DG 2020-08-29 1224  K6UFO            CM97     UA0ZEO           QO93    
+QSO:   3590  DG 2020-08-29 1233  K6UFO            CM97     KB2S             CN87    
+QSO:   3573  DG 2020-08-29 1237  K6UFO            CM97     N5KO             CM97    
+QSO:   3573  DG 2020-08-29 1242  K6UFO            CM97     RC0CC            PN78    
+QSO:   3573  DG 2020-08-29 1244  K6UFO            CM97     JF1WQC           PM95    
+QSO:   3573  DG 2020-08-29 1251  K6UFO            CM97     WA8LE            EN65    
+QSO:   3573  DG 2020-08-29 1257  K6UFO            CM97     N7IY             CN84    
+QSO:   3573  DG 2020-08-29 1301  K6UFO            CM97     KF6I             DM13    
+QSO:   3573  DG 2020-08-29 1305  K6UFO            CM97     RC0CB            PN78    
+QSO:   3573  DG 2020-08-29 1306  K6UFO            CM97     JI0VWH           PM97    
+QSO:   3573  DG 2020-08-29 1312  K6UFO            CM97     JI1DFO           PM95    
+QSO:   3573  DG 2020-08-29 1313  K6UFO            CM97     JM1NKT           PM96    
+QSO:   3573  DG 2020-08-29 1314  K6UFO            CM97     JA6EDJ           PM51    
+QSO:   7089  DG 2020-08-29 1318  K6UFO            CM97     BG1WNU           ON80    
+QSO:   7089  DG 2020-08-29 1319  K6UFO            CM97     YD3CER           OI62    
+QSO:   7089  DG 2020-08-29 1323  K6UFO            CM97     BH1TZO           OM89    
+QSO:   7089  DG 2020-08-29 1327  K6UFO            CM97     JA4ENY           PM64    
+QSO:   7089  DG 2020-08-29 1330  K6UFO            CM97     YC0SCZ           OI33    
+QSO:   7089  DG 2020-08-29 1334  K6UFO            CM97     9W6AJA           OJ75    
+QSO:   7089  DG 2020-08-29 1335  K6UFO            CM97     JH1CTV           QM05    
+QSO:   7089  DG 2020-08-29 1338  K6UFO            CM97     W6IA             CM97    
+QSO:   7089  DG 2020-08-29 1340  K6UFO            CM97     BG5BAA           OL99    
+QSO:   7089  DG 2020-08-29 1342  K6UFO            CM97     YB1COA           OI33    
+QSO:   7089  DG 2020-08-29 1343  K6UFO            CM97     VK6KC            OF78    
+QSO:   7089  DG 2020-08-29 1345  K6UFO            CM97     JA2JNC           PM95    
+QSO:   7089  DG 2020-08-29 1347  K6UFO            CM97     BH1BIP           ON80    
+QSO:   7089  DG 2020-08-29 1348  K6UFO            CM97     YG9WKB           PI88    
+QSO:   7089  DG 2020-08-29 1350  K6UFO            CM97     JH1WOY           QM05    
+QSO:   7089  DG 2020-08-29 1351  K6UFO            CM97     JG1JAN           PM95    
+QSO:   7089  DG 2020-08-29 1353  K6UFO            CM97     BG2ASC           PN17    
+QSO:   7089  DG 2020-08-29 1354  K6UFO            CM97     JH1VIX           PM95    
+QSO:   7089  DG 2020-08-29 1355  K6UFO            CM97     BG3UFC           OM55    
+QSO:   7089  DG 2020-08-29 1356  K6UFO            CM97     JN3TMW           PM74    
+QSO:   7089  DG 2020-08-29 1358  K6UFO            CM97     BD4SDO           PM01    
+QSO:   7089  DG 2020-08-29 1400  K6UFO            CM97     4F3BZ            PK04    
+QSO:   7089  DG 2020-08-29 1403  K6UFO            CM97     BG2KAJ           PN23    
+QSO:   7089  DG 2020-08-29 1404  K6UFO            CM97     4G1DIF           PK04    
+QSO:   7089  DG 2020-08-29 1405  K6UFO            CM97     JL1CNY           QM06    
+QSO:   7090  DG 2020-08-29 1409  K6UFO            CM97     W4MTM            EM62    
+QSO:   7090  DG 2020-08-29 1412  K6UFO            CM97     JA2KPW           PM84    
+QSO:   7090  DG 2020-08-29 1413  K6UFO            CM97     VK2AAH           QF56    
+QSO:   7090  DG 2020-08-29 1415  K6UFO            CM97     YC9BHJ           OI71    
+QSO:   7090  DG 2020-08-29 1416  K6UFO            CM97     VK4AFU           QG61    
+QSO:   7090  DG 2020-08-29 1418  K6UFO            CM97     KZ5A             DM73    
+QSO:   7090  DG 2020-08-29 1419  K6UFO            CM97     YF5TKN           OJ20    
+QSO:   7090  DG 2020-08-29 1420  K6UFO            CM97     N2NL             EM50    
+QSO:   7090  DG 2020-08-29 1421  K6UFO            CM97     JE3UXO           PM75    
+QSO:  14080  DG 2020-08-29 1433  K6UFO            CM97     VE2EBK           FN46    
+QSO:  14080  DG 2020-08-29 1443  K6UFO            CM97     W9BWR            EM78    
+QSO:  14080  DG 2020-08-29 1445  K6UFO            CM97     KB1W             FN32    
+QSO:  14090  DG 2020-08-29 1448  K6UFO            CM97     WA4EEZ           EL87    
+X-QSO: 14090  DG 2020-08-29 1507  K6UFO            CM97     K0XU             EN10    
+X-QSO: 14090  DG 2020-08-29 1510  K6UFO            CM97     K6KM             CM97    
+X-QSO: 14090  DG 2020-08-29 1511  K6UFO            CM97     AA4DD            EM86    
+QSO:  14090  DG 2020-08-29 1513  K6UFO            CM97     NA3M             FM19    
+QSO:  14090  DG 2020-08-29 1514  K6UFO            CM97     K4KSV            EM63    
+QSO:  14090  DG 2020-08-29 1516  K6UFO            CM97     W6RN             CM96    
+QSO:  14090  DG 2020-08-29 1516  K6UFO            CM97     R6YY             LN04    
+QSO:  14090  DG 2020-08-29 1518  K6UFO            CM97     AA8MA            EN80    
+QSO:  14089  DG 2020-08-29 1524  K6UFO            CM97     LX1HD            JN39    
+QSO:  14089  DG 2020-08-29 1525  K6UFO            CM97     K6GHA            CM97    
+QSO:  14089  DG 2020-08-29 1526  K6UFO            CM97     AJ5E             FM02    
+QSO:  14089  DG 2020-08-29 1527  K6UFO            CM97     KE0GSZ           EN31    
+QSO:  14089  DG 2020-08-29 1528  K6UFO            CM97     VE3WEJ           EN82    
+QSO:  14089  DG 2020-08-29 1530  K6UFO            CM97     PD1BHZ           JO22    
+QSO:  14089  DG 2020-08-29 1532  K6UFO            CM97     W8TB             EN91    
+QSO:  14089  DG 2020-08-29 1535  K6UFO            CM97     PD7RF            JO22    
+QSO:  14089  DG 2020-08-29 1535  K6UFO            CM97     WW4LL            FN67    
+QSO:  14089  DG 2020-08-29 1536  K6UFO            CM97     N5UM             EM15    
+QSO:  14089  DG 2020-08-29 1537  K6UFO            CM97     KA2ENE           FN13    
+QSO:  14089  DG 2020-08-29 1538  K6UFO            CM97     VA2CZ            FN35    
+QSO:  14089  DG 2020-08-29 1539  K6UFO            CM97     W1UE             FN41    
+QSO:  14090  DG 2020-08-29 1548  K6UFO            CM97     OV9A             JO57    
+QSO:  14090  DG 2020-08-29 1550  K6UFO            CM97     AB1J             FN42    
+QSO:  14090  DG 2020-08-29 1552  K6UFO            CM97     OX3HI            GP47    
+QSO:  14090  DG 2020-08-29 1554  K6UFO            CM97     AA8SW            EM79    
+QSO:  14090  DG 2020-08-29 1557  K6UFO            CM97     N8DVE            EM79    
+QSO:  14090  DG 2020-08-29 1559  K6UFO            CM97     N4EL             EM79    
+QSO:  14090  DG 2020-08-29 1600  K6UFO            CM97     VA3ATW           EN93    
+QSO:  14089  DG 2020-08-29 1607  K6UFO            CM97     CO6OV            FL02    
+QSO:  14090  DG 2020-08-29 1609  K6UFO            CM97     MI0NWA           IO64    
+QSO:  14090  DG 2020-08-29 1611  K6UFO            CM97     N0GOS            DN70    
+QSO:  14090  DG 2020-08-29 1611  K6UFO            CM97     AD4TJ            FM08    
+QSO:  14090  DG 2020-08-29 1612  K6UFO            CM97     K8ZT             EN91    
+QSO:  14090  DG 2020-08-29 1615  K6UFO            CM97     UR4QX            KN86    
+QSO:  14090  DG 2020-08-29 1618  K6UFO            CM97     K1DJ             FN42    
+QSO:  14090  DG 2020-08-29 1619  K6UFO            CM97     NF1T             EL87    
+QSO:  14090  DG 2020-08-29 1621  K6UFO            CM97     K0XU             EN10    
+QSO:  14090  DG 2020-08-29 1621  K6UFO            CM97     N1SNB            FN42    
+QSO:  14090  DG 2020-08-29 1626  K6UFO            CM97     WA3LXD           EL99    
+QSO:  14090  DG 2020-08-29 1633  K6UFO            CM97     ON6NL            JO21    
+QSO:  14090  DG 2020-08-29 1635  K6UFO            CM97     W0YK             CM97    
+QSO:  14090  DG 2020-08-29 1636  K6UFO            CM97     K2GLS            FN20    
+QSO:  14090  DG 2020-08-29 1640  K6UFO            CM97     K5CPR            EM13    
+QSO:  14090  DG 2020-08-29 1642  K6UFO            CM97     KC7RCY           EN61    
+QSO:  14090  DG 2020-08-29 1643  K6UFO            CM97     AE9LL            EM79    
+QSO:  14090  DG 2020-08-29 1646  K6UFO            CM97     K4KGG            FN32    
+QSO:  14090  DG 2020-08-29 1648  K6UFO            CM97     KG5RJ            EM12    
+QSO:  14090  DG 2020-08-29 1648  K6UFO            CM97     KZ5A             DM73    
+QSO:  14090  DG 2020-08-29 1651  K6UFO            CM97     KA9PIE           EN51    
+QSO:  14090  DG 2020-08-29 1653  K6UFO            CM97     WA8YZB           EN82    
+QSO:  14090  DG 2020-08-29 1654  K6UFO            CM97     K2PJC            FN21    
+QSO:  14090  DG 2020-08-29 1656  K6UFO            CM97     N2US             FN20    
+QSO:  14090  DG 2020-08-29 1657  K6UFO            CM97     KM4FO            EM67    
+QSO:  14090  DG 2020-08-29 1659  K6UFO            CM97     NY3B             FN20    
+QSO:  14090  DG 2020-08-29 1700  K6UFO            CM97     WD4GBW           FM17    
+QSO:  14090  DG 2020-08-29 1704  K6UFO            CM97     AA5AU            EL49    
+QSO:  14090  DG 2020-08-29 1705  K6UFO            CM97     W6RKC            CM98    
+QSO:  14090  DG 2020-08-29 1706  K6UFO            CM97     AA4RF            FM07    
+QSO:  14090  DG 2020-08-29 1707  K6UFO            CM97     NF3R             FN20    
+QSO:  14090  DG 2020-08-29 1708  K6UFO            CM97     W5BDB            EM51    
+QSO:  14090  DG 2020-08-29 1709  K6UFO            CM97     VE3TIN           FN03    
+QSO:  14090  DG 2020-08-29 1711  K6UFO            CM97     NB6Q             CM97    
+QSO:  14090  DG 2020-08-29 1712  K6UFO            CM97     WB4OMM           EL99    
+QSO:  14090  DG 2020-08-29 1713  K6UFO            CM97     DL0GC            JO31    
+QSO:  14090  DG 2020-08-29 1718  K6UFO            CM97     OM7JG            JN98    
+QSO:  14090  DG 2020-08-29 1722  K6UFO            CM97     K2AK             DM41    
+QSO:  14090  DG 2020-08-29 1723  K6UFO            CM97     N0TA             DN70    
+QSO:  14080  DG 2020-08-29 1725  K6UFO            CM97     NN6NN            CM97    
+QSO:  14080  DG 2020-08-29 1726  K6UFO            CM97     VE5MX            DN89    
+QSO:  14080  DG 2020-08-29 1726  K6UFO            CM97     K6UF             CM97    
+QSO:  14080  DG 2020-08-29 1729  K6UFO            CM97     W9YSX            EM79    
+QSO:  14080  DG 2020-08-29 1729  K6UFO            CM97     KW6S             CM96    
+QSO:  14090  DG 2020-08-29 1745  K6UFO            CM97     KO6LU            CM87    
+QSO:  14090  DG 2020-08-29 1749  K6UFO            CM97     KD2GXL           FN30    
+QSO:  14090  DG 2020-08-29 1800  K6UFO            CM97     AE0JM            DN70    
+QSO:  14090  DG 2020-08-29 1804  K6UFO            CM97     KE5CVM           EL17    
+QSO:  14090  DG 2020-08-29 1812  K6UFO            CM97     NP4TX            FK68    
+QSO:  14089  DG 2020-08-29 1815  K6UFO            CM97     VE3MGY           EN92    
+QSO:  14090  DG 2020-08-29 1817  K6UFO            CM97     N1MGO            FN42    
+QSO:  14089  DG 2020-08-29 1818  K6UFO            CM97     W1RM             FN31    
+QSO:  14090  DG 2020-08-29 1821  K6UFO            CM97     KC1BUF           FN43    
+QSO:  14090  DG 2020-08-29 1822  K6UFO            CM97     F4HIK            JN06    
+QSO:  14090  DG 2020-08-29 1825  K6UFO            CM97     NV5B             EL29    
+QSO:  14090  DG 2020-08-29 1826  K6UFO            CM97     VE3OIL           EN93    
+QSO:  14090  DG 2020-08-29 1829  K6UFO            CM97     KB2S             CN87    
+QSO:  14090  DG 2020-08-29 1830  K6UFO            CM97     CO7DSR           FL11    
+QSO:  14090  DG 2020-08-29 1831  K6UFO            CM97     NA8W             EN80    
+QSO:  14090  DG 2020-08-29 1833  K6UFO            CM97     K2YG             FN20    
+QSO:  14090  DG 2020-08-29 1838  K6UFO            CM97     N5YT             EM51    
+QSO:  14090  DG 2020-08-29 1840  K6UFO            CM97     K3ABE            FN20    
+QSO:  14090  DG 2020-08-29 1841  K6UFO            CM97     WA4IPU           EL89    
+QSO:  14090  DG 2020-08-29 1847  K6UFO            CM97     CT7AUP           IM58    
+QSO:  14090  DG 2020-08-29 1849  K6UFO            CM97     KE6YLH           CM96    
+QSO:  14090  DG 2020-08-29 1850  K6UFO            CM97     W6NCB            CM96    
+QSO:  14090  DG 2020-08-29 1852  K6UFO            CM97     W4CU             EL87    
+QSO:  14090  DG 2020-08-29 1853  K6UFO            CM97     K1SMK            FN13    
+QSO:  14090  DG 2020-08-29 1856  K6UFO            CM97     5Z4VJ            KI88    
+QSO:  14090  DG 2020-08-29 1857  K6UFO            CM97     NP4EB            FK68    
+QSO:  14090  DG 2020-08-29 1859  K6UFO            CM97     W1LEM            FN41    
+QSO:  14090  DG 2020-08-29 1903  K6UFO            CM97     AA5JF            EM83    
+QSO:  14090  DG 2020-08-29 1909  K6UFO            CM97     AA2MA            EM64    
+QSO:  14090  DG 2020-08-29 1910  K6UFO            CM97     VE7BC            CN89    
+QSO:  14090  DG 2020-08-29 1913  K6UFO            CM97     N7UVH            DN17    
+QSO:  14090  DG 2020-08-29 1915  K6UFO            CM97     KK8MM            EN82    
+QSO:  14090  DG 2020-08-29 1917  K6UFO            CM97     KD9OAZ           EN54    
+QSO:  14090  DG 2020-08-29 1920  K6UFO            CM97     PV8DX            FJ92    
+QSO:  14090  DG 2020-08-29 1922  K6UFO            CM97     KB7AK            CN85    
+QSO:  14090  DG 2020-08-29 1923  K6UFO            CM97     XQ3SK            FF46    
+QSO:  14090  DG 2020-08-29 1925  K6UFO            CM97     XE2T             DM41    
+QSO:  14090  DG 2020-08-29 1929  K6UFO            CM97     KC3OYZ           FN20    
+X-QSO: 14090  DG 2020-08-29 1925  K6UFO            CM97     PY5ZHP           GG54    
+QSO:  14090  DG 2020-08-29 1931  K6UFO            CM97     KC3OYZ           FN20    
+QSO:  14090  DG 2020-08-29 1931  K6UFO            CM97     KC3OYZ           FN20    
+QSO:  14090  DG 2020-08-29 1938  K6UFO            CM97     N5YJZ            CM97    
+QSO:  14090  DG 2020-08-29 1940  K6UFO            CM97     N1DM             FN42    
+QSO:  14090  DG 2020-08-29 1940  K6UFO            CM97     W4ER             EM50    
+QSO:  14090  DG 2020-08-29 1943  K6UFO            CM97     4A2MAX           DL95    
+QSO:  14090  DG 2020-08-29 1946  K6UFO            CM97     WD0FYV           FM17    
+QSO:  14090  DG 2020-08-29 1946  K6UFO            CM97     WA3JKB           FN20    
+QSO:  14090  DG 2020-08-29 1949  K6UFO            CM97     VE3RXH           FN25    
+QSO:  14090  DG 2020-08-29 1951  K6UFO            CM97     VE3RXH           FN25    
+QSO:  14090  DG 2020-08-29 1954  K6UFO            CM97     KB0VHA           DM79    
+QSO:  14090  DG 2020-08-29 1955  K6UFO            CM97     K0HD             EN34    
+QSO:  14090  DG 2020-08-29 1956  K6UFO            CM97     K1TTT            FN32    
+QSO:  14089  DG 2020-08-29 1958  K6UFO            CM97     AB8M             EN91    
+QSO:  14089  DG 2020-08-29 2000  K6UFO            CM97     W6MRR            CM87    
+QSO:  14089  DG 2020-08-29 2003  K6UFO            CM97     KE8FMJ           EN91    
+QSO:  14089  DG 2020-08-29 2005  K6UFO            CM97     KL7SB            BP40    
+QSO:  14089  DG 2020-08-29 2007  K6UFO            CM97     KA1ERL           FN41    
+QSO:  14089  DG 2020-08-29 2008  K6UFO            CM97     KS0CW            FM16    
+QSO:  14089  DG 2020-08-29 2010  K6UFO            CM97     NE1B             FN42    
+QSO:  14089  DG 2020-08-29 2011  K6UFO            CM97     K4QD             EL98    
+QSO:  14090  DG 2020-08-29 2012  K6UFO            CM97     N0AT             EN34    
+QSO:  14090  DG 2020-08-29 2016  K6UFO            CM97     K5ZD             FN42    
+QSO:  14090  DG 2020-08-29 2020  K6UFO            CM97     N7ZZ             EN64    
+QSO:  14080  DG 2020-08-29 2022  K6UFO            CM97     VE6LB            DO20    
+QSO:  14080  DG 2020-08-29 2023  K6UFO            CM97     K7VIC            DN28    
+QSO:  14080  DG 2020-08-29 2025  K6UFO            CM97     NN5T             EM12    
+QSO:  14080  DG 2020-08-29 2024  K6UFO            CM97     K8TR             CM97    
+QSO:  14080  DG 2020-08-29 2026  K6UFO            CM97     N3QE             FM19    
+QSO:  14080  DG 2020-08-29 2031  K6UFO            CM97     K1HTV            FM18    
+QSO:  14080  DG 2020-08-29 2032  K6UFO            CM97     K3DNE            EM94    
+QSO:  14080  DG 2020-08-29 2034  K6UFO            CM97     WA3EKL           FM19    
+QSO:  14080  DG 2020-08-29 2035  K6UFO            CM97     NU1T             FN42    
+QSO:  14080  DG 2020-08-29 2036  K6UFO            CM97     VE6WQ            DO33    
+QSO:  14080  DG 2020-08-29 2037  K6UFO            CM97     KE0LLH           DM78    
+QSO:  14080  DG 2020-08-29 2038  K6UFO            CM97     K2PS             EL98    
+QSO:  14080  DG 2020-08-29 2040  K6UFO            CM97     N5VU             EM32    
+QSO:  14079  DG 2020-08-29 2041  K6UFO            CM97     K3UA             EN90    
+QSO:  14079  DG 2020-08-29 2044  K6UFO            CM97     KE6JAC           CM97    
+QSO:  14079  DG 2020-08-29 2045  K6UFO            CM97     KG5U             EL29    
+QSO:  14080  DG 2020-08-29 2046  K6UFO            CM97     K3MM             FM19    
+QSO:  14079  DG 2020-08-29 2047  K6UFO            CM97     KE5ZW            EM10    
+QSO:  14079  DG 2020-08-29 2048  K6UFO            CM97     KB8SRX           EN82    
+QSO:  14080  DG 2020-08-29 2055  K6UFO            CM97     WA8LRW           EN91    
+QSO:  14080  DG 2020-08-29 2056  K6UFO            CM97     K4LDC            EM74    
+QSO:  14080  DG 2020-08-29 2057  K6UFO            CM97     RU0LL            PN53    
+QSO:  14079  DG 2020-08-29 2058  K6UFO            CM97     W7VXS            CN87    
+QSO:  14079  DG 2020-08-29 2100  K6UFO            CM97     JA3FQO           PM74    
+QSO:  14079  DG 2020-08-29 2103  K6UFO            CM97     VK3BDX           QF21    
+QSO:  14079  DG 2020-08-29 2104  K6UFO            CM97     JR3GPP           PM74    
+QSO:  14079  DG 2020-08-29 2104  K6UFO            CM97     JA1PCM           QM05    
+QSO:  14079  DG 2020-08-29 2105  K6UFO            CM97     WD6T             CM87    
+QSO:  14079  DG 2020-08-29 2105  K6UFO            CM97     W7POE            CN87    
+QSO:  14079  DG 2020-08-29 2106  K6UFO            CM97     WX6V             CM98    
+QSO:  14079  DG 2020-08-29 2106  K6UFO            CM97     WX6V             CM98    
+QSO:  14079  DG 2020-08-29 2108  K6UFO            CM97     K6PST            CM87    
+QSO:  14079  DG 2020-08-29 2109  K6UFO            CM97     K6PST            CM87    
+QSO:  14079  DG 2020-08-29 2113  K6UFO            CM97     D8RBD            EN35    
+QSO:  14079  DG 2020-08-29 2112  K6UFO            CM97     D8RBD            EN35    
+QSO:  14080  DG 2020-08-29 2114  K6UFO            CM97     JH4FUF           PM64    
+QSO:  14079  DG 2020-08-29 2116  K6UFO            CM97     W5MT             EM13    
+QSO:  14079  DG 2020-08-29 2117  K6UFO            CM97     JE3GUG           PM74    
+QSO:  14079  DG 2020-08-29 2119  K6UFO            CM97     JA1JNY           PM95    
+QSO:  14080  DG 2020-08-29 2122  K6UFO            CM97     VA7ST            DO00    
+QSO:  14079  DG 2020-08-29 2122  K6UFO            CM97     JR2PZX           PM94    
+QSO:  14079  DG 2020-08-29 2124  K6UFO            CM97     JR2IGV           PM84    
+QSO:  14079  DG 2020-08-29 2124  K6UFO            CM97     WA0TJT           EM29    
+QSO:  14079  DG 2020-08-29 2127  K6UFO            CM97     JA1UTZ           QM05    
+QSO:  14079  DG 2020-08-29 2123  K6UFO            CM97     7L4IOU           PM95    
+QSO:  14079  DG 2020-08-29 2130  K6UFO            CM97     K2GAV            FM06    
+QSO:  14080  DG 2020-08-29 2130  K6UFO            CM97     ZW5B             GG54    
+QSO:  14080  DG 2020-08-29 2130  K6UFO            CM97     ZW5B             GG54    
+QSO:  14080  DG 2020-08-29 2131  K6UFO            CM97     LU8EKC           GF05    
+QSO:  14079  DG 2020-08-29 2132  K6UFO            CM97     JL3ZHU           PM85    
+QSO:  14080  DG 2020-08-29 2132  K6UFO            CM97     JF1RYU           PM96    
+QSO:  14079  DG 2020-08-29 2133  K6UFO            CM97     JR6FRV           PM52    
+QSO:  14079  DG 2020-08-29 2134  K6UFO            CM97     JE1NVD           PM96    
+QSO:  14079  DG 2020-08-29 2136  K6UFO            CM97     N0KK             EN35    
+QSO:  14079  DG 2020-08-29 2137  K6UFO            CM97     JH1VHU           PM95    
+QSO:  14079  DG 2020-08-29 2140  K6UFO            CM97     JA4DNC           PM64    
+QSO:  14079  DG 2020-08-29 2140  K6UFO            CM97     VE4YH            EN19    
+QSO:  14079  DG 2020-08-29 2140  K6UFO            CM97     JO7KMB           QM09    
+QSO:  14079  DG 2020-08-29 2141  K6UFO            CM97     JQ6RUP           PM53    
+QSO:  14079  DG 2020-08-29 2142  K6UFO            CM97     N9WG             EM69    
+QSO:  14080  DG 2020-08-29 2145  K6UFO            CM97     VE7TK            CN88    
+QSO:  14079  DG 2020-08-29 2145  K6UFO            CM97     KG0TW            EM49    
+QSO:  14079  DG 2020-08-29 2146  K6UFO            CM97     K9OM             EN65    
+QSO:  14079  DG 2020-08-29 2148  K6UFO            CM97     N3AAA            EN90    
+QSO:  14079  DG 2020-08-29 2149  K6UFO            CM97     K0BX             EM48    
+QSO:  14079  DG 2020-08-29 2151  K6UFO            CM97     UA0IGG           QO59    
+QSO:  14079  DG 2020-08-29 2153  K6UFO            CM97     KB5WCK           EM12    
+QSO:  14079  DG 2020-08-29 2155  K6UFO            CM97     KM4HI            EL89    
+QSO:  14079  DG 2020-08-29 2155  K6UFO            CM97     KM4HI            EL89    
+QSO:  14079  DG 2020-08-29 2157  K6UFO            CM97     W6UZ             CM87    
+QSO:  21090  DG 2020-08-29 2206  K6UFO            CM97     CX7SS            GF25    
+QSO:  21090  DG 2020-08-29 2207  K6UFO            CM97     ZW5B             GG54    
+QSO:  21090  DG 2020-08-29 2209  K6UFO            CM97     PY1KB            GG87    
+QSO:  21090  DG 2020-08-29 2210  K6UFO            CM97     LU5KHF           FG73    
+QSO:  21090  DG 2020-08-29 2211  K6UFO            CM97     PU4MMZ           GH80    
+QSO:  21090  DG 2020-08-29 2213  K6UFO            CM97     PY2DPM           GG66    
+QSO:  21090  DG 2020-08-29 2214  K6UFO            CM97     PY5KD            GG54    
+QSO:  21090  DG 2020-08-29 2214  K6UFO            CM97     KW6S             CM96    
+QSO:  21090  DG 2020-08-29 2216  K6UFO            CM97     PU2UAF           GG66    
+QSO:  21090  DG 2020-08-29 2217  K6UFO            CM97     YV4ABR           FK60    
+QSO:  21090  DG 2020-08-29 2218  K6UFO            CM97     K7HPN            DM33    
+QSO:  21090  DG 2020-08-29 2221  K6UFO            CM97     N5RZ             EM00    
+QSO:  21090  DG 2020-08-29 2230  K6UFO            CM97     KC7V             DM33    
+QSO:  21090  DG 2020-08-29 2235  K6UFO            CM97     OA6AMN           FH42    
+QSO:  21090  DG 2020-08-29 2241  K6UFO            CM97     KH6CJJ           BL10    
+QSO:  21090  DG 2020-08-29 2244  K6UFO            CM97     PY2QT            GG76    
+QSO:  21090  DG 2020-08-29 2247  K6UFO            CM97     PU2KNM           GG55    
+QSO:  21090  DG 2020-08-29 2249  K6UFO            CM97     K6GHA            CM97    
+QSO:  21090  DG 2020-08-29 2254  K6UFO            CM97     PU20RG           GG76    
+QSO:  14090  DG 2020-08-29 2315  K6UFO            CM97     CO3JA            EL93    
+QSO:  14090  DG 2020-08-29 2318  K6UFO            CM97     XQ1KN            FG46    
+QSO:  14089  DG 2020-08-29 2323  K6UFO            CM97     UA0ZK            QO93    
+QSO:  14089  DG 2020-08-29 2327  K6UFO            CM97     K8SJM            EM79    
+QSO:  14089  DG 2020-08-29 2329  K6UFO            CM97     JA7WXL           QN00    
+QSO:  14080  DG 2020-08-29 2331  K6UFO            CM97     N5KO             CM97    
+QSO:  14080  DG 2020-08-29 2333  K6UFO            CM97     W9CC             EM79    
+QSO:  14080  DG 2020-08-29 2334  K6UFO            CM97     AI9T             EM69    
+QSO:  14080  DG 2020-08-29 2336  K6UFO            CM97     W5JAC            EM40    
+QSO:  14080  DG 2020-08-29 2337  K6UFO            CM97     TI2CC            EJ79    
+QSO:  14080  DG 2020-08-29 2337  K6UFO            CM97     KE8FT            CM98    
+QSO:  14080  DG 2020-08-29 2339  K6UFO            CM97     W0HRO            EM48    
+QSO:  14080  DG 2020-08-29 2340  K6UFO            CM97     AA6RE            CM97    
+QSO:  14080  DG 2020-08-29 2341  K6UFO            CM97     N9NTC            EN52    
+QSO:  14080  DG 2020-08-29 2342  K6UFO            CM97     KN4FRG           EM38    
+QSO:  14080  DG 2020-08-29 2342  K6UFO            CM97     W5DDS            EL09    
+QSO:  14080  DG 2020-08-29 2344  K6UFO            CM97     KE5LQ            EL29    
+QSO:  14080  DG 2020-08-29 2345  K6UFO            CM97     K2RET            FM29    
+QSO:  14080  DG 2020-08-29 2345  K6UFO            CM97     K6BIR            CM87    
+QSO:  14080  DG 2020-08-29 2345  K6UFO            CM97     K6BIR            CM87    
+QSO:  14080  DG 2020-08-29 2346  K6UFO            CM97     AJ6LG            CM97    
+QSO:  14080  DG 2020-08-29 2347  K6UFO            CM97     NK5O             EM13    
+QSO:  14080  DG 2020-08-29 2348  K6UFO            CM97     N8BJQ            EN80    
+QSO:  14080  DG 2020-08-29 2349  K6UFO            CM97     PT7BL            HI06    
+QSO:  14079  DG 2020-08-29 2351  K6UFO            CM97     NN5O             EM54    
+QSO:  14079  DG 2020-08-29 2351  K6UFO            CM97     NN5O             EM54    
+QSO:  14079  DG 2020-08-29 2352  K6UFO            CM97     HI3CMM           FK49    
+QSO:  14079  DG 2020-08-29 2353  K6UFO            CM97     W8KEN            EN91    
+QSO:  14079  DG 2020-08-29 2355  K6UFO            CM97     VA7XU            CO82    
+QSO:  14079  DG 2020-08-29 2356  K6UFO            CM97     9O2DOU           OR46    
+QSO:  14079  DG 2020-08-29 2359  K6UFO            CM97     PY1GB            GG98    
+QSO:  14079  DG 2020-08-30 0001  K6UFO            CM97     K4MM             EL97    
+QSO:  14079  DG 2020-08-30 0001  K6UFO            CM97     W3KB             FN10    
+QSO:  14079  DG 2020-08-30 0001  K6UFO            CM97     KV0I             EN11    
+QSO:  14080  DG 2020-08-30 0005  K6UFO            CM97     W9JA             EN43    
+QSO:  14079  DG 2020-08-30 0006  K6UFO            CM97     K4IU             EN34    
+QSO:  14079  DG 2020-08-30 0007  K6UFO            CM97     W4MTM            EM62    
+QSO:  14080  DG 2020-08-30 0008  K6UFO            CM97     W2JV             FN30    
+QSO:  14080  DG 2020-08-30 0010  K6UFO            CM97     VE4VT            EN19    
+QSO:  14079  DG 2020-08-30 0011  K6UFO            CM97     PY2MM            GG67    
+QSO:  14079  DG 2020-08-30 0012  K6UFO            CM97     W8MRL            EM79    
+QSO:  14079  DG 2020-08-30 0013  K6UFO            CM97     PY1KB            GG87    
+QSO:  14080  DG 2020-08-30 0014  K6UFO            CM97     NI4Y             EM72    
+QSO:  14079  DG 2020-08-30 0016  K6UFO            CM97     KN5S             EL09    
+QSO:  14079  DG 2020-08-30 0018  K6UFO            CM97     WA1NLG           FN41    
+QSO:  14079  DG 2020-08-30 0018  K6UFO            CM97     KA5GIS           EM46    
+QSO:  14079  DG 2020-08-30 0019  K6UFO            CM97     LU1HW            FF78    
+QSO:  14080  DG 2020-08-30 0020  K6UFO            CM97     K6KQV            CM87    
+QSO:  14079  DG 2020-08-30 0022  K6UFO            CM97     JI4WAO           PM65    
+QSO:  14079  DG 2020-08-30 0021  K6UFO            CM97     JG1IEF           PM96    
+QSO:  14079  DG 2020-08-30 0025  K6UFO            CM97     WV4P             EM55    
+QSO:  14079  DG 2020-08-30 0025  K6UFO            CM97     KG5EIU           EM13    
+QSO:  14080  DG 2020-08-30 0027  K6UFO            CM97     KS0KS            EM28    
+QSO:  14079  DG 2020-08-30 0027  K6UFO            CM97     KC4HW            EM71    
+QSO:  14079  DG 2020-08-30 0031  K6UFO            CM97     JL1QOC           PM95    
+QSO:  14079  DG 2020-08-30 0031  K6UFO            CM97     JL1QOC           PM95    
+QSO:  14079  DG 2020-08-30 0032  K6UFO            CM97     W4MLB            EL98    
+QSO:  14080  DG 2020-08-30 0032  K6UFO            CM97     WB2REM           EL97    
+QSO:  14080  DG 2020-08-30 0035  K6UFO            CM97     JA8CEA           QN14    
+QSO:  14080  DG 2020-08-30 0036  K6UFO            CM97     HK4FZ            FJ26    
+QSO:  14089  DG 2020-08-30 0041  K6UFO            CM97     YC1RKT           OI33    
+QSO:  14090  DG 2020-08-30 0045  K6UFO            CM97     HC5F             FI07    
+QSO:  14089  DG 2020-08-30 0049  K6UFO            CM97     JA0IXW           PM86    
+QSO:  14089  DG 2020-08-30 0049  K6UFO            CM97     OA6AMN           FH42    
+QSO:  14089  DG 2020-08-30 0051  K6UFO            CM97     OA2DRG           FI01    
+QSO:  14089  DG 2020-08-30 0054  K6UFO            CM97     CX3AL            GF15    
+QSO:  14089  DG 2020-08-30 0056  K6UFO            CM97     ZP5DNB           GG15    
+QSO:  14089  DG 2020-08-30 0058  K6UFO            CM97     CE3GCA           FF46    
+QSO:  14090  DG 2020-08-30 0100  K6UFO            CM97     YB1RUS           OI33    
+QSO:  14090  DG 2020-08-30 0101  K6UFO            CM97     RW0SR            OO22    
+QSO:  14089  DG 2020-08-30 0105  K6UFO            CM97     BA3MM            OM78    
+QSO:  14090  DG 2020-08-30 0108  K6UFO            CM97     YC5YC            OJ00    
+QSO:  14089  DG 2020-08-30 0109  K6UFO            CM97     RG0S             OO22    
+QSO:  14089  DG 2020-08-30 0110  K6UFO            CM97     KH6OO            BL11    
+QSO:  14089  DG 2020-08-30 0112  K6UFO            CM97     JH1MOH           PM95    
+QSO:  14089  DG 2020-08-30 0115  K6UFO            CM97     JM1LQI           PM95    
+QSO:  14089  DG 2020-08-30 0116  K6UFO            CM97     JM1LQI           PM95    
+QSO:  14080  DG 2020-08-30 0119  K6UFO            CM97     HC7AE            FI18    
+QSO:  14079  DG 2020-08-30 0120  K6UFO            CM97     JA9LX            PM86    
+QSO:  14079  DG 2020-08-30 0121  K6UFO            CM97     JR1EMO           PM95    
+QSO:  14079  DG 2020-08-30 0122  K6UFO            CM97     YV5OIE           FK60    
+QSO:  14080  DG 2020-08-30 0124  K6UFO            CM97     W6AER            CM87    
+QSO:  14079  DG 2020-08-30 0125  K6UFO            CM97     NA4DA            EL89    
+QSO:  14079  DG 2020-08-30 0126  K6UFO            CM97     W7ISP            DN18    
+QSO:  14079  DG 2020-08-30 0128  K6UFO            CM97     AL6A             BP51    
+QSO:  14079  DG 2020-08-30 0129  K6UFO            CM97     K3MD             FN10    
+QSO:  14079  DG 2020-08-30 0132  K6UFO            CM97     JG7AMD           QM09    
+QSO:  14079  DG 2020-08-30 0133  K6UFO            CM97     NH6Y             BL10    
+QSO:  14079  DG 2020-08-30 0134  K6UFO            CM97     W5KY             EL29    
+QSO:  14079  DG 2020-08-30 0134  K6UFO            CM97     W5KY             EL29    
+QSO:  14079  DG 2020-08-30 0136  K6UFO            CM97     JA1WSK           PM95    
+QSO:  14079  DG 2020-08-30 0136  K6UFO            CM97     RA0AM            NO66    
+QSO:  14079  DG 2020-08-30 0136  K6UFO            CM97     RA0AM            NO66    
+QSO:  14079  DG 2020-08-30 0137  K6UFO            CM97     R0AGY            NO75    
+QSO:  14079  DG 2020-08-30 0140  K6UFO            CM97     HS5XWY           OK03    
+QSO:  14079  DG 2020-08-30 0141  K6UFO            CM97     YB1MIG           OI32    
+QSO:  14080  DG 2020-08-30 0144  K6UFO            CM97     PY7VI            HI21    
+QSO:  14079  DG 2020-08-30 0145  K6UFO            CM97     KD9HBI           EM58    
+QSO:  14080  DG 2020-08-30 0147  K6UFO            CM97     YB2MM            OI43    
+QSO:  14090  DG 2020-08-30 0151  K6UFO            CM97     E24OYI           OK03    
+QSO:  14089  DG 2020-08-30 0153  K6UFO            CM97     YC9ELS           OI71    
+QSO:  14089  DG 2020-08-30 0154  K6UFO            CM97     YB8RW            PJ21    
+QSO:  14089  DG 2020-08-30 0155  K6UFO            CM97     YB8RW            PJ21    
+QSO:  14090  DG 2020-08-30 0158  K6UFO            CM97     YC0SCL           OI33    
+QSO:  14090  DG 2020-08-30 0200  K6UFO            CM97     XE2MSA           EL01    
+QSO:  14090  DG 2020-08-30 0206  K6UFO            CM97     JE1LES           PM95    
+QSO:  14090  DG 2020-08-30 0209  K6UFO            CM97     JM8FEI           QN03    
+QSO:  14090  DG 2020-08-30 0210  K6UFO            CM97     W7EW             CN84    
+QSO:  14090  DG 2020-08-30 0210  K6UFO            CM97     9M8DEN           OJ51    
+QSO:  14089  DG 2020-08-30 0217  K6UFO            CM97     VK6MIT           OF78    
+QSO:  14089  DG 2020-08-30 0220  K6UFO            CM97     R0AX             NO56    
+QSO:  14089  DG 2020-08-30 0222  K6UFO            CM97     JA2JNC           PM95    
+QSO:  14090  DG 2020-08-30 0231  K6UFO            CM97     JA4IYY           PM95    
+QSO:  14090  DG 2020-08-30 0233  K6UFO            CM97     JH1GBO           PM95    
+QSO:  14090  DG 2020-08-30 0234  K6UFO            CM97     JG1JAN           PM95    
+QSO:  14090  DG 2020-08-30 0238  K6UFO            CM97     JP7BRB           QM08    
+QSO:  14090  DG 2020-08-30 0239  K6UFO            CM97     JF6LIU/P         PM95    
+QSO:  14090  DG 2020-08-30 0259  K6UFO            CM97     RA0AM            NO66    
+QSO:   7090  DG 2020-08-30 0308  K6UFO            CM97     K2AK             DM41    
+QSO:   7090  DG 2020-08-30 0309  K6UFO            CM97     NN5T             EM12    
+QSO:   7090  DG 2020-08-30 0310  K6UFO            CM97     NY3B             FN20    
+QSO:   7090  DG 2020-08-30 0311  K6UFO            CM97     N4ET             FM18    
+QSO:   7090  DG 2020-08-30 0312  K6UFO            CM97     PY2KJ            GG66    
+QSO:   7090  DG 2020-08-30 0313  K6UFO            CM97     N7ZZ             EN64    
+QSO:   7090  DG 2020-08-30 0315  K6UFO            CM97     HK3BUA           FJ24    
+QSO:   7089  DG 2020-08-30 0319  K6UFO            CM97     OA4DTU           FH17    
+QSO:   7089  DG 2020-08-30 0320  K6UFO            CM97     LU1JAO           GF07    
+QSO:   7089  DG 2020-08-30 0322  K6UFO            CM97     WO2X             FN20    
+QSO:   7089  DG 2020-08-30 0322  K6UFO            CM97     PY2DPM           GG66    
+QSO:   7090  DG 2020-08-30 0328  K6UFO            CM97     LZ5K             KN22    
+QSO:   7090  DG 2020-08-30 0334  K6UFO            CM97     9A1A             JN85    
+QSO:   7090  DG 2020-08-30 0336  K6UFO            CM97     AG7WI            CN86    
+QSO:   7090  DG 2020-08-30 0338  K6UFO            CM97     VE2CH            FN25    
+QSO:   7090  DG 2020-08-30 0339  K6UFO            CM97     NE6I             DM12    
+QSO:   7090  DG 2020-08-30 0341  K6UFO            CM97     DR1X             JO41    
+QSO:   7090  DG 2020-08-30 0345  K6UFO            CM97     CO7DSR           FL11    
+QSO:   7090  DG 2020-08-30 0347  K6UFO            CM97     K7VAP            CN87    
+QSO:   7090  DG 2020-08-30 0347  K6UFO            CM97     KA6BIM           CN73    
+QSO:   7090  DG 2020-08-30 0350  K6UFO            CM97     W1RH             CM98    
+QSO:   7090  DG 2020-08-30 0351  K6UFO            CM97     NF4A             EM70    
+QSO:   7090  DG 2020-08-30 0352  K6UFO            CM97     KE6JAC           CM97    
+QSO:   7090  DG 2020-08-30 0355  K6UFO            CM97     CM2RSV           EL83    
+QSO:   7090  DG 2020-08-30 0358  K6UFO            CM97     KD2GXL           FN30    
+QSO:   7090  DG 2020-08-30 0357  K6UFO            CM97     KD9OAZ           EN54    
+QSO:   7090  DG 2020-08-30 0358  K6UFO            CM97     LU5KHF           FG73    
+QSO:   7090  DG 2020-08-30 0400  K6UFO            CM97     AB9CN            EN62    
+QSO:   7090  DG 2020-08-30 0402  K6UFO            CM97     K7DWI            CN82    
+QSO:   7090  DG 2020-08-30 0402  K6UFO            CM97     LZ8E             KN33    
+QSO:   7090  DG 2020-08-30 0404  K6UFO            CM97     NU0C             EN10    
+QSO:   7090  DG 2020-08-30 0406  K6UFO            CM97     K2PJC            FN21    
+QSO:   7080  DG 2020-08-30 0408  K6UFO            CM97     KB0VHA           DM79    
+QSO:   7080  DG 2020-08-30 0409  K6UFO            CM97     W7POE            CN87    
+QSO:   7080  DG 2020-08-30 0410  K6UFO            CM97     W6AER            CM87    
+QSO:   7080  DG 2020-08-30 0410  K6UFO            CM97     W6OAT            CN87    
+QSO:   7080  DG 2020-08-30 0411  K6UFO            CM97     N3QE             FM19    
+QSO:   7080  DG 2020-08-30 0411  K6UFO            CM97     K5OA             DM14    
+QSO:   7080  DG 2020-08-30 0412  K6UFO            CM97     NR4O             FM05    
+QSO:   7080  DG 2020-08-30 0413  K6UFO            CM97     ZW5B             GG54    
+QSO:   7080  DG 2020-08-30 0414  K6UFO            CM97     SE0X             JO99    
+QSO:   7080  DG 2020-08-30 0415  K6UFO            CM97     N6IC             DM04    
+QSO:   7080  DG 2020-08-30 0415  K6UFO            CM97     W7EW             CN84    
+QSO:   7080  DG 2020-08-30 0416  K6UFO            CM97     KR7X             CN85    
+QSO:   7080  DG 2020-08-30 0417  K6UFO            CM97     VA3ADI           EO40    
+QSO:   7080  DG 2020-08-30 0417  K6UFO            CM97     NP2X             FK77    
+QSO:   7080  DG 2020-08-30 0420  K6UFO            CM97     W7VXS            CN87    
+QSO:   7080  DG 2020-08-30 0420  K6UFO            CM97     K6UF             CM97    
+QSO:   7080  DG 2020-08-30 0421  K6UFO            CM97     KB7AK            CN85    
+QSO:   7080  DG 2020-08-30 0422  K6UFO            CM97     KK4ODQ           FM18    
+QSO:   7080  DG 2020-08-30 0423  K6UFO            CM97     WA1FCN           EM63    
+QSO:   7080  DG 2020-08-30 0424  K6UFO            CM97     K1TTT            FN32    
+QSO:   7080  DG 2020-08-30 0425  K6UFO            CM97     NA3M             FM19    
+QSO:   7080  DG 2020-08-30 0426  K6UFO            CM97     K8TR             CM97    
+QSO:   7080  DG 2020-08-30 0427  K6UFO            CM97     VE3KI            FN25    
+QSO:   7080  DG 2020-08-30 0429  K6UFO            CM97     N7ESU            DN17    
+QSO:   7080  DG 2020-08-30 0430  K6UFO            CM97     W1YY             CN87    
+QSO:   7080  DG 2020-08-30 0431  K6UFO            CM97     NE1B             FN42    
+QSO:   7080  DG 2020-08-30 0432  K6UFO            CM97     N0KRE            DM33    
+QSO:   7080  DG 2020-08-30 0433  K6UFO            CM97     VA3MJR           FN03    
+QSO:   7080  DG 2020-08-30 0435  K6UFO            CM97     K7BV             FM04    
+QSO:   7080  DG 2020-08-30 0436  K6UFO            CM97     K2DSW            EN31    
+QSO:   7079  DG 2020-08-30 0437  K6UFO            CM97     NQ0N             EN35    
+QSO:   7080  DG 2020-08-30 0442  K6UFO            CM97     W0YK             CM97    
+QSO:   7080  DG 2020-08-30 0442  K6UFO            CM97     CT3KN            IM12    
+QSO:   3580  DG 2020-08-30 0447  K6UFO            CM97     NN6NN            CM97    
+QSO:   3580  DG 2020-08-30 0447  K6UFO            CM97     K5OA             DM14    
+QSO:   3580  DG 2020-08-30 0448  K6UFO            CM97     KA0KVW           DM78    
+QSO:   3579  DG 2020-08-30 0449  K6UFO            CM97     N3QE             FM19    
+QSO:   3580  DG 2020-08-30 0451  K6UFO            CM97     KM4HI            EL89    
+QSO:   3580  DG 2020-08-30 0451  K6UFO            CM97     KE3QZ            FM18    
+QSO:   3580  DG 2020-08-30 0454  K6UFO            CM97     WD6T             CM87    
+QSO:   3579  DG 2020-08-30 0456  K6UFO            CM97     CE1OEB           FG46    
+QSO:   3580  DG 2020-08-30 0458  K6UFO            CM97     W1UE             FN41    
+QSO:   3580  DG 2020-08-30 0500  K6UFO            CM97     K3UA             EN90    
+QSO:   3580  DG 2020-08-30 0501  K6UFO            CM97     K4KGG            FN32    
+QSO:   3580  DG 2020-08-30 0501  K6UFO            CM97     NY3B             FN20    
+QSO:   3580  DG 2020-08-30 0502  K6UFO            CM97     K9OM             EN65    
+QSO:   3580  DG 2020-08-30 0503  K6UFO            CM97     KE0OVX           DN98    
+QSO:   3579  DG 2020-08-30 0504  K6UFO            CM97     K0VG             EN35    
+QSO:   3580  DG 2020-08-30 0505  K6UFO            CM97     KA6BIM           CN73    
+QSO:   3580  DG 2020-08-30 0508  K6UFO            CM97     XE2OK            DL95    
+QSO:   3590  DG 2020-08-30 0510  K6UFO            CM97     AB8M             EN91    
+QSO:   3590  DG 2020-08-30 0512  K6UFO            CM97     K2RET            FM29    
+QSO:   3590  DG 2020-08-30 0513  K6UFO            CM97     KC1IFK           FN34    
+QSO:   3590  DG 2020-08-30 0514  K6UFO            CM97     KL7SB            BP40    
+QSO:   3590  DG 2020-08-30 0514  K6UFO            CM97     WW4LL            FN67    
+QSO:   3590  DG 2020-08-30 0517  K6UFO            CM97     N2BJ             EN61    
+QSO:   3590  DG 2020-08-30 0519  K6UFO            CM97     WS6K             EM79    
+QSO:   3590  DG 2020-08-30 0521  K6UFO            CM97     W1OP             FN41    
+QSO:   3590  DG 2020-08-30 0523  K6UFO            CM97     WB2AA            FN30    
+QSO:   3590  DG 2020-08-30 0524  K6UFO            CM97     W8TOM            EN74    
+QSO:   3590  DG 2020-08-30 0524  K6UFO            CM97     NE1B             FN42    
+QSO:   3590  DG 2020-08-30 0526  K6UFO            CM97     N4IQ             EM84    
+QSO:   3590  DG 2020-08-30 0527  K6UFO            CM97     NN5T             EM12    
+QSO:   3580  DG 2020-08-30 0530  K6UFO            CM97     N3AAA            EN90    
+QSO:   3580  DG 2020-08-30 0532  K6UFO            CM97     VA3MJR           FN03    
+QSO:   3580  DG 2020-08-30 0533  K6UFO            CM97     KC3OYZ           FN20    
+QSO:   3580  DG 2020-08-30 0535  K6UFO            CM97     VA7RY            DN09    
+QSO:   3580  DG 2020-08-30 0537  K6UFO            CM97     K7VIT            CN85    
+QSO:   7079  DG 2020-08-30 0540  K6UFO            CM97     N3FAA            DM04    
+QSO:   7080  DG 2020-08-30 0541  K6UFO            CM97     WA3LXD           EL99    
+QSO:   7079  DG 2020-08-30 0541  K6UFO            CM97     ZL1OGX           RF73    
+QSO:   7080  DG 2020-08-30 0543  K6UFO            CM97     KR1DX            DM13    
+QSO:   7080  DG 2020-08-30 0545  K6UFO            CM97     KB2S             CN87    
+QSO:   7079  DG 2020-08-30 0546  K6UFO            CM97     N5KO             CM97    
+QSO:   7090  DG 2020-08-30 0549  K6UFO            CM97     8P1W             GK03    
+QSO:   7090  DG 2020-08-30 0550  K6UFO            CM97     V51MA            JG87    
+QSO:   7090  DG 2020-08-30 0551  K6UFO            CM97     KC7RCY           EN61    
+QSO:   7090  DG 2020-08-30 0553  K6UFO            CM97     K6TXT            DM12    
+QSO:   7090  DG 2020-08-30 0553  K6UFO            CM97     AF6SA            CM98    
+QSO:   7090  DG 2020-08-30 0557  K6UFO            CM97     WS6K             EM79    
+QSO:   7090  DG 2020-08-30 0600  K6UFO            CM97     8P2K             GK03    
+QSO:   7090  DG 2020-08-30 0604  K6UFO            CM97     K5ZD             FN42    
+QSO:   7089  DG 2020-08-30 0611  K6UFO            CM97     KE0OVX           DN98    
+QSO:   7089  DG 2020-08-30 0611  K6UFO            CM97     JG7AMD           QM09    
+QSO:   7089  DG 2020-08-30 0614  K6UFO            CM97     K9OM             EN65    
+QSO:   7089  DG 2020-08-30 0617  K6UFO            CM97     NB6Q             CM97    
+QSO:   7089  DG 2020-08-30 0618  K6UFO            CM97     AJ5E             FM02    
+QSO:   7089  DG 2020-08-30 0623  K6UFO            CM97     AA4DD            EM86    
+QSO:   7089  DG 2020-08-30 0625  K6UFO            CM97     JE7KJG           QN00    
+QSO:   7089  DG 2020-08-30 0629  K6UFO            CM97     NH6Y             BL10    
+QSO:   7089  DG 2020-08-30 0631  K6UFO            CM97     WD6T             CM87    
+QSO:   7089  DG 2020-08-30 0634  K6UFO            CM97     KE6GLA           CM98    
+QSO:   7089  DG 2020-08-30 0635  K6UFO            CM97     KF4RWA           EM63    
+QSO:   7089  DG 2020-08-30 0638  K6UFO            CM97     NC6D             CM87    
+QSO:   7089  DG 2020-08-30 0639  K6UFO            CM97     W3IK             EL87    
+QSO:   7089  DG 2020-08-30 0641  K6UFO            CM97     VK7CMV           QE29    
+QSO:   7089  DG 2020-08-30 0642  K6UFO            CM97     AA6OC            CM87    
+QSO:   7089  DG 2020-08-30 0645  K6UFO            CM97     K7CA             DM37    
+QSO:   7089  DG 2020-08-30 0648  K6UFO            CM97     YV6BTF           FK60    
+QSO:   7089  DG 2020-08-30 0650  K6UFO            CM97     KD4RH            EM94    
+QSO:   7089  DG 2020-08-30 0651  K6UFO            CM97     NC6D             CM87    
+QSO:   7089  DG 2020-08-30 0652  K6UFO            CM97     K6GHA            CM97    
+QSO:   7089  DG 2020-08-30 0656  K6UFO            CM97     NP4TX            FK68    
+QSO:   7089  DG 2020-08-30 0657  K6UFO            CM97     HK7JA            FJ35    
+QSO:   7089  DG 2020-08-30 0702  K6UFO            CM97     AA2MF            EL87    
+QSO:   7089  DG 2020-08-30 0705  K6UFO            CM97     K6JDC            FM07    
+QSO:   7089  DG 2020-08-30 0706  K6UFO            CM97     HJ4SOL           FJ26    
+QSO:   7089  DG 2020-08-30 0708  K6UFO            CM97     EA8CNR           IL28    
+QSO:   7089  DG 2020-08-30 0709  K6UFO            CM97     VK3TWO           QF22    
+QSO:   7089  DG 2020-08-30 0714  K6UFO            CM97     PP5TI            GG52    
+QSO:   7089  DG 2020-08-30 0715  K6UFO            CM97     JF1LMB           PM95    
+QSO:   7089  DG 2020-08-30 0719  K6UFO            CM97     KW3A             FM29    
+QSO:   7089  DG 2020-08-30 0731  K6UFO            CM97     PT5J             GG52    
+QSO:   7089  DG 2020-08-30 0734  K6UFO            CM97     FK8CE            RG28    
+QSO:   7089  DG 2020-08-30 0737  K6UFO            CM97     NC6D             CM87    
+QSO:   7089  DG 2020-08-30 0740  K6UFO            CM97     K6PO             DM12    
+QSO:   7089  DG 2020-08-30 0742  K6UFO            CM97     W4MLB            EL98    
+QSO:   7089  DG 2020-08-30 0744  K6UFO            CM97     VK2KDP           QF55    
+QSO:   7089  DG 2020-08-30 0745  K6UFO            CM97     JA0AOO           PM97    
+QSO:   7089  DG 2020-08-30 0748  K6UFO            CM97     JA1IE            PM95    
+QSO:   7089  DG 2020-08-30 0751  K6UFO            CM97     ZP5DVD           GG14    
+QSO:   7089  DG 2020-08-30 0753  K6UFO            CM97     PY2KNK           GG56    
+QSO:   7089  DG 2020-08-30 0753  K6UFO            CM97     W4MLB            EL98    
+QSO:   7089  DG 2020-08-30 0754  K6UFO            CM97     VK3BDX           QF21    
+QSO:   7089  DG 2020-08-30 0757  K6UFO            CM97     KG5U             EL29    
+QSO:   7089  DG 2020-08-30 0759  K6UFO            CM97     V31MA            EK58    
+QSO:   7089  DG 2020-08-30 0801  K6UFO            CM97     YD9WFT           PI93    
+QSO:   7089  DG 2020-08-30 0803  K6UFO            CM97     KR1DX            DM13    
+QSO:   7089  DG 2020-08-30 0804  K6UFO            CM97     VA7ST            DO00    
+QSO:   7089  DG 2020-08-30 0806  K6UFO            CM97     K7HKR            DM34    
+QSO:   7089  DG 2020-08-30 0808  K6UFO            CM97     N0KRE            DM33    
+QSO:   7089  DG 2020-08-30 0811  K6UFO            CM97     KM2T             EL87    
+QSO:   7089  DG 2020-08-30 0813  K6UFO            CM97     HK4LIS           FJ26    
+QSO:   7089  DG 2020-08-30 0815  K6UFO            CM97     JR7DUT           QM09    
+QSO:   7089  DG 2020-08-30 0817  K6UFO            CM97     KH6ML            BL11    
+QSO:   7089  DG 2020-08-30 0820  K6UFO            CM97     K5EK             FM03    
+QSO:   7089  DG 2020-08-30 0823  K6UFO            CM97     UA0ZEO           QO93    
+QSO:   7089  DG 2020-08-30 0826  K6UFO            CM97     YB8RW            PJ21    
+QSO:   7089  DG 2020-08-30 0830  K6UFO            CM97     NT6X             DM13    
+QSO:   7089  DG 2020-08-30 0832  K6UFO            CM97     YC9VCQ           PI93    
+QSO:   7089  DG 2020-08-30 0833  K6UFO            CM97     JP7BRB           QM08    
+QSO:   7089  DG 2020-08-30 0835  K6UFO            CM97     JH0WJE           PM86    
+QSO:   7089  DG 2020-08-30 0836  K6UFO            CM97     K1HTV            FM18    
+QSO:   7089  DG 2020-08-30 0837  K6UFO            CM97     YC8FKN           PI07    
+QSO:   7089  DG 2020-08-30 0841  K6UFO            CM97     YD3GIF           OI62    
+QSO:   7089  DG 2020-08-30 0842  K6UFO            CM97     AA5JF            EM83    
+QSO:   7089  DG 2020-08-30 0844  K6UFO            CM97     BH1HWF           ON80    
+QSO:   7089  DG 2020-08-30 0847  K6UFO            CM97     NJ8G             DM33    
+QSO:   7089  DG 2020-08-30 0848  K6UFO            CM97     VK6MIT           OF78    
+QSO:   7089  DG 2020-08-30 0852  K6UFO            CM97     KH6CJJ           BL10    
+QSO:   7089  DG 2020-08-30 0853  K6UFO            CM97     VK1PP            QF44    
+QSO:   7089  DG 2020-08-30 0855  K6UFO            CM97     JR1JRW           PM95    
+QSO:   7089  DG 2020-08-30 0856  K6UFO            CM97     W5BDB            EM51    
+QSO:   7089  DG 2020-08-30 0859  K6UFO            CM97     YB9UA            QI07    
+QSO:   7089  DG 2020-08-30 0902  K6UFO            CM97     KW6S             CM96    
+QSO:   7089  DG 2020-08-30 0902  K6UFO            CM97     YB2ECG           OI52    
+QSO:   7089  DG 2020-08-30 0905  K6UFO            CM97     JA1TMG           PM96    
+QSO:   7089  DG 2020-08-30 0907  K6UFO            CM97     YC8FEE           PI06    
+QSO:   7089  DG 2020-08-30 0908  K6UFO            CM97     JH4UTP           PM64    
+QSO:   7089  DG 2020-08-30 0910  K6UFO            CM97     JA0IXW           PM86    
+QSO:   7089  DG 2020-08-30 0911  K6UFO            CM97     R0CAF            PN78    
+QSO:   7089  DG 2020-08-30 0919  K6UFO            CM97     YB8UTI           PJ34    
+QSO:   7089  DG 2020-08-30 0921  K6UFO            CM97     JK3HFN           PM75    
+QSO:   7089  DG 2020-08-30 0922  K6UFO            CM97     WA4EEZ           EL87    
+QSO:   7089  DG 2020-08-30 0923  K6UFO            CM97     YB2CAA           OI42    
+QSO:   7089  DG 2020-08-30 0925  K6UFO            CM97     VK2TRD           PG99    
+QSO:   7089  DG 2020-08-30 0928  K6UFO            CM97     WV4P             EM55    
+QSO:   7089  DG 2020-08-30 0929  K6UFO            CM97     YC9DE            OI71    
+QSO:   7089  DG 2020-08-30 0930  K6UFO            CM97     YB7MYS           OI77    
+QSO:   7089  DG 2020-08-30 0931  K6UFO            CM97     JL3ZHU           PM85    
+QSO:   7089  DG 2020-08-30 0932  K6UFO            CM97     WA4IPU           EL89    
+QSO:   7089  DG 2020-08-30 0938  K6UFO            CM97     JA7ZP            QM09    
+QSO:   7089  DG 2020-08-30 0940  K6UFO            CM97     JH5HDA           PM63    
+QSO:   7089  DG 2020-08-30 0942  K6UFO            CM97     VK6FABJ          OF78    
+QSO:   7089  DG 2020-08-30 0942  K6UFO            CM97     JE1DRU           QM05    
+QSO:   7089  DG 2020-08-30 0949  K6UFO            CM97     RW0LX            PN62    
+QSO:   7089  DG 2020-08-30 0951  K6UFO            CM97     RN0CW            PN78    
+QSO:   3589  DG 2020-08-30 0955  K6UFO            CM97     ZL3TE            RF73    
+QSO:   3589  DG 2020-08-30 0956  K6UFO            CM97     CE1BF            FG46    
+QSO:   3589  DG 2020-08-30 0958  K6UFO            CM97     K4KSV            EM63    
+QSO:   3589  DG 2020-08-30 0959  K6UFO            CM97     KF4RWA           EM63    
+QSO:   3589  DG 2020-08-30 1000  K6UFO            CM97     KH6AP            BL10    
+QSO:   3589  DG 2020-08-30 1002  K6UFO            CM97     K7HKR            DM34    
+QSO:   3590  DG 2020-08-30 1006  K6UFO            CM97     NU4E             EM95    
+QSO:   3590  DG 2020-08-30 1007  K6UFO            CM97     WD9HSY           EN61    
+QSO:   3590  DG 2020-08-30 1009  K6UFO            CM97     K6JDC            FM07    
+QSO:   3590  DG 2020-08-30 1014  K6UFO            CM97     UA0ZK            QO93    
+QSO:   3589  DG 2020-08-30 1104  K6UFO            CM97     V31MA            EK58    
+QSO:   3589  DG 2020-08-30 1107  K6UFO            CM97     W4CU             EL87    
+QSO:   3589  DG 2020-08-30 1108  K6UFO            CM97     N7ZZ             EN64    
+QSO:   3590  DG 2020-08-30 1113  K6UFO            CM97     CO8LY            FL20    
+QSO:   3589  DG 2020-08-30 1114  K6UFO            CM97     VK3BDX           QF21    
+QSO:   3589  DG 2020-08-30 1114  K6UFO            CM97     VK3BDX           QF21    
+QSO:   3589  DG 2020-08-30 1116  K6UFO            CM97     W7EW             CN84    
+QSO:   3589  DG 2020-08-30 1117  K6UFO            CM97     K2DSW            EN31    
+QSO:   3589  DG 2020-08-30 1119  K6UFO            CM97     N4FP             EL89    
+QSO:   3589  DG 2020-08-30 1121  K6UFO            CM97     AA5JF            EM83    
+QSO:   3589  DG 2020-08-30 1122  K6UFO            CM97     KM8V             EN91    
+QSO:   3589  DG 2020-08-30 1125  K6UFO            CM97     NS9I             EN64    
+QSO:   3589  DG 2020-08-30 1133  K6UFO            CM97     KW6S             CM96    
+QSO:   3589  DG 2020-08-30 1139  K6UFO            CM97     VE3MGY           EN92    
+QSO:   3589  DG 2020-08-30 1138  K6UFO            CM97     WA3EKL           FM19    
+QSO:   3590  DG 2020-08-30 1143  K6UFO            CM97     W0YK             CM97    
+END-OF-LOG:

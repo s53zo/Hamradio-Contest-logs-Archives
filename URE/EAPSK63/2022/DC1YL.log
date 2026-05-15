@@ -1,0 +1,129 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: DC1YL
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED:  NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 40M + 20M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: PSK63
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: ROOKIE (licensed 06/2019)
+
+# Integer number
+CLAIMED-SCORE: 6302
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: JN48st
+
+# Operator name
+NAME: Gabriele Wohlfarth
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME:2022-03-12 1524 2022-03-13 1152   
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7042 PSK        2022-03-12 1529 DC1YL           599 002             F4FSY         599 097           
+QSO:    7043 PSK        2022-03-12 1531 DC1YL           599 003             IK2SBB        599 054           
+QSO:    7043 PSK        2022-03-12 1535 DC1YL           599 004             DJ4WM         599 051           
+QSO:    7043 PSK        2022-03-12 1541 DC1YL           599 005             F4GRW         599 029           
+QSO:    7042 PSK        2022-03-12 1544 DC1YL           599 006             F4GWY         599 068           
+QSO:    7040 PSK        2022-03-12 1546 DC1YL           599 007             DM1SG         599 044           
+QSO:    7041 PSK        2022-03-12 1547 DC1YL           599 008             IV3KKW        599 066       
+QSO:    7041 PSK        2022-03-12 1551 DC1YL           599 009             SQ9DXT        599 025           
+QSO:    7040 PSK        2022-03-12 1555 DC1YL           599 010             EA2XR         599 BI            
+QSO:    7041 PSK        2022-03-12 1558 DC1YL           599 011             F5PVK         599 050           
+QSO:    7041 PSK        2022-03-12 1603 DC1YL           599 012             RA1QFU        599 129           
+QSO:    7042 PSK        2022-03-12 1607 DC1YL           599 013             PD2PKM        599 104           
+QSO:   14068 PSK        2022-03-12 1634 DC1YL           599 014             EA5R          599 MU            
+QSO:   14068 PSK        2022-03-12 1636 DC1YL           599 015             EA1CH         599 OU            
+QSO:   14069 PSK        2022-03-12 1637 DC1YL           599 016             RA1QFU        599 141           
+QSO:   14069 PSK        2022-03-12 1640 DC1YL           599 017             EA1LN         599 O             
+QSO:   14070 PSK        2022-03-12 1641 DC1YL           599 018             EB5CS         599 CS            
+QSO:   14072 PSK        2022-03-12 1643 DC1YL           599 019             EA8DO         599 TF            
+QSO:   14072 PSK        2022-03-12 1646 DC1YL           599 020             EA4BAS        599 M             
+QSO:   14071 PSK        2022-03-12 1647 DC1YL           599 021             ED1B          599 O             
+QSO:   14070 PSK        2022-03-12 1649 DC1YL           599 022             EA4URE        599 HQ            
+QSO:   14072 PSK        2022-03-12 1653 DC1YL           599 023             EA7YV         599 MA            
+QSO:   14071 PSK        2022-03-12 1655 DC1YL           599 024             EA7KFX        599 CA            
+QSO:   14070 PSK        2022-03-12 1657 DC1YL           599 025             EA4Z          599 M             
+QSO:   14070 PSK        2022-03-12 1700 DC1YL           599 027             EA4WP         599 M             
+QSO:   14073 PSK        2022-03-12 1704 DC1YL           599 028             EE4Y          599 TO            
+QSO:   14069 PSK        2022-03-12 1709 DC1YL           599 029             EA5DF         599 V             
+QSO:   14069 PSK        2022-03-12 1711 DC1YL           599 030             P3AA          599 155           
+QSO:   14070 PSK        2022-03-12 1715 DC1YL           599 031             CT7AJL        599 183           
+QSO:   14068 PSK        2022-03-12 1810 DC1YL           599 032             EA2RCA        599 VI        
+QSO:   14071 PSK        2022-03-12 1816 DC1YL           599 033             EA2CP         599 BI            
+QSO:   14071 PSK        2022-03-12 1818 DC1YL           599 034             EA2XR         599 BI            
+QSO:   14073 PSK        2022-03-12 1821 DC1YL           599 035             EA8W          599 GC            
+QSO:   14073 PSK        2022-03-12 1822 DC1YL           599 036             EA1IT         599 S             
+QSO:    7040 PSK        2022-03-12 1843 DC1YL           599 038             ED3D          599 GI            
+QSO:    7039 PSK        2022-03-12 1854 DC1YL           599 039             G1P           599 137           
+QSO:    7039 PSK        2022-03-12 1901 DC1YL           599 041             EA1BAF        599 OU            
+QSO:    7042 PSK        2022-03-12 2121 DC1YL           599 042             IV3UHL        599 154           
+QSO:    7042 PSK        2022-03-12 2128 DC1YL           599 043             EC3A          599 T             
+QSO:    7044 PSK        2022-03-12 2156 DC1YL           599 044             ED1R          599 AV            
+QSO:    7044 PSK        2022-03-12 2159 DC1YL           599 045             EA6SX         599 IB            
+QSO:    7044 PSK        2022-03-12 2202 DC1YL           599 046             EA1OK         599 O             
+QSO:    7040 PSK        2022-03-12 2235 DC1YL           599 047             EA4Z          599 M             
+QSO:    7041 PSK        2022-03-12 2243 DC1YL           599 048             EB1FE         599 O             
+QSO:    7041 PSK        2022-03-12 2249 DC1YL           599 049             HG3FMZ        599 186           
+QSO:    7042 PSK        2022-03-12 2301 DC1YL           599 050             EE4Y          599 TO            
+QSO:   14069 PSK        2022-03-13 0850 DC1YL           599 051             YO4FPF        599 174           
+QSO:   14071 PSK        2022-03-13 0903 DC1YL           599 052             EA7EQ         599 SE            
+QSO:   14072 PSK        2022-03-13 0904 DC1YL           599 053             EA7K          599 SE            
+QSO:   14071 PSK        2022-03-13 0906 DC1YL           599 054             ED3D          599 GI            
+QSO:   14072 PSK        2022-03-13 0915 DC1YL           599 055             LZ8EPC        599 064           
+QSO:   14072 PSK        2022-03-13 0918 DC1YL           599 056             EA3AKA        599 T             
+QSO:   14072 PSK        2022-03-13 0921 DC1YL           599 057             LZ3QE         599 309           
+QSO:   14072 PSK        2022-03-13 0927 DC1YL           599 058             EA1O          599 SG            
+QSO:   14073 PSK        2022-03-13 0929 DC1YL           599 059             CT1BHG        599 061           
+QSO:   14073 PSK        2022-03-13 0938 DC1YL           599 060             YO8PUF        599 021           
+QSO:   14072 PSK        2022-03-13 0939 DC1YL           599 061             EA3FYO        599 B             
+QSO:   14071 PSK        2022-03-13 0940 DC1YL           599 062             EB5CUZ        599 CS            
+QSO:   14071 PSK        2022-03-13 0945 DC1YL           599 063             EB1FE         599 O             
+QSO:   14072 PSK        2022-03-13 0947 DC1YL           599 064             EA1OK         599 O             
+QSO:    7041 PSK        2022-03-13 1152 DC1YL           599 065             DL1EAL        599 078   
+END-OF-LOG:

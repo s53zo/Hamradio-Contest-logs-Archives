@@ -1,0 +1,115 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: HA3HK
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED			
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 20M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: PSK63
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP 20M
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 2639
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: jn86tq
+
+# Operator name
+NAME: Zoli Borbely
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: HA3HK
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14069 PSK        2022-03-13 1158 HA3HK           599 050             G4IDF         599 008           
+QSO:   14069 PSK        2022-03-13 1157 HA3HK           599 049             EA2EVC        599 NA            
+QSO:   14069 PSK        2022-03-13 1156 HA3HK           599 048             PA0CMF        599 063           
+QSO:   14068 PSK        2022-03-13 1154 HA3HK           599 047             ON6DP         599 021           
+QSO:   14073 PSK        2022-03-13 1150 HA3HK           599 046             R3AQ          599 139           
+QSO:   14072 PSK        2022-03-13 1149 HA3HK           599 044             EA3FYO        599 B             
+QSO:   14071 PSK        2022-03-13 1147 HA3HK           599 043             ED3D          599 GI            
+QSO:   14071 PSK        2022-03-13 1146 HA3HK           599 042             PD2PKM        599 269           
+QSO:   14071 PSK        2022-03-13 1143 HA3HK           599 041             EA4URE        599 HQ            
+QSO:   14070 PSK        2022-03-13 1141 HA3HK           599 040              RT6N         599 043           
+QSO:   14070 PSK        2022-03-13 1140 HA3HK           599 039             EA7IEZ        599 MA            
+QSO:   14069 PSK        2022-03-13 1138 HA3HK           599 038             2E0INN        599 212           
+QSO:   14067 PSK        2022-03-13 1137 HA3HK           599 037             DB50AFZ       599 118           
+QSO:   14066 PSK        2022-03-13 1135 HA3HK           599 036             M5P           599 026           
+QSO:   14073 PSK        2022-03-13 1133 HA3HK           599 035             EA8DO         599 TF            
+QSO:   14072 PSK        2022-03-13 1132 HA3HK           599 034             EW8DX         599 217           
+QSO:   14071 PSK        2022-03-13 1130 HA3HK           599 033             LZ2JA         599 257           
+QSO:   14071 PSK        2022-03-13 1128 HA3HK           599 032             EA1IT         599 S             
+QSO:   14070 PSK        2022-03-13 1127 HA3HK           599 031             PA3JB         599 007           
+QSO:   14070 PSK        2022-03-13 1126 HA3HK           599 030             PA0PIW        599 092           
+QSO:   14069 PSK        2022-03-13 1124 HA3HK           599 029             G1P           599 257           
+QSO:   14070 PSK        2022-03-13 1040 HA3HK           599 028             RT4W          599 050           
+QSO:   14069 PSK        2022-03-13 1038 HA3HK           599 027             YO4FPF        599 217           
+QSO:   14068 PSK        2022-03-13 1035 HA3HK           599 026             LA5LJA        599 093           
+QSO:   14068 PSK        2022-03-13 1033 HA3HK           599 025             DL3SYA        599 354           
+QSO:   14068 PSK        2022-03-13 1032 HA3HK           599 024             EA2RCA        599 VI            
+QSO:   14067 PSK        2022-03-13 1030 HA3HK           599 023             RA6LIS        599 74            
+QSO:   14066 PSK        2022-03-13 1024 HA3HK           599 022             EW6DM         599 129           
+QSO:   14066 PSK        2022-03-13 1023 HA3HK           599 021             EA8W          599 GC            
+QSO:   14073 PSK        2022-03-13 1020 HA3HK           599 020             EA3EZD        599 B             
+QSO:   14073 PSK        2022-03-13 1019 HA3HK           599 019             EA1CHG        599 ZA            
+QSO:   14073 PSK        2022-03-13 1018 HA3HK           599 018             EA2ESB        599 TE            
+QSO:   14072 PSK        2022-03-13 1017 HA3HK           599 017             UN7LV         599 101           
+QSO:   14072 PSK        2022-03-13 1016 HA3HK           599 016             EA5KE         599 V             
+QSO:   14072 PSK        2022-03-13 1016 HA3HK           599 015             EA7YV         599 MA            
+QSO:   14072 PSK        2022-03-13 1015 HA3HK           599 014             EA5FSJ        599 A             
+QSO:   14071 PSK        2022-03-13 1012 HA3HK           599 012             EA3AKA        599 T             
+QSO:   14071 PSK        2022-03-13 1011 HA3HK           599 011             EA2CP         599 BI            
+QSO:   14071 PSK        2022-03-13 1009 HA3HK           599 010             EB5CUZ        599 CS            
+QSO:   14070 PSK        2022-03-13 1008 HA3HK           599 009             DL3KVR        599 096           
+QSO:   14070 PSK        2022-03-13 1007 HA3HK           599 008             CT7AJL        599 442           
+QSO:   14070 PSK        2022-03-13 1005 HA3HK           599 007             EA3NP         599 B             
+QSO:   14070 PSK        2022-03-13 1004 HA3HK           599 005             G0HDV         599 224           
+QSO:   14068 PSK        2022-03-13 1002 HA3HK           599 004             EC3A          599 T             
+QSO:   14069 PSK        2022-03-13 1001 HA3HK           599 003             EF7W          599 MA            
+QSO:   14069 PSK        2022-03-13 0959 HA3HK           599 002             EA2XR         599 BI            
+QSO:   14069 PSK        2022-03-13 0958 HA3HK           599 001             PD8DX         599 106           
+END-OF-LOG:

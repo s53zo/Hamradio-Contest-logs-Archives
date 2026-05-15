@@ -1,0 +1,90 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: EA5HDX
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 384
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   21071 PSK        2022-03-12 1245 EA5HDX          599 MU             EA8TH         599   TF               
+QSO:   14070 PSK        2022-03-12 1251 EA5HDX          599 MU             DF2SD         599   009            
+QSO:   14071 PSK        2022-03-12 1254 EA5HDX          599 MU             LZ2JA         599   054            
+QSO:   14070 PSK        2022-03-12 1256 EA5HDX          599 MU             I0WBX         599   050            
+QSO:   14070 PSK        2022-03-12 1257 EA5HDX          599 MU             IV3UHL        599   009            
+QSO:   14072 PSK        2022-03-12 1303 EA5HDX          599 MU             PA2JCB        599   011            
+QSO:   14070 PSK        2022-03-12 1325 EA5HDX          599 MU             ON6OM         599   000            
+QSO:   14071 PSK        2022-03-12 1405 EA5HDX          599 MU             F4FSY         599   063            
+QSO:   14070 PSK        2022-03-12 1408 EA5HDX          599 MU             CT7AJL        599   079            
+QSO:   14070 PSK        2022-03-12 1412 EA5HDX          599 MU             YL2CI         599   021            
+QSO:   14071 PSK        2022-03-12 1413 EA5HDX          599 MU             I1RJP         599   010            
+QSO:   14071 PSK        2022-03-12 1417 EA5HDX          599 MU             IV3KKW        599   023            
+QSO:   14073 PSK        2022-03-12 1421 EA5HDX          599 MU             F4GRW         599   008            
+QSO:   14071 PSK        2022-03-12 1433 EA5HDX          599 MU             EA8DO         599   TF            
+QSO:   14073 PSK        2022-03-12 1438 EA5HDX          599 MU             DL3SYA        599   075            
+QSO:   14072 PSK        2022-03-12 1440 EA5HDX          599 MU             IK1BPL        599   016            
+QSO:   14070 PSK        2022-03-12 1444 EA5HDX          599 MU             YO5AXF        599   045            
+QSO:   14070 PSK        2022-03-12 1446 EA5HDX          599 MU             I2XLF         599   057            
+QSO:   14070 PSK        2022-03-12 1455 EA5HDX          599 MU             F5QJ          599   035            
+QSO:   21071 PSK        2022-03-12 1529 EA5HDX          599 MU             SQ8NGO        599   015            
+QSO:   14069 PSK        2022-03-12 1900 EA5HDX          599 MU             N2XMM         599   057            
+QSO:   14070 PSK        2022-03-12 1929 EA5HDX          599 MU             DM2DLG        599   000            
+END-OF-LOG:

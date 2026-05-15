@@ -1,0 +1,162 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.0.1
+
+# The callsign used during the contest.
+CALLSIGN: dl2gmk
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 12-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 10710
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: A09
+
+# Operator name
+NAME: Malte Kloefkorn
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7042 RY 2020-03-15 1601 dl2gmk          599 097             UT5EPP        599 473           
+QSO:    7042 RY 2020-03-15 1559 dl2gmk          599 096             LZ5K          599 355           
+QSO:    7040 RY 2020-03-15 1554 dl2gmk          599 095             EA3EYO        599 B             
+QSO:   14071 RY 2020-03-15 1548 dl2gmk          599 094             RV6F          599 212           
+QSO:   14071 RY 2020-03-15 1547 dl2gmk          599 093             YU7AOP        599 190           
+QSO:   14069 RY 2020-03-15 1542 dl2gmk          599 092             EA8W          599 GC            
+QSO:   14073 RY 2020-03-15 1534 dl2gmk          599 091             IT9VCE        599 338           
+QSO:   14068 RY 2020-03-15 1441 dl2gmk          599 090             EA1L          599 O             
+QSO:   14072 RY 2020-03-15 1437 dl2gmk          599 089             UT8NT         599 285           
+QSO:   14072 RY 2020-03-15 1435 dl2gmk          599 088             LZ3QE         599 306           
+QSO:   14073 RY 2020-03-15 1434 dl2gmk          599 087             YL2CI         599 262           
+QSO:   14072 RY 2020-03-15 1432 dl2gmk          599 086             EF8W          599 TF            
+QSO:   14070 RY 2020-03-15 1430 dl2gmk          599 085             RA1QFU        599 476           
+QSO:   14070 RY 2020-03-15 1428 dl2gmk          599 084             EA7IEZT       599 MA            
+QSO:   14071 RY 2020-03-15 1427 dl2gmk          599 083             EA4GOY        599 TO            
+QSO:   14071 RY 2020-03-15 1424 dl2gmk          599 082             UA6CE         599 179           
+QSO:    7044 RY 2020-03-15 1416 dl2gmk          599 081             OO3O          599 362           
+QSO:    7044 RY 2020-03-15 1416 dl2gmk          599 080             IW3FVZ        599 252           
+QSO:    7044 RY 2020-03-15 1414 dl2gmk          599 079             EA1OK         599 O             
+QSO:    7044 RY 2020-03-15 1410 dl2gmk          599 078             IW3FVZ        599 248           
+QSO:    7042 RY 2020-03-15 1408 dl2gmk          599 077             F5GFA         599 095           
+QSO:    7042 RY 2020-03-15 1407 dl2gmk          599 076             IK4JQQ        599 064           
+QSO:    7043 RY 2020-03-15 1404 dl2gmk          599 075             OK2UHP        599 108           
+QSO:    7040 RY 2020-03-15 1401 dl2gmk          599 074             PA4G          599 195           
+QSO:    7041 RY 2020-03-15 1359 dl2gmk          599 073             DP70DARC      599 084           
+QSO:    7042 RY 2020-03-15 1358 dl2gmk          599 072             IV3KKW        599 229           
+QSO:    7040 RY 2020-03-15 1116 dl2gmk          599 071             SQ6PNP        599 016           
+QSO:   14070 RY 2020-03-15 1106 dl2gmk          599 070             YO8DHA        599 0305          
+QSO:   14072 RY 2020-03-15 1102 dl2gmk          599 069             EI3JE         599 379           
+QSO:   14072 RY 2020-03-15 1058 dl2gmk          599 068             EA7KI         599 MA            
+QSO:   14069 RY 2020-03-15 1048 dl2gmk          599 067             YO4NF         599 163           
+QSO:    7044 RY 2020-03-15 1033 dl2gmk          599 066             EA2KK         599 BI            
+QSO:    7044 RY 2020-03-15 1032 dl2gmk          599 065             EA4GOYE       599 TO            
+QSO:    7044 RY 2020-03-15 1031 dl2gmk          599 064             EB4GOO        599 M             
+QSO:    7044 RY 2020-03-15 1028 dl2gmk          599 063             HA1TIB        599 119           
+QSO:    7044 RY 2020-03-15 1023 dl2gmk          599 062             PG5V          599 130           
+QSO:    7040 RY 2020-03-15 1016 dl2gmk          599 061             SQ9DXT        599 008           
+QSO:    7040 RY 2020-03-15 1011 dl2gmk          599 060             EA2DLX        599 BI            
+QSO:   14068 RY 2020-03-15 1005 dl2gmk          599 059             SV3DCX        599 155           
+QSO:   14068 RY 2020-03-15 1004 dl2gmk          599 058             LZ2JA         599 139           
+QSO:   14068 RY 2020-03-15 1002 dl2gmk          599 057             R3BB          599 115           
+QSO:   14073 RY 2020-03-15 1001 dl2gmk          599 056             SV1JFL        599 099           
+QSO:   14073 RY 2020-03-15 0958 dl2gmk          599 055             US7KC         599 283           
+QSO:   14072 RY 2020-03-15 0950 dl2gmk          599 054             CR5O          599 337           
+QSO:   14071 RY 2020-03-15 0943 dl2gmk          599 053             EA7Q          599 H             
+QSO:   14071 RY 2020-03-15 0940 dl2gmk          599 052             SV1JG         599 278           
+QSO:    7044 RY 2020-03-15 0937 dl2gmk          599 051             G4EBY         599 029           
+QSO:    7040 RY 2020-03-15 0934 dl2gmk          599 050             EA2SS         599 HU            
+QSO:    7041 RY 2020-03-15 0930 dl2gmk          599 049             M2E           599 018           
+QSO:    7040 RY 2020-03-15 0926 dl2gmk          599 048             EA4URE        599 HQ            
+QSO:    7040 RY 2020-03-15 0923 dl2gmk          599 047             EA5CH         599 A             
+QSO:    7041 RY 2020-03-15 0921 dl2gmk          599 046             EA5SM         599 A             
+QSO:    7041 RY 2020-03-15 0920 dl2gmk          599 045             S57ZT         599 282           
+QSO:    7039 RY 2020-03-15 0913 dl2gmk          599 044             EB5CUZ        599 VI            
+QSO:    7038 RY 2020-03-15 0911 dl2gmk          599 043             EA2BNU        599 SS            
+QSO:    7039 RY 2020-03-15 0909 dl2gmk          599 042             EA2DDE        599 NA            
+QSO:    7039 RY 2020-03-15 0908 dl2gmk          599 041             EA7AZA        599 CA            
+QSO:    7039 RY 2020-03-15 0906 dl2gmk          599 040             EE5O          599 CS            
+QSO:    7039 RY 2020-03-15 0821 dl2gmk          599 039             EB3EFU        599 GI            
+QSO:    7042 RY 2020-03-15 0816 dl2gmk          599 038             EB2CTA        599 VI            
+QSO:    7042 RY 2020-03-15 0813 dl2gmk          599 037             EA3X          599 B             
+QSO:    7042 RY 2020-03-15 0811 dl2gmk          599 036             9A1FL         599 183           
+QSO:    7043 RY 2020-03-15 0810 dl2gmk          599 035             EA4GOK        599 E             
+QSO:    7042 RY 2020-03-15 0807 dl2gmk          599 034             EA3IAZ        599 GI            
+QSO:    7044 RY 2020-03-15 0805 dl2gmk          599 033             EA1TL         599 AV            
+QSO:    7043 RY 2020-03-15 0803 dl2gmk          599 032             EA5GIE        599 V             
+QSO:    7046 RY 2020-03-15 0800 dl2gmk          599 031             EC7WA         599 H             
+QSO:    7044 RY 2020-03-15 0756 dl2gmk          599 030             SP7IAD        599 031           
+QSO:    7045 RY 2020-03-15 0753 dl2gmk          599 029             2E0CVN        599 112           
+QSO:    7044 RY 2020-03-15 0752 dl2gmk          599 028             EA7IP         599 SE            
+QSO:    7041 RY 2020-03-15 0748 dl2gmk          599 027             CR5O          599 299           
+QSO:    7040 RY 2020-03-15 0744 dl2gmk          599 026             US7KC         599 209           
+QSO:    7041 RY 2020-03-15 0742 dl2gmk          599 025             EC3A          599 T             
+QSO:    7040 RY 2020-03-15 0740 dl2gmk          599 024             EA5ASU        599 A             
+QSO:    7038 RY 2020-03-15 0732 dl2gmk          599 023             EA3F          599 L             
+QSO:    7040 RY 2020-03-15 0730 dl2gmk          599 022             DL3SYA        599 311           
+QSO:    7039 RY 2020-03-15 0728 dl2gmk          599 021             UR5SD         599 260           
+QSO:    7042 RY 2020-03-15 0723 dl2gmk          599 020             EA7KHB        599 CO            
+QSO:    7043 RY 2020-03-15 0720 dl2gmk          599 019             EA7KI         599 MA            
+QSO:    7042 RY 2020-03-15 0715 dl2gmk          599 018             DL5KUD        599 122           
+QSO:    7043 RY 2020-03-15 0712 dl2gmk          599 017             EA1G          599 O             
+QSO:    7042 RY 2020-03-15 0630 dl2gmk          599 016             CN8YZ         599 132           
+QSO:    7043 RY 2020-03-15 0628 dl2gmk          599 015             YO8DHA        599 0151          
+QSO:    7042 RY 2020-03-15 0624 dl2gmk          599 014             SV1JG         599 186           
+QSO:    7043 RY 2020-03-15 0622 dl2gmk          599 013             G0HDV         599 115           
+QSO:    7044 RY 2020-03-15 0619 dl2gmk          599 012             EA4FVG        599 M             
+QSO:    7043 RY 2020-03-15 0617 dl2gmk          599 011             UR5IHD        599 085           
+QSO:    7043 RY 2020-03-15 0615 dl2gmk          599 010             EC7AT         599 AL            
+QSO:    7043 RY 2020-03-15 0614 dl2gmk          599 009             SE6K          599 088           
+QSO:    7044 RY 2020-03-15 0613 dl2gmk          599 008             UT2GA         599 097           
+QSO:    7044 RY 2020-03-15 0611 dl2gmk          599 007             UX7QV         599 191           
+QSO:    7042 RY 2020-03-15 0608 dl2gmk          599 006             ED1D          599 Q             
+QSO:    7041 RY 2020-03-15 0601 dl2gmk          599 005             EA1DV         599 BU            
+QSO:    7040 RY 2020-03-15 0548 dl2gmk          599 002             EA5XC         599 A             
+END-OF-LOG:

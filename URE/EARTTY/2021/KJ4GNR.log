@@ -1,0 +1,110 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.15
+
+# The callsign used during the contest.
+CALLSIGN: KJ4GNR
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: RTTY
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: CHECKLOG
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 0
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: Jorge Perez
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: CHECKLOG
+SOAPBOX: 
+SOAPBOX: 
+
+QSO: 14072 RY 2021-04-03 1925 KJ4GNR          599 000             EA7KI         599 000           
+QSO: 14071 RY 2021-04-03 1929 KJ4GNR          599 000             EA2DPS        599 000           
+QSO: 14071 RY 2021-04-03 1943 KJ4GNR          599 000             K1VW          599 000           
+QSO: 14084 RY 2021-04-03 1953 KJ4GNR          599 000             YV4ABR        599 000           
+QSO: 14083 RY 2021-04-03 2000 KJ4GNR          599 000             EA8DO         599 000           
+QSO: 14086 RY 2021-04-04 0040 KJ4GNR          599 000             WQ5OO         599 000    
+QSO:  7081 RY 2021-04-04 0049 KJ4GNR          599 000             WE6EZ         599 000           
+QSO:  7081 RY 2021-04-04 0057 KJ4GNR          599 000             K2AL          599 000           
+QSO:  7081 RY 2021-04-04 0100 KJ4GNR          599 000             KK4HEG        599 000           
+QSO:  7081 RY 2021-04-04 0101 KJ4GNR          599 000             EA7ELY        599 000           
+QSO:  7081 RY 2021-04-04 0102 KJ4GNR          599 000             W3FIZ         599 000           
+QSO:  7081 RY 2021-04-04 0106 KJ4GNR          599 000             W4CQE         599 000           
+QSO:  7081 RY 2021-04-04 0108 KJ4GNR          599 000             WB2LZM        599 000           
+QSO:  7093 RY 2021-04-04 0330 KJ4GNR          599 000             WQ6X          599 000           
+QSO:  7093 RY 2021-04-04 0334 KJ4GNR          599 000             VE7CC         599 000           
+QSO:  7059 RY 2021-04-04 0419 KJ4GNR          599 000             OL6D          599 000           
+QSO:  7058 RY 2021-04-04 0435 KJ4GNR          599 000             UR7GO         599 000           
+QSO:  7064 RY 2021-04-04 0445 KJ4GNR          599 000             ED7N          599 000           
+QSO:  7063 RY 2021-04-04 0502 KJ4GNR          599 000             IK3SSJ        599 000           
+QSO:  7063 RY 2021-04-04 0509 KJ4GNR          599 000             WN8Y          599 000           
+QSO:  7064 RY 2021-04-04 0513 KJ4GNR          599 000             WU6W          599 000           
+QSO:  7052 RY 2021-04-04 0538 KJ4GNR          599 000             ED7B          599 000           
+QSO:  7051 RY 2021-04-04 0543 KJ4GNR          599 000             EA1IQ         599 000           
+QSO:  7051 RY 2021-04-04 0545 KJ4GNR          599 000             S57DX         599 000           
+QSO:  7042 RY 2021-04-04 0614 KJ4GNR          599 000             EB2CTA        599 000           
+QSO:  7042 RY 2021-04-04 0615 KJ4GNR          599 000             9A5Y          599 000           
+QSO:  7042 RY 2021-04-04 0619 KJ4GNR          599 000             EA7IP         599 000           
+QSO:  7042 RY 2021-04-04 0628 KJ4GNR          599 000             DL4ME         599 000           
+QSO:  7044 RY 2021-04-04 0642 KJ4GNR          599 000             EC7C          599 000           
+QSO:  7048 RY 2021-04-04 0704 KJ4GNR          599 000             S51CK         599 000           
+QSO:  7050 RY 2021-04-04 0709 KJ4GNR          599 000             EA4URE        599 000           
+QSO: 14086 RY 2021-04-04 1332 KJ4GNR          599 000             WA2BOT        599 000           
+QSO: 14091 RY 2021-04-04 1337 KJ4GNR          599 000             K2AL          599 000           
+QSO: 14094 RY 2021-04-04 1340 KJ4GNR          599 000             XE1SPM        599 000           
+QSO: 14092 RY 2021-04-04 1344 KJ4GNR          599 000             VA3IK         599 000           
+QSO: 14094 RY 2021-04-04 1352 KJ4GNR          599 000             R3GZ          599 000           
+QSO: 14099 RY 2021-04-04 1407 KJ4GNR          599 000             LB2TG         599 000           
+QSO: 14104 RY 2021-04-04 1412 KJ4GNR          599 000             UD4F          599 000           
+QSO: 14104 RY 2021-04-04 1415 KJ4GNR          599 000             KU2M          599 000           
+QSO: 14106 RY 2021-04-04 1419 KJ4GNR          599 000             OH7KNM        599 000           
+QSO: 14108 RY 2021-04-04 1428 KJ4GNR          599 000             OG4W          599 000           
+QSO: 14109 RY 2021-04-04 1431 KJ4GNR          599 000             W9FFA         599 000           
+END-OF-LOG:

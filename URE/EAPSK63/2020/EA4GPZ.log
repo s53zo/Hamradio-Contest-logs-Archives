@@ -1,0 +1,194 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.09
+
+# The callsign used during the contest.
+CALLSIGN: EA4GPZ
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 12425
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: Tres Cantos (Madrid)
+
+# Operator name
+NAME: Daniel Estevez
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: EA4GPZ
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7041 RY 2020-03-14 1602 EA4GPZ          599 M           I0GIA         599 002           
+QSO:    7041 RY 2020-03-14 1605 EA4GPZ          599 M           EC1DD         599 PO            
+QSO:    7042 RY 2020-03-14 1607 EA4GPZ          599 M           CN8YZ         599 2             
+QSO:    7042 RY 2020-03-14 1608 EA4GPZ          599 M           F5OAM         599 009           
+QSO:    7039 RY 2020-03-14 1610 EA4GPZ          599 M           EA7IP         599 SE            
+QSO:    7038 RY 2020-03-14 1611 EA4GPZ          599 M           EA5SM         599 A             
+QSO:    7040 RY 2020-03-14 1613 EA4GPZ          599 M           EA3HWE        599 B             
+QSO:    7041 RY 2020-03-14 1616 EA4GPZ          599 M           EC5JC         599 A             
+QSO:    7043 RY 2020-03-14 1617 EA4GPZ          599 M           C31MF         599 002           
+QSO:    7043 RY 2020-03-14 1620 EA4GPZ          599 M           EA1G          599 O             
+QSO:    7042 RY 2020-03-14 1624 EA4GPZ          599 M           EA7BP         599 SE            
+QSO:    7042 RY 2020-03-14 1625 EA4GPZ          599 M           EB1ADD        599 PO            
+QSO:    7039 RY 2020-03-14 1647 EA4GPZ          599 M           MM3AWD        599 029           
+QSO:    7039 RY 2020-03-14 1648 EA4GPZ          599 M           EA3X          599 B             
+QSO:    7040 RY 2020-03-14 1654 EA4GPZ          599 M           EA7KFX        599 CA            
+QSO:    7041 RY 2020-03-14 1658 EA4GPZ          599 M           EB1TR         599 O             
+QSO:    7041 RY 2020-03-14 1658 EA4GPZ          599 M           EC7AT         599 AL            
+QSO:    7044 RY 2020-03-14 1701 EA4GPZ          599 M           EA2A          599 HU            
+QSO:    7046 RY 2020-03-14 1705 EA4GPZ          599 M           EC7WA         599 H             
+QSO:    7046 RY 2020-03-14 1706 EA4GPZ          599 M           M0DPK         599 011           
+QSO:    7045 RY 2020-03-14 1709 EA4GPZ          599 M           EA5GIE        599 V             
+QSO:    7040 RY 2020-03-14 1717 EA4GPZ          599 M           EF5M          599 A             
+QSO:    7042 RY 2020-03-14 1718 EA4GPZ          599 M           CR5O          599 045           
+QSO:    7040 RY 2020-03-14 1720 EA4GPZ          599 M           EA5XC         599 A             
+QSO:    7040 RY 2020-03-14 1721 EA4GPZ          599 M           EA3IAZ        599 GI            
+QSO:   14072 RY 2020-03-14 1724 EA4GPZ          599 M           SV3DCX        599 051           
+QSO:   14070 RY 2020-03-14 1821 EA4GPZ          599 M           IT9CKA        599 012           
+QSO:   14071 RY 2020-03-14 1822 EA4GPZ          599 M           YL2CI         599 069           
+QSO:   14070 RY 2020-03-14 1827 EA4GPZ          599 M           PA3DBS        599 072           
+QSO:   14071 RY 2020-03-14 1833 EA4GPZ          599 M           IT9SSI        599 020           
+QSO:   14071 RY 2020-03-14 1833 EA4GPZ          599 M           EA4SG         599 M             
+QSO:   14071 RY 2020-03-14 1835 EA4GPZ          599 M           DL6ABN        599 006           
+QSO:   14071 RY 2020-03-14 1835 EA4GPZ          599 M           DL4KW         599 011           
+QSO:   14071 RY 2020-03-14 1837 EA4GPZ          599 M           SQ9PPT        599 045           
+QSO:   14071 RY 2020-03-14 1841 EA4GPZ          599 M           OK3X          599 008           
+QSO:   14071 RY 2020-03-14 1842 EA4GPZ          599 M           EA8W          599 GC            
+QSO:   14071 RY 2020-03-14 1842 EA4GPZ          599 M           PG1R          599 020           
+QSO:   14070 RY 2020-03-14 1845 EA4GPZ          599 M           PF6X          599 064           
+QSO:   14070 RY 2020-03-14 1846 EA4GPZ          599 M           PE4KH         599 032           
+QSO:   14070 RY 2020-03-14 1848 EA4GPZ          599 M           IV3DCZ        599 014           
+QSO:   14071 RY 2020-03-14 1854 EA4GPZ          599 M           LZ2JA         599 062           
+QSO:   14068 RY 2020-03-14 1856 EA4GPZ          599 M           SP4TXI        599 086           
+QSO:   14069 RY 2020-03-14 1900 EA4GPZ          599 M           UR2Y          599 100           
+QSO:    3582 RY 2020-03-14 2104 EA4GPZ          599 M           EA2DLX        599 BI            
+QSO:    3583 RY 2020-03-14 2106 EA4GPZ          599 M           EA4URE        599 HQ            
+QSO:    3585 RY 2020-03-14 2107 EA4GPZ          599 M           EA2XR         599 BI            
+QSO:    3583 RY 2020-03-14 2110 EA4GPZ          599 M           CR5O          599 177           
+QSO:    3586 RY 2020-03-14 2114 EA4GPZ          599 M           G1P           599 106           
+QSO:    3588 RY 2020-03-14 2115 EA4GPZ          599 M           EA4Z          599 M             
+QSO:    3584 RY 2020-03-14 2118 EA4GPZ          599 M           G3SNU         599 104           
+QSO:    3583 RY 2020-03-14 2119 EA4GPZ          599 M           F5RD          599 093           
+QSO:    3584 RY 2020-03-14 2120 EA4GPZ          599 M           EA3GP         599 T             
+QSO:    3586 RY 2020-03-14 2121 EA4GPZ          599 M           EC7AT         599 AL            
+QSO:    3587 RY 2020-03-14 2125 EA4GPZ          599 M           EA3HWE        599 B             
+QSO:    3583 RY 2020-03-14 2129 EA4GPZ          599 M           ED3D          599 GI            
+QSO:    7041 RY 2020-03-14 2134 EA4GPZ          599 M           DL0GC         599 096           
+QSO:    7039 RY 2020-03-14 2134 EA4GPZ          599 M           EI3JE         599 236           
+QSO:    7043 RY 2020-03-14 2136 EA4GPZ          599 M           9A1FL         599 130           
+QSO:    7039 RY 2020-03-15 0915 EA4GPZ          599 M           IW3FVZ        599 188           
+QSO:    7042 RY 2020-03-15 0920 EA4GPZ          599 M           IZ4UFB        599 23            
+QSO:    7044 RY 2020-03-15 0921 EA4GPZ          599 M           ED3D          599 GI            
+QSO:    7046 RY 2020-03-15 0922 EA4GPZ          599 M           2E0CVN        599 149           
+QSO:    7045 RY 2020-03-15 0923 EA4GPZ          599 M           PA4R          599 144           
+QSO:    7045 RY 2020-03-15 0925 EA4GPZ          599 M           PA4GDR        599 029           
+QSO:    7041 RY 2020-03-15 0940 EA4GPZ          599 M           EC6DX         599 IB            
+QSO:   14070 RY 2020-03-15 0946 EA4GPZ          599 M           ED8H          599 TF            
+QSO:   14067 RY 2020-03-15 0947 EA4GPZ          599 M           HA6NL         599 272           
+QSO:   14068 RY 2020-03-15 0947 EA4GPZ          599 M           UT8NT         599 183           
+QSO:   14072 RY 2020-03-15 0957 EA4GPZ          599 M           US7KC         599 283           
+QSO:   14073 RY 2020-03-15 0958 EA4GPZ          599 M           OZ1DAE        599 260           
+QSO:   14072 RY 2020-03-15 1007 EA4GPZ          599 M           YU7AOP        599 126           
+QSO:   14067 RY 2020-03-15 1024 EA4GPZ          599 M           DL0GC         599 230           
+QSO:   14070 RY 2020-03-15 1029 EA4GPZ          599 M           LC9S          599 086           
+QSO:    7043 RY 2020-03-15 1041 EA4GPZ          599 M           EA6EA         599 IB            
+QSO:    7043 RY 2020-03-15 1044 EA4GPZ          599 M           IW3IOD        599 231           
+QSO:    7041 RY 2020-03-15 1200 EA4GPZ          599 M           EA4URE        599 HQ            
+QSO:    7041 RY 2020-03-15 1202 EA4GPZ          599 M           EA1CF         599 C             
+QSO:    7041 RY 2020-03-15 1203 EA4GPZ          599 M           EA5ME         599 MU            
+QSO:    7041 RY 2020-03-15 1206 EA4GPZ          599 M           EA7AZA        599 GA            
+QSO:    7041 RY 2020-03-15 1206 EA4GPZ          599 M           EA4SG         599 M             
+QSO:    7041 RY 2020-03-15 1207 EA4GPZ          599 M           EA3DNC        599 B             
+QSO:    7041 RY 2020-03-15 1209 EA4GPZ          599 M           G3L           599 043           
+QSO:    7041 RY 2020-03-15 1211 EA4GPZ          599 M           EA3GCT        599 GA            
+QSO:    7041 RY 2020-03-15 1212 EA4GPZ          599 M           EA5HEW        599 MU            
+QSO:    7041 RY 2020-03-15 1215 EA4GPZ          599 M           EA2DDE        599 NA            
+QSO:    7041 RY 2020-03-15 1220 EA4GPZ          599 M           IV3KKW        599 211           
+QSO:    7041 RY 2020-03-15 1222 EA4GPZ          599 M           M0TQR         599 083           
+QSO:    7041 RY 2020-03-15 1223 EA4GPZ          599 M           EA3F          599 L             
+QSO:    7041 RY 2020-03-15 1229 EA4GPZ          599 M           EB3TR         599 L             
+QSO:    7040 RY 2020-03-15 1246 EA4GPZ          599 M           F5GFA         599 052           
+QSO:    7041 RY 2020-03-15 1247 EA4GPZ          599 M           EE7C          599 CA            
+QSO:    7044 RY 2020-03-15 1248 EA4GPZ          599 M           EA1X          599 C             
+QSO:    7045 RY 2020-03-15 1251 EA4GPZ          599 M           PA3DBS        599 242           
+QSO:    7042 RY 2020-03-15 1253 EA4GPZ          599 M           M2E           599 041           
+QSO:    7042 RY 2020-03-15 1255 EA4GPZ          599 M           EA3HKA        599 B             
+QSO:   14072 RY 2020-03-15 1257 EA4GPZ          599 M           IT9VCE        599 268           
+QSO:   14073 RY 2020-03-15 1300 EA4GPZ          599 M           SV1JG         599 298           
+QSO:   14066 RY 2020-03-15 1302 EA4GPZ          599 M           UZ3QE         599 242           
+QSO:   14069 RY 2020-03-15 1305 EA4GPZ          599 M           PA2IP         599 101           
+QSO:   14069 RY 2020-03-15 1341 EA4GPZ          599 M           EA8KL         599 TF            
+QSO:   14066 RY 2020-03-15 1342 EA4GPZ          599 M           PA5WT         599 048           
+QSO:   14065 RY 2020-03-15 1343 EA4GPZ          599 M           IW3FVZ        599 233           
+QSO:   14067 RY 2020-03-15 1345 EA4GPZ          599 M           DL3KVR        599 114           
+QSO:   14073 RY 2020-03-15 1352 EA4GPZ          599 M           PA4O          599 051           
+QSO:   14073 RY 2020-03-15 1354 EA4GPZ          599 M           YO3RU         599 174           
+QSO:    7042 RY 2020-03-15 1401 EA4GPZ          599 M           EC7D          599 MA            
+QSO:    7043 RY 2020-03-15 1404 EA4GPZ          599 M           EA7Q          599 H             
+QSO:    7042 RY 2020-03-15 1405 EA4GPZ          599 M           EB3EFU        599 GI            
+QSO:    7042 RY 2020-03-15 1411 EA4GPZ          599 M           OO3O          599 360           
+QSO:    7042 RY 2020-03-15 1416 EA4GPZ          599 M           EA1BAF        599 OU            
+QSO:   14071 RY 2020-03-15 1448 EA4GPZ          599 M           UA6CE         599 195           
+QSO:   14073 RY 2020-03-15 1449 EA4GPZ          599 M           EA8CNR        599 GC            
+QSO:   14070 RY 2020-03-15 1453 EA4GPZ          599 M           UR5LP         599 257           
+QSO:   14069 RY 2020-03-15 1453 EA4GPZ          599 M           DG9BEO        599 204           
+QSO:   14069 RY 2020-03-15 1456 EA4GPZ          599 M           IW3IOD        599 285           
+QSO:   14072 RY 2020-03-15 1503 EA4GPZ          599 M           EF8W          599 TF            
+QSO:   14073 RY 2020-03-15 1506 EA4GPZ          599 M           OK2WMC        599 158           
+QSO:   14072 RY 2020-03-15 1508 EA4GPZ          599 M           PA0PIW        599 104           
+QSO:   14068 RY 2020-03-15 1518 EA4GPZ          599 M           YO9HP         599 202           
+QSO:   14067 RY 2020-03-15 1521 EA4GPZ          599 M           I3PVB         599 155           
+QSO:   14073 RY 2020-03-15 1524 EA4GPZ          599 M           SP7IIT        599 126           
+QSO:   14073 RY 2020-03-15 1525 EA4GPZ          599 M           IZ7ATG        599 047           
+QSO:   14069 RY 2020-03-15 1532 EA4GPZ          599 M           DG0CH         599 261           
+QSO:   14067 RY 2020-03-15 1536 EA4GPZ          599 M           OM8JP         599 148           
+QSO:   14073 RY 2020-03-15 1555 EA4GPZ          599 M           I2XLF         599 205           
+QSO:   14072 RY 2020-03-15 1557 EA4GPZ          599 M           N6AR          599 260           
+END-OF-LOG:

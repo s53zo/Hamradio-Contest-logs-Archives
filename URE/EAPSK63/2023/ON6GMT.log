@@ -1,0 +1,186 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: ON6GMT
+CATEGORY: SINGLE-OP ALL
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 12988
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+
+CONTEST: EA-PSK63
+
+
+LOCATION: 
+
+# Operator name
+NAME: Geoffroy
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: ON6GMT
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14071 PSK        2023-03-12 0935 ON6GMT          599 124             ED1B          599 O             
+QSO:   14071 PSK        2023-03-12 0929 ON6GMT          599 123             SP4BPH        599 180           
+QSO:   14071 PSK        2023-03-12 0920 ON6GMT          599 122             EA6EA         599 IB            
+QSO:   14071 PSK        2023-03-12 0910 ON6GMT          599 121             EB4BZA        599 CR            
+QSO:   14071 PSK        2023-03-12 0909 ON6GMT          599 120             EA7KNT        599 SE            
+QSO:   14071 PSK        2023-03-12 0907 ON6GMT          599 119             EA1IYK        599 O             
+QSO:   14071 PSK        2023-03-12 0906 ON6GMT          599 118             EA2DDE        599 NA            
+QSO:   14071 PSK        2023-03-12 0903 ON6GMT          599 117             EA7K          599 SE            
+QSO:   14071 PSK        2023-03-12 0902 ON6GMT          599 116             SP9ICU        599 035           
+QSO:   14071 PSK        2023-03-12 0900 ON6GMT          599 115             SQ6PLE        599 229           
+QSO:   14071 PSK        2023-03-12 0859 ON6GMT          599 114             SN5WD         599 006           
+QSO:   14071 PSK        2023-03-12 0854 ON6GMT          599 113             EA7DUT        599 AN           
+QSO:    3581 PSK        2023-03-11 2254 ON6GMT          599 112             F4ITQ         599 306           
+QSO:    3581 PSK        2023-03-11 2253 ON6GMT          599 111             EB3EFU        599 GI            
+QSO:    3581 PSK        2023-03-11 2250 ON6GMT          599 110             HB9FIH        599 175           
+QSO:    3581 PSK        2023-03-11 2247 ON6GMT          599 109             PA3I          599 035           
+QSO:    3581 PSK        2023-03-11 2245 ON6GMT          599 108             DL4KW         599 041           
+QSO:    3581 PSK        2023-03-11 2240 ON6GMT          599 107             ED1R          599 AV            
+QSO:    3581 PSK        2023-03-11 2239 ON6GMT          599 106             EA2ESB        599 TE            
+QSO:    3581 PSK        2023-03-11 2238 ON6GMT          599 105             SP2MKI        599 133           
+QSO:    3581 PSK        2023-03-11 2237 ON6GMT          599 104             EB1FE         599 O             
+QSO:    3581 PSK        2023-03-11 2232 ON6GMT          599 103             M0KKM         599 162           
+QSO:    3581 PSK        2023-03-11 2230 ON6GMT          599 102             OM2BK         599 171           
+QSO:    3581 PSK        2023-03-11 2226 ON6GMT          599 101             OK1SLA        599 116           
+QSO:    3581 PSK        2023-03-11 2222 ON6GMT          599 100             DL7AOJ        599 066           
+QSO:    3581 PSK        2023-03-11 2221 ON6GMT          599 099             DL3SYA        599 355           
+QSO:    3581 PSK        2023-03-11 2219 ON6GMT          599 098             F5RD          599 257           
+QSO:    3581 PSK        2023-03-11 2218 ON6GMT          599 097             ON7USB        599 103           
+QSO:    3581 PSK        2023-03-11 2218 ON6GMT          599 096             G7RTI         599 048           
+QSO:    3581 PSK        2023-03-11 2215 ON6GMT          599 095             PA0CMF        599 076           
+QSO:    3581 PSK        2023-03-11 2214 ON6GMT          599 094             SQ1BVG        599 158           
+QSO:    3581 PSK        2023-03-11 2209 ON6GMT          599 093             EA5LU         599 MU            
+QSO:    3581 PSK        2023-03-11 2206 ON6GMT          599 092             EA4DXP        599 ZA            
+QSO:    3581 PSK        2023-03-11 2205 ON6GMT          599 091             ED1B          599 O             
+QSO:    3581 PSK        2023-03-11 2201 ON6GMT          599 090             C37AC         599 083           
+QSO:    3581 PSK        2023-03-11 2158 ON6GMT          599 089             IV3FPX        599 170           
+QSO:    3581 PSK        2023-03-11 2157 ON6GMT          599 088             HG3FMZ        599 306           
+QSO:    3581 PSK        2023-03-11 2156 ON6GMT          599 087             OL4D          599 178           
+QSO:    3581 PSK        2023-03-11 2153 ON6GMT          599 086             LY1R          599 177           
+QSO:    3581 PSK        2023-03-11 2153 ON6GMT          599 085             SQ7SAU        599 019           
+QSO:    3581 PSK        2023-03-11 2152 ON6GMT          599 084             SP9DLY        599 164           
+QSO:    3581 PSK        2023-03-11 2151 ON6GMT          599 083             M2E           599 238           
+QSO:    3581 PSK        2023-03-11 2150 ON6GMT          599 082             IW1CBG        599 042           
+QSO:    3581 PSK        2023-03-11 2149 ON6GMT          599 081             DL9NCR        599 102           
+QSO:    3581 PSK        2023-03-11 2148 ON6GMT          599 080             EB5CS         599 CS            
+QSO:    3581 PSK        2023-03-11 2146 ON6GMT          599 079             DM6WAN        599 108           
+QSO:    3581 PSK        2023-03-11 2145 ON6GMT          599 078             LA5LJA        599 159           
+QSO:    3581 PSK        2023-03-11 2144 ON6GMT          599 077             EA3F          599 L             
+QSO:   14071 PSK        2023-03-11 1730 ON6GMT          599 076             EA1XY         599 BU            
+QSO:   14071 PSK        2023-03-11 1726 ON6GMT          599 075             S57YK         599 069           
+QSO:   14071 PSK        2023-03-11 1721 ON6GMT          599 074             R2XM          599 135           
+QSO:   14071 PSK        2023-03-11 1720 ON6GMT          599 073             LY2BAA        599 059           
+QSO:   14071 PSK        2023-03-11 1718 ON6GMT          599 072             OK2VIR        599 049           
+QSO:   14071 PSK        2023-03-11 1716 ON6GMT          599 071             EC7YY         599 SE            
+QSO:   14071 PSK        2023-03-11 1713 ON6GMT          599 070             SP6IHE        599 082           
+QSO:   14071 PSK        2023-03-11 1708 ON6GMT          599 069             SP6JZP        599 060           
+QSO:   14071 PSK        2023-03-11 1704 ON6GMT          599 068             SP7LK         599 014           
+QSO:   14071 PSK        2023-03-11 1702 ON6GMT          599 067             LY1R          599 059           
+QSO:   14071 PSK        2023-03-11 1701 ON6GMT          599 066             OE5PEN        599 048           
+QSO:   14071 PSK        2023-03-11 1658 ON6GMT          599 065             EA3L          599 B             
+QSO:   14071 PSK        2023-03-11 1658 ON6GMT          599 064             IK5FKF        599 094           
+QSO:   14071 PSK        2023-03-11 1656 ON6GMT          599 063             UA4FX         599 119           
+QSO:   14071 PSK        2023-03-11 1652 ON6GMT          599 062             SQ4HRX        599 114           
+QSO:   14071 PSK        2023-03-11 1651 ON6GMT          599 061             RN4CA         599 031           
+QSO:   14071 PSK        2023-03-11 1650 ON6GMT          599 060             R4CU          599 071           
+QSO:   14071 PSK        2023-03-11 1648 ON6GMT          599 059             EA4CQX        599 M             
+QSO:   14071 PSK        2023-03-11 1647 ON6GMT          599 058             SP1TJ         599 123           
+QSO:   14071 PSK        2023-03-11 1643 ON6GMT          599 057             OE3NHW        599 031           
+QSO:   14071 PSK        2023-03-11 1641 ON6GMT          599 056             RN5AA         599 128           
+QSO:   14071 PSK        2023-03-11 1627 ON6GMT          599 055             M0TQR         599 069           
+QSO:   14071 PSK        2023-03-11 1625 ON6GMT          599 054             EB1FE         599 O             
+QSO:   14071 PSK        2023-03-11 1621 ON6GMT          599 053             ER5LL         599 018           
+QSO:   14071 PSK        2023-03-11 1620 ON6GMT          599 052             R3KHR         599 022           
+QSO:   14071 PSK        2023-03-11 1614 ON6GMT          599 051             EA2ESB        599 TE            
+QSO:   14071 PSK        2023-03-11 1612 ON6GMT          599 050             EB1DMQ        599 O             
+QSO:   14071 PSK        2023-03-11 1607 ON6GMT          599 049             EA4U          599 M             
+QSO:   14071 PSK        2023-03-11 1607 ON6GMT          599 048             EA4U          599 M             
+QSO:   14071 PSK        2023-03-11 1606 ON6GMT          599 047             EA5LU         599 MU            
+QSO:   14071 PSK        2023-03-11 1604 ON6GMT          599 046             DL3KVR        599 097           
+QSO:   14071 PSK        2023-03-11 1603 ON6GMT          599 045             R4RB          599 028           
+QSO:   14071 PSK        2023-03-11 1602 ON6GMT          599 044             EA3DRG        599 GI          
+QSO:   14071 PSK        2023-03-11 1600 ON6GMT          599 043             IN3OWY        599 056           
+QSO:   14071 PSK        2023-03-11 1558 ON6GMT          599 042             SP2MKI        599 011           
+QSO:   14071 PSK        2023-03-11 1554 ON6GMT          599 041             UR4CU         599 067           
+QSO:   14071 PSK        2023-03-11 1553 ON6GMT          599 000             SQ8YHF        599 097           
+QSO:   14071 PSK        2023-03-11 1542 ON6GMT          599 039             IK6SXQ        599 007           
+QSO:   14071 PSK        2023-03-11 1541 ON6GMT          599 038             SE4E          599 128           
+QSO:   14071 PSK        2023-03-11 1538 ON6GMT          599 037             SI3A          599 099           
+QSO:   14071 PSK        2023-03-11 1537 ON6GMT          599 036             EA4HCJ        599 GU            
+QSO:   14071 PSK        2023-03-11 1534 ON6GMT          599 035             YO4NF         599 156           
+QSO:   14071 PSK        2023-03-11 1534 ON6GMT          599 034             F4ITQ         599 128           
+QSO:   14071 PSK        2023-03-11 1533 ON6GMT          599 033             RU5X          599 117           
+QSO:   14071 PSK        2023-03-11 1531 ON6GMT          599 032             EA3CN         599 T             
+QSO:   14071 PSK        2023-03-11 1528 ON6GMT          599 031             IK4XQT/4      599 075           
+QSO:   14071 PSK        2023-03-11 1525 ON6GMT          599 030             RQ2Q          599 060           
+QSO:   14071 PSK        2023-03-11 1524 ON6GMT          599 029             EA8W          599 GC            
+QSO:   14071 PSK        2023-03-11 1521 ON6GMT          599 028             YO7BM         599 004           
+QSO:   14071 PSK        2023-03-11 1519 ON6GMT          599 027             EA7AZ         599 CA            
+QSO:   14071 PSK        2023-03-11 1517 ON6GMT          599 026             EB5F          599 A             
+QSO:   14071 PSK        2023-03-11 1517 ON6GMT          599 025             SP4TXI        599 145           
+QSO:   14071 PSK        2023-03-11 1513 ON6GMT          599 024             HG3FMZ        599 072           
+QSO:   14071 PSK        2023-03-11 1509 ON6GMT          599 023             YO6PAO        599 064           
+QSO:   14071 PSK        2023-03-11 1506 ON6GMT          599 022             HA3FUP        599 060           
+QSO:   14071 PSK        2023-03-11 1505 ON6GMT          599 021             CR5O          599 146           
+QSO:   14071 PSK        2023-03-11 1503 ON6GMT          599 021             EA3DRG        599 GI            
+QSO:   14071 PSK        2023-03-11 1502 ON6GMT          599 020             OH2HOD        599 068           
+QSO:   14071 PSK        2023-03-11 1501 ON6GMT          599 019             IV3FPX        599 078           
+QSO:   14071 PSK        2023-03-11 1456 ON6GMT          599 018             9A1DR         599 030           
+QSO:   14071 PSK        2023-03-11 1455 ON6GMT          599 017             EA2AWP        599 HU            
+QSO:   14071 PSK        2023-03-11 1455 ON6GMT          599 016             DL1THB        599 009           
+QSO:   14071 PSK        2023-03-11 1454 ON6GMT          599 015             OM8JP         599 055           
+QSO:   14071 PSK        2023-03-11 1452 ON6GMT          599 014             EA4DXP        599 ZA            
+QSO:   14071 PSK        2023-03-11 1450 ON6GMT          599 013             EI5EV         599 001              
+QSO:   14071 PSK        2023-03-11 1445 ON6GMT          599 012             SP9DLY        599 036            
+QSO:   14071 PSK        2023-03-11 1444 ON6GMT          599 011             OK1PX         599 051           
+QSO:   14071 PSK        2023-03-11 1443 ON6GMT          599 010             LY2F          599 132           
+QSO:   14071 PSK        2023-03-11 1443 ON6GMT          599 009             GI4H          599 005           
+QSO:   14071 PSK        2023-03-11 1442 ON6GMT          599 008             OK2WMC        599 062           
+QSO:   14071 PSK        2023-03-11 1440 ON6GMT          599 007             EA6ZS         599 IB            
+QSO:   14071 PSK        2023-03-11 1439 ON6GMT          599 006             EA5FSJ        599 A             
+QSO:   14071 PSK        2023-03-11 1438 ON6GMT          599 005             SQ9CXC        599 049           
+QSO:   14071 PSK        2023-03-11 1437 ON6GMT          599 004             EW8DX         599 092           
+QSO:   14071 PSK        2023-03-11 1436 ON6GMT          599 003             EB5CUN        599 599           
+QSO:   14071 PSK        2023-03-11 1434 ON6GMT          599 001             SP9BCH        599 036           
+QSO:   14071 PSK        2023-03-11 1433 ON6GMT          599 000             9A7B          599 034           
+END-OF-LOG:

@@ -1,0 +1,143 @@
+START-OF-LOG: 3.0
+X-COMMENT: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+X-COMMENT: ;                                   ;
+X-COMMENT: ; Cabrillo Specification *.cbr File ;
+X-COMMENT: ; https://wwrof.org/cabrillo/       ;
+X-COMMENT: ;                                   ;
+X-COMMENT: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;;;;
+X-COMMENT:
+X-COMMENT: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+X-COMMENT: ;                                                                          ;
+X-COMMENT: ; LogRTTY - Amateur Radio Radioteletype Contest Software by K0JJR          ;
+X-COMMENT: ; Copyright (c) 2011-23 by K0JJR Joseph J. Roby, Jr.  All Rights Reserved. ;
+X-COMMENT: ; LogRTTY(tm) is a trademark of K0JJR Joseph J. Roby, Jr.                  ;
+X-COMMENT: ;                                                                          ;
+X-COMMENT: ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+X-COMMENT:
+CONTEST: EA-RTTY
+X-COMMENT:
+X-COMMENT: Scoring:
+X-COMMENT:
+X-COMMENT: Band   QSOs  Dupes  Points   DXCC  Provinces  Areas  EA4URE
+X-COMMENT: 160M      0      0       0      0          0      0       0
+X-COMMENT:  80M      4      0       4      1          0      4       0
+X-COMMENT:  40M     14      0      20      5          3      9       0
+X-COMMENT:  20M     35      0      59     18         10      8       1
+X-COMMENT:  15M     35      0      61     18         12      6       1
+X-COMMENT:  10M      9      0      17      6          3      2       1
+X-COMMENT:       -----  -----   -----  -----      -----  -----   -----
+X-COMMENT:          97      0     161     48         28     29       3
+X-COMMENT: 
+X-COMMENT: Score: 161 x (48 + 28 + 29 + 3) = 17388
+X-COMMENT:
+CALLSIGN: K0JJR
+CATEGORY: SINGLE-OP ALL HIGH
+CERTIFICATE:            NO
+CLAIMED-SCORE: 17388
+CLUB:                   Minnesota Wireless Assn
+CONTEST: EA-RTTY
+CREATED-BY:             LogRTTY Ver. 5.5
+GRID-LOCATOR:           EN36
+LOCATION:               MN
+NAME:                   Joseph J. Roby, Jr.
+OFFTIME:                
+OPERATORS:              K0JJR
+SOAPBOX:                
+QSO: 28100 RY 2023-04-01 1444 K0JJR         599 001  EA8AH         599 GC  
+QSO: 28102 RY 2023-04-01 1447 K0JJR         599 002  PU1JSV        599 081 
+QSO: 28089 RY 2023-04-01 1448 K0JJR         599 003  PZ5RA         599 24  
+QSO: 21115 RY 2023-04-01 1452 K0JJR         599 004  IK2FTB        599 048 
+QSO: 21113 RY 2023-04-01 1454 K0JJR         599 005  GW0A          599 108 
+QSO: 21112 RY 2023-04-01 1455 K0JJR         599 006  SV1BJW        599 093 
+QSO: 21107 RY 2023-04-01 1457 K0JJR         599 007  2E0INN        599 096 
+QSO: 21100 RY 2023-04-01 1500 K0JJR         599 008  EA1L          599 O   
+QSO: 21096 RY 2023-04-01 1503 K0JJR         599 009  ED1R          599 AV  
+QSO: 21095 RY 2023-04-01 1504 K0JJR         599 010  9A5D          599 182 
+QSO: 21092 RY 2023-04-01 1505 K0JJR         599 011  MI0M          599 041 
+QSO: 21092 RY 2023-04-01 1506 K0JJR         599 012  ED3D          599 GI  
+QSO: 21086 RY 2023-04-01 1508 K0JJR         599 013  LZ1ND         599 124 
+QSO: 21082 RY 2023-04-01 1515 K0JJR         599 014  RD4HP         599 035 
+QSO: 21082 RY 2023-04-01 1518 K0JJR         599 015  EE1D          599 SO  
+QSO: 21080 RY 2023-04-01 1520 K0JJR         599 016  W4BBT         599 33  
+QSO: 21111 RY 2023-04-01 1523 K0JJR         599 017  EF1T          599 LU  
+QSO: 21086 RY 2023-04-01 1535 K0JJR         599 018  KH7X/W7       599 029 
+QSO: 21085 RY 2023-04-01 1537 K0JJR         599 019  EA7HAB        599 GR  
+QSO: 14116 RY 2023-04-01 1541 K0JJR         599 020  AE1P          599 130 
+QSO: 14111 RY 2023-04-01 1543 K0JJR         599 021  IK5FKF        599 125 
+QSO: 14109 RY 2023-04-01 1544 K0JJR         599 022  ED1B          599 O   
+QSO: 14108 RY 2023-04-01 1549 K0JJR         599 023  EA2BFM        599 BI  
+QSO: 14101 RY 2023-04-01 1551 K0JJR         599 024  RG9A          599 327 
+QSO: 14095 RY 2023-04-01 1554 K0JJR         599 025  ED1R          599 AV  
+QSO: 14094 RY 2023-04-01 1555 K0JJR         599 026  W4GKM         599 061 
+QSO: 14102 RY 2023-04-01 1606 K0JJR         599 027  9A1A          599 227 
+QSO: 28105 RY 2023-04-01 1620 K0JJR         599 028  W4RN          599 118 
+QSO: 21110 RY 2023-04-01 1625 K0JJR         599 029  AI9T          599 159 
+QSO: 21111 RY 2023-04-01 1626 K0JJR         599 030  EE4Y          599 TO  
+QSO: 21101 RY 2023-04-01 1630 K0JJR         599 031  YO9HP         599 105 
+QSO: 21100 RY 2023-04-01 1632 K0JJR         599 032  ED1D          599 P   
+QSO: 21098 RY 2023-04-01 1633 K0JJR         599 033  K1SM          599 135 
+QSO: 21095 RY 2023-04-01 1635 K0JJR         599 034  S53F          599 263 
+QSO: 21093 RY 2023-04-01 1637 K0JJR         599 035  EA5HYJ        599 V   
+QSO: 21089 RY 2023-04-01 1642 K0JJR         599 036  YU5R          599 013 
+QSO: 21088 RY 2023-04-01 1644 K0JJR         599 037  YL2CI         599 116 
+QSO: 21087 RY 2023-04-01 1645 K0JJR         599 038  EA4URE        599 HQ  
+QSO: 21086 RY 2023-04-01 1648 K0JJR         599 039  EA7BP         599 SE  
+QSO: 14101 RY 2023-04-01 1701 K0JJR         599 040  EA7HAB        599 GR  
+QSO: 14098 RY 2023-04-01 1706 K0JJR         599 041  HA1AD         599 043 
+QSO: 14089 RY 2023-04-01 1709 K0JJR         599 042  W0IZ          599 009 
+QSO: 14089 RY 2023-04-01 1710 K0JJR         599 043  EF5K          599 V   
+QSO: 28101 RY 2023-04-01 1714 K0JJR         599 044  EC5W          599 A   
+QSO: 28092 RY 2023-04-01 1720 K0JJR         599 045  ED7B          599 CO  
+QSO: 28091 RY 2023-04-01 1721 K0JJR         599 046  HI3MM         599 44  
+QSO: 28088 RY 2023-04-01 1724 K0JJR         599 047  EA4URE        599 HQ  
+QSO: 28086 RY 2023-04-01 1726 K0JJR         599 048  K3MM          599 174 
+QSO: 21118 RY 2023-04-01 1729 K0JJR         599 049  OT7J          599 32  
+QSO: 21088 RY 2023-04-01 1734 K0JJR         599 050  OZ11A         599 186 
+QSO: 21085 RY 2023-04-01 1736 K0JJR         599 051  DF8XC         599 069 
+QSO: 21112 RY 2023-04-01 1911 K0JJR         599 052  N6AR          599 131 
+QSO: 21111 RY 2023-04-01 1915 K0JJR         599 053  EA7EU         599 J   
+QSO: 21092 RY 2023-04-01 1924 K0JJR         599 054  EA2BFM        599 BI  
+QSO: 14107 RY 2023-04-01 1931 K0JJR         599 055  EE1D          599 SO  
+QSO: 14110 RY 2023-04-01 1935 K0JJR         599 056  YT3X          599 405 
+QSO: 14098 RY 2023-04-01 1937 K0JJR         599 057  OZ11A         599 289 
+QSO: 14096 RY 2023-04-01 1938 K0JJR         599 058  K3MM          599 278 
+QSO: 14095 RY 2023-04-01 1942 K0JJR         599 059  EA4FME        599 M   
+QSO: 14094 RY 2023-04-01 1943 K0JJR         599 060  VE2BVV        599 200 
+QSO: 14091 RY 2023-04-01 1949 K0JJR         599 061  EA4Z          599 M   
+QSO: 14114 RY 2023-04-01 1957 K0JJR         599 062  YO9HP         599 184 
+QSO: 14103 RY 2023-04-01 2002 K0JJR         599 063  EA4URE        599 HQ  
+QSO: 14101 RY 2023-04-01 2005 K0JJR         599 064  S53M          599 143 
+QSO: 14100 RY 2023-04-01 2006 K0JJR         599 065  AC5XK         599 46  
+QSO: 14094 RY 2023-04-01 2010 K0JJR         599 066  LZ1ZM         599 15  
+QSO: 14085 RY 2023-04-01 2027 K0JJR         599 067  LY1R          599 293 
+QSO: 21098 RY 2023-04-01 2029 K0JJR         599 068  CX7SS         599 188 
+QSO: 21097 RY 2023-04-01 2031 K0JJR         599 069  WQ5OO         599 101 
+QSO: 14103 RY 2023-04-01 2043 K0JJR         599 070  CT7/PA3GCU    599 159 
+QSO: 14096 RY 2023-04-01 2048 K0JJR         599 071  N6AR          599 180 
+QSO: 14090 RY 2023-04-01 2052 K0JJR         599 072  EA7KNT        599 SE  
+QSO: 14090 RY 2023-04-01 2054 K0JJR         599 073  SV1JG         599 101 
+QSO: 14099 RY 2023-04-01 2113 K0JJR         599 074  HI3MM         599 104 
+QSO: 14096 RY 2023-04-01 2117 K0JJR         599 075  AA9L          599 47  
+QSO: 14101 RY 2023-04-01 2132 K0JJR         599 076  PA6Q          599 083 
+QSO: 14089 RY 2023-04-01 2142 K0JJR         599 077  EA2ESB        599 TE  
+QSO: 14089 RY 2023-04-01 2144 K0JJR         599 078  ED3D          599 GI  
+QSO: 14099 RY 2023-04-02 0039 K0JJR         599 079  KP4JFR        599 148 
+QSO:  7058 RY 2023-04-02 0046 K0JJR         599 080  PY5AMF        599 201 
+QSO:  7055 RY 2023-04-02 0049 K0JJR         599 081  W4PK          599 304 
+QSO:  7054 RY 2023-04-02 0050 K0JJR         599 082  ED1R          599 AV  
+QSO:  7050 RY 2023-04-02 0051 K0JJR         599 083  VE2BVV        599 334 
+QSO:  7048 RY 2023-04-02 0052 K0JJR         599 084  K5AM          599 093 
+QSO:  7045 RY 2023-04-02 0054 K0JJR         599 085  K3MM          599 403 
+QSO:  7044 RY 2023-04-02 0055 K0JJR         599 086  9A1A          599 438 
+QSO:  7089 RY 2023-04-02 0056 K0JJR         599 087  AA9L          599 55  
+QSO:  7086 RY 2023-04-02 0107 K0JJR         599 088  VA3RTG        599 86  
+QSO:  7064 RY 2023-04-02 0111 K0JJR         599 089  N2BJ          599 096 
+QSO:  7060 RY 2023-04-02 0111 K0JJR         599 090  N6AR          599 269 
+QSO:  7053 RY 2023-04-02 0120 K0JJR         599 091  EF5K          599 V   
+QSO:  3593 RY 2023-04-02 0124 K0JJR         599 092  N6AR          599 279 
+QSO:  3599 RY 2023-04-02 0127 K0JJR         599 093  K3MM          599 430 
+QSO:  7045 RY 2023-04-02 0134 K0JJR         599 094  K7OM          599 037 
+QSO:  3592 RY 2023-04-02 0138 K0JJR         599 095  AA9L          599 76  
+QSO:  3586 RY 2023-04-02 0328 K0JJR         599 096  AA4DD         599 063 
+QSO:  7051 RY 2023-04-02 0332 K0JJR         599 097  ED1B          599 O   
+END-OF-LOG:

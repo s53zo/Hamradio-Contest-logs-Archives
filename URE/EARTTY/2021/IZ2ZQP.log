@@ -1,0 +1,288 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.18
+
+# The callsign used during the contest.
+CALLSIGN: IZ2ZQP
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL HIGH
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 32623
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14000 RY 2021-04-03 1605 IZ2ZQP          599 001             EA7IZB        599 CA            
+QSO:   14000 RY 2021-04-03 1608 IZ2ZQP          599 002             CT2FPE        599 001           
+QSO:   14000 RY 2021-04-03 1609 IZ2ZQP          599 003             VA1XH         599 003           
+QSO:   14000 RY 2021-04-03 1610 IZ2ZQP          599 004             R6NZ          599 003           
+QSO:   14086 RY 2021-04-03 1615 IZ2ZQP          599 005             UW1M          599 032           
+QSO:   14087 RY 2021-04-03 1617 IZ2ZQP          599 006             RC5Z          599 012           
+QSO:   14086 RY 2021-04-03 1621 IZ2ZQP          599 007             UY5VA         599 028           
+QSO:   14087 RY 2021-04-03 1622 IZ2ZQP          599 008             RT2C          599 001           
+QSO:   14088 RY 2021-04-03 1623 IZ2ZQP          599 009             UX7QV         599 010           
+QSO:   14087 RY 2021-04-03 1625 IZ2ZQP          599 010             RW4S          599 017           
+QSO:   14087 RY 2021-04-03 1627 IZ2ZQP          599 011             W3FIZ         599 025           
+QSO:   14087 RY 2021-04-03 1630 IZ2ZQP          599 012             KG4W          599 001           
+QSO:   14089 RY 2021-04-03 1640 IZ2ZQP          599 013             EA7KI         599 MA            
+QSO:   14090 RY 2021-04-03 1646 IZ2ZQP          599 014             CN8KD         599 052           
+QSO:   14092 RY 2021-04-03 1653 IZ2ZQP          599 015             R4FCJ         599 011           
+QSO:   14092 RY 2021-04-03 1700 IZ2ZQP          599 016             EA8DO         599 TF            
+QSO:   14094 RY 2021-04-03 1707 IZ2ZQP          599 017             N6AR          599 007           
+QSO:   14098 RY 2021-04-03 1712 IZ2ZQP          599 018             VE2RYY        599 091           
+QSO:   14098 RY 2021-04-03 1713 IZ2ZQP          599 019             UA4FX         599 038           
+QSO:   14106 RY 2021-04-03 1715 IZ2ZQP          599 020             EA7Z          599 H             
+QSO:   14106 RY 2021-04-03 1716 IZ2ZQP          599 021             W9FFA         599 041           
+QSO:   14108 RY 2021-04-03 1718 IZ2ZQP          599 022             VE2FK         599 120           
+QSO:   14108 RY 2021-04-03 1720 IZ2ZQP          599 023             VA7ST         599 043           
+QSO:   14109 RY 2021-04-03 1722 IZ2ZQP          599 024             W1IG          599 021           
+QSO:   14111 RY 2021-04-03 1724 IZ2ZQP          599 025             KB8O          599 69            
+QSO:   14111 RY 2021-04-03 1726 IZ2ZQP          599 026             R7MT          599 030           
+QSO:   14111 RY 2021-04-03 1727 IZ2ZQP          599 027             R7BN          599 023           
+QSO:   14114 RY 2021-04-03 1731 IZ2ZQP          599 028             W3FV          599 040           
+QSO:   14119 RY 2021-04-03 1732 IZ2ZQP          599 029             RG4A          599 075            
+QSO:   14124 RY 2021-04-03 1733 IZ2ZQP          599 030             AI9T          599 076           
+QSO:    7040 RY 2021-04-03 1741 IZ2ZQP          599 031             EA2HE         599 HU            
+QSO:    7040 RY 2021-04-03 1742 IZ2ZQP          599 032             RM5F          599 078           
+QSO:    7040 RY 2021-04-03 1743 IZ2ZQP          599 033             HF6C          599 034           
+QSO:    7040 RY 2021-04-03 1745 IZ2ZQP          599 034             TA7OYG        599 035           
+QSO:    7040 RY 2021-04-03 1746 IZ2ZQP          599 035             EA1GQ         599 LO            
+QSO:    7040 RY 2021-04-03 1747 IZ2ZQP          599 036             DF5BX         599 008           
+QSO:    7040 RY 2021-04-03 1749 IZ2ZQP          599 037             ED2CT         599 VI            
+QSO:    7040 RY 2021-04-03 1750 IZ2ZQP          599 038             3Z9W          599 040           
+QSO:    7040 RY 2021-04-03 1753 IZ2ZQP          599 039             EA3GGW        599 T             
+QSO:    7041 RY 2021-04-03 1754 IZ2ZQP          599 040             OK3X          599 002           
+QSO:    7041 RY 2021-04-03 1755 IZ2ZQP          599 041             DL3SYA        599 057           
+QSO:    7041 RY 2021-04-03 1755 IZ2ZQP          599 042             UR5EPM        599 026           
+QSO:    7041 RY 2021-04-03 1756 IZ2ZQP          599 043             EA3IAZ        599 GI            
+QSO:    7041 RY 2021-04-03 1756 IZ2ZQP          599 044             YO4NF         599 064           
+QSO:    7041 RY 2021-04-03 1757 IZ2ZQP          599 045             EW6DM         599 057           
+QSO:    7041 RY 2021-04-03 1758 IZ2ZQP          599 046             RU5X          599 040           
+QSO:    7041 RY 2021-04-03 1759 IZ2ZQP          599 047             PA2DK         599 013           
+QSO:    7041 RY 2021-04-03 1800 IZ2ZQP          599 048             RA1ALC        599 064           
+QSO:    7041 RY 2021-04-03 1800 IZ2ZQP          599 049             YT4TT         599 066           
+QSO:    7041 RY 2021-04-03 1802 IZ2ZQP          599 050             EA3CG         599 T             
+QSO:    7041 RY 2021-04-03 1803 IZ2ZQP          599 051             EA4RCT        599 M             
+QSO:    7041 RY 2021-04-03 1805 IZ2ZQP          599 052             EA7ELY        599 SE            
+QSO:    7041 RY 2021-04-03 1806 IZ2ZQP          599 053             LY2F          599 124           
+QSO:    7041 RY 2021-04-03 1807 IZ2ZQP          599 054             EA2AWP        599 HU            
+QSO:    7041 RY 2021-04-03 1808 IZ2ZQP          599 055             LY2PAD        599 068           
+QSO:    7041 RY 2021-04-03 1809 IZ2ZQP          599 056             R7RIB         599 004           
+QSO:    7041 RY 2021-04-03 1811 IZ2ZQP          599 057             DL2KWA        599 017           
+QSO:    7041 RY 2021-04-03 1813 IZ2ZQP          599 058             EA3CS         599 B             
+QSO:    7041 RY 2021-04-03 1813 IZ2ZQP          599 059             PE2K          599 003           
+QSO:    7041 RY 2021-04-03 1814 IZ2ZQP          599 060             EB5F          599 A             
+QSO:    7041 RY 2021-04-03 1814 IZ2ZQP          599 061             EE2A          599 VI            
+QSO:    7041 RY 2021-04-03 1816 IZ2ZQP          599 062             IZ8JFL        599 016           
+QSO:    7041 RY 2021-04-03 1817 IZ2ZQP          599 063             EEA1OK        599 O             
+QSO:    7041 RY 2021-04-03 1820 IZ2ZQP          599 064             G4OZG         599 027           
+QSO:    7041 RY 2021-04-03 1821 IZ2ZQP          599 065             EA3AKA        599 T             
+QSO:    7041 RY 2021-04-03 1822 IZ2ZQP          599 066             OM3TNA        599 035           
+QSO:    7041 RY 2021-04-03 1823 IZ2ZQP          599 067             PD0WVB        599 024           
+QSO:    7041 RY 2021-04-03 1824 IZ2ZQP          599 068             EA1IMW        599 O             
+QSO:    7041 RY 2021-04-03 1826 IZ2ZQP          599 069             EB5CUN        599 O             
+QSO:    7041 RY 2021-04-03 1828 IZ2ZQP          599 070             EB1FE         599 O             
+QSO:    7041 RY 2021-04-03 1942 IZ2ZQP          599 071             UT4RZ         599 073           
+QSO:    7041 RY 2021-04-03 1943 IZ2ZQP          599 072             EA1DP         599 S             
+QSO:    7041 RY 2021-04-03 1944 IZ2ZQP          599 073             EU8F          599 083           
+QSO:    7041 RY 2021-04-03 1948 IZ2ZQP          599 074             R3WA          599 040           
+QSO:    7041 RY 2021-04-03 1950 IZ2ZQP          599 075             SV1PMH        599 084           
+QSO:    7041 RY 2021-04-03 1951 IZ2ZQP          599 076             SV7CUD        599 002           
+QSO:    7041 RY 2021-04-03 1952 IZ2ZQP          599 077             EA5LU         599 MU            
+QSO:    7041 RY 2021-04-03 1955 IZ2ZQP          599 078             LZ7K          599 054           
+QSO:    7042 RY 2021-04-03 2000 IZ2ZQP          599 079             EA4RCT        599 M             
+QSO:    7042 RY 2021-04-03 2001 IZ2ZQP          599 080             EA1NJ         599 VA            
+QSO:    7042 RY 2021-04-03 2003 IZ2ZQP          599 081             YO4CVV        599 021           
+QSO:    7042 RY 2021-04-03 2004 IZ2ZQP          599 082             YL2LW         599 010           
+QSO:    7042 RY 2021-04-03 2005 IZ2ZQP          599 083             US5ZFT        599 044           
+QSO:    7042 RY 2021-04-03 2007 IZ2ZQP          599 084             GM4JKZ        599 017           
+QSO:    7042 RY 2021-04-03 2008 IZ2ZQP          599 085             RA3YDA        599 059           
+QSO:    7042 RY 2021-04-03 2010 IZ2ZQP          599 086             EA4GOK        599 M             
+QSO:    7042 RY 2021-04-03 2013 IZ2ZQP          599 087             EA1EWY        599 O             
+QSO:    7042 RY 2021-04-03 2014 IZ2ZQP          599 088             2E0CVN        599 020           
+QSO:    7042 RY 2021-04-03 2019 IZ2ZQP          599 089             OZ9GA         599 141           
+QSO:    7042 RY 2021-04-03 2021 IZ2ZQP          599 090             IK2WAD        599 003           
+QSO:    7042 RY 2021-04-03 2021 IZ2ZQP          599 091             IK2WAD        599 003           
+QSO:    7042 RY 2021-04-03 2024 IZ2ZQP          599 092             E4HKF         599 CR            
+QSO:    7042 RY 2021-04-03 2024 IZ2ZQP          599 093             IK2SND        599 131           
+QSO:    7042 RY 2021-04-03 2025 IZ2ZQP          599 094             EA1IYK        599 O             
+QSO:    7042 RY 2021-04-03 2027 IZ2ZQP          599 095             LZ3QE         599 180           
+QSO:    7043 RY 2021-04-03 2032 IZ2ZQP          599 096             EA7IP         599 SE            
+QSO:    7045 RY 2021-04-03 2034 IZ2ZQP          599 097             SX200JFL      599 PUY           
+QSO:    7044 RY 2021-04-03 2037 IZ2ZQP          599 098             YO2LXW        599 041           
+QSO:    7045 RY 2021-04-03 2048 IZ2ZQP          599 099             EA2XR         599 BI            
+QSO:    7047 RY 2021-04-03 2052 IZ2ZQP          599 100             RA3Y          599 165           
+QSO:    7049 RY 2021-04-03 2054 IZ2ZQP          599 101             R2AL          599 066           
+QSO:    7050 RY 2021-04-03 2057 IZ2ZQP          599 102             SV2BFN        599 302           
+QSO:    7051 RY 2021-04-03 2057 IZ2ZQP          599 103             UA4CC         599 041           
+QSO:    7051 RY 2021-04-03 2100 IZ2ZQP          599 104             EA4FME        599 101           
+QSO:    7039 RY 2021-04-03 2110 IZ2ZQP          599 105             VU2DED        599 017           
+QSO:    7040 RY 2021-04-03 2113 IZ2ZQP          599 106             CT7AJL        599 215           
+QSO:    7041 RY 2021-04-03 2114 IZ2ZQP          599 107             LB2TG         599 108           
+QSO:    7042 RY 2021-04-03 2118 IZ2ZQP          599 108             UT5EPP        599 146-          
+QSO:    7042 RY 2021-04-03 2129 IZ2ZQP          599 109             TA7EK         599 058           
+QSO:    7043 RY 2021-04-03 2142 IZ2ZQP          599 110             UA3UBT        599 059           
+QSO:    7043 RY 2021-04-03 2143 IZ2ZQP          599 111             LB6VI         599 091           
+QSO:    3584 RY 2021-04-03 2150 IZ2ZQP          599 112             E77EA         599 083           
+QSO:    3583 RY 2021-04-03 2155 IZ2ZQP          599 113             EA5BY         599 A             
+QSO:    3589 RY 2021-04-03 2159 IZ2ZQP          599 114             GW5NF         599 088           
+QSO:    3588 RY 2021-04-03 2204 IZ2ZQP          599 115             5B4AMM        599 AERUAERU      
+QSO:    3587 RY 2021-04-03 2208 IZ2ZQP          599 116             EA2VE         599 VI            
+QSO:    3593 RY 2021-04-03 2209 IZ2ZQP          599 117             EA3F          599 L             
+QSO:    3592 RY 2021-04-03 2214 IZ2ZQP          599 118             EC1A          599 O             
+QSO:    3591 RY 2021-04-03 2216 IZ2ZQP          599 119             HA6NL         599 202           
+QSO:    3591 RY 2021-04-03 2217 IZ2ZQP          599 120             F6AGM         599 009           
+QSO:    3590 RY 2021-04-03 2218 IZ2ZQP          599 121             UY2IF         599 171           
+QSO:    3592 RY 2021-04-03 2222 IZ2ZQP          599 122             PE2AE         599 036           
+QSO:   14090 RY 2021-04-04 0812 IZ2ZQP          599 123             SV1JG         599 171           
+QSO:   14082 RY 2021-04-04 0814 IZ2ZQP          599 124             RA6LIS        599 082           
+QSO:   14082 RY 2021-04-04 0815 IZ2ZQP          599 125             OG4W          599 173           
+QSO:   14083 RY 2021-04-04 0817 IZ2ZQP          599 126             UR5ZGY        599 192           
+QSO:   14083 RY 2021-04-04 0825 IZ2ZQP          599 127             LZ9R          599 532           
+QSO:   14083 RY 2021-04-04 0826 IZ2ZQP          599 128             UA3UBT        599 094           
+QSO:   14083 RY 2021-04-04 0828 IZ2ZQP          599 129             LY3CY         599 012           
+QSO:   14083 RY 2021-04-04 0831 IZ2ZQP          599 130             US3EW         599 031           
+QSO:   14085 RY 2021-04-04 0839 IZ2ZQP          599 131             EA4BAS        599 M             
+QSO:   14086 RY 2021-04-04 0842 IZ2ZQP          599 132             EA5EN         599 MU            
+QSO:   14087 RY 2021-04-04 0843 IZ2ZQP          599 133             RL1F          599 087           
+QSO:   14087 RY 2021-04-04 0847 IZ2ZQP          599 134             UN7CN         599 078           
+QSO:   14088 RY 2021-04-04 0848 IZ2ZQP          599 135             RA9AU         599 272           
+QSO:   14089 RY 2021-04-04 0853 IZ2ZQP          599 136             YL2CI         599 254           
+QSO:   14090 RY 2021-04-04 0906 IZ2ZQP          599 137             US5AT         599 110           
+QSO:   14091 RY 2021-04-04 0910 IZ2ZQP          599 138             EA1O          599 SG            
+QSO:   14092 RY 2021-04-04 0916 IZ2ZQP          599 139             EA5FID        599 A             
+QSO:   14093 RY 2021-04-04 0917 IZ2ZQP          599 140             UC6N          599 121           
+QSO:   14093 RY 2021-04-04 0920 IZ2ZQP          599 141             UR5R          599 236           
+QSO:   14093 RY 2021-04-04 0922 IZ2ZQP          599 142             UR4MLS        599 048           
+QSO:   14093 RY 2021-04-04 0922 IZ2ZQP          599 143             R4CI          599 040           
+QSO:   14093 RY 2021-04-04 0925 IZ2ZQP          599 144             EA4GDW        599 TO            
+QSO:   14093 RY 2021-04-04 0926 IZ2ZQP          599 145             EA4GOY        599 TO            
+QSO:   14093 RY 2021-04-04 0927 IZ2ZQP          599 146             UT4LW         599 186           
+QSO:   14098 RY 2021-04-04 0938 IZ2ZQP          599 147             EA4Z          599 M             
+QSO:   14099 RY 2021-04-04 0941 IZ2ZQP          599 148             5B4AMM        599 463           
+QSO:   14099 RY 2021-04-04 0945 IZ2ZQP          599 149             EA1B          599 S             
+QSO:   14099 RY 2021-04-04 0946 IZ2ZQP          599 150             US6CQ         599 203           
+QSO:   14099 RY 2021-04-04 0946 IZ2ZQP          599 151             LC7N          599 246           
+QSO:   14099 RY 2021-04-04 0949 IZ2ZQP          599 152             YO3GNF        599 155           
+QSO:   14099 RY 2021-04-04 0949 IZ2ZQP          599 153             EB5F          599 A             
+QSO:   14099 RY 2021-04-04 0951 IZ2ZQP          599 154             EA7K          599 SE            
+QSO:   14099 RY 2021-04-04 1001 IZ2ZQP          599 155             EA7B          599 S             
+QSO:   14102 RY 2021-04-04 1003 IZ2ZQP          599 156             OG2P          599 275           
+QSO:   14101 RY 2021-04-04 1005 IZ2ZQP          599 157             YO9HP         599 431           
+QSO:   14101 RY 2021-04-04 1006 IZ2ZQP          599 158             OH7KNM        599 093           
+QSO:   14106 RY 2021-04-04 1013 IZ2ZQP          599 159             ED8L          599 TF            
+QSO:   14107 RY 2021-04-04 1015 IZ2ZQP          599 160             EA2KU         599 VI            
+QSO:   14108 RY 2021-04-04 1016 IZ2ZQP          599 161             UD4F          599 137           
+QSO:   14111 RY 2021-04-04 1020 IZ2ZQP          599 162             ED7N          599 CO            
+QSO:   14112 RY 2021-04-04 1021 IZ2ZQP          599 163             YO44FPF       599 207           
+QSO:   14112 RY 2021-04-04 1024 IZ2ZQP          599 164             M3ECT         599 113           
+QSO:   14116 RY 2021-04-04 1028 IZ2ZQP          599 165             LZ1ND         599 269           
+QSO:   14121 RY 2021-04-04 1031 IZ2ZQP          599 166             CT7AJL        599 535           
+QSO:   14083 RY 2021-04-04 1039 IZ2ZQP          599 167             RM4K          599 246           
+QSO:   14083 RY 2021-04-04 1040 IZ2ZQP          599 168             LZ4A          599 241           
+QSO:   14086 RY 2021-04-04 1413 IZ2ZQP          599 169             RT6DI         599 391           
+QSO:   14087 RY 2021-04-04 1415 IZ2ZQP          599 170             CT1BXT        599 213           
+QSO:   14088 RY 2021-04-04 1417 IZ2ZQP          599 171             MW0CRI        599 090           
+QSO:   14088 RY 2021-04-04 1420 IZ2ZQP          599 172             WQ5OO         599 1117          
+QSO:   14088 RY 2021-04-04 1422 IZ2ZQP          599 173             RN1AO         599 031           
+QSO:   14088 RY 2021-04-04 1423 IZ2ZQP          599 174             RV3TG         599 100           
+QSO:   14089 RY 2021-04-04 1429 IZ2ZQP          599 175             KE1IH         599 320           
+QSO:   14089 RY 2021-04-04 1430 IZ2ZQP          599 176             WA3AAN        599 027           
+QSO:   14089 RY 2021-04-04 1431 IZ2ZQP          599 177             CT7AJL        599 644           
+QSO:   14089 RY 2021-04-04 1435 IZ2ZQP          599 178             N4TB          599 214           
+QSO:   14089 RY 2021-04-04 1437 IZ2ZQP          599 179             YC1PZ         599 069           
+QSO:   14089 RY 2021-04-04 1439 IZ2ZQP          599 180             UR5ZDZ        599 088           
+QSO:   14089 RY 2021-04-04 1440 IZ2ZQP          599 181             CT1JQC        599 023           
+QSO:   14089 RY 2021-04-04 1441 IZ2ZQP          599 182             NJ9R          599 037           
+QSO:   14089 RY 2021-04-04 1444 IZ2ZQP          599 183             AB4SF         599 243           
+QSO:   14089 RY 2021-04-04 1446 IZ2ZQP          599 184             K3QIA         599 060           
+QSO:   14089 RY 2021-04-04 1448 IZ2ZQP          599 185             UA3XO         599 122           
+QSO:   14089 RY 2021-04-04 1451 IZ2ZQP          599 186             NS4X          599 249           
+QSO:   14089 RY 2021-04-04 1453 IZ2ZQP          599 187             UA0LKD        599 129           
+QSO:   14089 RY 2021-04-04 1454 IZ2ZQP          599 188             UR3QGJ        599 076           
+QSO:   14089 RY 2021-04-04 1455 IZ2ZQP          599 189             RU3OZ         599 116           
+QSO:   14089 RY 2021-04-04 1459 IZ2ZQP          599 190             RV6ADY        599 125           
+QSO:   14089 RY 2021-04-04 1502 IZ2ZQP          599 191             YC9ELS        599 091           
+QSO:   14089 RY 2021-04-04 1509 IZ2ZQP          599 192             R4CU          599 172           
+QSO:   14089 RY 2021-04-04 1511 IZ2ZQP          599 193             IK2IKW        599 023           
+QSO:   14089 RY 2021-04-04 1513 IZ2ZQP          599 194             OH3GLY        599 073           
+QSO:   14090 RY 2021-04-04 1519 IZ2ZQP          599 195             TA2E          599 083           
+QSO:   14090 RY 2021-04-04 1521 IZ2ZQP          599 196             EA7KJJ        599 CA            
+QSO:   14090 RY 2021-04-04 1524 IZ2ZQP          599 197             K8AC          599 027           
+QSO:   14090 RY 2021-04-04 1525 IZ2ZQP          599 198             VE2BVV        599 278           
+QSO:    7039 RY 2021-04-04 1532 IZ2ZQP          599 199             LZ1ZM         599 798           
+QSO:    7039 RY 2021-04-04 1533 IZ2ZQP          599 200             PA0ALG        599 198           
+QSO:    7039 RY 2021-04-04 1535 IZ2ZQP          599 201             OL75KCR       599 383           
+QSO:    7039 RY 2021-04-04 1535 IZ2ZQP          599 202             EA5JX         599 A             
+QSO:    7039 RY 2021-04-04 1536 IZ2ZQP          599 203             G4DBW         599 211           
+QSO:    7039 RY 2021-04-04 1537 IZ2ZQP          599 204             EF3O          599 B             
+QSO:    7039 RY 2021-04-04 1540 IZ2ZQP          599 205             F4GYM         599 100           
+QSO:    7039 RY 2021-04-04 1542 IZ2ZQP          599 206             F4DSK         599 321           
+QSO:    7039 RY 2021-04-04 1543 IZ2ZQP          599 207             DL5DTG        599 301           
+QSO:    7039 RY 2021-04-04 1543 IZ2ZQP          599 208             OM5AST        599 103           
+QSO:    7037 RY 2021-04-04 1546 IZ2ZQP          599 209             EA7CVF        599 AL            
+QSO:    7040 RY 2021-04-04 1548 IZ2ZQP          599 210             EA3X          599 B             
+QSO:    7040 RY 2021-04-04 1548 IZ2ZQP          599 211             YL3CU         599 255           
+QSO:    7040 RY 2021-04-04 1550 IZ2ZQP          599 212             DL1ALA        599 009           
+QSO:    7040 RY 2021-04-04 1551 IZ2ZQP          599 213             IK8UND        599 290           
+QSO:    7040 RY 2021-04-04 1552 IZ2ZQP          599 214             R7LY          599 118           
+QSO:    7040 RY 2021-04-04 1554 IZ2ZQP          599 215             EA3Y          599 GI            
+QSO:    7040 RY 2021-04-04 1556 IZ2ZQP          599 216             EA5IY         599 CS            
+QSO:    7040 RY 2021-04-04 1558 IZ2ZQP          599 217             YO4DG         599 134           
+QSO:    7040 RY 2021-04-04 1558 IZ2ZQP          599 218             OK2EA         599 369           
+QSO:    7040 RY 2021-04-04 1559 IZ2ZQP          599 219             DJ9DZ         599 613           
+QSO:    7040 RY 2021-04-04 1600 IZ2ZQP          599 220             F4FHV         599 330           
+END-OF-LOG:

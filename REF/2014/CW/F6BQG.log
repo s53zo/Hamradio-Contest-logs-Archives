@@ -1,0 +1,191 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 3.21.66
+
+# The callsign used during the contest.
+CALLSIGN: F6BQG
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED:NON ASSISTED 
+
+# Band: ALL,  80M, 40M, 20M, 15M, 10M
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: CW
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY-OPERATOR:SINGLE-OP 
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: LOW
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION:FIXED 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+# Contest: AP-SPRINT, ARRL-10, ARRL-160, ARRL-DX-CW, ARRL-DX-SSB, ARRL-SS-CW,
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: REF CW
+
+
+LOCATION: 35
+
+# Operator name
+NAME: lejeune serge
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: F6BQG
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO: 3507 CW 2014-01-25 0811 F6BQG         599  35        F5KKD         599 93            
+QSO: 3507 CW 2014-01-25 0821 F6BQG         599  35        F5TVG         599 94            
+QSO: 3507 CW 2014-01-25 0825 F6BQG         599  35        TM5OTT        599 37            
+QSO: 7006 CW 2014-01-25 0843 F6BQG         599  35        F8ATS         599 91            
+QSO: 7006 CW 2014-01-25 0846 F6BQG         599  35        F1BIH/P       599 58            
+QSO: 7006 CW 2014-01-25 0859 F6BQG         599  35        F6FTB         599 21            
+QSO: 7006 CW 2014-01-25 0907 F6BQG         599  35        F5UL          599 74            
+QSO: 7006 CW 2014-01-25 0919 F6BQG         599  35        F5PHW         599 56            
+QSO: 7006 CW 2014-01-25 0926 F6BQG         599  35        TM1T          599 44            
+QSO: 7005 CW 2014-01-25 0932 F6BQG         599  35        F6KNB         599 33            
+QSO: 7007 CW 2014-01-25 0939 F6BQG         599  35        F6KLM         599 19            
+QSO: 7006 CW 2014-01-25 0948 F6BQG         599  35        F6KHM         599 29            
+QSO: 7006 CW 2014-01-25 0956 F6BQG         599  35        F5KMB/P       599 60            
+QSO: 7005 CW 2014-01-25 1007 F6BQG         599  35        F6AUS         599 79            
+QSO: 7006 CW 2014-01-25 1041 F6BQG         599  35        F5KKD         599 93            
+QSO: 7006 CW 2014-01-25 1104 F6BQG         599  35        F6KUQ         599 33            
+QSO: 7006 CW 2014-01-25 1108 F6BQG         599  35        F6KUP         599 55            
+QSO: 7005 CW 2014-01-25 1158 F6BQG         599  35        F6CUC         599 57            
+QSO: 7006 CW 2014-01-25 1212 F6BQG         599  35        F6CCZ         599 44            
+QSO: 7006 CW 2014-01-25 1230 F6BQG         599  35        F4VPX         599 63            
+QSO: 7006 CW 2014-01-25 1233 F6BQG         599  35        F9EW          599 77            
+QSO: 21006 CW 2014-01-25 1317 F6BQG         599  35        LY7Z          599 216           
+QSO: 21005 CW 2014-01-25 1338 F6BQG         599  35        R2LAC         599 241           
+QSO: 7006 CW 2014-01-25 1346 F6BQG         599  35        TM6D          599 38            
+QSO: 7006 CW 2014-01-25 1349 F6BQG         599  35        F5MUX         599 29            
+QSO: 7006 CW 2014-01-25 1351 F6BQG         599  35        F4FRG         599 35            
+QSO: 14007 CW 2014-01-25 1413 F6BQG         599  35        RW3XM         599 T9E           
+QSO: 14005 CW 2014-01-25 1421 F6BQG         599  35        RA6CU         599 T 9 M         
+QSO: 14007 CW 2014-01-25 1424 F6BQG         599  35        YP5A          599 191           
+QSO: 14006 CW 2014-01-25 1428 F6BQG         599  35        TM5OTT        599 37            
+QSO: 21006 CW 2014-01-25 1434 F6BQG         599  35        YO8BFC        599 O44           
+QSO: 28006 CW 2014-01-25 1457 F6BQG         599  35        W4NA          599 29            
+QSO: 28006 CW 2014-01-25 1502 F6BQG         599  35        AA3B          599 7             
+QSO: 28006 CW 2014-01-25 1504 F6BQG         599  35        W9OA/9        599 040           
+QSO: 14005 CW 2014-01-25 1535 F6BQG         599  35        HA8VK         599  191          
+QSO: 14005 CW 2014-01-25 1538 F6BQG         599  35        F6KNB         599 33            
+QSO: 14006 CW 2014-01-25 1542 F6BQG         599  35        4Z5LU         599 060           
+QSO: 14006 CW 2014-01-25 1548 F6BQG         599  35        F6DEV         599 19            
+QSO: 14006 CW 2014-01-25 1610 F6BQG         599  35        IT9CHU        599 T33           
+QSO: 14006 CW 2014-01-25 1627 F6BQG         599  35        F8KIG         599 13            
+QSO: 21005 CW 2014-01-25 1650 F6BQG         599  35        F5JU          599 5NN35         
+QSO: 21006 CW 2014-01-25 1655 F6BQG         599  35        FM5WD         599 FM            
+QSO: 21006 CW 2014-01-25 1712 F6BQG         599  35        PY9MM         599 67            
+QSO: 14009 CW 2014-01-25 1734 F6BQG         599  35        UA3XAO        599 141           
+QSO: 7007 CW 2014-01-25 1800 F6BQG         599  35        TK5EP         599 2A            
+QSO: 7007 CW 2014-01-25 1807 F6BQG         599  35        F6KBR         599 66            
+QSO: 7007 CW 2014-01-25 1818 F6BQG         599  35        F5OWL         599 83            
+QSO: 14006 CW 2014-01-25 2008 F6BQG         599  35        VE2CQF        599 TT2           
+QSO: 14006 CW 2014-01-25 2018 F6BQG         599  35        PY9MM         599 Z9            
+QSO: 3505 CW 2014-01-25 2034 F6BQG         599  35        F8KCF         599 74            
+QSO: 3507 CW 2014-01-25 2037 F6BQG         599  35        F1BIH/P       599 58            
+QSO: 3505 CW 2014-01-25 2108 F6BQG         599  35        F8KHP/88      599 88            
+QSO: 3507 CW 2014-01-25 2111 F6BQG         599  35        F6KLO         599 19            
+QSO: 3506 CW 2014-01-25 2116 F6BQG         599  35        F5JVP         599 51            
+QSO: 3506 CW 2014-01-25 2118 F6BQG         599  35        TM5OTT        599 37            
+QSO: 3506 CW 2014-01-25 2123 F6BQG         599  35        F5VHY         599 47            
+QSO: 3506 CW 2014-01-25 2130 F6BQG         599  35        F5KHP         599 32            
+QSO: 3506 CW 2014-01-25 2136 F6BQG         599  35        F5JSQ         599 51            
+QSO: 3506 CW 2014-01-25 2142 F6BQG         599  35        F8BUO         599 68            
+QSO: 3506 CW 2014-01-25 2144 F6BQG         599  35        F6DEV         599 09            
+QSO: 3506 CW 2014-01-25 2146 F6BQG         599  35        F6REF         599 00            
+QSO: 3507 CW 2014-01-25 2151 F6BQG         599  35        OR7B          599 115           
+QSO: 3506 CW 2014-01-25 2156 F6BQG         599  35        F5KED         599 36            
+QSO: 3506 CW 2014-01-25 2203 F6BQG         599  35        F8EZX         599 31            
+QSO: 3505 CW 2014-01-25 2206 F6BQG         599  35        TM6D          599 38            
+QSO: 3506 CW 2014-01-25 2214 F6BQG         599  35        F5NKX         599 50            
+QSO: 3506 CW 2014-01-25 2217 F6BQG         599  35        F8KGW         599 35            
+QSO: 3506 CW 2014-01-25 2222 F6BQG         599  35        F6KUQ         599 33            
+QSO: 3506 CW 2014-01-25 2225 F6BQG         599  35        F5PLC         599 90            
+QSO: 3506 CW 2014-01-25 2228 F6BQG         599  35        F6DYX         599 49            
+QSO: 3506 CW 2014-01-25 2230 F6BQG         599  35        F5SEP         599 65            
+QSO: 3506 CW 2014-01-25 2235 F6BQG         599  35        TM1O          599 83            
+QSO: 3506 CW 2014-01-25 2237 F6BQG         599  35        F8DRE         599 28            
+QSO: 3506 CW 2014-01-25 2241 F6BQG         599  35        F5MGD         599 60            
+QSO: 28006 CW 2014-01-26 0816 F6BQG         599  35        UA6LUF        599 104           
+QSO: 21006 CW 2014-01-26 0824 F6BQG         599  35        UA4PN         599 364           
+QSO: 7006 CW 2014-01-26 0843 F6BQG         599  35        F5KDC         599 63            
+QSO: 14006 CW 2014-01-26 0906 F6BQG         599  35        EI4IE         599 M83           
+QSO: 14006 CW 2014-01-26 0927 F6BQG         599  35        F1BIH/P       599 58            
+QSO: 28024 CW 2014-01-26 0946 F6BQG         599  35        YO4SI         599 1T2           
+QSO: 21006 CW 2014-01-26 0959 F6BQG         599  35        LZ1GE         599 141           
+QSO: 7006 CW 2014-01-26 1017 F6BQG         599  35        F8KGZ         599 54            
+QSO: 7006 CW 2014-01-26 1024 F6BQG         599  35        F5LPY         599 55            
+QSO: 7006 CW 2014-01-26 1026 F6BQG         599  35        F2QH          599 95            
+QSO: 7006 CW 2014-01-26 1029 F6BQG         599  35        F5NKX         599 50            
+QSO: 7006 CW 2014-01-26 1031 F6BQG         599  35        F5JSQ         599 51            
+QSO: 7006 CW 2014-01-26 1048 F6BQG         599  35        F5LDY         599 91            
+QSO: 7006 CW 2014-01-26 1050 F6BQG         599  35        F5ROX         599 41            
+QSO: 7006 CW 2014-01-26 1105 F6BQG         599  35        M0BKB         599  151          
+QSO: 7006 CW 2014-01-26 1107 F6BQG         599  35        F6BCW         599 71            
+QSO: 7006 CW 2014-01-26 1114 F6BQG         599  35        F5JNF         599 58            
+QSO: 7006 CW 2014-01-26 1118 F6BQG         599  35        F5RJW         599 71            
+QSO: 7006 CW 2014-01-26 1122 F6BQG         599  35        G3GLL         599 T99           
+QSO: 7006 CW 2014-01-26 1135 F6BQG         599  35        F5KLE         599 30            
+QSO: 7006 CW 2014-01-26 1139 F6BQG         599  35        F6GYH         599 52            
+QSO: 21005 CW 2014-01-26 1442 F6BQG         599  35        SM0LPO        599 131           
+QSO: 14007 CW 2014-01-26 1513 F6BQG         599  35        SC6M          599 238           
+QSO: 14006 CW 2014-01-26 1521 F6BQG         599  35        GM4SID        599 138           
+QSO: 14006 CW 2014-01-26 1524 F6BQG         599  35        R8XW          599 111           
+QSO: 14007 CW 2014-01-26 1533 F6BQG         599  35        DL6UHA        599 327           
+QSO: 14006 CW 2014-01-26 1537 F6BQG         599  35        SM0LPT        599 121           
+QSO: 14006 CW 2014-01-26 1544 F6BQG         599  35        TM1T          599 44            
+QSO: 14006 CW 2014-01-26 1548 F6BQG         599  35        SM5ACQ        599 140           
+QSO: 14006 CW 2014-01-26 1549 F6BQG         599  35        LY7Z          599 596           
+QSO: 14006 CW 2014-01-26 1555 F6BQG         599  35        UA2FL         599 284           
+QSO: 7006 CW 2014-01-26 1614 F6BQG         599  35        F6KRK         599 78            
+QSO: 7006 CW 2014-01-26 1622 F6BQG         599  35        OK1DIG        599 3E1           
+QSO: 7006 CW 2014-01-26 1628 F6BQG         599  35        TM5OTT        599 37            
+QSO: 7006 CW 2014-01-26 1640 F6BQG         599  35        F5NTZ         599 77            
+QSO: 7005 CW 2014-01-26 1650 F6BQG         599  35        F8DGY         599 77            
+QSO: 7006 CW 2014-01-26 1652 F6BQG         599  35        TM1A          599 77            
+QSO: 7006 CW 2014-01-26 1708 F6BQG         599  35        F6KLO         599 19            
+QSO: 7006 CW 2014-01-26 1710 F6BQG         599  35        F6DEV         599 19            
+QSO: 7006 CW 2014-01-26 1717 F6BQG         599  35        F6BSQ         599 57            
+QSO: 7006 CW 2014-01-26 1719 F6BQG         599  35        F6DSV         599 31            
+QSO: 7006 CW 2014-01-26 1722 F6BQG         599  35        F8KHP         599 88            
+QSO: 7006 CW 2014-01-26 1724 F6BQG         599  35        F8BUO         599 68            
+QSO: 7006 CW 2014-01-26 1733 F6BQG         599  35        F8DZY         599 47            
+QSO: 7006 CW 2014-01-26 1737 F6BQG         599  35        F8EZX         599 31            
+QSO: 7006 CW 2014-01-26 1739 F6BQG         599  35        DL7BY         599 T39           
+QSO: 7006 CW 2014-01-26 1744 F6BQG         599  35        SP3LPR        599 179           
+QSO: 7006 CW 2014-01-26 1746 F6BQG         599  35        SF3A          599 245           
+QSO: 3507 CW 2014-01-26 1752 F6BQG         599  35        F5MUX         599 29            
+END-OF-LOG:

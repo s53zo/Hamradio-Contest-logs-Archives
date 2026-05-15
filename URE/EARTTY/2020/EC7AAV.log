@@ -1,0 +1,80 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.0.18
+
+# The callsign used during the contest.
+CALLSIGN: EC7AAV
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP 80M
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 273
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    3592 RY 2020-04-04 1704 EC7AAV          599 CO CO           EA4FR         599 CR CR         
+QSO:    3586 RY 2020-04-04 1919 EC7AAV          599 CO CO           F4FDR         599 081 081       
+QSO:    3596 RY 2020-04-04 2000 EC7AAV          599 CO CO           ED7N          599 CO CO         
+QSO:    3586 RY 2020-04-04 2114 EC7AAV          599 CO CO           CR5O          599 257 257       
+QSO:    3583 RY 2020-04-04 2119 EC7AAV          599 CO CO           EA4URE        599 HQ HQ         
+QSO:    3590 RY 2020-04-04 2134 EC7AAV          599 CO CO           EA4GOY        599 TO TO         
+QSO:    3596 RY 2020-04-04 2149 EC7AAV          599 CO CO           EA7KE         599 SE SE         
+QSO:    3597 RY 2020-04-04 2152 EC7AAV          599 CO CO           EA2XR         599 BI BI         
+QSO:    3598 RY 2020-04-04 2204 EC7AAV          599 CO CO           EI3JE         599 310 310       
+QSO:    3589 RY 2020-04-04 2222 EC7AAV          599 CO CO           EA7TG         599 GR GR         
+QSO:    3591 RY 2020-04-04 2227 EC7AAV          599 CO CO           EE5O          599 CS CS         
+QSO:    3583 RY 2020-04-04 2255 EC7AAV          599 CO CO           EA1DV         599 BU BU         
+END-OF-LOG:

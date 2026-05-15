@@ -1,0 +1,112 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 3.23.21
+
+# The callsign used during the contest.
+CALLSIGN:  R3AIR
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 80M, 40M, 20M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: PSK
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+
+
+
+LOCATION: 
+
+# Operator name
+NAME: SERGEY
+
+
+
+QSO:    7042 RY 2017-03-11 1628  R3AIR          599 001             UA6CE         599 034           
+QSO:    7043 RY 2017-03-11 1631  R3AIR          599 002              US7KC         599 033           
+QSO:    7043 RY 2017-03-11 1635  R3AIR          599 003              IN3BFW        599 42            
+QSO:    7042 RY 2017-03-11 1640  R3AIR          599 004              YO4NF         599 30            
+QSO:    7042 RY 2017-03-11 1641  R3AIR          599 005              YL5X          599 38            
+QSO:    7041 RY 2017-03-11 1652  R3AIR          599 006              SP5KCR        599 31            
+QSO:    7041 RY 2017-03-11 1656  R3AIR          599 007              TA7JE         599 009           
+QSO:    7041 RY 2017-03-11 1659  R3AIR          599 008              OH2GI         599 018           
+QSO:    7041 RY 2017-03-11 1700  R3AIR          599 009              A61DD         599 003           
+QSO:    7041 RY 2017-03-11 1703  R3AIR          599 010              UR4IOR        599 009           
+QSO:    7044 RY 2017-03-11 1710  R3AIR          599 011              US5MUW        599 018           
+QSO:    7045 RY 2017-03-11 1715  R3AIR          599 012              R7AB          599 083           
+QSO:    7045 RY 2017-03-11 1717  R3AIR          599 013              DM5WH         599 018           
+QSO:    7040 RY 2017-03-11 1721  R3AIR          599 014              YL2NN         599 033           
+QSO:    7040 RY 2017-03-11 1725  R3AIR          599 015              YL3FW         599 040           
+QSO:    7040 RY 2017-03-11 1731  R3AIR          599 016              UR7GO         599 050           
+QSO:    7041 RY 2017-03-11 1733  R3AIR          599 017              4L1BR         599 021           
+QSO:    7042 RY 2017-03-11 1741  R3AIR          599 018              DL5KUD        599 021           
+QSO:    7044 RY 2017-03-11 1746  R3AIR          599 019              PA2IP         599 022           
+QSO:    7045 RY 2017-03-11 1756  R3AIR          599 020              UZ4E          599 049           
+QSO:    7047 RY 2017-03-11 1804  R3AIR          599 021              OK2EA         599 080           
+QSO:    3582 RY 2017-03-11 1807  R3AIR          599 022              RA4HL         599 023           
+QSO:    3583 RY 2017-03-11 1810  R3AIR          599 023              LZ7A          599 033           
+QSO:    3582 RY 2017-03-11 1812  R3AIR          599 024              A71AE         599 013           
+QSO:    3583 RY 2017-03-11 1821  R3AIR          599 025              9A1CRT        599 14            
+QSO:    3585 RY 2017-03-11 1825  R3AIR          599 026              OH9UFO        599 020           
+QSO:    3581 RY 2017-03-11 2001  R3AIR          599 027              SP5KCR        599 158           
+QSO:    3582 RY 2017-03-11 2002  R3AIR          599 028              US5LOC        599 062           
+QSO:    3584 RY 2017-03-11 2012  R3AIR          599 029              UZ4E          599 149           
+QSO:    3585 RY 2017-03-11 2014  R3AIR          599 030              SP9CTS        599 051           
+QSO:    3586 RY 2017-03-11 2020  R3AIR          599 031              DJ3NG         599 07            
+QSO:    7040 RY 2017-03-11 2026  R3AIR          599 032              EB5CS         599 CS            
+QSO:    7042 RY 2017-03-11 2031  R3AIR          599 033              PA3EVY        599 130           
+QSO:    7044 RY 2017-03-11 2036  R3AIR          599 034              PI4LWD        599 031           
+QSO:    7044 RY 2017-03-11 2039  R3AIR          599 035              EA3FF         599 L             
+QSO:    7044 RY 2017-03-11 2041  R3AIR          599 036              EA1XT         599 C             
+QSO:    7045 RY 2017-03-11 2042  R3AIR          599 037              GM3MZX        599 163           
+QSO:    7045 RY 2017-03-11 2044  R3AIR          599 038              LZ7A          599 107           
+QSO:    3580 RY 2017-03-11 2102  R3AIR          599 039              US1VS         599 084           
+QSO:    3582 RY 2017-03-11 2108  R3AIR          599 040              UR4Q          599 250           
+QSO:    3582 RY 2017-03-11 2111  R3AIR          599 041              ER5LL         599 141           
+QSO:    3584 RY 2017-03-11 2116  R3AIR          599 042              OZ11A         599 141           
+QSO:    3584 RY 2017-03-11 2118  R3AIR          599 043              HA6NL         599 107           
+QSO:    3585 RY 2017-03-11 2121  R3AIR          599 044              SO5MAX        599 072           
+QSO:    3585 RY 2017-03-11 2123  R3AIR          599 045              UR5MGU        599 183           
+QSO:    3587 RY 2017-03-11 2128  R3AIR          599 046              UR5ZGY        599 099           
+QSO:    7045 RY 2017-03-11 2140  R3AIR          599 047              SV6EBQ        599 103           
+QSO:    7042 RY 2017-03-12 0604  R3AIR          599 048              RU6CH         599 197           
+QSO:    7044 RY 2017-03-12 0608  R3AIR          599 049              UX7QV         599 281           
+QSO:    7046 RY 2017-03-12 0610  R3AIR          599 050              OH3EX         599 152           
+QSO:   14073 RY 2017-03-12 0632  R3AIR          599 051              IK2SBB        599 265           
+QSO:   14075 RY 2017-03-12 0636  R3AIR          599 052              R9MA          599 150           
+QSO:    7043 RY 2017-03-12 0644  R3AIR          599 053              UR5ZGY        599 161           
+QSO:    7044 RY 2017-03-12 0645  R3AIR          599 054              UR4Q          599 513           
+QSO:    7045 RY 2017-03-12 0647  R3AIR          599 055              ES1BH         599 020           
+QSO:    7041 RY 2017-03-12 0655  R3AIR          599 056              LY2PAD        599 111           
+QSO:    7042 RY 2017-03-12 0710  R3AIR          599 057              R4MA          599 056           
+QSO:    7043 RY 2017-03-12 0712  R3AIR          599 058              UR5CN         599 249           
+QSO:   14072 RY 2017-03-12 0857  R3AIR          599 059              YU7AOP        599 019           
+QSO:   14073 RY 2017-03-12 0903  R3AIR          599 060              M0CHK         599 060           
+QSO:   14074 RY 2017-03-12 0905  R3AIR          599 061              F4GWY         599 226           
+QSO:   14074 RY 2017-03-12 0915  R3AIR          599 062              PA3EVY        599 267           
+QSO:   14075 RY 2017-03-12 1010  R3AIR          599 063              PA7LV         599 224           
+QSO:   14076 RY 2017-03-12 1014  R3AIR          599 064              PI4LWD        599 076           
+QSO:   14073 RY 2017-03-12 1049  R3AIR          599 065              DF1IAQ        599 013           
+QSO:   14073 RY 2017-03-12 1051  R3AIR          599 066              LZ7A          599 270           
+QSO:   14073 RY 2017-03-12 1136  R3AIR          599 067              HG1G          599 021           
+QSO:   14074 RY 2017-03-12 1250  R3AIR          599 068              PA0GJV        599 092           
+QSO:   14075 RY 2017-03-12 1252  R3AIR          599 069              PD2PKM        599 093           
+QSO:   14075 RY 2017-03-12 1254  R3AIR          599 070              PD0ME         599 148           
+QSO:   21071 RY 2017-03-12 1425  R3AIR          599 071              R9MA          599 148           
+END-OF-LOG:

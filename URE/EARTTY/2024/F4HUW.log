@@ -1,0 +1,88 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: F4HUW
+CATEGORY: SINGLE-OP ALL LOW
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 1125
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: hervé
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14085 RY         2024-04-06 1349 F4HUW           599 001             OZ0JD         599 068           
+QSO:   14086 RY         2024-04-06 1352 F4HUW           599 002             YO3VU         599 098           
+QSO:   14085 RY         2024-04-06 1354 F4HUW           599 003             EE2E          599 te            
+QSO:   14083 RY         2024-04-06 1357 F4HUW           599 004             HA8QZ         599 152           
+QSO:   14085 RY         2024-04-06 1400 F4HUW           599 005             EA5O          599 v-v           
+QSO:   14087 RY         2024-04-06 1411 F4HUW           599 006             DL4APJ        599 004           
+QSO:   14089 RY         2024-04-06 1417 F4HUW           599 007             IV3WMS        599 043           
+QSO:   14090 RY         2024-04-06 1421 F4HUW           599 008             EC7ZR         599 co            
+QSO:   14091 RY         2024-04-06 1424 F4HUW           599 009             8S9J          599 017           
+QSO:   14092 RY         2024-04-06 1426 F4HUW           599 010             LC6A          599 091           
+QSO:   14092 RY         2024-04-06 1433 F4HUW           599 011             EA7TG         599 gr            
+QSO:   14093 RY         2024-04-06 1435 F4HUW           599 012             IZ1PKV        599 123           
+QSO:   14095 RY         2024-04-06 1437 F4HUW           599 013             ED3D          599 gi            
+QSO:   28087 RY         2024-04-06 1442 F4HUW           599 014             ZW2WSP        599 84            
+QSO:   28089 RY         2024-04-06 1445 F4HUW           599 015             EA8AQV        599 gc            
+QSO:   28082 RY         2024-04-06 1449 F4HUW           599 016             PZ5RA         599 177           
+QSO:   28099 RY         2024-04-06 1452 F4HUW           599 017             EA8DHH        599 tf            
+QSO:   28098 RY         2024-04-06 1455 F4HUW           599 018             V55Y          599 142           
+QSO:   14085 RY         2024-04-07 0752 F4HUW           599 019             EA8DED        599 tf            
+QSO:   14092 RY         2024-04-07 0802 F4HUW           599 020             J62K          599 141           
+QSO:   14096 RY         2024-04-07 0812 F4HUW           599 021             OK2PF         599 202           
+QSO:   14097 RY         2024-04-07 0815 F4HUW           599 022             9A1A          599 475           
+QSO:   14098 RY         2024-04-07 0817 F4HUW           599 023             I0WBX         599 086           
+QSO:   14101 RY         2024-04-07 0820 F4HUW           599 024             SI3A          599 154           
+QSO:   14099 RY         2024-04-07 0825 F4HUW           599 025             EA7KNT        599 se            
+QSO:   14092 RY         2024-04-07 0836 F4HUW           599 026             DL3SYA        599 473           
+QSO:   14093 RY         2024-04-07 0839 F4HUW           599 027             IK5FKF        599 208           
+QSO:   14090 RY         2024-04-07 0842 F4HUW           599 028             EF7O          599 co            
+END-OF-LOG:

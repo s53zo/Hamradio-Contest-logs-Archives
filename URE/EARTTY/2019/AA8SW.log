@@ -1,0 +1,118 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.01
+
+# The callsign used during the contest.
+CALLSIGN: AA8SW
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: RTTY
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL LOW
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: ROOKIE
+
+# Integer number
+CLAIMED-SCORE: 2242
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: STEVEN WEEKS
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: AA8SW
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 1ST LICENSE 2017
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14089 RY 2019-04-06 1631 AA8SW           599 001             9A1A          599 028           
+QSO:   14085 RY 2019-04-06 1726 AA8SW           599 002             S53M          599 053           
+QSO:   14091 RY 2019-04-06 1744 AA8SW           599 003             EA2XR         599 BI            
+QSO:   14091 RY 2019-04-06 1746 AA8SW           599 004             IV3WMS        599 045           
+QSO:   14088 RY 2019-04-06 1930 AA8SW           599 005             AM70D         599 A             
+QSO:   14089 RY 2019-04-06 1932 AA8SW           599 006             CO3GD         599 019           
+QSO:   14089 RY 2019-04-06 1953 AA8SW           599 007             W4LC          599 067           
+QSO:   14084 RY 2019-04-06 2135 AA8SW           599 008             NX6T          599 049           
+QSO:   14090 RY 2019-04-06 2143 AA8SW           599 009             PZ5RA         599 111           
+QSO:    7046 RY 2019-04-06 2247 AA8SW           599 012             K6DTT/2       599 168           
+QSO:    7047 RY 2019-04-06 2249 AA8SW           599 013             9A1A          599 251           
+QSO:    7050 RY 2019-04-06 2316 AA8SW           599 014             VE2FK         599 183           
+QSO:    7048 RY 2019-04-06 2318 AA8SW           599 015             W3FIZ         599 190           
+QSO:    7052 RY 2019-04-06 2322 AA8SW           599 016             W4UK          599 079           
+QSO:    7053 RY 2019-04-06 2323 AA8SW           599 017             N1MD          599 200           
+QSO:    7054 RY 2019-04-06 2324 AA8SW           599 018             VE2AXO        599 053           
+QSO:    7056 RY 2019-04-06 2326 AA8SW           599 019             W3FV          599 104           
+QSO:    7055 RY 2019-04-06 2328 AA8SW           599 020             KB8O          599 116           
+QSO:    3580 RY 2019-04-06 2341 AA8SW           599 021             K4GMH         599 051           
+QSO:    3582 RY 2019-04-06 2348 AA8SW           599 022             N1MD          599 209           
+QSO:    7040 RY 2019-04-06 2353 AA8SW           599 023             S53X          599 438           
+QSO:    7043 RY 2019-04-07 0002 AA8SW           599 024             W4UEF         599 034           
+QSO:    7045 RY 2019-04-07 0011 AA8SW           599 025             AA2EQ         599 059           
+QSO:    7055 RY 2019-04-07 0024 AA8SW           599 026             VE2NMB        599 018           
+QSO:    7061 RY 2019-04-07 0027 AA8SW           599 027             WN6K          599 063           
+QSO:    3583 RY 2019-04-07 0035 AA8SW           599 028             W3LL          599 044           
+QSO:    3585 RY 2019-04-07 0037 AA8SW           599 029             KB8O          599 151           
+QSO:    3588 RY 2019-04-07 0040 AA8SW           599 030             K8RGI         599 056           
+QSO:    7041 RY 2019-04-07 0054 AA8SW           599 031             CO6RD         599 086           
+QSO:    7044 RY 2019-04-07 0057 AA8SW           599 032             W0IZ          599 084           
+QSO:    7049 RY 2019-04-07 0101 AA8SW           599 033             CO2RQ         599 032           
+QSO:    7056 RY 2019-04-07 0111 AA8SW           599 034             NX6T          599 098           
+QSO:    7055 RY 2019-04-07 0113 AA8SW           599 035             KS0AA         599 018           
+QSO:    7057 RY 2019-04-07 0121 AA8SW           599 036             CN8YZ         599 302           
+QSO:    7053 RY 2019-04-07 0204 AA8SW           599 037             K9OM          599 353           
+QSO:    3584 RY 2019-04-07 0213 AA8SW           599 038             W4BCG         599 041           
+QSO:    3583 RY 2019-04-07 0214 AA8SW           599 039             AA2EQ         599 096           
+QSO:    3585 RY 2019-04-07 0216 AA8SW           599 040             W3FIZ         599 301           
+QSO:    3594 RY 2019-04-07 0221 AA8SW           599 041             W1FSH         599 018           
+QSO:    3596 RY 2019-04-07 0224 AA8SW           599 042             W4UK          599 149           
+QSO:    7041 RY 2019-04-07 0230 AA8SW           599 043             EE4E          599 CR            
+QSO:    7043 RY 2019-04-07 0232 AA8SW           599 044             NX5O          599 032           
+QSO:    7049 RY 2019-04-07 0239 AA8SW           599 045             WU6W          599 079           
+QSO:    7057 RY 2019-04-07 0250 AA8SW           599 046             VA7ST         599 137           
+QSO:   14091 RY 2019-04-07 1339 AA8SW           599 047             YV5AAX        599 167           
+QSO:   14082 RY 2019-04-07 1359 AA8SW           599 048             S53X          599 862           
+QSO:   14087 RY 2019-04-07 1432 AA8SW           599 049             N5KWN         599 085           
+QSO:   14086 RY 2019-04-07 1455 AA8SW           599 050             EE2W          599 BI            
+QSO:   14099 RY 2019-04-07 1509 AA8SW           599 051             AM170YO       599 BI             
+QSO:   14082 RY 2019-04-07 1516 AA8SW           599 052             9A1A          599 445           
+END-OF-LOG:

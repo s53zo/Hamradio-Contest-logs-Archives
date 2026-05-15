@@ -1,0 +1,82 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.11
+
+# The callsign used during the contest.
+CALLSIGN: DB1HEF
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL HIGH
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 320
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14104 RY 2020-04-05 1554 DB1HEF          599 016             EA7KE         599 se            
+QSO:   14124 RY 2020-04-05 1546 DB1HEF          599 015             EC5W          599 a             
+QSO:   14123 RY 2020-04-05 1544 DB1HEF          599 014             EA7K          599 se            
+QSO:   14129 RY 2020-04-05 1522 DB1HEF          599 013             EA5K          599 mu            
+QSO:   14127 RY 2020-04-05 1512 DB1HEF          599 012             EA7I          599 ma            
+QSO:   14080 RY 2020-04-05 1457 DB1HEF          599 009             EA8DO         599 tf            
+QSO:   14086 RY 2020-04-05 1455 DB1HEF          171 008             RA6LIS        599 171 171       
+QSO:   14086 RY 2020-04-05 1453 DB1HEF          599 007             EA7KI         599 ma            
+QSO:   14087 RY 2020-04-05 1451 DB1HEF          599 006             EA7LL         599 ma            
+QSO:   14087 RY 2020-04-05 1449 DB1HEF          599 005             4L8A          599 687           
+QSO:   14104 RY 2020-04-05 1439 DB1HEF          599 004             UC6N          599 306           
+QSO:   14107 RY 2020-04-05 1436 DB1HEF          599 003             EA3GP         599 t             
+QSO:   14114 RY 2020-04-05 1425 DB1HEF          435 002             RK3DXW        599 435           
+QSO:   14115 RY 2020-04-05 1422 DB1HEF          599 001             R7AB          599 718           
+END-OF-LOG:

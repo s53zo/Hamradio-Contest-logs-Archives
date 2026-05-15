@@ -1,0 +1,65 @@
+START-OF-LOG: 3.0
+CONTEST: CQ-WPX-RTTY
+CALLSIGN: IZ1FKS
+LOCATION: DX
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: RTTY
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-STATION: FIXED
+CATEGORY-OVERLAY:
+GRID-LOCATOR: JN45FD
+CLAIMED-SCORE: 2976
+NAME: Filippo
+OPERATORS: IZ1FKS
+CLUB: ARI
+CREATED-BY: N1MM Logger+ 1.0.9811.0
+SOAPBOX: Why we urgently need a serious WW/WPX PSK contest
+SOAPBOX: Recently PSK modes are been forbidden in RTTY roundup contest, the only ARRL contest were they ere admitted. Even before very very few stations used PSK during roundup, so no much difference has been noted (and escluding FT* mode form contest is always a good thing indeed!)
+SOAPBOX: The new ARRL Digital Contest didn't solve the issue because it has immediately become an FT* modes contest, nothing interesting there.
+SOAPBOX: A contest without progressive number exchange is a non-sense US stations should exchange WAS as well as in roundup contest. A list of usable modes should be published in the rules as well. Qth locator exhange has been adopted only due to ft modes, but ft modes if are so limited should not be privileged at all. At the oppositie ft modes should be modified to be compliant with contest rules! There is no issue at all in PSK or similar mode (JS8 too) to exchange data as in any other contest.
+SOAPBOX: The need for an ARRL PSK contest esplained.
+SOAPBOX: After more than 20 years a serious PSK contest with same rules appliying in RTTY WW contest is still missing.
+SOAPBOX: A contest with same rules of Roundup but limited to PSK modes will be of great interest. Same rules means that power limit (available in other psk contests) shall not apply for High Power category. By this way all big contest stations partecipating to RTTY contest will be attract to partecipate in this new PSK contest, while are missing from present psk contests due to theirs rules. Since PSK modes are by far more efficient than old RTTY, there will be a lot of fun for small stations working the world with a few watts as well ! For small station RTTY is very challenging and sometimes frustrating since 100W has to be considered a barely minimum power for RTTY dx.
+SOAPBOX: Power limitation is sometimes addressed by other psk contest organisers due to splatter nearby stations. This cannot be a parameter since modern rigs have filters able to isolate a single PSK63 signal. The real issue nobody is addressing is that for inexplicable reasons in psk contest stations are reluctant to leave the psk frequency allocation 14.070, 21.070 and to use the rtty frequencies ususally empty when not used during RTTY contests.
+SOAPBOX: The mistake again are the current psk contest rules indicating the frequency segment that is not adequate at all for contest (this is true expecially for 20 and 15 meters where at 14.074 and 21.074 there are FT* mode frequency allocations, in 40 meters here in Europe psk freq. is 7040 so there is a lot of empty freq before ft8 frequency, in fact here the stations are more distribuited over the band during psk contests)
+SOAPBOX: Frequency allocation for a seriuos PSK contest should be indicated and there is a lot of space in unused rtty allocation (e.g. 14080-14120 as used during RTTY contests). In this way normal cq frequencies like 14.070 21.070 etc could remain clear for non contest psk operations.
+SOAPBOX: PSK63 should be the "default" mode, but it would be a mistake to limit to only this mode, since PSK31 could be useful in difficult conditions and for low power stations, as well as PSK125 is faster than RTTY when conditions allow.
+SOAPBOX: PSK contest adopting RTTY one rules would be a great fun for any kind of station!
+SOAPBOX: After FT* modes introduction wonderful PSK modes have declined without any serious reason that is not good at all. A new ARRL WW PSK contest even if 20 years late, could greatly improve the situation expecially with propagation conditions getting better.
+SOAPBOX: 73 de Phil, iz1fks/ai4yn
+QSO:   28134 RY 2023-02-11 1726 IZ1FKS           599 0001  NC0DX            599  0185     
+QSO:   28139 RY 2023-02-11 1729 IZ1FKS           599 0002  WT7TT            599  0496     
+QSO:   21117 RY 2023-02-11 1855 IZ1FKS           599 0003  N5YT             599  0307     
+QSO:   21130 RY 2023-02-11 1911 IZ1FKS           599 0004  N7GP             599  0795     
+QSO:   21125 RY 2023-02-11 1912 IZ1FKS           599 0005  W9PA             599  0311     
+QSO:   21115 RY 2023-02-11 1916 IZ1FKS           599 0006  K0AD             599  0160     
+QSO:   21114 RY 2023-02-11 1917 IZ1FKS           599 0007  N0XR             599  0117     
+QSO:   21100 RY 2023-02-11 1920 IZ1FKS           599 0008  KF0JBL           599  0662     
+QSO:   21093 RY 2023-02-11 1929 IZ1FKS           599 0009  KH6ZM            599  0409     
+QSO:   21079 RY 2023-02-11 1932 IZ1FKS           599 0010  V26OC            599  0316     
+QSO:   28151 RY 2023-02-12 1616 IZ1FKS           599 0011  TI2WMP           599  0442     
+QSO:   28114 RY 2023-02-12 1624 IZ1FKS           599 0012  AC7S             599  0765     
+QSO:   28115 RY 2023-02-12 1629 IZ1FKS           599 0013  WD6T             599  0883     
+QSO:   28115 RY 2023-02-12 1634 IZ1FKS           599 0014  K7RL             599  1884     
+QSO:   28128 RY 2023-02-12 1654 IZ1FKS           599 0015  NF6A             599  0743     
+QSO:   28141 RY 2023-02-12 1703 IZ1FKS           599 0016  NY3B             599  0588     
+QSO:   28146 RY 2023-02-12 1704 IZ1FKS           599 0017  N2WK             599  0815     
+QSO:   28109 RY 2023-02-12 1710 IZ1FKS           599 0018  NQ4J             599  0538     
+QSO:   28086 RY 2023-02-12 1721 IZ1FKS           599 0019  KZ5MM            599  0863     
+QSO:   28086 RY 2023-02-12 1723 IZ1FKS           599 0020  WW4R             599  0383     
+QSO:   28125 RY 2023-02-12 1731 IZ1FKS           599 0021  AB0RX            599  0824     
+QSO:   28152 RY 2023-02-12 1734 IZ1FKS           599 0022  NW8S             599  0343     
+QSO:   28147 RY 2023-02-12 1739 IZ1FKS           599 0023  VE5KS            599  0705     
+QSO:   28145 RY 2023-02-12 1747 IZ1FKS           599 0024  W5AP             599  0753     
+QSO:   28146 RY 2023-02-12 1756 IZ1FKS           599 0025  KG7CW            599  0293     
+QSO:   28141 RY 2023-02-12 1807 IZ1FKS           599 0026  N7WY             599  1199     
+QSO:   28140 RY 2023-02-12 1810 IZ1FKS           599 0027  NS1L             599  0477     
+QSO:   21083 RY 2023-02-12 1841 IZ1FKS           599 0028  W0MB             599  0524     
+QSO:   21083 RY 2023-02-12 1842 IZ1FKS           599 0029  AC5XK            599  0686     
+QSO:   21101 RY 2023-02-12 1846 IZ1FKS           599 0030  N8CWU            599  0503     
+QSO:   21128 RY 2023-02-12 1849 IZ1FKS           599 0031  ZW2N             599  1306     
+QSO:   21108 RY 2023-02-12 1915 IZ1FKS           599 0032  AD5XD            599  1249     
+END-OF-LOG:

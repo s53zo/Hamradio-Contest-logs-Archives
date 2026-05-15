@@ -1,0 +1,194 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: EA1BJE
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 40M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: PSK
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP 40M
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 10128
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: IN80IN
+
+# Operator name
+NAME: JOSE_MARIA
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: EA1BJE
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7042 PSK        2022-03-12 1205 EA1BJE          599 GU             EE4Y          599 TO            
+QSO:    7042 PSK        2022-03-12 1207 EA1BJE          599 GU             EA4ZM         599 BA            
+QSO:    7041 PSK        2022-03-12 1209 EA1BJE          599 GU             EC3A          599 T 0 0         
+QSO:    7041 PSK        2022-03-12 1211 EA1BJE          599 GU             ED1B          599 O             
+QSO:    7042 PSK        2022-03-12 1212 EA1BJE          599 GU             EA5KE         599 V             
+QSO:    7042 PSK        2022-03-12 1214 EA1BJE          599 GU             EA3X          599 B             
+QSO:    7042 PSK        2022-03-12 1216 EA1BJE          599 GU             EA5XC         599 A             
+QSO:    7043 PSK        2022-03-12 1220 EA1BJE          599 GU             EA3L          599 B             
+QSO:    7043 PSK        2022-03-12 1224 EA1BJE          599 GU             EA7AZA        599 CA            
+QSO:    7043 PSK        2022-03-12 1234 EA1BJE          599 GU             EC5CSW        599 V             
+QSO:    7044 PSK        2022-03-12 1237 EA1BJE          599 GU             EA3GHA        599 T             
+QSO:    7043 PSK        2022-03-12 1239 EA1BJE          599 GU             EA7ELY        599 SE            
+QSO:    7043 PSK        2022-03-12 1240 EA1BJE          599 GU             EA1IXQ        599 S             
+QSO:    7043 PSK        2022-03-12 1241 EA1BJE          599 GU             EA5R          599 MU            
+QSO:    7043 PSK        2022-03-12 1241 EA1BJE          599 GU             EB5F          599 A             
+QSO:    7043 PSK        2022-03-12 1244 EA1BJE          599 GU             EA1U          599 S             
+QSO:    7043 PSK        2022-03-12 1245 EA1BJE          599 GU             EB5CS         599 CS            
+QSO:    7043 PSK        2022-03-12 1246 EA1BJE          599 GU             EA1DA         599 LO            
+QSO:    7043 PSK        2022-03-12 1247 EA1BJE          599 GU             EA7KJJ        599 CA            
+QSO:    7044 PSK        2022-03-12 1249 EA1BJE          599 GU             EA7EQ         599 SE            
+QSO:    7045 PSK        2022-03-12 1253 EA1BJE          599 GU             EA2DDE        599 NA            
+QSO:    7045 PSK        2022-03-12 1255 EA1BJE          599 GU             EA3IAZ        599 GI            
+QSO:    7044 PSK        2022-03-12 1256 EA1BJE          599 GU             EA5MR         599 A             
+QSO:    7044 PSK        2022-03-12 1259 EA1BJE          599 GU             EA7FDO        599 CA            
+QSO:    7044 PSK        2022-03-12 1300 EA1BJE          599 GU             C37AC         599 013           
+QSO:    7044 PSK        2022-03-12 1302 EA1BJE          599 GU             EA4FJX        599 M             
+QSO:    7041 PSK        2022-03-12 1309 EA1BJE          599 GU             EA4ADM        599 M             
+QSO:    7043 PSK        2022-03-12 1319 EA1BJE          599 GU             EC7RC         599 AL            
+QSO:    7042 PSK        2022-03-12 1322 EA1BJE          599 GU             F4FSY         599 041           
+QSO:    7043 PSK        2022-03-12 1327 EA1BJE          599 GU             EA7GL         599 SE            
+QSO:    7043 PSK        2022-03-12 1331 EA1BJE          599 GU             F6ITD         599 006           
+QSO:    7044 PSK        2022-03-12 1357 EA1BJE          599 GU             EA5EX         599 MU            
+QSO:    7040 PSK        2022-03-12 1403 EA1BJE          599 GU             PD2PKM        599 059           
+QSO:    7044 PSK        2022-03-12 1420 EA1BJE          599 GU             EA3EA         599 B             
+QSO:    7042 PSK        2022-03-12 1433 EA1BJE          599 GU             F4GWY         599 041           
+QSO:    7042 PSK        2022-03-12 1435 EA1BJE          599 GU             EA1O          599 SG            
+QSO:    7040 PSK        2022-03-12 1440 EA1BJE          599 GU             EB5CUN        599 V             
+QSO:    7040 PSK        2022-03-12 1441 EA1BJE          599 GU             EA4DXP        599 TO            
+QSO:    7041 PSK        2022-03-12 1448 EA1BJE          599 GU             EA7YV         599 MA            
+QSO:    7042 PSK        2022-03-12 1505 EA1BJE          599 GU             EA3AQ         599 B             
+QSO:    7041 PSK        2022-03-12 1701 EA1BJE          599 GU             I0WBX         599 206           
+QSO:    7042 PSK        2022-03-12 1704 EA1BJE          599 GU             EA5EJG        599 A             
+QSO:    7042 PSK        2022-03-12 1704 EA1BJE          599 GU             EA7Q          599 H             
+QSO:    7042 PSK        2022-03-12 1706 EA1BJE          599 GU             EA7TG         599 GR            
+QSO:    7042 PSK        2022-03-12 1707 EA1BJE          599 GU             EA4EJR        599 BA            
+QSO:    7042 PSK        2022-03-12 1708 EA1BJE          599 GU             EA3DNC        599 B             
+QSO:    7041 PSK        2022-03-12 1711 EA1BJE          599 GU             EC5JC         599 A             
+QSO:    7040 PSK        2022-03-12 1712 EA1BJE          599 GU             EA2XR         599 BI            
+QSO:    7038 PSK        2022-03-12 1715 EA1BJE          599 GU             EB5CUZ        599 CS            
+QSO:    7038 PSK        2022-03-12 1716 EA1BJE          599 GU             F5RPN         599 033           
+QSO:    7038 PSK        2022-03-12 1717 EA1BJE          599 GU             EA4CO         599 M             
+QSO:    7039 PSK        2022-03-12 1720 EA1BJE          599 GU             G1P           599 100           
+QSO:    7040 PSK        2022-03-12 1721 EA1BJE          599 GU             ED3D          599 GI            
+QSO:    7039 PSK        2022-03-12 1724 EA1BJE          599 GU             DL3SYA        599 156           
+QSO:    7041 PSK        2022-03-12 1735 EA1BJE          599 GU             EA2ESK        599 Z             
+QSO:    7042 PSK        2022-03-12 1737 EA1BJE          599 GU             IK4XQT/4      599 098           
+QSO:    7042 PSK        2022-03-12 1738 EA1BJE          599 GU             EB1HRW        599 VA            
+QSO:    7042 PSK        2022-03-12 1739 EA1BJE          599 GU             EA3RP         599 B             
+QSO:    7042 PSK        2022-03-12 1739 EA1BJE          599 GU             EA3HCJ        599 T             
+QSO:    7042 PSK        2022-03-12 1740 EA1BJE          599 GU             CT7AJL        599 194           
+QSO:    7042 PSK        2022-03-12 1744 EA1BJE          599 GU             EA4BAS        599 M             
+QSO:    7044 PSK        2022-03-12 1755 EA1BJE          599 GU             EA1CH         599 OU            
+QSO:    7044 PSK        2022-03-12 1756 EA1BJE          599 GU             2E0INN        599 051           
+QSO:    7044 PSK        2022-03-12 1759 EA1BJE          599 GU             OE3RTB        599 014           
+QSO:    7044 PSK        2022-03-12 1800 EA1BJE          599 GU             EA5LU         599 MU            
+QSO:    7044 PSK        2022-03-12 1800 EA1BJE          599 GU             PA2JCB        599 035           
+QSO:    7044 PSK        2022-03-12 1804 EA1BJE          599 GU             EC7AT         599 AL            
+QSO:    7045 PSK        2022-03-12 1812 EA1BJE          599 GU             EA4URE        599 HQ            
+QSO:    7045 PSK        2022-03-12 1819 EA1BJE          599 GU             G4EBY         599 040           
+QSO:    7045 PSK        2022-03-12 1822 EA1BJE          599 GU             LY2F          599 107           
+QSO:    7043 PSK        2022-03-12 1826 EA1BJE          599 GU             DF2SD         599 125           
+QSO:    7042 PSK        2022-03-12 1833 EA1BJE          599 GU             IN3BFW        599 35            
+QSO:    7043 PSK        2022-03-12 1834 EA1BJE          599 GU             IV3KKW        599 178           
+QSO:    7042 PSK        2022-03-12 1835 EA1BJE          599 GU             EC6DX         599 IB            
+QSO:    7042 PSK        2022-03-12 1836 EA1BJE          599 GU             DM5WH         599 058           
+QSO:    7039 PSK        2022-03-12 1840 EA1BJE          599 GU             RA1QFU        599 183           
+QSO:    7039 PSK        2022-03-12 1905 EA1BJE          599 GU             EA1BAF        599 OU            
+QSO:    7040 PSK        2022-03-12 1913 EA1BJE          599 GU             ON6OM         599 81            
+QSO:    7043 PSK        2022-03-12 1923 EA1BJE          599 GU             F4GRW         599 118           
+QSO:    7043 PSK        2022-03-12 1926 EA1BJE          599 GU             EA2ESB        599 TE            
+QSO:    7042 PSK        2022-03-12 1927 EA1BJE          599 GU             IV3UHL        599 091           
+QSO:    7043 PSK        2022-03-12 1930 EA1BJE          599 GU             G4OZG         599 085           
+QSO:    7043 PSK        2022-03-12 1937 EA1BJE          599 GU             EA1G          599 O             
+QSO:    7045 PSK        2022-03-12 1938 EA1BJE          599 GU             F4ELU         599 070           
+QSO:    7045 PSK        2022-03-12 1940 EA1BJE          599 GU             PD0WVB        599 073           
+QSO:    7044 PSK        2022-03-12 1943 EA1BJE          599 GU             ED1R          599 AV            
+QSO:    7039 PSK        2022-03-12 1947 EA1BJE          599 GU             EA6SX         599 IB            
+QSO:    7040 PSK        2022-03-12 2228 EA1BJE          599 GU             HB9CAL        599 169           
+QSO:    7040 PSK        2022-03-12 2229 EA1BJE          599 GU             EA4Z          599 M             
+QSO:    7040 PSK        2022-03-12 2232 EA1BJE          599 GU             EA7IEZ        599 MA            
+QSO:    7041 PSK        2022-03-12 2234 EA1BJE          599 GU             EA2DR         599 VI            
+QSO:    7041 PSK        2022-03-12 2236 EA1BJE          599 GU             EA2ASB        599 BI            
+QSO:    7042 PSK        2022-03-12 2239 EA1BJE          599 GU             EA5DF         599 V             
+QSO:    7042 PSK        2022-03-12 2241 EA1BJE          599 GU             DL1EHG        599 093           
+QSO:    7042 PSK        2022-03-12 2243 EA1BJE          599 GU             ON7ET         599 048           
+QSO:    7042 PSK        2022-03-12 2243 EA1BJE          599 GU             DR7T          599 047           
+QSO:    7042 PSK        2022-03-12 2244 EA1BJE          599 GU             HG3FMZ        599 184           
+QSO:    7042 PSK        2022-03-12 2245 EA1BJE          599 GU             DL1EAL        599 055           
+QSO:    7045 PSK        2022-03-12 2255 EA1BJE          599 GU             IK2SBB        599 176           
+QSO:    7041 PSK        2022-03-12 2300 EA1BJE          599 GU             DG0CH         599 149           
+QSO:    7041 PSK        2022-03-12 2303 EA1BJE          599 GU             EA2CP         599 BI            
+QSO:    7044 PSK        2022-03-12 2313 EA1BJE          599 GU             SV1JFL        599 102           
+QSO:    7043 PSK        2022-03-12 2315 EA1BJE          599 GU             EA3AKA        599 T             
+QSO:    7042 PSK        2022-03-12 2319 EA1BJE          599 GU             SP9DLY        599 096           
+QSO:    7041 PSK        2022-03-13 0952 EA1BJE          599 GU             EB5EEV        599 V             
+QSO:    7041 PSK        2022-03-13 0953 EA1BJE          599 GU             F6AUS         599 096           
+QSO:    7041 PSK        2022-03-13 0956 EA1BJE          599 GU             EA1HRR        599 S             
+QSO:    7041 PSK        2022-03-13 0957 EA1BJE          599 GU             F1IWH         599 077           
+QSO:    7042 PSK        2022-03-13 1001 EA1BJE          599 GU             EA5FSJ        599 A             
+QSO:    7043 PSK        2022-03-13 1003 EA1BJE          599 GU             EA1OK         599 O             
+QSO:    7044 PSK        2022-03-13 1005 EA1BJE          599 GU             EA1IMW        599 O             
+QSO:    7041 PSK        2022-03-13 1008 EA1BJE          599 GU             EA1L          599 O             
+QSO:    7040 PSK        2022-03-13 1023 EA1BJE          599 GU             EA5FHC        599 V             
+QSO:    7041 PSK        2022-03-13 1028 EA1BJE          599 GU             EB1FE         599 O             
+QSO:    7041 PSK        2022-03-13 1030 EA1BJE          599 GU             EA2AR         599 NA            
+QSO:    7042 PSK        2022-03-13 1037 EA1BJE          599 GU             EA2EVC        599 NA            
+QSO:    7042 PSK        2022-03-13 1042 EA1BJE          599 GU             EB1RD         599 O             
+QSO:    7042 PSK        2022-03-13 1043 EA1BJE          599 GU             EA3NP         599 B             
+QSO:    7042 PSK        2022-03-13 1046 EA1BJE          599 GU             EA6EA         599 IB            
+QSO:    7043 PSK        2022-03-13 1053 EA1BJE          599 GU             EA3RM         599 B             
+QSO:    7039 PSK        2022-03-13 1058 EA1BJE          599 GU             EA3HKA        599 B             
+QSO:    7040 PSK        2022-03-13 1104 EA1BJE          599 GU             EA7IZ         599 MA            
+QSO:    7040 PSK        2022-03-13 1105 EA1BJE          599 GU             EA7KFX        599 CA            
+QSO:    7040 PSK        2022-03-13 1106 EA1BJE          599 GU             EA7FRX        599 CO            
+QSO:    7040 PSK        2022-03-13 1107 EA1BJE          599 GU             EA5ME         599 MU            
+QSO:    7044 PSK        2022-03-13 1115 EA1BJE          599 GU             EA4IF         599 TO            
+END-OF-LOG:

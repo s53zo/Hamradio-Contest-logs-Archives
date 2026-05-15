@@ -1,0 +1,94 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: AD9BT
+CATEGORY: SINGLE-OP ALL LOW
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 2760
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: COLIN ELLIS
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: AD9BT
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14092 RY         2023-04-01 1223 AD9BT           599 001  VE2RYY        599 015           
+QSO:   21082 RY         2023-04-01 1431 AD9BT           599 002  CO2XK         599 016           
+QSO:   21082 RY         2023-04-01 1452 AD9BT           599 003  EA2XR         599 BI            
+QSO:   21083 RY         2023-04-01 1454 AD9BT           599 004  PA3EWP        599 029     
+QSO:   21091 RY         2023-04-01 1515 AD9BT           599 005  MI0M          599 049           
+QSO:   21081 RY         2023-04-01 1523 AD9BT           599 006  EE1D          599 SO            
+QSO:   21087 RY         2023-04-01 1545 AD9BT           599 007  9A1A          599 180           
+QSO:   28087 RY         2023-04-01 1642 AD9BT           599 008  EA4URE        599 HQ            
+QSO:   14088 RY         2023-04-01 1705 AD9BT           599 009  W0IZ          599 008           
+QSO:   21098 RY         2023-04-01 1721 AD9BT           599 010  PZ5RA         599 138           
+QSO:   21088 RY         2023-04-01 1736 AD9BT           599 011  OZ11A         599 189           
+QSO:   21085 RY         2023-04-01 1740 AD9BT           599 012  DF8XC         599 072           
+QSO:   21095 RY         2023-04-01 1748 AD9BT           599 013  S53M          599 013           
+QSO:   21102 RY         2023-04-01 1803 AD9BT           599 014  EA7BP         599 SE            
+QSO:   21083 RY         2023-04-01 1807 AD9BT           599 015  KP4JRS        599 132           
+QSO:   21091 RY         2023-04-01 1836 AD9BT           599 016  W6SX          599 028           
+QSO:   21098 RY         2023-04-01 1841 AD9BT           599 017  I4JED         599 046           
+QSO:   21097 RY         2023-04-01 1902 AD9BT           599 018  ED1R          599 AV            
+QSO:   28100 RY         2023-04-01 1905 AD9BT           599 019  CX2AQ         599 101           
+QSO:   21085 RY         2023-04-01 1909 AD9BT           599 020  EA4URE        599 HQ            
+QSO:   21093 RY         2023-04-01 1911 AD9BT           599 021  EF5K          599 V             
+QSO:   21098 RY         2023-04-01 1933 AD9BT           599 022  CX7SS         599 160           
+QSO:   21099 RY         2023-04-01 1934 AD9BT           599 023  HI3MM         599 066            
+QSO:   21087 RY         2023-04-01 1937 AD9BT           599 024  K5AM          599 022           
+QSO:   21090 RY         2023-04-01 1956 AD9BT           599 025  9A5D          599 033            
+QSO:   14087 RY         2023-04-01 2345 AD9BT           599 026  HZ1TT/QRP     599 105           
+QSO:   14086 RY         2023-04-01 2349 AD9BT           599 027  K5AM          599 070           
+QSO:   14090 RY         2023-04-01 2351 AD9BT           599 028  EA2ESB        599 TE                      
+QSO:   28094 RY         2023-04-02 0000 AD9BT           599 030  LU4HK         599 095           
+QSO:   14099 RY         2023-04-02 0008 AD9BT           599 031  PY5AMF        599 191           
+QSO:    7047 RY         2023-04-02 0014 AD9BT           599 032  NK4I          599 163           
+QSO:    7054 RY         2023-04-02 0021 AD9BT           599 033  ED1R          599 AV            
+QSO:    7054 RY         2023-04-02 0022 AD9BT           599 034  W4PK          599 267           
+QSO:    7058 RY         2023-04-02 0025 AD9BT           599 035  W3FIZ         599 283           
+QSO:    7046 RY         2023-04-02 0029 AD9BT           599 036  AD4TJ         599 142           
+QSO:    7050 RY         2023-04-02 0034 AD9BT           599 037  VE2BVV        599 322                        
+QSO:    7043 RY         2023-04-02 0046 AD9BT           599 039  9A1A          599 432           
+QSO:    7055 RY         2023-04-02 0050 AD9BT           599 040  K9OM          599 69            
+QSO:    7059 RY         2023-04-02 0056 AD9BT           599 041  KW4CW         599 009           
+QSO:    7045 RY         2023-04-02 0057 AD9BT           599 042  KG4IGC        599 114           
+QSO:    7060 RY         2023-04-02 0103 AD9BT           599 043  K4RUM         599 155           
+QSO:    7064 RY         2023-04-02 0112 AD9BT           599 044  N2BJ          599 044           
+END-OF-LOG:

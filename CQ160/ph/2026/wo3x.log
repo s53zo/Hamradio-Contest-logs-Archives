@@ -1,0 +1,42 @@
+START-OF-LOG: 3.0
+CONTEST: CQ-160-SSB
+CALLSIGN: WO3X
+LOCATION: OH
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: 160M
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CATEGORY-TRANSMITTER: ONE
+GRID-LOCATOR: EN91FD
+CLAIMED-SCORE: 564
+NAME: John Grazulis
+OPERATORS: WO3X
+CLUB: CUYAHOGA FALLS ARC
+CREATED-BY: N1MM Logger+ 1.0.11118.0
+SOAPBOX: I was able to transmit over a wider frequency range than I had
+SOAPBOX: anticipated.
+SOAPBOX: The antenna is a 30 feet tall tower and 10 feet mast with a #10 AWG insulated shunt wire connected to the tower at 20 feet up from the bottom by an aluminum angle 1 inch by 1 inch, long enough to be bolted to the tower and have the shunt wire 15 inches away from the tower. The bottom of the tower is grounded and that is the common point for the variable shunt capacitor and the coaxial cable shield. Near the bottom, the shunt wire goes through a hole in a 2 inch plastic pipe that keeps the bottom of the shunt wire 15 inches away from the tower, provides tension on the shunt wire, and provides a point to connect the shunt capacitor and the series capacitor which are both manually adjusted. The series capacitor is connected to the shunt wire and the other end of the series capacitor goes to the coaxial cable connector center. Using an MFJ259B, the two capacitors were adjusted to provide a 1:1 SWR from 1895 kHz to 1900 kHz and a 3:1 SWR from 1880 kHz to 1912 kHz. Operation outside that frequency range was achieved by using the automatic tuner in the transceiver, an ICOM IC-7600, but at lower power.
+QSO:    1884 PH 2026-02-28 0117 WO3X             59  OH    ND8DX            59   OH       
+QSO:    1876 PH 2026-02-28 0125 WO3X             59  OH    N2HMM            59   NJ       
+QSO:    1896 PH 2026-02-28 0142 WO3X             59  OH    VE3PN            59   ON       
+QSO:    1893 PH 2026-02-28 0144 WO3X             59  OH    N8KR             59   IN       
+QSO:    1876 PH 2026-02-28 0154 WO3X             59  OH    W2MKM            59   NJ       
+QSO:    1874 PH 2026-02-28 0203 WO3X             59  OH    NO9E             59   GA       
+QSO:    1887 PH 2026-02-28 0213 WO3X             59  OH    WB4MSG           59   NC       
+QSO:    1889 PH 2026-02-28 0218 WO3X             59  OH    N8CWU            59   OH       
+QSO:    1879 PH 2026-02-28 0232 WO3X             59  OH    WA8RCN           59   OH       
+QSO:    1894 PH 2026-02-28 0236 WO3X             59  OH    N4HB             59   VA       
+QSO:    1868 PH 2026-02-28 0252 WO3X             59  OH    W5MX             59   KY       
+QSO:    1859 PH 2026-02-28 0256 WO3X             59  OH    K3ZM             59   VA       
+QSO:    1875 PH 2026-02-28 0314 WO3X             59  OH    K1FMS            59   MA       
+QSO:    1898 PH 2026-02-28 0357 WO3X             59  OH    N2CEI            59   FL       
+QSO:    1874 PH 2026-02-28 0406 WO3X             59  OH    AA2MU            59   NY       
+QSO:    1864 PH 2026-02-28 0410 WO3X             59  OH    N0YY             59   VA       
+QSO:    1923 PH 2026-02-28 0425 WO3X             59  OH    WT9U             59   OH       
+QSO:    1873 PH 2026-03-01 0401 WO3X             59  OH    K9SG             59   IN       
+QSO:    1891 PH 2026-03-01 0404 WO3X             59  OH    W2CG             59   NJ       
+QSO:    1900 PH 2026-03-01 0414 WO3X             59  OH    KE2AY            59   NY       
+QSO:    1856 PH 2026-03-01 0507 WO3X             59  OH    K3LL             59   PA       
+QSO:    1868 PH 2026-03-01 0511 WO3X             59  OH    K3TS             59   OH       
+END-OF-LOG:

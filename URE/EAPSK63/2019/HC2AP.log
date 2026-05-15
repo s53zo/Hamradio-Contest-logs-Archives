@@ -1,0 +1,105 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.01
+
+# The callsign used during the contest.
+CALLSIGN: HC2AP
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 20M, 10M
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: MIXED BPSK63
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: HQ
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 24-HOURS
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: ROOKIE
+
+# Integer number
+CLAIMED-SCORE: 357
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: GUAYAQUIL RADIO CLUB
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: FI07au, GUAYAQUIL, GUAYAS, ECUADOR
+
+# Operator name
+NAME: AHMED
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: HC2AP
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 2019-03-09 1630 2019-03-10 1600
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14071 RY 2019-03-09 1656 HC2AP           599 001             KK4HEG        599 003           
+QSO:   14071 RY 2019-03-09 1657 HC2AP           599 002             CO3GD         599 003           
+QSO:   14072 RY 2019-03-09 1703 HC2AP           599 003             CO6RD         599 006 006       
+QSO:   14072 RY 2019-03-09 1703 HC2AP           599 004             CO6RD         599 003 006 006   
+QSO:   14072 RY 2019-03-09 1703 HC2AP           599 003             CO6RD         599 006 006 006   
+QSO:   14071 RY 2019-03-09 1756 HC2AP           599 004             OP4K          599 012           
+QSO:   14071 RY 2019-03-09 1756 HC2AP           599 004             OP4K          599 012           
+QSO:   14071 RY 2019-03-09 1800 HC2AP           599 005             N6AS          599 047 047 047   
+QSO:   14071 RY 2019-03-09 1800 HC2AP           599 005             N6AS          599 047 047 047   
+QSO:   14072 RY 2019-03-09 1915 HC2AP           599 006             EA1YO         599 5NN 5NN       
+QSO:   14072 RY 2019-03-09 1922 HC2AP           599 007             PZ5RA         599 113           
+QSO:   14072 RY 2019-03-09 1924 HC2AP           599 007             PZ5RA         599 113           
+QSO:   14071 RY 2019-03-09 1936 HC2AP           599 008             CO3GD         599 011           
+QSO:   14071 RY 2019-03-09 1936 HC2AP           599 008             CO3GD         599 011           
+QSO:   14071 RY 2019-03-09 1938 HC2AP           599 009             EA4GOY        599 599           
+QSO:   14071 RY 2019-03-09 1938 HC2AP           599 009             EA4GOY        599 599 TO        
+QSO:   14071 RY 2019-03-09 1939 HC2AP           599 010             K1MAA         599 023           
+QSO:   14071 RY 2019-03-09 1939 HC2AP           599 010             K1MAA         599 023           
+QSO:   14071 RY 2019-03-09 1942 HC2AP           599 011             EF5T          599 599 MU        
+QSO:   14071 RY 2019-03-09 1942 HC2AP           599 011             EF5T          599 599 MU        
+QSO:   14071 RY 2019-03-09 1946 HC2AP           599 012             NC4MI         599 016           
+QSO:   14071 RY 2019-03-09 1956 HC2AP           599 013             EA5BN         599 599 GA 599 599
+QSO:   28070 RY 2019-03-09 2005 HC2AP           599 014             EF8W          599 599 TF        
+QSO:   14071 RY 2019-03-09 2033 HC2AP           599 015             K8SD          599 002           
+QSO:   14071 RY 2019-03-09 2033 HC2AP           599 016             KD5JHE        599 599           
+QSO:   14071 RY 2019-03-09 2035 HC2AP           599 017             EA1MI         599 599 SG         
+QSO:   14071 RY 2019-03-09 2037 HC2AP           599 018             LZ2JA         599 599           
+QSO:   14071 RY 2019-03-09 2038 HC2AP           599 019             WB2COY        599 020           
+QSO:   14071 RY 2019-03-09 2057 HC2AP           599 020             CE1LTL        599 55            
+QSO:   14071 RY 2019-03-09 2112 HC2AP           599 021             KC9W          599 599           
+QSO:   14071 RY 2019-03-09 2119 HC2AP           599 022             EA8/HB9T      599 59 TF         
+QSO:   14071 RY 2019-03-09 2121 HC2AP           599 023             AK4FC         599 599           
+QSO:   14071 RY 2019-03-09 2123 HC2AP           599 024             AI4WW         599 010           
+QSO:   14071 RY 2019-03-09 2131 HC2AP           599 025             EA1BDX        599 599 CC AP     
+QSO:   14071 RY 2019-03-09 2136 HC2AP           599 026             N1MGO         599 008           
+QSO:   14072 RY 2019-03-10 1510 HC2AP           599 027             EA2ASB        599 599 BI BI     
+QSO:   14071 RY 2019-03-10 1528 HC2AP           599 028             HB9CA         599 73ce 73ce     
+END-OF-LOG:

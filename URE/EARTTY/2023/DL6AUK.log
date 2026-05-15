@@ -1,0 +1,100 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.25
+
+# The callsign used during the contest.
+CALLSIGN: DL6AUK
+CATEGORY: SINGLE-OP ALL LOW
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 1624
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: Ronald
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: DL6AUK
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 2023-04-01 2300 2023-04-02 0600
+
+# Soapbox comments.
+SOAPBOX: my first RTTY contest
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   28088 RY         2023-04-02 1054 DL6AUK          599 040             RW4W          599 146           
+QSO:   28104 RY         2023-04-02 1051 DL6AUK          599 039             CX2AQ         599 155           
+QSO:   28098 RY         2023-04-02 1044 DL6AUK          599 038             PP5FZ         599 90            
+QSO:   28101 RY         2023-04-02 1032 DL6AUK          599 037             RN3QQT        599 269           
+QSO:   28091 RY         2023-04-02 1027 DL6AUK          599 036             RT6DI         599 247           
+QSO:   28089 RY         2023-04-02 1025 DL6AUK          599 035             SV9SIT        599 035           
+QSO:   28100 RY         2023-04-02 1022 DL6AUK          599 034             UA4CC         599 119           
+QSO:   28095 RY         2023-04-02 1019 DL6AUK          599 033             UW1M          599 1301          
+QSO:   21099 RY         2023-04-02 0959 DL6AUK          599 032             EE4Y          599 TO            
+QSO:   21114 RY         2023-04-02 0954 DL6AUK          599 031             R3LC          599 100           
+QSO:   21107 RY         2023-04-02 0952 DL6AUK          599 030             SV2AEL        599 615           
+QSO:   21097 RY         2023-04-02 0946 DL6AUK          599 029             R3KCW         599 159           
+QSO:   21085 RY         2023-04-02 0912 DL6AUK          599 028             RW4HBG        599 345           
+QSO:   21084 RY         2023-04-02 0909 DL6AUK          599 027             UR7CB         599 085           
+QSO:   21104 RY         2023-04-02 0907 DL6AUK          599 026             ED4J          599 CR            
+QSO:   21106 RY         2023-04-02 0904 DL6AUK          599 025             R7MM          599 515           
+QSO:   21105 RY         2023-04-02 0902 DL6AUK          599 024             EA8CNR        599 MA            
+QSO:   21091 RY         2023-04-02 0855 DL6AUK          599 023             LZ1ZM         599 366           
+QSO:   21089 RY         2023-04-02 0850 DL6AUK          599 022             CT7/PA3GCU    599 336           
+QSO:   21087 RY         2023-04-02 0846 DL6AUK          599 021             UW1M          599 1174          
+QSO:   28093 RY         2023-04-02 0751 DL6AUK          599 020             EA8DHH        599 TF            
+QSO:   21087 RY         2023-04-02 0741 DL6AUK          599 019             RG4A          599 360           
+QSO:   21080 RY         2023-04-02 0611 DL6AUK          599 018             RG9A          599 018           
+QSO:   21086 RY         2023-04-01 1709 DL6AUK          599 017             EA4URE        599 HQ            
+QSO:   21101 RY         2023-04-01 1707 DL6AUK          599 016             K3MM          599 146           
+QSO:   21093 RY         2023-04-01 1656 DL6AUK          599 015             R2XM          599 123              
+QSO:   21088 RY         2023-04-01 1653 DL6AUK          599 014             9A5Y          599 192           
+QSO:   28084 RY         2023-04-01 1643 DL6AUK          599 013             PZ5RA         599 013           
+QSO:   28089 RY         2023-04-01 1632 DL6AUK          599 012             PY3LX         599 096           
+QSO:   28094 RY         2023-04-01 1630 DL6AUK          599 011             PY3TD         599 048           
+QSO:   28099 RY         2023-04-01 1628 DL6AUK          599 010             EA8AH         599 GC            
+QSO:   21099 RY         2023-04-01 1622 DL6AUK          599 009             SV8DCY        599 018           
+QSO:   21094 RY         2023-04-01 1613 DL6AUK          599 008             UA4CC         599 049           
+QSO:   21085 RY         2023-04-01 1610 DL6AUK          599 007             EA7HAB        599 GR            
+QSO:   21083 RY         2023-04-01 1607 DL6AUK          599 006             ED7B          599 CO            
+QSO:   21088 RY         2023-04-01 1319 DL6AUK          599 005             UA0OK         599 046           
+QSO:   21086 RY         2023-04-01 1317 DL6AUK          599 004             OG16M         599 017           
+QSO:   21083 RY         2023-04-01 1258 DL6AUK          599 003             EA7BP         599 SE            
+QSO:   21092 RY         2023-04-01 1241 DL6AUK          599 002             OG66X         599 015           
+QSO:   21095 RY         2023-04-01 1229 DL6AUK          599 001             R8XF          599 020           
+END-OF-LOG:

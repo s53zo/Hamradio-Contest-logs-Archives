@@ -1,0 +1,197 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.07
+
+ARRL-SECTION: DX
+
+# The callsign used during the contest.
+CALLSIGN: HA1TIB
+
+CATEGORY: SINGLE-OP 40M
+
+CATEGORY-BAND: 40M 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP 40M
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Integer number
+CLAIMED-SCORE: 10752
+
+CLUB: 
+
+CONTEST: EA-PSK63
+
+
+# Operator name
+NAME: TIBOR
+
+
+OPERATORS: HA1TIB
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+     
+QSO:    7040 PS 2020-03-14 1606 HA1TIB          599 001             RQ2Q          599 001           
+QSO:    7040 PS 2020-03-14 1607 HA1TIB          599 002             UR5SD         599 005           
+QSO:    7040 PS 2020-03-14 1607 HA1TIB          599 003             IK2SBB        599 002           
+QSO:    7040 PS 2020-03-14 1608 HA1TIB          599 004             F5QJ          599 003           
+QSO:    7040 PS 2020-03-14 1609 HA1TIB          599 005             HB9CAL        599 001           
+QSO:    7040 PS 2020-03-14 1611 HA1TIB          599 006             IK2IKW        599 004           
+QSO:    7040 PS 2020-03-14 1612 HA1TIB          599 007             TA2JU         599 003           
+QSO:    7040 PS 2020-03-14 1614 HA1TIB          599 008             SP5BUJ        599 003           
+QSO:    7040 PS 2020-03-14 1615 HA1TIB          599 009             DB4LL         599 004           
+QSO:    7040 PS 2020-03-14 1616 HA1TIB          599 010             R3EK          599 007           
+QSO:    7040 PS 2020-03-14 1617 HA1TIB          599 011             UT4UFU        599 006           
+QSO:    7040 PS 2020-03-14 1620 HA1TIB          599 012             RV3ZN         599 013           
+QSO:    7040 PS 2020-03-14 1620 HA1TIB          599 013             RA1ALC        599 014           
+QSO:    7040 PS 2020-03-14 1624 HA1TIB          599 014             DL1FCU        599 001           
+QSO:    7040 PS 2020-03-14 1630 HA1TIB          599 015             YO9GSB        599 017           
+QSO:    7041 PS 2020-03-14 1634 HA1TIB          599 016             US7KC         599 027           
+QSO:    7040 PS 2020-03-14 1635 HA1TIB          599 017             UT2GA         599 024           
+QSO:    7040 PS 2020-03-14 1635 HA1TIB          599 018             UA3XO         599 008           
+QSO:    7040 PS 2020-03-14 1638 HA1TIB          599 019             R7LY          599 012           
+QSO:    7040 PS 2020-03-14 1640 HA1TIB          599 020             SP5TAZ        599 009           
+QSO:    7040 PS 2020-03-14 1643 HA1TIB          599 021             EU8F          599 010           
+QSO:    7040 PS 2020-03-14 1643 HA1TIB          599 022             R4OF          599 016           
+QSO:    7040 PS 2020-03-14 1650 HA1TIB          599 024             9A1FL         599 023           
+QSO:    7039 PS 2020-03-14 1656 HA1TIB          599 025             RA4HL         599 035           
+QSO:    7039 PS 2020-03-14 1657 HA1TIB          599 026             DK6OR         599 037           
+QSO:    7042 PS 2020-03-14 1715 HA1TIB          599 028             DL1JPF        599 030           
+QSO:    7042 PS 2020-03-14 1716 HA1TIB          599 029             DL9FB         599 007           
+QSO:    7042 PS 2020-03-14 1716 HA1TIB          599 030             SP4BPH        599 039           
+QSO:    7042 PS 2020-03-14 1719 HA1TIB          599 031             UR4MVK        599 008           
+QSO:    7042 PS 2020-03-14 1720 HA1TIB          599 032             DL4ME         599 048           
+QSO:    7042 PS 2020-03-14 1721 HA1TIB          599 033             DG6UAX        599 011           
+QSO:    7042 PS 2020-03-14 1722 HA1TIB          599 034             EE5O          599 CS            
+QSO:    7042 PS 2020-03-14 1723 HA1TIB          599 035             F5PVK         599 020           
+QSO:    7042 PS 2020-03-14 1725 HA1TIB          599 036             UA4NF         599 006           
+QSO:    7040 PS 2020-03-14 1743 HA1TIB          599 037             RA1QFU        599 055           
+QSO:    7042 PS 2020-03-14 1747 HA1TIB          599 039             DJ4WM         599 026           
+QSO:    7042 PS 2020-03-14 1752 HA1TIB          599 040             PF6X          599 026           
+QSO:    7042 PS 2020-03-14 1754 HA1TIB          599 041             OO3O          599 062           
+QSO:    7042 PS 2020-03-14 1755 HA1TIB          599 042             UC4I          599 035           
+QSO:    7042 PS 2020-03-14 1756 HA1TIB          599 043             SP4LVK        599 032           
+QSO:    7042 PS 2020-03-14 1757 HA1TIB          599 044             UR5ZEP        599 028           
+QSO:    7040 PS 2020-03-14 1809 HA1TIB          599 045             LY2PAD        599 038           
+QSO:    7041 PS 2020-03-14 1812 HA1TIB          599 046             EF5M          599 A             
+QSO:    7041 PS 2020-03-14 1814 HA1TIB          599 047             DL1RI         599 029           
+QSO:    7042 PS 2020-03-14 1815 HA1TIB          599 048             EC7AT         599 AL            
+QSO:    7043 PS 2020-03-14 1823 HA1TIB          599 049             IV3KKW        599 087           
+QSO:    7043 PS 2020-03-14 1825 HA1TIB          599 050             EA7KI         599 MA            
+QSO:    7044 PS 2020-03-14 1827 HA1TIB          599 051             SF1Z          599 045           
+QSO:    7043 PS 2020-03-14 1828 HA1TIB          599 052             M0DPK         599 044           
+QSO:    7043 PS 2020-03-14 1830 HA1TIB          599 053             HB9OCR        599 023           
+QSO:    7042 PS 2020-03-14 1831 HA1TIB          599 054             IN3BFW        599 013             
+QSO:    7042 PS 2020-03-14 1848 HA1TIB          599 055             US5ZFT        599 025           
+QSO:    7041 PS 2020-03-14 1850 HA1TIB          599 056             DL3SYA        599 105           
+QSO:    7041 PS 2020-03-14 2012 HA1TIB          599 057             EC5JC         599 A             
+QSO:    7040 PS 2020-03-14 2014 HA1TIB          599 058             EA5XC         599 A             
+QSO:    7040 PS 2020-03-14 2015 HA1TIB          599 059             SE4E          599 144           
+QSO:    7042 PS 2020-03-14 2017 HA1TIB          599 060             EB2DJ         599 BI            
+QSO:    7040 PS 2020-03-14 2026 HA1TIB          599 061             OT7D          599 056           
+QSO:    7042 PS 2020-03-14 2031 HA1TIB          599 063             C31MF         599 077           
+QSO:    7043 PS 2020-03-14 2034 HA1TIB          599 064             EA2DDE        599 NA            
+QSO:    7044 PS 2020-03-14 2037 HA1TIB          599 065             LZ5K          599 160           
+QSO:    7043 PS 2020-03-14 2040 HA1TIB          599 066             EA1AIW        599 O13             
+QSO:    7042 PS 2020-03-14 2042 HA1TIB          599 067             G3SNU         599 084           
+QSO:    7041 PS 2020-03-14 2049 HA1TIB          599 068             R3WA          599 041           
+QSO:    7041 PS 2020-03-14 2050 HA1TIB          599 069             RN5AA         599 131           
+QSO:    7041 PS 2020-03-14 2050 HA1TIB          599 070             EA5ASU        599 A             
+QSO:    7041 PS 2020-03-14 2051 HA1TIB          599 071             RN3PB         599 024           
+QSO:    7041 PS 2020-03-14 2054 HA1TIB          599 072             EA1GQ         599 LO            
+QSO:    7040 PS 2020-03-14 2110 HA1TIB          599 073             EA4BAS        599 M             
+QSO:    7041 PS 2020-03-14 2142 HA1TIB          599 074             EB3EOO        599 M             
+QSO:    7042 PS 2020-03-14 2144 HA1TIB          599 075             EA4FVG        599 M             
+QSO:    7042 PS 2020-03-14 2146 HA1TIB          599 076             TA4RC         599 003           
+QSO:    7041 PS 2020-03-14 2150 HA1TIB          599 077             EB5A          599 A             
+QSO:    7044 PS 2020-03-14 2155 HA1TIB          599 078             EA4GEL        599 M             
+QSO:    7043 PS 2020-03-14 2157 HA1TIB          599 079             UX7QV         599 150           
+QSO:    7040 PS 2020-03-14 2202 HA1TIB          599 080             EA5CH         599 A             
+QSO:    7040 PS 2020-03-14 2203 HA1TIB          599 081             EA5IY         599 CS            
+QSO:    7044 PS 2020-03-14 2216 HA1TIB          599 082             EA1BAF        599 OU            
+QSO:    7041 PS 2020-03-14 2220 HA1TIB          599 083             EA1CHG        599 ZA            
+QSO:    7041 PS 2020-03-14 2222 HA1TIB          599 084             EA1CIU        599 PO            
+QSO:    7041 PS 2020-03-14 2223 HA1TIB          599 085             G4OZG         599 060           
+QSO:    7041 PS 2020-03-14 2224 HA1TIB          599 086             EB1ADD        599 PO            
+QSO:    7041 PS 2020-03-14 2225 HA1TIB          599 087             EA5GOR        599 A             
+QSO:    7041 PS 2020-03-14 2226 HA1TIB          599 088             EB5CUN        599 013              
+QSO:    7041 PS 2020-03-14 2227 HA1TIB          599 089             EA4U          599 M             
+QSO:    7042 PS 2020-03-14 2238 HA1TIB          599 090             EA4C          599 BA            
+QSO:    7043 PS 2020-03-14 2241 HA1TIB          599 091             2E0CVN        599 088           
+QSO:    7041 PS 2020-03-14 2251 HA1TIB          599 092             EA4Z          599 M             
+QSO:    7041 PS 2020-03-14 2253 HA1TIB          599 093             EA7IP         599 SE            
+QSO:    7042 PS 2020-03-14 2255 HA1TIB          599 094             EA8/HB9FIH    599 TF            
+QSO:    7043 PS 2020-03-14 2257 HA1TIB          599 095             EA7KHB        599 CO            
+QSO:    7041 PS 2020-03-14 2259 HA1TIB          599 096             EC1DD         599 PO            
+QSO:    7041 PS 2020-03-14 2301 HA1TIB          599 097             EA4GOY        599 TO            
+QSO:    7040 PS 2020-03-14 2303 HA1TIB          599 098             EA7IEZ        599 MA            
+QSO:    7039 PS 2020-03-14 2305 HA1TIB          599 099             EI3JE         599 302           
+QSO:    7040 PS 2020-03-14 2309 HA1TIB          599 101             N2HMM         599 097           
+QSO:    7040 PS 2020-03-14 2310 HA1TIB          599 102             EA2KK         599 BI            
+QSO:    7040 PS 2020-03-15 0531 HA1TIB          599 103             RX6BH         599 077           
+QSO:    7040 PS 2020-03-15 0532 HA1TIB          599 104             RW3ZA         599 044           
+QSO:    7040 PS 2020-03-15 0533 HA1TIB          599 105             EA5IQO        599 MU            
+QSO:    7040 PS 2020-03-15 0535 HA1TIB          599 106             UX1CN         599 103           
+QSO:    7040 PS 2020-03-15 0537 HA1TIB          599 108             EA3IAZ        599 GI            
+QSO:    7040 PS 2020-03-15 0539 HA1TIB          599 109             EB2CTA        599 VI            
+QSO:    7040 PS 2020-03-15 0542 HA1TIB          599 110             LZ3QE         599 017           
+QSO:    7043 PS 2020-03-15 0917 HA1TIB          599 111             F6EQZ         599 047           
+QSO:    7042 PS 2020-03-15 0920 HA1TIB          599 112             HB9CAT        599 073           
+QSO:    7044 PS 2020-03-15 0922 HA1TIB          599 113             ED3D          599 GI            
+QSO:    7041 PS 2020-03-15 0928 HA1TIB          599 114             IK5FKF        599 111           
+QSO:    7041 PS 2020-03-15 0939 HA1TIB          599 115             DG6ME         599 061           
+QSO:    7041 PS 2020-03-15 0942 HA1TIB          599 116             SQ2TOM        599 013              
+QSO:    7042 PS 2020-03-15 1015 HA1TIB          599 117             EA3GCT        599 B             
+QSO:    7042 PS 2020-03-15 1016 HA1TIB          599 118             IK2MXM        599 010           
+QSO:    7044 PS 2020-03-15 1028 HA1TIB          599 119             DL2GMK        599 062           
+QSO:    7043 PS 2020-03-15 1030 HA1TIB          599 120             DL7AOJ        599 033           
+QSO:    7043 PS 2020-03-15 1031 HA1TIB          599 121             IW1CBG        599 047           
+QSO:    7040 PS 2020-03-15 1037 HA1TIB          599 122             EA2A          599 161           
+QSO:    7042 PS 2020-03-15 1051 HA1TIB          599 123             EA3X          599 B             
+QSO:    7041 PS 2020-03-15 1059 HA1TIB          599 124             OP4K          599 165           
+QSO:    7043 PS 2020-03-15 1203 HA1TIB          599 125             SP5UUD        599 13            
+QSO:    7045 PS 2020-03-15 1204 HA1TIB          599 126             I2XLF         599 145           
+QSO:    7040 PS 2020-03-15 1222 HA1TIB          599 127             IK8IOO        599 150           
+QSO:    7042 PS 2020-03-15 1227 HA1TIB          599 128             G3L           599 051           
+QSO:    7042 PS 2020-03-15 1434 HA1TIB          599 129             R4CI          599 096           
+QSO:    7042 PS 2020-03-15 1435 HA1TIB          599 130             UR5EPV        599 062           
+QSO:    7042 PS 2020-03-15 1435 HA1TIB          599 131             UY7MM         599 207           
+QSO:    7042 PS 2020-03-15 1436 HA1TIB          599 132             PD4JUF        599 066            
+QSO:    7042 PS 2020-03-15 1437 HA1TIB          599 133             DL4KW         599 084           
+QSO:    7042 PS 2020-03-15 1441 HA1TIB          599 134             M2E           599 098           
+QSO:    7042 PS 2020-03-15 1441 HA1TIB          599 135             DL5KUD        599 196           
+QSO:    7042 PS 2020-03-15 1442 HA1TIB          599 136             SQ5AKY        599 062           
+QSO:    7042 PS 2020-03-15 1446 HA1TIB          599 137             RA4L          599 093           
+QSO:    7042 PS 2020-03-15 1447 HA1TIB          599 138             G1P           599 200           
+QSO:    7042 PS 2020-03-15 1449 HA1TIB          599 139             EA3F          599 141           
+QSO:    7042 PS 2020-03-15 1449 HA1TIB          599 140             UT2SW         599 142           
+QSO:    7042 PS 2020-03-15 1450 HA1TIB          599 141             SP1DOZ        599 127           
+QSO:    7042 PS 2020-03-15 1453 HA1TIB          599 142             SO50WD        599 096           
+QSO:    7042 PS 2020-03-15 1453 HA1TIB          599 143             M0TQR         599 106           
+QSO:    7042 PS 2020-03-15 1456 HA1TIB          599 144             DL1YCF        599 003           
+QSO:    7042 PS 2020-03-15 1458 HA1TIB          599 145             IK4JQQ        599 088           
+QSO:    7044 PS 2020-03-15 1504 HA1TIB          599 146             IN3FOI        599 286           
+QSO:    7043 PS 2020-03-15 1506 HA1TIB          599 147             IW3FVZ        599 283           
+QSO:    7042 PS 2020-03-15 1509 HA1TIB          599 148             UR5ICG        599 204           
+QSO:    7040 PS 2020-03-15 1510 HA1TIB          599 149             IK8IOO        599 013              
+QSO:    7040 PS 2020-03-15 1512 HA1TIB          599 150             IU3MDI        599 034           
+QSO:    7039 PS 2020-03-15 1533 HA1TIB          599 151             IK2SND        599 017            
+QSO:    7039 PS 2020-03-15 1534 HA1TIB          599 153             EW6FW         599 079           
+QSO:    7039 PS 2020-03-15 1535 HA1TIB          599 154             DL6ABN        599 074           
+QSO:    7039 PS 2020-03-15 1541 HA1TIB          599 155             IW3IOD        599 299           
+QSO:    7039 PS 2020-03-15 1543 HA1TIB          599 156             RA3E          599 103           
+QSO:    7039 PS 2020-03-15 1549 HA1TIB          599 157             R3FO          599 329           
+QSO:    7039 PS 2020-03-15 1552 HA1TIB          599 158             UR5FBM        599 238           
+QSO:    7040 PS 2020-03-15 1556 HA1TIB          599 159             PA3DBS        599 304           
+QSO:    7041 PS 2020-03-15 1559 HA1TIB          599 160             ES1BH         599 076            
+END-OF-LOG:

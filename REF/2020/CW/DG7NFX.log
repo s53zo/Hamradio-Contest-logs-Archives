@@ -1,0 +1,119 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.0.17
+
+# The callsign used during the contest.
+CALLSIGN: DG7NFX
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: CW
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY-OPERATOR: SINGLE-OP
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: HIGH
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+
+# Operator name
+NAME: Ulrich Gonter-Linz
+
+QSO:    3545 CW 2020-01-25 0704 DG7NFX          599 001             F6REF         599 00            
+QSO:    3540 CW 2020-01-25 0705 DG7NFX          599 002             F6KPQ         599 56            
+QSO:    3539 CW 2020-01-25 0706 DG7NFX          599 003             TM8SN         599 15            
+QSO:    3537 CW 2020-01-25 0707 DG7NFX          599 004             F4KKZ         599 12            
+QSO:    3535 CW 2020-01-25 0708 DG7NFX          599 005             F6FYA         599 37            
+QSO:    3532 CW 2020-01-25 0712 DG7NFX          599 006             TM4K          599 03            
+QSO:    3532 CW 2020-01-25 0713 DG7NFX          599 007             F5UTN         599 27            
+QSO:    3526 CW 2020-01-25 0718 DG7NFX          599 008             F4DXW         599 29            
+QSO:    3525 CW 2020-01-25 0718 DG7NFX          599 009             F8KCF         599 74            
+QSO:    3521 CW 2020-01-25 0720 DG7NFX          599 010             F6KNB         599 33            
+QSO:    3522 CW 2020-01-25 0721 DG7NFX          599 011             F5SKW         599 68            
+QSO:    3522 CW 2020-01-25 0723 DG7NFX          599 012             F8KGW         599 35            
+QSO:    3517 CW 2020-01-25 0726 DG7NFX          599 013             F6KLO         599 19            
+QSO:    3512 CW 2020-01-25 0729 DG7NFX          599 014             F6KRK         599 78            
+QSO:    3511 CW 2020-01-25 0731 DG7NFX          599 015             F6GCT         599 77            
+QSO:    3510 CW 2020-01-25 0736 DG7NFX          599 016             F5IN          599 45            
+QSO:    3508 CW 2020-01-25 0737 DG7NFX          599 017             TM0DX         599 38            
+QSO:    3509 CW 2020-01-25 0741 DG7NFX          599 018             F6DYX         599 49            
+QSO:    3514 CW 2020-01-25 0743 DG7NFX          599 019             F6KDL         599 68            
+QSO:    3517 CW 2020-01-25 0745 DG7NFX          599 020             F5UQE         599 59            
+QSO:    3518 CW 2020-01-25 0746 DG7NFX          599 021             F5KMB         599 60            
+QSO:    3519 CW 2020-01-25 0748 DG7NFX          599 022             F6FTB         599 21            
+QSO:    3526 CW 2020-01-25 0752 DG7NFX          599 023             F8KGS         599 59            
+QSO:    3528 CW 2020-01-25 0754 DG7NFX          599 024             F8BUO         599 68            
+QSO:    3542 CW 2020-01-25 0758 DG7NFX          599 025             F4KIP         599 57            
+QSO:    3541 CW 2020-01-25 0759 DG7NFX          599 026             F4KLC         599 21            
+QSO:    3542 CW 2020-01-25 0801 DG7NFX          599 027             F5OHM         599 36            
+QSO:    3546 CW 2020-01-25 0802 DG7NFX          599 028             F4KKZ         599 12            
+QSO:    3551 CW 2020-01-25 0804 DG7NFX          599 029             F6FET         599 53            
+QSO:    3555 CW 2020-01-25 0807 DG7NFX          599 030             F5VV          599 01            
+QSO:    7016 CW 2020-01-25 0809 DG7NFX          599 031             F4HQZ         599 29            
+QSO:    7017 CW 2020-01-25 0810 DG7NFX          599 032             F6GOE         599 19            
+QSO:    7020 CW 2020-01-25 0812 DG7NFX          599 033             F5NKX         599 50            
+QSO:    7018 CW 2020-01-25 0813 DG7NFX          599 034             TK4LS         599 2B            
+QSO:    7035 CW 2020-01-25 0816 DG7NFX          599 035             TM8SN         599 15            
+QSO:    7008 CW 2020-01-25 0819 DG7NFX          599 036             F5OYM         599 81            
+QSO:    7010 CW 2020-01-25 0822 DG7NFX          599 037             F5KHP         599 32            
+QSO:    7012 CW 2020-01-25 0827 DG7NFX          599 038             F4CWN         599 32            
+QSO:    7013 CW 2020-01-25 0828 DG7NFX          599 039             F5VHY         599 47            
+QSO:    7013 CW 2020-01-25 0830 DG7NFX          599 040             F5KLJ         599 17            
+QSO:    7016 CW 2020-01-25 0831 DG7NFX          599 041             F5KDK         599 13            
+QSO:    7019 CW 2020-01-25 0838 DG7NFX          599 042             F6KJX         599 41            
+QSO:    7020 CW 2020-01-25 0839 DG7NFX          599 043             F5OWL         599 83            
+QSO:    7023 CW 2020-01-25 0841 DG7NFX          599 044             F5UTN         599 27            
+QSO:    7024 CW 2020-01-25 0842 DG7NFX          599 045             F4ERS         599 37            
+QSO:    7027 CW 2020-01-25 0844 DG7NFX          599 046             F5OHM         599 36            
+QSO:    7028 CW 2020-01-25 0847 DG7NFX          599 047             F6KGI/P       599 11            
+QSO:    7030 CW 2020-01-25 0849 DG7NFX          599 048             F5MUX         599 29            
+QSO:    7033 CW 2020-01-25 0911 DG7NFX          599 049             F6KBF         599 78            
+QSO:    7033 CW 2020-01-25 0912 DG7NFX          599 050             F6KMB         599 59            
+QSO:    7036 CW 2020-01-25 0914 DG7NFX          599 051             TM5NN         599 45            
+QSO:    7006 CW 2020-01-25 0917 DG7NFX          599 052             F6KJJ         599 38            
+QSO:    7007 CW 2020-01-25 0919 DG7NFX          599 053             F6GCT         599 77            
+QSO:    7009 CW 2020-01-25 0921 DG7NFX          599 054             TM0DX         599 38            
+QSO:    7010 CW 2020-01-25 0923 DG7NFX          599 055             F6KRK         599 78            
+QSO:    7011 CW 2020-01-25 0926 DG7NFX          599 056             F6DCQ         599 74            
+QSO:    7012 CW 2020-01-25 0929 DG7NFX          599 057             F8KCF         599 74            
+QSO:    7014 CW 2020-01-25 0932 DG7NFX          599 058             F5KKD         599 93            
+QSO:    7017 CW 2020-01-25 0943 DG7NFX          599 059             F5UQE         599 59            
+QSO:    7018 CW 2020-01-25 0945 DG7NFX          599 060             F5KMB         599 60            
+QSO:    7019 CW 2020-01-25 0946 DG7NFX          599 061             F4HNP         599 14            
+QSO:    7020 CW 2020-01-25 0949 DG7NFX          599 062             F6KLO         599 19            
+QSO:    7021 CW 2020-01-25 0956 DG7NFX          599 063             F8KGW         599 35            
+QSO:    7015 CW 2020-01-25 0957 DG7NFX          599 064             F6REF         599 00            
+QSO:    7027 CW 2020-01-25 1007 DG7NFX          599 065             F6KNB         599 33            
+QSO:    7028 CW 2020-01-25 1008 DG7NFX          599 066             F6HQP         599 73            
+QSO:    7029 CW 2020-01-25 1009 DG7NFX          599 067             F8DFP         599 63            
+QSO:    7030 CW 2020-01-25 1010 DG7NFX          599 068             F5XX          599 81            
+QSO:    7030 CW 2020-01-25 1012 DG7NFX          599 069             TM5G          599 44            
+QSO:    7025 CW 2020-01-26 0829 DG7NFX          599 070             F6KPQ         599 56            
+QSO:    7027 CW 2020-01-26 0830 DG7NFX          599 071             F5JYC         599 65            
+QSO:    7030 CW 2020-01-26 0832 DG7NFX          599 072             F6KEH         599 34            
+QSO:    7035 CW 2020-01-26 0835 DG7NFX          599 073             F4KLR         599 62            
+QSO:    7031 CW 2020-01-26 0837 DG7NFX          599 074             F6GPT         599 33            
+QSO:    7024 CW 2020-01-26 0842 DG7NFX          599 075             F5OGJ         599 32            
+QSO:    7022 CW 2020-01-26 0844 DG7NFX          599 076             TM4K          599 03            
+QSO:    7021 CW 2020-01-26 0845 DG7NFX          599 077             F4KKZ         599 12            
+QSO:    7020 CW 2020-01-26 0847 DG7NFX          599 078             F6KUQ         599 33            
+QSO:    7019 CW 2020-01-26 0851 DG7NFX          599 079             TM13M         599 13            
+QSO:    7018 CW 2020-01-26 0854 DG7NFX          599 080             F6FYA         599 37            
+QSO:    7014 CW 2020-01-26 0901 DG7NFX          599 081             F6KCS         599 41            
+QSO:    7012 CW 2020-01-26 0903 DG7NFX          599 082             F5OZC         599 49            
+QSO:    7010 CW 2020-01-26 0905 DG7NFX          599 083             F5OGL         599 53            
+QSO:    7008 CW 2020-01-26 0906 DG7NFX          599 084             F5JKK         599 84            
+QSO:    3510 CW 2020-01-26 0908 DG7NFX          599 085             F5PLC         599 90            
+QSO:    3520 CW 2020-01-26 0909 DG7NFX          599 086             F5KKD         599 93            
+QSO:    3519 CW 2020-01-26 0911 DG7NFX          599 087             F5KOU         599 80            
+END-OF-LOG:

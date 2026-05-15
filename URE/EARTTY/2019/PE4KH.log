@@ -1,0 +1,96 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.0.18
+
+# The callsign used during the contest.
+CALLSIGN: PE4KH
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL HIGH
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 1012
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14087 RY 2019-04-07 1027 PE4KH           599 001             UC6N          599 137           
+QSO:   14089 RY 2019-04-07 1029 PE4KH           599 002             EA4URE        599 HQ            
+QSO:   14089 RY 2019-04-07 1031 PE4KH           599 003             ED1R          599 AV            
+QSO:   14092 RY 2019-04-07 1033 PE4KH           599 004             OH3P          599 365           
+QSO:   14091 RY 2019-04-07 1033 PE4KH           599 005             UC5D          599 102           
+QSO:   14093 RY 2019-04-07 1036 PE4KH           599 006             EA1BAF        599 OU            
+QSO:   14093 RY 2019-04-07 1037 PE4KH           599 007             EA3GOM        599 B             
+QSO:   14094 RY 2019-04-07 1039 PE4KH           599 008             UX7QV         599 326           
+QSO:   14084 RY 2019-04-07 1040 PE4KH           599 009             EA1WS         599 O             
+QSO:   14084 RY 2019-04-07 1040 PE4KH           599 010             UA3PI         599 027           
+QSO:   14084 RY 2019-04-07 1041 PE4KH           599 011             AM70D         599 A             
+QSO:   14082 RY 2019-04-07 1042 PE4KH           599 012             ER5LL         599 066           
+QSO:   14085 RY 2019-04-07 1046 PE4KH           599 014             9A1A          599 334           
+QSO:   14086 RY 2019-04-07 1053 PE4KH           599 015             EE2W          599 BI            
+QSO:    7047 RY 2019-04-07 1055 PE4KH           599 016             9A1A          599 513           
+QSO:    7045 RY 2019-04-07 1059 PE4KH           599 017             OE2IGP        599 165           
+QSO:    7044 RY 2019-04-07 1101 PE4KH           599 018             S53NW         599 384           
+QSO:    7050 RY 2019-04-07 1102 PE4KH           599 019             IU3FBL        599 463           
+QSO:   14080 RY 2019-04-07 1104 PE4KH           599 020             EA2XR         599 BI            
+QSO:   14079 RY 2019-04-07 1105 PE4KH           599 021             RA7M          599 120           
+QSO:   14087 RY 2019-04-07 1110 PE4KH           599 022             IU4CHE        599 075           
+QSO:   14089 RY 2019-04-07 1112 PE4KH           599 023             UA6CE         599 296           
+QSO:   14088 RY 2019-04-07 1115 PE4KH           599 024             TA1BX         599 126           
+QSO:   14090 RY 2019-04-07 1116 PE4KH           599 025             RD0A          599 147           
+QSO:   14090 RY 2019-04-07 1117 PE4KH           599 026             UT5EPP        599 410           
+QSO:   14094 RY 2019-04-07 1121 PE4KH           599 027             YU5R          599 301           
+QSO:   14085 RY 2019-04-07 1128 PE4KH           599 028             LZ60KAA       599 513           
+QSO:   14086 RY 2019-04-07 1129 PE4KH           599 029             S53X          599 764           
+END-OF-LOG:

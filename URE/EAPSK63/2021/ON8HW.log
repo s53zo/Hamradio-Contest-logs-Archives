@@ -1,0 +1,76 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.01
+
+# The callsign used during the contest.
+CALLSIGN: ON8HW
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 255
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+
+CONTEST: EA-PSK63
+
+
+LOCATION: Brussels, Belgium
+
+# Operator name
+NAME: Hans-Werner Grenzhäuser
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7039 RY 2021-03-13 1808 ON8HW           599 001             OZ11A         599 077           
+QSO:    7041 RY 2021-03-13 1848 ON8HW           599 002             US7KC         599 104           
+QSO:    7042 RY 2021-03-13 1859 ON8HW           599 003             IN3BFW        599 093           
+QSO:    7041 RY 2021-03-13 1901 ON8HW           599 004             RA3Y          599 132           
+QSO:   14072 RY 2021-03-14 0747 ON8HW           599 005             UW1M          599 530           
+QSO:   14073 RY 2021-03-14 0806 ON8HW           599 006             YO8DHA        599 075           
+QSO:   14071 RY 2021-03-14 0807 ON8HW           599 007             UR5ZGY        599 170           
+QSO:   14071 RY 2021-03-14 0816 ON8HW           599 008             RG7M          599 205           
+QSO:    7043 RY 2021-03-14 0818 ON8HW           599 009             EA3X          599 - B           
+QSO:    7042 RY 2021-03-14 0821 ON8HW           599 010             EB2CTA        599 - VI          
+QSO:   21073 RY 2021-03-14 1315 ON8HW           599 011             EA8AQV        599 GC            
+QSO:   21072 RY 2021-03-14 1315 ON8HW           599 012             EA4GOY        599 TO            
+QSO:   14068 RY 2021-03-14 1325 ON8HW           599 013             R6DNK         599 052           
+QSO:    7041 RY 2021-03-14 1331 ON8HW           599 014             SP4TKR        599 287           
+QSO:    7040 RY 2021-03-14 1337 ON8HW           599 015             2U0WZY        599 170           
+END-OF-LOG:

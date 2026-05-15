@@ -1,0 +1,32 @@
+name: Sync Web Branch
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-web-branch
+  cancel-in-progress: true
+
+jobs:
+  sync-web:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Sync Web branch
+        run: |
+          bash scripts/sync-web-branch.sh --source-ref "${GITHUB_SHA}" --push

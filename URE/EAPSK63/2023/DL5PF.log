@@ -1,0 +1,107 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: DL5PF
+CATEGORY: SINGLE-OP ALL
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 2204
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14066 PSK        2023-03-11 1730 DL5PF           599 001             S57ZT         599 132           
+QSO:   14065 PSK        2023-03-11 1742 DL5PF           599 002             EA5LU         599 MU            
+QSO:   14066 PSK        2023-03-11 1743 DL5PF           599 003             F5RD          599 140        
+QSO:   14068 PSK        2023-03-11 1750 DL5PF           599 004             EB5F          599 ES            
+QSO:    7040 PSK        2023-03-11 1818 DL5PF           599 005             SP4TKR        599 075        
+QSO:    7041 PSK        2023-03-11 1822 DL5PF           599 006             PD2PKM        599 155        
+QSO:    7041 PSK        2023-03-11 1835 DL5PF           599 007             IN3BFW        599 93            
+QSO:    7042 PSK        2023-03-11 1838 DL5PF           599 008             G9D           599 274        
+QSO:    7043 PSK        2023-03-11 1841 DL5PF           599 009             DM5WH         599 047        
+QSO:    7040 PSK        2023-03-11 1859 DL5PF           599 010             ON6YYY        599 010        
+QSO:    7041 PSK        2023-03-11 1902 DL5PF           599 011             HB9/EA1FID    599 M2E        
+QSO:    7041 PSK        2023-03-11 1907 DL5PF           599 012             DL4ME         599 042        
+QSO:   14072 PSK        2023-03-11 1938 DL5PF           599 013             YO8WW         599 026        
+QSO:    7042 PSK        2023-03-11 1943 DL5PF           599 014             OK2EA         599 137        
+QSO:   14070 PSK        2023-03-11 2009 DL5PF           599 015             EA2ESB        599 EA          
+QSO:    7043 PSK        2023-03-11 2030 DL5PF           599 016             PE1FTV        599 032        
+QSO:    7045 PSK        2023-03-11 2115 DL5PF           599 017             DF2SD         599 008        
+QSO:   21070 PSK        2023-03-12 0805 DL5PF           599 019             ED1B          599 O             
+QSO:   21070 PSK        2023-03-12 0808 DL5PF           599 020             EA4URE        599 EA            
+QSO:   21070 PSK        2023-03-12 0809 DL5PF           599 021             EE4Y          599 TU            
+QSO:   21070 PSK        2023-03-12 0812 DL5PF           599 022             UA9XL         599 251           
+QSO:   21071 PSK        2023-03-12 0814 DL5PF           599 023             EA5ERA        599 V             
+QSO:   21071 PSK        2023-03-12 0816 DL5PF           599 024             R8XF          599 074           
+QSO:   28070 PSK        2023-03-12 0818 DL5PF           599 036             TA2EJ         599 255           
+QSO:   21071 PSK        2023-03-12 0820 DL5PF           599 025             UN7LV         599 120           
+QSO:   28072 PSK        2023-03-12 0820 DL5PF           599 037             SV1JFL        599 154           
+QSO:   21072 PSK        2023-03-12 0822 DL5PF           599 026             CR5O          599 517           
+QSO:   28071 PSK        2023-03-12 0824 DL5PF           599 027             RU6CH         599 276           
+QSO:   14069 PSK        2023-03-12 0835 DL5PF           599 028             S57YK         599 151           
+QSO:   28072 PSK        2023-03-12 0836 DL5PF           599 036             TA2EJ         599 255           
+QSO:   28072 PSK        2023-03-12 0836 DL5PF           599 037             SV1JFL        599 154           
+QSO:   14069 PSK        2023-03-12 0838 DL5PF           599 029             EF5K          599 V             
+QSO:   14070 PSK        2023-03-12 0841 DL5PF           599 030             I2XLF         599 153           
+QSO:   14069 PSK        2023-03-12 0844 DL5PF           599 031             YO3RU         599 208           
+QSO:   28069 PSK        2023-03-12 0846 DL5PF           599 038             EF5K          599 V             
+QSO:   14071 PSK        2023-03-12 0848 DL5PF           599 032             EA4URE        599 HQ            
+QSO:   14071 PSK        2023-03-12 0849 DL5PF           599 033             M1VPN         599 161           
+QSO:   14072 PSK        2023-03-12 0851 DL5PF           599 034             ED1R          599 AV            
+QSO:   14073 PSK        2023-03-12 0855 DL5PF           599 035             EW8DX         599 212        
+QSO:   28071 PSK        2023-03-12 0924 DL5PF           036 599             TA2EJ         271 23          
+QSO:   28069 PSK        2023-03-12 0947 DL5PF           599 038             EF5K          599 V dt          
+QSO:   28072 PSK        2023-03-12 0956 DL5PF           599 039             RA0WHE        599 124           
+QSO:   21067 PSK        2023-03-12 1012 DL5PF           599 040             EA2ESB        599 TE            
+QSO:   21069 PSK        2023-03-12 1018 DL5PF           599 041             ED1B          599 O             
+QSO:   28072 PSK        2023-03-12 1027 DL5PF           599 042             RW4HBG        599 396           
+QSO:   28069 PSK        2023-03-12 1029 DL5PF           599 043             EA5EX         599 MU            
+QSO:   28070 PSK        2023-03-12 1030 DL5PF           599 044             EA5LU         599 MU            
+END-OF-LOG:

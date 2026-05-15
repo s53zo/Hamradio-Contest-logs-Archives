@@ -1,0 +1,108 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.08
+
+# The callsign used during the contest.
+CALLSIGN: 4z5oi
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 3588
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION: 
+
+# Operator name
+NAME: JURGEN
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 4z5oi
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   21071 PSK 2021-03-14 0959 4z5oi           599 001             EA6SX         599 IB            
+QSO:   21071 PSK 2021-03-14 1000 4z5oi           599 002             EA5JN         599 MU            
+QSO:   21071 PSK 2021-03-14 1009 4z5oi           599 003             EF5U          599 A             
+QSO:   21073 PSK 2021-03-14 1011 4z5oi           599 004             EB5CUZ        599 CS            
+QSO:   21072 PSK 2021-03-14 1012 4z5oi           599 005             EA4GOY        599 TO            
+QSO:   14072 PSK 2021-03-14 1021 4z5oi           276 006             ER1PB         599 276           
+QSO:   14073 PSK 2021-03-14 1236 4z5oi           144 007             Z36N          599 144           
+QSO:   21070 PSK 2021-03-14 1245 4z5oi           599 009             EA7IP         599 SE                          
+QSO:   21071 PSK 2021-03-14 1253 4z5oi           599 011             EA7YV         599 MA            
+QSO:   21070 PSK 2021-03-14 1300 4z5oi           599 012             EA6XQ         599 IB            
+QSO:   21070 PSK 2021-03-14 1306 4z5oi           599 013             EA8CNR        599 GC            
+QSO:   21071 PSK 2021-03-14 1310 4z5oi           599 014             IU1DSU        599 009 009       
+QSO:   21073 PSK 2021-03-14 1313 4z5oi           599 015             EA8AQV        599 GC            
+QSO:   14073 PSK 2021-03-14 1326 4z5oi           599 016             EA7HY         599 CA            
+QSO:   14071 PSK 2021-03-14 1338 4z5oi           599 017             ED7B          599 CO            
+QSO:   14071 PSK 2021-03-14 1340 4z5oi           599 018             EA6SX         599 IB            
+QSO:   14071 PSK 2021-03-14 1347 4z5oi           599 019             EA7IP         599 SE            
+QSO:   14072 PSK 2021-03-14 1348 4z5oi           512 020             RA3Y          599 512 512       
+QSO:   14070 PSK 2021-03-14 1354 4z5oi           275 021             UR5QU         599 275 275       
+QSO:   14070 PSK 2021-03-14 1356 4z5oi           581 022             IT9VCE        599 581 581       
+QSO:   14069 PSK 2021-03-14 1358 4z5oi           599 023             EA4GOY        599 TO            
+QSO:   14068 PSK 2021-03-14 1359 4z5oi           247 024             UX1VT         599 247 247       
+QSO:   14069 PSK 2021-03-14 1402 4z5oi           599 025             EA6XQ         599 IB            
+QSO:   14072 PSK 2021-03-14 1411 4z5oi           599 026             RA6LIS        599 083 083       
+QSO:   14070 PSK 2021-03-14 1418 4z5oi           599 027             ED1R          599 AV            
+QSO:   14070 PSK 2021-03-14 1419 4z5oi           281 028             UR5ZGY        599 281 281       
+QSO:   14072 PSK 2021-03-14 1421 4z5oi           275 029             LZ2JA         599 275 275       
+QSO:   14068 PSK 2021-03-14 1437 4z5oi           599 030             EA5EX         599 MU            
+QSO:   14066 PSK 2021-03-14 1439 4z5oi           599 031             EB1BCG        599 SO            
+QSO:   14067 PSK 2021-03-14 1440 4z5oi           599 032             SZ21PF        599 059 059       
+QSO:   14067 PSK 2021-03-14 1445 4z5oi           599 033             EA8W          599 GC            
+QSO:   14071 PSK 2021-03-14 1457 4z5oi           599 034             EA7RCS        599 SE            
+QSO:   14072 PSK 2021-03-14 1505 4z5oi           599 035             EA4URE        599 HQ            
+QSO:   14073 PSK 2021-03-14 1506 4z5oi           599 036             EA7KI         599 MA            
+QSO:   14071 PSK 2021-03-14 1511 4z5oi           599 037             EA5EN         599 MU            
+QSO:    7041 PSK 2021-03-14 1530 4z5oi           599 038             US7KC         599 408 408       
+QSO:    7038 PSK 2021-03-14 1539 4z5oi           343 039             S57ZT         599 343 343       
+QSO:    7041 PSK 2021-03-14 1542 4z5oi           281 040             RA4HL         599 281 281       
+QSO:    7044 PSK 2021-03-14 1553 4z5oi           599 041             EA3X          599 B             
+QSO:    7044 PSK 2021-03-14 1558 4z5oi           599 042             EA2RCA        599 VI            
+END-OF-LOG:

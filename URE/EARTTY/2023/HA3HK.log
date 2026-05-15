@@ -1,0 +1,239 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.23
+
+# The callsign used during the contest.
+CALLSIGN: HA3HK
+CATEGORY: SINGLE-OP ALL LOW
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 36192
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: dx
+
+# Operator name
+NAME: Zoli Borbely
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: HA3HK
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME:2023-04-01 1329 2023-04-02 1025
+
+# Soapbox comments.
+SOAPBOX: Nice contest.
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   28085 RY         2023-04-02 1025 HA3HK           599 183             ED4J          599 CR            
+QSO:   28102 RY         2023-04-02 1017 HA3HK           599 182             LZ5K          599 090           
+QSO:   28092 RY         2023-04-02 1016 HA3HK           599 181             EE4Y          599 TO            
+QSO:   28090 RY         2023-04-02 1015 HA3HK           599 180             EA4URE        599 HQ            
+QSO:   14114 RY         2023-04-02 1014 HA3HK           599 179             EA7KNT        599 SE            
+QSO:   14113 RY         2023-04-02 1013 HA3HK           599 178             EI3GC         599 172           
+QSO:   14113 RY         2023-04-02 1009 HA3HK           599 177             UA9XL         599 387           
+QSO:   14110 RY         2023-04-02 1004 HA3HK           599 176             EA1UVR        599 O             
+QSO:   14109 RY         2023-04-02 1003 HA3HK           599 175             I0MQV         599 123           
+QSO:   14108 RY         2023-04-02 1002 HA3HK           599 174             G0HDV         599 336           
+QSO:   14107 RY         2023-04-02 1001 HA3HK           599 173             AA2MF         599 068           
+QSO:   14102 RY         2023-04-02 1000 HA3HK           599 172             EA2A          599 HU            
+QSO:   14095 RY         2023-04-02 0956 HA3HK           599 171             HA1DAE        599 153           
+QSO:   14095 RY         2023-04-02 0954 HA3HK           599 170             ED3D          599 GI            
+QSO:   14094 RY         2023-04-02 0953 HA3HK           599 169             SM5GRD        599 122           
+QSO:   14093 RY         2023-04-02 0951 HA3HK           599 168             EA2ESK        599 Z             
+QSO:   14092 RY         2023-04-02 0916 HA3HK           599 167             ON7HB         599 054           
+QSO:   14090 RY         2023-04-02 0914 HA3HK           599 166             LY1R          599 401           
+QSO:   14090 RY         2023-04-02 0913 HA3HK           599 165             PA5N          599 067           
+QSO:   14089 RY         2023-04-02 0911 HA3HK           599 164             EW8DX         599 319           
+QSO:   14088 RY         2023-04-02 0909 HA3HK           599 163             SP4TXI        599 325           
+QSO:   14087 RY         2023-04-02 0906 HA3HK           599 162             ON4LDP        599 119           
+QSO:   14086 RY         2023-04-02 0905 HA3HK           599 161             IW8PQ         599 130           
+QSO:   14085 RY         2023-04-02 0903 HA3HK           599 159             PA7LV         599 326           
+QSO:   14086 RY         2023-04-02 0903 HA3HK           599 160             OZ0JD         599 121           
+QSO:   14085 RY         2023-04-02 0902 HA3HK           599 158             PA3EPO        599 102           
+QSO:   14084 RY         2023-04-02 0900 HA3HK           599 157             PI4VPO        599 143           
+QSO:   14084 RY         2023-04-02 0859 HA3HK           599 156             F4FDR         599 096           
+QSO:   14084 RY         2023-04-02 0856 HA3HK           599 155             RA6LIS        599 163           
+QSO:    7050 RY         2023-04-02 0854 HA3HK           599 154             IV3IPA        599 146           
+QSO:    7050 RY         2023-04-02 0853 HA3HK           599 153             DL4PY         599 020           
+QSO:    7046 RY         2023-04-02 0849 HA3HK           599 152             IK2SBB        599 190           
+QSO:    7046 RY         2023-04-02 0848 HA3HK           599 149             DC1YL         599 100           
+QSO:   21093 RY         2023-04-02 0842 HA3HK           599 148             EA4ZM         599 BA            
+QSO:   21101 RY         2023-04-02 0829 HA3HK           599 147             SV9SIT        599 215           
+QSO:   21101 RY         2023-04-02 0828 HA3HK           599 146             RD0A          599 214           
+QSO:   21100 RY         2023-04-02 0826 HA3HK           599 145             EA2ESK        599 Z             
+QSO:   21098 RY         2023-04-02 0825 HA3HK           599 144             EF5K          599 V             
+QSO:   21097 RY         2023-04-02 0824 HA3HK           599 143             EA7EQ         599 SE            
+QSO:   21097 RY         2023-04-02 0823 HA3HK           599 142             EA7GE         599 CO            
+QSO:   21096 RY         2023-04-02 0821 HA3HK           599 141             EA5IUS        599 V             
+QSO:   21092 RY         2023-04-02 0820 HA3HK           599 140             EA2BFM        599 BI            
+QSO:   21092 RY         2023-04-02 0818 HA3HK           599 139             RZ9A          599 249           
+QSO:   21087 RY         2023-04-02 0816 HA3HK           599 138             EA5FID        599 A             
+QSO:   21086 RY         2023-04-02 0815 HA3HK           599 137             EA4URE        599 HQ            
+QSO:   21085 RY         2023-04-02 0814 HA3HK           599 136             ED1R          599 AV            
+QSO:   21080 RY         2023-04-02 0809 HA3HK           599 135             RG9A          599 917           
+QSO:   14084 RY         2023-04-02 0804 HA3HK           599 134             US4UU         599 059           
+QSO:   14084 RY         2023-04-02 0803 HA3HK           599 132             RA1TM         599 100           
+QSO:   14084 RY         2023-04-02 0803 HA3HK           599 133             EB5F          599 A             
+QSO:   14084 RY         2023-04-02 0759 HA3HK           599 131             GM0KWW        599 076           
+QSO:   14084 RY         2023-04-02 0758 HA3HK           599 130             PE1LZZ        599 049           
+QSO:   14084 RY         2023-04-02 0757 HA3HK           599 129             PA0ALG        599 127           
+QSO:   14084 RY         2023-04-02 0756 HA3HK           599 128             UA3PQN        599 038           
+QSO:   14084 RY         2023-04-02 0756 HA3HK           599 127             G2L           599 183           
+QSO:   14084 RY         2023-04-02 0755 HA3HK           599 126             2E0INN        599 331           
+QSO:   14084 RY         2023-04-02 0754 HA3HK           599 125             R7MM          599 480           
+QSO:   14084 RY         2023-04-02 0750 HA3HK           599 124             IW8PJI        599 098           
+QSO:   14084 RY         2023-04-02 0749 HA3HK           599 122             UR7EC         599 183           
+QSO:   14084 RY         2023-04-02 0749 HA3HK           599 123             EI6IKB        599 274           
+QSO:   14084 RY         2023-04-02 0746 HA3HK           599 121             PA2A          599 101           
+QSO:   14115 RY         2023-04-02 0743 HA3HK           599 120             2E0CVN        599 193           
+QSO:   14112 RY         2023-04-02 0742 HA3HK           599 119             EF1T          599 LU            
+QSO:   14111 RY         2023-04-02 0740 HA3HK           599 118             PD2PKM        599 307           
+QSO:   14107 RY         2023-04-02 0737 HA3HK           599 117             IT9MRM/QRP    599 153           
+QSO:   14106 RY         2023-04-02 0736 HA3HK           599 116             R6BH          599 215           
+QSO:   14105 RY         2023-04-02 0735 HA3HK           599 115             EA2DLX        599 BI            
+QSO:   14104 RY         2023-04-02 0734 HA3HK           599 114             7S5S          599 023           
+QSO:   14100 RY         2023-04-02 0728 HA3HK           599 113             EA5FSQ        599 A             
+QSO:   14099 RY         2023-04-02 0727 HA3HK           599 112             SV8DCY        599 498           
+QSO:   14100 RY         2023-04-02 0726 HA3HK           599 111             UW1M          599 1097          
+QSO:   14094 RY         2023-04-02 0725 HA3HK           599 110             IT9ATF        599 322           
+QSO:   14092 RY         2023-04-02 0723 HA3HK           599 109             YM1KTR        599 110           
+QSO:   14090 RY         2023-04-02 0721 HA3HK           599 108             HA3HK         599 363           
+QSO:   14089 RY         2023-04-02 0719 HA3HK           599 107             RT2H          599 083           
+QSO:   14089 RY         2023-04-02 0717 HA3HK           599 106             EA5GIE        599 V             
+QSO:   14088 RY         2023-04-02 0716 HA3HK           599 105             ON4CT         599 051           
+QSO:   14087 RY         2023-04-02 0716 HA3HK           599 104             EA4URA        599 M             
+QSO:   14086 RY         2023-04-02 0715 HA3HK           599 103             OZ11A         599 541           
+QSO:   14084 RY         2023-04-02 0712 HA3HK           599 102             RD4HP         599 154           
+QSO:    7046 RY         2023-04-02 0649 HA3HK           599 101             9A5Y          599 708           
+QSO:    7045 RY         2023-04-02 0643 HA3HK           599 100             EA4EJP        599 V             
+QSO:    7060 RY         2023-04-02 0640 HA3HK           599 099             HG3FMZ        599 164           
+QSO:    7055 RY         2023-04-02 0637 HA3HK           599 098             EF5T          599 MU            
+QSO:    7055 RY         2023-04-02 0635 HA3HK           599 097             OH0TS         599 177           
+QSO:    7055 RY         2023-04-02 0634 HA3HK           599 096             EA5HKZ        599 A             
+QSO:    7053 RY         2023-04-02 0632 HA3HK           599 095             EA3X          599 B             
+QSO:    7052 RY         2023-04-02 0631 HA3HK           599 094             E4URE         599 HQ            
+QSO:    7052 RY         2023-04-02 0630 HA3HK           599 093             EE4Y          599 TO            
+QSO:    7051 RY         2023-04-02 0628 HA3HK           599 092             YT5DEY        599 082           
+QSO:    7051 RY         2023-04-02 0625 HA3HK           599 091             LZ1MC         599 032           
+QSO:    7051 RY         2023-04-02 0625 HA3HK           599 089             EA3IAZ        599 GI            
+QSO:    7049 RY         2023-04-02 0622 HA3HK           599 088             I4JED         599 091           
+QSO:    7047 RY         2023-04-02 0621 HA3HK           599 087             OK2HBR        599 237           
+QSO:    7046 RY         2023-04-02 0618 HA3HK           599 086             EA2BFM        599 BI            
+QSO:    7046 RY         2023-04-02 0616 HA3HK           599 084             LY2F          599 609           
+QSO:    7045 RY         2023-04-02 0614 HA3HK           599 083             DK2FG         599 052           
+QSO:    7044 RY         2023-04-02 0613 HA3HK           599 082             OK1MSL        599 136           
+QSO:    7043 RY         2023-04-02 0612 HA3HK           599 081             EC5JC         599 A             
+QSO:    7040 RY         2023-04-02 0608 HA3HK           599 080             DH6BH         599 113           
+QSO:    7066 RY         2023-04-02 0606 HA3HK           599 079             EB3EFU        599 GI            
+QSO:    7063 RY         2023-04-02 0604 HA3HK           599 077             PA5KT         599 054           
+QSO:    7064 RY         2023-04-02 0604 HA3HK           599 078             K3MM          599 561           
+QSO:    7061 RY         2023-04-02 0602 HA3HK           599 076             7S9A          599 288           
+QSO:    7061 RY         2023-04-02 0601 HA3HK           599 075             S56EM         599 162           
+QSO:    7056 RY         2023-04-02 0558 HA3HK           599 074             ED3D          599 GI            
+QSO:    7054 RY         2023-04-02 0557 HA3HK           599 073             ED1R          599 AV            
+QSO:    7052 RY         2023-04-02 0554 HA3HK           599 072             ON6YYY        599 197           
+QSO:    7048 RY         2023-04-02 0552 HA3HK           599 071             ON5GQ         599 426           
+QSO:    7046 RY         2023-04-02 0530 HA3HK           599 070             YU8NU         599 099           
+QSO:    7046 RY         2023-04-02 0529 HA3HK           599 069             EF5K          599 V             
+QSO:    7043 RY         2023-04-02 0528 HA3HK           599 068             9A1A          599 506           
+QSO:    7043 RY         2023-04-02 0526 HA3HK           599 067             IZ2BVC        599 165           
+QSO:   14088 RY         2023-04-01 1926 HA3HK           599 066             EC1CTV        599 LU            
+QSO:   14087 RY         2023-04-01 1924 HA3HK           599 065             EE4Y          599 TO            
+QSO:   14086 RY         2023-04-01 1921 HA3HK           599 064             EA5KE         599 V             
+QSO:   14085 RY         2023-04-01 1920 HA3HK           599 063             RW4HBG        599 235           
+QSO:   14108 RY         2023-04-01 1918 HA3HK           599 062             K4RUM         599 051           
+QSO:   14107 RY         2023-04-01 1916 HA3HK           599 061             ED1B          599 O             
+QSO:   14105 RY         2023-04-01 1915 HA3HK           599 060             EA5HYJ        599 V             
+QSO:   14105 RY         2023-04-01 1911 HA3HK           599 059             ED1R          599 AV            
+QSO:   14104 RY         2023-04-01 1908 HA3HK           599 058             EB1FE         599 O             
+QSO:   14100 RY         2023-04-01 1903 HA3HK           599 057             NC1CC         599 129           
+QSO:   14100 RY         2023-04-01 1902 HA3HK           599 056             ED4J          599 CR            
+QSO:   14096 RY         2023-04-01 1901 HA3HK           599 055             EA4URE        599 HQ            
+QSO:   14096 RY         2023-04-01 1858 HA3HK           599 054             K3MM          599 247           
+QSO:   14095 RY         2023-04-01 1856 HA3HK           599 053             HG5D          599 366           
+QSO:   14094 RY         2023-04-01 1853 HA3HK           599 052             R4CI          599 065           
+QSO:   14093 RY         2023-04-01 1852 HA3HK           599 051             EA7HAB        599 GR            
+QSO:   14092 RY         2023-04-01 1850 HA3HK           599 050             EF5K          599 V             
+QSO:   14091 RY         2023-04-01 1849 HA3HK           599 049             EA6ZS         599 IB            
+QSO:   14090 RY         2023-04-01 1849 HA3HK           599 048             EA3IAZ        599 GI            
+QSO:   14085 RY         2023-04-01 1844 HA3HK           599 047             RM3DA         599 257           
+QSO:   14084 RY         2023-04-01 1840 HA3HK           599 046             EA4FME        599 M             
+QSO:   14084 RY         2023-04-01 1838 HA3HK           599 045             EA2ESB        599 TE            
+QSO:   14083 RY         2023-04-01 1837 HA3HK           599 044             RG9A          599 518           
+QSO:   21106 RY         2023-04-01 1823 HA3HK           599 043             W3LIL         599 47            
+QSO:   21097 RY         2023-04-01 1821 HA3HK           599 042             ED7B          599 CO            
+QSO:   21097 RY         2023-04-01 1821 HA3HK           599 041             ED1RD         599 AV            
+QSO:   21089 RY         2023-04-01 1817 HA3HK           599 040             PZ5RA         599 165           
+QSO:   21088 RY         2023-04-01 1815 HA3HK           599 039             EA5IY         599 CS            
+QSO:   21115 RY         2023-04-01 1813 HA3HK           599 038             EA5EX         599 MU            
+QSO:   21115 RY         2023-04-01 1811 HA3HK           599 037             IT9YTX        599 09            
+QSO:   21114 RY         2023-04-01 1809 HA3HK           599 036             KP4JFR        599 090           
+QSO:   21108 RY         2023-04-01 1808 HA3HK           599 035             EA1HRR        599 S             
+QSO:   21107 RY         2023-04-01 1807 HA3HK           599 034             EA2LX         599 BI            
+QSO:   21101 RY         2023-04-01 1806 HA3HK           599 033             K3MM          599 215           
+QSO:   21100 RY         2023-04-01 1805 HA3HK           599 032             W9ILY         599 083           
+QSO:   21099 RY         2023-04-01 1804 HA3HK           599 031             ED4J          599 CR            
+QSO:   21095 RY         2023-04-01 1802 HA3HK           599 030             NC1CC         599 097           
+QSO:   21083 RY         2023-04-01 1757 HA3HK           599 029             KP4JRS        599 126           
+QSO:   21083 RY         2023-04-01 1755 HA3HK           599 028             EA2XR         599 BI            
+QSO:   21102 RY         2023-04-01 1752 HA3HK           599 027             EA7BP         599 SE            
+QSO:   21099 RY         2023-04-01 1750 HA3HK           599 026             ED1D          599 P             
+QSO:   21097 RY         2023-04-01 1747 HA3HK           599 025             W3MAM         599 136           
+QSO:   21095 RY         2023-04-01 1746 HA3HK           599 024             9A5D          599 284           
+QSO:   21087 RY         2023-04-01 1742 HA3HK           599 023             CT7/PA3GCU    599 057           
+QSO:   21087 RY         2023-04-01 1741 HA3HK           599 022             ED1B          599 O             
+QSO:   21081 RY         2023-04-01 1735 HA3HK           599 021             EA8CNR        599 GC            
+QSO:   21081 RY         2023-04-01 1734 HA3HK           599 020             EA5BN         599 MU            
+QSO:   28085 RY         2023-04-01 1713 HA3HK           599 019             PY2PLL        599 039           
+QSO:   28101 RY         2023-04-01 1712 HA3HK           599 018             LU7HN         599 13            
+QSO:   28088 RY         2023-04-01 1708 HA3HK           599 017             PP5FZ         599 19            
+QSO:   28098 RY         2023-04-01 1502 HA3HK           599 016             K3MM          599 007           
+QSO:   28097 RY         2023-04-01 1500 HA3HK           599 015             EA7Z          599 H             
+QSO:   28088 RY         2023-04-01 1456 HA3HK           599 014             N4AU          599 023           
+QSO:   28107 RY         2023-04-01 1449 HA3HK           599 013             ZZ1M          599 019           
+QSO:   28089 RY         2023-04-01 1443 HA3HK           599 012             N4QS          599 014           
+QSO:   28083 RY         2023-04-01 1438 HA3HK           599 011             W4CQE         599 056           
+QSO:   28097 RY         2023-04-01 1426 HA3HK           599 010             HI3MM         599 29            
+QSO:   28089 RY         2023-04-01 1423 HA3HK           599 009             PZ5RA         599 004           
+QSO:   28098 RY         2023-04-01 1405 HA3HK           599 008             EA8TH         599 TF            
+QSO:   28095 RY         2023-04-01 1401 HA3HK           599 007             PY3TD         599 011           
+QSO:   28095 RY         2023-04-01 1357 HA3HK           599 006             4M1W          599 8             
+QSO:   28098 RY         2023-04-01 1339 HA3HK           599 005             YC9AAI        599 061           
+QSO:   28099 RY         2023-04-01 1337 HA3HK           599 004             EA8AH         599 GC            
+QSO:   28092 RY         2023-04-01 1334 HA3HK           599 003             LU5DF         599 007           
+QSO:   28096 RY         2023-04-01 1331 HA3HK           599 002             PY3LX         599 032           
+QSO:   28088 RY         2023-04-01 1329 HA3HK           599 001             RG9A          599 173           
+END-OF-LOG:

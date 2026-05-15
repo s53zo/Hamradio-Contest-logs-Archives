@@ -1,0 +1,193 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 3.23.08
+
+# The callsign used during the contest.
+CALLSIGN: EA4GPZ
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+
+# Operator name
+NAME: Daniel Estevez
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: EA4GPZ
+
+# Soapbox comments.
+SOAPBOX: Many stations had very dirty signals
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7038 RY 2016-03-12 1944 EA4GPZ          599 M               SV1JG         599 067           
+QSO:    7040 RY 2016-03-12 1949 EA4GPZ          599 M               M0WPX         599 074           
+QSO:    7039 RY 2016-03-12 1952 EA4GPZ          599 M               PA2IP         599 053           
+QSO:    7039 RY 2016-03-12 1953 EA4GPZ          599 M               UR7GO         599 175           
+QSO:    7040 RY 2016-03-12 2000 EA4GPZ          599 M               A71AE         599 129           
+QSO:    7040 RY 2016-03-12 2003 EA4GPZ          599 M               F4FVW         599 033           
+QSO:    7042 RY 2016-03-12 2006 EA4GPZ          599 M               S50P          599 148           
+QSO:    7042 RY 2016-03-12 2009 EA4GPZ          599 M               ON6LEO        599 003           
+QSO:    7043 RY 2016-03-12 2013 EA4GPZ          599 M               S51AF         599 195           
+QSO:    7042 RY 2016-03-12 2014 EA4GPZ          599 M               A61EK         599 171           
+QSO:    7045 RY 2016-03-12 2017 EA4GPZ          599 M               G0HDV         599 094           
+QSO:    7046 RY 2016-03-12 2020 EA4GPZ          599 M               G3SNU         599 091           
+QSO:    7045 RY 2016-03-12 2021 EA4GPZ          599 M               PA7AM         599 047           
+QSO:    7046 RY 2016-03-12 2022 EA4GPZ          599 M               YU1BN         599 042           
+QSO:    7047 RY 2016-03-12 2024 EA4GPZ          599 M               EA8KL         599 TF            
+QSO:    7041 RY 2016-03-12 2053 EA4GPZ          599 M               HA2EOA        599 044           
+QSO:    7041 RY 2016-03-12 2055 EA4GPZ          599 M               PB7Z          599 188           
+QSO:    7044 RY 2016-03-12 2105 EA4GPZ          599 M               OK2UHP        599 046           
+QSO:    7046 RY 2016-03-12 2109 EA4GPZ          599 M               RA9AU         599 127           
+QSO:    7043 RY 2016-03-12 2110 EA4GPZ          599 M               SP1DPA        599 021           
+QSO:    7043 RY 2016-03-12 2114 EA4GPZ          599 M               S58X          599 122           
+QSO:    7043 RY 2016-03-12 2114 EA4GPZ          599 M               SP6GBP        599 105           
+QSO:    7043 RY 2016-03-12 2117 EA4GPZ          599 M               OK1VPO        599 084           
+QSO:    7043 RY 2016-03-12 2118 EA4GPZ          599 M               EE4CP         599 M             
+QSO:    7043 RY 2016-03-12 2121 EA4GPZ          599 M               DL2AL         599 061           
+QSO:    7043 RY 2016-03-12 2129 EA4GPZ          599 M               9A7SSB        599 092           
+QSO:    7043 RY 2016-03-12 2130 EA4GPZ          599 M               OK1BA         599 094           
+QSO:    7043 RY 2016-03-12 2135 EA4GPZ          599 M               S57X          599 086           
+QSO:    7043 RY 2016-03-12 2136 EA4GPZ          599 M               DL2RNF        599 075           
+QSO:    7043 RY 2016-03-12 2138 EA4GPZ          599 M               DF9EY         599 005           
+QSO:    7043 RY 2016-03-12 2139 EA4GPZ          599 M               DL3KVR        599 163           
+QSO:    7043 RY 2016-03-12 2142 EA4GPZ          599 M               PE4KH         599 021           
+QSO:    7043 RY 2016-03-12 2154 EA4GPZ          599 M               YT6W          599 200           
+QSO:    7042 RY 2016-03-12 2207 EA4GPZ          599 M               IW7DBM        599 103           
+QSO:    7042 RY 2016-03-12 2208 EA4GPZ          599 M               IT9VCE        599 178           
+QSO:    7043 RY 2016-03-12 2210 EA4GPZ          599 M               EA4GJJ        599 GU            
+QSO:    7044 RY 2016-03-12 2213 EA4GPZ          599 M               9A701CRT      599 229           
+QSO:    7046 RY 2016-03-12 2215 EA4GPZ          599 M               5B4AMM        599 425           
+QSO:    7046 RY 2016-03-12 2216 EA4GPZ          599 M               LZ7A          599 222           
+QSO:    7044 RY 2016-03-12 2219 EA4GPZ          599 M               SP6JZP        599 094           
+QSO:    7044 RY 2016-03-12 2219 EA4GPZ          599 M               OK6AB         599 013           
+QSO:    7044 RY 2016-03-12 2230 EA4GPZ          599 M               DF2AD         599 043           
+QSO:    7044 RY 2016-03-12 2234 EA4GPZ          599 M               WD4GBW        599 013           
+QSO:    7044 RY 2016-03-12 2242 EA4GPZ          599 M               UT2GA         599 192           
+QSO:    7042 RY 2016-03-13 0910 EA4GPZ          599 M               EB7NO         599 MA            
+QSO:    7042 RY 2016-03-13 0914 EA4GPZ          599 M               EF3A          599 T             
+QSO:    7042 RY 2016-03-13 0917 EA4GPZ          599 M               EA1WX         599 O             
+QSO:    7046 RY 2016-03-13 0924 EA4GPZ          599 M               F5SDD         599 106           
+QSO:    7046 RY 2016-03-13 0925 EA4GPZ          599 M               EA7KI         599 MA            
+QSO:    7040 RY 2016-03-13 0931 EA4GPZ          599 M               EA1AF         599 P             
+QSO:    7041 RY 2016-03-13 0933 EA4GPZ          599 M               EA4URE        599 HQ            
+QSO:    7041 RY 2016-03-13 0935 EA4GPZ          599 M               EA6DB         599 IB            
+QSO:    7041 RY 2016-03-13 0937 EA4GPZ          599 M               EA2ASB        599 BI            
+QSO:    7042 RY 2016-03-13 0939 EA4GPZ          599 M               EA1AYT        599 BU            
+QSO:    7043 RY 2016-03-13 0940 EA4GPZ          599 M               EA4GEL        599 M             
+QSO:    7043 RY 2016-03-13 0941 EA4GPZ          599 M               EA3GP         599 T             
+QSO:    7044 RY 2016-03-13 0941 EA4GPZ          599 M               EA5IDQ        599 A             
+QSO:    7044 RY 2016-03-13 0942 EA4GPZ          599 M               EA3CV         599 B             
+QSO:    7044 RY 2016-03-13 0945 EA4GPZ          599 M               EA1AR         599 AV            
+QSO:    7046 RY 2016-03-13 0946 EA4GPZ          599 M               EA3GBA        599 B             
+QSO:    7046 RY 2016-03-13 0947 EA4GPZ          599 M               EA4SC         599 M             
+QSO:    7048 RY 2016-03-13 0947 EA4GPZ          599 M               EA5FIV        599 A             
+QSO:    7043 RY 2016-03-13 0953 EA4GPZ          599 M               EA2KK         599 BI            
+QSO:    7046 RY 2016-03-13 0954 EA4GPZ          599 M               ED3D          599 GI            
+QSO:    7045 RY 2016-03-13 0955 EA4GPZ          599 M               EA1MI         599 SG            
+QSO:    7047 RY 2016-03-13 0955 EA4GPZ          599 M               EA5RW         599 V             
+QSO:    7047 RY 2016-03-13 0956 EA4GPZ          599 M               EA3KX         599 B             
+QSO:    7047 RY 2016-03-13 0958 EA4GPZ          599 M               EA4IF         599 TO            
+QSO:   14070 RY 2016-03-13 1003 EA4GPZ          599 M               S51AF         599 590           
+QSO:   14076 RY 2016-03-13 1013 EA4GPZ          599 M               HB9BUN        599 122           
+QSO:   14076 RY 2016-03-13 1015 EA4GPZ          599 M               HB9TOC        599 004           
+QSO:   14070 RY 2016-03-13 1029 EA4GPZ          599 M               PD0JMH        599 022           
+QSO:   14070 RY 2016-03-13 1029 EA4GPZ          599 M               IV3KSE        599 001           
+QSO:   14070 RY 2016-03-13 1030 EA4GPZ          599 M               OE7/IZ3GNG    599 114           
+QSO:   14070 RY 2016-03-13 1032 EA4GPZ          599 M               PE1FTV        599 121           
+QSO:   14070 RY 2016-03-13 1033 EA4GPZ          599 M               PC5F          599 050           
+QSO:   14070 RY 2016-03-13 1039 EA4GPZ          599 M               PB7Z          599 305           
+QSO:   14072 RY 2016-03-13 1041 EA4GPZ          599 M               YL5X          599 287           
+QSO:   14074 RY 2016-03-13 1044 EA4GPZ          599 M               PA2IP         599 078           
+QSO:   14073 RY 2016-03-13 1047 EA4GPZ          599 M               GI4JTF        599 111           
+QSO:   14074 RY 2016-03-13 1049 EA4GPZ          599 M               ES4RD         599 284           
+QSO:   14074 RY 2016-03-13 1050 EA4GPZ          599 M               PD2GSP        599 023           
+QSO:   14075 RY 2016-03-13 1052 EA4GPZ          599 M               2E0VDS        599 106           
+QSO:   14075 RY 2016-03-13 1053 EA4GPZ          599 M               PD2PKM        599 138           
+QSO:   14075 RY 2016-03-13 1054 EA4GPZ          599 M               LZ7A          599 311           
+QSO:   21071 RY 2016-03-13 1059 EA4GPZ          599 M               LZ7A          599 147           
+QSO:   21070 RY 2016-03-13 1104 EA4GPZ          599 M               SB0A          599 268           
+QSO:   21070 RY 2016-03-13 1105 EA4GPZ          599 M               RG5A          599 591           
+QSO:   21073 RY 2016-03-13 1107 EA4GPZ          599 M               RA2FB         599 024           
+QSO:   21073 RY 2016-03-13 1107 EA4GPZ          599 M               EA4GEL        599 M             
+QSO:   21073 RY 2016-03-13 1109 EA4GPZ          599 M               RK9AN         599 415           
+QSO:   21075 RY 2016-03-13 1110 EA4GPZ          599 M               R7AB          599 280           
+QSO:   21074 RY 2016-03-13 1112 EA4GPZ          599 M               5B4AMM        599 782           
+QSO:   21074 RY 2016-03-13 1112 EA4GPZ          599 M               UR5CN         599 420           
+QSO:   21071 RY 2016-03-13 1117 EA4GPZ          599 M               YO3RU         599 545           
+QSO:   21071 RY 2016-03-13 1119 EA4GPZ          599 M               SP5JP         599 061           
+QSO:   21073 RY 2016-03-13 1131 EA4GPZ          599 M               EA4GJJ        599 GU            
+QSO:   21071 RY 2016-03-13 1132 EA4GPZ          599 M               SE4E          599 383           
+QSO:   14075 RY 2016-03-13 1139 EA4GPZ          599 M               G0HDV         599 280           
+QSO:   14076 RY 2016-03-13 1140 EA4GPZ          599 M               OH5C          599 111           
+QSO:   14074 RY 2016-03-13 1145 EA4GPZ          599 M               ES6Q          599 316           
+QSO:   14073 RY 2016-03-13 1146 EA4GPZ          599 M               UA6CE         599 334           
+QSO:   14073 RY 2016-03-13 1147 EA4GPZ          599 M               PA7AM         599 180           
+QSO:   14076 RY 2016-03-13 1149 EA4GPZ          599 M               DH6BH         599 213           
+QSO:   14071 RY 2016-03-13 1200 EA4GPZ          599 M               ON6LEO        599 190           
+QSO:   14071 RY 2016-03-13 1203 EA4GPZ          599 M               OE5EGN        599 062           
+QSO:   14071 RY 2016-03-13 1205 EA4GPZ          599 M               DL3MVC        599 328           
+QSO:   14071 RY 2016-03-13 1206 EA4GPZ          599 M               DB1HEF        599 036           
+QSO:   14071 RY 2016-03-13 1208 EA4GPZ          599 M               PE1CPJ        599 161           
+QSO:    7046 RY 2016-03-13 1223 EA4GPZ          599 M               C31CT         599 118           
+QSO:    7046 RY 2016-03-13 1224 EA4GPZ          599 M               EB7KA         599 AL            
+QSO:    7046 RY 2016-03-13 1226 EA4GPZ          599 M               ED2V          599 VI            
+QSO:    7043 RY 2016-03-13 1228 EA4GPZ          599 M               EA2DDE        599 NA            
+QSO:    7043 RY 2016-03-13 1229 EA4GPZ          599 M               EA7YV         599 MA            
+QSO:    7043 RY 2016-03-13 1231 EA4GPZ          599 M               EC1DBO        599 PO            
+QSO:    7043 RY 2016-03-13 1234 EA4GPZ          599 M               EA4FYX        599 M             
+QSO:    7043 RY 2016-03-13 1238 EA4GPZ          599 M               EA1EHW        599 PO            
+QSO:    7043 RY 2016-03-13 1241 EA4GPZ          599 M               EA2RCF        599 VI            
+QSO:    7043 RY 2016-03-13 1245 EA4GPZ          599 M               EA4JJ         599 M             
+QSO:    7043 RY 2016-03-13 1247 EA4GPZ          599 M               EA5FVQ        599 V             
+QSO:    7043 RY 2016-03-13 1251 EA4GPZ          599 M               CQ7EPC        599 298           
+QSO:    7043 RY 2016-03-13 1253 EA4GPZ          599 M               EA7JOY        599 SE            
+QSO:    7043 RY 2016-03-13 1343 EA4GPZ          599 M               EA2BF         599 BI            
+QSO:    7043 RY 2016-03-13 1343 EA4GPZ          599 M               EA4RCH        599 M             
+QSO:    7043 RY 2016-03-13 1345 EA4GPZ          599 M               EA1WH         599 S             
+QSO:    7043 RY 2016-03-13 1349 EA4GPZ          599 M               EC5AEZ        599 V             
+QSO:    7041 RY 2016-03-13 1403 EA4GPZ          599 M               EC5JC         599 A             
+QSO:    7042 RY 2016-03-13 1403 EA4GPZ          599 M               ED1A          599 O             
+QSO:    7042 RY 2016-03-13 1406 EA4GPZ          599 M               EA1IPH        599 BU            
+QSO:    7041 RY 2016-03-13 1408 EA4GPZ          599 M               EA1SI         599 O             
+QSO:    7043 RY 2016-03-13 1411 EA4GPZ          599 M               EA3FZT        599 B             
+QSO:    7043 RY 2016-03-13 1417 EA4GPZ          599 M               EA4GEO        599 M             
+QSO:    7043 RY 2016-03-13 1419 EA4GPZ          599 M               EB5DXJ        599 A             
+QSO:    7041 RY 2016-03-13 1422 EA4GPZ          599 M               EA1DME        599 P             
+QSO:    7043 RY 2016-03-13 1425 EA4GPZ          599 M               EA3EGB        599 GI            
+QSO:    7043 RY 2016-03-13 1426 EA4GPZ          599 M               EB5CS         599 CS            
+QSO:    7043 RY 2016-03-13 1428 EA4GPZ          599 M               EA3FF         599 L             
+QSO:    7043 RY 2016-03-13 1428 EA4GPZ          599 M               EA4CQX        599 M             
+QSO:    7041 RY 2016-03-13 1437 EA4GPZ          599 M               EA5HCJ        599 MU            
+QSO:    7041 RY 2016-03-13 1442 EA4GPZ          599 M               EA1AKS        599 S             
+QSO:    7041 RY 2016-03-13 1448 EA4GPZ          599 M               EB3TR         599 L             
+QSO:    7041 RY 2016-03-13 1452 EA4GPZ          599 M               EA9BO         599 CE            
+QSO:    7041 RY 2016-03-13 1456 EA4GPZ          599 M               EC5WR         599 V             
+QSO:    7041 RY 2016-03-13 1502 EA4GPZ          599 M               EB1RL/2       599 VI            
+QSO:    7041 RY 2016-03-13 1505 EA4GPZ          599 M               EA7DUT        599 CO            
+QSO:    7041 RY 2016-03-13 1505 EA4GPZ          599 M               EA1AHY        599 S             
+QSO:    7040 RY 2016-03-13 1516 EA4GPZ          599 M               F6EQZ         599 237           
+QSO:    7042 RY 2016-03-13 1518 EA4GPZ          599 M               EA5ICS        599 A             
+QSO:    7041 RY 2016-03-13 1518 EA4GPZ          599 M               EC1AE         599 O             
+QSO:    7045 RY 2016-03-13 1521 EA4GPZ          599 M               EB3EFU        599 GI            
+QSO:    7045 RY 2016-03-13 1523 EA4GPZ          599 M               G3PXT         599 169           
+QSO:    7045 RY 2016-03-13 1525 EA4GPZ          599 M               EA2DNR        599 BI            
+QSO:    7048 RY 2016-03-13 1529 EA4GPZ          599 M               EA7FRX        599 CO            
+QSO:    7048 RY 2016-03-13 1531 EA4GPZ          599 M               EA4IE         599 TO            
+QSO:    7048 RY 2016-03-13 1538 EA4GPZ          599 M               EA1AUS        599 SA            
+QSO:    7042 RY 2016-03-13 1544 EA4GPZ          599 M               EC7AT         599 AL            
+QSO:    7043 RY 2016-03-13 1548 EA4GPZ          599 M               EA5ERA        599 V             
+QSO:    7047 RY 2016-03-13 1551 EA4GPZ          599 M               DL4ME         599 206           
+END-OF-LOG:

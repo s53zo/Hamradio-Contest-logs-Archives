@@ -1,0 +1,82 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.20
+
+# The callsign used during the contest.
+CALLSIGN: AB5XM
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: ALL
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: RTTY
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: CHECKLOG
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 0
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: Allan Schmidt
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: AB5XM
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: Enjoyed the consest! Thanks for the contest
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   21091 RY 2022-04-02 1649 AB5XM           599 001             AA8R          599 098           
+QSO:   21110 RY 2022-04-02 1654 AB5XM           599 002             AE1P          599 131           
+QSO:   14087 RY 2022-04-02 1701 AB5XM           599 003             W8JWN         599 012           
+QSO:   14090 RY 2022-04-02 1703 AB5XM           599 004             W6SX          599 008           
+QSO:   21090 RY 2022-04-02 1712 AB5XM           599 005             K4SO          599 091           
+QSO:   21101 RY 2022-04-02 1737 AB5XM           599 006             S53M          599 210           
+QSO:   21088 RY 2022-04-02 1955 AB5XM           599 007             AI4WW         599 044           
+QSO:   21096 RY 2022-04-02 1957 AB5XM           599 008             9A5D          599 347           
+QSO:   21093 RY 2022-04-02 2007 AB5XM           599 009             KH6AQ         599 009           
+QSO:   14097 RY 2022-04-02 2022 AB5XM           599 010             9A1A          599 419           
+QSO:   14120 RY 2022-04-02 2027 AB5XM           599 011             W4CQE         599 056           
+QSO:   14109 RY 2022-04-02 2049 AB5XM           599 012             K4RUM         599 152           
+QSO:   14107 RY 2022-04-02 2051 AB5XM           599 013             AE1P          599 202           
+QSO:   14102 RY 2022-04-02 2052 AB5XM           599 014             N2NF          599 154           
+END-OF-LOG:

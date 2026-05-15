@@ -1,0 +1,105 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.01
+
+# The callsign used during the contest.
+CALLSIGN: ON8HW
+
+# ASSISTED or NON-ASSISTED
+CATEGORY-ASSISTED: 
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+CATEGORY-BAND: 
+
+# Mode: SSB, CW, RTTY, MIXED 
+CATEGORY-MODE: 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY: SINGLE-OP ALL LOW
+
+# Power: HIGH, LOW, QRP 
+CATEGORY-POWER: 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+CATEGORY-STATION: 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+CATEGORY-TRANSMITTER: 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 1350
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: 
+
+# Operator name
+NAME: 
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:   14105 RY 2021-04-03 1900 ON8HW           599 001 40          K4SO          599 073           
+QSO:    7041 RY 2021-04-03 1914 ON8HW           599 002             ED3D          599 GI            
+QSO:    7041 RY 2021-04-03 1917 ON8HW           599 003             RC5Z          599 156           
+QSO:    7042 RY 2021-04-03 1928 ON8HW           599 004             EA2KU         599 VI            
+QSO:    7043 RY 2021-04-03 1929 ON8HW           599 005             LZ5K          599 186           
+QSO:    7044 RY 2021-04-03 1932 ON8HW           599 006             EA3X          599 B             
+QSO:   14101 RY 2021-04-04 0614 ON8HW           599 007             SV8DCY        599 121           
+QSO:   14096 RY 2021-04-04 0617 ON8HW           599 008             UC8U          599 90            
+QSO:   14117 RY 2021-04-04 0944 ON8HW           599 009             IT9VCE        599 234           
+QSO:   14115 RY 2021-04-04 0945 ON8HW           599 010             LZ9R          599 591           
+QSO:   14112 RY 2021-04-04 0949 ON8HW           599 011             OG4W          599 275           
+QSO:   14111 RY 2021-04-04 0950 ON8HW           599 012             ED7N          599 CO            
+QSO:   14107 RY 2021-04-04 0952 ON8HW           599 013             UT5EPP        599 387           
+QSO:   14107 RY 2021-04-04 0953 ON8HW           599 014             LZ1ZM         599 67            
+QSO:   14105 RY 2021-04-04 1001 ON8HW           599 015             UZ1WW         599 108           
+QSO:   14104 RY 2021-04-04 1307 ON8HW           599 016             OH7KNM        599 205           
+QSO:   14104 RY 2021-04-04 1309 ON8HW           599 017             SX200EXU      599 211           
+QSO:   14104 RY 2021-04-04 1318 ON8HW           599 018             UD4F          599 218           
+QSO:   14108 RY 2021-04-04 1325 ON8HW           599 019             EA7Z          599 H             
+QSO:   14107 RY 2021-04-04 1326 ON8HW           599 020             RK3DXW        599 352           
+QSO:   14111 RY 2021-04-04 1329 ON8HW           599 021             OG66X         599 254           
+QSO:   14117 RY 2021-04-04 1331 ON8HW           599 022             YO4FPF        599 293           
+QSO:   14083 RY 2021-04-04 1338 ON8HW           599 023             UR5ZGY        599 287           
+QSO:   14083 RY 2021-04-04 1339 ON8HW           599 024             US5ZFT        599 201           
+QSO:   14087 RY 2021-04-04 1340 ON8HW           599 025             YO3VU         599 315           
+QSO:   14087 RY 2021-04-04 1345 ON8HW           599 026             RA3Y          599 604           
+QSO:   14090 RY 2021-04-04 1358 ON8HW           599 027             EA5EN         599 MU            
+QSO:   14093 RY 2021-04-04 1403 ON8HW           599 028             UW1M          599 1013          
+QSO:   14096 RY 2021-04-04 1412 ON8HW           599 029             LZ2YO         599 417           
+QSO:   14098 RY 2021-04-04 1415 ON8HW           599 030             UD3T          599 246           
+QSO:   14087 RY 2021-04-04 1534 ON8HW           599 031             VE2FK         599 277           
+QSO:   14087 RY 2021-04-04 1536 ON8HW           599 032             CT7AJL        599 672           
+QSO:   14100 RY 2021-04-04 1545 ON8HW           599 033             EA7KI         599 MA            
+QSO:   14104 RY 2021-04-04 1547 ON8HW           599 034             W4IPC         599 544 EO50FF    
+QSO:    7042 RY 2021-04-04 1553 ON8HW           599 035             M3RM          599 116           
+QSO:    7046 RY 2021-04-04 1554 ON8HW           599 036             F4FDR         599 312           
+QSO:    7047 RY 2021-04-04 1557 ON8HW           599 037             SP1TJ         599 281           
+END-OF-LOG:

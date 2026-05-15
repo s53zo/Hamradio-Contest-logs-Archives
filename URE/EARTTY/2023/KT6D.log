@@ -1,0 +1,130 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.26
+
+# The callsign used during the contest.
+CALLSIGN: KT6D
+CATEGORY: SINGLE-OP ALL LOW
+
+# ASSISTED or NON-ASSISTED
+
+# Band: ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G
+
+# Mode: SSB, CW, RTTY, MIXED 
+
+# Operator: SINGLE-OP, MULTI-OP, CHECKLOG 
+
+# Power: HIGH, LOW, QRP 
+
+# Station: FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL 
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+
+# Transmitter: ONE, TWO, LIMITED, UNLIMITED, SWL 
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+
+# Integer number
+CLAIMED-SCORE: 7920
+
+# Name of the radio club with which the score should be aggregated.
+#CLUB: 
+
+CONTEST: EA-RTTY
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-RTTY
+
+
+LOCATION: NC, USA
+
+# Operator name
+NAME: TERRY
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: KT6D
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+#SOAPBOX: 
+#SOAPBOX: 
+#SOAPBOX: 
+
+QSO:   21081 RY         2023-04-01 1609 KT6D            599 001             EE1D          599 SO            
+QSO:   21090 RY         2023-04-01 1617 KT6D            599 002             EA7EQ         599 SE            
+QSO:   21091 RY         2023-04-01 1618 KT6D            599 003             IK4ZHH        599 061           
+QSO:   21093 RY         2023-04-01 1619 KT6D            599 004             DQ9Y          599 198           
+QSO:   21095 RY         2023-04-01 1623 KT6D            599 005             9A5D          599 230           
+QSO:   21097 RY         2023-04-01 1625 KT6D            599 006             IU4CHE        599 137           
+QSO:   21101 RY         2023-04-01 1627 KT6D            599 007             YO9HP         599 100           
+QSO:   21111 RY         2023-04-01 1631 KT6D            599 008             IK1SOW        599 081           
+QSO:   21113 RY         2023-04-01 1631 KT6D            599 009             IZ1PKV        599 079           
+QSO:   21115 RY         2023-04-01 1633 KT6D            599 010             IT9STX        599 167           
+QSO:   21081 RY         2023-04-01 1641 KT6D            599 011             CO2XK         599 44            
+QSO:   21087 RY         2023-04-01 1643 KT6D            599 012             9A1A          599 217           
+QSO:   21091 RY         2023-04-01 1649 KT6D            599 013             EA7TG         599 GR            
+QSO:   21095 RY         2023-04-01 1654 KT6D            599 014             ED1R          599 AV            
+QSO:   21097 RY         2023-04-01 1655 KT6D            599 015             MI0M          599 095           
+QSO:   21099 RY         2023-04-01 1657 KT6D            599 016             ED1D          599 P             
+QSO:   21101 RY         2023-04-01 1700 KT6D            599 017             IU4CSS        599 015           
+QSO:   21104 RY         2023-04-01 1702 KT6D            599 018             EF5K          599 V             
+QSO:   21118 RY         2023-04-01 1707 KT6D            599 019             OT7J          599 29            
+QSO:   21080 RY         2023-04-01 1708 KT6D            599 020             EA2ESB        599 TE            
+QSO:   21086 RY         2023-04-01 1711 KT6D            599 021             EA4URE        599 HQ            
+QSO:   21092 RY         2023-04-01 1717 KT6D            599 022             EB1FE         599 O             
+QSO:   21098 RY         2023-04-01 1819 KT6D            599 023             I4JED         599 024           
+QSO:   21103 RY         2023-04-01 1822 KT6D            599 024             IK2FTB        599 093           
+QSO:   21113 RY         2023-04-01 1826 KT6D            599 025             EA2BFM        599 BI            
+QSO:   21080 RY         2023-04-01 1831 KT6D            599 026             EA4URA        599 M             
+QSO:   21087 RY         2023-04-01 1834 KT6D            599 027             CT7/PA3GCU    599 102           
+QSO:   21091 RY         2023-04-01 1837 KT6D            599 028             W6SX          599 029           
+QSO:   21090 RY         2023-04-01 1838 KT6D            599 029             ED7B          599 CO            
+QSO:   21093 RY         2023-04-01 1840 KT6D            599 030             ED1B          599 O             
+QSO:   21101 RY         2023-04-01 1842 KT6D            599 031             IK8IOO        599 192           
+QSO:   21094 RY         2023-04-01 1852 KT6D            599 032             CX7SS         599 137           
+QSO:   21110 RY         2023-04-01 1919 KT6D            599 033             EA7EU         599 J             
+QSO:   21088 RY         2023-04-01 2157 KT6D            599 034             KF6RY         599 023           
+QSO:   21096 RY         2023-04-01 2200 KT6D            599 035             W8GJK         599 033           
+QSO:   14086 RY         2023-04-01 2203 KT6D            599 036             EA1UVR        599 O             
+QSO:   14083 RY         2023-04-01 2208 KT6D            599 037             EC1CTV        599 LU            
+QSO:   14085 RY         2023-04-01 2210 KT6D            599 038             EA8ZS         599 GC            
+QSO:   14091 RY         2023-04-01 2213 KT6D            599 039             HG5D          599 458           
+QSO:   14093 RY         2023-04-01 2214 KT6D            599 040             EA4URE        599 HQ            
+QSO:   14094 RY         2023-04-01 2216 KT6D            599 041             OZ11A         599 418           
+QSO:   14098 RY         2023-04-01 2218 KT6D            599 042             W3LIL         599 115           
+QSO:   14099 RY         2023-04-01 2221 KT6D            599 043             EA7KNT        599 SE            
+QSO:   14101 RY         2023-04-01 2222 KT6D            599 044             9A1A          599 420           
+QSO:   14107 RY         2023-04-01 2225 KT6D            599 045             WB2WPM        599 92            
+QSO:   14087 RY         2023-04-01 2228 KT6D            599 046             EF5K          599 V             
+QSO:   14088 RY         2023-04-01 2230 KT6D            599 047             LZ1JZ         599 101           
+QSO:   14088 RY         2023-04-01 2231 KT6D            599 048             S53M          599 286           
+QSO:   14090 RY         2023-04-01 2233 KT6D            599 049             IK4DCX        599 039           
+QSO:   14095 RY         2023-04-01 2236 KT6D            599 050             LZ6E          599 445           
+QSO:   14095 RY         2023-04-01 2240 KT6D            599 051             NK4I          599 119           
+QSO:   14099 RY         2023-04-01 2242 KT6D            599 052             HI3MM         599 142           
+QSO:   14088 RY         2023-04-01 2246 KT6D            599 053             EA7GE         599 CO            
+QSO:   14095 RY         2023-04-01 2251 KT6D            599 054             VY2LI         599 195           
+QSO:   14097 RY         2023-04-01 2257 KT6D            599 055             S53F          599 566           
+QSO:    7043 RY         2023-04-01 2302 KT6D            599 056             9A1A          599 386           
+QSO:    7041 RY         2023-04-01 2306 KT6D            599 057             WQ5OO         599 137           
+QSO:    7059 RY         2023-04-01 2311 KT6D            599 058             EA1DA         599 LO            
+QSO:    7063 RY         2023-04-01 2313 KT6D            599 059             ED7B          599 CO            
+QSO:   14092 RY         2023-04-01 2317 KT6D            599 060             W1QK          599 103           
+QSO:   14094 RY         2023-04-01 2319 KT6D            599 061             KE0UI         599 18            
+QSO:   14098 RY         2023-04-01 2322 KT6D            599 062             KP4JFR        599 118           
+QSO:   14087 RY         2023-04-01 2325 KT6D            599 063             K8RCT         599 103           
+QSO:   14095 RY         2023-04-01 2330 KT6D            599 064             PP5FZ         599 56            
+QSO:   14090 RY         2023-04-02 0343 KT6D            599 065             OA4DOS        599 88            
+QSO:    7046 RY         2023-04-02 0346 KT6D            599 066             EA4URE        599 HQ            
+QSO:    7050 RY         2023-04-02 0347 KT6D            599 067             K3MM          599 490           
+QSO:    7045 RY         2023-04-02 0402 KT6D            599 068             K9OM          599 099           
+QSO:    7046 RY         2023-04-02 0409 KT6D            599 070             EA3X          599 B             
+QSO:    7047 RY         2023-04-02 0410 KT6D            599 071             WQ6X          599 032          
+END-OF-LOG:

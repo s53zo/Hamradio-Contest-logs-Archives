@@ -1,0 +1,93 @@
+START-OF-LOG: 3.0
+CREATED-BY: NZ4E Homebrew Microsoft Excel Logbook, 20240519-193531Z
+
+X-# String to identify the contest. Valid characters are A-Z, 0-9, and hyphen (-). Maximum length is 32 characters.
+CONTEST: EA-MAJESTAD-CW
+
+X-# The callsign used during the contest.
+CALLSIGN: PE4I
+CATEGORY: SINGLE-OP 20M
+
+X-# SINGLE-OP, MULTI-OP, CHECKLOG 
+
+X-# ASSISTED, NON-ASSISTED
+
+X-# ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G, others per the specification.
+
+X-# FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL, EXPLORER, DISTRIBUTED
+
+X-# HIGH, LOW, QRP
+
+X-# CW, SSB, MIXED, RTTY, DIGI, FM
+
+X-# ONE, TWO, LIMITED, UNLIMITED, SWL
+
+X-# CLASSIC, ROOKIE, TB-WIRES, YOUTH, NOVICE-TECH, YL
+
+X-# 6-HOURS, 8-HOURS, 12-HOURS, 24-HOURS
+
+X-# Indication of offtime start and stop period, in the format yyyy-mm-dd hhmm yyyy-mm-dd hhmm
+OFFTIME: 
+
+X-# Maidenhead Grid Square where the station operated, such as PL36 or PL36vg
+GRID-LOCATOR: JO21xb
+
+X-# Name of the radio club to which the score should be applied.
+CLUB: 
+
+X-# Used to indicate the location where the station operated, such as state, country, reference or section.
+LOCATION: DX
+
+X-# List of operator callsigns separated by space or comma. If designated a host station, prefix with @ sign.
+OPERATORS: PE4I
+
+X-# The claimed score for this log in integer form, no commas, decimals, or other characters.
+CLAIMED-SCORE: 627
+
+X-# YES, NO
+CERTIFICATE: YES
+
+X-# Name of operator, maximum 75 characters.
+NAME: Patrick S. Smyth
+
+
+
+
+
+
+
+X-# Free field(s) for extra data. Replace the word ANYTHING with your choice (except the word QSO)
+X-ANYTHING: 
+
+X-# Soapbox comments, using as many SOAPBOX: lines as desired.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+X-# QSOs in cabrillo format delimited by white spaces.
+QSO: 14037 CW 2024-05-18 1420 PE4I 599 001 EF0F 599 SMR
+QSO: 14035 CW 2024-05-18 1427 PE4I 599 002 I2IFT 599 094
+QSO: 14029 CW 2024-05-18 1431 PE4I 599 003 HG5D 599 192
+QSO: 14027 CW 2024-05-18 1434 PE4I 599 004 US2YW 599 073
+QSO: 14021 CW 2024-05-18 1438 PE4I 599 005 LZ5EE 599 151
+QSO: 14016 CW 2024-05-18 1441 PE4I 599 006 UT3EV 599 183
+QSO: 14016 CW 2024-05-18 1534 PE4I 599 007 HG7T 599 255
+QSO: 14014 CW 2024-05-18 1541 PE4I 599 008 W0EAS 599 050
+QSO: 14012 CW 2024-05-18 1546 PE4I 599 009 P3X 599 608
+QSO: 14011 CW 2024-05-18 1547 PE4I 599 010 EA4KA 599 M
+QSO: 14009 CW 2024-05-18 1548 PE4I 599 011 SV1FWV 599 172
+QSO: 14036 CW 2024-05-18 1605 PE4I 599 012 LZ1ZJ 599 151
+QSO: 14035 CW 2024-05-18 1609 PE4I 599 013 LZ2CJ 599 034
+QSO: 14034 CW 2024-05-18 1610 PE4I 599 014 EA1WH 599 S
+QSO: 14028 CW 2024-05-18 1612 PE4I 599 015 OM2VL 599 329
+QSO: 14026 CW 2024-05-18 1613 PE4I 599 016 S51DX 599 305
+QSO: 14019 CW 2024-05-18 1618 PE4I 599 017 CR5O 599 189
+QSO: 14011 CW 2024-05-18 1628 PE4I 599 018 EA5XU 599 V
+QSO: 14010 CW 2024-05-18 1637 PE4I 599 019 LZ5R 599 501
+QSO: 14008 CW 2024-05-18 1639 PE4I 599 020 LZ8R 599 322
+QSO: 14033 CW 2024-05-18 1641 PE4I 599 021 E77EA 599 265
+QSO: 14027 CW 2024-05-18 1645 PE4I 599 022 9A1AA 599 305
+QSO: 14023 CW 2024-05-18 1648 PE4I 599 023 YT2ISM 599 178
+QSO: 14028 CW 2024-05-18 1656 PE4I 599 024 CR3DX 599 369
+QSO: 14027 CW 2024-05-18 1704 PE4I 599 025 9H1CG 599 53
+END-OF-LOG:

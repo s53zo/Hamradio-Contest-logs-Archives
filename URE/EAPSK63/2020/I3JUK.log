@@ -1,0 +1,95 @@
+START-OF-LOG: 3.0
+CREATED-BY: fldigi 4.1.08
+
+CALLSIGN: I3JUK
+
+CATEGORY-ASSISTED: ASSISTED 
+
+CATEGORY-BAND: ALL
+
+CATEGORY-MODE: PSK63
+ 
+CATEGORY: SINGLE-OP ALL
+ 
+CATEGORY-POWER: 
+
+CATEGORY-STATION: FIXED
+
+# Time: 6-HOURS, 12-HOURS, 24-HOURS 
+CATEGORY-TIME: 
+ 
+CATEGORY-TRANSMITTER: ONE
+
+# Overlay: ROOKIE, TB-WIRES, NOVICE-TECH, OVER-50 
+CATEGORY-OVERLAY: 
+
+# Integer number
+CLAIMED-SCORE: 2418
+
+# Name of the radio club with which the score should be aggregated.
+CLUB: 
+
+CONTEST: EA-PSK63
+# ARRL-SS-SSB, ARRL-UHF-AUG, ARRL-VHF-JAN, ARRL-VHF-JUN, ARRL-VHF-SEP,
+# ARRL-RTTY, BARTG-RTTY, CQ-160-CW, CQ-160-SSB, CQ-WPX-CW, CQ-WPX-RTTY,
+# CQ-WPX-SSB, CQ-VHF, CQ-WW-CW, CQ-WW-RTTY, CQ-WW-SSB, DARC-WAEDC-CW,
+# DARC-WAEDC-RTTY, DARC-WAEDC-SSB, FCG-FQP, IARU-HF, JIDX-CW, JIDX-SSB,
+# NAQP-CW, NAQP-RTTY, NAQP-SSB, NA-SPRINT-CW, NA-SPRINT-SSB, NCCC-CQP,
+# NEQP, OCEANIA-DX-CW, OCEANIA-DX-SSB, RDXC, RSGB-IOTA, SAC-CW, SAC-SSB,
+# STEW-PERRY, TARA-RTTY 
+CONTEST: EA-PSK63
+
+
+LOCATION:ITALY
+
+# Operator name
+NAME: GIUSEPPE BUSTREO
+
+
+# A space-delimited list of operator callsign(s). 
+OPERATORS: 
+
+# Offtime yyyy-mm-dd nnnn yyyy-mm-dd nnnn 
+# OFFTIME: 
+
+# Soapbox comments.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+QSO:    7042 RY 2020-03-14 2306 I3JUK           599 035             EA8/HB9FIH    599 TF            
+QSO:    7040 RY 2020-03-14 2259 I3JUK           599 034             N2HMM         599 090           
+QSO:    7042 RY 2020-03-14 2237 I3JUK           599 033             EW6FW         599 043           
+QSO:    7042 RY 2020-03-14 2231 I3JUK           599 032             EA4FVG        599 M             
+QSO:    7040 RY 2020-03-14 2227 I3JUK           599 031             EA2KK         599 BI            
+QSO:    7044 RY 2020-03-14 2221 I3JUK           599 030             CN8YZ         599 105           
+QSO:    7042 RY 2020-03-14 2214 I3JUK           599 029             R3WA          599 077           
+QSO:    7042 RY 2020-03-14 2212 I3JUK           599 028             UT5EPP        599 204           
+QSO:    7042 RY 2020-03-14 2211 I3JUK           599 027             UR4MVK        599 024           
+QSO:    7043 RY 2020-03-14 2205 I3JUK           599 026             EB1ADD        599 PO            
+QSO:    7043 RY 2020-03-14 2203 I3JUK           599 025             EC7WA         599 H             
+QSO:    7040 RY 2020-03-14 2144 I3JUK           599 024             EA5XC         599 A             
+QSO:    7039 RY 2020-03-14 2125 I3JUK           599 023             EA3F          599 L             
+QSO:    7039 RY 2020-03-14 2121 I3JUK           599 022             EA7IP         599 SE            
+QSO:    7040 RY 2020-03-14 2118 I3JUK           599 021             EA4BAS        599 M             
+QSO:    7040 RY 2020-03-14 2118 I3JUK           599 020             US5ZFT        599 071           
+QSO:    7041 RY 2020-03-14 2116 I3JUK           599 019             EA7HS         599 CO            
+QSO:    7041 RY 2020-03-14 2114 I3JUK           599 018             EB2DJ         599 BI            
+QSO:    7040 RY 2020-03-14 2113 I3JUK           599 017             EA7IEZ        599 MA            
+QSO:    7040 RY 2020-03-14 2109 I3JUK           599 016             EA7IEZ        599 MA            
+QSO:    7040 RY 2020-03-14 2059 I3JUK           599 015             IZ3XNJ        599 036           
+QSO:    7040 RY 2020-03-14 2059 I3JUK           599 014             RA1QFU        599 158           
+QSO:    7040 RY 2020-03-14 2058 I3JUK           599 013             EA7KFX        599 CA            
+QSO:    7041 RY 2020-03-14 2053 I3JUK           599 012             ED3D          599 GI            
+QSO:   14071 RY 2020-03-14 1749 I3JUK           599 011             EA5EX         599 MU            
+QSO:   14070 RY 2020-03-14 1742 I3JUK           599 010             EC5K          599 V             
+QSO:   14070 RY 2020-03-14 1732 I3JUK           599 009             EA7K          599 SE            
+QSO:   14071 RY 2020-03-14 1716 I3JUK           599 008             EA2ESZ        599 VI            
+QSO:   14070 RY 2020-03-14 1702 I3JUK           599 007             EA4URE        599 CO            
+QSO:   14070 RY 2020-03-14 1658 I3JUK           599 007             EF1C          599 LO            
+QSO:   14071 RY 2020-03-14 1624 I3JUK           599 005             EA4DAU        599 M             
+QSO:   14070 RY 2020-03-14 1622 I3JUK           599 004             EF5M          599 A             
+QSO:   14071 RY 2020-03-14 1613 I3JUK           599 003             EB1TR         599 O             
+QSO:   14070 RY 2020-03-14 1526 I3JUK           599 002             EA1L          599 O             
+QSO:   14071 RY 2020-03-14 1517 I3JUK           599 001             EA5CH         599 A             
+END-OF-LOG:

@@ -1,0 +1,89 @@
+START-OF-LOG: 3.0
+CREATED-BY: NZ4E Homebrew Microsoft Excel Logbook, 20240225-195359Z
+
+# String to identify the contest. Valid characters are A-Z, 0-9, and hyphen (-). Maximum length is 32 characters.
+CONTEST: 
+
+# The callsign used during the contest.
+CALLSIGN: PE4I
+
+# SINGLE-OP, MULTI-OP, CHECKLOG 
+CATEGORY-OPERATOR: SINGLE-OP
+
+# ASSISTED, NON-ASSISTED
+CATEGORY-ASSISTED: NON-ASSISTED
+
+# ALL, 160M, 80M, 40M, 20M, 15M, 10M, 6M, 2M, 222, 432, 902, 1.2G, others per the specification.
+CATEGORY-BAND: ALL
+
+# FIXED, MOBILE, PORTABLE, ROVER, EXPEDITION, HQ, SCHOOL, EXPLORER, DISTRIBUTED
+CATEGORY-STATION: FIXED
+
+# HIGH, LOW, QRP
+CATEGORY-POWER: LOW
+
+# CW, SSB, MIXED, RTTY, DIGI, FM
+CATEGORY-MODE: MIXED
+
+# ONE, TWO, LIMITED, UNLIMITED, SWL
+CATEGORY-TRANSMITTER: ONE
+
+# CLASSIC, ROOKIE, TB-WIRES, YOUTH, NOVICE-TECH, YL
+CATEGORY-OVERLAY: 
+
+# 6-HOURS, 8-HOURS, 12-HOURS, 24-HOURS
+CATEGORY-TIME: 
+
+# Indication of offtime start and stop period, in the format yyyy-mm-dd hhmm yyyy-mm-dd hhmm
+OFFTIME: 
+
+# Maidenhead Grid Square where the station operated, such as PL36 or PL36vg
+GRID-LOCATOR: JO21xb
+
+# Name of the radio club to which the score should be applied.
+CLUB: 
+
+# Used to indicate the location where the station operated, such as state, country, reference or section.
+LOCATION: DX
+
+# List of operator callsigns separated by space or comma. If designated a host station, prefix with @ sign.
+OPERATORS: PE4I
+
+# The claimed score for this log in integer form, no commas, decimals, or other characters.
+CLAIMED-SCORE: 
+
+# YES, NO
+CERTIFICATE: YES
+
+# Name of operator, maximum 75 characters.
+NAME: Patrick S. Smyth
+
+
+
+
+
+
+
+# Free field(s) for extra data. Replace the word ANYTHING with your choice (except the word QSO)
+X-ANYTHING: 
+
+# Soapbox comments, using as many SOAPBOX: lines as desired.
+SOAPBOX: 
+SOAPBOX: 
+SOAPBOX: 
+
+# QSOs in cabrillo format delimited by white spaces.
+QSO: 7173 PH 2024-02-24 2001 PE4I 59 001 F4FVA 59 49
+QSO: 7165 PH 2024-02-24 2006 PE4I 59 002 F6KNB 59 33
+QSO: 7149 PH 2024-02-24 2016 PE4I 59 003 F4FKR 59 22
+QSO: 7137 PH 2024-02-24 2020 PE4I 59 004 F4HRG 59 44
+QSO: 7130 PH 2024-02-24 2022 PE4I 59 005 F4KKF 59 13
+QSO: 7123 PH 2024-02-24 2023 PE4I 59 006 F5IXN 59 13
+QSO: 7118 PH 2024-02-24 2026 PE4I 59 007 F4ITQ 59 29
+QSO: 7114 PH 2024-02-24 2029 PE4I 59 008 F5NKX 59 50
+QSO: 7105 PH 2024-02-24 2031 PE4I 59 009 F4IAY 59 81
+QSO: 7082 PH 2024-02-24 2033 PE4I 59 010 F6GHE 59 19
+QSO: 7082 PH 2024-02-24 2041 PE4I 59 011 F4EMI 59 85
+QSO: 14179 PH 2024-02-25 1704 PE4I 59 012 F1MGE 59 13
+QSO: 14199 PH 2024-02-25 1705 PE4I 59 013 F2CT 59 64
+END-OF-LOG:
