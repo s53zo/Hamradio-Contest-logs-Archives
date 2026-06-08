@@ -6,13 +6,13 @@ long-term preservation of contest activity data.
 
 ## Current Snapshot
 
-Local snapshot counted on 2026-05-14:
+Local snapshot counted on 2026-06-08:
 
-- total log files: 2,161,302
-- source/public log files: 1,737,018
+- total log files: 2,161,392
+- source/public log files: 1,737,108
 - reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 424,284
-- parsed `QSO:` lines across all logs: 499,709,606
-- parsed `QSO:` lines in source/public logs only: 462,271,062
+- parsed `QSO:` lines across all logs: 499,720,379
+- parsed `QSO:` lines in source/public logs only: 462,281,835
 - unique source/public log callsigns, counted from log filenames: 176,729
 
 These numbers change as new public sources are added, newer contest years are
@@ -36,6 +36,7 @@ Current downloader coverage includes:
 - UA9QCQ UBN sources: Wednesday Mini-Test 40m/80m, Russian DX Contest, RF Championship CW, Ham Spirit, RCC Cup, RDA, Russian Radio Team Championship, Yuri Gagarin DX Contest
 - `REF`
 - `EUDX_contest`
+- `Istra_Open_Contest`
 - OK contest family: `OK_Contest`, `OK_OM_DX_Contest`, `OK_DX_RTTY_contest`
 - `DARC` contests: Fieldday, WAG, Ausbildungscontest, Ausbildungscontest CW, RTTY Kurzcontest, FT4, Easter, XMAS
 - `WWDIGI`
@@ -84,6 +85,7 @@ Years are collected recursively from archive directory names under each top-leve
 | EUDX contest | 2023, 2024, 2025 | 5,822 |
 | EUHFC | 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025 | 20,860 |
 | HamSpiritContest | 2024, 2025 | 1,783 |
+| Istra Open Contest | 2026 | 90 |
 | OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 39,017 |
 | OK OM DX Contest | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 18,923 |
 | RCCCup | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 949 |
