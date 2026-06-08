@@ -33,6 +33,7 @@ Supports:
   30) SAC Scandinavian Activity Contest (public Cabrillo logs)
   31) URE public logs (EAPSK63/EARTTY/King of Spain/CNCW/CME)
   32) 9A HRS contests (HF Robot public QSO tables)
+  33) Istra Open Contest (public Cabrillo logs)
 
 Directory layout roots:
   CQWW/, CQWPX/, CQWWRTTY/, CQ160/, CQWPXRTTY/, ARRL/<contest_slug>/,
@@ -46,6 +47,7 @@ Directory layout roots:
   OK_Contest/<year>/<mode>/, OK_OM_DX_Contest/<year>/<mode>/, OK_DX_RTTY_contest/<year>/,
   SPDX_contest/<year>/, OK1WC_Memorial/<date>/, YU_DX_Contest/<year>/,
   SAC/<mode>/<year>/, URE/<contest>/<year>/, 9A_HRS_Contest/<contest>/<year>/,
+  Istra_Open_Contest/<year>/,
   DARC/Fieldday/<mode>/<year>/, DARC/WAG/<year>/,
   DARC/Ausbildungscontest/<year>/, DARC/Ausbildungscontest_CW/<year>/<edition>/,
   DARC/RTTY_Kurzcontest/<year>/<edition>/, DARC/FT4/<year>/<edition>/,
@@ -145,6 +147,7 @@ HOST_WORKER_CAPS = {
     "www.sactest.net": 1,
     "concursos.ure.es": 4,
     "www.hamradio.hr": 4,
+    "ioc.9a1p.com": 4,
 }
 
 PRINT_LOCK = threading.Lock()
@@ -165,6 +168,7 @@ MANIFEST_ROOTS = {
     "EUDX_contest",
     "EU_VHF_CONTESTS",
     "HamSpiritContest",
+    "Istra_Open_Contest",
     "OK_Contest",
     "OK1WC_Memorial",
     "OK_OM_DX_Contest",
@@ -997,6 +1001,7 @@ def make_http_task(
     task_key: str | None = None,
     task_hash: str | None = None,
     task_count: int | None = None,
+    output_roots: Tuple[str, ...] = (),
 ) -> DownloadTask:
     """Wrap a simple file download into a DownloadTask."""
     host = urllib.parse.urlparse(url).hostname or "unknown"
@@ -1014,6 +1019,7 @@ def make_http_task(
         task_key=task_key,
         task_hash=task_hash,
         task_count=task_count,
+        output_roots=output_roots,
     )
 
 
@@ -2428,6 +2434,56 @@ def tasks_eudx(last: int | None) -> List[DownloadTask]:
                     task_key=task_key,
                     task_hash=list_hash,
                     task_count=count,
+                )
+            )
+            created += 1
+        if created == 0:
+            task_mark_complete(task_key, list_hash, count)
+    return tasks
+
+
+# ----- Istra Open Contest -----
+def tasks_istra_open(last: int | None) -> List[DownloadTask]:
+    import download_istra_open_logs as ioc  # type: ignore
+
+    tasks: List[DownloadTask] = []
+    years = ioc.discover_year_urls()
+    if last:
+        years = years[:last]
+    for year, public_logs_url in years:
+        try:
+            logs = ioc.discover_log_urls(year, public_logs_url)
+        except Exception as exc:  # pylint: disable=broad-except
+            with PRINT_LOCK:
+                print(f"Istra Open list failed {year}: {exc}")
+            continue
+        if not logs:
+            continue
+        task_key = f"Istra_Open_Contest/{year}"
+        urls = [url for _call, url in logs]
+        dests = [
+            ioc.OUTPUT_ROOT / str(year) / f"{call.replace('/', '_').upper()}.log"
+            for call, _url in logs
+        ]
+        skip, list_hash, count = task_should_skip_known_outputs(
+            task_key, urls, dests, label="Istra Open"
+        )
+        if skip:
+            continue
+        created = 0
+        for (_call, url), dest in zip(logs, dests):
+            if valid_existing_log(dest):
+                continue
+            remove_invalid_existing(dest)
+            tasks.append(
+                make_http_task(
+                    dest,
+                    url,
+                    "Istra Open",
+                    task_key=task_key,
+                    task_hash=list_hash,
+                    task_count=count,
+                    output_roots=(ioc.OUTPUT_ROOT.as_posix(),),
                 )
             )
             created += 1
@@ -4416,6 +4472,7 @@ PROVIDERS: Dict[int, Tuple[str, ProviderFn]] = {
     30: ("SAC Scandinavian Activity Contest (public Cabrillo logs)", tasks_sac),
     31: ("URE public logs (EAPSK63/EARTTY/King of Spain/CNCW/CME)", tasks_ure),
     32: ("9A HRS contests (HF Robot public QSO tables)", tasks_hrs_hf),
+    33: ("Istra Open Contest (public Cabrillo logs)", tasks_istra_open),
 }
 UA9QCQ_PROVIDER_IDS = {11, 12, 13, 14, 15, 17, 18, 19, 20}
 UA9QCQ_PROGRESS_EVERY = 100
