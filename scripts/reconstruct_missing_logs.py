@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import concurrent.futures
+import hashlib
 import os
 from collections import defaultdict
 from dataclasses import dataclass
@@ -15,7 +16,11 @@ import tempfile
 import gzip
 import threading
 import urllib.request
-from typing import Dict, Iterable, List, Optional, Set, Tuple
+from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
+
+
+RECONSTRUCTION_ALGORITHM_VERSION = 2
+STATE_SCHEMA_VERSION = 2
 
 
 @dataclass
@@ -28,6 +33,17 @@ class Qso:
     sent_exch: List[str]
     theircall: str
     recv_exch: List[str]
+
+
+@dataclass
+class ReconstructResult:
+    submitted_logs: int
+    parsed_qsos: int
+    reconstructed_logs: int
+    skipped_existing: int
+    skipped_unchanged: int
+    cached_reconstructed_logs: int
+    output_logs: int
 
 
 class ReconstructLedger:
