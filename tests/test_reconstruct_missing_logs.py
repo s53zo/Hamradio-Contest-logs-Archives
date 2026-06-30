@@ -1,5 +1,6 @@
 import importlib.util
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -20,6 +21,31 @@ reconstruct = load_reconstruct_module()
 
 
 class ReconstructMissingLogsTests(unittest.TestCase):
+    def write_source_log(self, contest_dir, qso_count=12):
+        contest_dir.mkdir(parents=True)
+        lines = ["START-OF-LOG: 3.0", "CALLSIGN: S53M", "CONTEST: TEST"]
+        for idx in range(qso_count):
+            lines.append(
+                f"QSO: 14000 CW 2026-01-01 12{idx:02d} "
+                f"S53M 599 001 K1ABC 599 {idx + 1:03d}"
+            )
+        lines.append("END-OF-LOG:")
+        (contest_dir / "S53M.log").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    def cache_key(self, contest_dir, **overrides):
+        values = {
+            "stats": reconstruct.collect_contest_stats(contest_dir),
+            "master_hash": "same-master",
+            "min_qsos": 10,
+            "limit": None,
+            "use_ledger": False,
+            "created_by": "test",
+            "contest_name": "TEST",
+            "season_label": "Contest/2026",
+        }
+        values.update(overrides)
+        return reconstruct.reconstruction_cache_key(**values)
+
     def test_parse_qso_line_drops_trailing_cqww_status_flag(self):
         qso = reconstruct.parse_qso_line(
             "QSO:  3548 CW 2008-11-30 0708 LN3Z          599 14     KD0S          599 04     0"
@@ -86,6 +112,408 @@ class ReconstructMissingLogsTests(unittest.TestCase):
         self.assertTrue(reconstruct.looks_like_callsign("D1M"))
         self.assertTrue(reconstruct.looks_like_callsign("K1A"))
         self.assertTrue(reconstruct.looks_like_callsign("WX8C/0"))
+
+    def test_reconstruct_cache_includes_master_hash(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            self.write_source_log(contest_dir)
+            stale_key = self.cache_key(
+                contest_dir,
+                master_hash="old-master",
+            )
+            state_path = reconstruct.state_path_for(out_dir, repo, ledger_root)
+            reconstruct.save_state(
+                state_path,
+                {
+                    "schema_version": reconstruct.STATE_SCHEMA_VERSION,
+                    "cache_key": stale_key,
+                    "submitted_logs": 1,
+                    "parsed_qsos": 12,
+                    "reconstructed_logs": 0,
+                    "skipped_existing": 0,
+                    "output_logs": 0,
+                },
+            )
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="new-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=True,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=False,
+                skip_unchanged=True,
+            )
+
+        self.assertEqual(result.skipped_unchanged, 0)
+        self.assertEqual(result.reconstructed_logs, 1)
+        self.assertEqual(result.cached_reconstructed_logs, 0)
+
+    def test_reconstruct_cache_includes_output_metadata(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            self.write_source_log(contest_dir)
+            state_path = reconstruct.state_path_for(out_dir, repo, ledger_root)
+            reconstruct.save_state(
+                state_path,
+                {
+                    "schema_version": reconstruct.STATE_SCHEMA_VERSION,
+                    "cache_key": self.cache_key(contest_dir, created_by="old-tool"),
+                    "submitted_logs": 1,
+                    "parsed_qsos": 12,
+                    "reconstructed_logs": 0,
+                    "skipped_existing": 0,
+                    "output_logs": 0,
+                },
+            )
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=True,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=False,
+                skip_unchanged=True,
+            )
+
+        self.assertEqual(result.skipped_unchanged, 0)
+        self.assertEqual(result.reconstructed_logs, 1)
+
+    def test_reconstruct_cache_includes_min_qsos(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            self.write_source_log(contest_dir)
+            state_path = reconstruct.state_path_for(out_dir, repo, ledger_root)
+            reconstruct.save_state(
+                state_path,
+                {
+                    "schema_version": reconstruct.STATE_SCHEMA_VERSION,
+                    "cache_key": self.cache_key(contest_dir, min_qsos=11),
+                    "submitted_logs": 1,
+                    "parsed_qsos": 12,
+                    "reconstructed_logs": 0,
+                    "skipped_existing": 0,
+                    "output_logs": 0,
+                },
+            )
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=True,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=False,
+                skip_unchanged=True,
+            )
+
+        self.assertEqual(result.skipped_unchanged, 0)
+        self.assertEqual(result.reconstructed_logs, 1)
+
+    def test_reconstruct_cache_hit_reports_cached_outputs_not_new_writes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            self.write_source_log(contest_dir)
+            out_dir.mkdir(parents=True)
+            (out_dir / "K1ABC.log").write_text("START-OF-LOG: 3.0\nEND-OF-LOG:\n", encoding="utf-8")
+            cache_key = self.cache_key(contest_dir)
+            state_path = reconstruct.state_path_for(out_dir, repo, ledger_root)
+            reconstruct.save_state(
+                state_path,
+                {
+                    "schema_version": reconstruct.STATE_SCHEMA_VERSION,
+                    "cache_key": cache_key,
+                    "submitted_logs": 1,
+                    "parsed_qsos": 12,
+                    "reconstructed_logs": 1,
+                    "skipped_existing": 0,
+                    "output_logs": 1,
+                },
+            )
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=True,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=False,
+                skip_unchanged=True,
+            )
+
+        self.assertEqual(result.skipped_unchanged, 1)
+        self.assertEqual(result.reconstructed_logs, 0)
+        self.assertEqual(result.cached_reconstructed_logs, 1)
+        self.assertEqual(result.output_logs, 1)
+        self.assertEqual(result.skipped_existing, 0)
+
+    def test_reconstruct_cache_hit_rebuilds_when_outputs_are_missing(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            self.write_source_log(contest_dir)
+            state_path = reconstruct.state_path_for(out_dir, repo, ledger_root)
+            reconstruct.save_state(
+                state_path,
+                {
+                    "schema_version": reconstruct.STATE_SCHEMA_VERSION,
+                    "cache_key": self.cache_key(contest_dir),
+                    "submitted_logs": 1,
+                    "parsed_qsos": 12,
+                    "reconstructed_logs": 1,
+                    "skipped_existing": 0,
+                    "output_logs": 1,
+                },
+            )
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=True,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=False,
+                skip_unchanged=True,
+            )
+
+        self.assertEqual(result.skipped_unchanged, 0)
+        self.assertEqual(result.reconstructed_logs, 1)
+        self.assertEqual(result.cached_reconstructed_logs, 0)
+        self.assertEqual(result.output_logs, 0)
+
+    def test_stale_ledger_entry_does_not_suppress_missing_output(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            self.write_source_log(contest_dir)
+            dest = out_dir / "K1ABC.log"
+            ledger_path = reconstruct.ledger_path_for(
+                out_dir,
+                repo,
+                ledger_root,
+                ".reconstructed_ledger.txt",
+            )
+            key = dest.relative_to(repo).as_posix()
+            reconstruct.ReconstructLedger(ledger_path).add(key, "stale")
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=True,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=True,
+                skip_unchanged=False,
+            )
+
+        self.assertEqual(result.reconstructed_logs, 1)
+        self.assertEqual(result.skipped_existing, 0)
+
+    def test_stale_ledger_entry_does_not_suppress_missing_output_write(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            self.write_source_log(contest_dir)
+            dest = out_dir / "K1ABC.log"
+            ledger_path = reconstruct.ledger_path_for(
+                out_dir,
+                repo,
+                ledger_root,
+                ".reconstructed_ledger.txt",
+            )
+            key = dest.relative_to(repo).as_posix()
+            reconstruct.ReconstructLedger(ledger_path).add(key, "stale")
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=False,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=True,
+                skip_unchanged=False,
+            )
+
+            self.assertTrue(dest.exists())
+
+        self.assertEqual(result.reconstructed_logs, 1)
+        self.assertEqual(result.output_logs, 1)
+
+    def test_duplicate_source_qsos_are_written_once(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            contest_dir.mkdir(parents=True)
+            qso = "QSO: 14000 CW 2026-01-01 1200 S53M 599 001 K1ABC 599 002"
+            (contest_dir / "S53M.log").write_text(
+                "\n".join(
+                    [
+                        "START-OF-LOG: 3.0",
+                        "CALLSIGN: S53M",
+                        "CONTEST: TEST",
+                        qso,
+                        qso,
+                        "END-OF-LOG:",
+                    ]
+                )
+                + "\n",
+                encoding="utf-8",
+            )
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=1,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=False,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=False,
+                skip_unchanged=False,
+            )
+
+            lines = (out_dir / "K1ABC.log").read_text(encoding="utf-8").splitlines()
+            reconstructed_qsos = [line for line in lines if line.startswith("QSO:")]
+
+        self.assertEqual(result.parsed_qsos, 2)
+        self.assertEqual(result.reconstructed_logs, 1)
+        self.assertEqual(len(reconstructed_qsos), 1)
+
+    def test_dry_run_does_not_record_existing_outputs_in_ledger(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "ledgers"
+            self.write_source_log(contest_dir)
+            out_dir.mkdir(parents=True)
+            (out_dir / "K1ABC.log").write_text("START-OF-LOG: 3.0\nEND-OF-LOG:\n", encoding="utf-8")
+            ledger_path = reconstruct.ledger_path_for(
+                out_dir,
+                repo,
+                ledger_root,
+                ".reconstructed_ledger.txt",
+            )
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=True,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=True,
+                skip_unchanged=False,
+            )
+
+        self.assertEqual(result.reconstructed_logs, 0)
+        self.assertEqual(result.skipped_existing, 1)
+        self.assertFalse(ledger_path.exists())
+
+    def test_reconstruct_result_supports_legacy_tuple_unpack(self):
+        result = reconstruct.ReconstructResult(
+            submitted_logs=1,
+            parsed_qsos=2,
+            reconstructed_logs=3,
+            skipped_existing=4,
+            skipped_unchanged=5,
+            cached_reconstructed_logs=6,
+            output_logs=7,
+        )
+
+        submitted, parsed, written, skipped, unchanged = result
+
+        self.assertEqual((submitted, parsed, written, skipped, unchanged), (1, 2, 3, 4, 5))
 
 
 if __name__ == "__main__":

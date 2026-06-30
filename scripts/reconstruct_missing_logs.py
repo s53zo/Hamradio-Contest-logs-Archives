@@ -19,7 +19,7 @@ import urllib.request
 from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 
 
-RECONSTRUCTION_ALGORITHM_VERSION = 2
+RECONSTRUCTION_ALGORITHM_VERSION = 3
 STATE_SCHEMA_VERSION = 2
 
 
@@ -44,6 +44,26 @@ class ReconstructResult:
     skipped_unchanged: int
     cached_reconstructed_logs: int
     output_logs: int
+
+    def __iter__(self):
+        yield self.submitted_logs
+        yield self.parsed_qsos
+        yield self.reconstructed_logs
+        yield self.skipped_existing
+        yield self.skipped_unchanged
+
+
+def qso_identity(qso: Qso) -> Tuple[str, str, str, str, str, Tuple[str, ...], str, Tuple[str, ...]]:
+    return (
+        qso.freq,
+        qso.mode,
+        qso.date,
+        qso.time,
+        qso.mycall,
+        tuple(qso.sent_exch),
+        qso.theircall,
+        tuple(qso.recv_exch),
+    )
 
 
 class ReconstructLedger:
@@ -154,7 +174,7 @@ def collect_contest_stats(contest_dir: Path) -> Dict[str, int]:
     }
 
 
-def load_state(path: Path) -> Optional[Dict[str, int]]:
+def load_state(path: Path) -> Optional[Dict[str, Any]]:
     if not path.exists():
         return None
     try:
@@ -163,12 +183,55 @@ def load_state(path: Path) -> Optional[Dict[str, int]]:
         return None
     if not isinstance(data, dict):
         return None
-    return data  # type: ignore[return-value]
+    return data
 
 
-def save_state(path: Path, data: Dict[str, int]) -> None:
+def save_state(path: Path, data: Dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, sort_keys=True) + "\n", encoding="utf-8")
+
+
+def file_sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as fh:
+        for chunk in iter(lambda: fh.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def count_reconstructed_logs(out_dir: Path) -> int:
+    if not out_dir.exists():
+        return 0
+    return sum(1 for path in out_dir.glob("*.log") if path.is_file())
+
+
+def reconstruction_cache_key(
+    stats: Dict[str, int],
+    master_hash: str,
+    min_qsos: int,
+    limit: Optional[int],
+    use_ledger: bool,
+    created_by: str,
+    contest_name: str,
+    season_label: str,
+) -> Dict[str, Any]:
+    return {
+        "algorithm_version": RECONSTRUCTION_ALGORITHM_VERSION,
+        "source_log_count": stats["log_count"],
+        "source_total_size": stats["total_size"],
+        "source_max_mtime_ns": stats["max_mtime_ns"],
+        "master_sha256": master_hash,
+        "min_qsos": min_qsos,
+        "limit": limit,
+        "use_ledger": use_ledger,
+        "created_by": created_by,
+        "contest_name": contest_name,
+        "season_label": season_label,
+    }
+
+
+def state_matches_cache_key(state: Dict[str, Any], cache_key: Dict[str, Any]) -> bool:
+    return state.get("cache_key") == cache_key
 
 
 def normalize_call(call: str) -> str:
@@ -399,9 +462,11 @@ def reconstruct_contest(
     ledger_name: str,
     use_ledger: bool,
     skip_unchanged: bool,
-) -> Tuple[int, int, int, int, int]:
+    master_hash: str = "",
+) -> ReconstructResult:
     submitted = load_submitted_calls(contest_dir)
     recon: Dict[str, List[Qso]] = defaultdict(list)
+    recon_seen: Dict[str, Set[Tuple[str, str, str, str, str, Tuple[str, ...], str, Tuple[str, ...]]]] = defaultdict(set)
     total_qsos = 0
     skipped_existing = 0
     skipped_unchanged = 0
@@ -411,22 +476,33 @@ def reconstruct_contest(
         ledger = ReconstructLedger(ledger_path)
 
     stats = collect_contest_stats(contest_dir)
+    contest_name = contest_name or detect_contest_name(contest_dir, contest_dir.name)
+    season_label = season_label or detect_season_label(contest_dir, repo_root)
+    cache_key = reconstruction_cache_key(
+        stats=stats,
+        master_hash=master_hash,
+        min_qsos=min_qsos,
+        limit=limit,
+        use_ledger=use_ledger,
+        created_by=created_by,
+        contest_name=contest_name,
+        season_label=season_label,
+    )
     state_path = state_path_for(out_dir, repo_root, ledger_root)
     if skip_unchanged:
         prior = load_state(state_path)
-        if prior:
-            if (
-                prior.get("log_count") == stats["log_count"]
-                and prior.get("total_size") == stats["total_size"]
-                and prior.get("max_mtime_ns") == stats["max_mtime_ns"]
-            ):
+        if prior and state_matches_cache_key(prior, cache_key):
+            output_logs = count_reconstructed_logs(out_dir)
+            if output_logs == int(prior.get("output_logs", 0)):
                 skipped_unchanged = 1
-                return (
-                    int(prior.get("submitted_logs", stats["log_count"])),
-                    int(prior.get("parsed_qsos", 0)),
-                    int(prior.get("reconstructed_logs", 0)),
-                    int(prior.get("skipped_existing", 0)),
-                    skipped_unchanged,
+                return ReconstructResult(
+                    submitted_logs=int(prior.get("submitted_logs", stats["log_count"])),
+                    parsed_qsos=int(prior.get("parsed_qsos", 0)),
+                    reconstructed_logs=0,
+                    skipped_existing=0,
+                    skipped_unchanged=skipped_unchanged,
+                    cached_reconstructed_logs=output_logs,
+                    output_logs=output_logs,
                 )
 
     for log in iter_logs(contest_dir):
@@ -441,13 +517,14 @@ def reconstruct_contest(
                     continue
                 if other not in master_calls and base_call(other) not in master_calls:
                     continue
+                key = qso_identity(qso)
+                if key in recon_seen[other]:
+                    continue
+                recon_seen[other].add(key)
                 recon[other].append(qso)
 
     if not dry_run:
         out_dir.mkdir(parents=True, exist_ok=True)
-
-    contest_name = contest_name or detect_contest_name(contest_dir, contest_dir.name)
-    season_label = season_label or detect_season_label(contest_dir, Path(__file__).resolve().parents[1])
 
     written = 0
     for call, qsos in sorted(recon.items()):
@@ -461,9 +538,9 @@ def reconstruct_contest(
             key = dest_path.relative_to(repo_root).as_posix()
         except Exception:
             key = dest_path.as_posix()
-        if dest_path.exists() or (ledger and ledger.contains(key)):
+        if dest_path.exists():
             skipped_existing += 1
-            if ledger and dest_path.exists():
+            if ledger and not dry_run:
                 ledger.add(key, "exists")
             continue
         if dry_run:
@@ -482,7 +559,10 @@ def reconstruct_contest(
         written += 1
 
     if not dry_run:
+        output_logs = count_reconstructed_logs(out_dir)
         state = {
+            "schema_version": STATE_SCHEMA_VERSION,
+            "cache_key": cache_key,
             "log_count": stats["log_count"],
             "total_size": stats["total_size"],
             "max_mtime_ns": stats["max_mtime_ns"],
@@ -490,10 +570,21 @@ def reconstruct_contest(
             "parsed_qsos": total_qsos,
             "reconstructed_logs": written,
             "skipped_existing": skipped_existing,
+            "output_logs": output_logs,
         }
         save_state(state_path, state)
+    else:
+        output_logs = count_reconstructed_logs(out_dir)
 
-    return len(submitted), total_qsos, written, skipped_existing, skipped_unchanged
+    return ReconstructResult(
+        submitted_logs=len(submitted),
+        parsed_qsos=total_qsos,
+        reconstructed_logs=written,
+        skipped_existing=skipped_existing,
+        skipped_unchanged=skipped_unchanged,
+        cached_reconstructed_logs=0,
+        output_logs=output_logs,
+    )
 
 
 def main() -> int:
@@ -560,6 +651,7 @@ def main() -> int:
     out_root = Path(args.out_root) if args.out_root else (repo_root / "RECONSTRUCTED_LOGS")
     master_path = download_master_dta(args.master_url)
     try:
+        master_hash = file_sha256(master_path)
         master_calls = load_master_calls(master_path)
     finally:
         try:
@@ -582,6 +674,8 @@ def main() -> int:
     total_submitted = 0
     total_qsos = 0
     total_recon = 0
+    total_cached_recon = 0
+    total_output_logs = 0
     total_skipped = 0
     total_skipped_unchanged = 0
     processed = 0
@@ -617,6 +711,7 @@ def main() -> int:
                 contest_dir=contest_dir,
                 out_dir=out_dir,
                 master_calls=master_calls,
+                master_hash=master_hash,
                 min_qsos=args.min_qsos,
                 created_by=args.created_by,
                 contest_name=args.contest_name,
@@ -633,24 +728,29 @@ def main() -> int:
 
         for fut in concurrent.futures.as_completed(future_map):
             contest_dir, out_dir = future_map[fut]
-            submitted_count, qsos_count, recon_count, skipped_existing, skipped_unchanged = fut.result()
+            result = fut.result()
             contest_name = args.contest_name or detect_contest_name(contest_dir, contest_dir.name)
             season_label = args.season_label or detect_season_label(contest_dir, repo_root)
             processed += 1
-            total_submitted += submitted_count
-            total_qsos += qsos_count
-            total_recon += recon_count
-            total_skipped += skipped_existing
-            total_skipped_unchanged += skipped_unchanged
+            total_submitted += result.submitted_logs
+            total_qsos += result.parsed_qsos
+            total_recon += result.reconstructed_logs
+            total_cached_recon += result.cached_reconstructed_logs
+            total_output_logs += result.output_logs
+            total_skipped += result.skipped_existing
+            total_skipped_unchanged += result.skipped_unchanged
             print(
-                f"[{contest_dir}] submitted_logs={submitted_count} parsed_qsos={qsos_count} "
-                f"reconstructed_logs={recon_count} skipped_existing={skipped_existing} "
-                f"skipped_unchanged={skipped_unchanged}"
+                f"[{contest_dir}] submitted_logs={result.submitted_logs} parsed_qsos={result.parsed_qsos} "
+                f"reconstructed_logs={result.reconstructed_logs} "
+                f"cached_reconstructed_logs={result.cached_reconstructed_logs} "
+                f"output_logs={result.output_logs} skipped_existing={result.skipped_existing} "
+                f"skipped_unchanged={result.skipped_unchanged}"
             )
 
     print(
         f"total_contests={processed} submitted_logs={total_submitted} "
         f"parsed_qsos={total_qsos} reconstructed_logs={total_recon} "
+        f"cached_reconstructed_logs={total_cached_recon} output_logs={total_output_logs} "
         f"skipped_existing={total_skipped} skipped_unchanged={total_skipped_unchanged}"
     )
     if args.dry_run:
