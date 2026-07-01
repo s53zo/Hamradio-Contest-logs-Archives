@@ -6,6 +6,7 @@ long-term preservation of contest activity data.
 
 ## Current Snapshot
 
+<!-- STATS:START -->
 SH6-indexed snapshot counted on 2026-07-01:
 
 - total indexed log files: 2,183,576
@@ -14,6 +15,7 @@ SH6-indexed snapshot counted on 2026-07-01:
 - unique source/public callsigns in the SH6 index: 176,968
 - contest roots in the SH6 index: 33
 - SQLite shard files in `SH6/`: 256
+<!-- STATS:END -->
 
 These numbers change as new public sources are added, newer contest years are
 published, reconstructed logs are regenerated, and SH6 shards are rebuilt.
@@ -71,6 +73,7 @@ are grouped under `DARC/`.
 
 ## Available Years By Top-Level Directory
 
+<!-- YEARS:START -->
 Years are collected from SH6 index metadata derived from archive paths.
 `RECONSTRUCTED_LOGS` and repo/tooling directories are excluded from this
 source/public table.
@@ -90,8 +93,8 @@ source/public table.
 | EUHFC | 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025 | 20,864 |
 | HamSpiritContest | 2024, 2025 | 1,783 |
 | Istra Open Contest | 2026 | 90 |
-| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 39,540 |
 | OK OM DX Contest | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 18,923 |
+| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 39,540 |
 | RCCCup | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 950 |
 | RDAContest | 2018, 2019, 2020, 2021, 2022, 2023 | 4,123 |
 | REF | 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 33,304 |
@@ -102,13 +105,14 @@ source/public table.
 | TTC-SPCWC | 2026 | 330 |
 | URE | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 49,981 |
 | WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 33,323 |
-| WednesdayMiniTest40m | 2026 | 972 |
-| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,221 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 6,170 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 10,328 |
+| WednesdayMiniTest40m | 2026 | 972 |
+| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,221 |
 | YU DX Contest | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 4,328 |
 | YuriGagarinDXContest | 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 7,215 |
 | ZRS KVP | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,711 |
+<!-- YEARS:END -->
 
 ## Data Quality
 
