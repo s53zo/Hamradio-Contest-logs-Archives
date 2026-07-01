@@ -77,7 +77,7 @@ import unicodedata
 import urllib.parse
 import urllib.request
 from datetime import date
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Callable, Dict, Iterable, List, Tuple
 
@@ -99,7 +99,7 @@ if not getattr(http.client, "_hmra_safe_close", False):
 import subprocess
 import sqlite3
 import zlib
-from collections import OrderedDict
+from collections import Counter, OrderedDict, defaultdict
 
 
 def pick_user_agent() -> str:
@@ -766,6 +766,193 @@ def build_sqlite_shards(repo_root: Path, shard_dir: Path, progress_every: int = 
         conn.close()
 
     return entries
+
+
+README_STATS_START = "<!-- STATS:START -->"
+README_STATS_END = "<!-- STATS:END -->"
+README_YEARS_START = "<!-- YEARS:START -->"
+README_YEARS_END = "<!-- YEARS:END -->"
+
+README_CONTEST_LABELS = {
+    "9A_HRS_Contest": "9A HRS Contest",
+    "EUDX_contest": "EUDX contest",
+    "EU_VHF_CONTESTS": "EU VHF CONTESTS",
+    "Istra_Open_Contest": "Istra Open Contest",
+    "OK1WC_Memorial": "OK1WC Memorial",
+    "OK_OM_DX_Contest": "OK OM DX Contest",
+    "SPDX_contest": "SPDX contest",
+    "WW_PMC": "WW PMC",
+    "YU_DX_Contest": "YU DX Contest",
+    "ZRS_KVP": "ZRS KVP",
+}
+
+
+@dataclass
+class ReadmeStats:
+    shard_count: int
+    total_logs: int = 0
+    source_logs: int = 0
+    reconstructed_logs: int = 0
+    source_callsigns: set[str] = field(default_factory=set)
+    contest_roots: set[str] = field(default_factory=set)
+    source_contest_counts: Counter[str] = field(default_factory=Counter)
+    source_contest_years: Dict[str, set[int]] = field(default_factory=lambda: defaultdict(set))
+
+    @property
+    def source_callsign_count(self) -> int:
+        return len(self.source_callsigns)
+
+    @property
+    def contest_root_count(self) -> int:
+        return len(self.contest_roots)
+
+
+def format_count(value: int) -> str:
+    return f"{value:,}"
+
+
+def readme_contest_label(contest: str) -> str:
+    return README_CONTEST_LABELS.get(contest, contest)
+
+
+def collect_readme_stats(shard_dir: Path) -> ReadmeStats:
+    shard_paths = sorted(shard_dir.glob("logs_*.sqlite"))
+    stats = ReadmeStats(shard_count=len(shard_paths))
+
+    for shard_path in shard_paths:
+        conn = sqlite3.connect(shard_path)
+        try:
+            stats.total_logs += int(conn.execute("SELECT count(*) FROM logs").fetchone()[0])
+            stats.reconstructed_logs += int(
+                conn.execute(
+                    "SELECT count(*) FROM logs WHERE path LIKE 'RECONSTRUCTED_LOGS/%'"
+                ).fetchone()[0]
+            )
+            stats.source_logs += int(
+                conn.execute(
+                    "SELECT count(*) FROM logs WHERE path NOT LIKE 'RECONSTRUCTED_LOGS/%'"
+                ).fetchone()[0]
+            )
+            stats.contest_roots.update(
+                str(row[0])
+                for row in conn.execute("SELECT DISTINCT contest FROM logs WHERE contest IS NOT NULL AND contest != ''")
+            )
+            stats.source_callsigns.update(
+                str(row[0])
+                for row in conn.execute(
+                    """
+                    SELECT DISTINCT callsign
+                    FROM logs
+                    WHERE path NOT LIKE 'RECONSTRUCTED_LOGS/%'
+                      AND callsign IS NOT NULL
+                      AND callsign != ''
+                    """
+                )
+            )
+            stats.source_contest_counts.update(
+                {
+                    str(contest): int(count)
+                    for contest, count in conn.execute(
+                        """
+                        SELECT contest, count(*)
+                        FROM logs
+                        WHERE path NOT LIKE 'RECONSTRUCTED_LOGS/%'
+                          AND contest IS NOT NULL
+                          AND contest != ''
+                        GROUP BY contest
+                        """
+                    )
+                }
+            )
+            for contest, year in conn.execute(
+                """
+                SELECT DISTINCT contest, year
+                FROM logs
+                WHERE path NOT LIKE 'RECONSTRUCTED_LOGS/%'
+                  AND contest IS NOT NULL
+                  AND contest != ''
+                  AND typeof(year) = 'integer'
+                """
+            ):
+                stats.source_contest_years[str(contest)].add(int(year))
+        finally:
+            conn.close()
+    return stats
+
+
+def render_readme_stats(stats: ReadmeStats, today: date | None = None) -> str:
+    today = today or date.today()
+    return "\n".join(
+        [
+            README_STATS_START,
+            f"SH6-indexed snapshot counted on {today.isoformat()}:",
+            "",
+            f"- total indexed log files: {format_count(stats.total_logs)}",
+            f"- source/public indexed log files: {format_count(stats.source_logs)}",
+            (
+                "- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: "
+                f"{format_count(stats.reconstructed_logs)}"
+            ),
+            (
+                "- unique source/public callsigns in the SH6 index: "
+                f"{format_count(stats.source_callsign_count)}"
+            ),
+            f"- contest roots in the SH6 index: {format_count(stats.contest_root_count)}",
+            f"- SQLite shard files in `SH6/`: {format_count(stats.shard_count)}",
+            README_STATS_END,
+        ]
+    )
+
+
+def render_readme_years_table(stats: ReadmeStats) -> str:
+    lines = [
+        README_YEARS_START,
+        "Years are collected from SH6 index metadata derived from archive paths.",
+        "`RECONSTRUCTED_LOGS` and repo/tooling directories are excluded from this",
+        "source/public table.",
+        "",
+        "| Top-level directory | Available years | Indexed source/public logs |",
+        "|---|---|---:|",
+    ]
+    for contest in sorted(stats.source_contest_counts, key=lambda value: (readme_contest_label(value), value)):
+        years = ", ".join(str(year) for year in sorted(stats.source_contest_years.get(contest, set())))
+        lines.append(
+            f"| {readme_contest_label(contest)} | {years} | "
+            f"{format_count(stats.source_contest_counts[contest])} |"
+        )
+    lines.append(README_YEARS_END)
+    return "\n".join(lines)
+
+
+def replace_marked_section(text: str, start_marker: str, end_marker: str, replacement: str) -> str:
+    if text.count(start_marker) != 1 or text.count(end_marker) != 1:
+        raise ValueError(f"Expected exactly one README marker pair: {start_marker} / {end_marker}")
+    start = text.find(start_marker)
+    end = text.find(end_marker)
+    if start == -1 or end == -1 or end < start:
+        raise ValueError(f"Missing README markers: {start_marker} / {end_marker}")
+    end += len(end_marker)
+    return text[:start] + replacement + text[end:]
+
+
+def update_readme_from_shards(repo_root: Path, shard_dir: Path, today: date | None = None) -> None:
+    readme_path = repo_root / "README.md"
+    stats = collect_readme_stats(shard_dir)
+    text = readme_path.read_text(encoding="utf-8")
+    text = replace_marked_section(
+        text,
+        README_STATS_START,
+        README_STATS_END,
+        render_readme_stats(stats, today=today),
+    )
+    text = replace_marked_section(
+        text,
+        README_YEARS_START,
+        README_YEARS_END,
+        render_readme_years_table(stats),
+    )
+    readme_path.write_text(text, encoding="utf-8")
+
 
 class DownloadLedger:
     def __init__(self, path: Path) -> None:
@@ -4705,6 +4892,11 @@ def main() -> int:
         help="Delete and rebuild SH6 SQLite shard indexes after downloads.",
     )
     parser.add_argument(
+        "--no-update-readme",
+        action="store_true",
+        help="Do not refresh README.md stats after rebuilding SH6 shards.",
+    )
+    parser.add_argument(
         "--no-task-ledger",
         action="store_true",
         help="Disable task hash ledger (always rediscover/download lists).",
@@ -4727,11 +4919,18 @@ def main() -> int:
         try:
             shard_count = build_sqlite_shards(Path("."), shard_dir)
             print(f"Shard entries: {shard_count}")
-            print("Done.")
-            return 0
         except Exception as exc:  # pylint: disable=broad-except
             print(f"SQLite shard rebuild failed: {exc}", file=sys.stderr)
             return 1
+        if not args.no_update_readme:
+            try:
+                update_readme_from_shards(Path("."), shard_dir)
+                print("Updated README.md stats.")
+            except Exception as exc:  # pylint: disable=broad-except
+                print(f"README.md stats update failed: {exc}", file=sys.stderr)
+                return 1
+        print("Done.")
+        return 0
 
     if not args.no_task_ledger:
         TASK_LEDGER = TaskLedger(TASK_LEDGER_PATH)
@@ -5102,11 +5301,20 @@ def main() -> int:
                 print(f"Reconstruction failed (exit {proc.returncode}).", file=sys.stderr)
     shard_dir = Path("SH6")
     print(f"\nRebuilding SQLite shards in: {shard_dir}")
+    shards_rebuilt = False
     try:
         shard_count = build_sqlite_shards(Path("."), shard_dir)
         print(f"Shard entries: {shard_count}")
+        shards_rebuilt = True
     except Exception as exc:  # pylint: disable=broad-except
         print(f"SQLite shard rebuild failed: {exc}", file=sys.stderr)
+    if shards_rebuilt and not args.no_update_readme:
+        try:
+            update_readme_from_shards(Path("."), shard_dir)
+            print("Updated README.md stats.")
+        except Exception as exc:  # pylint: disable=broad-except
+            print(f"README.md stats update failed: {exc}", file=sys.stderr)
+            return 1
     if not args.non_interactive:
         prompt_git_push()
     print("Done.")

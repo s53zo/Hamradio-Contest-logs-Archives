@@ -3,6 +3,7 @@ import sqlite3
 import sys
 import tempfile
 import unittest
+from datetime import date
 from pathlib import Path
 
 
@@ -101,6 +102,201 @@ class ManifestMetadataTests(unittest.TestCase):
             self.assertIn("subcontest", columns)
             self.assertIn("detail", columns)
             self.assertEqual(row, ("DARC/RTTY_Kurzcontest/2026/jan/S53M.log", "DARC", 2026, "RTTY", "Winter", "RTTY_Kurzcontest", "jan"))
+
+    def test_replace_marked_section_preserves_surrounding_content(self):
+        text = "before\n<!-- X:START -->\nold\n<!-- X:END -->\nafter\n"
+
+        updated = pld.replace_marked_section(
+            text,
+            "<!-- X:START -->",
+            "<!-- X:END -->",
+            "<!-- X:START -->\nnew\n<!-- X:END -->",
+        )
+
+        self.assertEqual(updated, "before\n<!-- X:START -->\nnew\n<!-- X:END -->\nafter\n")
+
+    def test_replace_marked_section_rejects_duplicate_markers(self):
+        text = "<!-- X:START -->\none\n<!-- X:END -->\n<!-- X:START -->\ntwo\n<!-- X:END -->\n"
+
+        with self.assertRaises(ValueError):
+            pld.replace_marked_section(
+                text,
+                "<!-- X:START -->",
+                "<!-- X:END -->",
+                "<!-- X:START -->\nnew\n<!-- X:END -->",
+            )
+
+    def test_readme_stats_aggregate_source_and_reconstructed_logs(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            shard_dir = Path(tmp) / "SH6"
+            shard_dir.mkdir()
+            shard = shard_dir / "logs_00.sqlite"
+            conn = sqlite3.connect(shard)
+            try:
+                conn.execute(
+                    """
+                    CREATE TABLE logs (
+                        path TEXT,
+                        callsign TEXT,
+                        contest TEXT,
+                        year INTEGER,
+                        mode TEXT,
+                        season TEXT,
+                        subcontest TEXT,
+                        detail TEXT
+                    )
+                    """
+                )
+                conn.executemany(
+                    """
+                    INSERT INTO logs (path, callsign, contest, year, mode, season, subcontest, detail)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    [
+                        ("CQWW/cw/2025/S53M.log", "S53M", "CQWW", 2025, "CW", "", "", "cw"),
+                        ("CQWW/ssb/2024/S53M.log", "S53M", "CQWW", 2024, "PH", "", "", "ssb"),
+                        ("TTC-SPCWC/2026-06-23/SM0OEK.log", "SM0OEK", "TTC-SPCWC", 2026, "CW", "", "", ""),
+                        (
+                            "RECONSTRUCTED_LOGS/CQWW/cw/2025/TEST.log",
+                            "TEST",
+                            "CQWW",
+                            2025,
+                            "CW",
+                            "",
+                            "",
+                            "cw",
+                        ),
+                    ],
+                )
+                conn.commit()
+            finally:
+                conn.close()
+
+            stats = pld.collect_readme_stats(shard_dir)
+            stats_text = pld.render_readme_stats(stats, today=date(2026, 7, 1))
+            years_text = pld.render_readme_years_table(stats)
+
+        self.assertEqual(stats.total_logs, 4)
+        self.assertEqual(stats.source_logs, 3)
+        self.assertEqual(stats.reconstructed_logs, 1)
+        self.assertEqual(stats.source_callsign_count, 2)
+        self.assertEqual(stats.contest_root_count, 2)
+        self.assertIn("- source/public indexed log files: 3", stats_text)
+        self.assertIn("- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 1", stats_text)
+        self.assertIn("| CQWW | 2024, 2025 | 2 |", years_text)
+        self.assertIn("| TTC-SPCWC | 2026 | 1 |", years_text)
+
+    def test_readme_stats_aggregate_multiple_shards_and_ignore_non_integer_years(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            shard_dir = Path(tmp) / "SH6"
+            shard_dir.mkdir()
+            for idx, rows in enumerate(
+                [
+                    [
+                        ("CQWW/cw/2025/S53M.log", "S53M", "CQWW", 2025, "CW", "", "", "cw"),
+                        ("CQWW/cw/bad/S54M.log", "S54M", "CQWW", "bad", "CW", "", "", "cw"),
+                    ],
+                    [
+                        ("ARRL/arrl_10_meter_contest/2026/K1ABC.log", "K1ABC", "ARRL", 2026, "MIXED", "", "arrl_10_meter_contest", ""),
+                        ("RECONSTRUCTED_LOGS/ARRL/arrl_10_meter_contest/2026/K2ABC.log", "K2ABC", "ARRL", 2026, "MIXED", "", "arrl_10_meter_contest", ""),
+                    ],
+                ]
+            ):
+                conn = sqlite3.connect(shard_dir / f"logs_{idx:02x}.sqlite")
+                try:
+                    conn.execute(
+                        """
+                        CREATE TABLE logs (
+                            path TEXT,
+                            callsign TEXT,
+                            contest TEXT,
+                            year,
+                            mode TEXT,
+                            season TEXT,
+                            subcontest TEXT,
+                            detail TEXT
+                        )
+                        """
+                    )
+                    conn.executemany(
+                        """
+                        INSERT INTO logs (path, callsign, contest, year, mode, season, subcontest, detail)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                        """,
+                        rows,
+                    )
+                    conn.commit()
+                finally:
+                    conn.close()
+
+            stats = pld.collect_readme_stats(shard_dir)
+            years_text = pld.render_readme_years_table(stats)
+
+        self.assertEqual(stats.shard_count, 2)
+        self.assertEqual(stats.total_logs, 4)
+        self.assertEqual(stats.source_logs, 3)
+        self.assertEqual(stats.reconstructed_logs, 1)
+        self.assertEqual(stats.source_callsign_count, 3)
+        self.assertIn("| ARRL | 2026 | 1 |", years_text)
+        self.assertIn("| CQWW | 2025 | 2 |", years_text)
+
+    def test_update_readme_from_shards_rewrites_only_marked_sections(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            shard_dir = repo / "SH6"
+            shard_dir.mkdir()
+            (repo / "README.md").write_text(
+                "\n".join(
+                    [
+                        "top",
+                        pld.README_STATS_START,
+                        "old stats",
+                        pld.README_STATS_END,
+                        "middle",
+                        pld.README_YEARS_START,
+                        "old years",
+                        pld.README_YEARS_END,
+                        "bottom",
+                        "",
+                    ]
+                ),
+                encoding="utf-8",
+            )
+            conn = sqlite3.connect(shard_dir / "logs_00.sqlite")
+            try:
+                conn.execute(
+                    """
+                    CREATE TABLE logs (
+                        path TEXT,
+                        callsign TEXT,
+                        contest TEXT,
+                        year INTEGER,
+                        mode TEXT,
+                        season TEXT,
+                        subcontest TEXT,
+                        detail TEXT
+                    )
+                    """
+                )
+                conn.execute(
+                    """
+                    INSERT INTO logs (path, callsign, contest, year, mode, season, subcontest, detail)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    ("ARRL/arrl_10_meter_contest/2026/S53M.log", "S53M", "ARRL", 2026, "MIXED", "", "arrl_10_meter_contest", ""),
+                )
+                conn.commit()
+            finally:
+                conn.close()
+
+            pld.update_readme_from_shards(repo, shard_dir, today=date(2026, 7, 1))
+            text = (repo / "README.md").read_text(encoding="utf-8")
+
+        self.assertTrue(text.startswith("top\n"))
+        self.assertIn("middle\n", text)
+        self.assertTrue(text.endswith("bottom\n"))
+        self.assertIn("- total indexed log files: 1", text)
+        self.assertIn("| ARRL | 2026 | 1 |", text)
 
 
 if __name__ == "__main__":
