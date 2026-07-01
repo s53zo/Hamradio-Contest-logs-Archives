@@ -34,6 +34,7 @@ Supports:
   31) URE public logs (EAPSK63/EARTTY/King of Spain/CNCW/CME)
   32) 9A HRS contests (HF Robot public QSO tables)
   33) Istra Open Contest (public Cabrillo logs)
+  34) TTC-SPCWC (public checked-log tables)
 
 Directory layout roots:
   CQWW/, CQWPX/, CQWWRTTY/, CQ160/, CQWPXRTTY/, ARRL/<contest_slug>/,
@@ -47,7 +48,7 @@ Directory layout roots:
   OK_Contest/<year>/<mode>/, OK_OM_DX_Contest/<year>/<mode>/, OK_DX_RTTY_contest/<year>/,
   SPDX_contest/<year>/, OK1WC_Memorial/<date>/, YU_DX_Contest/<year>/,
   SAC/<mode>/<year>/, URE/<contest>/<year>/, 9A_HRS_Contest/<contest>/<year>/,
-  Istra_Open_Contest/<year>/,
+  Istra_Open_Contest/<year>/, TTC-SPCWC/<date>/,
   DARC/Fieldday/<mode>/<year>/, DARC/WAG/<year>/,
   DARC/Ausbildungscontest/<year>/, DARC/Ausbildungscontest_CW/<year>/<edition>/,
   DARC/RTTY_Kurzcontest/<year>/<edition>/, DARC/FT4/<year>/<edition>/,
@@ -148,6 +149,7 @@ HOST_WORKER_CAPS = {
     "concursos.ure.es": 4,
     "www.hamradio.hr": 4,
     "ioc.9a1p.com": 4,
+    "spcwc.pl": 2,
 }
 
 PRINT_LOCK = threading.Lock()
@@ -191,6 +193,7 @@ MANIFEST_ROOTS = {
     "9A_HRS_Contest",
     "ZRS_KVP",
     "SPDX_contest",
+    "TTC-SPCWC",
     "URE",
     "RECONSTRUCTED_LOGS",
 }
@@ -2492,6 +2495,66 @@ def tasks_istra_open(last: int | None) -> List[DownloadTask]:
     return tasks
 
 
+# ----- TTC-SPCWC -----
+def tasks_ttc_spcwc(last: int | None) -> List[DownloadTask]:
+    import download_ttc_spcwc_logs as ttc  # type: ignore
+
+    tasks: List[DownloadTask] = []
+    rounds = list(ttc.iter_rounds(last))
+    for round_info in rounds:
+        try:
+            stations = ttc.discover_station_logs(round_info)
+        except Exception as exc:  # pylint: disable=broad-except
+            with PRINT_LOCK:
+                print(f"TTC-SPCWC list failed {round_info.date}: {exc}")
+            continue
+        if not stations:
+            continue
+        task_key = f"TTC-SPCWC/{round_info.date}"
+        urls = [station.url for station in stations]
+        dests = [ttc.destination_for(station) for station in stations]
+        skip, list_hash, count = task_should_skip_known_outputs(
+            task_key, urls, dests, label="TTC-SPCWC"
+        )
+        if skip:
+            continue
+        created = 0
+        for station, dest in zip(stations, dests):
+            if valid_existing_log(dest):
+                continue
+            remove_invalid_existing(dest)
+
+            def action(station=station, dest=dest) -> Dict[str, int]:
+                try:
+                    payload = ttc.fetch_log(station)
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    dest.write_text(payload, encoding="utf-8")
+                    with PRINT_LOCK:
+                        print(f"ok   {dest}")
+                    return {"ok": 1}
+                except Exception as exc:  # pylint: disable=broad-except
+                    with PRINT_LOCK:
+                        print(f"fail {station.url}: {exc}")
+                    return {"error": 1}
+
+            tasks.append(
+                DownloadTask(
+                    dest=dest,
+                    host=urllib.parse.urlparse(station.url).hostname or "unknown",
+                    source="TTC-SPCWC",
+                    action=action,
+                    task_key=task_key,
+                    task_hash=list_hash,
+                    task_count=count,
+                    output_roots=(ttc.OUTPUT_ROOT.as_posix(),),
+                )
+            )
+            created += 1
+        if created == 0:
+            task_mark_complete(task_key, list_hash, count)
+    return tasks
+
+
 # ----- OK-OM DX Contest -----
 def tasks_okomdx(last: int | None) -> List[DownloadTask]:
     import download_okomdx_logs as okom  # type: ignore
@@ -4473,6 +4536,7 @@ PROVIDERS: Dict[int, Tuple[str, ProviderFn]] = {
     31: ("URE public logs (EAPSK63/EARTTY/King of Spain/CNCW/CME)", tasks_ure),
     32: ("9A HRS contests (HF Robot public QSO tables)", tasks_hrs_hf),
     33: ("Istra Open Contest (public Cabrillo logs)", tasks_istra_open),
+    34: ("TTC-SPCWC (public checked-log tables)", tasks_ttc_spcwc),
 }
 UA9QCQ_PROVIDER_IDS = {11, 12, 13, 14, 15, 17, 18, 19, 20}
 UA9QCQ_PROGRESS_EVERY = 100
