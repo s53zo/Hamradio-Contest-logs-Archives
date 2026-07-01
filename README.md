@@ -6,14 +6,14 @@ long-term preservation of contest activity data.
 
 ## Current Snapshot
 
-Local snapshot counted on 2026-06-08:
+SH6-indexed snapshot counted on 2026-07-01:
 
-- total log files: 2,161,392
-- source/public log files: 1,737,108
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 424,284
-- parsed `QSO:` lines across all logs: 499,720,379
-- parsed `QSO:` lines in source/public logs only: 462,281,835
-- unique source/public log callsigns, counted from log filenames: 176,729
+- total indexed log files: 2,183,576
+- source/public indexed log files: 1,746,429
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 437,147
+- unique source/public callsigns in the SH6 index: 176,968
+- contest roots in the SH6 index: 33
+- SQLite shard files in `SH6/`: 256
 
 These numbers change as new public sources are added, newer contest years are
 published, reconstructed logs are regenerated, and SH6 shards are rebuilt.
@@ -37,6 +37,7 @@ Current downloader coverage includes:
 - `REF`
 - `EUDX_contest`
 - `Istra_Open_Contest`
+- `TTC-SPCWC`
 - OK contest family: `OK_Contest`, `OK_OM_DX_Contest`, `OK_DX_RTTY_contest`
 - `DARC` contests: Fieldday, WAG, Ausbildungscontest, Ausbildungscontest CW, RTTY Kurzcontest, FT4, Easter, XMAS
 - `WWDIGI`
@@ -59,6 +60,7 @@ DARC/WAG/2024/K1ABC.log
 DARC/Fieldday/CW/2024/K1ABC.log
 SAC/CW/2024/K1ABC.log
 9A_HRS_Contest/Zimski_KV_Kup/2026/K1ABC.log
+TTC-SPCWC/2026-06-23/K1ABC.log
 OK1WC_Memorial/2026-03-30/OK1ABC.log
 RECONSTRUCTED_LOGS/CQWW/cw/2024/K1ABC.log
 SH6/logs_00.sqlite
@@ -69,36 +71,39 @@ are grouped under `DARC/`.
 
 ## Available Years By Top-Level Directory
 
-Years are collected recursively from archive directory names under each top-level directory. `RECONSTRUCTED_LOGS` and repo/tooling directories are excluded.
+Years are collected from SH6 index metadata derived from archive paths.
+`RECONSTRUCTED_LOGS` and repo/tooling directories are excluded from this
+source/public table.
 
-| Top-level directory | Available years | Log files |
+| Top-level directory | Available years | Indexed source/public logs |
 |---|---|---:|
 | 9A HRS Contest | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 16,286 |
 | ARRL | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 236,363 |
 | CQ160 | 2022, 2023, 2024, 2025, 2026 | 13,534 |
-| CQWPX | 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 188,235 |
+| CQWPX | 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 193,631 |
 | CQWPXRTTY | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 45,154 |
 | CQWW | 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 298,806 |
 | CQWWRTTY | 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 52,519 |
-| DARC | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 36,319 |
-| EU VHF CONTESTS | 1980, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2039, 2056, 2057, 2065 | 572,880 |
+| DARC | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 36,496 |
+| EU VHF CONTESTS | 1980, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2039, 2056, 2057, 2065 | 572,956 |
 | EUDX contest | 2023, 2024, 2025 | 5,822 |
-| EUHFC | 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025 | 20,860 |
+| EUHFC | 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025 | 20,864 |
 | HamSpiritContest | 2024, 2025 | 1,783 |
 | Istra Open Contest | 2026 | 90 |
-| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 39,017 |
+| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 39,540 |
 | OK OM DX Contest | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 18,923 |
-| RCCCup | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 949 |
+| RCCCup | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 950 |
 | RDAContest | 2018, 2019, 2020, 2021, 2022, 2023 | 4,123 |
 | REF | 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 33,304 |
 | RFChampionshipCW | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 2,153 |
 | RussianRadioTeamChampionship | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 1,140 |
-| SAC | 2021, 2023, 2024 | 6,351 |
+| SAC | 2021, 2023, 2024, 2025 | 8,244 |
 | SPDX contest | 2019, 2020, 2021, 2023, 2024, 2025, 2026 | 16,169 |
+| TTC-SPCWC | 2026 | 330 |
 | URE | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 49,981 |
 | WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 33,323 |
-| WednesdayMiniTest40m | 2026 | 824 |
-| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,152 |
+| WednesdayMiniTest40m | 2026 | 972 |
+| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,221 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 6,170 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 10,328 |
 | YU DX Contest | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 4,328 |
