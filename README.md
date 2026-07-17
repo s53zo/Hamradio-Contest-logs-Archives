@@ -7,12 +7,12 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-07-15:
+SH6-indexed snapshot counted on 2026-07-17:
 
-- total indexed log files: 2,184,978
-- source/public indexed log files: 1,747,226
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 437,752
-- unique source/public callsigns in the SH6 index: 177,004
+- total indexed log files: 2,187,212
+- source/public indexed log files: 1,748,500
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 438,712
+- unique source/public callsigns in the SH6 index: 177,119
 - contest roots in the SH6 index: 33
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -99,6 +99,7 @@ source/public table.
 | RDAContest | 2018, 2019, 2020, 2021, 2022, 2023 | 4,123 |
 | REF | 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 33,304 |
 | RFChampionshipCW | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 2,153 |
+| RussianDXContest | 2026 | 1,274 |
 | RussianRadioTeamChampionship | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 1,140 |
 | SAC | 2021, 2023, 2024, 2025 | 8,244 |
 | SPDX contest | 2019, 2020, 2021, 2023, 2024, 2025, 2026 | 16,169 |
