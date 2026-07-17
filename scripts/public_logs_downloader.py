@@ -795,8 +795,8 @@ class ReadmeStats:
     reconstructed_logs: int = 0
     source_callsigns: set[str] = field(default_factory=set)
     contest_roots: set[str] = field(default_factory=set)
-    source_contest_counts: Counter[str] = field(default_factory=Counter)
-    source_contest_years: Dict[str, set[int]] = field(default_factory=lambda: defaultdict(set))
+    contest_counts: Counter[str] = field(default_factory=Counter)
+    contest_years: Dict[str, set[int]] = field(default_factory=lambda: defaultdict(set))
 
     @property
     def source_callsign_count(self) -> int:
@@ -849,15 +849,14 @@ def collect_readme_stats(shard_dir: Path) -> ReadmeStats:
                     """
                 )
             )
-            stats.source_contest_counts.update(
+            stats.contest_counts.update(
                 {
                     str(contest): int(count)
                     for contest, count in conn.execute(
                         """
                         SELECT contest, count(*)
                         FROM logs
-                        WHERE path NOT LIKE 'RECONSTRUCTED_LOGS/%'
-                          AND contest IS NOT NULL
+                        WHERE contest IS NOT NULL
                           AND contest != ''
                         GROUP BY contest
                         """
@@ -868,13 +867,12 @@ def collect_readme_stats(shard_dir: Path) -> ReadmeStats:
                 """
                 SELECT DISTINCT contest, year
                 FROM logs
-                WHERE path NOT LIKE 'RECONSTRUCTED_LOGS/%'
-                  AND contest IS NOT NULL
+                WHERE contest IS NOT NULL
                   AND contest != ''
                   AND typeof(year) = 'integer'
                 """
             ):
-                stats.source_contest_years[str(contest)].add(int(year))
+                stats.contest_years[str(contest)].add(int(year))
         finally:
             conn.close()
     return stats
@@ -908,17 +906,17 @@ def render_readme_years_table(stats: ReadmeStats) -> str:
     lines = [
         README_YEARS_START,
         "Years are collected from SH6 index metadata derived from archive paths.",
-        "`RECONSTRUCTED_LOGS` and repo/tooling directories are excluded from this",
-        "source/public table.",
+        "Source/public logs and reconstructed logs are included; repo/tooling",
+        "directories are not indexed.",
         "",
-        "| Top-level directory | Available years | Indexed source/public logs |",
+        "| Top-level directory | Available years | Indexed logs |",
         "|---|---|---:|",
     ]
-    for contest in sorted(stats.source_contest_counts, key=lambda value: (readme_contest_label(value), value)):
-        years = ", ".join(str(year) for year in sorted(stats.source_contest_years.get(contest, set())))
+    for contest in sorted(stats.contest_counts, key=lambda value: (readme_contest_label(value), value)):
+        years = ", ".join(str(year) for year in sorted(stats.contest_years.get(contest, set())))
         lines.append(
             f"| {readme_contest_label(contest)} | {years} | "
-            f"{format_count(stats.source_contest_counts[contest])} |"
+            f"{format_count(stats.contest_counts[contest])} |"
         )
     lines.append(README_YEARS_END)
     return "\n".join(lines)

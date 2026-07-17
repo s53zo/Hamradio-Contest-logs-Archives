@@ -183,7 +183,7 @@ class ManifestMetadataTests(unittest.TestCase):
         self.assertEqual(stats.contest_root_count, 2)
         self.assertIn("- source/public indexed log files: 3", stats_text)
         self.assertIn("- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 1", stats_text)
-        self.assertIn("| CQWW | 2024, 2025 | 2 |", years_text)
+        self.assertIn("| CQWW | 2024, 2025 | 3 |", years_text)
         self.assertIn("| TTC-SPCWC | 2026 | 1 |", years_text)
 
     def test_readme_stats_aggregate_multiple_shards_and_ignore_non_integer_years(self):
@@ -237,8 +237,66 @@ class ManifestMetadataTests(unittest.TestCase):
         self.assertEqual(stats.source_logs, 3)
         self.assertEqual(stats.reconstructed_logs, 1)
         self.assertEqual(stats.source_callsign_count, 3)
-        self.assertIn("| ARRL | 2026 | 1 |", years_text)
+        self.assertIn("| ARRL | 2026 | 2 |", years_text)
         self.assertIn("| CQWW | 2025 | 2 |", years_text)
+
+    def test_readme_years_table_includes_reconstructed_only_years(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            shard_dir = Path(tmp) / "SH6"
+            shard_dir.mkdir()
+            conn = sqlite3.connect(shard_dir / "logs_00.sqlite")
+            try:
+                conn.execute(
+                    """
+                    CREATE TABLE logs (
+                        path TEXT,
+                        callsign TEXT,
+                        contest TEXT,
+                        year INTEGER,
+                        mode TEXT,
+                        season TEXT,
+                        subcontest TEXT,
+                        detail TEXT
+                    )
+                    """
+                )
+                conn.executemany(
+                    """
+                    INSERT INTO logs (path, callsign, contest, year, mode, season, subcontest, detail)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    [
+                        ("RussianDXContest/2026/RA1ABC.log", "RA1ABC", "RussianDXContest", 2026, "MIXED", "", "", ""),
+                        (
+                            "RECONSTRUCTED_LOGS/RussianDXContest/2020/RW1ABC.log",
+                            "RW1ABC",
+                            "RussianDXContest",
+                            2020,
+                            "MIXED",
+                            "",
+                            "",
+                            "",
+                        ),
+                        (
+                            "RECONSTRUCTED_LOGS/RussianDXContest/2025/RW2ABC.log",
+                            "RW2ABC",
+                            "RussianDXContest",
+                            2025,
+                            "MIXED",
+                            "",
+                            "",
+                            "",
+                        ),
+                    ],
+                )
+                conn.commit()
+            finally:
+                conn.close()
+
+            stats = pld.collect_readme_stats(shard_dir)
+            years_text = pld.render_readme_years_table(stats)
+
+        self.assertIn("| RussianDXContest | 2020, 2025, 2026 | 3 |", years_text)
 
     def test_update_readme_from_shards_rewrites_only_marked_sections(self):
         with tempfile.TemporaryDirectory() as tmp:
