@@ -183,6 +183,7 @@ MANIFEST_ROOTS = {
     "RussianRadioTeamChampionship",
     "SAC",
     "WAE",
+    "WRTC",
     "WednesdayMiniTest40m",
     "WednesdayMiniTest80m",
     "DARC",
