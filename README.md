@@ -9,9 +9,9 @@ long-term preservation of contest activity data.
 <!-- STATS:START -->
 SH6-indexed snapshot counted on 2026-07-21:
 
-- total indexed log files: 2,187,262
+- total indexed log files: 2,190,365
 - source/public indexed log files: 1,748,550
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 438,712
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 441,815
 - unique source/public callsigns in the SH6 index: 177,169
 - contest roots in the SH6 index: 34
 - SQLite shard files in `SH6/`: 256
@@ -107,7 +107,7 @@ directories are not indexed.
 | TTC-SPCWC | 2026 | 445 |
 | URE | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 58,424 |
 | WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 48,759 |
-| WRTC | 2026 | 50 |
+| WRTC | 2026 | 3,153 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 8,450 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 13,397 |
 | WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,068 |
