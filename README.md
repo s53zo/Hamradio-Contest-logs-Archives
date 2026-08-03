@@ -7,7 +7,7 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-08-01:
+SH6-indexed snapshot counted on 2026-08-03:
 
 - total indexed log files: 2,192,841
 - source/public indexed log files: 1,750,050
