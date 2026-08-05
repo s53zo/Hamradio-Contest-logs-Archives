@@ -7,12 +7,12 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-08-03:
+SH6-indexed snapshot counted on 2026-08-05:
 
-- total indexed log files: 2,192,841
-- source/public indexed log files: 1,750,050
+- total indexed log files: 2,192,852
+- source/public indexed log files: 1,750,061
 - reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 442,791
-- unique source/public callsigns in the SH6 index: 177,192
+- unique source/public callsigns in the SH6 index: 177,193
 - contest roots in the SH6 index: 34
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -84,7 +84,7 @@ directories are not indexed.
 | 9A HRS Contest | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 21,628 |
 | ARRL | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 328,540 |
 | CQ160 | 2022, 2023, 2024, 2025, 2026 | 17,838 |
-| CQWPX | 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 272,636 |
+| CQWPX | 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 272,647 |
 | CQWPXRTTY | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 58,598 |
 | CQWW | 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 413,732 |
 | CQWWRTTY | 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 68,465 |
