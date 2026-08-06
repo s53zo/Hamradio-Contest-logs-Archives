@@ -79,6 +79,24 @@ TASK_LEDGER: "TaskLedger | None" = None
 
 HOST_COOLDOWN: dict[str, float] = {}
 HOST_COOLDOWN_LOCK = threading.Lock()
+WINDOWS_RESERVED_FILENAMES = {
+    "CON",
+    "PRN",
+    "AUX",
+    "NUL",
+    *(f"COM{index}" for index in range(1, 10)),
+    *(f"LPT{index}" for index in range(1, 10)),
+}
+
+
+def safe_filename_component(value: str) -> str:
+    """Return a filename component that is portable to Windows."""
+    safe = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", value).rstrip(" .")
+    if not safe:
+        return "_"
+    if safe.split(".", 1)[0].upper() in WINDOWS_RESERVED_FILENAMES:
+        safe = f"_{safe}"
+    return safe
 
 
 def is_dns_error(exc: Exception) -> bool:
@@ -750,7 +768,7 @@ def write_log(
     cab: str,
     file_tag: Optional[str],
 ) -> Tuple[Path, str]:
-    safe_call = call.replace("/", "_")
+    safe_call = safe_filename_component(call)
     safe_tag = re.sub(r"[^A-Za-z0-9_.-]+", "_", file_tag or "").strip("._")
     file_stem = f"{safe_call}_{safe_tag}" if safe_tag else safe_call
     if band_label:
@@ -952,7 +970,7 @@ def main() -> int:
                 if checklog_marker_exists(contest, log_id):
                     continue
                 if link.call_hint:
-                    safe_call = link.call_hint.replace("/", "_")
+                    safe_call = safe_filename_component(link.call_hint)
                     if is_pmc_contest(contest):
                         years = sorted({int(y) for y in re.findall(r"(?:19|20)\\d{2}", contest.name)})
                         if not years:
