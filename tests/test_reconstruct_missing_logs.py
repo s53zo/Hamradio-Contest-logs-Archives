@@ -46,6 +46,53 @@ class ReconstructMissingLogsTests(unittest.TestCase):
         values.update(overrides)
         return reconstruct.reconstruction_cache_key(**values)
 
+    def test_download_master_dta_retries_timeout_and_cleans_up(self):
+        payload = b"K1ABC\nS53M\n"
+        calls = []
+        original_urlopen = reconstruct.urllib.request.urlopen
+
+        class FakeResponse:
+            def __init__(self):
+                self.remaining = payload
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *_args):
+                return False
+
+            def read(self, _size):
+                chunk, self.remaining = self.remaining, b""
+                return chunk
+
+        def fake_urlopen(request, timeout):
+            calls.append((request, timeout))
+            if len(calls) == 1:
+                raise TimeoutError("slow origin")
+            return FakeResponse()
+
+        reconstruct.urllib.request.urlopen = fake_urlopen
+        try:
+            path = reconstruct.download_master_dta(
+                "https://example.test/MASTER.DTA",
+                retries=2,
+                timeout=45,
+                delay=0,
+            )
+            try:
+                self.assertEqual(path.read_bytes(), payload)
+            finally:
+                path.unlink()
+        finally:
+            reconstruct.urllib.request.urlopen = original_urlopen
+
+        self.assertEqual(len(calls), 2)
+        self.assertEqual([timeout for _request, timeout in calls], [45, 45])
+        self.assertEqual(
+            calls[0][0].get_header("User-agent"),
+            "Hamradio-Contest-logs-Archives/1.0",
+        )
+
     def test_parse_qso_line_drops_trailing_cqww_status_flag(self):
         qso = reconstruct.parse_qso_line(
             "QSO:  3548 CW 2008-11-30 0708 LN3Z          599 14     KD0S          599 04     0"
