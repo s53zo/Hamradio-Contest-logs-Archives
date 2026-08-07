@@ -15,6 +15,7 @@ import re
 import tempfile
 import gzip
 import threading
+import time
 import urllib.request
 from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 
@@ -270,15 +271,43 @@ def load_master_calls(path: Path) -> Set[str]:
     return calls
 
 
-def download_master_dta(url: str) -> Path:
-    tmp = tempfile.NamedTemporaryFile(prefix="master_", suffix=".dta", delete=False)
-    tmp_path = Path(tmp.name)
-    try:
-        with urllib.request.urlopen(url, timeout=30) as resp:
-            tmp.write(resp.read())
-    finally:
-        tmp.close()
-    return tmp_path
+def download_master_dta(
+    url: str,
+    retries: int = 3,
+    timeout: int = 90,
+    delay: float = 2.0,
+) -> Path:
+    last_exc: Exception | None = None
+    for attempt in range(retries):
+        tmp_path: Path | None = None
+        try:
+            request = urllib.request.Request(
+                url,
+                headers={"User-Agent": "Hamradio-Contest-logs-Archives/1.0"},
+            )
+            with urllib.request.urlopen(request, timeout=timeout) as resp:
+                with tempfile.NamedTemporaryFile(
+                    prefix="master_", suffix=".dta", delete=False
+                ) as tmp:
+                    tmp_path = Path(tmp.name)
+                    while chunk := resp.read(1024 * 1024):
+                        tmp.write(chunk)
+            if tmp_path.stat().st_size == 0:
+                raise RuntimeError("downloaded MASTER.DTA is empty")
+            return tmp_path
+        except Exception as exc:  # pylint: disable=broad-except
+            last_exc = exc
+            if tmp_path is not None:
+                try:
+                    tmp_path.unlink()
+                except OSError:
+                    pass
+            if attempt + 1 < retries:
+                print(
+                    f"MASTER.DTA download attempt {attempt + 1}/{retries} failed: {exc}; retrying..."
+                )
+                time.sleep(delay * (2**attempt))
+    raise RuntimeError(f"MASTER.DTA download failed after {retries} attempts") from last_exc
 
 
 def looks_like_callsign(token: str) -> bool:
