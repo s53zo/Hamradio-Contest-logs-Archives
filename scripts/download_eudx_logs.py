@@ -2,9 +2,9 @@
 """
 Downloader for EUDX Contest public logs.
 
-Public logs page lists year-specific pages with direct log links:
+The public logs page provides year filters, paginated result tables, and
+tokenized download links:
   https://www.eudx-contest.com/public-logs/
-  https://www.eudx-contest.com/public-logs-YYYY/
 
 Output layout:
   EUDX_contest/<year>/<CALL>.log
@@ -13,11 +13,13 @@ Output layout:
 from __future__ import annotations
 
 import argparse
+import html
 import random
 import re
 import time
 import urllib.parse
 import urllib.request
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 
@@ -110,13 +112,96 @@ def fetch_bytes(url: str, headers: Dict[str, str] | None = None, retries: int = 
     raise last_exc  # type: ignore[misc]
 
 
-def public_logs_url(year: int) -> str:
+def public_logs_url(year: int, page: int = 1) -> str:
+    params = {"logs_year": str(year)}
+    if page > 1:
+        params["logs_page"] = str(page)
+    return f"{PUBLIC_LOGS_ROOT}?{urllib.parse.urlencode(params)}"
+
+
+def _legacy_public_logs_url(year: int) -> str:
     return f"https://www.eudx-contest.com/public-logs-{year}/"
+
+
+class PublicLogsPageParser(HTMLParser):
+    """Parse the database-backed EUDX public-log table introduced in 2026."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.years: set[int] = set()
+        self.logs: List[Tuple[str, str]] = []
+        self.page_numbers: set[int] = {1}
+        self._in_year_select = False
+        self._in_row = False
+        self._in_callsign = False
+        self._callsign_parts: List[str] = []
+        self._download_url: str | None = None
+
+    def handle_starttag(self, tag: str, attrs: List[Tuple[str, str | None]]) -> None:
+        attr = {key.lower(): value for key, value in attrs}
+        tag = tag.lower()
+        if tag == "select" and (
+            attr.get("id") == "logs_year" or attr.get("name") == "logs_year"
+        ):
+            self._in_year_select = True
+        elif tag == "option" and self._in_year_select:
+            value = attr.get("value") or ""
+            if re.fullmatch(r"\d{4}", value):
+                self.years.add(int(value))
+        elif tag == "tr":
+            self._in_row = True
+            self._callsign_parts = []
+            self._download_url = None
+        elif (
+            tag == "td"
+            and self._in_row
+            and (attr.get("data-label") or "").lower() == "callsign"
+        ):
+            self._in_callsign = True
+        elif tag == "a":
+            href = attr.get("href") or ""
+            classes = (attr.get("class") or "").split()
+            if self._in_row and "eudx-download" in classes:
+                self._download_url = href
+            if href:
+                query = urllib.parse.parse_qs(urllib.parse.urlparse(html.unescape(href)).query)
+                for value in query.get("logs_page", []):
+                    if value.isdigit():
+                        self.page_numbers.add(int(value))
+
+    def handle_endtag(self, tag: str) -> None:
+        tag = tag.lower()
+        if tag == "select":
+            self._in_year_select = False
+        elif tag == "td":
+            self._in_callsign = False
+        elif tag == "tr":
+            call = "".join(self._callsign_parts).strip().upper()
+            if self._in_row and call and self._download_url:
+                self.logs.append(
+                    (call, urllib.parse.urljoin(PUBLIC_LOGS_ROOT, html.unescape(self._download_url)))
+                )
+            self._in_row = False
+            self._in_callsign = False
+
+    def handle_data(self, data: str) -> None:
+        if self._in_callsign:
+            self._callsign_parts.append(data)
+
+
+def _parse_public_logs_page(html_text: str) -> PublicLogsPageParser:
+    parser = PublicLogsPageParser()
+    parser.feed(html_text)
+    return parser
 
 
 def discover_years() -> List[int]:
     html_text = fetch_text(PUBLIC_LOGS_ROOT)
-    years = sorted({int(m.group(1)) for m in re.finditer(r"public-logs-(\d{4})", html_text)})
+    parser = _parse_public_logs_page(html_text)
+    years = sorted(parser.years)
+    if not years:
+        # Compatibility with the year-specific pages used before August 2026.
+        years = sorted({int(m.group(1)) for m in re.finditer(r"public-logs-(\d{4})", html_text)})
     return years
 
 
@@ -134,7 +219,29 @@ def _normalize_filename(path_name: str) -> str:
 
 
 def discover_log_urls(year: int) -> List[Tuple[str, str]]:
-    html_text = fetch_text(public_logs_url(year))
+    first_html = fetch_text(public_logs_url(year))
+    first_page = _parse_public_logs_page(first_html)
+
+    if first_page.logs:
+        page_count = max(first_page.page_numbers)
+        page_logs = list(first_page.logs)
+        for page in range(2, page_count + 1):
+            parsed_page = _parse_public_logs_page(fetch_text(public_logs_url(year, page)))
+            page_logs.extend(parsed_page.logs)
+
+        seen_calls: set[str] = set()
+        seen_urls: set[str] = set()
+        results: List[Tuple[str, str]] = []
+        for call, link in page_logs:
+            if call in seen_calls or link in seen_urls:
+                continue
+            seen_calls.add(call)
+            seen_urls.add(link)
+            results.append((call, link))
+        return results
+
+    # Compatibility with the old pages containing direct upload links.
+    html_text = fetch_text(_legacy_public_logs_url(year))
     links = re.findall(r'href=\"([^\"]+)\"', html_text)
     seen_calls: set[str] = set()
     seen_urls: set[str] = set()
