@@ -99,13 +99,21 @@ def fetch_text(url: str, data: bytes | None = None, retries: int = 3, delay: flo
     raise last_exc  # type: ignore[misc]
 
 
+def loglist_contest_year(html_text: str) -> int | None:
+    """Extract the contest year without considering framework timestamps."""
+    text = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", html_text)).split())
+    match = re.search(
+        r"Worked All Europe DX Contest.*?\b(20\d{2})\s+"
+        r"(?:Final scores|Classified logs)\b",
+        text,
+        flags=re.IGNORECASE,
+    )
+    return int(match.group(1)) if match else None
+
+
 def discover_loglist_year(mode_base: str) -> int | None:
     url = f"https://dxhf2.darc.de/~{mode_base}/user.cgi?fc=loglist&form=referat&lang=en"
-    html_text = fetch_text(url)
-    years = [int(y) for y in re.findall(r"(20\d{2})", html_text)]
-    if not years:
-        return None
-    return max(years)
+    return loglist_contest_year(fetch_text(url))
 
 
 def discover_years(mode_base: str) -> List[int]:
@@ -117,6 +125,9 @@ def discover_years(mode_base: str) -> List[int]:
         years.add(int(match.group(1)))
     loglist_year = discover_loglist_year(mode_base)
     if loglist_year:
+        # The Open Log form may expose the current calendar year before that
+        # mode has published results or logs (for example RTTY 2026 in August).
+        years = {year for year in years if year <= loglist_year}
         years.add(loglist_year)
     return sorted(years, reverse=True)
 

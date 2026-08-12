@@ -39,6 +39,7 @@ HTML_END_MARKER = b"</html>"
 HTML_TAIL_BYTES = 16384
 DEFAULT_TERR_ID = "76"  # World Wide
 TASK_LEDGER: "TaskLedger | None" = None
+PROGRESS_LABEL = "Russian DX Contest"
 DEFAULT_MODE = "MIXED"
 DEFAULT_BAND = "ALL"
 DEFAULT_MAX_DATE_SECONDS = 900
@@ -648,22 +649,25 @@ def fetch_for_date(
     max_runtime_seconds: int | None = None,
     max_consecutive_errors: int | None = None,
     should_abort: Callable[[], bool] | None = None,
+    max_idle_seconds: int | None = None,
 ) -> FetchStats:
     stats = FetchStats()
     started_at = time.monotonic()
     max_runtime = max_runtime_seconds if max_runtime_seconds and max_runtime_seconds > 0 else None
+    max_idle = max_idle_seconds if max_idle_seconds and max_idle_seconds > 0 else None
+    last_progress_at = started_at
     max_errors = max_consecutive_errors if max_consecutive_errors and max_consecutive_errors > 0 else None
     consecutive_errors = 0
 
-    def abort(reason: str) -> None:
+    def abort(reason: str, count_error: bool = True) -> None:
         stats.aborted = True
         stats.abort_reason = reason
-        if stats.errors == 0:
+        if count_error and stats.errors == 0:
             stats.errors = 1
 
     results_html = fetch_text(RESULTS_URL, results_post_data(year, contest_date))
     entries = parse_more_info_entries(results_html)
-    print(f"progress {year} {contest_date}: discovered={len(entries)} station entries")
+    print(f"[{PROGRESS_LABEL}] progress {year} {contest_date}: discovered={len(entries)} station entries")
     calls: List[str] = []
     for entry in entries:
         call = entry.get("callsign")
@@ -672,7 +676,7 @@ def fetch_for_date(
     task_key = f"{Path(__file__).stem}:{year}:{contest_date}"
     skip, list_hash, item_count = task_should_skip(TASK_LEDGER, task_key, calls, upper=True)
     if skip:
-        print(f"skip (task ledger): {year} {contest_date} items={item_count}")
+        print(f"[{PROGRESS_LABEL}] skip (task ledger): {year} {contest_date} items={item_count}")
         return stats
     if not entries:
         task_mark_complete(TASK_LEDGER, task_key, list_hash, item_count)
@@ -684,6 +688,9 @@ def fetch_for_date(
             break
         if max_runtime is not None and time.monotonic() - started_at >= max_runtime:
             abort(f"date timeout after {max_runtime}s")
+            break
+        if max_idle is not None and time.monotonic() - last_progress_at >= max_idle:
+            abort(f"idle timeout after {max_idle}s without progress", count_error=False)
             break
         if limit_saved is not None and stats.saved_logs >= limit_saved:
             break
@@ -699,9 +706,10 @@ def fetch_for_date(
         if dest_path.exists():
             stats.skipped_existing += 1
             consecutive_errors = 0
+            last_progress_at = time.monotonic()
             if progress_every and stats.total_calls % progress_every == 0:
                 print(
-                    f"progress {year} {contest_date}: processed={stats.total_calls} "
+                    f"[{PROGRESS_LABEL}] progress {year} {contest_date}: processed={stats.total_calls} "
                     f"saved={stats.saved_logs} empty={stats.skipped_empty} "
                     f"existing={stats.skipped_existing} errors={stats.errors}"
                 )
@@ -734,11 +742,12 @@ def fetch_for_date(
             if max_errors is not None and consecutive_errors >= max_errors:
                 abort(f"{consecutive_errors} consecutive call errors")
                 break
+        last_progress_at = time.monotonic()
         if sleep_s > 0:
             time.sleep(sleep_s)
         if progress_every and stats.total_calls % progress_every == 0:
             print(
-                f"progress {year} {contest_date}: processed={stats.total_calls} "
+                f"[{PROGRESS_LABEL}] progress {year} {contest_date}: processed={stats.total_calls} "
                 f"saved={stats.saved_logs} empty={stats.skipped_empty} existing={stats.skipped_existing} errors={stats.errors}"
             )
     if stats.errors == 0 and not stats.aborted:

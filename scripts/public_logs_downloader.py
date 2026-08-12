@@ -150,6 +150,7 @@ HOST_WORKER_CAPS = {
     "www.hamradio.hr": 4,
     "ioc.9a1p.com": 4,
     "spcwc.pl": 2,
+    "contest.ham-yota.com": 6,
 }
 
 PRINT_LOCK = threading.Lock()
@@ -196,6 +197,7 @@ MANIFEST_ROOTS = {
     "SPDX_contest",
     "TTC-SPCWC",
     "URE",
+    "YOTA_Contest",
     "RECONSTRUCTED_LOGS",
 }
 
@@ -1241,12 +1243,7 @@ def resolve_hosts(hosts: Iterable[str]) -> Dict[str, List[str]]:
 
 
 class AdaptiveLimiter:
-    """
-    Adaptive concurrency limiter that adjusts available permits based on error rate.
-
-    Decreasing concurrency is applied via a "debt" that withholds releases until
-    the permit count matches the new limit.
-    """
+    """Adaptive concurrency limiter with cancellation-aware worker accounting."""
 
     def __init__(
         self,
@@ -1257,7 +1254,6 @@ class AdaptiveLimiter:
         up_threshold: float = 0.01,
         down_threshold: float = 0.05,
     ) -> None:
-        self._sema = threading.Semaphore(initial)
         self._limit = initial
         self._min = min_limit
         self._max = max_limit
@@ -1266,36 +1262,38 @@ class AdaptiveLimiter:
         self._down_threshold = down_threshold
         self._succ = 0
         self._fail = 0
-        self._debt = 0
-        self._lock = threading.Lock()
+        self._active = 0
+        self._condition = threading.Condition()
 
-    def acquire(self) -> None:
-        self._sema.acquire()
+    def acquire(self, cancel_event: threading.Event | None = None) -> bool:
+        with self._condition:
+            while self._active >= self._limit:
+                if cancel_event is not None and cancel_event.is_set():
+                    return False
+                self._condition.wait(timeout=0.25)
+            if cancel_event is not None and cancel_event.is_set():
+                return False
+            self._active += 1
+            return True
 
     def release(self, success: bool) -> None:
-        with self._lock:
+        with self._condition:
+            if self._active <= 0:
+                raise RuntimeError("adaptive limiter released without an active worker")
+            self._active -= 1
             if success:
                 self._succ += 1
             else:
                 self._fail += 1
             total = self._succ + self._fail
-            # Apply debt if we reduced limit while all permits were busy.
-            if self._debt > 0:
-                self._debt -= 1
-                # don't release a permit; we're shrinking capacity
-                return
-            self._sema.release()
-
             if total >= self._window:
                 fail_rate = self._fail / total
                 adjusted = False
                 if fail_rate > self._down_threshold and self._limit > self._min:
                     self._limit -= 1
-                    self._debt += 1
                     adjusted = True
                 elif fail_rate < self._up_threshold and self._limit < self._max:
                     self._limit += 1
-                    self._sema.release()
                     adjusted = True
 
                 if adjusted:
@@ -1305,6 +1303,7 @@ class AdaptiveLimiter:
                         )
                 self._succ = 0
                 self._fail = 0
+            self._condition.notify_all()
 
 
 # ----- CQWW -----
@@ -2107,6 +2106,7 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
     tasks: List[DownloadTask] = []
     host = urllib.parse.urlparse(wed.RESULTS_URL).hostname or "ua9qcq.com"
     output_root = Path("WednesdayMiniTest40m")
+    source_label = "Wednesday Mini-Test 40m"
     for year in years:
         if dates_all:
             dates = [d for d in dates_all if d.startswith(f"{year}-")]
@@ -2128,7 +2128,7 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
                 cookie=cookie,
             ) -> Dict[str, int]:
                 with PRINT_LOCK:
-                    print(f"UA9QCQ start Wednesday Mini-Test 40m: year={year} date={contest_date}")
+                    print(f"[{source_label}] start: year={year} date={contest_date}")
                 stats = wed.fetch_for_date(
                     cookie,
                     year,
@@ -2137,16 +2137,25 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
                     sleep_s=0.0,
                     start_time=1700,
                     include_errors=False,
-                    max_runtime_seconds=UA9QCQ_DATE_TIMEOUT,
+                    max_runtime_seconds=None,
                     max_consecutive_errors=UA9QCQ_MAX_CONSECUTIVE_ERRORS,
                     should_abort=DOWNLOAD_CANCEL_EVENT.is_set,
+                    max_idle_seconds=UA9QCQ_IDLE_TIMEOUT,
                 )
+                if stats.aborted:
+                    with PRINT_LOCK:
+                        print(
+                            f"[{source_label}] partial {contest_date}: saved={stats.saved_logs} "
+                            f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
+                            f"errors={stats.errors} reason={stats.abort_reason}"
+                        )
+                    return {"error": 1}
                 if stats.errors:
                     with PRINT_LOCK:
                         reason = getattr(stats, "abort_reason", "")
                         suffix = f" abort={reason}" if reason else ""
                         print(
-                            f"fail {contest_date}: saved={stats.saved_logs} "
+                            f"[{source_label}] fail {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors}{suffix}"
                         )
@@ -2154,12 +2163,12 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
                 if stats.saved_logs:
                     with PRINT_LOCK:
                         print(
-                            f"ok   {contest_date}: saved={stats.saved_logs} "
+                            f"[{source_label}] ok {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing}"
                         )
                     return {"ok": 1}
                 with PRINT_LOCK:
-                    print(f"skip (no logs): {contest_date}")
+                    print(f"[{source_label}] skip (no logs): {contest_date}")
                 return {"skip": 1}
 
             tasks.append(
@@ -2210,6 +2219,7 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
     tasks: List[DownloadTask] = []
     host = urllib.parse.urlparse(wed.RESULTS_URL).hostname or "ua9qcq.com"
     output_root = Path("WednesdayMiniTest80m")
+    source_label = "Wednesday Mini-Test 80m"
     for year in years:
         if dates_all:
             dates = [d for d in dates_all if d.startswith(f"{year}-")]
@@ -2231,7 +2241,7 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
                 cookie=cookie,
             ) -> Dict[str, int]:
                 with PRINT_LOCK:
-                    print(f"UA9QCQ start Wednesday Mini-Test 80m: year={year} date={contest_date}")
+                    print(f"[{source_label}] start: year={year} date={contest_date}")
                 stats = wed.fetch_for_date(
                     cookie,
                     year,
@@ -2240,16 +2250,25 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
                     sleep_s=0.0,
                     start_time=1700,
                     include_errors=False,
-                    max_runtime_seconds=UA9QCQ_DATE_TIMEOUT,
+                    max_runtime_seconds=None,
                     max_consecutive_errors=UA9QCQ_MAX_CONSECUTIVE_ERRORS,
                     should_abort=DOWNLOAD_CANCEL_EVENT.is_set,
+                    max_idle_seconds=UA9QCQ_IDLE_TIMEOUT,
                 )
+                if stats.aborted:
+                    with PRINT_LOCK:
+                        print(
+                            f"[{source_label}] partial {contest_date}: saved={stats.saved_logs} "
+                            f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
+                            f"errors={stats.errors} reason={stats.abort_reason}"
+                        )
+                    return {"error": 1}
                 if stats.errors:
                     with PRINT_LOCK:
                         reason = getattr(stats, "abort_reason", "")
                         suffix = f" abort={reason}" if reason else ""
                         print(
-                            f"fail {contest_date}: saved={stats.saved_logs} "
+                            f"[{source_label}] fail {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors}{suffix}"
                         )
@@ -2257,12 +2276,12 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
                 if stats.saved_logs:
                     with PRINT_LOCK:
                         print(
-                            f"ok   {contest_date}: saved={stats.saved_logs} "
+                            f"[{source_label}] ok {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing}"
                         )
                     return {"ok": 1}
                 with PRINT_LOCK:
-                    print(f"skip (no logs): {contest_date}")
+                    print(f"[{source_label}] skip (no logs): {contest_date}")
                 return {"skip": 1}
 
             tasks.append(
@@ -2349,7 +2368,7 @@ def tasks_ua9qcq_yearly(
                 cookie=cookie,
             ) -> Dict[str, int]:
                 with PRINT_LOCK:
-                    print(f"UA9QCQ start {source_label}: year={year} date={contest_date}")
+                    print(f"[{source_label}] start: year={year} date={contest_date}")
                 stats = module.fetch_for_date(
                     cookie,
                     year,
@@ -2360,16 +2379,25 @@ def tasks_ua9qcq_yearly(
                     include_errors=include_errors,
                     limit_saved=None,
                     progress_every=UA9QCQ_PROGRESS_EVERY,
-                    max_runtime_seconds=UA9QCQ_DATE_TIMEOUT,
+                    max_runtime_seconds=None,
                     max_consecutive_errors=UA9QCQ_MAX_CONSECUTIVE_ERRORS,
                     should_abort=DOWNLOAD_CANCEL_EVENT.is_set,
+                    max_idle_seconds=UA9QCQ_IDLE_TIMEOUT,
                 )
+                if stats.aborted:
+                    with PRINT_LOCK:
+                        print(
+                            f"[{source_label}] partial {year} {contest_date}: saved={stats.saved_logs} "
+                            f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
+                            f"errors={stats.errors} reason={stats.abort_reason}"
+                        )
+                    return {"error": 1}
                 if stats.errors:
                     with PRINT_LOCK:
                         reason = getattr(stats, "abort_reason", "")
                         suffix = f" abort={reason}" if reason else ""
                         print(
-                            f"fail {year} {contest_date}: saved={stats.saved_logs} "
+                            f"[{source_label}] fail {year} {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors}{suffix}"
                         )
@@ -2377,12 +2405,12 @@ def tasks_ua9qcq_yearly(
                 if stats.saved_logs:
                     with PRINT_LOCK:
                         print(
-                            f"ok   {year} {contest_date}: saved={stats.saved_logs} "
+                            f"[{source_label}] ok {year} {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing}"
                         )
                     return {"ok": 1}
                 with PRINT_LOCK:
-                    print(f"skip (no logs): {year} {contest_date}")
+                    print(f"[{source_label}] skip (no logs): {year} {contest_date}")
                 return {"skip": 1}
 
             tasks.append(
@@ -3486,7 +3514,7 @@ def tasks_ok1wc(last: int | None) -> List[DownloadTask]:
             ok1wc_write_round_marker(marker, round_info, calls)
             task_mark_complete(task_key, list_hash, count)
     with PRINT_LOCK:
-        print(f"OK1WC: queued {len(tasks)} call tasks")
+        print(f"OK1WC: discovered {len(tasks)} candidate call logs")
     return tasks
 
 
@@ -3904,6 +3932,73 @@ def tasks_yudx(last: int | None) -> List[DownloadTask]:
             task_mark_complete(task_key, list_hash, count)
     with PRINT_LOCK:
         print(f"YUDX: queued {len(tasks)} call logs")
+    return tasks
+
+
+# ----- YOTA Contest -----
+def tasks_yota(last: int | None) -> List[DownloadTask]:
+    import download_yota_contest_logs as yota  # type: ignore
+
+    tasks: List[DownloadTask] = []
+    for event in yota.discover_events(last):
+        entries = yota.discover_entries(event)
+        with PRINT_LOCK:
+            print(
+                f"YOTA Contest {event.year} {event.round_name}: "
+                f"discovered={len(entries)} public station logs"
+            )
+        task_key = f"YOTA_Contest/{event.year}/{event.round_name}"
+        dests = [yota.destination(entry) for entry in entries]
+        items = [entry.callsign for entry in entries]
+        skip, list_hash, count = task_should_skip_known_outputs(
+            task_key, items, dests, upper=True, label="YOTA Contest"
+        )
+        if skip:
+            continue
+        created = 0
+        for entry, dest in zip(entries, dests):
+            if valid_existing_log(dest):
+                continue
+            remove_invalid_existing(dest)
+
+            def action(entry=entry, dest=dest) -> Dict[str, int]:
+                try:
+                    cabrillo = yota.fetch_log(entry)
+                    if "QSO:" not in cabrillo:
+                        with PRINT_LOCK:
+                            print(
+                                f"skip (no qsos): YOTA Contest {entry.event.year} "
+                                f"{entry.event.round_name} {entry.callsign}"
+                            )
+                        return {"skip": 1}
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    dest.write_text(cabrillo, encoding="utf-8")
+                except Exception as exc:  # pylint: disable=broad-except
+                    with PRINT_LOCK:
+                        print(
+                            f"fail YOTA Contest {entry.event.year} "
+                            f"{entry.event.round_name} {entry.callsign}: {exc}"
+                        )
+                    return {"error": 1}
+                with PRINT_LOCK:
+                    print(f"ok   {dest}")
+                return {"ok": 1}
+
+            tasks.append(
+                DownloadTask(
+                    dest=dest,
+                    host="contest.ham-yota.com",
+                    source="YOTA Contest",
+                    action=action,
+                    task_key=task_key,
+                    task_hash=list_hash,
+                    task_count=count,
+                    output_roots=("YOTA_Contest",),
+                )
+            )
+            created += 1
+        if created == 0:
+            task_mark_complete(task_key, list_hash, count)
     return tasks
 
 
@@ -4723,13 +4818,14 @@ PROVIDERS: Dict[int, Tuple[str, ProviderFn]] = {
     32: ("9A HRS contests (HF Robot public QSO tables)", tasks_hrs_hf),
     33: ("Istra Open Contest (public Cabrillo logs)", tasks_istra_open),
     34: ("TTC-SPCWC (public checked-log tables)", tasks_ttc_spcwc),
+    35: ("YOTA Contest (public evaluated QSO tables)", tasks_yota),
 }
 UA9QCQ_PROVIDER_IDS = {11, 12, 13, 14, 15, 17, 18, 19, 20}
 UA9QCQ_PROGRESS_EVERY = 100
-DEFAULT_UA9QCQ_DATE_TIMEOUT = 900
+DEFAULT_UA9QCQ_IDLE_TIMEOUT = 900
 DEFAULT_UA9QCQ_MAX_CONSECUTIVE_ERRORS = 50
 DEFAULT_UA9QCQ_REQUEST_TIMEOUT = 12
-UA9QCQ_DATE_TIMEOUT: int | None = DEFAULT_UA9QCQ_DATE_TIMEOUT
+UA9QCQ_IDLE_TIMEOUT: int | None = DEFAULT_UA9QCQ_IDLE_TIMEOUT
 UA9QCQ_MAX_CONSECUTIVE_ERRORS: int | None = DEFAULT_UA9QCQ_MAX_CONSECUTIVE_ERRORS
 UA9QCQ_REQUEST_TIMEOUT = DEFAULT_UA9QCQ_REQUEST_TIMEOUT
 
@@ -4868,10 +4964,12 @@ def main() -> int:
         help="Heartbeat interval in seconds (0 disables).",
     )
     parser.add_argument(
+        "--ua9qcq-idle-timeout",
         "--ua9qcq-date-timeout",
+        dest="ua9qcq_idle_timeout",
         type=int,
-        default=DEFAULT_UA9QCQ_DATE_TIMEOUT,
-        help="Abort one UA9QCQ date after N seconds (0 disables, default: 900).",
+        default=DEFAULT_UA9QCQ_IDLE_TIMEOUT,
+        help="Abort one UA9QCQ date after N seconds without progress (0 disables, default: 900).",
     )
     parser.add_argument(
         "--ua9qcq-max-consecutive-errors",
@@ -4891,6 +4989,11 @@ def main() -> int:
         help="Delete and rebuild SH6 SQLite shard indexes after downloads.",
     )
     parser.add_argument(
+        "--no-post-download-shards",
+        action="store_true",
+        help="Skip the automatic SH6 rebuild after downloads.",
+    )
+    parser.add_argument(
         "--no-update-readme",
         action="store_true",
         help="Do not refresh README.md stats after rebuilding SH6 shards.",
@@ -4902,8 +5005,8 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    global TASK_LEDGER, UA9QCQ_DATE_TIMEOUT, UA9QCQ_MAX_CONSECUTIVE_ERRORS, UA9QCQ_REQUEST_TIMEOUT
-    UA9QCQ_DATE_TIMEOUT = args.ua9qcq_date_timeout if args.ua9qcq_date_timeout > 0 else None
+    global TASK_LEDGER, UA9QCQ_IDLE_TIMEOUT, UA9QCQ_MAX_CONSECUTIVE_ERRORS, UA9QCQ_REQUEST_TIMEOUT
+    UA9QCQ_IDLE_TIMEOUT = args.ua9qcq_idle_timeout if args.ua9qcq_idle_timeout > 0 else None
     UA9QCQ_MAX_CONSECUTIVE_ERRORS = (
         args.ua9qcq_max_consecutive_errors
         if args.ua9qcq_max_consecutive_errors > 0
@@ -4958,20 +5061,25 @@ def main() -> int:
     total_tasks = 0
     print("\nStarting provider discovery in parallel...")
 
+    discovery_inventory: Dict[int, Tuple[int, int, int]] = {}
+
     def run_provider(sel: int) -> Tuple[int, List[DownloadTask]]:
         name, fn = PROVIDERS[sel]
         try:
             tasks = fn(last_val)
-            if tasks:
-                filtered = [task for task in tasks if not valid_existing_log(task.dest)]
-                if len(filtered) != len(tasks):
-                    with PRINT_LOCK:
-                        print(
-                            f"Provider {sel}) {name}: filtered {len(tasks) - len(filtered)} existing files"
-                        )
-                tasks = filtered
+            discovered = len(tasks)
+            filtered = [task for task in tasks if not valid_existing_log(task.dest)]
+            existing = discovered - len(filtered)
+            tasks = filtered
+            with PRINT_LOCK:
+                discovery_inventory[sel] = (discovered, existing, len(tasks))
+                print(
+                    f"Provider {sel}) {name}: discovery complete; "
+                    f"discovered={discovered} existing={existing} downloads={len(tasks)}"
+                )
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
+                discovery_inventory[sel] = (0, 0, 0)
                 print(f"Provider {sel}) {name} failed during discovery: {exc}")
             return sel, []
         return sel, tasks
@@ -5010,8 +5118,11 @@ def main() -> int:
         def wrapped_task(task: DownloadTask) -> Dict[str, int]:
             if cancel_event.is_set():
                 return {"cancel": 1}
+            acquired = False
             if limiter:
-                limiter.acquire()
+                acquired = limiter.acquire(cancel_event)
+                if not acquired:
+                    return {"cancel": 1}
             success = False
             try:
                 if cancel_event.is_set():
@@ -5040,7 +5151,7 @@ def main() -> int:
                 success = False
                 return {"error": 1}
             finally:
-                if limiter:
+                if limiter and acquired:
                     limiter.release(success)
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -5110,11 +5221,16 @@ def main() -> int:
                 with provider_lock:
                     counts = dict(provider_counts)
                 elapsed = int(time.time() - provider_start)
+                completed = (
+                    counts.get("ok", 0)
+                    + counts.get("skip", 0)
+                    + counts.get("error", 0)
+                    + counts.get("cancel", 0)
+                )
                 with PRINT_LOCK:
                     print(
-                        f"heartbeat {sel}) {name}: ok {counts.get('ok', 0)} "
-                        f"skip {counts.get('skip', 0)} err {counts.get('error', 0)} "
-                        f"elapsed {elapsed}s"
+                        f"heartbeat {sel}) {name}: tasks completed={completed}/{len(tasks)} "
+                        f"failed={counts.get('error', 0)} elapsed={elapsed}s"
                     )
 
         hb_thread = threading.Thread(target=heartbeat)
@@ -5181,26 +5297,51 @@ def main() -> int:
         provider_counts["elapsed"] = int(round(elapsed))
         with stats_lock:
             provider_stats[sel] = provider_counts
+    discovery_started = time.monotonic()
     with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, min(len(selections), args.workers))) as executor:
         futures = {executor.submit(run_provider, sel): sel for sel in selections}
-        for fut in concurrent.futures.as_completed(futures):
-            sel, tasks = fut.result()
-            name, _ = PROVIDERS[sel]
-            discovery_results[sel] = (name, len(tasks))
-            total_tasks += len(tasks)
-            for task in tasks:
-                roots = task.output_roots or (
-                    (task.dest.parts[0],) if task.dest.parts else ()
+        pending = set(futures)
+        heartbeat_interval = args.heartbeat if args.heartbeat > 0 else 60
+        while pending:
+            done, pending = concurrent.futures.wait(
+                pending,
+                timeout=heartbeat_interval,
+                return_when=concurrent.futures.FIRST_COMPLETED,
+            )
+            if not done:
+                elapsed = int(time.monotonic() - discovery_started)
+                waiting = ", ".join(
+                    f"{futures[future]}) {PROVIDERS[futures[future]][0]}"
+                    for future in sorted(pending, key=lambda item: futures[item])
                 )
-                reconstruct_roots.update(root for root in roots if root in MANIFEST_ROOTS)
-            t = threading.Thread(target=download_provider, args=(sel, tasks))
-            t.start()
-            download_threads.append(t)
+                with PRINT_LOCK:
+                    print(
+                        f"discovery heartbeat: waiting for {len(pending)}/{len(futures)} "
+                        f"providers after {elapsed}s: {waiting}"
+                    )
+                continue
+            for fut in done:
+                sel, tasks = fut.result()
+                name, _ = PROVIDERS[sel]
+                discovery_results[sel] = (name, len(tasks))
+                total_tasks += len(tasks)
+                for task in tasks:
+                    roots = task.output_roots or (
+                        (task.dest.parts[0],) if task.dest.parts else ()
+                    )
+                    reconstruct_roots.update(root for root in roots if root in MANIFEST_ROOTS)
+                t = threading.Thread(target=download_provider, args=(sel, tasks))
+                t.start()
+                download_threads.append(t)
 
     print("\nDiscovery results (stable order):")
     for sel in sorted(selections):
-        name, count = discovery_results.get(sel, (PROVIDERS[sel][0], 0))
-        print(f"  {sel}) {name:<40} queued {count:>6} downloads")
+        name, _ = discovery_results.get(sel, (PROVIDERS[sel][0], 0))
+        discovered, existing, downloads = discovery_inventory.get(sel, (0, 0, 0))
+        print(
+            f"  {sel}) {name:<40} discovered {discovered:>6} "
+            f"existing {existing:>6} downloads {downloads:>6}"
+        )
 
     if total_tasks == 0:
         print("No new downloads queued.")
@@ -5298,6 +5439,11 @@ def main() -> int:
             )
             if proc.returncode != 0:
                 print(f"Reconstruction failed (exit {proc.returncode}).", file=sys.stderr)
+    if args.no_post_download_shards:
+        print("\nSkipping post-download SH6 rebuild.")
+        print("Done.")
+        return 0
+
     shard_dir = Path("SH6")
     print(f"\nRebuilding SQLite shards in: {shard_dir}")
     shards_rebuilt = False

@@ -408,10 +408,14 @@ def parse_expected_station_count(html_text: str) -> int | None:
 
 def parse_expected_qso_count(html_text: str) -> int | None:
     text = normalize_text(re.sub(r"<[^>]+>", " ", html_text))
-    matches = [int(value) for value in re.findall(r"\b(\d+)\s+QSOs?\b", text, flags=re.IGNORECASE)]
-    if not matches:
+    match = re.search(
+        r"\bRound\s+\d{4}-\d{2}-\d{2}\s*[·-]\s*(\d+)\s+QSOs?\b",
+        text,
+        flags=re.IGNORECASE,
+    )
+    if not match:
         return None
-    return max(matches)
+    return int(match.group(1))
 
 
 def discover_station_logs(round_info: Round) -> List[StationLog]:

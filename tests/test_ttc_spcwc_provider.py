@@ -87,13 +87,14 @@ class TtcSpcwcProviderTests(unittest.TestCase):
 
         self.assertEqual(ttc.parse_expected_station_count(html), 38)
 
-    def test_parse_expected_qso_count_uses_largest_qso_count(self):
+    def test_parse_expected_qso_count_uses_round_summary(self):
         html = """
-        <button>6 QSOs with errors</button>
-        <div>Round 2026-06-23 · 127 QSOs</div>
+        <button>7 QSOs with errors</button>
+        <div>Round 2026-08-04 · 7 QSOs</div>
+        <div>IU3BRO has fewer than 10 QSO in the round</div>
         """
 
-        self.assertEqual(ttc.parse_expected_qso_count(html), 127)
+        self.assertEqual(ttc.parse_expected_qso_count(html), 7)
 
     def test_tasks_ttc_spcwc_uses_expected_archive_paths(self):
         original_rounds = ttc.iter_rounds

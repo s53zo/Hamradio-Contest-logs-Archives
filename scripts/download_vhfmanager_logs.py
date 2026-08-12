@@ -72,6 +72,7 @@ def pick_user_agent() -> str:
 USER_AGENT = pick_user_agent()
 REQUEST_TIMEOUT = 30
 DEFAULT_WORKERS = 10
+MAX_CONSECUTIVE_DISCOVERY_ERRORS = 3
 BASE_URL = "https://vhfmanager.net"
 OUTPUT_ROOT = Path("EU_VHF_CONTESTS")
 TASK_LEDGER: "TaskLedger | None" = None
@@ -208,12 +209,29 @@ def discover_contests(limit: int | None) -> List[Contest]:
     """
     max_probe = 700  # generous upper bound for probing
     found: List[Contest] = []
+    consecutive_errors = 0
+    probed = 0
     for cid in range(max_probe, 0, -1):
         url = f"{BASE_URL}/modules/results.php?ContestID={cid}&language=G"
         try:
-            html_text = fetch_text(url)
-        except Exception:
+            # A probe does not need the normal per-page retry policy. Repeated
+            # transport failures indicate that the provider itself is down.
+            html_text = fetch_text(url, retries=1)
+        except Exception as exc:
+            consecutive_errors += 1
+            if consecutive_errors >= MAX_CONSECUTIVE_DISCOVERY_ERRORS:
+                raise RuntimeError(
+                    "VHFManager unavailable after "
+                    f"{consecutive_errors} consecutive discovery requests: {exc}"
+                ) from exc
             continue
+        consecutive_errors = 0
+        probed += 1
+        if probed % 50 == 0:
+            print(
+                f"VHFManager discovery: checked {probed} contest IDs; "
+                f"found {len(found)}"
+            )
         if "display_log" not in html_text.lower():
             continue
         name = parse_contest_name(html_text, cid)
