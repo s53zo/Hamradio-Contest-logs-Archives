@@ -139,6 +139,37 @@ def assert_current(repo: Path, remote: str, branch: str) -> str:
     return local
 
 
+def adopt_fast_forwarded_transaction_head(repo: Path, transaction: Transaction) -> bool:
+    local = current_sha(repo)
+    if local == transaction.base_sha:
+        return False
+    if transaction.commit_sha is not None or transaction.phase in {"committed", "publishing"}:
+        raise UpdateError("transaction journal does not match HEAD; inspect .git/hcla/transaction.json")
+    if run_git(
+        repo,
+        "merge-base",
+        "--is-ancestor",
+        transaction.base_sha,
+        local,
+        check=False,
+    ).returncode != 0:
+        raise UpdateError("transaction base is not an ancestor of HEAD; inspect .git/hcla/transaction.json")
+    upstream = remote_sha(repo, transaction.remote, transaction.branch)
+    if upstream != local:
+        raise UpdateError(
+            "interrupted transaction can adopt only the current remote head; "
+            f"run git pull --ff-only {transaction.remote} {transaction.branch}"
+        )
+    previous = transaction.base_sha
+    transaction.base_sha = local
+    write_transaction(repo, transaction)
+    print(
+        "Adopted remote fast-forward for interrupted transaction: "
+        f"{previous[:12]} -> {local[:12]}"
+    )
+    return True
+
+
 def run_child(repo: Path, argv: list[str], label: str) -> None:
     print(f"\n[{label}] {' '.join(argv)}")
     process = subprocess.Popen(argv, cwd=repo, start_new_session=True)
@@ -386,8 +417,8 @@ def main() -> int:
             print("No downloader, state, SH6, commit, or push changes were made.")
             return 0
         write_transaction(repo, transaction)
-    elif current_sha(repo) != transaction.base_sha:
-        raise UpdateError("transaction journal does not match HEAD; inspect .git/hcla/transaction.json")
+    else:
+        adopt_fast_forwarded_transaction_head(repo, transaction)
 
     try:
         if args.phase in {"all", "download"}:

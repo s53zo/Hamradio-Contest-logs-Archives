@@ -196,6 +196,34 @@ class ArchiveUpdaterTests(unittest.TestCase):
             self.assertFalse(archive_temp.exists())
             self.assertTrue(unrelated.exists())
 
+    def test_interrupted_transaction_adopts_remote_fast_forward(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            _remote, clone, other = self.make_remote_and_clones(Path(temp))
+            base_sha = git(clone, "rev-parse", "HEAD")
+            generated = clone / "YOTA_Contest/2026/Round_1/S53ZO.log"
+            generated.parent.mkdir(parents=True)
+            generated.write_text("START-OF-LOG: 3.0\nEND-OF-LOG:\n", encoding="ascii")
+            transaction = updater.Transaction(
+                schema_version=1,
+                base_sha=base_sha,
+                branch="main",
+                remote="origin",
+                phase="interrupted",
+            )
+            updater.write_transaction(clone, transaction)
+
+            (other / "scripts").mkdir()
+            (other / "scripts/fix.py").write_text("# fix\n", encoding="ascii")
+            git(other, "add", "scripts/fix.py")
+            git(other, "commit", "-qm", "fix")
+            git(other, "push", "-q", "origin", "main")
+            git(clone, "pull", "--ff-only")
+
+            self.assertTrue(updater.adopt_fast_forwarded_transaction_head(clone, transaction))
+            self.assertEqual(transaction.base_sha, git(clone, "rev-parse", "HEAD"))
+            self.assertTrue(generated.is_file())
+            self.assertEqual(updater.read_transaction(clone).base_sha, transaction.base_sha)
+
     def test_staging_rejects_log_like_files_outside_archive_roots(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             repo = Path(temp)

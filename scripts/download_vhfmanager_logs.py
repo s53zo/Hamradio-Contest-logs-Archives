@@ -76,7 +76,9 @@ DEFAULT_WORKERS = 10
 MAX_CONSECUTIVE_DISCOVERY_ERRORS = 3
 BASE_URL = "https://vhfmanager.net"
 OUTPUT_ROOT = Path("EU_VHF_CONTESTS")
+CHECKLOG_STATE_ROOT = Path("state") / "providers" / "vhfmanager" / "checklogs"
 TASK_LEDGER: "TaskLedger | None" = None
+CHECKLOG_MARKER_LOCK = threading.RLock()
 
 
 HOST_COOLDOWN: dict[str, float] = {}
@@ -801,23 +803,74 @@ def write_log(
     return dest, "ok"
 
 
-def checklog_marker_path(contest: Contest, log_id: int) -> Path:
+def legacy_checklog_marker_path(contest: Contest, log_id: int) -> Path:
     return OUTPUT_ROOT / ".checklogs" / str(contest.cid) / f"{log_id}.done"
+
+
+def checklog_marker_path(contest: Contest, log_id: int) -> Path:
+    return CHECKLOG_STATE_ROOT / str(contest.cid) / f"{log_id}.done"
+
+
+def migrate_legacy_checklog_markers() -> int:
+    legacy_root = OUTPUT_ROOT / ".checklogs"
+    if not legacy_root.is_dir():
+        return 0
+    migrated = 0
+    with CHECKLOG_MARKER_LOCK:
+        for legacy in sorted(legacy_root.glob("*/*.done")):
+            try:
+                contest_id = int(legacy.parent.name)
+                log_id = int(legacy.stem)
+            except ValueError:
+                continue
+            target = CHECKLOG_STATE_ROOT / str(contest_id) / f"{log_id}.done"
+            if not target.exists():
+                atomic_write_text(target, "ok\n")
+            legacy.unlink()
+            migrated += 1
+        for directory in sorted(
+            (path for path in legacy_root.rglob("*") if path.is_dir()),
+            key=lambda path: len(path.parts),
+            reverse=True,
+        ):
+            try:
+                directory.rmdir()
+            except OSError:
+                pass
+        try:
+            legacy_root.rmdir()
+        except OSError:
+            pass
+    if migrated:
+        print(f"VHFManager: migrated {migrated} checklog markers to {CHECKLOG_STATE_ROOT}")
+    return migrated
 
 
 def checklog_marker_exists(contest: Contest, log_id: Optional[int]) -> bool:
     if log_id is None:
         return False
-    return checklog_marker_path(contest, log_id).exists()
+    with CHECKLOG_MARKER_LOCK:
+        marker = checklog_marker_path(contest, log_id)
+        if marker.exists():
+            return True
+        legacy = legacy_checklog_marker_path(contest, log_id)
+        if not legacy.exists():
+            return False
+        atomic_write_text(marker, "ok\n")
+        legacy.unlink()
+        return True
 
 
 def write_checklog_marker(contest: Contest, log_id: Optional[int]) -> None:
     if log_id is None:
         return
-    marker = checklog_marker_path(contest, log_id)
-    marker.parent.mkdir(parents=True, exist_ok=True)
-    if not marker.exists():
-        marker.write_text("ok\n", encoding="utf-8")
+    with CHECKLOG_MARKER_LOCK:
+        marker = checklog_marker_path(contest, log_id)
+        if not marker.exists():
+            atomic_write_text(marker, "ok\n")
+        legacy = legacy_checklog_marker_path(contest, log_id)
+        if legacy.exists():
+            legacy.unlink()
 
 
 def download_contest_logs(
@@ -958,6 +1011,7 @@ def main() -> int:
     global TASK_LEDGER
     TASK_LEDGER = None if args.no_task_ledger else TaskLedger(args.task_ledger)
 
+    migrate_legacy_checklog_markers()
     contests = discover_contests(args.last_contests)
     if not contests:
         print("No contests found.")

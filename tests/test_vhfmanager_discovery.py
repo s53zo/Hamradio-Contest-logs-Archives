@@ -1,4 +1,5 @@
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 from unittest import mock
@@ -9,6 +10,27 @@ import download_vhfmanager_logs as vhf  # noqa: E402
 
 
 class VhfManagerDiscoveryTests(unittest.TestCase):
+    def test_legacy_checklog_markers_migrate_to_central_state(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            output_root = root / "EU_VHF_CONTESTS"
+            state_root = root / "state/providers/vhfmanager/checklogs"
+            legacy = output_root / ".checklogs/488/299849.done"
+            legacy.parent.mkdir(parents=True)
+            legacy.write_text("ok\n", encoding="ascii")
+            contest = vhf.Contest(488, "Fixture", "https://example.invalid")
+
+            with mock.patch.object(vhf, "OUTPUT_ROOT", output_root), mock.patch.object(
+                vhf, "CHECKLOG_STATE_ROOT", state_root
+            ):
+                self.assertEqual(vhf.migrate_legacy_checklog_markers(), 1)
+                self.assertTrue(vhf.checklog_marker_exists(contest, 299849))
+                vhf.write_checklog_marker(contest, 299850)
+
+            self.assertFalse((output_root / ".checklogs").exists())
+            self.assertEqual((state_root / "488/299849.done").read_text(), "ok\n")
+            self.assertEqual((state_root / "488/299850.done").read_text(), "ok\n")
+
     def test_discovery_stops_when_provider_is_unavailable(self) -> None:
         calls = []
 

@@ -1874,6 +1874,7 @@ def tasks_euhfc(last: int | None) -> List[DownloadTask]:
 def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
     import download_vhfmanager_logs as vhf  # type: ignore
 
+    vhf.migrate_legacy_checklog_markers()
     contests = vhf.discover_contests(last)
     tasks: List[DownloadTask] = []
     for contest in contests:
