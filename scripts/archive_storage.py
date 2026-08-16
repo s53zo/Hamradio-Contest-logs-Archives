@@ -3,15 +3,13 @@
 
 from __future__ import annotations
 
+import os
 import sqlite3
 import subprocess
-import tarfile
 import threading
 import zlib
-import os
 from contextlib import closing
 from pathlib import Path
-from shutil import copyfileobj
 from typing import Iterable
 
 
@@ -206,39 +204,98 @@ class ArchiveInventory:
         rel_prefix = self.normalize(prefix)
         destination = destination.resolve()
         destination.mkdir(parents=True, exist_ok=True)
-        proc = subprocess.Popen(
-            ["git", "archive", "--format=tar", self.revision, "--", rel_prefix.as_posix()],
+
+        proc = subprocess.run(
+            ["git", "ls-tree", "-r", "-z", self.revision, "--", rel_prefix.as_posix()],
             cwd=self.repo_root,
+            check=True,
             stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
         )
-        assert proc.stdout is not None
+        entries: list[tuple[bytes, Path]] = []
+        for raw in proc.stdout.split(b"\0"):
+            if not raw:
+                continue
+            metadata, raw_path = raw.split(b"\t", 1)
+            _mode, object_type, object_id = metadata.split(b" ", 2)
+            if object_type != b"blob":
+                continue
+            path = self.normalize(raw_path.decode("utf-8", errors="surrogateescape"))
+            entries.append((object_id, path))
+
+        if not entries:
+            return []
+
+        object_ids = list(dict.fromkeys(object_id for object_id, _path in entries))
+        missing = self._missing_git_objects(object_ids)
+        if missing:
+            promisor = subprocess.run(
+                ["git", "config", "--bool", "remote.origin.promisor"],
+                cwd=self.repo_root,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.DEVNULL,
+                text=True,
+            )
+            if promisor.returncode != 0 or promisor.stdout.strip() != "true":
+                raise RuntimeError("cannot materialize missing Git blobs without promisor origin")
+            subprocess.run(
+                [
+                    "git",
+                    "-c",
+                    "fetch.negotiationAlgorithm=noop",
+                    "fetch",
+                    "origin",
+                    "--no-tags",
+                    "--no-write-fetch-head",
+                    "--recurse-submodules=no",
+                    "--filter=blob:none",
+                    "--stdin",
+                ],
+                cwd=self.repo_root,
+                check=True,
+                input=b"".join(object_id + b"\n" for object_id in missing),
+                stdout=subprocess.DEVNULL,
+            )
+            remaining = self._missing_git_objects(missing)
+            if remaining:
+                raise RuntimeError(f"promisor remote did not provide {len(remaining)} required blobs")
+
         written: list[Path] = []
-        try:
-            with tarfile.open(fileobj=proc.stdout, mode="r|*") as archive:
-                for member in archive:
-                    if not member.isfile():
-                        continue
-                    rel = self.normalize(member.name)
-                    target = (destination / rel).resolve()
-                    if destination not in target.parents:
-                        raise ValueError(f"unsafe archive member: {member.name}")
-                    source = archive.extractfile(member)
-                    if source is None:
-                        continue
-                    target.parent.mkdir(parents=True, exist_ok=True)
-                    with source, target.open("wb") as output:
-                        copyfileobj(source, output)
-                    written.append(target)
-        finally:
-            proc.stdout.close()
-        stderr = proc.stderr.read().decode("utf-8", errors="replace") if proc.stderr else ""
-        if proc.stderr:
-            proc.stderr.close()
-        returncode = proc.wait()
-        if returncode != 0:
-            raise subprocess.CalledProcessError(returncode, proc.args, stderr=stderr)
+        for object_id, rel in entries:
+            target = (destination / rel).resolve()
+            if destination not in target.parents:
+                raise ValueError(f"unsafe materialization path: {rel}")
+            blob = subprocess.run(
+                ["git", "cat-file", "blob", object_id.decode("ascii")],
+                cwd=self.repo_root,
+                check=True,
+                stdout=subprocess.PIPE,
+            ).stdout
+            atomic_write_bytes(target, blob)
+            written.append(target)
         return written
+
+    def _missing_git_objects(self, object_ids: Iterable[bytes]) -> list[bytes]:
+        unique_ids = list(dict.fromkeys(object_ids))
+        if not unique_ids:
+            return []
+        env = os.environ.copy()
+        env["GIT_NO_LAZY_FETCH"] = "1"
+        proc = subprocess.run(
+            ["git", "cat-file", "--batch-check=%(objectname) %(objecttype)"],
+            cwd=self.repo_root,
+            check=True,
+            input=b"".join(object_id + b"\n" for object_id in unique_ids),
+            stdout=subprocess.PIPE,
+            env=env,
+        )
+        results = proc.stdout.splitlines()
+        if len(results) != len(unique_ids):
+            raise RuntimeError("unexpected response while checking Git blob availability")
+        return [
+            object_id
+            for object_id, result in zip(unique_ids, results)
+            if result.endswith(b" missing")
+        ]
 
 
 _DEFAULT_INVENTORY = ArchiveInventory()
