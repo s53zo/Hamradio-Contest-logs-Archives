@@ -28,6 +28,8 @@ git clone --depth 1 --filter=blob:none --sparse --single-branch --branch main \
   https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
 cd Hamradio-Contest-logs-Archives
 git sparse-checkout set --cone --sparse-index .github scripts tests state SH6
+git status --short
+git sparse-checkout list
 python3 scripts/shard_index.py audit
 ```
 
@@ -57,10 +59,13 @@ uses the new sparse clone alone.
 
 ```sh
 git pull --ff-only
-export UA9QCQ_COOKIE='session-cookie-when-needed'
 python3 scripts/archive_updater.py --dry-run --contests all --last 1
 python3 scripts/archive_updater.py --contests all --last 1 --publish
 ```
+
+Interactive UA9QCQ runs request the session cookie without displaying it. For
+unattended runs, inject `UA9QCQ_COOKIE` through the machine's secret manager.
+Do not place the value in a command, shell history, or tracked file.
 
 `--dry-run` performs Git/preflight checks and prints the intended scope. It does
 not run providers or modify tracked state. The full command performs download,
@@ -86,10 +91,11 @@ python3 scripts/archive_updater.py --phase reconstruct
 python3 scripts/archive_updater.py --phase shards --publish
 ```
 
-The reconstruction phase uses `git archive` to materialize only complete source
-rounds containing changed logs in a temporary directory. It writes new outputs
-to their unchanged `RECONSTRUCTED_LOGS/...` paths and removes the temporary
-sources automatically.
+The reconstruction phase enumerates exact source paths from the Git tree for
+rounds containing changed logs. In a partial clone it batch-fetches only missing
+blobs, materializes complete rounds in a temporary directory, writes new
+outputs to their unchanged `RECONSTRUCTED_LOGS/...` paths, and removes the
+temporary sources automatically.
 
 Direct diagnostic commands are still available:
 
@@ -118,6 +124,11 @@ python3 scripts/archive_updater.py --phase shards --publish
 
 The adoption command rejects invalid logs, deletions, credentials, transient
 files, and unrelated working-tree changes.
+
+Generated contest and reconstruction paths normally sit outside the updater's
+sparse cone. Publication intentionally stages them with `git add --sparse`;
+removing that mode causes Git to reject a valid sparse update after SH6 work has
+already completed.
 
 ## Concurrent computers
 
@@ -180,7 +191,10 @@ git sparse-checkout reapply --sparse-index
 ```
 
 This removes contest folders from the working tree without deleting them from
-Git. Locally created blobs remain reachable in `.git`, so periodically check:
+Git. Git may temporarily report that the sparse index is expanding while
+out-of-cone paths are staged; the final cleanup restores the normal sparse
+working tree. Locally created blobs remain reachable in `.git`, so periodically
+check:
 
 ```sh
 du -sh .git SH6 state

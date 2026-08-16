@@ -153,16 +153,31 @@ commits logs plus state plus indexes together, and then removes archive folders
 from the sparse working tree. See [UPDATER.md](UPDATER.md) for the complete
 operating and recovery guide.
 
-## Set Up An Updater
+## Choose A Checkout
+
+Use the smallest checkout that matches the job:
+
+| Purpose | Recommended checkout |
+| --- | --- |
+| Download and publish new logs | Blobless sparse updater clone |
+| Query or audit SH6 | Sparse clone containing `SH6/` |
+| Read one contest, mode, or year | Sparse clone of only that directory |
+| Keep every current log locally | Shallow full clone |
+| Inspect or preserve complete Git history | Complete full clone |
+| Fetch one known log | Raw GitHub URL; no clone required |
+
+## Create A Partial Updater Clone
 
 Python 3.10 or newer, Git 2.34 or newer, and authenticated GitHub push access
-are required. On each computer, create one local updater checkout:
+are required. On each updater computer, create one blobless sparse checkout:
 
 ```sh
 git clone --depth 1 --filter=blob:none --sparse --single-branch --branch main \
   https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
 cd Hamradio-Contest-logs-Archives
 git sparse-checkout set --cone --sparse-index .github scripts tests state SH6
+git status --short
+git sparse-checkout list
 python3 scripts/shard_index.py audit
 ```
 
@@ -171,7 +186,32 @@ This is the only clone needed on that computer. Contest directories and
 temporarily materializes changed rounds. See [UPDATER.md](UPDATER.md) when
 replacing an older full checkout.
 
-## Run An Update
+`git status --short` should print nothing. The sparse list should contain
+`.github`, `scripts`, `tests`, `state`, and `SH6`; root files are included by
+Git cone mode. A healthy SH6 audit ends with `missing=0 extra=0`.
+
+## Create A Full Clone
+
+To keep all current contest logs locally without downloading old Git history:
+
+```sh
+git clone --depth 1 --single-branch --branch main \
+  https://github.com/s53zo/Hamradio-Contest-logs-Archives.git \
+  Hamradio-Contest-logs-Archives-full
+```
+
+To clone both the current archive and its complete history:
+
+```sh
+git clone https://github.com/s53zo/Hamradio-Contest-logs-Archives.git \
+  Hamradio-Contest-logs-Archives-history
+```
+
+The archive contains more than two million files, and a history clone is much
+larger than a shallow current-state clone. A full clone is useful for offline
+analysis or a recovery SH6 rebuild, but it is not required for routine updates.
+
+## Update Contest Logs And Publish
 
 Always begin by receiving the newest scripts, durable state, and SH6 shards:
 
@@ -185,11 +225,25 @@ For selected providers or lower concurrency:
 
 ```sh
 python3 scripts/archive_updater.py --contests 28,30,31,32 --last 1 --workers 8 --publish
+python3 scripts/archive_updater.py --contests 30 --last all --publish
 ```
 
-UA9QCQ providers read the session cookie from `UA9QCQ_COOKIE`; when interactive,
-the downloader can prompt for it. Cookies, credentials, `.env` files, PID files,
-active transaction journals, and SQLite sidecars must not be committed.
+`--last 1` checks the most recent contest year; `--last all` checks every year
+published by the selected provider. Run the interactive downloader shown below
+to display the current numbered provider menu.
+
+The updater performs provider discovery, downloads, changed-round
+reconstruction, incremental SH6 updates, README statistics, tests, scoped
+staging, commit creation, remote reconciliation, push verification, and sparse
+cleanup. A run with no new material reports that the archive is already current
+and creates no commit.
+
+UA9QCQ providers read the session cookie from `UA9QCQ_COOKIE`. Interactive runs
+prompt for it without displaying the value. For unattended automation, inject
+the variable through the machine's secret manager rather than putting the value
+in a command, shell history, or tracked file. Cookies, credentials, `.env`
+files, PID files, active transaction journals, and SQLite sidecars must not be
+committed.
 
 The low-level interactive downloader remains available for diagnostics:
 
@@ -255,7 +309,10 @@ full clone; it builds a replacement directory before swapping it into place:
 python3 scripts/public_logs_downloader.py --rebuild-shards
 ```
 
-After a successful sparse publication, remove materialized archive folders with:
+The updater stages generated archive paths outside the sparse cone with Git's
+sparse-aware staging mode. Temporary "sparse index is expanding" hints can
+appear while those paths are materialized; successful publication cleans them
+up automatically. To clean up manually after diagnostics, run:
 
 ```sh
 git sparse-checkout reapply --sparse-index
@@ -266,18 +323,65 @@ from `HEAD`. When `.git` becomes too large, use the bootstrap command to create
 a fresh updater clone at a new path, verify it, and then remove the old clone
 manually.
 
-## Consumer Sparse Clones
+## Clone One Contest, Mode, Or Year
 
-Consumers that need one contest instead of the updater tools can still use:
+Create a blobless sparse clone, then select only the directory you need:
 
 ```sh
-git clone --filter=blob:none --sparse https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
+git clone --depth 1 --filter=blob:none --sparse --single-branch --branch main \
+  https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
 cd Hamradio-Contest-logs-Archives
-git sparse-checkout set WAE/CW
+git sparse-checkout set --cone WAE
 ```
 
-This archive is served directly from GitHub; individual log paths remain
-available through normal GitHub and raw GitHub HTTP URLs.
+Selections can be narrowed to a mode or year:
+
+```sh
+git sparse-checkout set --cone WAE/CW/2025
+git sparse-checkout set --cone YOTA_Contest/2026/Round_2
+```
+
+To retrieve both submitted and reconstructed logs for the same round:
+
+```sh
+git sparse-checkout set --cone \
+  CQWW/cw/2024 \
+  RECONSTRUCTED_LOGS/CQWW/cw/2024
+```
+
+`git sparse-checkout set` replaces the current selection. Use
+`git sparse-checkout add <directory>` to add another directory and
+`git pull --ff-only` to receive later updates. Add `SH6` only when the local
+SQLite search index is also needed.
+
+## Download One Log Without Cloning
+
+Every log remains directly accessible through GitHub. For example:
+
+```text
+https://github.com/s53zo/Hamradio-Contest-logs-Archives/blob/main/CQWW/cw/2024/2e0cvn.log
+https://raw.githubusercontent.com/s53zo/Hamradio-Contest-logs-Archives/main/CQWW/cw/2024/2e0cvn.log
+```
+
+Replace the example path with any other log path. Archive log paths are kept
+stable because applications use these raw URLs as a public interface.
+
+## Verify And Maintain A Checkout
+
+Useful checks for an updater clone are:
+
+```sh
+git status --short
+git sparse-checkout list
+python3 scripts/shard_index.py audit
+du -sh .git SH6 state
+```
+
+A ready updater has a clean status, the expected sparse directories, and an SH6
+audit ending in `missing=0 extra=0`. Consumer clones normally need only
+`git pull --ff-only`. If an updater's `.git` directory grows too large after
+many publications, create and verify a fresh sparse clone before retiring the
+old checkout; [UPDATER.md](UPDATER.md) documents that migration.
 
 ## Contributing Sources
 
