@@ -95,34 +95,44 @@ if [[ "${PRINT_PATHS_ONLY}" == "true" ]]; then
   exit 0
 fi
 
-worktree_dir="$(mktemp -d "${TMPDIR:-/tmp}/web-branch-sync.XXXXXX")"
+tree_input="$(mktemp "${TMPDIR:-/tmp}/web-branch-tree.XXXXXX")"
 cleanup() {
-  git worktree remove --force "${worktree_dir}" >/dev/null 2>&1 || true
-  rm -rf "${worktree_dir}"
+  rm -f "${tree_input}"
 }
 trap cleanup EXIT
 
-branch_exists_remote="false"
+while IFS= read -r -d '' entry; do
+  path="${entry#*$'\t'}"
+  for publish_path in "${publish_paths[@]}"; do
+    if [[ "${path}" == "${publish_path}" ]]; then
+      printf '%s\0' "${entry}" >> "${tree_input}"
+      break
+    fi
+  done
+done < <(git ls-tree -z "${SOURCE_REF}")
+
+# Reuse the source commit's object IDs directly. This avoids downloading and
+# rewriting every SH6 blob in a partial clone merely to publish a reduced tree.
+desired_tree="$(git mktree -z --missing < "${tree_input}")"
+parent_commit=""
 if git ls-remote --exit-code --heads origin "${TARGET_BRANCH}" >/dev/null 2>&1; then
-  branch_exists_remote="true"
-  git fetch origin "${TARGET_BRANCH}:${TARGET_BRANCH}" >/dev/null 2>&1 || git fetch origin "${TARGET_BRANCH}" >/dev/null 2>&1
-  git worktree add -B "${TARGET_BRANCH}" "${worktree_dir}" "${TARGET_BRANCH}" >/dev/null
-else
-  git worktree add --detach "${worktree_dir}" "${SOURCE_REF}" >/dev/null
-  git -C "${worktree_dir}" checkout --orphan "${TARGET_BRANCH}" >/dev/null
-fi
-
-find "${worktree_dir}" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
-git archive --format=tar "${SOURCE_REF}" "${publish_paths[@]}" | tar -xf - -C "${worktree_dir}"
-
-git -C "${worktree_dir}" add -A
-if git -C "${worktree_dir}" diff --cached --quiet; then
-  log "No ${TARGET_BRANCH} branch changes detected."
-  exit 0
+  remote_target_ref="refs/remotes/origin/${TARGET_BRANCH}"
+  git fetch --filter=blob:none --no-tags origin \
+    "+refs/heads/${TARGET_BRANCH}:${remote_target_ref}" >/dev/null
+  parent_commit="$(git rev-parse "${remote_target_ref}^{commit}")"
+  current_tree="$(git rev-parse "${parent_commit}^{tree}")"
+  if [[ "${current_tree}" == "${desired_tree}" ]]; then
+    log "No ${TARGET_BRANCH} branch changes detected."
+    exit 0
+  fi
 fi
 
 source_sha="$(git rev-parse --short "${SOURCE_REF}")"
-git -C "${worktree_dir}" commit -F - <<EOF >/dev/null
+declare -a commit_args=("${desired_tree}")
+if [[ -n "${parent_commit}" ]]; then
+  commit_args+=( -p "${parent_commit}" )
+fi
+new_commit="$(git commit-tree "${commit_args[@]}" <<EOF
 Publish root files and SH6 to ${TARGET_BRANCH}
 
 The Web branch is the reduced publish surface for browser-facing assets,
@@ -137,9 +147,12 @@ Tested: scripts/sync-web-branch.sh --print-paths --source-ref ${SOURCE_REF}
 Not-tested: remote publish from GitHub Actions end-to-end
 Related: ${source_sha}
 EOF
+)"
+
+git branch -f "${TARGET_BRANCH}" "${new_commit}" >/dev/null
 
 log "Committed ${TARGET_BRANCH} branch update from ${SOURCE_REF}."
 if [[ "${PUSH_CHANGES}" == "true" ]]; then
-  git -C "${worktree_dir}" push -u origin "${TARGET_BRANCH}" >/dev/null
+  git push -u origin "${TARGET_BRANCH}" >/dev/null
   log "Pushed ${TARGET_BRANCH} to origin."
 fi
