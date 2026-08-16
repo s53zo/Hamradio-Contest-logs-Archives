@@ -5,8 +5,15 @@ analysis/
 callsigns.sqlite3
 CQWW/.DS_Store
 .omx/
+.playwright-cli/
 /index.html
 /404.html
 scripts/download_tasks_ledger.sqlite.corrupt-*
 scripts/download_tasks_ledger.sqlite-shm
 scripts/download_tasks_ledger.sqlite-wal
+state/**/*.sqlite-shm
+state/**/*.sqlite-wal
+state/**/*.sqlite-journal
+state/**/*.sqlite.corrupt-*
+/.SH6.next/
+/.SH6.previous/
