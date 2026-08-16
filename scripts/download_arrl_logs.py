@@ -200,7 +200,7 @@ def download_log(dest_dir: Path, call: str, log_url: str, retries: int = 3, dela
                 time.sleep(delay * (2 ** attempt))
             else:
                 with PRINT_LOCK:
-                    print(f"fail {log_url}: {exc}")
+                    print(f"fail {dest_path}: {exc}")
                 return {"error": 1}
     return {"error": 1}
 

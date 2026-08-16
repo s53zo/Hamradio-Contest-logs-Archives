@@ -364,15 +364,15 @@ def download_log(url: str, season: Season, max_errors: int = 1) -> Tuple[str, st
     try:
         html_text = fetch_text(url)
     except Exception as exc:  # pylint: disable=broad-except
-        print(f"Failed to fetch log {url}: {exc}", file=sys.stderr)
+        print(f"Failed to fetch {season.year} {season.season} log: {exc}", file=sys.stderr)
         return None
     call, category = extract_log_summary(html_text)
     if not call:
-        print(f"Missing callsign in log {url}", file=sys.stderr)
+        print(f"Missing callsign in {season.year} {season.season} log", file=sys.stderr)
         return None
     qsos = parse_qsos(html_text, season.year)
     if not qsos:
-        print(f"No QSOs parsed for {call} ({url})", file=sys.stderr)
+        print(f"No QSOs parsed for {call} ({season.year} {season.season})", file=sys.stderr)
     cbr = build_cabrillo(sanitize_call(call), category, qsos, season)
     return sanitize_call(call), cbr
 

@@ -61,6 +61,7 @@ from __future__ import annotations
 
 import argparse
 import concurrent.futures
+import getpass
 import gzip
 import html
 import hashlib
@@ -163,9 +164,13 @@ HOST_WORKER_CAPS = {
     "spcwc.pl": 2,
     "contest.ham-yota.com": 6,
 }
+HOST_SEMAPHORES = {
+    host: threading.BoundedSemaphore(cap) for host, cap in HOST_WORKER_CAPS.items()
+}
 
 PRINT_LOCK = threading.Lock()
 UA9QCQ_COOKIE_LOCK = threading.Lock()
+UA9QCQ_DISCOVERY_LOCK = threading.Lock()
 UA9QCQ_COOKIE: str | None = None
 DOWNLOAD_CANCEL_EVENT = threading.Event()
 TASK_LEDGER: "TaskLedger | None" = None
@@ -278,7 +283,9 @@ def get_ua9qcq_cookie() -> str:
             return UA9QCQ_COOKIE
         cookie = os.environ.get("UA9QCQ_COOKIE", "").strip()
         if not cookie and sys.stdin.isatty():
-            cookie = input("UA9QCQ session cookie (UA9QCQ_COOKIE): ").strip()
+            cookie = getpass.getpass(
+                "UA9QCQ session cookie (UA9QCQ_COOKIE, input hidden): "
+            ).strip()
         if cookie:
             os.environ["UA9QCQ_COOKIE"] = cookie
         UA9QCQ_COOKIE = cookie
@@ -1138,7 +1145,7 @@ def download_file(
             with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
                 atomic_write_bytes(dest_path, resp.read())
             if ledger:
-                ledger.add(key, url)
+                ledger.add(key, "downloaded")
             with PRINT_LOCK:
                 print(f"ok   {dest_path}")
             return {"ok": 1}
@@ -1147,7 +1154,7 @@ def download_file(
                 time.sleep(delay * (2 ** attempt))
             else:
                 with PRINT_LOCK:
-                    print(f"fail {url}: {exc}")
+                    print(f"fail {dest_path}: {exc}")
     return {"error": 1}
 
 
@@ -1198,7 +1205,7 @@ def download_arrl_log(
                         content = extracted.encode("utf-8")
                 atomic_write_bytes(dest_path, content)
             if ledger:
-                ledger.add(key, url)
+                ledger.add(key, "downloaded")
             with PRINT_LOCK:
                 print(f"ok   {dest_path}")
             return {"ok": 1}
@@ -1207,7 +1214,7 @@ def download_arrl_log(
                 time.sleep(delay * (2 ** attempt))
             else:
                 with PRINT_LOCK:
-                    print(f"fail {url}: {exc}")
+                    print(f"fail {dest_path}: {exc}")
     return {"error": 1}
 
 
@@ -1754,12 +1761,12 @@ def tasks_zrs_kvp(last: int | None) -> List[DownloadTask]:
             host = urllib.parse.urlparse(url).hostname or "unknown"
             placeholder = Path(zrs.OUTPUT_ROOT) / str(season.year) / season.season / f"log-{abs(hash(url)) & 0xFFFF}.log"
 
-            def action(season=season, url=url) -> Dict[str, int]:
+            def action(season=season, url=url, placeholder=placeholder) -> Dict[str, int]:
                 try:
                     result = zrs.download_log(url, season)
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
-                        print(f"fail {url}: {exc}")
+                        print(f"fail {placeholder}: {exc}")
                     return {"error": 1}
                 if not result:
                     return {"skip": 1}
@@ -1838,7 +1845,7 @@ def tasks_euhfc(last: int | None) -> List[DownloadTask]:
                     text = euhf.fetch_text(url)
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
-                        print(f"fail {url}: {exc}")
+                        print(f"fail {dest}: {exc}")
                     return {"error": 1}
                 owner = euhf.parse_owner(text, call)
                 category = euhf.parse_category(text)
@@ -2116,8 +2123,7 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
     configure_ua9qcq_module(wed)
     cookie = get_ua9qcq_cookie()
     if not cookie:
-        print("UA9QCQ_COOKIE is required for Wednesday Mini-Test 40m; skipping.")
-        return []
+        raise RuntimeError("UA9QCQ_COOKIE is required for Wednesday Mini-Test 40m")
 
     landing = wed.fetch_text_with_cookie(wed.RESULTS_URL, {"lang": "en"}, cookie)
     years = [y for y in wed.parse_year_options(landing) if y.isdigit()]
@@ -2225,8 +2231,7 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
     configure_ua9qcq_module(wed)
     cookie = get_ua9qcq_cookie()
     if not cookie:
-        print("UA9QCQ_COOKIE is required for Wednesday Mini-Test 80m; skipping.")
-        return []
+        raise RuntimeError("UA9QCQ_COOKIE is required for Wednesday Mini-Test 80m")
 
     landing = wed.fetch_text_with_cookie(wed.RESULTS_URL, {"lang": "en"}, cookie)
     years = [y for y in wed.parse_year_options(landing) if y.isdigit()]
@@ -2343,8 +2348,7 @@ def tasks_ua9qcq_yearly(
     configure_ua9qcq_module(module)
     cookie = get_ua9qcq_cookie()
     if not cookie:
-        print(f"UA9QCQ_COOKIE is required for {source_label}; skipping.")
-        return []
+        raise RuntimeError(f"UA9QCQ_COOKIE is required for {source_label}")
 
     def fetch_with_retry(data: Dict[str, str]) -> str:
         last_exc: Exception | None = None
@@ -2778,7 +2782,7 @@ def tasks_ttc_spcwc(last: int | None) -> List[DownloadTask]:
                     return {"ok": 1}
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
-                        print(f"fail {station.url}: {exc}")
+                        print(f"fail {dest}: {exc}")
                     return {"error": 1}
 
             tasks.append(
@@ -4868,12 +4872,40 @@ DEFAULT_UA9QCQ_REQUEST_TIMEOUT = 12
 UA9QCQ_IDLE_TIMEOUT: int | None = DEFAULT_UA9QCQ_IDLE_TIMEOUT
 UA9QCQ_MAX_CONSECUTIVE_ERRORS: int | None = DEFAULT_UA9QCQ_MAX_CONSECUTIVE_ERRORS
 UA9QCQ_REQUEST_TIMEOUT = DEFAULT_UA9QCQ_REQUEST_TIMEOUT
+UA9QCQ_DISCOVERY_ATTEMPTS = 3
 
 
 def configure_ua9qcq_module(module) -> None:
     timeout = UA9QCQ_REQUEST_TIMEOUT
     if timeout > 0 and hasattr(module, "REQUEST_TIMEOUT"):
         module.REQUEST_TIMEOUT = min(int(getattr(module, "REQUEST_TIMEOUT", timeout)), timeout)
+
+
+def discover_provider_tasks(
+    provider_id: int,
+    provider_name: str,
+    provider_fn: Callable[[int | None], List[DownloadTask]],
+    last_years: int | None,
+) -> List[DownloadTask]:
+    """Run discovery, serializing and retrying providers that share UA9QCQ."""
+    attempts = UA9QCQ_DISCOVERY_ATTEMPTS if provider_id in UA9QCQ_PROVIDER_IDS else 1
+    for attempt in range(1, attempts + 1):
+        try:
+            if provider_id in UA9QCQ_PROVIDER_IDS:
+                with UA9QCQ_DISCOVERY_LOCK:
+                    return provider_fn(last_years)
+            return provider_fn(last_years)
+        except Exception as exc:  # pylint: disable=broad-except
+            if attempt >= attempts:
+                raise
+            delay = 2 ** (attempt - 1)
+            with PRINT_LOCK:
+                print(
+                    f"Provider {provider_id}) {provider_name}: discovery attempt "
+                    f"{attempt}/{attempts} failed ({exc}); retrying in {delay}s"
+                )
+            time.sleep(delay)
+    raise RuntimeError("provider discovery retry loop exited unexpectedly")
 
 
 def prompt_selection() -> List[int]:
@@ -5102,27 +5134,31 @@ def _main() -> int:
     print("\nStarting provider discovery in parallel...")
 
     discovery_inventory: Dict[int, Tuple[int, int, int]] = {}
+    discovery_failures: Dict[int, str] = {}
 
     def run_provider(sel: int) -> Tuple[int, List[DownloadTask]]:
         name, fn = PROVIDERS[sel]
         try:
-            tasks = fn(last_val)
+            tasks = discover_provider_tasks(sel, name, fn, last_val)
             discovered = len(tasks)
             tasks, existing = filter_missing_tasks(tasks)
             with PRINT_LOCK:
                 discovery_inventory[sel] = (discovered, existing, len(tasks))
                 print(
                     f"Provider {sel}) {name}: discovery complete; "
-                    f"discovered={discovered} existing={existing} downloads={len(tasks)}"
+                    f"candidate_tasks={discovered} existing_tasks={existing} "
+                    f"queued_tasks={len(tasks)}"
                 )
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 discovery_inventory[sel] = (0, 0, 0)
+                discovery_failures[sel] = str(exc)
                 print(f"Provider {sel}) {name} failed during discovery: {exc}")
             return sel, []
         return sel, tasks
 
     discovery_results: Dict[int, Tuple[str, int]] = {}
+    discovery_tasks: Dict[int, List[DownloadTask]] = {}
     download_threads: List[threading.Thread] = []
     provider_stats: Dict[int, Dict[str, int]] = {}
     reconstruct_roots: set[str] = set()
@@ -5157,10 +5193,21 @@ def _main() -> int:
         def wrapped_task(task: DownloadTask) -> Dict[str, int]:
             if cancel_event.is_set():
                 return {"cancel": 1}
+            shared_semaphore = HOST_SEMAPHORES.get(task.host)
+            shared_acquired = False
+            if shared_semaphore:
+                while not cancel_event.is_set():
+                    if shared_semaphore.acquire(timeout=0.5):
+                        shared_acquired = True
+                        break
+                if not shared_acquired:
+                    return {"cancel": 1}
             acquired = False
             if limiter:
                 acquired = limiter.acquire(cancel_event)
                 if not acquired:
+                    if shared_acquired:
+                        shared_semaphore.release()
                     return {"cancel": 1}
             success = False
             try:
@@ -5197,6 +5244,8 @@ def _main() -> int:
             finally:
                 if limiter and acquired:
                     limiter.release(success)
+                if shared_acquired:
+                    shared_semaphore.release()
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = [executor.submit(wrapped_task, task) for task in tasks]
@@ -5374,30 +5423,49 @@ def _main() -> int:
                 sel, tasks = fut.result()
                 name, _ = PROVIDERS[sel]
                 discovery_results[sel] = (name, len(tasks))
+                discovery_tasks[sel] = tasks
                 total_tasks += len(tasks)
                 for task in tasks:
                     roots = task.output_roots or (
                         (task.dest.parts[0],) if task.dest.parts else ()
                     )
                     reconstruct_roots.update(root for root in roots if root in MANIFEST_ROOTS)
-                t = threading.Thread(target=download_provider, args=(sel, tasks))
-                t.start()
-                download_threads.append(t)
 
     print("\nDiscovery results (stable order):")
     for sel in sorted(selections):
         name, _ = discovery_results.get(sel, (PROVIDERS[sel][0], 0))
         discovered, existing, downloads = discovery_inventory.get(sel, (0, 0, 0))
+        if sel in discovery_failures:
+            print(f"  {sel}) {name:<40} FAILED: {discovery_failures[sel]}")
+            continue
         print(
-            f"  {sel}) {name:<40} discovered {discovered:>6} "
-            f"existing {existing:>6} downloads {downloads:>6}"
+            f"  {sel}) {name:<40} candidates {discovered:>6} "
+            f"existing {existing:>6} queued {downloads:>6}"
         )
 
     if total_tasks == 0:
         print("No new downloads queued.")
+        if discovery_failures:
+            print(
+                f"Run incomplete: {len(discovery_failures)} provider discovery "
+                "failure(s). No reconstruction or shard update was started.",
+                file=sys.stderr,
+            )
+            return 1
         return 0
 
-    print(f"\nTotal files to download: {total_tasks} using up to {args.workers} workers per server")
+    print(
+        f"\nTotal provider tasks queued: {total_tasks} using up to "
+        f"{args.workers} workers per server (one task may write multiple logs)"
+    )
+
+    for sel in sorted(discovery_tasks):
+        tasks = discovery_tasks[sel]
+        if not tasks:
+            continue
+        thread = threading.Thread(target=download_provider, args=(sel, tasks))
+        thread.start()
+        download_threads.append(thread)
 
     download_interrupted = False
     try:
@@ -5413,17 +5481,22 @@ def _main() -> int:
                 t.join(timeout=0.5)
         print("Download workers stopped.")
 
-    def print_download_summary() -> None:
-        total_elapsed = time.time() - start_time
+    def combined_download_counts() -> Dict[str, int]:
         total_counts = empty_counts()
         for stats in provider_stats.values():
             add_counts(total_counts, stats)
+        return total_counts
+
+    def print_download_summary() -> None:
+        total_elapsed = time.time() - start_time
+        total_counts = combined_download_counts()
         print("\nSummary:")
         print(f"  providers: {len(selections)}")
-        print(f"  total queued: {total_tasks}")
-        print(f"  downloaded: {total_counts.get('ok', 0)}")
+        print(f"  provider tasks queued: {total_tasks}")
+        print(f"  files written: {total_counts.get('ok', 0)}")
         print(f"  skipped: {total_counts.get('skip', 0)}")
-        print(f"  errors: {total_counts.get('error', 0)}")
+        print(f"  download errors: {total_counts.get('error', 0)}")
+        print(f"  discovery failures: {len(discovery_failures)}")
         if total_counts.get("cancel", 0):
             print(f"  canceled: {total_counts.get('cancel', 0)}")
         print(f"  elapsed: {total_elapsed:.1f}s")
@@ -5441,7 +5514,7 @@ def _main() -> int:
             print(
                 f"  {sel}) {name:<40} ok {stats.get('ok', 0):>6} "
                 f"skip {stats.get('skip', 0):>6} err {stats.get('error', 0):>4} "
-                f"{cancel_part}queued {queued:>6} time {provider_elapsed:>5}s"
+                f"{cancel_part}tasks {queued:>6} time {provider_elapsed:>5}s"
             )
 
     if download_interrupted:
@@ -5459,6 +5532,16 @@ def _main() -> int:
 
     if not download_interrupted:
         print_download_summary()
+    download_errors = combined_download_counts().get("error", 0)
+    if discovery_failures or download_errors:
+        print(
+            "Run incomplete: "
+            f"{len(discovery_failures)} discovery failure(s), "
+            f"{download_errors} download error(s). Successful files were kept; "
+            "reconstruction and shard updates were not started.",
+            file=sys.stderr,
+        )
+        return 1
     if args.non_interactive:
         resp = ""
     else:

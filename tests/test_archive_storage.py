@@ -80,6 +80,21 @@ class ArchiveStorageTests(unittest.TestCase):
 
         self.assertTrue(inventory.log_exists(rel))
 
+    def test_callsign_lookup_combines_indexed_and_new_local_logs(self) -> None:
+        indexed = "EU_VHF_CONTESTS/Test/2025/144MHz/S53ZO.log"
+        local = "EU_VHF_CONTESTS/Test/2026/432MHz/S53ZO.log"
+        self.add_index_row(indexed)
+        local_path = self.root / local
+        local_path.parent.mkdir(parents=True)
+        local_path.write_text("START-OF-LOG: 3.0\nEND-OF-LOG:\n", encoding="ascii")
+
+        inventory = storage.ArchiveInventory(self.root)
+
+        self.assertEqual(
+            inventory.logs_for_callsign("S53ZO", "EU_VHF_CONTESTS/Test"),
+            [Path(indexed), Path(local)],
+        )
+
     def test_git_tree_paths_and_blob_materialization_do_not_need_source_checkout(self) -> None:
         rel = Path("YOTA_Contest/2026/Round_1/S53ZO.log")
         source = self.root / rel

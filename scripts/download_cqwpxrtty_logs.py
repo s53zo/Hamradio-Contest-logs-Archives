@@ -91,7 +91,7 @@ def download_log(year: str, log_url: str) -> dict[str, int]:
         return {"ok": 1}
     except Exception as exc:  # pylint: disable=broad-except
         with PRINT_LOCK:
-            print(f"fail {log_url}: {exc}")
+            print(f"fail {dest_path}: {exc}")
         return {"error": 1}
 
 

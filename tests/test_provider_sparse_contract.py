@@ -42,9 +42,28 @@ STANDALONE_PROVIDER_MODULES = {
     "download_yuri_gagarin_dx_contest_ubn.py",
     "download_zrs_kvp_logs.py",
 }
+INTEGRATED_PROVIDER_ADAPTERS = {"download_yota_contest_logs.py"}
+UA9QCQ_PROVIDER_MODULES = {
+    "download_ham_spirit_contest_ubn.py",
+    "download_rcc_cup_ubn.py",
+    "download_rda_contest_ubn.py",
+    "download_rf_championship_cw_ubn.py",
+    "download_russian_dx_contest_ubn.py",
+    "download_russian_radio_team_championship_ubn.py",
+    "download_wednesday_minitest_40m_ubn.py",
+    "download_wednesday_minitest_80m_ubn.py",
+    "download_yuri_gagarin_dx_contest_ubn.py",
+}
 
 
 class ProviderSparseContractTests(unittest.TestCase):
+    def test_every_download_module_has_an_explicit_runtime_contract(self) -> None:
+        discovered = {path.name for path in SCRIPTS.glob("download_*.py")}
+        self.assertEqual(
+            discovered,
+            STANDALONE_PROVIDER_MODULES | INTEGRATED_PROVIDER_ADAPTERS,
+        )
+
     def test_every_standalone_provider_uses_remote_inventory_and_atomic_writes(self) -> None:
         discovered = {
             path.name
@@ -66,6 +85,20 @@ class ProviderSparseContractTests(unittest.TestCase):
                     {"atomic_write_text", "atomic_write_bytes"} & calls,
                     "provider must not stream directly into a final log path",
                 )
+
+    def test_integrated_yota_adapter_writes_only_through_public_downloader(self) -> None:
+        adapter = (SCRIPTS / "download_yota_contest_logs.py").read_text(encoding="utf-8")
+        public_source = (SCRIPTS / "public_logs_downloader.py").read_text(encoding="utf-8")
+        self.assertNotIn("if __name__ ==", adapter)
+        self.assertIn("import download_yota_contest_logs as yota", public_source)
+        self.assertIn("atomic_write_text(dest, cabrillo)", public_source)
+
+    def test_every_ua9qcq_cookie_prompt_is_hidden(self) -> None:
+        for name in sorted(UA9QCQ_PROVIDER_MODULES):
+            source = (SCRIPTS / name).read_text(encoding="utf-8")
+            with self.subTest(provider=name):
+                self.assertIn("getpass.getpass", source)
+                self.assertNotIn('input("UA9QCQ session cookie', source)
 
     def test_registry_filter_keeps_remote_only_logs_out_of_download_queue(self) -> None:
         task = public.DownloadTask(

@@ -9,6 +9,7 @@ Requires UA9QCQ_COOKIE env var for authenticated UBN access.
 from __future__ import annotations
 
 import argparse
+import getpass
 import os
 import re
 import socket
@@ -816,7 +817,9 @@ def main() -> None:
 
     cookie = os.environ.get("UA9QCQ_COOKIE", "")
     if not cookie:
-        cookie = input("UA9QCQ session cookie (UA9QCQ_COOKIE): ").strip()
+        cookie = getpass.getpass(
+            "UA9QCQ session cookie (UA9QCQ_COOKIE, input hidden): "
+        ).strip()
     if not cookie:
         raise SystemExit("UA9QCQ_COOKIE is required to fetch UBN logs.")
 

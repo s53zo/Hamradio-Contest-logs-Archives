@@ -260,7 +260,7 @@ def main() -> int:
         try:
             text = fetch_text(url)
         except Exception as exc:  # pylint: disable=broad-except
-            print(f"Failed to fetch UBN for {call} {year} ({url}): {exc}", file=sys.stderr)
+            print(f"Failed to fetch UBN for {call} {year}: {exc}", file=sys.stderr)
             return {"error": 1}
         owner = parse_owner(text, call)
         category = parse_category(text)

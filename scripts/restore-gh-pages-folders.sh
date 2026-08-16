@@ -201,16 +201,20 @@ dispatch_workflow() {
   shift
   local start_epoch
   local run_id
+  local dispatch_log
   local -a fields=("$@")
 
   start_epoch="$(date -u +%s)"
-  if ! gh workflow run "${workflow}" --repo "${SOURCE_REPO}" "${fields[@]}" >/tmp/gh-workflow-dispatch.log 2>&1; then
+  dispatch_log="$(mktemp "${TMPDIR:-/tmp}/hcla-gh-dispatch.XXXXXX")"
+  if ! gh workflow run "${workflow}" --repo "${SOURCE_REPO}" "${fields[@]}" >"${dispatch_log}" 2>&1; then
     log "Workflow dispatch failed for ${workflow}."
-    if [[ -f /tmp/gh-workflow-dispatch.log ]]; then
-      sed -n '1,20p' /tmp/gh-workflow-dispatch.log
+    if [[ -f "${dispatch_log}" ]]; then
+      sed -n '1,20p' "${dispatch_log}"
     fi
+    rm -f "${dispatch_log}"
     return 1
   fi
+  rm -f "${dispatch_log}"
 
   for _ in {1..60}; do
     run_id="$(gh run list --workflow "${workflow}" --repo "${SOURCE_REPO}" --limit 20 --json databaseId,createdAt \

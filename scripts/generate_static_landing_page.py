@@ -5,6 +5,8 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
+from archive_storage import atomic_write_text
+
 
 GITHUB_URL = "https://github.com/s53zo/Hamradio-Contest-logs-Archives"
 
@@ -83,7 +85,7 @@ def main() -> None:
 
     output_dir = args.output_dir.resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
-    (output_dir / "index.html").write_text(build_page(), encoding="utf-8")
+    atomic_write_text(output_dir / "index.html", build_page())
 
 
 if __name__ == "__main__":

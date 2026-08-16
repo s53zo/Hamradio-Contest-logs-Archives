@@ -158,6 +158,33 @@ class ArchiveInventory:
             return False
         return self.indexed(rel)
 
+    def logs_for_callsign(
+        self,
+        callsign: str,
+        prefix: str | Path,
+    ) -> list[Path]:
+        """Return indexed or newly local logs for a callsign below a prefix."""
+        rel_prefix = self.normalize(prefix)
+        prefix_text = rel_prefix.as_posix().rstrip("/") + "/"
+        normalized_call = callsign.upper()
+        found: set[Path] = set()
+
+        shard = self.shard_root / f"logs_{callsign_bucket(normalized_call):02x}.sqlite"
+        if shard.is_file():
+            with closing(sqlite3.connect(f"file:{shard}?mode=ro", uri=True)) as conn:
+                rows = conn.execute(
+                    "SELECT path FROM logs WHERE callsign = ? AND path LIKE ?",
+                    (normalized_call, f"{prefix_text}%"),
+                )
+                found.update(Path(row[0]) for row in rows)
+
+        local_prefix = self.repo_root / rel_prefix
+        if local_prefix.is_dir():
+            for path in local_prefix.rglob(f"{callsign}.log"):
+                if valid_local_log(path):
+                    found.add(path.resolve().relative_to(self.repo_root))
+        return sorted(found, key=lambda path: path.as_posix())
+
     def git_paths(
         self,
         prefix: str | Path | None = None,
@@ -195,8 +222,7 @@ class ArchiveInventory:
         for value in paths:
             rel = self.normalize(value)
             target = destination / rel
-            target.parent.mkdir(parents=True, exist_ok=True)
-            target.write_bytes(self.read_git_blob(rel))
+            atomic_write_bytes(target, self.read_git_blob(rel))
             written.append(target)
         return written
 

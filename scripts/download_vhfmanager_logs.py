@@ -30,7 +30,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
-from archive_storage import archive_log_exists, atomic_write_text
+from archive_storage import ArchiveInventory, archive_log_exists, atomic_write_text
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 def pick_user_agent() -> str:
@@ -79,6 +79,7 @@ OUTPUT_ROOT = Path("EU_VHF_CONTESTS")
 CHECKLOG_STATE_ROOT = Path("state") / "providers" / "vhfmanager" / "checklogs"
 TASK_LEDGER: "TaskLedger | None" = None
 CHECKLOG_MARKER_LOCK = threading.RLock()
+ARCHIVE_INVENTORY = ArchiveInventory()
 
 
 HOST_COOLDOWN: dict[str, float] = {}
@@ -904,13 +905,13 @@ def download_contest_logs(
         is_seed = link.url in seed_urls
         log_id = log_id_from_url(link.url)
         if is_pmc_contest(contest) and is_qso_view_url(link.url):
-            print(f"skip (pmc qso view): {link.url}")
+            print(f"skip (pmc qso view): log_id={log_id}")
             write_checklog_marker(contest, log_id)
             return {"skip": 1}, []
         try:
             page = fetch_text(link.url)
         except Exception as exc:  # pylint: disable=broad-except
-            print(f"Failed to fetch log {link.url}: {exc}")
+            print(f"Failed to fetch log_id={log_id}: {exc}")
             return {"error": 1}, []
         call, category, locator, pmc_designation = parse_log_header(page)
         if not call:
@@ -960,7 +961,7 @@ def download_contest_logs(
                 try:
                     counts, new_links = fut.result()
                 except Exception as exc:  # pylint: disable=broad-except
-                    print(f"Failed processing log {_link.url}: {exc}")
+                    print(f"Failed processing log_id={log_id_from_url(_link.url)}: {exc}")
                     counts = {"error": 1}
                     new_links = []
                 add_counts(totals, counts)
@@ -1053,26 +1054,16 @@ def main() -> int:
                         dest = None
                         for year in years:
                             base = contest_output_root(True) / str(year)
-                            if not base.exists():
-                                continue
-                            for root, _dirs, files in os.walk(base):
-                                if f"{safe_call}.log" in files:
-                                    dest = Path(root) / f"{safe_call}.log"
-                                    break
-                            if dest is not None:
+                            matches = ARCHIVE_INVENTORY.logs_for_callsign(safe_call, base)
+                            if matches:
+                                dest = ARCHIVE_INVENTORY.repo_root / matches[0]
                                 break
                     else:
-                        # EU VHF logs are under contest-specific folders; scan only within contest dir.
                         contest_dir = derive_contest_dir(contest, [], False)
                         base = OUTPUT_ROOT / contest_dir
-                        dest = None
-                        if base.exists():
-                            # look for any matching callsign file under contest dir
-                            for root, _dirs, files in os.walk(base):
-                                if f"{safe_call}.log" in files:
-                                    dest = Path(root) / f"{safe_call}.log"
-                                    break
-                        if dest is None or not dest.exists():
+                        matches = ARCHIVE_INVENTORY.logs_for_callsign(safe_call, base)
+                        dest = ARCHIVE_INVENTORY.repo_root / matches[0] if matches else None
+                        if dest is None:
                             continue
                     write_checklog_marker(contest, log_id)
                     sweep_marked += 1
