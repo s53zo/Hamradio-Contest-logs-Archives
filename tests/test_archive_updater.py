@@ -224,6 +224,21 @@ class ArchiveUpdaterTests(unittest.TestCase):
             self.assertTrue(generated.is_file())
             self.assertEqual(updater.read_transaction(clone).base_sha, transaction.base_sha)
 
+    def test_provider_state_migration_runs_without_download_phase(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            repo = Path(temp)
+            legacy = repo / "EU_VHF_CONTESTS/.checklogs/488/299849.done"
+            legacy.parent.mkdir(parents=True)
+            legacy.write_text("ok\n", encoding="ascii")
+
+            updater.migrate_legacy_provider_state(repo)
+
+            self.assertFalse((repo / "EU_VHF_CONTESTS/.checklogs").exists())
+            self.assertEqual(
+                (repo / "state/providers/vhfmanager/checklogs/488/299849.done").read_text(),
+                "ok\n",
+            )
+
     def test_staging_rejects_log_like_files_outside_archive_roots(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             repo = Path(temp)

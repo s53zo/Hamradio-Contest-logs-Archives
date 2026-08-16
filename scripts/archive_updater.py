@@ -273,6 +273,12 @@ def cleanup_orphaned_transients(repo: Path) -> list[Path]:
     return removed
 
 
+def migrate_legacy_provider_state(repo: Path) -> None:
+    from download_vhfmanager_logs import migrate_legacy_checklog_markers
+
+    migrate_legacy_checklog_markers(repo)
+
+
 def allowed_generated_path(path: Path) -> bool:
     if path in {Path(value) for value in ALLOWED_TRACKED_FILES}:
         return True
@@ -381,6 +387,7 @@ def main() -> int:
 
     repo = args.repo.resolve()
     branch = args.branch or current_branch(repo)
+    migrate_legacy_provider_state(repo)
     transaction = read_transaction(repo)
     if transaction and transaction.phase in {"committed", "publishing"}:
         if not transaction.commit_sha or transaction.commit_sha != current_sha(repo):

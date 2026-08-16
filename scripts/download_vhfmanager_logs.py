@@ -811,8 +811,10 @@ def checklog_marker_path(contest: Contest, log_id: int) -> Path:
     return CHECKLOG_STATE_ROOT / str(contest.cid) / f"{log_id}.done"
 
 
-def migrate_legacy_checklog_markers() -> int:
-    legacy_root = OUTPUT_ROOT / ".checklogs"
+def migrate_legacy_checklog_markers(repo_root: Path | None = None) -> int:
+    root = Path.cwd() if repo_root is None else repo_root
+    legacy_root = root / OUTPUT_ROOT / ".checklogs"
+    state_root = root / CHECKLOG_STATE_ROOT
     if not legacy_root.is_dir():
         return 0
     migrated = 0
@@ -823,7 +825,7 @@ def migrate_legacy_checklog_markers() -> int:
                 log_id = int(legacy.stem)
             except ValueError:
                 continue
-            target = CHECKLOG_STATE_ROOT / str(contest_id) / f"{log_id}.done"
+            target = state_root / str(contest_id) / f"{log_id}.done"
             if not target.exists():
                 atomic_write_text(target, "ok\n")
             legacy.unlink()
@@ -842,7 +844,7 @@ def migrate_legacy_checklog_markers() -> int:
         except OSError:
             pass
     if migrated:
-        print(f"VHFManager: migrated {migrated} checklog markers to {CHECKLOG_STATE_ROOT}")
+        print(f"VHFManager: migrated {migrated} checklog markers to {state_root}")
     return migrated
 
 
