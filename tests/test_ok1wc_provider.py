@@ -100,9 +100,11 @@ class OK1WCProviderTests(unittest.TestCase):
         original_should_write_log = pld.ok1wc_should_write_log
         original_remove_invalid_existing = pld.remove_invalid_existing
         original_task_should_skip = pld.task_should_skip_known_outputs
+        original_state = pld.OK1WC_STATE
 
         with tempfile.TemporaryDirectory() as tmp:
             pld.OK1WC_OUTPUT_ROOT = Path(tmp) / "OK1WC_Memorial"
+            pld.OK1WC_STATE = pld.ProviderState(Path(tmp) / "state/providers/ok1wc.json")
             pld.OK1WCSession = lambda: session
             pld.ok1wc_discover_rounds = lambda _last: [round_info]
 
@@ -136,6 +138,7 @@ class OK1WCProviderTests(unittest.TestCase):
                 pld.ok1wc_should_write_log = original_should_write_log
                 pld.remove_invalid_existing = original_remove_invalid_existing
                 pld.task_should_skip_known_outputs = original_task_should_skip
+                pld.OK1WC_STATE = original_state
 
         self.assertEqual(len(tasks), 2)
         self.assertEqual(counts, [{"ok": 1}, {"ok": 1}])

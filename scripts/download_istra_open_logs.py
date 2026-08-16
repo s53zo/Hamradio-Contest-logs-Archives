@@ -21,6 +21,7 @@ import urllib.request
 from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_bytes
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 
@@ -67,6 +68,13 @@ OUTPUT_ROOT = Path("Istra_Open_Contest")
 PUBLIC_LOG_URLS = ("https://ioc.9a1p.com/public_logs_2026/",)
 LOG_EXTS = (".log", ".cbr", ".txt")
 TASK_LEDGER: "TaskLedger | None" = None
+
+
+def destination_log_exists(path: Path) -> bool:
+    try:
+        return archive_log_exists(path)
+    except ValueError:
+        return path.exists()
 
 
 def fetch_text(url: str, headers: Dict[str, str] | None = None, retries: int = 3, delay: float = 1.0) -> str:
@@ -167,9 +175,9 @@ def fetch_log(url: str) -> bytes:
 def write_log(year: int, call: str, content: bytes) -> Path:
     dest = OUTPUT_ROOT / str(year) / f"{call.replace('/', '_').upper()}.log"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if dest.exists():
+    if destination_log_exists(dest):
         return dest
-    dest.write_bytes(content)
+    atomic_write_bytes(dest, content)
     return dest
 
 
@@ -194,7 +202,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -224,7 +232,7 @@ def main() -> int:
         errors = 0
         for call, url in logs:
             dest = OUTPUT_ROOT / str(year) / f"{call.replace('/', '_').upper()}.log"
-            if dest.exists():
+            if destination_log_exists(dest):
                 total_skip += 1
                 continue
             try:
@@ -249,4 +257,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

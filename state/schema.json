@@ -1,0 +1,14 @@
+{
+  "schema_version": 2,
+  "downloads": {
+    "task_ledger": "state/downloads/tasks.sqlite",
+    "task_ledger_schema": 2,
+    "completed_inventory_fields": ["item_count", "output_count", "empty_count"]
+  },
+  "providers": {
+    "ok1wc": "state/providers/ok1wc.json"
+  },
+  "reconstruction": {
+    "ledger_root": "state/reconstruction/ledgers"
+  }
+}

@@ -26,6 +26,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_text, valid_local_log
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 BASE_URL = "https://spcwc.pl"
@@ -488,20 +489,15 @@ def destination_for(station: StationLog, output_root: Path | None = None) -> Pat
 
 
 def valid_existing_log(path: Path) -> bool:
-    if not path.exists() or not path.is_file():
-        return False
-    try:
-        if path.stat().st_size <= 0:
+    if path.exists():
+        if not valid_local_log(path):
             return False
-        head = path.read_bytes()[:4096]
-    except OSError:
-        return False
-    stripped = head.lstrip().lower()
-    if stripped.startswith((b"<!doctype html", b"<html")):
-        return False
-    if b"start-of-log" not in stripped[:2048]:
-        return False
-    return True
+        try:
+            head = path.read_bytes()[:4096]
+        except OSError:
+            return False
+        return b"start-of-log" in head.lstrip().lower()[:2048]
+    return archive_log_exists(path)
 
 
 def remove_invalid_existing(path: Path) -> bool:
@@ -551,7 +547,7 @@ def write_log(station: StationLog, output_root: Path | None = None) -> Path:
     remove_invalid_existing(dest)
     payload = fetch_log(station)
     dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(payload, encoding="utf-8")
+    atomic_write_text(dest, payload)
     return dest
 
 
@@ -571,7 +567,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument("--no-task-ledger", action="store_true", help="Disable task ledger usage.")
     args = parser.parse_args()
@@ -618,4 +614,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

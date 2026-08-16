@@ -21,6 +21,7 @@ import urllib.request
 from pathlib import Path
 from typing import Iterable, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_bytes
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 
@@ -39,6 +40,13 @@ HTTP_HEADERS = {
 # Shared lock for clean console output.
 PRINT_LOCK = threading.Lock()
 TASK_LEDGER: "TaskLedger | None" = None
+
+
+def destination_log_exists(path: Path) -> bool:
+    try:
+        return archive_log_exists(path)
+    except ValueError:
+        return path.exists()
 
 
 def fetch_text(url: str) -> str:
@@ -77,15 +85,16 @@ def download_log(year: str, log_url: str) -> dict[str, int]:
     dest_dir.mkdir(parents=True, exist_ok=True)
     dest_path = dest_dir / filename
 
-    if dest_path.exists():
+    if destination_log_exists(dest_path):
         with PRINT_LOCK:
             print(f"skip (exists): {dest_path}")
         return {"skip": 1}
 
     try:
         req = urllib.request.Request(log_url, headers=HTTP_HEADERS)
-        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp, open(dest_path, "wb") as fh:
-            fh.write(resp.read())
+        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
+            content = resp.read()
+        atomic_write_bytes(dest_path, content)
         with PRINT_LOCK:
             print(f"ok   {dest_path}")
         return {"ok": 1}
@@ -107,7 +116,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -162,4 +171,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

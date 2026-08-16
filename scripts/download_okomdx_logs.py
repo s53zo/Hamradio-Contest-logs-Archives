@@ -34,6 +34,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_text
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 
@@ -385,9 +386,9 @@ def dest_path(meta: LogMeta, call: str) -> Path:
 
 def write_log(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    if path.exists():
+    if archive_log_exists(path):
         return
-    path.write_text(content, encoding="utf-8")
+    atomic_write_text(path, content)
 
 
 def classify_round(id_round: int, fallback_year: int, calls: List[str]) -> Optional[LogMeta]:
@@ -428,7 +429,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -472,7 +473,7 @@ def main() -> int:
                     parsed.mode_label = detected
                 cab = build_cabrillo(parsed, qsos)
                 dest = dest_path(parsed, parsed.call)
-                if dest.exists():
+                if archive_log_exists(dest):
                     total_skip += 1
                     continue
                 write_log(dest, cab)
@@ -484,4 +485,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

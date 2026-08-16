@@ -27,6 +27,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Set, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_text
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 def pick_user_agent() -> str:
@@ -72,6 +73,13 @@ DEFAULT_WORKERS = 10
 OUTPUT_ROOT = Path("EUHFC")
 RESULTS_ROOT = "https://euhf.s5cc.eu"
 TASK_LEDGER: "TaskLedger | None" = None
+
+
+def destination_log_exists(path: Path) -> bool:
+    try:
+        return archive_log_exists(path)
+    except ValueError:
+        return path.exists()
 
 
 def fetch_text(url: str, data: bytes | None = None, retries: int = 3, delay: float = 1.0) -> str:
@@ -199,9 +207,9 @@ def write_log(year: int, call: str, content: str) -> Path:
     safe_call = call.replace("/", "_")
     dest = OUTPUT_ROOT / str(year) / f"{safe_call}.log"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if dest.exists():
+    if destination_log_exists(dest):
         return dest
-    dest.write_text(content, encoding="utf-8")
+    atomic_write_text(dest, content)
     return dest
 
 
@@ -224,7 +232,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -246,7 +254,7 @@ def main() -> int:
     def worker(year: int, call: str, url: str) -> dict[str, int]:
         safe_call = call.replace("/", "_")
         dest = OUTPUT_ROOT / str(year) / f"{safe_call}.log"
-        if dest.exists():
+        if destination_log_exists(dest):
             print(f"skip (exists): {dest}")
             return {"skip": 1}
         try:
@@ -309,4 +317,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

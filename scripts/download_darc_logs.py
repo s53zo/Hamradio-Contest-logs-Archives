@@ -35,6 +35,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Set, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_text
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 
@@ -152,6 +153,13 @@ CONTESTS: Dict[str, ContestSpec] = {
 
 
 TASK_LEDGER: "TaskLedger | None" = None
+
+
+def destination_log_exists(path: Path) -> bool:
+    try:
+        return archive_log_exists(path)
+    except ValueError:
+        return path.exists()
 
 
 def fetch_text(url: str, data: bytes | None = None, retries: int = 3, delay: float = 1.0) -> str:
@@ -339,9 +347,9 @@ def write_log(spec: ContestSpec, year: int, call: str, content: str, edition: st
         dest = dest / edition
     dest = dest / f"{safe_call}.log"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if dest.exists():
+    if destination_log_exists(dest):
         return dest
-    dest.write_text(content, encoding="utf-8")
+    atomic_write_text(dest, content)
     return dest
 
 
@@ -377,7 +385,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument("--no-task-ledger", action="store_true", help="Disable task ledger usage.")
     args = parser.parse_args()
@@ -395,7 +403,7 @@ def main() -> int:
         if edition:
             dest = dest / edition
         dest = dest / f"{call.replace('/', '_')}.log"
-        if dest.exists():
+        if destination_log_exists(dest):
             print(f"skip (exists): {dest}")
             return {"skip": 1}
         try:
@@ -477,4 +485,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

@@ -166,6 +166,7 @@ TOP_LEVEL_EXCLUDES=(
   ".git"
   ".github"
   "scripts"
+  "state"
   ".reconstructed_ledgers"
 )
 

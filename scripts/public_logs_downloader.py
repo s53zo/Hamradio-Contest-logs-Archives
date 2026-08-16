@@ -70,6 +70,7 @@ import json
 import os
 import random
 import re
+import shutil
 import sys
 import threading
 import time
@@ -100,6 +101,16 @@ import subprocess
 import sqlite3
 import zlib
 from collections import Counter, OrderedDict, defaultdict
+
+from archive_storage import (
+    ARCHIVE_ROOTS,
+    archive_log_exists,
+    atomic_write_bytes,
+    atomic_write_text,
+    valid_local_log,
+)
+from provider_state import ProviderState
+from task_ledger import TASK_LEDGER_PATH, TaskLedger
 
 
 def pick_user_agent() -> str:
@@ -157,49 +168,9 @@ PRINT_LOCK = threading.Lock()
 UA9QCQ_COOKIE_LOCK = threading.Lock()
 UA9QCQ_COOKIE: str | None = None
 DOWNLOAD_CANCEL_EVENT = threading.Event()
-TASK_LEDGER_PATH = Path("scripts") / "download_tasks_ledger.sqlite"
 TASK_LEDGER: "TaskLedger | None" = None
 
-MANIFEST_ROOTS = {
-    "ARRL",
-    "CQ160",
-    "CQWPX",
-    "CQWPXRTTY",
-    "CQWW",
-    "CQWWRTTY",
-    "EUHFC",
-    "EUDX_contest",
-    "EU_VHF_CONTESTS",
-    "HamSpiritContest",
-    "Istra_Open_Contest",
-    "OK_Contest",
-    "OK1WC_Memorial",
-    "OK_OM_DX_Contest",
-    "OK_DX_RTTY_contest",
-    "RCCCup",
-    "RDAContest",
-    "REF",
-    "RFChampionshipCW",
-    "RussianDXContest",
-    "RussianRadioTeamChampionship",
-    "SAC",
-    "WAE",
-    "WRTC",
-    "WednesdayMiniTest40m",
-    "WednesdayMiniTest80m",
-    "DARC",
-    "WWDIGI",
-    "WW_PMC",
-    "YuriGagarinDXContest",
-    "YU_DX_Contest",
-    "9A_HRS_Contest",
-    "ZRS_KVP",
-    "SPDX_contest",
-    "TTC-SPCWC",
-    "URE",
-    "YOTA_Contest",
-    "RECONSTRUCTED_LOGS",
-}
+MANIFEST_ROOTS = ARCHIVE_ROOTS
 
 MODE_MAP = {
     "cw": "CW",
@@ -336,50 +307,6 @@ def ledger_key(dest_path: Path) -> str:
     return dest_path.as_posix()
 
 
-class TaskLedger:
-    def __init__(self, path: Path) -> None:
-        self.path = path
-        self._lock = threading.Lock()
-        self._conn = sqlite3.connect(self.path, check_same_thread=False)
-        self._conn.execute("PRAGMA journal_mode=WAL")
-        self._conn.execute("PRAGMA synchronous=NORMAL")
-        self._conn.execute(
-            """
-            CREATE TABLE IF NOT EXISTS tasks (
-                task_key TEXT PRIMARY KEY,
-                list_hash TEXT NOT NULL,
-                item_count INTEGER,
-                last_checked INTEGER
-            )
-            """
-        )
-        self._conn.commit()
-
-    def has_hash(self, task_key: str, list_hash: str) -> bool:
-        with self._lock:
-            cur = self._conn.execute(
-                "SELECT list_hash FROM tasks WHERE task_key = ?",
-                (task_key,),
-            )
-            row = cur.fetchone()
-            return bool(row and row[0] == list_hash)
-
-    def set_hash(self, task_key: str, list_hash: str, item_count: int) -> None:
-        with self._lock:
-            self._conn.execute(
-                """
-                INSERT INTO tasks (task_key, list_hash, item_count, last_checked)
-                VALUES (?, ?, ?, ?)
-                ON CONFLICT(task_key) DO UPDATE SET
-                    list_hash=excluded.list_hash,
-                    item_count=excluded.item_count,
-                    last_checked=excluded.last_checked
-                """,
-                (task_key, list_hash, item_count, int(time.time())),
-            )
-            self._conn.commit()
-
-
 def normalize_items(items: Iterable[str], upper: bool = False) -> List[str]:
     uniq: set[str] = set()
     for item in items:
@@ -405,26 +332,29 @@ def task_should_skip(task_key: str, items: Iterable[str], upper: bool = False) -
     return False, list_hash, count
 
 
-def task_mark_complete(task_key: str, list_hash: str, item_count: int) -> None:
+def task_mark_complete(
+    task_key: str,
+    list_hash: str,
+    item_count: int,
+    *,
+    output_count: int | None = None,
+) -> None:
     if TASK_LEDGER:
-        TASK_LEDGER.set_hash(task_key, list_hash, item_count)
+        TASK_LEDGER.set_hash(
+            task_key,
+            list_hash,
+            item_count,
+            output_count=output_count,
+        )
 
 
 def valid_existing_log(path: Path) -> bool:
-    if not path.exists() or not path.is_file():
-        return False
+    if path.exists():
+        return valid_local_log(path)
     try:
-        if path.stat().st_size <= 0:
-            return False
-        head = path.read_bytes()[:4096]
-    except OSError:
+        return archive_log_exists(path)
+    except ValueError:
         return False
-    stripped = head.lstrip().lower()
-    if stripped.startswith((b"<!doctype html", b"<html")):
-        return False
-    if b"<html" in stripped[:512] and b"start-of-log" not in stripped[:2048]:
-        return False
-    return True
 
 
 def remove_invalid_existing(path: Path) -> bool:
@@ -441,6 +371,12 @@ def remove_invalid_existing(path: Path) -> bool:
     return True
 
 
+def filter_missing_tasks(tasks: Iterable[DownloadTask]) -> tuple[list[DownloadTask], int]:
+    discovered = list(tasks)
+    missing = [task for task in discovered if not valid_existing_log(task.dest)]
+    return missing, len(discovered) - len(missing)
+
+
 def task_should_skip_known_outputs(
     task_key: str,
     items: Iterable[str],
@@ -453,12 +389,19 @@ def task_should_skip_known_outputs(
         return skip, list_hash, count
     expected = list(expected_paths)
     valid_count = sum(1 for path in expected if valid_existing_log(path))
-    if valid_count < count:
+    record = TASK_LEDGER.get(task_key) if TASK_LEDGER else None
+    required_outputs = (
+        record.output_count
+        if record and record.list_hash == list_hash and record.output_count is not None
+        else count
+    )
+    if valid_count < required_outputs:
         with PRINT_LOCK:
             prefix = f"{label}: " if label else ""
             print(
                 f"{prefix}stale task ledger for {task_key} "
-                f"(valid {valid_count}/{count} files), re-queueing missing logs"
+                f"(valid {valid_count}/{required_outputs} expected outputs; "
+                f"inventory={count}), re-queueing missing logs"
             )
         skip = False
     return skip, list_hash, count
@@ -764,11 +707,66 @@ def build_sqlite_shards(repo_root: Path, shard_dir: Path, progress_every: int = 
     for db_path in shard_dir.glob("logs_*.sqlite"):
         conn = sqlite3.connect(db_path)
         conn.execute("CREATE INDEX IF NOT EXISTS idx_callsign ON logs(callsign)")
+        conn.execute("CREATE UNIQUE INDEX IF NOT EXISTS idx_path ON logs(path)")
         conn.commit()
         conn.execute("VACUUM")
         conn.close()
 
     return entries
+
+
+def is_sparse_checkout(repo_root: Path) -> bool:
+    proc = subprocess.run(
+        ["git", "config", "--bool", "core.sparseCheckout"],
+        cwd=repo_root,
+        check=False,
+        text=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.DEVNULL,
+    )
+    return proc.returncode == 0 and proc.stdout.strip() == "true"
+
+
+def build_sqlite_shards_atomic(
+    repo_root: Path,
+    shard_dir: Path,
+    progress_every: int = 50000,
+) -> int:
+    repo_root = repo_root.resolve()
+    shard_dir = shard_dir.resolve()
+    if is_sparse_checkout(repo_root):
+        raise RuntimeError(
+            "full SH6 rebuild is blocked in a sparse checkout; use shard_index.py audit "
+            "or run this recovery command from a full clone"
+        )
+    next_dir = repo_root / ".SH6.next"
+    previous_dir = repo_root / ".SH6.previous"
+    if not shard_dir.exists() and previous_dir.exists():
+        os.replace(previous_dir, shard_dir)
+    if next_dir.exists():
+        shutil.rmtree(next_dir)
+    if previous_dir.exists():
+        shutil.rmtree(previous_dir)
+
+    try:
+        entries = build_sqlite_shards(repo_root, next_dir, progress_every=progress_every)
+        if shard_dir.exists():
+            os.replace(shard_dir, previous_dir)
+        try:
+            os.replace(next_dir, shard_dir)
+        except BaseException:
+            if not shard_dir.exists() and previous_dir.exists():
+                os.replace(previous_dir, shard_dir)
+            raise
+        if previous_dir.exists():
+            shutil.rmtree(previous_dir)
+        return entries
+    except BaseException:
+        if next_dir.exists():
+            shutil.rmtree(next_dir)
+        if not shard_dir.exists() and previous_dir.exists():
+            os.replace(previous_dir, shard_dir)
+        raise
 
 
 README_STATS_START = "<!-- STATS:START -->"
@@ -936,12 +934,43 @@ def replace_marked_section(text: str, start_marker: str, end_marker: str, replac
     return text[:start] + replacement + text[end:]
 
 
+def existing_stats_date(text: str) -> date | None:
+    match = re.search(
+        rf"{re.escape(README_STATS_START)}\nSH6-indexed snapshot counted on "
+        r"(\d{4}-\d{2}-\d{2}):",
+        text,
+    )
+    if not match:
+        return None
+    try:
+        return date.fromisoformat(match.group(1))
+    except ValueError:
+        return None
+
+
 def update_readme_from_shards(repo_root: Path, shard_dir: Path, today: date | None = None) -> None:
     readme_path = repo_root / "README.md"
     stats = collect_readme_stats(shard_dir)
-    text = readme_path.read_text(encoding="utf-8")
+    original = readme_path.read_text(encoding="utf-8")
+    years = render_readme_years_table(stats)
+    prior_date = existing_stats_date(original)
+    if prior_date is not None:
+        stable = replace_marked_section(
+            original,
+            README_STATS_START,
+            README_STATS_END,
+            render_readme_stats(stats, today=prior_date),
+        )
+        stable = replace_marked_section(
+            stable,
+            README_YEARS_START,
+            README_YEARS_END,
+            years,
+        )
+        if stable == original:
+            return
     text = replace_marked_section(
-        text,
+        original,
         README_STATS_START,
         README_STATS_END,
         render_readme_stats(stats, today=today),
@@ -950,9 +979,9 @@ def update_readme_from_shards(repo_root: Path, shard_dir: Path, today: date | No
         text,
         README_YEARS_START,
         README_YEARS_END,
-        render_readme_years_table(stats),
+        years,
     )
-    readme_path.write_text(text, encoding="utf-8")
+    atomic_write_text(readme_path, text)
 
 
 class DownloadLedger:
@@ -1106,8 +1135,8 @@ def download_file(
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp, open(dest_path, "wb") as fh:
-                fh.write(resp.read())
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
+                atomic_write_bytes(dest_path, resp.read())
             if ledger:
                 ledger.add(key, url)
             with PRINT_LOCK:
@@ -1155,7 +1184,7 @@ def download_arrl_log(
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp, open(dest_path, "wb") as fh:
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
                 raw = resp.read()
                 content = raw
                 raw_lower = raw.lower()
@@ -1167,7 +1196,7 @@ def download_arrl_log(
                         if not extracted.endswith("\n"):
                             extracted += "\n"
                         content = extracted.encode("utf-8")
-                fh.write(content)
+                atomic_write_bytes(dest_path, content)
             if ledger:
                 ledger.add(key, url)
             with PRINT_LOCK:
@@ -2742,7 +2771,7 @@ def tasks_ttc_spcwc(last: int | None) -> List[DownloadTask]:
                 try:
                     payload = ttc.fetch_log(station)
                     dest.parent.mkdir(parents=True, exist_ok=True)
-                    dest.write_text(payload, encoding="utf-8")
+                    atomic_write_text(dest, payload)
                     with PRINT_LOCK:
                         print(f"ok   {dest}")
                     return {"ok": 1}
@@ -2931,6 +2960,7 @@ OK1WC_TABLE_URL = urllib.parse.urljoin(
     "index.php?page=eval3/table_out_vypis",
 )
 OK1WC_OUTPUT_ROOT = Path("OK1WC_Memorial")
+OK1WC_STATE = ProviderState(REPO_ROOT / "state" / "providers" / "ok1wc.json")
 OK1WC_LOG_PUB_LEVELS = {"3", "4"}
 OK1WC_REQUEST_TIMEOUT = 12
 OK1WC_CALL_DISCOVERY_WORKERS = 2
@@ -3361,11 +3391,24 @@ def ok1wc_round_marker_path(round_info: OK1WCRound) -> Path:
     return OK1WC_OUTPUT_ROOT / round_info.date_iso / f".pub_level_{round_info.pub_level}.complete"
 
 
+def ok1wc_round_complete(round_info: OK1WCRound) -> bool:
+    state = OK1WC_STATE.get_scope(round_info.date_iso)
+    if state is not None:
+        try:
+            return int(str(state.get("pub_level", 0))) >= int(round_info.pub_level)
+        except ValueError:
+            return False
+    return ok1wc_round_marker_path(round_info).exists()
+
+
 def ok1wc_should_write_log(dest: Path, round_info: OK1WCRound) -> bool:
-    if not dest.exists() or not valid_existing_log(dest):
+    if not valid_existing_log(dest):
         return True
     if round_info.pub_level != "4":
         return False
+    if not dest.exists():
+        state = OK1WC_STATE.get_scope(round_info.date_iso) or {}
+        return str(state.get("pub_level", "")) == "3"
     try:
         existing = dest.read_text(encoding="utf-8", errors="ignore")
     except OSError:
@@ -3374,25 +3417,21 @@ def ok1wc_should_write_log(dest: Path, round_info: OK1WCRound) -> bool:
 
 
 def ok1wc_write_round_marker(marker: Path, round_info: OK1WCRound, calls: List[str]) -> None:
-    marker.parent.mkdir(parents=True, exist_ok=True)
-    marker.write_text(
-        "\n".join(
-            [
-                f"jobdate={round_info.jobdate}",
-                f"kolo={round_info.kolo}",
-                f"pub_level={round_info.pub_level}",
-                f"calls={len(calls)}",
-            ]
-        )
-        + "\n",
-        encoding="utf-8",
+    del marker
+    OK1WC_STATE.update_scope(
+        round_info.date_iso,
+        {
+            "calls": len(calls),
+            "jobdate": round_info.jobdate,
+            "kolo": round_info.kolo,
+            "pub_level": round_info.pub_level,
+        },
     )
 
 
 def ok1wc_write_log(dest: Path, content: str, overwrite: bool = False) -> Path:
-    dest.parent.mkdir(parents=True, exist_ok=True)
     if overwrite or not dest.exists():
-        dest.write_text(content, encoding="utf-8")
+        atomic_write_text(dest, content)
     return dest
 
 
@@ -3406,7 +3445,7 @@ def tasks_ok1wc(last: int | None) -> List[DownloadTask]:
     pending_rounds = [
         (round_info, ok1wc_round_marker_path(round_info))
         for round_info in rounds
-        if not ok1wc_round_marker_path(round_info).exists()
+        if not ok1wc_round_complete(round_info)
     ]
 
     def discover_calls(
@@ -3852,7 +3891,7 @@ def yudx_dest_path(year: int, call: str) -> Path:
 
 def yudx_write_log(dest: Path, content: str) -> None:
     dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(content, encoding="utf-8")
+    atomic_write_text(dest, content)
 
 
 def tasks_yudx(last: int | None) -> List[DownloadTask]:
@@ -3972,7 +4011,7 @@ def tasks_yota(last: int | None) -> List[DownloadTask]:
                             )
                         return {"skip": 1}
                     dest.parent.mkdir(parents=True, exist_ok=True)
-                    dest.write_text(cabrillo, encoding="utf-8")
+                    atomic_write_text(dest, cabrillo)
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(
@@ -4483,7 +4522,7 @@ def tasks_hrs_hf(last: int | None) -> List[DownloadTask]:
                         return {"skip": 1}
                     remove_invalid_existing(dest)
                     dest.parent.mkdir(parents=True, exist_ok=True)
-                    dest.write_text(cab, encoding="utf-8")
+                    atomic_write_text(dest, cab)
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"9A HRS fail {info.call} {round_info.cid}: {exc}")
@@ -4924,7 +4963,7 @@ def prompt_git_push() -> None:
             return
 
 
-def main() -> int:
+def _main() -> int:
     start_time = time.time()
     parser = argparse.ArgumentParser(description="Public contest logs downloader with menu.")
     parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS, help="Thread pool size / max concurrency (default: 20).")
@@ -5019,7 +5058,7 @@ def main() -> int:
         shard_dir = Path("SH6")
         print(f"Rebuilding SQLite shards in: {shard_dir}")
         try:
-            shard_count = build_sqlite_shards(Path("."), shard_dir)
+            shard_count = build_sqlite_shards_atomic(Path("."), shard_dir)
             print(f"Shard entries: {shard_count}")
         except Exception as exc:  # pylint: disable=broad-except
             print(f"SQLite shard rebuild failed: {exc}", file=sys.stderr)
@@ -5068,9 +5107,7 @@ def main() -> int:
         try:
             tasks = fn(last_val)
             discovered = len(tasks)
-            filtered = [task for task in tasks if not valid_existing_log(task.dest)]
-            existing = discovered - len(filtered)
-            tasks = filtered
+            tasks, existing = filter_missing_tasks(tasks)
             with PRINT_LOCK:
                 discovery_inventory[sel] = (discovered, existing, len(tasks))
                 print(
@@ -5110,6 +5147,7 @@ def main() -> int:
         task_done: Dict[str, int],
         task_errors: Dict[str, int],
         task_counts: Dict[str, int],
+        task_output_counts: Dict[str, int],
         task_lock: threading.Lock,
         cancel_event: threading.Event,
     ) -> None:
@@ -5132,6 +5170,10 @@ def main() -> int:
                 if task.task_key and task.task_hash:
                     with task_lock:
                         task_done[task.task_key] = task_done.get(task.task_key, 0) + 1
+                        if valid_existing_log(task.dest):
+                            task_output_counts[task.task_key] = (
+                                task_output_counts.get(task.task_key, 0) + 1
+                            )
                         if counts.get("error", 0) > 0:
                             task_errors[task.task_key] = task_errors.get(task.task_key, 0) + counts.get("error", 0)
                         if (
@@ -5143,6 +5185,7 @@ def main() -> int:
                                     task.task_key,
                                     task.task_hash,
                                     task_counts.get(task.task_key, 0),
+                                    output_count=task_output_counts.get(task.task_key, 0),
                                 )
                 return counts
             except Exception as exc:  # pylint: disable=broad-except
@@ -5202,12 +5245,17 @@ def main() -> int:
         task_done: Dict[str, int] = {}
         task_errors: Dict[str, int] = {}
         task_counts: Dict[str, int] = {}
+        task_output_counts: Dict[str, int] = {}
         task_lock = threading.Lock()
         for task in tasks:
             if not task.task_key or not task.task_hash:
                 continue
             task_totals[task.task_key] = task_totals.get(task.task_key, 0) + 1
             task_counts.setdefault(task.task_key, task.task_count or 0)
+        for task_key, item_count in task_counts.items():
+            task_output_counts[task_key] = max(
+                0, item_count - task_totals.get(task_key, 0)
+            )
         with PRINT_LOCK:
             print(f"\nProvider {sel}) {name}: starting {len(tasks)} downloads")
         stop_event = threading.Event()
@@ -5283,6 +5331,7 @@ def main() -> int:
                     task_done,
                     task_errors,
                     task_counts,
+                    task_output_counts,
                     task_lock,
                     download_cancel_event,
                 ),
@@ -5445,15 +5494,28 @@ def main() -> int:
         return 0
 
     shard_dir = Path("SH6")
-    print(f"\nRebuilding SQLite shards in: {shard_dir}")
-    shards_rebuilt = False
+    print(f"\nUpdating SQLite shards incrementally in: {shard_dir}")
+    shards_updated = False
     try:
-        shard_count = build_sqlite_shards(Path("."), shard_dir)
-        print(f"Shard entries: {shard_count}")
-        shards_rebuilt = True
+        from shard_index import apply_path_delta, worktree_log_delta
+
+        delta = worktree_log_delta(Path("."))
+        if delta.deleted:
+            deleted_text = ", ".join(path.as_posix() for path in delta.deleted[:10])
+            raise RuntimeError(
+                "refusing implicit log deletion during incremental SH6 update: "
+                + deleted_text
+            )
+        update = apply_path_delta(Path("."), delta.added_or_modified)
+        print(
+            f"SH6 delta: upserted={update.upserted} unchanged={update.unchanged} "
+            f"changed_shards={len(update.changed_shards)}"
+        )
+        shards_updated = True
     except Exception as exc:  # pylint: disable=broad-except
-        print(f"SQLite shard rebuild failed: {exc}", file=sys.stderr)
-    if shards_rebuilt and not args.no_update_readme:
+        print(f"SQLite shard update failed: {exc}", file=sys.stderr)
+        return 1
+    if shards_updated and not args.no_update_readme:
         try:
             update_readme_from_shards(Path("."), shard_dir)
             print("Updated README.md stats.")
@@ -5464,6 +5526,16 @@ def main() -> int:
         prompt_git_push()
     print("Done.")
     return 0
+
+
+def main() -> int:
+    global TASK_LEDGER
+    try:
+        return _main()
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()
+            TASK_LEDGER = None
 
 
 if __name__ == "__main__":

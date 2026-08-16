@@ -1,33 +1,37 @@
 import sys
+import unittest
 from pathlib import Path
-
-import pytest
+from unittest import mock
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 import download_vhfmanager_logs as vhf  # noqa: E402
 
 
-def test_discovery_stops_when_provider_is_unavailable(monkeypatch):
-    calls = []
+class VhfManagerDiscoveryTests(unittest.TestCase):
+    def test_discovery_stops_when_provider_is_unavailable(self) -> None:
+        calls = []
 
-    def unavailable(url, retries=3, delay=1.0):
-        calls.append((url, retries))
-        raise ConnectionRefusedError("provider unavailable")
+        def unavailable(url, retries=3, delay=1.0):
+            calls.append((url, retries))
+            raise ConnectionRefusedError("provider unavailable")
 
-    monkeypatch.setattr(vhf, "fetch_text", unavailable)
+        with mock.patch.object(vhf, "fetch_text", side_effect=unavailable):
+            with self.assertRaisesRegex(RuntimeError, "3 consecutive discovery requests"):
+                vhf.discover_contests(1)
 
-    with pytest.raises(RuntimeError, match="3 consecutive discovery requests"):
-        vhf.discover_contests(1)
+        self.assertEqual(len(calls), 3)
+        self.assertTrue(all(retries == 1 for _, retries in calls))
 
-    assert len(calls) == 3
-    assert all(retries == 1 for _, retries in calls)
+    def test_missing_ids_do_not_trigger_transport_circuit_breaker(self) -> None:
+        def available_without_logs(url, retries=3, delay=1.0):
+            return "<html><title>No results</title></html>"
+
+        with mock.patch.object(
+            vhf, "fetch_text", side_effect=available_without_logs
+        ):
+            self.assertEqual(vhf.discover_contests(1), [])
 
 
-def test_missing_ids_do_not_trigger_transport_circuit_breaker(monkeypatch):
-    def available_without_logs(url, retries=3, delay=1.0):
-        return "<html><title>No results</title></html>"
-
-    monkeypatch.setattr(vhf, "fetch_text", available_without_logs)
-
-    assert vhf.discover_contests(1) == []
+if __name__ == "__main__":
+    unittest.main()

@@ -24,6 +24,7 @@ import urllib.request
 from pathlib import Path
 from typing import Iterable, List, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_bytes
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 
@@ -76,6 +77,13 @@ USER_AGENT = pick_user_agent()
 # Shared lock for clean console output.
 PRINT_LOCK = threading.Lock()
 TASK_LEDGER: "TaskLedger | None" = None
+
+
+def destination_log_exists(path: Path) -> bool:
+    try:
+        return archive_log_exists(path)
+    except ValueError:
+        return path.exists()
 
 
 def fetch_text(url: str, retries: int = 3, delay: float = 1.0) -> str:
@@ -161,7 +169,7 @@ def download_log(dest_dir: Path, call: str, log_url: str, retries: int = 3, dela
     dest_dir.mkdir(parents=True, exist_ok=True)
     dest_path = dest_dir / f"{safe_call}.log"
 
-    if dest_path.exists():
+    if destination_log_exists(dest_path):
         with PRINT_LOCK:
             print(f"skip (exists): {dest_path}")
         return {"skip": 1}
@@ -170,7 +178,7 @@ def download_log(dest_dir: Path, call: str, log_url: str, retries: int = 3, dela
     for attempt in range(retries):
         try:
             req = urllib.request.Request(log_url, headers={"User-Agent": USER_AGENT})
-            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp, open(dest_path, "wb") as fh:
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
                 raw = resp.read()
                 content = raw
                 raw_lower = raw.lower()
@@ -182,7 +190,7 @@ def download_log(dest_dir: Path, call: str, log_url: str, retries: int = 3, dela
                         if not extracted.endswith("\n"):
                             extracted += "\n"
                         content = extracted.encode("utf-8")
-                fh.write(content)
+                atomic_write_bytes(dest_path, content)
             with PRINT_LOCK:
                 print(f"ok   {dest_path}")
             return {"ok": 1}
@@ -243,7 +251,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -311,4 +319,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

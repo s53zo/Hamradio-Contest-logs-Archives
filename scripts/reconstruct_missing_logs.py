@@ -7,6 +7,8 @@ import argparse
 import concurrent.futures
 import hashlib
 import os
+import shutil
+import subprocess
 from collections import defaultdict
 from dataclasses import dataclass
 import json
@@ -19,9 +21,12 @@ import time
 import urllib.request
 from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 
+from archive_storage import ArchiveInventory, atomic_write_text
 
-RECONSTRUCTION_ALGORITHM_VERSION = 3
-STATE_SCHEMA_VERSION = 2
+
+RECONSTRUCTION_ALGORITHM_VERSION = 5
+STATE_SCHEMA_VERSION = 4
+_MATERIALIZED_WORKSPACE: tempfile.TemporaryDirectory[str] | None = None
 
 
 @dataclass
@@ -75,6 +80,7 @@ class ReconstructLedger:
         self._lock = threading.Lock()
         self._loaded = False
         self._entries: Set[str] = set()
+        self._dirty = False
 
     def _read_lines(self, path: Path, gz: bool) -> None:
         if not path.exists():
@@ -93,15 +99,7 @@ class ReconstructLedger:
     def _migrate_to_gz(self) -> None:
         if not self.path_txt.exists() and self.path_gz.exists():
             return
-        self.path_gz.parent.mkdir(parents=True, exist_ok=True)
-        with gzip.open(self.path_gz, "wt", encoding="utf-8") as fh:
-            for key in sorted(self._entries):
-                fh.write(key + "\n")
-        if self.path_txt.exists():
-            try:
-                self.path_txt.unlink()
-            except OSError:
-                pass
+        self._dirty = True
 
     def _load(self) -> None:
         if self._loaded:
@@ -122,12 +120,25 @@ class ReconstructLedger:
             self._load()
             if key in self._entries:
                 return False
-            self.path_gz.parent.mkdir(parents=True, exist_ok=True)
-            line = key if meta is None else f"{key}\t{meta}"
-            with gzip.open(self.path_gz, "ab") as fh:
-                fh.write((line + "\n").encode("utf-8"))
             self._entries.add(key)
+            self._dirty = True
             return True
+
+    def flush(self) -> None:
+        with self._lock:
+            self._load()
+            if not self._dirty:
+                return
+            self.path_gz.parent.mkdir(parents=True, exist_ok=True)
+            temporary = self.path_gz.with_suffix(self.path_gz.suffix + ".tmp")
+            payload = "".join(f"{key}\n" for key in sorted(self._entries)).encode("utf-8")
+            with temporary.open("wb") as raw:
+                with gzip.GzipFile(filename="", mode="wb", fileobj=raw, mtime=0) as compressed:
+                    compressed.write(payload)
+            os.replace(temporary, self.path_gz)
+            if self.path_txt.exists():
+                self.path_txt.unlink()
+            self._dirty = False
 
 
 def ledger_path_for(
@@ -158,20 +169,23 @@ def state_path_for(out_dir: Path, repo_root: Path, ledger_root: Optional[Path]) 
 def collect_contest_stats(contest_dir: Path) -> Dict[str, int]:
     log_count = 0
     total_size = 0
-    max_mtime_ns = 0
+    digest = hashlib.sha256()
     for path in iter_logs(contest_dir):
         try:
             stat = path.stat()
         except OSError:
             continue
+        rel = path.relative_to(contest_dir).as_posix()
+        digest.update(rel.encode("utf-8"))
+        digest.update(b"\0")
+        digest.update(file_sha256(path).encode("ascii"))
+        digest.update(b"\0")
         log_count += 1
         total_size += stat.st_size
-        if stat.st_mtime_ns > max_mtime_ns:
-            max_mtime_ns = stat.st_mtime_ns
     return {
         "log_count": log_count,
         "total_size": total_size,
-        "max_mtime_ns": max_mtime_ns,
+        "content_sha256": digest.hexdigest(),
     }
 
 
@@ -189,7 +203,12 @@ def load_state(path: Path) -> Optional[Dict[str, Any]]:
 
 def save_state(path: Path, data: Dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, sort_keys=True) + "\n", encoding="utf-8")
+    content = json.dumps(data, sort_keys=True) + "\n"
+    if path.is_file() and path.read_text(encoding="utf-8") == content:
+        return
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(content, encoding="utf-8")
+    os.replace(temporary, path)
 
 
 def file_sha256(path: Path) -> str:
@@ -200,10 +219,21 @@ def file_sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
-def count_reconstructed_logs(out_dir: Path) -> int:
-    if not out_dir.exists():
-        return 0
-    return sum(1 for path in out_dir.glob("*.log") if path.is_file())
+def count_reconstructed_logs(
+    out_dir: Path,
+    repo_root: Path | None = None,
+    inventory: ArchiveInventory | None = None,
+) -> int:
+    paths = {path.name for path in out_dir.glob("*.log") if path.is_file()} if out_dir.exists() else set()
+    if repo_root is None:
+        return len(paths)
+    inventory = inventory or ArchiveInventory(repo_root)
+    try:
+        rel = out_dir.resolve().relative_to(repo_root.resolve())
+        paths.update(path.name for path in inventory.git_paths(rel))
+    except (ValueError, OSError, subprocess.CalledProcessError):
+        pass
+    return len(paths)
 
 
 def reconstruction_cache_key(
@@ -220,7 +250,7 @@ def reconstruction_cache_key(
         "algorithm_version": RECONSTRUCTION_ALGORITHM_VERSION,
         "source_log_count": stats["log_count"],
         "source_total_size": stats["total_size"],
-        "source_max_mtime_ns": stats["max_mtime_ns"],
+        "source_content_sha256": stats["content_sha256"],
         "master_sha256": master_hash,
         "min_qsos": min_qsos,
         "limit": limit,
@@ -476,6 +506,46 @@ def find_contest_dirs(repo_root: Path, include: Optional[Set[str]]) -> List[Path
     return sorted(contest_dirs)
 
 
+def prepare_changed_contest_dirs(
+    repo_root: Path,
+    workspace: Path,
+    inventory: ArchiveInventory,
+) -> list[tuple[Path, Path]]:
+    from shard_index import worktree_log_delta
+
+    delta = worktree_log_delta(repo_root)
+    source_deleted = [path for path in delta.deleted if path.parts and path.parts[0] != "RECONSTRUCTED_LOGS"]
+    if source_deleted:
+        sample = ", ".join(path.as_posix() for path in source_deleted[:10])
+        raise RuntimeError(f"refusing reconstruction with deleted source logs: {sample}")
+    parents = sorted(
+        {
+            path.parent
+            for path in delta.added_or_modified
+            if path.parts and path.parts[0] != "RECONSTRUCTED_LOGS"
+        }
+    )
+    prepared: list[tuple[Path, Path]] = []
+    for rel_dir in parents:
+        materialized = workspace / rel_dir
+        try:
+            inventory.materialize_prefix(rel_dir, workspace)
+        except subprocess.CalledProcessError:
+            materialized.mkdir(parents=True, exist_ok=True)
+        local_dir = repo_root / rel_dir
+        if local_dir.exists():
+            for source in local_dir.rglob("*.log"):
+                if not source.is_file():
+                    continue
+                relative = source.relative_to(repo_root)
+                target = workspace / relative
+                target.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(source, target)
+        if any(materialized.rglob("*.log")):
+            prepared.append((materialized, rel_dir))
+    return prepared
+
+
 def reconstruct_contest(
     contest_dir: Path,
     out_dir: Path,
@@ -492,7 +562,10 @@ def reconstruct_contest(
     use_ledger: bool,
     skip_unchanged: bool,
     master_hash: str = "",
+    inventory: ArchiveInventory | None = None,
+    replace_existing: bool = False,
 ) -> ReconstructResult:
+    inventory = inventory or ArchiveInventory(repo_root)
     submitted = load_submitted_calls(contest_dir)
     recon: Dict[str, List[Qso]] = defaultdict(list)
     recon_seen: Dict[str, Set[Tuple[str, str, str, str, str, Tuple[str, ...], str, Tuple[str, ...]]]] = defaultdict(set)
@@ -521,7 +594,7 @@ def reconstruct_contest(
     if skip_unchanged:
         prior = load_state(state_path)
         if prior and state_matches_cache_key(prior, cache_key):
-            output_logs = count_reconstructed_logs(out_dir)
+            output_logs = count_reconstructed_logs(out_dir, repo_root, inventory)
             if output_logs == int(prior.get("output_logs", 0)):
                 skipped_unchanged = 1
                 return ReconstructResult(
@@ -567,7 +640,7 @@ def reconstruct_contest(
             key = dest_path.relative_to(repo_root).as_posix()
         except Exception:
             key = dest_path.as_posix()
-        if dest_path.exists():
+        if inventory.log_exists(dest_path) and not replace_existing:
             skipped_existing += 1
             if ledger and not dry_run:
                 ledger.add(key, "exists")
@@ -582,19 +655,25 @@ def reconstruct_contest(
             season_label,
             created_by,
         )
-        dest_path.write_text(content, encoding="utf-8")
+        if not content.startswith("START-OF-LOG:") or not content.rstrip().endswith(
+            "END-OF-LOG:"
+        ):
+            raise RuntimeError(f"invalid reconstructed Cabrillo output: {dest_path}")
+        atomic_write_text(dest_path, content)
         if ledger:
             ledger.add(key, f"{contest_name} {season_label}")
         written += 1
 
     if not dry_run:
-        output_logs = count_reconstructed_logs(out_dir)
+        if ledger:
+            ledger.flush()
+        output_logs = count_reconstructed_logs(out_dir, repo_root, inventory)
         state = {
             "schema_version": STATE_SCHEMA_VERSION,
             "cache_key": cache_key,
             "log_count": stats["log_count"],
             "total_size": stats["total_size"],
-            "max_mtime_ns": stats["max_mtime_ns"],
+            "content_sha256": stats["content_sha256"],
             "submitted_logs": len(submitted),
             "parsed_qsos": total_qsos,
             "reconstructed_logs": written,
@@ -603,7 +682,7 @@ def reconstruct_contest(
         }
         save_state(state_path, state)
     else:
-        output_logs = count_reconstructed_logs(out_dir)
+        output_logs = count_reconstructed_logs(out_dir, repo_root, inventory)
 
     return ReconstructResult(
         submitted_logs=len(submitted),
@@ -616,7 +695,7 @@ def reconstruct_contest(
     )
 
 
-def main() -> int:
+def _main() -> int:
     ap = argparse.ArgumentParser(description="Reconstruct mockup Cabrillo logs.")
     ap.add_argument(
         "--contest-dir",
@@ -651,9 +730,14 @@ def main() -> int:
     ap.add_argument("--limit", type=int, default=None, help="Max reconstructed logs per contest")
     ap.add_argument("--dry-run", action="store_true", help="Analyze without writing logs")
     ap.add_argument(
+        "--changed-only",
+        action="store_true",
+        help="Reconstruct only source rounds changed from HEAD, materializing their remote logs temporarily.",
+    )
+    ap.add_argument(
         "--ledger-root",
         type=Path,
-        default=Path("scripts") / ".reconstructed_ledgers",
+        default=Path("state") / "reconstruction" / "ledgers",
         help="Root directory for per-contest reconstruction ledgers",
     )
     ap.add_argument(
@@ -677,6 +761,7 @@ def main() -> int:
     args = ap.parse_args()
 
     repo_root = Path(__file__).resolve().parents[1]
+    archive_inventory = ArchiveInventory(repo_root)
     out_root = Path(args.out_root) if args.out_root else (repo_root / "RECONSTRUCTED_LOGS")
     master_path = download_master_dta(args.master_url)
     try:
@@ -688,7 +773,18 @@ def main() -> int:
         except Exception:
             pass
 
-    if args.contest_dir:
+    contest_rel_paths: dict[Path, Path] = {}
+    global _MATERIALIZED_WORKSPACE
+    if args.changed_only:
+        _MATERIALIZED_WORKSPACE = tempfile.TemporaryDirectory(prefix="hcla-reconstruct-")
+        prepared = prepare_changed_contest_dirs(
+            repo_root,
+            Path(_MATERIALIZED_WORKSPACE.name),
+            archive_inventory,
+        )
+        contest_dirs = [path for path, _rel in prepared]
+        contest_rel_paths = {path: rel for path, rel in prepared}
+    elif args.contest_dir:
         contest_dirs = [Path(args.contest_dir)]
     else:
         include = None
@@ -715,6 +811,8 @@ def main() -> int:
     def resolve_out_dir(contest_dir: Path) -> Path:
         if args.out_dir:
             return Path(args.out_dir)
+        if contest_dir in contest_rel_paths:
+            return out_root / contest_rel_paths[contest_dir]
         try:
             rel = contest_dir.resolve().relative_to(repo_root.resolve())
         except Exception:
@@ -735,6 +833,7 @@ def main() -> int:
         future_map = {}
         for contest_dir in contest_dirs:
             out_dir = resolve_out_dir(contest_dir)
+            source_rel = contest_rel_paths.get(contest_dir)
             fut = executor.submit(
                 reconstruct_contest,
                 contest_dir=contest_dir,
@@ -744,7 +843,7 @@ def main() -> int:
                 min_qsos=args.min_qsos,
                 created_by=args.created_by,
                 contest_name=args.contest_name,
-                season_label=args.season_label,
+                season_label=args.season_label or (source_rel.as_posix() if source_rel else None),
                 dry_run=args.dry_run,
                 limit=args.limit,
                 repo_root=repo_root,
@@ -752,14 +851,18 @@ def main() -> int:
                 ledger_name=ledger_name,
                 use_ledger=use_ledger,
                 skip_unchanged=args.skip_unchanged,
+                inventory=archive_inventory,
+                replace_existing=args.changed_only,
             )
-            future_map[fut] = (contest_dir, out_dir)
+            future_map[fut] = (contest_dir, out_dir, source_rel)
 
         for fut in concurrent.futures.as_completed(future_map):
-            contest_dir, out_dir = future_map[fut]
+            contest_dir, out_dir, source_rel = future_map[fut]
             result = fut.result()
             contest_name = args.contest_name or detect_contest_name(contest_dir, contest_dir.name)
-            season_label = args.season_label or detect_season_label(contest_dir, repo_root)
+            season_label = args.season_label or (
+                source_rel.as_posix() if source_rel else detect_season_label(contest_dir, repo_root)
+            )
             processed += 1
             total_submitted += result.submitted_logs
             total_qsos += result.parsed_qsos
@@ -769,7 +872,7 @@ def main() -> int:
             total_skipped += result.skipped_existing
             total_skipped_unchanged += result.skipped_unchanged
             print(
-                f"[{contest_dir}] submitted_logs={result.submitted_logs} parsed_qsos={result.parsed_qsos} "
+                f"[{season_label}] submitted_logs={result.submitted_logs} parsed_qsos={result.parsed_qsos} "
                 f"reconstructed_logs={result.reconstructed_logs} "
                 f"cached_reconstructed_logs={result.cached_reconstructed_logs} "
                 f"output_logs={result.output_logs} skipped_existing={result.skipped_existing} "
@@ -788,7 +891,7 @@ def main() -> int:
         return 0
 
     try:
-        from public_logs_downloader import build_sqlite_shards  # type: ignore
+        from public_logs_downloader import build_sqlite_shards_atomic  # type: ignore
     except Exception as exc:  # pylint: disable=broad-except
         print(f"Unable to rebuild SH6 shards: {exc}")
         return 1
@@ -796,13 +899,23 @@ def main() -> int:
     shard_dir = repo_root / "SH6"
     print(f"Rebuilding SQLite shards in: {shard_dir}")
     try:
-        shard_count = build_sqlite_shards(repo_root, shard_dir)
+        shard_count = build_sqlite_shards_atomic(repo_root, shard_dir)
         print(f"Shard entries: {shard_count}")
         print("Shard rebuild complete.")
     except Exception as exc:  # pylint: disable=broad-except
         print(f"SQLite shard rebuild failed: {exc}")
         return 1
     return 0
+
+
+def main() -> int:
+    global _MATERIALIZED_WORKSPACE
+    try:
+        return _main()
+    finally:
+        if _MATERIALIZED_WORKSPACE is not None:
+            _MATERIALIZED_WORKSPACE.cleanup()
+            _MATERIALIZED_WORKSPACE = None
 
 
 if __name__ == "__main__":

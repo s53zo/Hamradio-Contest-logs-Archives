@@ -30,6 +30,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_text
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 def pick_user_agent() -> str:
@@ -794,9 +795,9 @@ def write_log(
     else:
         dest = output_root / contest_dir / f"{file_stem}.log"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if dest.exists():
+    if archive_log_exists(dest):
         return dest, "skip"
-    dest.write_text(cab, encoding="utf-8")
+    atomic_write_text(dest, cab)
     return dest, "ok"
 
 
@@ -946,7 +947,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -1056,4 +1057,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

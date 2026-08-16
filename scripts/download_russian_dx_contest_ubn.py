@@ -23,6 +23,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Callable, Dict, List, Sequence, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_text
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 BASE_URL = "https://ua9qcq.com"
@@ -703,7 +704,7 @@ def fetch_for_date(
         stats.total_calls += 1
         dest_dir = output_dir / year
         dest_path = dest_dir / f"{safe_call}.log"
-        if dest_path.exists():
+        if archive_log_exists(dest_path):
             stats.skipped_existing += 1
             consecutive_errors = 0
             last_progress_at = time.monotonic()
@@ -732,8 +733,7 @@ def fetch_for_date(
             else:
                 dest_dir.mkdir(parents=True, exist_ok=True)
                 content = build_cabrillo(call_norm, qsos, category, operators, meta)
-                with open(dest_path, "w", encoding="utf-8") as fh:
-                    fh.write(content)
+                atomic_write_text(dest_path, content)
                 stats.saved_logs += 1
             consecutive_errors = 0
         except Exception:
@@ -830,7 +830,7 @@ def main() -> None:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -929,4 +929,8 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

@@ -1,7 +1,11 @@
 import importlib.util
+import os
+import sqlite3
+import subprocess
 import sys
 import tempfile
 import unittest
+from contextlib import closing
 from pathlib import Path
 
 
@@ -45,6 +49,11 @@ class ReconstructMissingLogsTests(unittest.TestCase):
         }
         values.update(overrides)
         return reconstruct.reconstruction_cache_key(**values)
+
+    def init_git_repo(self, repo):
+        subprocess.run(["git", "init", "-q"], cwd=repo, check=True)
+        subprocess.run(["git", "config", "user.email", "test@example.invalid"], cwd=repo, check=True)
+        subprocess.run(["git", "config", "user.name", "Test"], cwd=repo, check=True)
 
     def test_download_master_dta_retries_timeout_and_cleans_up(self):
         payload = b"K1ABC\nS53M\n"
@@ -206,6 +215,104 @@ class ReconstructMissingLogsTests(unittest.TestCase):
         self.assertEqual(result.skipped_unchanged, 0)
         self.assertEqual(result.reconstructed_logs, 1)
         self.assertEqual(result.cached_reconstructed_logs, 0)
+
+    def test_source_fingerprint_does_not_depend_on_materialization_mtime(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            contest_dir = Path(tmp) / "Contest" / "2026"
+            self.write_source_log(contest_dir)
+            before = reconstruct.collect_contest_stats(contest_dir)
+            source = contest_dir / "S53M.log"
+            os.utime(source, (source.stat().st_atime + 100, source.stat().st_mtime + 100))
+
+            after = reconstruct.collect_contest_stats(contest_dir)
+
+        self.assertEqual(after, before)
+
+    def test_remote_reconstructed_output_is_skipped_when_absent_from_worktree(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            ledger_root = repo / "state" / "reconstruction" / "ledgers"
+            self.write_source_log(contest_dir)
+            out_dir.mkdir(parents=True)
+            output = out_dir / "K1ABC.log"
+            output.write_text("START-OF-LOG: 3.0\nEND-OF-LOG:\n", encoding="ascii")
+            self.init_git_repo(repo)
+            subprocess.run(["git", "add", "Contest", "RECONSTRUCTED_LOGS"], cwd=repo, check=True)
+            subprocess.run(["git", "commit", "-qm", "fixture"], cwd=repo, check=True)
+
+            rel_output = output.relative_to(repo)
+            bucket = reconstruct.ArchiveInventory(repo).shard_path(rel_output)
+            bucket.parent.mkdir()
+            with closing(sqlite3.connect(bucket)) as conn:
+                with conn:
+                    conn.execute(
+                        "CREATE TABLE logs(path TEXT, callsign TEXT, contest TEXT, year INTEGER, mode TEXT, season TEXT, subcontest TEXT, detail TEXT)"
+                    )
+                    conn.execute(
+                        "INSERT INTO logs(path, callsign) VALUES (?, ?)",
+                        (rel_output.as_posix(), "K1ABC"),
+                    )
+            subprocess.run(
+                ["git", "update-index", "--skip-worktree", rel_output.as_posix()],
+                cwd=repo,
+                check=True,
+            )
+            output.unlink()
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=False,
+                limit=None,
+                repo_root=repo,
+                ledger_root=ledger_root,
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=False,
+                skip_unchanged=False,
+            )
+
+        self.assertEqual(result.reconstructed_logs, 0)
+        self.assertEqual(result.skipped_existing, 1)
+        self.assertEqual(result.output_logs, 1)
+
+    def test_changed_only_materializes_complete_remote_source_round(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            self.write_source_log(contest_dir)
+            second = contest_dir / "S54X.log"
+            second.write_text((contest_dir / "S53M.log").read_text(encoding="utf-8"), encoding="utf-8")
+            self.init_git_repo(repo)
+            subprocess.run(["git", "add", "Contest"], cwd=repo, check=True)
+            subprocess.run(["git", "commit", "-qm", "fixture"], cwd=repo, check=True)
+            rel_second = second.relative_to(repo)
+            subprocess.run(
+                ["git", "update-index", "--skip-worktree", rel_second.as_posix()],
+                cwd=repo,
+                check=True,
+            )
+            second.unlink()
+            first = contest_dir / "S53M.log"
+            first.write_text(first.read_text(encoding="utf-8") + "SOAPBOX: changed\n", encoding="utf-8")
+            workspace = repo / "workspace"
+
+            prepared = reconstruct.prepare_changed_contest_dirs(
+                repo,
+                workspace,
+                reconstruct.ArchiveInventory(repo),
+            )
+
+            self.assertEqual(prepared, [(workspace / "Contest" / "2026", Path("Contest/2026"))])
+            self.assertTrue((workspace / rel_second).is_file())
+            self.assertIn("SOAPBOX: changed", (workspace / "Contest/2026/S53M.log").read_text())
 
     def test_reconstruct_cache_includes_output_metadata(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -508,6 +615,44 @@ class ReconstructMissingLogsTests(unittest.TestCase):
         self.assertEqual(result.parsed_qsos, 2)
         self.assertEqual(result.reconstructed_logs, 1)
         self.assertEqual(len(reconstructed_qsos), 1)
+
+    def test_changed_round_replaces_affected_existing_output(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            contest_dir = repo / "Contest" / "2026"
+            out_dir = repo / "RECONSTRUCTED_LOGS" / "Contest" / "2026"
+            self.write_source_log(contest_dir)
+            out_dir.mkdir(parents=True)
+            destination = out_dir / "K1ABC.log"
+            destination.write_text(
+                "START-OF-LOG: 3.0\nSOAPBOX: stale output\nEND-OF-LOG:\n",
+                encoding="utf-8",
+            )
+
+            result = reconstruct.reconstruct_contest(
+                contest_dir=contest_dir,
+                out_dir=out_dir,
+                master_calls={"K1ABC"},
+                master_hash="same-master",
+                min_qsos=10,
+                created_by="test",
+                contest_name=None,
+                season_label=None,
+                dry_run=False,
+                limit=None,
+                repo_root=repo,
+                ledger_root=repo / "ledgers",
+                ledger_name=".reconstructed_ledger.txt",
+                use_ledger=False,
+                skip_unchanged=False,
+                replace_existing=True,
+            )
+
+            content = destination.read_text(encoding="utf-8")
+
+        self.assertEqual(result.reconstructed_logs, 1)
+        self.assertNotIn("stale output", content)
+        self.assertIn("QSO:", content)
 
     def test_dry_run_does_not_record_existing_outputs_in_ledger(self):
         with tempfile.TemporaryDirectory() as tmp:

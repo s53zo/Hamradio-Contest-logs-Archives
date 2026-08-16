@@ -23,6 +23,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_bytes
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 
@@ -69,6 +70,13 @@ OUTPUT_ROOT = Path("EUDX_contest")
 TASK_LEDGER: "TaskLedger | None" = None
 PUBLIC_LOGS_ROOT = "https://www.eudx-contest.com/public-logs/"
 LOG_EXTS = (".txt", ".log", ".cbr", ".adi", ".gz", ".zip")
+
+
+def destination_log_exists(path: Path) -> bool:
+    try:
+        return archive_log_exists(path)
+    except ValueError:
+        return path.exists()
 
 
 
@@ -277,9 +285,9 @@ def write_log(year: int, call: str, content: bytes) -> Path:
     safe_call = call.replace("/", "_")
     dest = OUTPUT_ROOT / str(year) / f"{safe_call}.log"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if dest.exists():
+    if destination_log_exists(dest):
         return dest
-    dest.write_bytes(content)
+    atomic_write_bytes(dest, content)
     return dest
 
 
@@ -304,7 +312,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -334,7 +342,7 @@ def main() -> int:
         errors = 0
         for call, url in logs:
             dest = OUTPUT_ROOT / str(year) / f"{call.replace('/', '_')}.log"
-            if dest.exists():
+            if destination_log_exists(dest):
                 total_skip += 1
                 continue
             try:
@@ -359,4 +367,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

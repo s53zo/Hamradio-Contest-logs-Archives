@@ -23,6 +23,7 @@ import urllib.request
 from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 
+from archive_storage import archive_log_exists, atomic_write_text
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 
@@ -317,8 +318,8 @@ def dest_path(year: int, call: str) -> Path:
 
 def write_log(dest: Path, content: str) -> Path:
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if not dest.exists():
-        dest.write_text(content, encoding="utf-8")
+    if not archive_log_exists(dest):
+        atomic_write_text(dest, content)
     return dest
 
 
@@ -339,7 +340,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -369,7 +370,7 @@ def main() -> int:
         year_errors = 0
         for call in calls:
             dest = dest_path(year, call)
-            if dest.exists():
+            if archive_log_exists(dest):
                 total_skip += 1
                 continue
             try:
@@ -389,4 +390,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

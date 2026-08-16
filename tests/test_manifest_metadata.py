@@ -23,6 +23,31 @@ pld = load_downloader_module()
 
 
 class ManifestMetadataTests(unittest.TestCase):
+    def test_atomic_full_rebuild_failure_preserves_existing_shards(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            shard_dir = repo / "SH6"
+            shard_dir.mkdir()
+            existing = shard_dir / "logs_00.sqlite"
+            existing.write_bytes(b"existing-shard")
+            original_builder = pld.build_sqlite_shards
+
+            def fail_builder(_repo_root, next_dir, progress_every=0):
+                next_dir.mkdir()
+                (next_dir / "logs_00.sqlite").write_bytes(b"incomplete")
+                raise RuntimeError("simulated rebuild failure")
+
+            pld.build_sqlite_shards = fail_builder
+            try:
+                with self.assertRaisesRegex(RuntimeError, "simulated"):
+                    pld.build_sqlite_shards_atomic(repo, shard_dir)
+            finally:
+                pld.build_sqlite_shards = original_builder
+
+            self.assertEqual(existing.read_bytes(), b"existing-shard")
+            self.assertFalse((repo / ".SH6.next").exists())
+            self.assertFalse((repo / ".SH6.previous").exists())
+
     def record(self, path):
         return pld.manifest_record_from_path(Path(path))
 
@@ -355,6 +380,61 @@ class ManifestMetadataTests(unittest.TestCase):
         self.assertTrue(text.endswith("bottom\n"))
         self.assertIn("- total indexed log files: 1", text)
         self.assertIn("| ARRL | 2026 | 1 |", text)
+
+    def test_update_readme_noop_preserves_snapshot_date_and_bytes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp)
+            shard_dir = repo / "SH6"
+            shard_dir.mkdir()
+            conn = sqlite3.connect(shard_dir / "logs_00.sqlite")
+            try:
+                conn.execute(
+                    """
+                    CREATE TABLE logs (
+                        path TEXT, callsign TEXT, contest TEXT, year INTEGER,
+                        mode TEXT, season TEXT, subcontest TEXT, detail TEXT
+                    )
+                    """
+                )
+                conn.execute(
+                    "INSERT INTO logs VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+                    (
+                        "ARRL/arrl_10_meter_contest/2026/S53M.log",
+                        "S53M",
+                        "ARRL",
+                        2026,
+                        "MIXED",
+                        "",
+                        "arrl_10_meter_contest",
+                        "",
+                    ),
+                )
+                conn.commit()
+            finally:
+                conn.close()
+            stats = pld.collect_readme_stats(shard_dir)
+            content = "\n".join(
+                [
+                    "top",
+                    pld.render_readme_stats(stats, today=date(2026, 7, 1)),
+                    "middle",
+                    pld.render_readme_years_table(stats),
+                    "bottom",
+                    "",
+                ]
+            )
+            readme = repo / "README.md"
+            readme.write_text(content, encoding="utf-8")
+            before = readme.read_bytes()
+
+            pld.update_readme_from_shards(
+                repo,
+                shard_dir,
+                today=date(2026, 8, 16),
+            )
+
+            self.assertEqual(readme.read_bytes(), before)
+            self.assertIn("counted on 2026-07-01", readme.read_text(encoding="utf-8"))
 
 
 if __name__ == "__main__":

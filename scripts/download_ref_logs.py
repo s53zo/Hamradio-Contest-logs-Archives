@@ -27,6 +27,7 @@ import urllib.request
 from pathlib import Path
 from typing import Dict, Iterable, List
 
+from archive_storage import archive_log_exists, atomic_write_text
 from task_ledger import TASK_LEDGER_PATH, TaskLedger, task_mark_complete, task_should_skip
 
 
@@ -77,6 +78,13 @@ MODES = {
     "cdfcw": "CW",
     "cdfssb": "SSB",
 }
+
+
+def destination_log_exists(path: Path) -> bool:
+    try:
+        return archive_log_exists(path)
+    except ValueError:
+        return path.exists()
 
 
 
@@ -147,9 +155,9 @@ def write_log(year: int, mode_label: str, call: str, content: str) -> Path:
     safe_call = call.replace("/", "_")
     dest = OUTPUT_ROOT / str(year) / mode_label / f"{safe_call}.log"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if dest.exists():
+    if destination_log_exists(dest):
         return dest
-    dest.write_text(content, encoding="utf-8")
+    atomic_write_text(dest, content)
     return dest
 
 
@@ -163,7 +171,7 @@ def main() -> int:
         "--task-ledger",
         type=Path,
         default=TASK_LEDGER_PATH,
-        help="SQLite task ledger (default: scripts/download_tasks_ledger.sqlite).",
+        help="SQLite task ledger (default: state/downloads/tasks.sqlite).",
     )
     parser.add_argument(
         "--no-task-ledger",
@@ -201,7 +209,7 @@ def main() -> int:
             for call in calls:
                 dest = OUTPUT_ROOT / str(year) / mode_label / f"{call.replace('/', '_')}.log"
                 key = dest.as_posix()
-                if dest.exists():
+                if destination_log_exists(dest):
                     total_skip += 1
                     continue
                 try:
@@ -224,4 +232,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    finally:
+        if TASK_LEDGER is not None:
+            TASK_LEDGER.close()

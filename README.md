@@ -74,6 +74,11 @@ SH6/logs_00.sqlite
 `WAE` intentionally remains a top-level contest folder. Other DARC-run contests
 are grouped under `DARC/`.
 
+Contest directories and filenames are immutable public interfaces. Other
+applications access individual logs through GitHub and `raw.githubusercontent.com`,
+so existing log paths must never be moved, renamed, compressed, or replaced by
+Git LFS pointers.
+
 ## Available Years By Top-Level Directory
 
 <!-- YEARS:START -->
@@ -135,83 +140,132 @@ Recreated and reconstructed logs are useful for analysis, but they are not
 official contest submissions. Consumers should inspect the `CREATED-BY`,
 `CONTEST`, `CATEGORY`, and `SOAPBOX` headers when source provenance matters.
 
-## Downloading Logs
+## Updater Architecture
 
-The main entry point is:
+The archive uses one permanent public repository. Each updater computer has a
+blobless sparse clone of that same repository containing only `.github/`,
+`scripts/`, `tests/`, `state/`, `SH6/`, and root files. Contest logs remain on
+GitHub and are recognized through SH6 even when their blobs are absent locally.
+
+An update downloads only missing logs, temporarily materializes complete source
+rounds needed for reconstruction, incrementally updates affected SH6 shards,
+commits logs plus state plus indexes together, and then removes archive folders
+from the sparse working tree. See [UPDATER.md](UPDATER.md) for the complete
+operating and recovery guide.
+
+## Set Up An Updater
+
+Python 3.10 or newer, Git 2.34 or newer, and authenticated GitHub push access
+are required. From an existing checkout, create a separate updater clone:
+
+```sh
+python3 scripts/bootstrap_sparse_clone.py ../Hamradio-Contest-updater \
+  --remote https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
+cd ../Hamradio-Contest-updater
+```
+
+The bootstrap verifies that archive paths are visible in the Git tree while
+contest directories and `RECONSTRUCTED_LOGS/` are absent locally. It never
+deletes or replaces an existing destination.
+
+## Run An Update
+
+Always begin by receiving the newest scripts, durable state, and SH6 shards:
+
+```sh
+git pull --ff-only
+python3 scripts/archive_updater.py --dry-run --contests all --last 1
+python3 scripts/archive_updater.py --contests all --last 1 --publish
+```
+
+For selected providers or lower concurrency:
+
+```sh
+python3 scripts/archive_updater.py --contests 28,30,31,32 --last 1 --workers 8 --publish
+```
+
+UA9QCQ providers read the session cookie from `UA9QCQ_COOKIE`; when interactive,
+the downloader can prompt for it. Cookies, credentials, `.env` files, PID files,
+active transaction journals, and SQLite sidecars must not be committed.
+
+The low-level interactive downloader remains available for diagnostics:
 
 ```sh
 python3 scripts/public_logs_downloader.py
 ```
 
-Interactive mode asks which contests to download and how many recent years to
-include.
+## Recovery And Phases
 
-For unattended runs, use `--non-interactive`:
+`archive_updater.py` stores its untracked transaction journal under `.git/hcla/`.
+After Ctrl-C, rerun the same command; complete logs and durable state are reused.
+The wrapper interrupts the child process, then terminates it if it does not stop
+within the bounded shutdown period.
 
-```sh
-python3 scripts/public_logs_downloader.py --non-interactive --contests all --last 1
-```
-
-Useful examples:
+To run the workflow in explicit phases:
 
 ```sh
-# Download selected menu items for the most recent year.
-python3 scripts/public_logs_downloader.py --non-interactive --contests 28,30,31,32 --last 1
-
-# Download everything with the default adaptive concurrency.
-python3 scripts/public_logs_downloader.py --non-interactive --contests all --last all
-
-# Lower concurrency for fragile public servers.
-python3 scripts/public_logs_downloader.py --non-interactive --contests all --last 1 --workers 8 --min-workers 2
-
-# Force list rediscovery instead of trusting the task ledger.
-python3 scripts/public_logs_downloader.py --non-interactive --contests all --last 1 --no-task-ledger
-
-# Rebuild only the SH6 SQLite shard index.
-python3 scripts/public_logs_downloader.py --rebuild-shards
+python3 scripts/archive_updater.py --phase download --contests all --last 1
+python3 scripts/archive_updater.py --phase reconstruct
+python3 scripts/archive_updater.py --phase shards --publish
 ```
 
-The downloader uses a task ledger in `scripts/download_tasks_ledger.sqlite` to
-avoid repeating completed source lists. It also validates existing files before
-skipping them, so missing, empty, or obvious HTML/error files are retried.
-
-## Reconstructed Logs
-
-For contests where not all stations submitted public logs, the repository can
-generate reconstructed mock logs under `RECONSTRUCTED_LOGS/`. These logs infer
-QSOs for missing stations from submitted logs.
-
-Important constraints:
-
-- only callsigns present in `MASTER.DTA` are eligible
-- a minimum QSO threshold is enforced
-- generated files are marked as checklogs
-- generated files include SOAPBOX warnings that they are reconstructed mock logs
-- reconstructed logs are included in SH6 shards when shards are rebuilt
-
-Run reconstruction with:
+To adopt valid logs downloaded before the journal existed:
 
 ```sh
-python3 scripts/reconstruct_missing_logs.py
+python3 scripts/archive_updater.py --resume-existing --phase reconstruct
+python3 scripts/archive_updater.py --phase shards --publish
 ```
 
-## SH6 SQLite Shards
+If another computer advances `main`, publication fetches again and rebases only
+when Git can reconcile the commits normally. A divergent edit to the same log,
+state file, README section, or shard stops without force-pushing or overwriting
+the remote. Pull the newer commit and rerun the updater.
 
-`SH6/` contains SQLite shard indexes used by the SH6 web client:
+## Durable State
 
-https://s53m.com/SH6/
+Tracked cross-computer state is under `state/`:
 
-Each `logs_XX.sqlite` file is keyed by a stable callsign hash so the browser can
-download only the relevant shard. Rebuild shards after significant download or
-reconstruction runs:
+- `state/downloads/tasks.sqlite` stores completed provider inventory hashes,
+  produced-output counts, and legitimate empty-result counts.
+- `state/reconstruction/ledgers/` stores reconstruction cache and output state.
+- `state/providers/ok1wc.json` stores OK1WC publication levels.
+- `state/schema.json` records canonical state locations.
+
+No-op runs leave these files byte-for-byte unchanged. Local transaction and
+temporary state stays under `.git/hcla/` or uses ignored sidecar suffixes.
+
+## SH6 Maintenance
+
+`SH6/` contains 256 SQLite shards used by https://s53m.com/SH6/. Routine updates
+upsert only paths changed in the working tree and refuse implicit log deletion.
+Audit the complete Git tree without fetching contest blobs:
+
+```sh
+python3 scripts/shard_index.py audit
+```
+
+The full recovery rebuild is intentionally blocked in sparse clones because an
+incomplete working tree would produce incomplete shards. Run it only from a
+full clone; it builds a replacement directory before swapping it into place:
 
 ```sh
 python3 scripts/public_logs_downloader.py --rebuild-shards
 ```
 
-## Cloning A Subset
+After a successful sparse publication, remove materialized archive folders with:
 
-The full repository is large. Use sparse checkout if you only need part of it:
+```sh
+git sparse-checkout reapply --sparse-index
+```
+
+Sparse cleanup removes working files but not locally created blobs reachable
+from `HEAD`. When `.git` becomes too large, use the bootstrap command to create
+a fresh updater clone at a new path, verify it, and then remove the old clone
+manually.
+
+## Consumer Sparse Clones
+
+Consumers that need one contest instead of the updater tools can still use:
 
 ```sh
 git clone --filter=blob:none --sparse https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
@@ -219,11 +273,8 @@ cd Hamradio-Contest-logs-Archives
 git sparse-checkout set WAE/CW
 ```
 
-Replace `WAE/CW` with any contest folder or subfolder you need.
-
-## Publishing
-
-This archive is served directly from GitHub.
+This archive is served directly from GitHub; individual log paths remain
+available through normal GitHub and raw GitHub HTTP URLs.
 
 ## Contributing Sources
 
