@@ -21,18 +21,37 @@ move, compress, delete, or replace them with pointers.
 
 ## Fresh computer
 
-Run the bootstrap from any existing checkout containing the script:
+Create the computer's only local checkout directly as a blobless sparse clone:
+
+```sh
+git clone --depth 1 --filter=blob:none --sparse --single-branch --branch main \
+  https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
+cd Hamradio-Contest-logs-Archives
+git sparse-checkout set --cone --sparse-index .github scripts tests state SH6
+python3 scripts/shard_index.py audit
+```
+
+The resulting sparse cone is `.github`, `scripts`, `tests`, `state`, and `SH6`.
+Root files are included by Git cone mode. This one clone is both the updater
+and the local repository; no separate log repository or second permanent clone
+is needed.
+
+### Replacing an old full checkout
+
+A full clone already contains the historical log blobs in `.git`, so merely
+enabling sparse checkout does not recover that disk space. To migrate, create a
+temporary replacement beside the clean, fully pushed old checkout:
 
 ```sh
 python3 scripts/bootstrap_sparse_clone.py ../Hamradio-Contest-updater \
   --remote https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
 cd ../Hamradio-Contest-updater
+python3 scripts/shard_index.py audit
 ```
 
-The resulting sparse cone is `.github`, `scripts`, `tests`, `state`, and `SH6`.
-Root files are included by Git cone mode. The bootstrap fails rather than
-touching an existing destination and reports the number of remote log paths it
-can enumerate without checking out their blobs.
+After verifying the replacement and any computer-specific credentials, retire
+the old full checkout. The overlap is only for migration; ongoing operation
+uses the new sparse clone alone.
 
 ## Normal update
 

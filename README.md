@@ -156,17 +156,20 @@ operating and recovery guide.
 ## Set Up An Updater
 
 Python 3.10 or newer, Git 2.34 or newer, and authenticated GitHub push access
-are required. From an existing checkout, create a separate updater clone:
+are required. On each computer, create one local updater checkout:
 
 ```sh
-python3 scripts/bootstrap_sparse_clone.py ../Hamradio-Contest-updater \
-  --remote https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
-cd ../Hamradio-Contest-updater
+git clone --depth 1 --filter=blob:none --sparse --single-branch --branch main \
+  https://github.com/s53zo/Hamradio-Contest-logs-Archives.git
+cd Hamradio-Contest-logs-Archives
+git sparse-checkout set --cone --sparse-index .github scripts tests state SH6
+python3 scripts/shard_index.py audit
 ```
 
-The bootstrap verifies that archive paths are visible in the Git tree while
-contest directories and `RECONSTRUCTED_LOGS/` are absent locally. It never
-deletes or replaces an existing destination.
+This is the only clone needed on that computer. Contest directories and
+`RECONSTRUCTED_LOGS/` remain on GitHub and are absent locally until an update
+temporarily materializes changed rounds. See [UPDATER.md](UPDATER.md) when
+replacing an older full checkout.
 
 ## Run An Update
 
