@@ -172,6 +172,7 @@ PRINT_LOCK = threading.Lock()
 UA9QCQ_COOKIE_LOCK = threading.Lock()
 UA9QCQ_DISCOVERY_LOCK = threading.Lock()
 UA9QCQ_COOKIE: str | None = None
+UA9QCQ_DISCOVERY_OUTAGE: str | None = None
 DOWNLOAD_CANCEL_EVENT = threading.Event()
 TASK_LEDGER: "TaskLedger | None" = None
 
@@ -274,6 +275,15 @@ def add_counts(target: Dict[str, int], delta: Dict[str, int]) -> None:
         target[key] = target.get(key, 0) + value
 
 
+def normalize_ua9qcq_cookie(cookie: str) -> str:
+    cookie = cookie.strip()
+    if cookie.lower().startswith("cookie:"):
+        cookie = cookie.split(":", 1)[1].strip()
+    if cookie and "=" not in cookie:
+        return f"PHPSESSID={cookie}"
+    return cookie
+
+
 def get_ua9qcq_cookie() -> str:
     global UA9QCQ_COOKIE
     if UA9QCQ_COOKIE is not None:
@@ -286,6 +296,7 @@ def get_ua9qcq_cookie() -> str:
             cookie = getpass.getpass(
                 "UA9QCQ session cookie (UA9QCQ_COOKIE, input hidden): "
             ).strip()
+        cookie = normalize_ua9qcq_cookie(cookie)
         if cookie:
             os.environ["UA9QCQ_COOKIE"] = cookie
         UA9QCQ_COOKIE = cookie
@@ -4888,24 +4899,39 @@ def discover_provider_tasks(
     last_years: int | None,
 ) -> List[DownloadTask]:
     """Run discovery, serializing and retrying providers that share UA9QCQ."""
+    global UA9QCQ_DISCOVERY_OUTAGE
     attempts = UA9QCQ_DISCOVERY_ATTEMPTS if provider_id in UA9QCQ_PROVIDER_IDS else 1
-    for attempt in range(1, attempts + 1):
+
+    def run_attempts() -> List[DownloadTask]:
+        for attempt in range(1, attempts + 1):
+            try:
+                return provider_fn(last_years)
+            except Exception as exc:  # pylint: disable=broad-except
+                if attempt >= attempts:
+                    raise
+                delay = 2 ** (attempt - 1)
+                with PRINT_LOCK:
+                    print(
+                        f"Provider {provider_id}) {provider_name}: discovery attempt "
+                        f"{attempt}/{attempts} failed ({exc}); retrying in {delay}s"
+                    )
+                time.sleep(delay)
+        raise RuntimeError("provider discovery retry loop exited unexpectedly")
+
+    if provider_id not in UA9QCQ_PROVIDER_IDS:
+        return run_attempts()
+
+    with UA9QCQ_DISCOVERY_LOCK:
+        if UA9QCQ_DISCOVERY_OUTAGE:
+            raise RuntimeError(UA9QCQ_DISCOVERY_OUTAGE)
         try:
-            if provider_id in UA9QCQ_PROVIDER_IDS:
-                with UA9QCQ_DISCOVERY_LOCK:
-                    return provider_fn(last_years)
-            return provider_fn(last_years)
-        except Exception as exc:  # pylint: disable=broad-except
-            if attempt >= attempts:
-                raise
-            delay = 2 ** (attempt - 1)
-            with PRINT_LOCK:
-                print(
-                    f"Provider {provider_id}) {provider_name}: discovery attempt "
-                    f"{attempt}/{attempts} failed ({exc}); retrying in {delay}s"
-                )
-            time.sleep(delay)
-    raise RuntimeError("provider discovery retry loop exited unexpectedly")
+            return run_attempts()
+        except (OSError, TimeoutError) as exc:
+            UA9QCQ_DISCOVERY_OUTAGE = (
+                "UA9QCQ results endpoint stalled before completing its HTML "
+                "response; retry after the site recovers"
+            )
+            raise RuntimeError(UA9QCQ_DISCOVERY_OUTAGE) from exc
 
 
 def prompt_selection() -> List[int]:
@@ -5077,7 +5103,9 @@ def _main() -> int:
     )
     args = parser.parse_args()
 
-    global TASK_LEDGER, UA9QCQ_IDLE_TIMEOUT, UA9QCQ_MAX_CONSECUTIVE_ERRORS, UA9QCQ_REQUEST_TIMEOUT
+    global TASK_LEDGER, UA9QCQ_DISCOVERY_OUTAGE, UA9QCQ_IDLE_TIMEOUT
+    global UA9QCQ_MAX_CONSECUTIVE_ERRORS, UA9QCQ_REQUEST_TIMEOUT
+    UA9QCQ_DISCOVERY_OUTAGE = None
     UA9QCQ_IDLE_TIMEOUT = args.ua9qcq_idle_timeout if args.ua9qcq_idle_timeout > 0 else None
     UA9QCQ_MAX_CONSECUTIVE_ERRORS = (
         args.ua9qcq_max_consecutive_errors

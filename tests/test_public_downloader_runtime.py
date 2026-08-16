@@ -21,9 +21,11 @@ import public_logs_downloader as public  # noqa: E402
 class PublicDownloaderRuntimeTests(unittest.TestCase):
     def setUp(self) -> None:
         public.UA9QCQ_COOKIE = None
+        public.UA9QCQ_DISCOVERY_OUTAGE = None
 
     def tearDown(self) -> None:
         public.UA9QCQ_COOKIE = None
+        public.UA9QCQ_DISCOVERY_OUTAGE = None
 
     def test_cookie_prompt_hides_input(self) -> None:
         fake_stdin = mock.Mock()
@@ -34,10 +36,20 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
             mock.patch.object(public.getpass, "getpass", return_value="secret") as prompt,
         ):
             os.environ.pop("UA9QCQ_COOKIE", None)
-            self.assertEqual(public.get_ua9qcq_cookie(), "secret")
+            self.assertEqual(public.get_ua9qcq_cookie(), "PHPSESSID=secret")
             prompt.assert_called_once()
-            self.assertEqual(os.environ["UA9QCQ_COOKIE"], "secret")
+            self.assertEqual(os.environ["UA9QCQ_COOKIE"], "PHPSESSID=secret")
             os.environ.pop("UA9QCQ_COOKIE", None)
+
+    def test_full_cookie_header_is_preserved(self) -> None:
+        self.assertEqual(
+            public.normalize_ua9qcq_cookie("PHPSESSID=secret; lang=en"),
+            "PHPSESSID=secret; lang=en",
+        )
+        self.assertEqual(
+            public.normalize_ua9qcq_cookie("Cookie: PHPSESSID=secret"),
+            "PHPSESSID=secret",
+        )
 
     def test_ua9qcq_discovery_is_serialized(self) -> None:
         active = 0
@@ -80,6 +92,27 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
                 [],
             )
         self.assertEqual(calls, 3)
+
+    def test_ua9qcq_transport_failure_opens_shared_circuit(self) -> None:
+        blocked_provider = mock.Mock(return_value=[])
+        with mock.patch.object(public, "UA9QCQ_DISCOVERY_ATTEMPTS", 1):
+            with self.assertRaisesRegex(RuntimeError, "site recovers"):
+                public.discover_provider_tasks(
+                    11,
+                    "Wednesday Mini-Test 40m",
+                    lambda _last: (_ for _ in ()).throw(
+                        OSError("cannot read from timed out object")
+                    ),
+                    1,
+                )
+            with self.assertRaisesRegex(RuntimeError, "site recovers"):
+                public.discover_provider_tasks(
+                    12,
+                    "Russian DX",
+                    blocked_provider,
+                    1,
+                )
+        blocked_provider.assert_not_called()
 
     def test_discovery_failure_returns_nonzero(self) -> None:
         def fail(_last_years):
