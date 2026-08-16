@@ -250,6 +250,32 @@ class ArchiveUpdaterTests(unittest.TestCase):
             with self.assertRaisesRegex(updater.UpdateError, "unrelated paths"):
                 updater.stage_generated_changes(repo)
 
+    def test_staging_adds_new_logs_outside_sparse_checkout_cone(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            repo = Path(temp)
+            git(repo, "init", "-q", "-b", "main")
+            git(repo, "config", "user.email", "test@example.invalid")
+            git(repo, "config", "user.name", "Test")
+            for rel, content in {
+                "scripts/placeholder.py": "print('ok')\n",
+                "SH6/placeholder.txt": "index\n",
+            }.items():
+                path = repo / rel
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text(content, encoding="ascii")
+            git(repo, "add", ".")
+            git(repo, "commit", "-qm", "fixture")
+            git(repo, "sparse-checkout", "init", "--cone", "--sparse-index")
+            git(repo, "sparse-checkout", "set", "scripts", "SH6")
+
+            log_path = Path("YOTA_Contest/2026/Round_1/S53ZO.log")
+            destination = repo / log_path
+            destination.parent.mkdir(parents=True)
+            destination.write_text("START-OF-LOG: 3.0\nEND-OF-LOG:\n", encoding="ascii")
+
+            self.assertEqual(updater.stage_generated_changes(repo), [log_path])
+            self.assertEqual(git(repo, "diff", "--cached", "--name-only"), str(log_path))
+
     def test_sparse_cleanup_preserves_remote_only_log_paths(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             repo = Path(temp)

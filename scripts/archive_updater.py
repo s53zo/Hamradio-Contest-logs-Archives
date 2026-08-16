@@ -297,7 +297,7 @@ def stage_generated_changes(repo: Path) -> list[Path]:
             "refusing to stage unrelated paths: " + ", ".join(path.as_posix() for path in disallowed[:10])
         )
     if paths:
-        run_git(repo, "add", "--", *[path.as_posix() for path in paths])
+        run_git(repo, "add", "--sparse", "--", *[path.as_posix() for path in paths])
     return paths
 
 
