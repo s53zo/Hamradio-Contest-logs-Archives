@@ -254,6 +254,27 @@ class ArchiveUpdaterTests(unittest.TestCase):
         marker = Path("EU_VHF_CONTESTS/.checklogs/481/294968.done")
         self.assertTrue(updater.allowed_generated_path(marker))
 
+    def test_staging_force_removes_remote_only_legacy_markers(self) -> None:
+        with tempfile.TemporaryDirectory() as temp:
+            repo = Path(temp)
+            git(repo, "init", "-q", "-b", "main")
+            marker = repo / "EU_VHF_CONTESTS/.checklogs/481/294968.done"
+            marker.parent.mkdir(parents=True)
+            marker.write_text("ok\n", encoding="ascii")
+            git(repo, "add", ".")
+            git(repo, "commit", "-qm", "fixture")
+            marker.unlink()
+            marker.parent.rmdir()
+
+            self.assertEqual(
+                updater.stage_generated_changes(repo),
+                [Path("EU_VHF_CONTESTS/.checklogs/481/294968.done")],
+            )
+            self.assertEqual(
+                git(repo, "diff", "--cached", "--diff-filter=D", "--name-only"),
+                "EU_VHF_CONTESTS/.checklogs/481/294968.done",
+            )
+
     def test_staging_adds_new_logs_outside_sparse_checkout_cone(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             repo = Path(temp)

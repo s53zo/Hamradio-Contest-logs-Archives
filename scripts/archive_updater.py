@@ -297,14 +297,28 @@ def allowed_generated_path(path: Path) -> bool:
 
 
 def stage_generated_changes(repo: Path) -> list[Path]:
-    paths = [path for _status, path in porcelain_paths(repo)]
+    changes = porcelain_paths(repo)
+    paths = [path for _status, path in changes]
     disallowed = [path for path in paths if not allowed_generated_path(path)]
     if disallowed:
         raise UpdateError(
             "refusing to stage unrelated paths: " + ", ".join(path.as_posix() for path in disallowed[:10])
         )
-    if paths:
-        pathspec = "\0".join(path.as_posix() for path in paths) + "\0"
+    deleted = [path for status, path in changes if "D" in status]
+    retained = [path for status, path in changes if "D" not in status]
+    if deleted:
+        pathspec = "\0".join(path.as_posix() for path in deleted) + "\0"
+        subprocess.run(
+            ["git", "update-index", "--force-remove", "-z", "--stdin"],
+            cwd=repo,
+            check=True,
+            text=True,
+            input=pathspec,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
+    if retained:
+        pathspec = "\0".join(path.as_posix() for path in retained) + "\0"
         subprocess.run(
             [
                 "git",
