@@ -4928,8 +4928,8 @@ def discover_provider_tasks(
             return run_attempts()
         except (OSError, TimeoutError) as exc:
             UA9QCQ_DISCOVERY_OUTAGE = (
-                "UA9QCQ results endpoint stalled before completing its HTML "
-                "response; retry after the site recovers"
+                "UA9QCQ transport stalled before completing its HTML response; "
+                "check VPN/WARP split-tunnel routing or retry later"
             )
             raise RuntimeError(UA9QCQ_DISCOVERY_OUTAGE) from exc
 

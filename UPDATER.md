@@ -105,6 +105,28 @@ python3 scripts/reconstruct_missing_logs.py --changed-only --no-rebuild-shards
 python3 scripts/shard_index.py audit
 ```
 
+### UA9QCQ responses stall after about 16 KB
+
+If every UA9QCQ provider reports an unfinished HTML response while the site
+appears to open in a browser, test a large static file:
+
+```sh
+curl --max-time 10 --output /dev/null --write-out '%{http_code} %{size_download}\n' \
+  https://ua9qcq.com/leaflet.js
+```
+
+A successful response is HTTP `200` with `223823` bytes. A timeout near 16 KB
+indicates a VPN or tunnel path problem, not an expired UA9QCQ session. With the
+consumer Cloudflare WARP client, bypass that host and rerun the test:
+
+```sh
+warp-cli tunnel host add ua9qcq.com
+```
+
+The exclusion keeps HTTPS encryption but routes this host outside WARP. Remove
+it later with `warp-cli tunnel host remove ua9qcq.com` if Cloudflare or UA9QCQ
+resolves the transport incompatibility.
+
 ## Interrupt recovery
 
 On Ctrl-C, wait for `archive_updater.py` to report that the child stopped. The

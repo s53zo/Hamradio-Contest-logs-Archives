@@ -96,7 +96,7 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
     def test_ua9qcq_transport_failure_opens_shared_circuit(self) -> None:
         blocked_provider = mock.Mock(return_value=[])
         with mock.patch.object(public, "UA9QCQ_DISCOVERY_ATTEMPTS", 1):
-            with self.assertRaisesRegex(RuntimeError, "site recovers"):
+            with self.assertRaisesRegex(RuntimeError, "VPN/WARP"):
                 public.discover_provider_tasks(
                     11,
                     "Wednesday Mini-Test 40m",
@@ -105,7 +105,7 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
                     ),
                     1,
                 )
-            with self.assertRaisesRegex(RuntimeError, "site recovers"):
+            with self.assertRaisesRegex(RuntimeError, "VPN/WARP"):
                 public.discover_provider_tasks(
                     12,
                     "Russian DX",
