@@ -7,7 +7,9 @@ clones. It is committed with the logs and SH6 changes that depend on it.
   produced-output counts, and legitimate empty-result counts.
 - `reconstruction/ledgers/` records completed reconstruction output and cache
   keys.
-- `providers/` stores deterministic provider-specific state.
+- `providers/ok1wc.json` stores OK1WC publication levels by round.
+- `providers/vhfmanager/checklogs/<contest_id>/<log_id>.done` records
+  VHFManager seed and referenced check logs that have been processed.
 - `schema.json` identifies canonical state locations.
 
 Cookies, credentials, PID files, active transaction journals, SQLite sidecar
