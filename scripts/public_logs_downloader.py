@@ -67,11 +67,13 @@ import html
 import hashlib
 import http.client
 import http.cookiejar
+import ipaddress
 import json
 import os
 import random
 import re
 import shutil
+import socket
 import sys
 import threading
 import time
@@ -173,6 +175,11 @@ UA9QCQ_COOKIE_LOCK = threading.Lock()
 UA9QCQ_DISCOVERY_LOCK = threading.Lock()
 UA9QCQ_COOKIE: str | None = None
 UA9QCQ_DISCOVERY_OUTAGE: str | None = None
+DNS_FALLBACK_RESOLVERS = ("1.1.1.1", "8.8.8.8")
+DNS_FALLBACK_CACHE: Dict[str, Tuple[str, ...]] = {}
+DNS_FALLBACK_LOGGED: set[str] = set()
+DNS_FALLBACK_LOCK = threading.Lock()
+ORIGINAL_GETADDRINFO = socket.getaddrinfo
 DOWNLOAD_CANCEL_EVENT = threading.Event()
 TASK_LEDGER: "TaskLedger | None" = None
 
@@ -1261,8 +1268,94 @@ def make_http_task(
     )
 
 
+def usable_dns_addresses(output: str) -> List[str]:
+    addresses: List[str] = []
+    for line in output.splitlines():
+        value = line.strip()
+        try:
+            address = ipaddress.ip_address(value)
+        except ValueError:
+            continue
+        if address.is_unspecified:
+            continue
+        addresses.append(value)
+    return addresses
+
+
+def dig_addresses(host: str, resolver: str | None = None) -> List[str]:
+    command = ["dig", "+short", "A", host]
+    if resolver:
+        command.append(f"@{resolver}")
+    result = subprocess.run(
+        command,
+        capture_output=True,
+        text=True,
+        check=False,
+        timeout=8,
+    )
+    return usable_dns_addresses(result.stdout)
+
+
+def fallback_dns_addresses(host: str) -> Tuple[str, ...]:
+    host_key = host.rstrip(".").lower()
+    with DNS_FALLBACK_LOCK:
+        cached = DNS_FALLBACK_CACHE.get(host_key)
+        if cached is not None:
+            return cached
+        addresses: Tuple[str, ...] = ()
+        for resolver in DNS_FALLBACK_RESOLVERS:
+            try:
+                answers = dig_addresses(host_key, resolver)
+            except (OSError, subprocess.SubprocessError):
+                continue
+            if answers:
+                addresses = tuple(answers)
+                break
+        DNS_FALLBACK_CACHE[host_key] = addresses
+        return addresses
+
+
+def sinkhole_aware_getaddrinfo(host, port, family=0, type=0, proto=0, flags=0):
+    if not isinstance(host, str):
+        return ORIGINAL_GETADDRINFO(host, port, family, type, proto, flags)
+    try:
+        normal = ORIGINAL_GETADDRINFO(host, port, family, type, proto, flags)
+    except socket.gaierror:
+        normal = []
+    normal_addresses = usable_dns_addresses(
+        "\n".join(str(item[4][0]) for item in normal if item[4])
+    )
+    if normal_addresses:
+        return normal
+
+    fallback = fallback_dns_addresses(host)
+    if not fallback:
+        if normal:
+            return normal
+        return ORIGINAL_GETADDRINFO(host, port, family, type, proto, flags)
+
+    results = []
+    for address in fallback:
+        results.extend(ORIGINAL_GETADDRINFO(address, port, family, type, proto, flags))
+    host_key = host.rstrip(".").lower()
+    with DNS_FALLBACK_LOCK:
+        if host_key not in DNS_FALLBACK_LOGGED:
+            DNS_FALLBACK_LOGGED.add(host_key)
+            with PRINT_LOCK:
+                print(
+                    f"DNS fallback {host}: system resolver returned a sinkhole; "
+                    f"using {' '.join(fallback)}"
+                )
+    return results
+
+
+def install_dns_fallback() -> None:
+    if socket.getaddrinfo is not sinkhole_aware_getaddrinfo:
+        socket.getaddrinfo = sinkhole_aware_getaddrinfo
+
+
 def resolve_hosts(hosts: Iterable[str]) -> Dict[str, List[str]]:
-    """Resolve hosts with dig for logging; best-effort."""
+    """Resolve hosts for logging, bypassing sinkholed system DNS answers."""
     resolved: Dict[str, List[str]] = {}
     try:
         subprocess.run(["dig", "+short", "localhost"], capture_output=True, text=True, check=False)
@@ -1274,8 +1367,9 @@ def resolve_hosts(hosts: Iterable[str]) -> Dict[str, List[str]]:
             resolved[host] = []
             continue
         try:
-            res = subprocess.run(["dig", "+short", host], capture_output=True, text=True, check=False)
-            ips = [line.strip() for line in res.stdout.splitlines() if line.strip()]
+            ips = dig_addresses(host)
+            if not ips:
+                ips = list(fallback_dns_addresses(host))
             resolved[host] = ips
             with PRINT_LOCK:
                 if ips:
@@ -5113,6 +5207,7 @@ def _main() -> int:
         else None
     )
     UA9QCQ_REQUEST_TIMEOUT = args.ua9qcq_request_timeout
+    install_dns_fallback()
 
     adaptive_enabled = not args.no_adaptive
     if args.rebuild_shards:

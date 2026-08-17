@@ -127,6 +127,18 @@ The exclusion keeps HTTPS encryption but routes this host outside WARP. Remove
 it later with `warp-cli tunnel host remove ua9qcq.com` if Cloudflare or UA9QCQ
 resolves the transport incompatibility.
 
+If a provider immediately fails with `Connection refused`, check its DNS answer:
+
+```sh
+dig +short provider.example
+```
+
+Filtering resolvers may return the sinkhole address `0.0.0.0` for a legitimate
+contest site. The downloader detects that answer, queries `1.1.1.1` and then
+`8.8.8.8` with `dig`, caches the recovered IP, and keeps the original hostname
+for HTTPS certificate validation. It reports this as `DNS fallback ...` and
+does not require changes to system DNS or `/etc/hosts`.
+
 ## Interrupt recovery
 
 On Ctrl-C, wait for `archive_updater.py` to report that the child stopped. The

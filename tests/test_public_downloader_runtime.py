@@ -114,6 +114,67 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
                 )
         blocked_provider.assert_not_called()
 
+    def test_sinkhole_dns_uses_public_resolver_address(self) -> None:
+        sinkhole = [
+            (
+                public.socket.AF_INET,
+                public.socket.SOCK_STREAM,
+                6,
+                "",
+                ("0.0.0.0", 443),
+            )
+        ]
+        recovered = [
+            (
+                public.socket.AF_INET,
+                public.socket.SOCK_STREAM,
+                6,
+                "",
+                ("78.47.8.237", 443),
+            )
+        ]
+
+        def getaddrinfo(host, *_args):
+            return sinkhole if host == "vhfmanager.net" else recovered
+
+        with (
+            mock.patch.object(public, "ORIGINAL_GETADDRINFO", side_effect=getaddrinfo),
+            mock.patch.object(
+                public,
+                "fallback_dns_addresses",
+                return_value=("78.47.8.237",),
+            ),
+            mock.patch.object(public, "DNS_FALLBACK_LOGGED", set()),
+            redirect_stdout(io.StringIO()),
+        ):
+            result = public.sinkhole_aware_getaddrinfo(
+                "vhfmanager.net",
+                443,
+                public.socket.AF_UNSPEC,
+                public.socket.SOCK_STREAM,
+            )
+
+        self.assertEqual(result, recovered)
+
+    def test_real_dns_answer_does_not_use_fallback(self) -> None:
+        resolved = [
+            (
+                public.socket.AF_INET,
+                public.socket.SOCK_STREAM,
+                6,
+                "",
+                ("62.109.19.112", 443),
+            )
+        ]
+        with (
+            mock.patch.object(public, "ORIGINAL_GETADDRINFO", return_value=resolved),
+            mock.patch.object(public, "fallback_dns_addresses") as fallback,
+        ):
+            result = public.sinkhole_aware_getaddrinfo("ua9qcq.com", 443)
+
+        self.assertEqual(result, resolved)
+        fallback.assert_not_called()
+
     def test_discovery_failure_returns_nonzero(self) -> None:
         def fail(_last_years):
             raise RuntimeError("provider unavailable")
