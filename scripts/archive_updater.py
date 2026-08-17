@@ -284,6 +284,13 @@ def allowed_generated_path(path: Path) -> bool:
         return True
     if not path.parts:
         return False
+    if (
+        len(path.parts) >= 3
+        and path.parts[0] == "EU_VHF_CONTESTS"
+        and path.parts[1] == ".checklogs"
+        and path.suffix == ".done"
+    ):
+        return True
     if path.parts[0] in ALLOWED_TRACKED_ROOTS:
         return True
     return path.parts[0] in ARCHIVE_ROOTS and path.suffix.lower() in LOG_EXTENSIONS
@@ -387,7 +394,6 @@ def main() -> int:
 
     repo = args.repo.resolve()
     branch = args.branch or current_branch(repo)
-    migrate_legacy_provider_state(repo)
     transaction = read_transaction(repo)
     if transaction and transaction.phase in {"committed", "publishing"}:
         if not transaction.commit_sha or transaction.commit_sha != current_sha(repo):
@@ -426,6 +432,8 @@ def main() -> int:
         write_transaction(repo, transaction)
     else:
         adopt_fast_forwarded_transaction_head(repo, transaction)
+
+    migrate_legacy_provider_state(repo)
 
     try:
         if args.phase in {"all", "download"}:

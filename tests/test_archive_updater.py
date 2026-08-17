@@ -250,6 +250,10 @@ class ArchiveUpdaterTests(unittest.TestCase):
             with self.assertRaisesRegex(updater.UpdateError, "unrelated paths"):
                 updater.stage_generated_changes(repo)
 
+    def test_legacy_vhf_marker_deletion_is_generated_state(self) -> None:
+        marker = Path("EU_VHF_CONTESTS/.checklogs/481/294968.done")
+        self.assertTrue(updater.allowed_generated_path(marker))
+
     def test_staging_adds_new_logs_outside_sparse_checkout_cone(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             repo = Path(temp)
