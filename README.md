@@ -216,6 +216,20 @@ analysis or a recovery SH6 rebuild, but it is not required for routine updates.
 Always begin by receiving the newest scripts, durable state, and SH6 shards:
 
 ```sh
+./scripts/update_last_year_and_push.sh
+```
+
+This convenience command fast-forwards the checkout, checks every provider's
+most recent contest year, reconstructs affected rounds, updates SH6, runs tests,
+commits, and pushes. Optional updater arguments are passed through, for example:
+
+```sh
+./scripts/update_last_year_and_push.sh --workers 8
+```
+
+The equivalent explicit commands are:
+
+```sh
 git pull --ff-only
 python3 scripts/archive_updater.py --dry-run --contests all --last 1
 python3 scripts/archive_updater.py --contests all --last 1 --publish
