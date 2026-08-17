@@ -180,6 +180,7 @@ Durable state committed with updates:
 state/downloads/tasks.sqlite
 state/reconstruction/ledgers/
 state/providers/ok1wc.json
+state/providers/vhfmanager/checklogs/<contest_id>/<log_id>.done
 state/schema.json
 ```
 

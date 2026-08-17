@@ -286,6 +286,8 @@ Tracked cross-computer state is under `state/`:
   produced-output counts, and legitimate empty-result counts.
 - `state/reconstruction/ledgers/` stores reconstruction cache and output state.
 - `state/providers/ok1wc.json` stores OK1WC publication levels.
+- `state/providers/vhfmanager/checklogs/<contest_id>/<log_id>.done` records
+  processed VHFManager seed and referenced check logs.
 - `state/schema.json` records canonical state locations.
 
 No-op runs leave these files byte-for-byte unchanged. Local transaction and
