@@ -57,6 +57,18 @@ uses the new sparse clone alone.
 
 ## Normal update
 
+Run the complete latest-year update with one command:
+
+```sh
+./scripts/update_last_year_and_push.sh
+```
+
+The script runs `git pull --ff-only` and then publishes all providers with
+`--last 1`. Additional updater options are passed through, such as
+`--workers 8` or `--skip-tests`.
+
+Its explicit equivalent is:
+
 ```sh
 git pull --ff-only
 python3 scripts/archive_updater.py --dry-run --contests all --last 1
