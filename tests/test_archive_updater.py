@@ -269,6 +269,8 @@ class ArchiveUpdaterTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp:
             repo = Path(temp)
             git(repo, "init", "-q", "-b", "main")
+            git(repo, "config", "user.email", "test@example.invalid")
+            git(repo, "config", "user.name", "Test")
             marker = repo / "EU_VHF_CONTESTS/.checklogs/481/294968.done"
             marker.parent.mkdir(parents=True)
             marker.write_text("ok\n", encoding="ascii")
