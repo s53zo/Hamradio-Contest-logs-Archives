@@ -893,6 +893,7 @@ def migrate_legacy_checklog_markers(repo_root: Path | None = None) -> int:
     if not legacy_entries:
         return 0
     migrated = 0
+    tracked_to_unskip: List[Path] = []
     with CHECKLOG_MARKER_LOCK:
         for legacy, relative in sorted(
             legacy_entries.items(), key=lambda item: item[0].as_posix()
@@ -908,13 +909,20 @@ def migrate_legacy_checklog_markers(repo_root: Path | None = None) -> int:
             if legacy.exists():
                 legacy.unlink()
             if relative is not None and relative in tracked_paths:
-                subprocess.run(
-                    ["git", "update-index", "--no-skip-worktree", "--", relative.as_posix()],
-                    cwd=root,
-                    check=True,
-                    stdout=subprocess.DEVNULL,
-                )
+                tracked_to_unskip.append(relative)
             migrated += 1
+        if tracked_to_unskip:
+            path_input = b"\0".join(
+                path.as_posix().encode("utf-8", errors="surrogateescape")
+                for path in tracked_to_unskip
+            ) + b"\0"
+            subprocess.run(
+                ["git", "update-index", "--no-skip-worktree", "-z", "--stdin"],
+                cwd=root,
+                check=True,
+                input=path_input,
+                stdout=subprocess.DEVNULL,
+            )
         for directory in sorted(
             (path for path in legacy_root.rglob("*") if path.is_dir()),
             key=lambda path: len(path.parts),
