@@ -1,4 +1,5 @@
 import sys
+import subprocess
 import tempfile
 import unittest
 from pathlib import Path
@@ -31,6 +32,38 @@ class VhfManagerDiscoveryTests(unittest.TestCase):
             self.assertEqual((state_root / "488/299849.done").read_text(), "ok\n")
             self.assertEqual((state_root / "488/299850.done").read_text(), "ok\n")
 
+    def test_remote_only_legacy_markers_migrate_in_sparse_checkout(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            subprocess.run(["git", "init", "-q"], cwd=root, check=True)
+            subprocess.run(["git", "config", "user.name", "Test"], cwd=root, check=True)
+            subprocess.run(
+                ["git", "config", "user.email", "test@example.invalid"],
+                cwd=root,
+                check=True,
+            )
+            legacy = root / "EU_VHF_CONTESTS/.checklogs/481/294968.done"
+            legacy.parent.mkdir(parents=True)
+            legacy.write_text("ok\n", encoding="ascii")
+            subprocess.run(["git", "add", "."], cwd=root, check=True)
+            subprocess.run(["git", "commit", "-qm", "fixture"], cwd=root, check=True)
+            legacy.unlink()
+            legacy.parent.rmdir()
+            legacy.parent.parent.rmdir()
+
+            self.assertEqual(vhf.migrate_legacy_checklog_markers(root), 1)
+
+            marker = root / "state/providers/vhfmanager/checklogs/481/294968.done"
+            self.assertEqual(marker.read_text(), "ok\n")
+            status = subprocess.run(
+                ["git", "status", "--short"],
+                cwd=root,
+                check=True,
+                text=True,
+                stdout=subprocess.PIPE,
+            ).stdout
+            self.assertIn("EU_VHF_CONTESTS/.checklogs/481/294968.done", status)
+
     def test_discovery_stops_when_provider_is_unavailable(self) -> None:
         calls = []
 
@@ -53,6 +86,29 @@ class VhfManagerDiscoveryTests(unittest.TestCase):
             vhf, "fetch_text", side_effect=available_without_logs
         ):
             self.assertEqual(vhf.discover_contests(1), [])
+
+    def test_recent_year_discovery_continues_past_newest_contest(self) -> None:
+        years = {500: 2026, 499: 2026, 498: 2025}
+
+        def result_page(url, retries=3, delay=1.0):
+            contest_id = int(url.split("ContestID=", 1)[1].split("&", 1)[0])
+            if contest_id not in years:
+                return "<html><title>No results</title></html>"
+            return f'<html><title>Contest {contest_id}</title>display_log</html>'
+
+        with (
+            mock.patch.object(vhf, "MAX_CONTEST_ID", 500),
+            mock.patch.object(vhf, "fetch_text", side_effect=result_page),
+            mock.patch.object(vhf, "parse_log_links", return_value=[]),
+            mock.patch.object(
+                vhf,
+                "contest_year_from_links",
+                side_effect=lambda contest, _links: years[contest.cid],
+            ),
+        ):
+            contests = vhf.discover_contests(None, recent_years=1)
+
+        self.assertEqual([contest.cid for contest in contests], [500, 499])
 
 
 if __name__ == "__main__":

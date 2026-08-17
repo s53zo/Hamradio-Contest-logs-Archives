@@ -21,6 +21,7 @@ import os
 import random
 import re
 import socket
+import subprocess
 import threading
 import time
 import urllib.error
@@ -74,6 +75,7 @@ USER_AGENT = pick_user_agent()
 REQUEST_TIMEOUT = 30
 DEFAULT_WORKERS = 10
 MAX_CONSECUTIVE_DISCOVERY_ERRORS = 3
+MAX_CONTEST_ID = 700
 BASE_URL = "https://vhfmanager.net"
 OUTPUT_ROOT = Path("EU_VHF_CONTESTS")
 CHECKLOG_STATE_ROOT = Path("state") / "providers" / "vhfmanager" / "checklogs"
@@ -206,16 +208,20 @@ def clean(text: str) -> str:
     return " ".join(unescaped.split())
 
 
-def discover_contests(limit: int | None) -> List[Contest]:
+def discover_contests(
+    limit: int | None,
+    recent_years: int | None = None,
+) -> List[Contest]:
     """
     Probe a descending range of ContestID values and pick those that contain log links.
     limit = number of most recent contests to return (by ID).
+    recent_years = include every contest from the newest N contest years.
     """
-    max_probe = 700  # generous upper bound for probing
     found: List[Contest] = []
+    newest_year: int | None = None
     consecutive_errors = 0
     probed = 0
-    for cid in range(max_probe, 0, -1):
+    for cid in range(MAX_CONTEST_ID, 0, -1):
         url = f"{BASE_URL}/modules/results.php?ContestID={cid}&language=G"
         try:
             # A probe does not need the normal per-page retry policy. Repeated
@@ -247,8 +253,18 @@ def discover_contests(limit: int | None) -> List[Contest]:
                 name = "ZRS 50 MHz tekmovanje"
             elif "maraton" in lower:
                 name = "ZRS maraton 12 termin"
-        found.append(Contest(cid=cid, name=name, results_url=url))
-        if limit and len(found) >= limit:
+        contest = Contest(cid=cid, name=name, results_url=url)
+        if recent_years:
+            links = parse_log_links(contest, html_text)
+            contest_year = contest_year_from_links(contest, links)
+            if contest_year is not None:
+                if newest_year is None:
+                    newest_year = contest_year
+                cutoff_year = newest_year - recent_years + 1
+                if contest_year < cutoff_year:
+                    break
+        found.append(contest)
+        if recent_years is None and limit and len(found) >= limit:
             break
     return found
 
@@ -286,9 +302,7 @@ def parse_contest_name(html_text: str, cid: int) -> str:
     return f"Contest_{cid}"
 
 
-def discover_logs(contest: Contest) -> Tuple[Contest, List[LogLink]]:
-    html_text = fetch_text(contest.results_url)
-    contest = Contest(cid=contest.cid, name=parse_contest_name(html_text, contest.cid), results_url=contest.results_url)
+def parse_log_links(contest: Contest, html_text: str) -> List[LogLink]:
     links: List[LogLink] = []
     row_re = re.compile(r"<tr[^>]*>(.*?)</tr>", flags=re.IGNORECASE | re.DOTALL)
     for row_match in row_re.finditer(html_text):
@@ -312,6 +326,13 @@ def discover_logs(contest: Contest) -> Tuple[Contest, List[LogLink]]:
                 call_hint = text
                 break
         links.append(LogLink(url=abs_url, call_hint=call_hint, category_hint=None))
+    return links
+
+
+def discover_logs(contest: Contest) -> Tuple[Contest, List[LogLink]]:
+    html_text = fetch_text(contest.results_url)
+    contest = Contest(cid=contest.cid, name=parse_contest_name(html_text, contest.cid), results_url=contest.results_url)
+    links = parse_log_links(contest, html_text)
     return contest, links
 
 
@@ -635,6 +656,31 @@ def parse_qsos(
     return parse_qsos_vhf(html_text, mycall, category, station_locator)
 
 
+def contest_year_from_links(
+    contest: Contest,
+    links: Sequence[LogLink],
+    attempts: int = 3,
+) -> Optional[int]:
+    for link in links[:attempts]:
+        try:
+            page = fetch_text(link.url)
+        except Exception:  # pylint: disable=broad-except
+            continue
+        call, category, locator, pmc_designation = parse_log_header(page)
+        qsos = parse_qsos(
+            page,
+            contest,
+            call or link.call_hint or "",
+            category,
+            locator,
+            pmc_designation,
+        )
+        for _freq, date_value, *_rest in qsos:
+            if re.fullmatch(r"(?:19|20)\d{2}-\d{2}-\d{2}", date_value):
+                return int(date_value[:4])
+    return None
+
+
 def cabrillo_contest_name(contest: Contest, force_pmc: bool) -> str:
     return "WW_PMC" if force_pmc or "pmc" in contest.name.lower() else contest.name
 
@@ -816,11 +862,41 @@ def migrate_legacy_checklog_markers(repo_root: Path | None = None) -> int:
     root = Path.cwd() if repo_root is None else repo_root
     legacy_root = root / OUTPUT_ROOT / ".checklogs"
     state_root = root / CHECKLOG_STATE_ROOT
-    if not legacy_root.is_dir():
+    legacy_entries: dict[Path, Path | None] = {}
+    if legacy_root.is_dir():
+        for path in legacy_root.glob("*/*.done"):
+            try:
+                relative = path.relative_to(root)
+            except ValueError:
+                relative = None
+            legacy_entries[path] = relative
+    git_repo = subprocess.run(
+        ["git", "rev-parse", "--is-inside-work-tree"],
+        cwd=root,
+        check=False,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.DEVNULL,
+        text=True,
+    ).stdout.strip() == "true"
+    tracked_paths: set[Path] = set()
+    try:
+        tracked_prefix = legacy_root.relative_to(root)
+    except ValueError:
+        tracked_prefix = None
+    if git_repo and tracked_prefix is not None:
+        inventory = ArchiveInventory(root)
+        tracked_paths = set(
+            inventory.git_paths(tracked_prefix, log_only=False)
+        )
+        for relative in tracked_paths:
+            legacy_entries.setdefault(root / relative, relative)
+    if not legacy_entries:
         return 0
     migrated = 0
     with CHECKLOG_MARKER_LOCK:
-        for legacy in sorted(legacy_root.glob("*/*.done")):
+        for legacy, relative in sorted(
+            legacy_entries.items(), key=lambda item: item[0].as_posix()
+        ):
             try:
                 contest_id = int(legacy.parent.name)
                 log_id = int(legacy.stem)
@@ -829,7 +905,15 @@ def migrate_legacy_checklog_markers(repo_root: Path | None = None) -> int:
             target = state_root / str(contest_id) / f"{log_id}.done"
             if not target.exists():
                 atomic_write_text(target, "ok\n")
-            legacy.unlink()
+            if legacy.exists():
+                legacy.unlink()
+            if relative is not None and relative in tracked_paths:
+                subprocess.run(
+                    ["git", "update-index", "--no-skip-worktree", "--", relative.as_posix()],
+                    cwd=root,
+                    check=True,
+                    stdout=subprocess.DEVNULL,
+                )
             migrated += 1
         for directory in sorted(
             (path for path in legacy_root.rglob("*") if path.is_dir()),

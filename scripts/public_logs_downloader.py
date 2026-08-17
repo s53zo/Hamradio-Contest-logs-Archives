@@ -1987,7 +1987,7 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
     import download_vhfmanager_logs as vhf  # type: ignore
 
     vhf.migrate_legacy_checklog_markers()
-    contests = vhf.discover_contests(last)
+    contests = vhf.discover_contests(None, recent_years=last) if last else vhf.discover_contests(None)
     tasks: List[DownloadTask] = []
     for contest in contests:
         host = urllib.parse.urlparse(vhf.BASE_URL).hostname or "unknown"
