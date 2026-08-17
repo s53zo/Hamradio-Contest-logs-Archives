@@ -304,7 +304,22 @@ def stage_generated_changes(repo: Path) -> list[Path]:
             "refusing to stage unrelated paths: " + ", ".join(path.as_posix() for path in disallowed[:10])
         )
     if paths:
-        run_git(repo, "add", "--sparse", "--", *[path.as_posix() for path in paths])
+        pathspec = "\0".join(path.as_posix() for path in paths) + "\0"
+        subprocess.run(
+            [
+                "git",
+                "add",
+                "--sparse",
+                "--pathspec-from-file=-",
+                "--pathspec-file-nul",
+            ],
+            cwd=repo,
+            check=True,
+            text=True,
+            input=pathspec,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
     return paths
 
 
