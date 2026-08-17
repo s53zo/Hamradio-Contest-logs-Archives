@@ -64,6 +64,13 @@ class VhfManagerDiscoveryTests(unittest.TestCase):
             ).stdout
             self.assertIn("EU_VHF_CONTESTS/.checklogs/481/294968.done", status)
 
+            subprocess.run(
+                ["git", "update-index", "--force-remove", "--", str(legacy.relative_to(root))],
+                cwd=root,
+                check=True,
+            )
+            self.assertEqual(vhf.migrate_legacy_checklog_markers(root), 1)
+
     def test_discovery_stops_when_provider_is_unavailable(self) -> None:
         calls = []
 

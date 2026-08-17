@@ -879,6 +879,7 @@ def migrate_legacy_checklog_markers(repo_root: Path | None = None) -> int:
         text=True,
     ).stdout.strip() == "true"
     tracked_paths: set[Path] = set()
+    indexed_paths: set[Path] = set()
     try:
         tracked_prefix = legacy_root.relative_to(root)
     except ValueError:
@@ -888,6 +889,17 @@ def migrate_legacy_checklog_markers(repo_root: Path | None = None) -> int:
         tracked_paths = set(
             inventory.git_paths(tracked_prefix, log_only=False)
         )
+        indexed = subprocess.run(
+            ["git", "ls-files", "-z", "--", tracked_prefix.as_posix()],
+            cwd=root,
+            check=True,
+            stdout=subprocess.PIPE,
+        ).stdout
+        indexed_paths = {
+            Path(raw.decode("utf-8", errors="surrogateescape"))
+            for raw in indexed.split(b"\0")
+            if raw
+        }
         for relative in tracked_paths:
             legacy_entries.setdefault(root / relative, relative)
     if not legacy_entries:
@@ -908,7 +920,7 @@ def migrate_legacy_checklog_markers(repo_root: Path | None = None) -> int:
                 atomic_write_text(target, "ok\n")
             if legacy.exists():
                 legacy.unlink()
-            if relative is not None and relative in tracked_paths:
+            if relative is not None and relative in indexed_paths:
                 tracked_to_unskip.append(relative)
             migrated += 1
         if tracked_to_unskip:
