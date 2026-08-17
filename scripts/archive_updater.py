@@ -22,6 +22,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 ALLOWED_TRACKED_ROOTS = {"SH6", "state", "RECONSTRUCTED_LOGS"}
 ALLOWED_TRACKED_FILES = {"README.md"}
 FORBIDDEN_SUFFIXES = {".part", ".tmp", ".sqlite-shm", ".sqlite-wal", ".sqlite-journal"}
+COLLAPSED_STAGE_ROOTS = (Path("state/providers/vhfmanager/checklogs"),)
 
 
 class UpdateError(RuntimeError):
@@ -296,6 +297,17 @@ def allowed_generated_path(path: Path) -> bool:
     return path.parts[0] in ARCHIVE_ROOTS and path.suffix.lower() in LOG_EXTENSIONS
 
 
+def collapse_stage_paths(paths: Iterable[Path]) -> list[Path]:
+    remaining = set(paths)
+    collapsed: set[Path] = set()
+    for root in COLLAPSED_STAGE_ROOTS:
+        matches = {path for path in remaining if path.is_relative_to(root)}
+        if matches:
+            remaining.difference_update(matches)
+            collapsed.add(root)
+    return sorted(remaining | collapsed, key=lambda path: path.as_posix())
+
+
 def stage_generated_changes(repo: Path) -> list[Path]:
     changes = porcelain_paths(repo)
     paths = [path for _status, path in changes]
@@ -305,7 +317,9 @@ def stage_generated_changes(repo: Path) -> list[Path]:
             "refusing to stage unrelated paths: " + ", ".join(path.as_posix() for path in disallowed[:10])
         )
     deleted = [path for status, path in changes if "D" in status]
-    retained = [path for status, path in changes if "D" not in status]
+    retained = collapse_stage_paths(
+        path for status, path in changes if "D" not in status
+    )
     if deleted:
         pathspec = "\0".join(path.as_posix() for path in deleted) + "\0"
         subprocess.run(

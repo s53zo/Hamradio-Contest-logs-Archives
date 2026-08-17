@@ -254,6 +254,17 @@ class ArchiveUpdaterTests(unittest.TestCase):
         marker = Path("EU_VHF_CONTESTS/.checklogs/481/294968.done")
         self.assertTrue(updater.allowed_generated_path(marker))
 
+    def test_marker_state_paths_collapse_to_dedicated_root(self) -> None:
+        paths = [
+            Path("state/providers/vhfmanager/checklogs/481/294968.done"),
+            Path("state/providers/vhfmanager/checklogs/486/297395.done"),
+            Path("SH6/logs_00.sqlite"),
+        ]
+        self.assertEqual(
+            updater.collapse_stage_paths(paths),
+            [Path("SH6/logs_00.sqlite"), Path("state/providers/vhfmanager/checklogs")],
+        )
+
     def test_staging_force_removes_remote_only_legacy_markers(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             repo = Path(temp)
