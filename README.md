@@ -7,11 +7,11 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-08-16:
+SH6-indexed snapshot counted on 2026-08-17:
 
-- total indexed log files: 2,211,124
-- source/public indexed log files: 1,764,191
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 446,933
+- total indexed log files: 2,211,197
+- source/public indexed log files: 1,764,249
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 446,948
 - unique source/public callsigns in the SH6 index: 177,733
 - contest roots in the SH6 index: 35
 - SQLite shard files in `SH6/`: 256
@@ -117,8 +117,8 @@ directories are not indexed.
 | WRTC | 2018, 2026 | 3,216 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 8,450 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 13,397 |
-| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,248 |
-| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 13,881 |
+| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,296 |
+| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 13,906 |
 | YOTA_Contest | 2021, 2022, 2023, 2024, 2025, 2026 | 14,102 |
 | YU DX Contest | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 5,165 |
 | YuriGagarinDXContest | 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,858 |
