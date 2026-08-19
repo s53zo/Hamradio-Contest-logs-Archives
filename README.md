@@ -7,12 +7,12 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-08-17:
+SH6-indexed snapshot counted on 2026-08-19:
 
-- total indexed log files: 2,212,048
-- source/public indexed log files: 1,764,982
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 447,066
-- unique source/public callsigns in the SH6 index: 177,738
+- total indexed log files: 2,212,509
+- source/public indexed log files: 1,765,380
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 447,129
+- unique source/public callsigns in the SH6 index: 177,759
 - contest roots in the SH6 index: 35
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -96,7 +96,7 @@ directories are not indexed.
 | CQWW | 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 413,732 |
 | CQWWRTTY | 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 68,465 |
 | DARC | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 49,584 |
-| EU VHF CONTESTS | 1980, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2039, 2056, 2057, 2065 | 582,216 |
+| EU VHF CONTESTS | 1980, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2039, 2056, 2057, 2065 | 582,677 |
 | EUDX contest | 2023, 2024, 2025, 2026 | 9,326 |
 | EUHFC | 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025 | 27,342 |
 | HamSpiritContest | 2024, 2025 | 1,783 |
