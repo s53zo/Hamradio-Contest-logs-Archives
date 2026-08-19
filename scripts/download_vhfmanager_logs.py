@@ -76,6 +76,7 @@ REQUEST_TIMEOUT = 30
 DEFAULT_WORKERS = 10
 MAX_CONSECUTIVE_DISCOVERY_ERRORS = 3
 MAX_CONTEST_ID = 700
+DISCOVERY_ID_LOOKAHEAD = 64
 BASE_URL = "https://vhfmanager.net"
 OUTPUT_ROOT = Path("EU_VHF_CONTESTS")
 CHECKLOG_STATE_ROOT = Path("state") / "providers" / "vhfmanager" / "checklogs"
@@ -208,6 +209,23 @@ def clean(text: str) -> str:
     return " ".join(unescaped.split())
 
 
+def highest_known_contest_id(state_root: Path | None = None) -> Optional[int]:
+    root = CHECKLOG_STATE_ROOT if state_root is None else state_root
+    known: List[int] = []
+    if root.is_dir():
+        for path in root.iterdir():
+            if path.is_dir() and path.name.isdigit():
+                known.append(int(path.name))
+    return max(known) if known else None
+
+
+def discovery_start_id(state_root: Path | None = None) -> int:
+    highest = highest_known_contest_id(state_root)
+    if highest is None:
+        return MAX_CONTEST_ID
+    return highest + DISCOVERY_ID_LOOKAHEAD
+
+
 def discover_contests(
     limit: int | None,
     recent_years: int | None = None,
@@ -221,7 +239,14 @@ def discover_contests(
     newest_year: int | None = None
     consecutive_errors = 0
     probed = 0
-    for cid in range(MAX_CONTEST_ID, 0, -1):
+    start_id = discovery_start_id()
+    known_id = highest_known_contest_id()
+    if known_id is not None:
+        print(
+            f"VHFManager discovery: probing from ContestID={start_id} "
+            f"(known={known_id}, lookahead={DISCOVERY_ID_LOOKAHEAD})"
+        )
+    for cid in range(start_id, 0, -1):
         url = f"{BASE_URL}/modules/results.php?ContestID={cid}&language=G"
         try:
             # A probe does not need the normal per-page retry policy. Repeated

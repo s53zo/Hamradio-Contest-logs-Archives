@@ -11,6 +11,26 @@ import download_vhfmanager_logs as vhf  # noqa: E402
 
 
 class VhfManagerDiscoveryTests(unittest.TestCase):
+    def test_discovery_start_uses_state_high_watermark(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            state_root = Path(temp_dir)
+            (state_root / "481").mkdir()
+            (state_root / "490").mkdir()
+            (state_root / "not-an-id").mkdir()
+
+            self.assertEqual(vhf.highest_known_contest_id(state_root), 490)
+            self.assertEqual(
+                vhf.discovery_start_id(state_root),
+                490 + vhf.DISCOVERY_ID_LOOKAHEAD,
+            )
+
+    def test_discovery_start_uses_full_probe_without_state(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            self.assertEqual(
+                vhf.discovery_start_id(Path(temp_dir)),
+                vhf.MAX_CONTEST_ID,
+            )
+
     def test_legacy_checklog_markers_migrate_to_central_state(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
@@ -104,7 +124,8 @@ class VhfManagerDiscoveryTests(unittest.TestCase):
             return f'<html><title>Contest {contest_id}</title>display_log</html>'
 
         with (
-            mock.patch.object(vhf, "MAX_CONTEST_ID", 500),
+            mock.patch.object(vhf, "discovery_start_id", return_value=500),
+            mock.patch.object(vhf, "highest_known_contest_id", return_value=None),
             mock.patch.object(vhf, "fetch_text", side_effect=result_page),
             mock.patch.object(vhf, "parse_log_links", return_value=[]),
             mock.patch.object(
