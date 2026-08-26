@@ -7,12 +7,12 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-08-21:
+SH6-indexed snapshot counted on 2026-08-26:
 
-- total indexed log files: 2,212,860
-- source/public indexed log files: 1,765,666
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 447,194
-- unique source/public callsigns in the SH6 index: 177,759
+- total indexed log files: 2,216,453
+- source/public indexed log files: 1,768,699
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 447,754
+- unique source/public callsigns in the SH6 index: 177,822
 - contest roots in the SH6 index: 35
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -92,7 +92,7 @@ directories are not indexed.
 | ARRL | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 328,540 |
 | CQ160 | 2022, 2023, 2024, 2025, 2026 | 17,838 |
 | CQWPX | 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 272,647 |
-| CQWPXRTTY | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 58,598 |
+| CQWPXRTTY | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 62,174 |
 | CQWW | 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 413,732 |
 | CQWWRTTY | 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 68,465 |
 | DARC | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 49,584 |
@@ -111,7 +111,7 @@ directories are not indexed.
 | RussianRadioTeamChampionship | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,883 |
 | SAC | 2021, 2023, 2024, 2025 | 11,330 |
 | SPDX contest | 2019, 2020, 2021, 2023, 2024, 2025, 2026 | 18,880 |
-| TTC-SPCWC | 2026 | 913 |
+| TTC-SPCWC | 2026 | 930 |
 | URE | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 58,424 |
 | WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 48,767 |
 | WRTC | 2018, 2026 | 3,216 |
