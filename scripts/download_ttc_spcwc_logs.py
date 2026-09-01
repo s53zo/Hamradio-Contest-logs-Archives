@@ -20,6 +20,7 @@ import re
 import subprocess
 import time
 import urllib.parse
+import urllib.error
 import urllib.request
 from dataclasses import dataclass
 from html.parser import HTMLParser
@@ -40,6 +41,11 @@ CALL_RE = re.compile(r"^[A-Z0-9]+(?:/[A-Z0-9]+)?$")
 DATE_RE = re.compile(r"\b((?:19|20)\d{2}-\d{2}-\d{2})\b")
 ROUND_RANKING_RE = re.compile(r"^/(\d+)/ranking(?:\?lang=en)?$")
 CATEGORY_RE = re.compile(r"^(SO(?:40|80|AB)-(?:QRP|LP|HP))$")
+TTC_CATEGORIES = tuple(
+    f"SO{band}-{power}"
+    for band in ("40", "80", "AB")
+    for power in ("QRP", "LP", "HP")
+)
 
 
 def pick_user_agent() -> str:
@@ -370,6 +376,15 @@ def parse_category_urls(html_text: str, round_id: str) -> List[Tuple[str, str]]:
             continue
         seen.add(category)
         categories.append((category, urllib.parse.urljoin(BASE_URL, f"{path}?lang=en")))
+    # Some round overview pages omit links to valid category pages (notably
+    # all HP categories).  The category URL scheme is stable, so probe every
+    # official category instead of treating an absent navigation link as an
+    # absent set of submitted logs.
+    for category in TTC_CATEGORIES:
+        if category in seen:
+            continue
+        path = f"/{round_id}/ranking/{category}"
+        categories.append((category, urllib.parse.urljoin(BASE_URL, f"{path}?lang=en")))
     return sorted(categories)
 
 
@@ -426,14 +441,24 @@ def discover_station_logs(round_info: Round) -> List[StationLog]:
     for category, url in category_urls:
         category_stations: List[StationLog] = []
         expected: int | None = None
+        category_missing = False
         for attempt in range(3):
-            category_html = fetch_text(url)
+            try:
+                category_html = fetch_text(url)
+            except urllib.error.HTTPError as exc:
+                if exc.code == 404:
+                    exc.close()
+                    category_missing = True
+                    break
+                raise
             expected = parse_expected_station_count(category_html)
             category_stations = parse_station_links(category_html, round_info, category)
             if expected is None or len(category_stations) >= expected:
                 break
             if attempt < 2:
                 time.sleep(0.5 * (2 ** attempt))
+        if category_missing:
+            continue
         if expected is not None and len(category_stations) < expected:
             raise ValueError(
                 f"{round_info.date} {category}: parsed {len(category_stations)} station links, expected {expected}"
@@ -540,11 +565,12 @@ def fetch_log(station: StationLog) -> str:
     raise ValueError(f"{station.date} {station.call}: {last_shortfall}")
 
 
-def write_log(station: StationLog, output_root: Path | None = None) -> Path:
+def write_log(station: StationLog, output_root: Path | None = None, *, force: bool = False) -> Path:
     dest = destination_for(station, output_root)
-    if valid_existing_log(dest):
+    if not force and valid_existing_log(dest):
         return dest
-    remove_invalid_existing(dest)
+    if not force:
+        remove_invalid_existing(dest)
     payload = fetch_log(station)
     dest.parent.mkdir(parents=True, exist_ok=True)
     atomic_write_text(dest, payload)
@@ -563,6 +589,11 @@ def main() -> int:
     parser.add_argument("--last", type=int, default=None, help="How many recent published rounds to download.")
     parser.add_argument("--round-id", nargs="+", help="Specific published round ID(s), e.g. 25.")
     parser.add_argument("--out", type=Path, default=OUTPUT_ROOT, help="Output directory root.")
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Fetch and replace every discovered log, ignoring local/archive indexes and task-ledger skips.",
+    )
     parser.add_argument(
         "--task-ledger",
         type=Path,
@@ -590,18 +621,21 @@ def main() -> int:
             continue
         task_key = f"TTC-SPCWC/{round_info.date}"
         skip, list_hash, count = task_should_skip(TASK_LEDGER, task_key, [s.url for s in stations])
+        if args.force:
+            skip = False
         if skip:
             print(f"{round_info.date}: skip (task ledger) items={count}")
             continue
         errors = 0
         for station in stations:
             dest = destination_for(station, args.out)
-            if valid_existing_log(dest):
+            if not args.force and valid_existing_log(dest):
                 total_skip += 1
                 continue
-            remove_invalid_existing(dest)
+            if not args.force:
+                remove_invalid_existing(dest)
             try:
-                write_log(station, args.out)
+                write_log(station, args.out, force=args.force)
                 total_ok += 1
             except Exception as exc:  # pylint: disable=broad-except
                 print(f"fail {station.date} {station.call}: {exc}")

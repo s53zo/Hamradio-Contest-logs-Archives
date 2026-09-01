@@ -57,6 +57,45 @@ class TtcSpcwcProviderTests(unittest.TestCase):
             ],
         )
 
+    def test_parse_category_urls_probes_unlinked_official_categories(self):
+        html = """
+        <a href="/56/ranking/SO40-QRP">SO40-QRP</a>
+        <a href="/56/ranking/SO40-LP">SO40-LP</a>
+        """
+
+        categories = dict(ttc.parse_category_urls(html, "56"))
+
+        self.assertEqual(set(categories), set(ttc.TTC_CATEGORIES))
+        self.assertEqual(
+            categories["SO40-HP"],
+            "https://spcwc.pl/56/ranking/SO40-HP?lang=en",
+        )
+
+    def test_discover_station_logs_ignores_missing_empty_categories(self):
+        ranking_html = '<a href="/56/ranking/SO40-HP">SO40-HP</a>'
+        hp_html = """
+        <span>1 stations</span>
+        <a href="/56/log/E77EA">E77EA</a>
+        """
+        original_fetch_text = ttc.fetch_text
+
+        def fake_fetch(url, *_args, **_kwargs):
+            if url == "https://spcwc.pl/56/ranking?lang=en":
+                return ranking_html
+            if "/ranking/SO40-HP" in url:
+                return hp_html
+            raise ttc.urllib.error.HTTPError(url, 404, "not found", None, None)
+
+        ttc.fetch_text = fake_fetch
+        try:
+            stations = ttc.discover_station_logs(
+                ttc.Round("56", "2026-08-25", "https://spcwc.pl/56/ranking?lang=en")
+            )
+        finally:
+            ttc.fetch_text = original_fetch_text
+
+        self.assertEqual([(station.call, station.category) for station in stations], [("E77EA", "SO40-HP")])
+
     def test_parse_qso_rows_and_build_cabrillo(self):
         html = """
         <table><tbody>
@@ -167,6 +206,31 @@ class TtcSpcwcProviderTests(unittest.TestCase):
 
         self.assertEqual(len(calls), 2)
         self.assertEqual(cabrillo.count("\nQSO:"), 2)
+
+    def test_write_log_force_replaces_indexed_archive_path(self):
+        station = ttc.StationLog(
+            "25",
+            "2026-06-23",
+            "SM0OEK",
+            "SO40-LP",
+            "https://spcwc.pl/25/log/SM0OEK?lang=en",
+        )
+        original_output_root = ttc.OUTPUT_ROOT
+        original_valid_existing = ttc.valid_existing_log
+        original_fetch_log = ttc.fetch_log
+        with tempfile.TemporaryDirectory() as tmp:
+            ttc.OUTPUT_ROOT = Path(tmp) / "TTC-SPCWC"
+            ttc.valid_existing_log = lambda _path: True
+            ttc.fetch_log = lambda _station: "START-OF-LOG: 3.0\nEND-OF-LOG:\n"
+            try:
+                dest = ttc.write_log(station, force=True)
+                payload = dest.read_text()
+            finally:
+                ttc.OUTPUT_ROOT = original_output_root
+                ttc.valid_existing_log = original_valid_existing
+                ttc.fetch_log = original_fetch_log
+
+        self.assertEqual(payload, "START-OF-LOG: 3.0\nEND-OF-LOG:\n")
 
     def test_fetch_text_retries_incomplete_reads_by_default(self):
         attempts = 0
