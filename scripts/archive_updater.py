@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import signal
 import subprocess
 import sys
@@ -182,6 +183,31 @@ def run_child(repo: Path, argv: list[str], label: str) -> None:
         raise
     if returncode != 0:
         raise UpdateError(f"{label} failed with exit {returncode}")
+
+
+def run_child_captured(repo: Path, argv: list[str], label: str) -> str:
+    """Run a child quietly, replaying its combined output only on failure."""
+    print(f"\n[{label}] running...")
+    process = subprocess.Popen(
+        argv,
+        cwd=repo,
+        start_new_session=True,
+        text=True,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+    )
+    try:
+        output, _ = process.communicate()
+    except KeyboardInterrupt:
+        print(f"\nInterrupting {label}...", file=sys.stderr)
+        stop_process_group(process)
+        raise
+    if process.returncode != 0:
+        if output:
+            print(f"\n[{label}] captured output:", file=sys.stderr)
+            print(output.rstrip(), file=sys.stderr)
+        raise UpdateError(f"{label} failed with exit {process.returncode}")
+    return output
 
 
 def stop_process_group(
@@ -408,11 +434,14 @@ def sparse_cleanup(repo: Path) -> None:
 
 
 def run_tests(repo: Path) -> None:
-    run_child(
+    output = run_child_captured(
         repo,
         [sys.executable, "-m", "unittest", "discover", "-s", "tests", "-p", "test_*.py"],
         "tests",
     )
+    match = re.search(r"\bRan (\d+) tests? in\b", output)
+    count = f" {match.group(1)}" if match else ""
+    print(f"All{count} tests passed; ready for commit/publish.")
 
 
 def main() -> int:

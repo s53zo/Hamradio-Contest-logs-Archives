@@ -1,3 +1,5 @@
+import contextlib
+import io
 import os
 import subprocess
 import sys
@@ -109,6 +111,45 @@ class ArchiveUpdaterTests(unittest.TestCase):
 
         self.assertLess(returncode, 0)
         self.assertLess(time.monotonic() - started, 2)
+
+    def test_captured_child_hides_output_on_success(self) -> None:
+        stdout = io.StringIO()
+        stderr = io.StringIO()
+
+        with contextlib.redirect_stdout(stdout), contextlib.redirect_stderr(stderr):
+            output = updater.run_child_captured(
+                Path.cwd(),
+                [
+                    sys.executable,
+                    "-c",
+                    "import sys; print('debug stdout'); print('debug stderr', file=sys.stderr)",
+                ],
+                "fixture",
+            )
+
+        self.assertIn("debug stdout", output)
+        self.assertIn("debug stderr", output)
+        self.assertNotIn("debug", stdout.getvalue())
+        self.assertEqual(stderr.getvalue(), "")
+
+    def test_captured_child_replays_output_on_failure(self) -> None:
+        stdout = io.StringIO()
+        stderr = io.StringIO()
+
+        with contextlib.redirect_stdout(stdout), contextlib.redirect_stderr(stderr):
+            with self.assertRaisesRegex(updater.UpdateError, "fixture failed with exit 3"):
+                updater.run_child_captured(
+                    Path.cwd(),
+                    [
+                        sys.executable,
+                        "-c",
+                        "import sys; print('failure details'); raise SystemExit(3)",
+                    ],
+                    "fixture",
+                )
+
+        self.assertNotIn("failure details", stdout.getvalue())
+        self.assertIn("failure details", stderr.getvalue())
 
     def test_dry_run_leaves_checkout_and_transaction_state_unchanged(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
