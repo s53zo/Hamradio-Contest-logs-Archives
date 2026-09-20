@@ -7,12 +7,12 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-09-19:
+SH6-indexed snapshot counted on 2026-09-20:
 
-- total indexed log files: 2,221,070
-- source/public indexed log files: 1,772,384
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 448,686
-- unique source/public callsigns in the SH6 index: 178,009
+- total indexed log files: 2,223,011
+- source/public indexed log files: 1,773,759
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 449,252
+- unique source/public callsigns in the SH6 index: 178,043
 - contest roots in the SH6 index: 35
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -113,7 +113,7 @@ directories are not indexed.
 | SPDX contest | 2019, 2020, 2021, 2023, 2024, 2025, 2026 | 18,880 |
 | TTC-SPCWC | 2026 | 1,436 |
 | URE | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 58,424 |
-| WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 48,767 |
+| WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,708 |
 | WRTC | 2018, 2026 | 3,216 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 8,450 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 13,397 |
