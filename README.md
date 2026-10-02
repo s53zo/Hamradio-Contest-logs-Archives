@@ -7,12 +7,12 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-09-27:
+SH6-indexed snapshot counted on 2026-10-02:
 
-- total indexed log files: 2,223,585
-- source/public indexed log files: 1,774,152
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 449,433
-- unique source/public callsigns in the SH6 index: 178,047
+- total indexed log files: 2,224,480
+- source/public indexed log files: 1,774,673
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 449,807
+- unique source/public callsigns in the SH6 index: 178,102
 - contest roots in the SH6 index: 35
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -95,7 +95,7 @@ directories are not indexed.
 | CQWPXRTTY | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 62,174 |
 | CQWW | 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 413,732 |
 | CQWWRTTY | 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 68,465 |
-| DARC | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 49,676 |
+| DARC | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,376 |
 | EU VHF CONTESTS | 1980, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2039, 2056, 2057, 2065 | 582,971 |
 | EUDX contest | 2023, 2024, 2025, 2026 | 9,326 |
 | EUHFC | 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025 | 27,342 |
@@ -111,14 +111,14 @@ directories are not indexed.
 | RussianRadioTeamChampionship | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,883 |
 | SAC | 2021, 2023, 2024, 2025 | 11,330 |
 | SPDX contest | 2019, 2020, 2021, 2023, 2024, 2025, 2026 | 18,880 |
-| TTC-SPCWC | 2026 | 1,558 |
+| TTC-SPCWC | 2026 | 1,677 |
 | URE | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 58,424 |
 | WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,708 |
 | WRTC | 2018, 2026 | 3,216 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 8,450 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 13,397 |
-| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,613 |
-| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 14,065 |
+| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,664 |
+| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 14,090 |
 | YOTA_Contest | 2021, 2022, 2023, 2024, 2025, 2026 | 14,102 |
 | YU DX Contest | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 5,165 |
 | YuriGagarinDXContest | 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,858 |
