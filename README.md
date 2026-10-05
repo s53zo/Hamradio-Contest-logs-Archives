@@ -7,11 +7,11 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-10-02:
+SH6-indexed snapshot counted on 2026-10-05:
 
-- total indexed log files: 2,224,480
-- source/public indexed log files: 1,774,673
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 449,807
+- total indexed log files: 2,224,667
+- source/public indexed log files: 1,774,824
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 449,843
 - unique source/public callsigns in the SH6 index: 178,102
 - contest roots in the SH6 index: 35
 - SQLite shard files in `SH6/`: 256
@@ -102,7 +102,7 @@ directories are not indexed.
 | HamSpiritContest | 2024, 2025 | 1,783 |
 | Istra Open Contest | 2026 | 107 |
 | OK OM DX Contest | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 25,238 |
-| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 49,281 |
+| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 49,468 |
 | RCCCup | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,377 |
 | RDAContest | 2018, 2019, 2020, 2021, 2022, 2023 | 8,115 |
 | REF | 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 41,552 |
