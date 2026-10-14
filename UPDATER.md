@@ -10,6 +10,8 @@ on GitHub but normally have no working-tree copy.
 
 Existing contest log paths are immutable public interfaces. Do not rename,
 move, compress, delete, or replace them with pointers.
+Explicitly approved recovery may remove proven malformed generated artifacts;
+valid canonical contest logs remain unchanged.
 
 ## Prerequisites
 
@@ -104,6 +106,53 @@ python3 scripts/archive_updater.py --contests 30 --last all --publish
 
 To inspect the validated commit before publishing, omit `--publish`. The journal
 records the local commit; rerun with `--publish` to finish publication.
+
+## Full Historical Recovery
+
+After installing parser fixes, use this one-time command to recover missed
+source logs and repair historical reconstruction:
+
+```sh
+./scripts/fix_archive_errors_and_push.sh --dry-run
+./scripts/fix_archive_errors_and_push.sh --workers 8
+```
+
+It pulls the latest code, refuses to overlap another running updater, backs up
+misplaced untracked KVP logs and non-HF outputs of known HF contests, checks
+all providers across all available years, reconstructs both historical and newly
+downloaded rounds, updates SH6 incrementally, tests, commits, and pushes. An
+interrupted normal update can be adopted after its processes have stopped.
+Recovery journals retain the current stage; rerun the same command after an
+interruption without repeating completed stages.
+The recovery shell command targets macOS/Linux. Updated archive updaters also
+hold an OS-backed checkout lock, released automatically on exit or interruption.
+
+If malformed generated files were already published, recovery stops by default.
+After reviewing them, explicitly permit their removal:
+
+```sh
+./scripts/fix_archive_errors_and_push.sh --remove-invalid-generated --workers 8
+```
+
+This option requires a known HF contest, a misplaced non-HF path, the original
+VHFManager generator header, and proof that every QSO has a shifted mode in its
+sent-RST field. Files are backed up under `.git/hcla/quarantine/` before their
+exact paths are removed from Git and SH6. Their incorrect raw URLs disappear;
+valid canonical log paths remain unchanged. Modified or unproven files are
+refused. Other source deletions remain prohibited. Backup manifests and consent
+are retained in the local transaction journal for interruption recovery.
+Stale reconstruction ledgers for those malformed round folders are also backed
+up and removed; the discarded sources are excluded from historical processing.
+
+Full history can take hours or days and fetch substantial Git blob data. Temporary source
+rounds are released after processing, but Git caches fetched objects. This is a
+one-time repair, not the daily update command. Upstream failures stop publication
+and retain successful work; recovery cannot manufacture unavailable public logs.
+Existing reconstructed files that no longer qualify are not automatically pruned.
+VHF reference hashes carry a traversal revision. Changed or incomplete contests
+replay marked seeds without rewriting existing valid files; completed current
+hashes remain skippable. One VHF contest batch runs at a time, with its station
+pool capped by `--workers`, rather than multiplying nested pools.
 
 ## KVP Duplicate Recovery
 
