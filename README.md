@@ -227,6 +227,19 @@ commits, and pushes. Optional updater arguments are passed through, for example:
 ./scripts/update_last_year_and_push.sh --workers 8
 ```
 
+To apply reconstruction fixes to unchanged historical logs, run selected archive
+roots (not provider numbers) through the separate repair command:
+
+```sh
+./scripts/repair_historical_reconstruction_and_push.sh \
+  --repair-contests CQWW,CQWPX,EU_VHF_CONTESTS
+```
+
+It skips downloaders, processes committed rounds one at a time, and publishes
+repaired reconstruction plus incremental SH6 updates. Omit `--repair-contests`
+for all history. Fetched Git blobs remain cached and can require substantial
+disk space; see [historical repair instructions](UPDATER.md#historical-reconstruction-repair).
+
 The equivalent explicit commands are:
 
 ```sh

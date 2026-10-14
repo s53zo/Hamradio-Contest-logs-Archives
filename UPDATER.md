@@ -105,6 +105,44 @@ python3 scripts/archive_updater.py --contests 30 --last all --publish
 To inspect the validated commit before publishing, omit `--publish`. The journal
 records the local commit; rerun with `--publish` to finish publication.
 
+## Historical reconstruction repair
+
+Normal updates reconstruct only rounds with changed source logs. To apply newer
+reconstruction fixes to unchanged historical rounds, use archive root names
+(not downloader provider IDs):
+
+```sh
+./scripts/repair_historical_reconstruction_and_push.sh \
+  --repair-contests CQWW,CQWPX,EU_VHF_CONTESTS
+```
+
+Omit `--repair-contests` to cover all committed contest roots. This command pulls
+first, skips downloaders, materializes one committed round at a time, replaces
+generated reconstructed logs at their existing paths, updates SH6 incrementally,
+runs tests, and publishes through the normal transaction workflow. Source logs
+and download ledgers are not rewritten. Old reconstructed files that no longer
+qualify are retained; this is not a deletion or archive-pruning command.
+
+Temporary source files are removed between rounds, but fetched blobs stay in
+Git's object cache. An all-history repair can therefore require substantial
+network traffic and disk space; run selected contest roots in batches. The
+reconstruction cache skips rounds already repaired with the same source data,
+algorithm, and MASTER.DTA. Interrupted repair transactions retain their root
+selection; rerun the same command to resume.
+
+For explicit phases without immediate publication:
+
+```sh
+python3 scripts/archive_updater.py --repair-reconstruction \
+  --repair-contests EU_VHF_CONTESTS --phase reconstruct
+python3 scripts/archive_updater.py --phase shards --publish
+```
+
+The journal restores repair mode when resuming. Finish an existing normal update
+before starting a repair. Historical repair and historical missing-log downloads
+are separate operations; use `--last all` with the normal downloader workflow to
+recover previously missed source logs first.
+
 ## Explicit phases
 
 ```sh

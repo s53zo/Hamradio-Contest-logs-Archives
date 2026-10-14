@@ -42,6 +42,7 @@ class Transaction:
     remote: str
     phase: str
     commit_sha: str | None = None
+    repair_contests: str | None = None
 
 
 def run_git(repo: Path, *args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
@@ -453,6 +454,10 @@ def main() -> int:
     parser.add_argument("--contests", default="all")
     parser.add_argument("--last", default="1")
     parser.add_argument("--workers", type=int, default=20)
+    parser.add_argument("--repair-reconstruction", action="store_true",
+                        help="Repair committed historical reconstruction without running downloaders.")
+    parser.add_argument("--repair-contests", default="all",
+                        help="Comma-separated archive root names for reconstruction repair (default: all).")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--publish", action="store_true")
     parser.add_argument(
@@ -463,10 +468,19 @@ def main() -> int:
     parser.add_argument("--skip-tests", action="store_true")
     parser.add_argument("--commit-title", default="Keep the public contest archive current")
     args = parser.parse_args()
+    if args.repair_reconstruction and args.phase == "download":
+        parser.error("Reconstruction repair cannot use --phase download")
 
     repo = args.repo.resolve()
     branch = args.branch or current_branch(repo)
     transaction = read_transaction(repo)
+    if transaction and transaction.repair_contests is not None:
+        if args.repair_contests not in {"all", transaction.repair_contests}:
+            raise UpdateError("Repair contest selection differs from the interrupted transaction")
+        args.repair_reconstruction = True
+        args.repair_contests = transaction.repair_contests
+    elif transaction and args.repair_reconstruction:
+        raise UpdateError("Finish the existing normal update before starting historical repair")
     if transaction and transaction.phase in {"committed", "publishing"}:
         if not transaction.commit_sha or transaction.commit_sha != current_sha(repo):
             raise UpdateError(
@@ -497,8 +511,12 @@ def main() -> int:
             assert_clean_start(repo)
         base = assert_current(repo, args.remote, branch)
         transaction = Transaction(1, base, branch, args.remote, "prepared")
+        if args.repair_reconstruction:
+            transaction.repair_contests = args.repair_contests
         if args.dry_run:
             print(f"Dry run: base={base} branch={branch} contests={args.contests} last={args.last}")
+            if args.repair_reconstruction:
+                print(f"Historical reconstruction repair: roots={args.repair_contests}; no downloader")
             print("No downloader, state, SH6, commit, or push changes were made.")
             return 0
         write_transaction(repo, transaction)
@@ -508,7 +526,7 @@ def main() -> int:
     migrate_legacy_provider_state(repo)
 
     try:
-        if args.phase in {"all", "download"}:
+        if args.phase in {"all", "download"} and not args.repair_reconstruction:
             transaction.phase = "downloading"
             write_transaction(repo, transaction)
             run_child(
@@ -536,7 +554,12 @@ def main() -> int:
         if args.phase in {"all", "reconstruct"}:
             transaction.phase = "reconstructing"
             write_transaction(repo, transaction)
-            if source_log_changes(repo):
+            if args.repair_reconstruction:
+                command = [sys.executable, "scripts/reconstruct_missing_logs.py", "--historical", "--no-rebuild-shards"]
+                if args.repair_contests != "all":
+                    command.extend(["--contest", args.repair_contests])
+                run_child(repo, command, "historical reconstruction")
+            elif source_log_changes(repo):
                 run_child(
                     repo,
                     [sys.executable, "scripts/reconstruct_missing_logs.py", "--changed-only", "--no-rebuild-shards"],

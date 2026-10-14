@@ -21,7 +21,7 @@ import time
 import urllib.request
 from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 
-from archive_storage import ArchiveInventory, atomic_write_text
+from archive_storage import ARCHIVE_ROOTS, ArchiveInventory, atomic_write_text
 
 
 RECONSTRUCTION_ALGORITHM_VERSION = 6
@@ -554,6 +554,22 @@ def prepare_changed_contest_dirs(
     return prepared
 
 
+def historical_contest_dirs(inventory: ArchiveInventory, include: Optional[Set[str]]):
+    roots = ARCHIVE_ROOTS - {"RECONSTRUCTED_LOGS"}
+    if include:
+        unknown = include - roots
+        if unknown:
+            raise ValueError(f"Unknown contest roots: {', '.join(sorted(unknown))}")
+        roots = include
+    for root in sorted(roots):
+        parents = sorted({path.parent for path in inventory.git_paths(root) if path.suffix.lower() == ".log"})
+        for relative in parents:
+            with tempfile.TemporaryDirectory(prefix="hcla-history-round-") as temporary:
+                workspace = Path(temporary)
+                inventory.materialize_prefix(relative, workspace)
+                yield workspace / relative, relative
+
+
 def reconstruct_contest(
     contest_dir: Path,
     out_dir: Path,
@@ -743,6 +759,10 @@ def _main() -> int:
         help="Reconstruct only source rounds changed from HEAD, materializing their remote logs temporarily.",
     )
     ap.add_argument(
+        "--historical", action="store_true",
+        help="Repair committed historical rounds one at a time, including remote-only logs.",
+    )
+    ap.add_argument(
         "--ledger-root",
         type=Path,
         default=Path("state") / "reconstruction" / "ledgers",
@@ -767,6 +787,10 @@ def _main() -> int:
         help="Skip rebuilding SH6 SQLite shard indexes after reconstruction.",
     )
     args = ap.parse_args()
+    if args.historical and (args.changed_only or args.contest_dir or args.out_dir or args.out_root):
+        ap.error("--historical cannot be combined with alternate input/output directories or --changed-only")
+    if args.historical and not (args.no_rebuild_shards or args.dry_run):
+        ap.error("--historical requires --no-rebuild-shards; use archive_updater.py for incremental indexing")
 
     repo_root = Path(__file__).resolve().parents[1]
     archive_inventory = ArchiveInventory(repo_root)
@@ -783,7 +807,14 @@ def _main() -> int:
 
     contest_rel_paths: dict[Path, Path] = {}
     global _MATERIALIZED_WORKSPACE
-    if args.changed_only:
+    if args.historical:
+        include = {name.strip() for entry in (args.contest or []) for name in entry.split(",") if name.strip()}
+        def historical_paths():
+            for path, relative in historical_contest_dirs(archive_inventory, include or None):
+                contest_rel_paths[path] = relative
+                yield path
+        contest_dirs = historical_paths()
+    elif args.changed_only:
         _MATERIALIZED_WORKSPACE = tempfile.TemporaryDirectory(prefix="hcla-reconstruct-")
         prepared = prepare_changed_contest_dirs(
             repo_root,
@@ -828,6 +859,8 @@ def _main() -> int:
         return out_root / rel
 
     ledger_root = args.ledger_root
+    if not ledger_root.is_absolute():
+        ledger_root = repo_root / ledger_root
     ledger_name = ".reconstructed_ledger.txt"
     if args.ledger:
         if args.ledger.suffix:
@@ -860,8 +893,14 @@ def _main() -> int:
                 use_ledger=use_ledger,
                 skip_unchanged=args.skip_unchanged,
                 inventory=archive_inventory,
-                replace_existing=args.changed_only,
+                replace_existing=args.changed_only or args.historical,
             )
+            if args.historical:
+                # Keep the round alive until its worker finishes, then release
+                # its materialized files before fetching the next round.
+                result = fut.result()
+                print(f"[{source_rel}] historical repair: parsed_qsos={result.parsed_qsos} "
+                      f"output_logs={result.output_logs} skipped_unchanged={result.skipped_unchanged}", flush=True)
             future_map[fut] = (contest_dir, out_dir, source_rel)
 
         for fut in concurrent.futures.as_completed(future_map):
