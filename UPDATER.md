@@ -105,6 +105,32 @@ python3 scripts/archive_updater.py --contests 30 --last all --publish
 To inspect the validated commit before publishing, omit `--publish`. The journal
 records the local commit; rerun with `--publish` to finish publication.
 
+## KVP Duplicate Recovery
+
+All published ZRS KVP spring/autumn ContestIDs are resolved from the official
+season index and owned by the KVP provider at `ZRS_KVP/<year>/<season>/`.
+The generic VHFManager provider skips them. Reference links with `QSOID` can
+identify another station while retaining the origin's `logID`; traversal now
+resolves known seeds and deduplicates referenced-only stations by callsign and
+band instead of treating every contact URL as a new log. Invalid HF rows cannot
+fall back to fabricated 144 MHz logs.
+HF recovery revision 2 revisits previous HF markers once and refreshes stale
+generated content at its existing path; byte-identical files are skipped.
+
+If an older run created untracked KVP copies under `EU_VHF_CONTESTS/*_<id>/`,
+stop that downloader before cleanup. Preview and then quarantine those files
+using an HTTPS-capable Python interpreter:
+
+```sh
+python3 scripts/download_vhfmanager_logs.py --quarantine-kvp --dry-run
+python3 scripts/download_vhfmanager_logs.py --quarantine-kvp
+```
+
+Only untracked misplaced KVP `.log` files are moved. Committed public paths,
+canonical KVP logs, and other contests remain untouched. The printed backup
+directory under `.git/hcla/quarantine/` preserves files and a manifest locally;
+it is not pushed. Resume the normal updater after cleanup.
+
 ## Historical reconstruction repair
 
 Normal updates reconstruct only rounds with changed source logs. To apply newer
