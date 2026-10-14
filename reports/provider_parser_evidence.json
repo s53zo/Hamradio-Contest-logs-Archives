@@ -1,0 +1,2567 @@
+{
+  "audit_date": "2026-10-14",
+  "scope": "Latest published periods; representative samples, not full historical archive completeness",
+  "html_note": "Missing HTML closing tags include non-HTML logs and JSON; this field alone is not a transport failure.",
+  "providers": [
+    {
+      "id": 1,
+      "name": "CQWW (PH/CW)",
+      "candidate_tasks": 18341,
+      "scopes": {
+        "CQWW/ph/2025": 10232,
+        "CQWW/cw/2025": 8109
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 2,
+      "samples": [
+        {
+          "path": "CQWW/ph/2025/2e0cey.log",
+          "indexed_in_production": true,
+          "qso_count": 90,
+          "parsed_qsos": 90
+        },
+        {
+          "path": "CQWW/cw/2025/2e0cey.log",
+          "indexed_in_production": true,
+          "qso_count": 235,
+          "parsed_qsos": 235
+        }
+      ],
+      "production_ledger_records_for_roots": 42,
+      "production_indexed_samples": 2,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 2,
+      "name": "CQWPX (PH/CW)",
+      "candidate_tasks": 13152,
+      "scopes": {
+        "CQWPX/ph/2026": 7746,
+        "CQWPX/cw/2026": 5406
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 2,
+      "samples": [
+        {
+          "path": "CQWPX/ph/2026/2e0cey.log",
+          "indexed_in_production": true,
+          "qso_count": 90,
+          "parsed_qsos": 90
+        },
+        {
+          "path": "CQWPX/cw/2026/2e0cey.log",
+          "indexed_in_production": true,
+          "qso_count": 102,
+          "parsed_qsos": 102
+        }
+      ],
+      "production_ledger_records_for_roots": 38,
+      "production_indexed_samples": 2,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 3,
+      "name": "CQWW RTTY",
+      "candidate_tasks": 3250,
+      "scopes": {
+        "CQWWRTTY/2025": 3250
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 3,
+      "responses_without_html_end": 1,
+      "samples": [
+        {
+          "path": "CQWWRTTY/2025/2e0bln.log",
+          "indexed_in_production": true,
+          "qso_count": 60,
+          "parsed_qsos": 60
+        }
+      ],
+      "production_ledger_records_for_roots": 17,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 4,
+      "name": "CQ 160 (PH/CW)",
+      "candidate_tasks": 2858,
+      "scopes": {
+        "CQ160/cw/2026": 1868,
+        "CQ160/ph/2026": 990
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 2,
+      "samples": [
+        {
+          "path": "CQ160/cw/2026/3v8ll.log",
+          "indexed_in_production": true,
+          "qso_count": 257,
+          "parsed_qsos": 257
+        },
+        {
+          "path": "CQ160/ph/2026/3v8ll.log",
+          "indexed_in_production": true,
+          "qso_count": 308,
+          "parsed_qsos": 308
+        }
+      ],
+      "production_ledger_records_for_roots": 9,
+      "production_indexed_samples": 2,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 5,
+      "name": "CQWPX RTTY",
+      "candidate_tasks": 3016,
+      "scopes": {
+        "CQWPXRTTY/2026": 3016
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 3,
+      "responses_without_html_end": 1,
+      "samples": [
+        {
+          "path": "CQWPXRTTY/2026/2e0bln.log",
+          "indexed_in_production": true,
+          "qso_count": 10,
+          "parsed_qsos": 10
+        }
+      ],
+      "production_ledger_records_for_roots": 15,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 6,
+      "name": "ARRL contests (all)",
+      "candidate_tasks": 28884,
+      "scopes": {
+        "ARRL/arrl_10_ghz_and_up_contest/2025": 156,
+        "ARRL/arrl_10_meter_contest/2025": 6311,
+        "ARRL/arrl_160_meter_contest/2025": 1081,
+        "ARRL/arrl_222_mhz_and_up_distance_contest/2025": 108,
+        "ARRL/arrl_international_digital_contest/2026": 930,
+        "ARRL/arrl_international_dx_cw_contest/2026": 4660,
+        "ARRL/arrl_international_dx_phone_contest/2026": 3813,
+        "ARRL/arrl_international_eme_contest/2025": 242,
+        "ARRL/arrl_january_vhf_contest/2026": 700,
+        "ARRL/arrl_june_vhf_contest/2026": 1195,
+        "ARRL/arrl_november_cw_sweepstakes/2025": 1107,
+        "ARRL/arrl_november_phone_sweepstakes/2025": 1440,
+        "ARRL/arrl_rtty_roundup/2026": 1702,
+        "ARRL/arrl_september_vhf_contest/2025": 556,
+        "ARRL/iaru_hf_world_championship/2025": 4883
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 46,
+      "responses_without_html_end": 15,
+      "samples": [
+        {
+          "path": "ARRL/arrl_10_ghz_and_up_contest/2025/AA1I.log",
+          "indexed_in_production": true,
+          "qso_count": 97,
+          "parsed_qsos": 97
+        },
+        {
+          "path": "ARRL/arrl_10_meter_contest/2025/2E0CVN.log",
+          "indexed_in_production": true,
+          "qso_count": 123,
+          "parsed_qsos": 123
+        },
+        {
+          "path": "ARRL/arrl_160_meter_contest/2025/4U1UN.log",
+          "indexed_in_production": true,
+          "qso_count": 60,
+          "parsed_qsos": 60
+        },
+        {
+          "path": "ARRL/arrl_222_mhz_and_up_distance_contest/2025/AA2SD-R.log",
+          "indexed_in_production": true,
+          "qso_count": 60,
+          "parsed_qsos": 60
+        },
+        {
+          "path": "ARRL/arrl_international_digital_contest/2026/2E0FHM.log",
+          "indexed_in_production": true,
+          "qso_count": 166,
+          "parsed_qsos": 166
+        },
+        {
+          "path": "ARRL/arrl_international_dx_cw_contest/2026/2E0CVN.log",
+          "indexed_in_production": true,
+          "qso_count": 234,
+          "parsed_qsos": 234
+        },
+        {
+          "path": "ARRL/arrl_international_dx_phone_contest/2026/2E0CEY.log",
+          "indexed_in_production": true,
+          "qso_count": 9,
+          "parsed_qsos": 9
+        },
+        {
+          "path": "ARRL/arrl_international_eme_contest/2025/4X1AJ.log",
+          "indexed_in_production": true,
+          "qso_count": 4,
+          "parsed_qsos": 4
+        },
+        {
+          "path": "ARRL/arrl_january_vhf_contest/2026/4U1WB.log",
+          "indexed_in_production": true,
+          "qso_count": 36,
+          "parsed_qsos": 36
+        },
+        {
+          "path": "ARRL/arrl_june_vhf_contest/2026/AA0FO.log",
+          "indexed_in_production": true,
+          "qso_count": 100,
+          "parsed_qsos": 100
+        },
+        {
+          "path": "ARRL/arrl_november_cw_sweepstakes/2025/AA0AW.log",
+          "indexed_in_production": true,
+          "qso_count": 456,
+          "parsed_qsos": 456
+        },
+        {
+          "path": "ARRL/arrl_november_phone_sweepstakes/2025/4U1WB.log",
+          "indexed_in_production": true,
+          "qso_count": 346,
+          "parsed_qsos": 346
+        },
+        {
+          "path": "ARRL/arrl_rtty_roundup/2026/3V8LL.log",
+          "indexed_in_production": true,
+          "qso_count": 910,
+          "parsed_qsos": 910
+        },
+        {
+          "path": "ARRL/arrl_september_vhf_contest/2025/3G7RLN.log",
+          "indexed_in_production": true,
+          "qso_count": 21,
+          "parsed_qsos": 21
+        },
+        {
+          "path": "ARRL/iaru_hf_world_championship/2025/2E0GKW.log",
+          "indexed_in_production": true,
+          "qso_count": 53,
+          "parsed_qsos": 53
+        }
+      ],
+      "production_ledger_records_for_roots": 119,
+      "production_indexed_samples": 15,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 7,
+      "name": "ZRS KVP (pomlad/jesen)",
+      "candidate_tasks": 165,
+      "scopes": {
+        "ZRS_KVP/2026/pomlad": 165
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 35,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "ZRS_KVP/2026/pomlad/S53F.log",
+          "indexed_in_production": true,
+          "qso_count": 199,
+          "parsed_qsos": 199
+        }
+      ],
+      "production_ledger_records_for_roots": 28,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 8,
+      "name": "EUHFC (reconstructed from UBN)",
+      "candidate_tasks": 2856,
+      "scopes": {
+        "EUHFC/2025": 2856
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 15,
+      "responses_without_html_end": 1,
+      "samples": [
+        {
+          "path": "EUHFC/2025/LZ2XA.log",
+          "indexed_in_production": true,
+          "qso_count": 19,
+          "parsed_qsos": 19
+        }
+      ],
+      "production_ledger_records_for_roots": 29,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": true
+    },
+    {
+      "id": 9,
+      "name": "WAE (CW/SSB/RTTY)",
+      "candidate_tasks": 4649,
+      "scopes": {
+        "WAE/CW/2026": 1374,
+        "WAE/SSB/2025": 1985,
+        "WAE/RTTY/2025": 1290
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 18,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "WAE/CW/2026/OL5Y.log",
+          "indexed_in_production": true,
+          "qso_count": 937,
+          "parsed_qsos": 937
+        },
+        {
+          "path": "WAE/SSB/2025/DA2R.log",
+          "indexed_in_production": true,
+          "qso_count": 531,
+          "parsed_qsos": 531
+        },
+        {
+          "path": "WAE/RTTY/2025/TM3Z.log",
+          "indexed_in_production": true,
+          "qso_count": 1561,
+          "parsed_qsos": 1561
+        }
+      ],
+      "production_ledger_records_for_roots": 30,
+      "production_indexed_samples": 3,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 10,
+      "name": "VHFManager contests",
+      "candidate_tasks": 20,
+      "scopes": {
+        "EU_VHF_CONTESTS/zrs_septembrsko_ukv_tekmovanje_unofficial_results_vhfmanager_492": 1,
+        "EU_VHF_CONTESTS/zrs_maraton_8_termin_unofficial_results_vhfmanager_491": 1,
+        "EU_VHF_CONTESTS/alpe_adria_vhf_official_results_vhfmanager_490": 1,
+        "EU_VHF_CONTESTS/zrs_maraton_7_termin_unofficial_results_vhfmanager_488": 1,
+        "EU_VHF_CONTESTS/zrs_70_mhz_tekmovanje_official_results_vhfmanager_487": 1,
+        "EU_VHF_CONTESTS/zrs_julijsko_ukv_tekmovanje_official_results_vhfmanager_486": 1,
+        "EU_VHF_CONTESTS/zrs_maraton_6_termin_unofficial_results_vhfmanager_485": 1,
+        "EU_VHF_CONTESTS/alpe_adria_uhf_shf_official_results_vhfmanager_484": 1,
+        "EU_VHF_CONTESTS/zrs_50_mhz_tekmovanje_official_results_vhfmanager_483": 1,
+        "EU_VHF_CONTESTS/zrs_junijsko_ukv_tekmovanje_official_results_vhfmanager_481": 1,
+        "EU_VHF_CONTESTS/zrs_maraton_5_termin_unofficial_results_vhfmanager_480": 1,
+        "EU_VHF_CONTESTS/zrs_majsko_ukv_tekmovanje_official_results_vhfmanager_479": 1,
+        "EU_VHF_CONTESTS/official_results_ar_memorial_2026_478": 1,
+        "EU_VHF_CONTESTS/zrs_maraton_4_termin_unofficial_results_vhfmanager_477": 1,
+        "EU_VHF_CONTESTS/unofficial_results_2026_476": 1,
+        "EU_VHF_CONTESTS/zrs_maraton_3_termin_unofficial_results_vhfmanager_475": 1,
+        "EU_VHF_CONTESTS/zrs_mar_evsko_ukv_tekmovanje_official_results_vhfmanager_474": 1,
+        "EU_VHF_CONTESTS/zrs_maraton_2_termin_unofficial_results_vhfmanager_473": 1,
+        "EU_VHF_CONTESTS/zrs_maraton_1_termin_unofficial_results_vhfmanager_472": 1,
+        "WW_PMC/ww_pmc_2026_471": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 153,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_September_2026/144MHz/S59DEM.log",
+          "indexed_in_production": true,
+          "qso_count": 871,
+          "parsed_qsos": 871
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/50MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 54,
+          "parsed_qsos": 54
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/70MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 4,
+          "parsed_qsos": 4
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/144MHz/9A0V.log",
+          "indexed_in_production": true,
+          "qso_count": 190,
+          "parsed_qsos": 190
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/435MHz/S56P.log",
+          "indexed_in_production": true,
+          "qso_count": 68,
+          "parsed_qsos": 68
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/1300MHz/9A8D.log",
+          "indexed_in_production": true,
+          "qso_count": 18,
+          "parsed_qsos": 18
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/5700MHz/YR8Y.log",
+          "indexed_in_production": true,
+          "qso_count": 22,
+          "parsed_qsos": 22
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/10000MHz/YO8OY_P.log",
+          "indexed_in_production": true,
+          "qso_count": 9,
+          "parsed_qsos": 9
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/24000MHz/YO8PS_P.log",
+          "indexed_in_production": true,
+          "qso_count": 6,
+          "parsed_qsos": 6
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_8/47000MHz/YO8PS_P.log",
+          "indexed_in_production": true,
+          "qso_count": 4,
+          "parsed_qsos": 4
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_vhf_490/144MHz/S59DEM.log",
+          "indexed_in_production": false,
+          "qso_count": 454,
+          "parsed_qsos": 454
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/50MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 29,
+          "parsed_qsos": 29
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/70MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 43,
+          "parsed_qsos": 43
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/144MHz/9A0V.log",
+          "indexed_in_production": true,
+          "qso_count": 187,
+          "parsed_qsos": 187
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/435MHz/S56P.log",
+          "indexed_in_production": true,
+          "qso_count": 70,
+          "parsed_qsos": 70
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/1300MHz/OM2RC.log",
+          "indexed_in_production": true,
+          "qso_count": 21,
+          "parsed_qsos": 21
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/3400MHz/OM2RC.log",
+          "indexed_in_production": true,
+          "qso_count": 1,
+          "parsed_qsos": 1
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/5700MHz/YO8OY_P.log",
+          "indexed_in_production": true,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/10000MHz/YO8OY_P.log",
+          "indexed_in_production": true,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_7/24000MHz/YO8OY_P.log",
+          "indexed_in_production": true,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_70_MHz_tekmovanje_2026/70MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 46,
+          "parsed_qsos": 46
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_July_2026/144MHz/S59DEM.log",
+          "indexed_in_production": true,
+          "qso_count": 697,
+          "parsed_qsos": 697
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_July_2026/435MHz/S50C.log",
+          "indexed_in_production": true,
+          "qso_count": 242,
+          "parsed_qsos": 242
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_July_2026/1300MHz/S59DGO.log",
+          "indexed_in_production": true,
+          "qso_count": 107,
+          "parsed_qsos": 107
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_July_2026/3400MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 4,
+          "parsed_qsos": 4
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_July_2026/5700MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 8,
+          "parsed_qsos": 8
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_July_2026/10000MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 17,
+          "parsed_qsos": 17
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_July_2026/24000MHz/S51ZO.log",
+          "indexed_in_production": true,
+          "qso_count": 1,
+          "parsed_qsos": 1
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/50MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 59,
+          "parsed_qsos": 59
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/70MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 16,
+          "parsed_qsos": 16
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/144MHz/9A0V.log",
+          "indexed_in_production": true,
+          "qso_count": 200,
+          "parsed_qsos": 200
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/435MHz/S50C.log",
+          "indexed_in_production": true,
+          "qso_count": 142,
+          "parsed_qsos": 142
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/1300MHz/S59DGO.log",
+          "indexed_in_production": true,
+          "qso_count": 56,
+          "parsed_qsos": 56
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/5700MHz/YO8PS_P.log",
+          "indexed_in_production": true,
+          "qso_count": 5,
+          "parsed_qsos": 5
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/10000MHz/YO8PS_P.log",
+          "indexed_in_production": true,
+          "qso_count": 5,
+          "parsed_qsos": 5
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/24000MHz/YO8RHM_P.log",
+          "indexed_in_production": true,
+          "qso_count": 7,
+          "parsed_qsos": 7
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_6/47000MHz/YO8OY_P.log",
+          "indexed_in_production": true,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/435MHz/IQ4CT.log",
+          "indexed_in_production": false,
+          "qso_count": 134,
+          "parsed_qsos": 134
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/1300MHz/OK2KKW.log",
+          "indexed_in_production": false,
+          "qso_count": 53,
+          "parsed_qsos": 53
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/3400MHz/OK2KKW.log",
+          "indexed_in_production": false,
+          "qso_count": 10,
+          "parsed_qsos": 10
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/5700MHz/OE5VRL.log",
+          "indexed_in_production": false,
+          "qso_count": 8,
+          "parsed_qsos": 8
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/10000MHz/OE5VRL.log",
+          "indexed_in_production": false,
+          "qso_count": 34,
+          "parsed_qsos": 34
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/24000MHz/YO8RHM_P.log",
+          "indexed_in_production": false,
+          "qso_count": 7,
+          "parsed_qsos": 7
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/47000MHz/OE5VRL.log",
+          "indexed_in_production": false,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/76000MHz/OE5VRL.log",
+          "indexed_in_production": false,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "EU_VHF_CONTESTS/alpe_adria_uhf_shf_484/120000MHz/OE6PJF_P.log",
+          "indexed_in_production": false,
+          "qso_count": 3,
+          "parsed_qsos": 3
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_50_MHz_tekmovanje_2026/50MHz/S53M.log",
+          "indexed_in_production": true,
+          "qso_count": 144,
+          "parsed_qsos": 144
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_June_2026/144MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 128,
+          "parsed_qsos": 128
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_June_2026/435MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 32,
+          "parsed_qsos": 32
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_June_2026/1300MHz/S59DGO.log",
+          "indexed_in_production": true,
+          "qso_count": 98,
+          "parsed_qsos": 98
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_June_2026/3400MHz/S51ZO.log",
+          "indexed_in_production": true,
+          "qso_count": 9,
+          "parsed_qsos": 9
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_June_2026/5700MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 8,
+          "parsed_qsos": 8
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_June_2026/10000MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 14,
+          "parsed_qsos": 14
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_5/50MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 11,
+          "parsed_qsos": 11
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_5/70MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 6,
+          "parsed_qsos": 6
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_5/144MHz/9A0V.log",
+          "indexed_in_production": true,
+          "qso_count": 197,
+          "parsed_qsos": 197
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_5/435MHz/S56P.log",
+          "indexed_in_production": true,
+          "qso_count": 71,
+          "parsed_qsos": 71
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_5/1300MHz/OM2RC.log",
+          "indexed_in_production": true,
+          "qso_count": 14,
+          "parsed_qsos": 14
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_5/10000MHz/9A8D.log",
+          "indexed_in_production": true,
+          "qso_count": 1,
+          "parsed_qsos": 1
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_May_2026/144MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 619,
+          "parsed_qsos": 619
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_May_2026/435MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 160,
+          "parsed_qsos": 160
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_May_2026/1300MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 66,
+          "parsed_qsos": 66
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_May_2026/3400MHz/S59DMJ.log",
+          "indexed_in_production": true,
+          "qso_count": 1,
+          "parsed_qsos": 1
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_May_2026/5700MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 9,
+          "parsed_qsos": 9
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_May_2026/10000MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 16,
+          "parsed_qsos": 16
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ar_memorial_2026_478/HF/S51Z.log",
+          "indexed_in_production": false,
+          "qso_count": 96,
+          "parsed_qsos": 96
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_4/50MHz/S51TX.log",
+          "indexed_in_production": true,
+          "qso_count": 3,
+          "parsed_qsos": 3
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_4/70MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 7,
+          "parsed_qsos": 7
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_4/144MHz/9A0V.log",
+          "indexed_in_production": true,
+          "qso_count": 204,
+          "parsed_qsos": 204
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_4/435MHz/S56P.log",
+          "indexed_in_production": true,
+          "qso_count": 60,
+          "parsed_qsos": 60
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_4/1300MHz/9A8D.log",
+          "indexed_in_production": true,
+          "qso_count": 14,
+          "parsed_qsos": 14
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_4/10000MHz/9A8D.log",
+          "indexed_in_production": true,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "EU_VHF_CONTESTS/un_2026_476/HF/S53F.log",
+          "indexed_in_production": false,
+          "qso_count": 199,
+          "parsed_qsos": 199
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_3/50MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 10,
+          "parsed_qsos": 10
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_3/70MHz/9A1I.log",
+          "indexed_in_production": true,
+          "qso_count": 8,
+          "parsed_qsos": 8
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_3/144MHz/9A1N.log",
+          "indexed_in_production": true,
+          "qso_count": 171,
+          "parsed_qsos": 171
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_3/435MHz/S56P.log",
+          "indexed_in_production": true,
+          "qso_count": 62,
+          "parsed_qsos": 62
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_3/1300MHz/S51WX.log",
+          "indexed_in_production": true,
+          "qso_count": 9,
+          "parsed_qsos": 9
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_3/5700MHz/YO3GNF.log",
+          "indexed_in_production": true,
+          "qso_count": 3,
+          "parsed_qsos": 3
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_3/10000MHz/YO3GNF.log",
+          "indexed_in_production": true,
+          "qso_count": 4,
+          "parsed_qsos": 4
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_3/24000MHz/YO3GNF.log",
+          "indexed_in_production": true,
+          "qso_count": 1,
+          "parsed_qsos": 1
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_March_2026/144MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 437,
+          "parsed_qsos": 437
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_March_2026/435MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 142,
+          "parsed_qsos": 142
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_March_2026/1300MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 56,
+          "parsed_qsos": 56
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_March_2026/3400MHz/S51ZO.log",
+          "indexed_in_production": true,
+          "qso_count": 5,
+          "parsed_qsos": 5
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_March_2026/5700MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 5,
+          "parsed_qsos": 5
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_March_2026/10000MHz/S59P.log",
+          "indexed_in_production": true,
+          "qso_count": 8,
+          "parsed_qsos": 8
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_2/50MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 12,
+          "parsed_qsos": 12
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_2/70MHz/S51DI.log",
+          "indexed_in_production": true,
+          "qso_count": 5,
+          "parsed_qsos": 5
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_2/144MHz/S59K.log",
+          "indexed_in_production": true,
+          "qso_count": 102,
+          "parsed_qsos": 102
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_2/435MHz/S56P.log",
+          "indexed_in_production": true,
+          "qso_count": 49,
+          "parsed_qsos": 49
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_2/1300MHz/9A8D.log",
+          "indexed_in_production": true,
+          "qso_count": 11,
+          "parsed_qsos": 11
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_2/10000MHz/9A8D.log",
+          "indexed_in_production": true,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_1/50MHz/S51DI.log",
+          "indexed_in_production": false,
+          "qso_count": 12,
+          "parsed_qsos": 12
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_1/70MHz/S51DI.log",
+          "indexed_in_production": false,
+          "qso_count": 5,
+          "parsed_qsos": 5
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_1/144MHz/9A0V.log",
+          "indexed_in_production": false,
+          "qso_count": 143,
+          "parsed_qsos": 143
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_1/435MHz/9A0V.log",
+          "indexed_in_production": false,
+          "qso_count": 32,
+          "parsed_qsos": 32
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_1/1300MHz/9A8D.log",
+          "indexed_in_production": false,
+          "qso_count": 10,
+          "parsed_qsos": 10
+        },
+        {
+          "path": "EU_VHF_CONTESTS/ZRS_Maraton/2026/Termin_1/10000MHz/9A8D.log",
+          "indexed_in_production": false,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "WW_PMC/2026/EU5C.log",
+          "indexed_in_production": true,
+          "qso_count": 561,
+          "parsed_qsos": 561
+        }
+      ],
+      "production_ledger_records_for_roots": 449,
+      "production_indexed_samples": 82,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 11,
+      "name": "Wednesday Mini-Test 40m (UA9QCQ UBN)",
+      "candidate_tasks": 41,
+      "scopes": {
+        "WednesdayMiniTest40m/2026-10-14": 1,
+        "WednesdayMiniTest40m/2026-10-07": 1,
+        "WednesdayMiniTest40m/2026-09-30": 1,
+        "WednesdayMiniTest40m/2026-09-23": 1,
+        "WednesdayMiniTest40m/2026-09-16": 1,
+        "WednesdayMiniTest40m/2026-09-09": 1,
+        "WednesdayMiniTest40m/2026-09-02": 1,
+        "WednesdayMiniTest40m/2026-08-26": 1,
+        "WednesdayMiniTest40m/2026-08-19": 1,
+        "WednesdayMiniTest40m/2026-08-12": 1,
+        "WednesdayMiniTest40m/2026-08-05": 1,
+        "WednesdayMiniTest40m/2026-07-29": 1,
+        "WednesdayMiniTest40m/2026-07-22": 1,
+        "WednesdayMiniTest40m/2026-07-15": 1,
+        "WednesdayMiniTest40m/2026-07-08": 1,
+        "WednesdayMiniTest40m/2026-07-01": 1,
+        "WednesdayMiniTest40m/2026-06-24": 1,
+        "WednesdayMiniTest40m/2026-06-17": 1,
+        "WednesdayMiniTest40m/2026-06-10": 1,
+        "WednesdayMiniTest40m/2026-06-03": 1,
+        "WednesdayMiniTest40m/2026-05-27": 1,
+        "WednesdayMiniTest40m/2026-05-20": 1,
+        "WednesdayMiniTest40m/2026-05-13": 1,
+        "WednesdayMiniTest40m/2026-05-06": 1,
+        "WednesdayMiniTest40m/2026-04-29": 1,
+        "WednesdayMiniTest40m/2026-04-22": 1,
+        "WednesdayMiniTest40m/2026-04-15": 1,
+        "WednesdayMiniTest40m/2026-04-08": 1,
+        "WednesdayMiniTest40m/2026-04-01": 1,
+        "WednesdayMiniTest40m/2026-03-25": 1,
+        "WednesdayMiniTest40m/2026-03-18": 1,
+        "WednesdayMiniTest40m/2026-03-11": 1,
+        "WednesdayMiniTest40m/2026-03-04": 1,
+        "WednesdayMiniTest40m/2026-02-25": 1,
+        "WednesdayMiniTest40m/2026-02-18": 1,
+        "WednesdayMiniTest40m/2026-02-11": 1,
+        "WednesdayMiniTest40m/2026-02-04": 1,
+        "WednesdayMiniTest40m/2026-01-28": 1,
+        "WednesdayMiniTest40m/2026-01-21": 1,
+        "WednesdayMiniTest40m/2026-01-14": 1,
+        "WednesdayMiniTest40m/2026-01-07": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "WednesdayMiniTest40m/2026-10-14/HG5E.log",
+          "indexed_in_production": false,
+          "qso_count": 176,
+          "parsed_qsos": 176
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-10-07/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 185,
+          "parsed_qsos": 185
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-09-30/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 176,
+          "parsed_qsos": 176
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-09-23/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 176,
+          "parsed_qsos": 176
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-09-16/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 186,
+          "parsed_qsos": 186
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-09-09/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 179,
+          "parsed_qsos": 179
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-09-02/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 179,
+          "parsed_qsos": 179
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-08-26/LZ8E.log",
+          "indexed_in_production": true,
+          "qso_count": 178,
+          "parsed_qsos": 178
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-08-19/LZ8E.log",
+          "indexed_in_production": true,
+          "qso_count": 172,
+          "parsed_qsos": 172
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-08-12/RT4M.log",
+          "indexed_in_production": true,
+          "qso_count": 166,
+          "parsed_qsos": 166
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-08-05/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 171,
+          "parsed_qsos": 171
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-07-29/OL8R.log",
+          "indexed_in_production": true,
+          "qso_count": 191,
+          "parsed_qsos": 191
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-07-22/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 162,
+          "parsed_qsos": 162
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-07-15/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 155,
+          "parsed_qsos": 155
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-07-08/S53F.log",
+          "indexed_in_production": true,
+          "qso_count": 170,
+          "parsed_qsos": 170
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-07-01/RD4A.log",
+          "indexed_in_production": true,
+          "qso_count": 156,
+          "parsed_qsos": 156
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-06-24/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 168,
+          "parsed_qsos": 168
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-06-17/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 183,
+          "parsed_qsos": 183
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-06-10/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 156,
+          "parsed_qsos": 156
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-06-03/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 164,
+          "parsed_qsos": 164
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-05-27/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 180,
+          "parsed_qsos": 180
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-05-20/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 166,
+          "parsed_qsos": 166
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-05-13/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 179,
+          "parsed_qsos": 179
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-05-06/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 176,
+          "parsed_qsos": 176
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-04-29/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 177,
+          "parsed_qsos": 177
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-04-22/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 178,
+          "parsed_qsos": 178
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-04-15/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 179,
+          "parsed_qsos": 179
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-04-08/HA9A.log",
+          "indexed_in_production": true,
+          "qso_count": 176,
+          "parsed_qsos": 176
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-04-01/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 174,
+          "parsed_qsos": 174
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-03-25/OL8R.log",
+          "indexed_in_production": true,
+          "qso_count": 206,
+          "parsed_qsos": 206
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-03-18/OL8R.log",
+          "indexed_in_production": true,
+          "qso_count": 211,
+          "parsed_qsos": 211
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-03-11/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 173,
+          "parsed_qsos": 173
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-03-04/OL8R.log",
+          "indexed_in_production": true,
+          "qso_count": 198,
+          "parsed_qsos": 198
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-02-25/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 161,
+          "parsed_qsos": 161
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-02-18/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 164,
+          "parsed_qsos": 164
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-02-11/OL8R.log",
+          "indexed_in_production": true,
+          "qso_count": 193,
+          "parsed_qsos": 193
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-02-04/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 156,
+          "parsed_qsos": 156
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-01-28/PA3AAV.log",
+          "indexed_in_production": true,
+          "qso_count": 157,
+          "parsed_qsos": 157
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-01-21/LZ8E.log",
+          "indexed_in_production": true,
+          "qso_count": 142,
+          "parsed_qsos": 142
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-01-14/LZ8E.log",
+          "indexed_in_production": true,
+          "qso_count": 124,
+          "parsed_qsos": 124
+        },
+        {
+          "path": "WednesdayMiniTest40m/2026-01-07/HG5E.log",
+          "indexed_in_production": true,
+          "qso_count": 129,
+          "parsed_qsos": 129
+        }
+      ],
+      "production_ledger_records_for_roots": 7,
+      "production_indexed_samples": 40,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 12,
+      "name": "Russian DX Contest (UA9QCQ UBN)",
+      "candidate_tasks": 1,
+      "scopes": {
+        "RussianDXContest/2026": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "RussianDXContest/2026/P3N.log",
+          "indexed_in_production": true,
+          "qso_count": 2873,
+          "parsed_qsos": 2873
+        }
+      ],
+      "production_ledger_records_for_roots": 7,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 13,
+      "name": "Wednesday Mini-Test 80m (UA9QCQ UBN)",
+      "candidate_tasks": 41,
+      "scopes": {
+        "WednesdayMiniTest80m/2026-10-14": 1,
+        "WednesdayMiniTest80m/2026-10-07": 1,
+        "WednesdayMiniTest80m/2026-09-30": 1,
+        "WednesdayMiniTest80m/2026-09-23": 1,
+        "WednesdayMiniTest80m/2026-09-16": 1,
+        "WednesdayMiniTest80m/2026-09-09": 1,
+        "WednesdayMiniTest80m/2026-09-02": 1,
+        "WednesdayMiniTest80m/2026-08-26": 1,
+        "WednesdayMiniTest80m/2026-08-19": 1,
+        "WednesdayMiniTest80m/2026-08-12": 1,
+        "WednesdayMiniTest80m/2026-08-05": 1,
+        "WednesdayMiniTest80m/2026-07-29": 1,
+        "WednesdayMiniTest80m/2026-07-22": 1,
+        "WednesdayMiniTest80m/2026-07-15": 1,
+        "WednesdayMiniTest80m/2026-07-08": 1,
+        "WednesdayMiniTest80m/2026-07-01": 1,
+        "WednesdayMiniTest80m/2026-06-24": 1,
+        "WednesdayMiniTest80m/2026-06-17": 1,
+        "WednesdayMiniTest80m/2026-06-10": 1,
+        "WednesdayMiniTest80m/2026-06-03": 1,
+        "WednesdayMiniTest80m/2026-05-27": 1,
+        "WednesdayMiniTest80m/2026-05-20": 1,
+        "WednesdayMiniTest80m/2026-05-13": 1,
+        "WednesdayMiniTest80m/2026-05-06": 1,
+        "WednesdayMiniTest80m/2026-04-29": 1,
+        "WednesdayMiniTest80m/2026-04-22": 1,
+        "WednesdayMiniTest80m/2026-04-15": 1,
+        "WednesdayMiniTest80m/2026-04-08": 1,
+        "WednesdayMiniTest80m/2026-04-01": 1,
+        "WednesdayMiniTest80m/2026-03-25": 1,
+        "WednesdayMiniTest80m/2026-03-18": 1,
+        "WednesdayMiniTest80m/2026-03-11": 1,
+        "WednesdayMiniTest80m/2026-03-04": 1,
+        "WednesdayMiniTest80m/2026-02-25": 1,
+        "WednesdayMiniTest80m/2026-02-18": 1,
+        "WednesdayMiniTest80m/2026-02-11": 1,
+        "WednesdayMiniTest80m/2026-02-04": 1,
+        "WednesdayMiniTest80m/2026-01-28": 1,
+        "WednesdayMiniTest80m/2026-01-21": 1,
+        "WednesdayMiniTest80m/2026-01-14": 1,
+        "WednesdayMiniTest80m/2026-01-07": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "WednesdayMiniTest80m/2026-10-14/UI7D.log",
+          "indexed_in_production": false,
+          "qso_count": 22,
+          "parsed_qsos": 22
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-10-07/RX3Q.log",
+          "indexed_in_production": true,
+          "qso_count": 108,
+          "parsed_qsos": 108
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-09-30/R3EC.log",
+          "indexed_in_production": true,
+          "qso_count": 133,
+          "parsed_qsos": 133
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-09-23/RT4M.log",
+          "indexed_in_production": true,
+          "qso_count": 117,
+          "parsed_qsos": 117
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-09-16/R2ZU.log",
+          "indexed_in_production": true,
+          "qso_count": 111,
+          "parsed_qsos": 111
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-09-09/R3EA.log",
+          "indexed_in_production": true,
+          "qso_count": 109,
+          "parsed_qsos": 109
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-09-02/R3EA.log",
+          "indexed_in_production": true,
+          "qso_count": 96,
+          "parsed_qsos": 96
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-08-26/RX3Q.log",
+          "indexed_in_production": true,
+          "qso_count": 106,
+          "parsed_qsos": 106
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-08-19/UA3MIF.log",
+          "indexed_in_production": true,
+          "qso_count": 120,
+          "parsed_qsos": 120
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-08-12/RN3AC.log",
+          "indexed_in_production": true,
+          "qso_count": 95,
+          "parsed_qsos": 95
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-08-05/R3EC.log",
+          "indexed_in_production": true,
+          "qso_count": 123,
+          "parsed_qsos": 123
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-07-29/R2ZU.log",
+          "indexed_in_production": true,
+          "qso_count": 107,
+          "parsed_qsos": 107
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-07-22/R3EA.log",
+          "indexed_in_production": true,
+          "qso_count": 98,
+          "parsed_qsos": 98
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-07-15/R3EC.log",
+          "indexed_in_production": true,
+          "qso_count": 76,
+          "parsed_qsos": 76
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-07-08/RL3O.log",
+          "indexed_in_production": true,
+          "qso_count": 101,
+          "parsed_qsos": 101
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-07-01/RT4M.log",
+          "indexed_in_production": true,
+          "qso_count": 81,
+          "parsed_qsos": 81
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-06-24/RX3Q.log",
+          "indexed_in_production": true,
+          "qso_count": 109,
+          "parsed_qsos": 109
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-06-17/UI7D.log",
+          "indexed_in_production": true,
+          "qso_count": 121,
+          "parsed_qsos": 121
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-06-10/R2ZU.log",
+          "indexed_in_production": true,
+          "qso_count": 26,
+          "parsed_qsos": 26
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-06-03/R7AO.log",
+          "indexed_in_production": true,
+          "qso_count": 77,
+          "parsed_qsos": 77
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-05-27/R3EC.log",
+          "indexed_in_production": true,
+          "qso_count": 99,
+          "parsed_qsos": 99
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-05-20/RL3O.log",
+          "indexed_in_production": true,
+          "qso_count": 117,
+          "parsed_qsos": 117
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-05-13/RT3N.log",
+          "indexed_in_production": true,
+          "qso_count": 115,
+          "parsed_qsos": 115
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-05-06/EU1AI.log",
+          "indexed_in_production": true,
+          "qso_count": 84,
+          "parsed_qsos": 84
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-04-29/R3GG.log",
+          "indexed_in_production": true,
+          "qso_count": 140,
+          "parsed_qsos": 140
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-04-22/R3GG.log",
+          "indexed_in_production": true,
+          "qso_count": 161,
+          "parsed_qsos": 161
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-04-15/LZ5DI.log",
+          "indexed_in_production": true,
+          "qso_count": 163,
+          "parsed_qsos": 163
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-04-08/R3EC.log",
+          "indexed_in_production": true,
+          "qso_count": 159,
+          "parsed_qsos": 159
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-04-01/R3GG.log",
+          "indexed_in_production": true,
+          "qso_count": 153,
+          "parsed_qsos": 153
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-03-25/R3GG.log",
+          "indexed_in_production": true,
+          "qso_count": 152,
+          "parsed_qsos": 152
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-03-18/RD4A.log",
+          "indexed_in_production": true,
+          "qso_count": 145,
+          "parsed_qsos": 145
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-03-11/RD4A.log",
+          "indexed_in_production": true,
+          "qso_count": 146,
+          "parsed_qsos": 146
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-03-04/R3GG.log",
+          "indexed_in_production": true,
+          "qso_count": 153,
+          "parsed_qsos": 153
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-02-25/RD4A.log",
+          "indexed_in_production": true,
+          "qso_count": 161,
+          "parsed_qsos": 161
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-02-18/EW1M.log",
+          "indexed_in_production": true,
+          "qso_count": 161,
+          "parsed_qsos": 161
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-02-11/RD4A.log",
+          "indexed_in_production": true,
+          "qso_count": 160,
+          "parsed_qsos": 160
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-02-04/EW8DX.log",
+          "indexed_in_production": true,
+          "qso_count": 146,
+          "parsed_qsos": 146
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-01-28/RD4A.log",
+          "indexed_in_production": true,
+          "qso_count": 147,
+          "parsed_qsos": 147
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-01-21/R3EC.log",
+          "indexed_in_production": true,
+          "qso_count": 144,
+          "parsed_qsos": 144
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-01-14/UA6Y.log",
+          "indexed_in_production": true,
+          "qso_count": 140,
+          "parsed_qsos": 140
+        },
+        {
+          "path": "WednesdayMiniTest80m/2026-01-07/RD4A.log",
+          "indexed_in_production": true,
+          "qso_count": 135,
+          "parsed_qsos": 135
+        }
+      ],
+      "production_ledger_records_for_roots": 7,
+      "production_indexed_samples": 40,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 14,
+      "name": "RF Championship CW (UA9QCQ UBN)",
+      "candidate_tasks": 1,
+      "scopes": {
+        "RFChampionshipCW/2026": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "RFChampionshipCW/2026/RT6A.log",
+          "indexed_in_production": true,
+          "qso_count": 1055,
+          "parsed_qsos": 1055
+        }
+      ],
+      "production_ledger_records_for_roots": 9,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 15,
+      "name": "Ham Spirit Contest (UA9QCQ UBN)",
+      "candidate_tasks": 1,
+      "scopes": {
+        "HamSpiritContest/2025": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "HamSpiritContest/2025/RG9A.log",
+          "indexed_in_production": true,
+          "qso_count": 1516,
+          "parsed_qsos": 1516
+        }
+      ],
+      "production_ledger_records_for_roots": 2,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 17,
+      "name": "RCC Cup (UA9QCQ UBN)",
+      "candidate_tasks": 1,
+      "scopes": {
+        "RCCCup/2026": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "RCCCup/2026/4U1A.log",
+          "indexed_in_production": true,
+          "qso_count": 325,
+          "parsed_qsos": 325
+        }
+      ],
+      "production_ledger_records_for_roots": 9,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 18,
+      "name": "RDA Contest (UA9QCQ UBN)",
+      "candidate_tasks": 1,
+      "scopes": {
+        "RDAContest/2023": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "RDAContest/2023/HA3LN.log",
+          "indexed_in_production": true,
+          "qso_count": 1475,
+          "parsed_qsos": 1475
+        }
+      ],
+      "production_ledger_records_for_roots": 6,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 19,
+      "name": "Russian Radio Team Championship (UA9QCQ UBN)",
+      "candidate_tasks": 1,
+      "scopes": {
+        "RussianRadioTeamChampionship/2026": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "RussianRadioTeamChampionship/2026/P33W.log",
+          "indexed_in_production": true,
+          "qso_count": 928,
+          "parsed_qsos": 928
+        }
+      ],
+      "production_ledger_records_for_roots": 9,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 20,
+      "name": "Yuri Gagarin International DX Contest (UA9QCQ UBN)",
+      "candidate_tasks": 1,
+      "scopes": {
+        "YuriGagarinDXContest/2026": 1
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "YuriGagarinDXContest/2026/RT3F.log",
+          "indexed_in_production": true,
+          "qso_count": 3844,
+          "parsed_qsos": 3844
+        }
+      ],
+      "production_ledger_records_for_roots": 8,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 21,
+      "name": "Coupe du REF (French HF Championship, CW/SSB)",
+      "candidate_tasks": 2149,
+      "scopes": {
+        "REF/2026/CW": 960,
+        "REF/2026/SSB": 1189
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 4,
+      "responses_without_html_end": 2,
+      "samples": [
+        {
+          "path": "REF/2026/CW/2E0LMI.log",
+          "indexed_in_production": true,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "REF/2026/SSB/2E0BLN.log",
+          "indexed_in_production": true,
+          "qso_count": 5,
+          "parsed_qsos": 5
+        }
+      ],
+      "production_ledger_records_for_roots": 34,
+      "production_indexed_samples": 2,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 22,
+      "name": "EUDX Contest (public logs)",
+      "candidate_tasks": 1975,
+      "scopes": {
+        "EUDX_contest/2026": 1975
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 42,
+      "responses_without_html_end": 1,
+      "samples": [
+        {
+          "path": "EUDX_contest/2026/2E0CVN.log",
+          "indexed_in_production": true,
+          "qso_count": 536,
+          "parsed_qsos": 536
+        }
+      ],
+      "production_ledger_records_for_roots": 3,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 23,
+      "name": "OK Contest (CW/SSB) + OK-OM DX Contest (CW/SSB) + OK DX RTTY Contest",
+      "candidate_tasks": 2071,
+      "scopes": {
+        "OK_Contest/2026/SSB": 21,
+        "OK_Contest/2026/CW": 31,
+        "OK_OM_DX_Contest/2026/SSB": 305,
+        "OK_DX_RTTY_contest/2025": 833,
+        "OK_OM_DX_Contest/2025/CW": 881
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 48,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "OK_Contest/2026/SSB/OK1DEZ.log",
+          "indexed_in_production": false,
+          "qso_count": 56,
+          "parsed_qsos": 56
+        },
+        {
+          "path": "OK_Contest/2026/CW/OK1DOL.log",
+          "indexed_in_production": false,
+          "qso_count": 84,
+          "parsed_qsos": 84
+        },
+        {
+          "path": "OK_OM_DX_Contest/2026/SSB/OK2ZLD.log",
+          "indexed_in_production": true,
+          "qso_count": 18,
+          "parsed_qsos": 18
+        },
+        {
+          "path": "OK_DX_RTTY_contest/2025/OK5Z.log",
+          "indexed_in_production": false,
+          "qso_count": 1002,
+          "parsed_qsos": 1002
+        },
+        {
+          "path": "OK_OM_DX_Contest/2025/CW/OK3X.log",
+          "indexed_in_production": true,
+          "qso_count": 319,
+          "parsed_qsos": 319
+        }
+      ],
+      "production_ledger_records_for_roots": 0,
+      "production_indexed_samples": 2,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 24,
+      "name": "DARC contests (Fieldday/WAG/Ausbildungscontest/CW/RTTY/FT4/Easter/XMAS)",
+      "candidate_tasks": 5054,
+      "scopes": {
+        "DARC/Fieldday/CW/2026": 358,
+        "DARC/Fieldday/SSB/2026": 342,
+        "DARC/WAG/2025": 2289,
+        "DARC/Ausbildungscontest/2025": 26,
+        "DARC/Ausbildungscontest_CW/2026/sep": 82,
+        "DARC/Ausbildungscontest_CW/2026/mar": 77,
+        "DARC/Ausbildungscontest_CW/2026/jun": 79,
+        "DARC/RTTY_Kurzcontest/2026/jan": 113,
+        "DARC/RTTY_Kurzcontest/2026/apr": 127,
+        "DARC/RTTY_Kurzcontest/2026/jul": 95,
+        "DARC/FT4/2026/aug": 82,
+        "DARC/FT4/2026/feb": 116,
+        "DARC/FT4/2026/mai": 98,
+        "DARC/Easter/2026": 469,
+        "DARC/XMAS/2025": 701
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 87,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "DARC/Fieldday/CW/2026/DR5W_P.log",
+          "indexed_in_production": true,
+          "qso_count": 447,
+          "parsed_qsos": 447
+        },
+        {
+          "path": "DARC/Fieldday/SSB/2026/DD0VS_P.log",
+          "indexed_in_production": true,
+          "qso_count": 223,
+          "parsed_qsos": 223
+        },
+        {
+          "path": "DARC/WAG/2025/DM5GG.log",
+          "indexed_in_production": true,
+          "qso_count": 1426,
+          "parsed_qsos": 1426
+        },
+        {
+          "path": "DARC/Ausbildungscontest/2025/DN1CUR.log",
+          "indexed_in_production": true,
+          "qso_count": 99,
+          "parsed_qsos": 99
+        },
+        {
+          "path": "DARC/Ausbildungscontest_CW/2026/sep/DK3WW.log",
+          "indexed_in_production": true,
+          "qso_count": 55,
+          "parsed_qsos": 55
+        },
+        {
+          "path": "DARC/Ausbildungscontest_CW/2026/mar/DK3WW.log",
+          "indexed_in_production": true,
+          "qso_count": 50,
+          "parsed_qsos": 50
+        },
+        {
+          "path": "DARC/Ausbildungscontest_CW/2026/jun/DC8YZ.log",
+          "indexed_in_production": true,
+          "qso_count": 50,
+          "parsed_qsos": 50
+        },
+        {
+          "path": "DARC/RTTY_Kurzcontest/2026/jan/DR4A.log",
+          "indexed_in_production": true,
+          "qso_count": 119,
+          "parsed_qsos": 119
+        },
+        {
+          "path": "DARC/RTTY_Kurzcontest/2026/apr/DQ9Y.log",
+          "indexed_in_production": true,
+          "qso_count": 148,
+          "parsed_qsos": 148
+        },
+        {
+          "path": "DARC/RTTY_Kurzcontest/2026/jul/DQ9Y.log",
+          "indexed_in_production": true,
+          "qso_count": 115,
+          "parsed_qsos": 115
+        },
+        {
+          "path": "DARC/FT4/2026/aug/DF4ZL.log",
+          "indexed_in_production": true,
+          "qso_count": 77,
+          "parsed_qsos": 77
+        },
+        {
+          "path": "DARC/FT4/2026/feb/DF8QB.log",
+          "indexed_in_production": true,
+          "qso_count": 72,
+          "parsed_qsos": 72
+        },
+        {
+          "path": "DARC/FT4/2026/mai/DD2ML.log",
+          "indexed_in_production": true,
+          "qso_count": 129,
+          "parsed_qsos": 129
+        },
+        {
+          "path": "DARC/Easter/2026/DA3T.log",
+          "indexed_in_production": true,
+          "qso_count": 176,
+          "parsed_qsos": 176
+        },
+        {
+          "path": "DARC/XMAS/2025/DK3WE.log",
+          "indexed_in_production": true,
+          "qso_count": 208,
+          "parsed_qsos": 208
+        }
+      ],
+      "production_ledger_records_for_roots": 94,
+      "production_indexed_samples": 15,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 26,
+      "name": "WW DIGI (public logs)",
+      "candidate_tasks": 1438,
+      "scopes": {
+        "WWDIGI/2026": 1438
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 3,
+      "responses_without_html_end": 1,
+      "samples": [
+        {
+          "path": "WWDIGI/2026/2e0lmi.log",
+          "indexed_in_production": true,
+          "qso_count": 45,
+          "parsed_qsos": 45
+        }
+      ],
+      "production_ledger_records_for_roots": 8,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 27,
+      "name": "SP DX Contest (recreated from public result JSON)",
+      "candidate_tasks": 1927,
+      "scopes": {
+        "SPDX_contest/2026": 1927
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 11,
+      "responses_without_html_end": 2,
+      "samples": [
+        {
+          "path": "SPDX_contest/2026/2E0GYI.log",
+          "indexed_in_production": true,
+          "qso_count": 25,
+          "parsed_qsos": 25
+        }
+      ],
+      "production_ledger_records_for_roots": 6,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 28,
+      "name": "OK1WC Memorial (preliminary/final reference tables)",
+      "candidate_tasks": null,
+      "scopes": null,
+      "http_statuses": [
+        200
+      ],
+      "response_count": 81,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "OK1WC_Memorial/2026-10-05/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 109,
+          "parsed_qsos": 109
+        },
+        {
+          "path": "OK1WC_Memorial/2026-09-28/4O4A.log",
+          "indexed_in_production": true,
+          "qso_count": 43,
+          "parsed_qsos": 43
+        },
+        {
+          "path": "OK1WC_Memorial/2026-09-21/9A_OK1DWF.log",
+          "indexed_in_production": true,
+          "qso_count": 29,
+          "parsed_qsos": 29
+        },
+        {
+          "path": "OK1WC_Memorial/2026-09-14/9A_OK1DWF.log",
+          "indexed_in_production": true,
+          "qso_count": 27,
+          "parsed_qsos": 27
+        },
+        {
+          "path": "OK1WC_Memorial/2026-09-07/DA3T.log",
+          "indexed_in_production": true,
+          "qso_count": 66,
+          "parsed_qsos": 66
+        },
+        {
+          "path": "OK1WC_Memorial/2026-08-31/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 99,
+          "parsed_qsos": 99
+        },
+        {
+          "path": "OK1WC_Memorial/2026-08-24/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 105,
+          "parsed_qsos": 105
+        },
+        {
+          "path": "OK1WC_Memorial/2026-08-17/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 99,
+          "parsed_qsos": 99
+        },
+        {
+          "path": "OK1WC_Memorial/2026-08-10/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 78,
+          "parsed_qsos": 78
+        },
+        {
+          "path": "OK1WC_Memorial/2026-08-03/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 84,
+          "parsed_qsos": 84
+        },
+        {
+          "path": "OK1WC_Memorial/2026-07-27/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 129,
+          "parsed_qsos": 129
+        },
+        {
+          "path": "OK1WC_Memorial/2026-07-20/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 100,
+          "parsed_qsos": 100
+        },
+        {
+          "path": "OK1WC_Memorial/2026-07-13/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 78,
+          "parsed_qsos": 78
+        },
+        {
+          "path": "OK1WC_Memorial/2026-07-06/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 82,
+          "parsed_qsos": 82
+        },
+        {
+          "path": "OK1WC_Memorial/2026-06-29/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 88,
+          "parsed_qsos": 88
+        },
+        {
+          "path": "OK1WC_Memorial/2026-06-22/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 96,
+          "parsed_qsos": 96
+        },
+        {
+          "path": "OK1WC_Memorial/2026-06-15/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 111,
+          "parsed_qsos": 111
+        },
+        {
+          "path": "OK1WC_Memorial/2026-06-08/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 98,
+          "parsed_qsos": 98
+        },
+        {
+          "path": "OK1WC_Memorial/2026-06-01/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 100,
+          "parsed_qsos": 100
+        },
+        {
+          "path": "OK1WC_Memorial/2026-05-25/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 114,
+          "parsed_qsos": 114
+        },
+        {
+          "path": "OK1WC_Memorial/2026-05-18/4O4A.log",
+          "indexed_in_production": true,
+          "qso_count": 66,
+          "parsed_qsos": 66
+        },
+        {
+          "path": "OK1WC_Memorial/2026-05-11/4O4A.log",
+          "indexed_in_production": true,
+          "qso_count": 34,
+          "parsed_qsos": 34
+        },
+        {
+          "path": "OK1WC_Memorial/2026-05-04/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 101,
+          "parsed_qsos": 101
+        },
+        {
+          "path": "OK1WC_Memorial/2026-04-27/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 102,
+          "parsed_qsos": 102
+        },
+        {
+          "path": "OK1WC_Memorial/2026-04-20/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 101,
+          "parsed_qsos": 101
+        },
+        {
+          "path": "OK1WC_Memorial/2026-04-13/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 110,
+          "parsed_qsos": 110
+        },
+        {
+          "path": "OK1WC_Memorial/2026-04-06/4O4A.log",
+          "indexed_in_production": true,
+          "qso_count": 57,
+          "parsed_qsos": 57
+        },
+        {
+          "path": "OK1WC_Memorial/2026-03-30/4O4A.log",
+          "indexed_in_production": true,
+          "qso_count": 26,
+          "parsed_qsos": 26
+        },
+        {
+          "path": "OK1WC_Memorial/2026-03-23/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 131,
+          "parsed_qsos": 131
+        },
+        {
+          "path": "OK1WC_Memorial/2026-03-16/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 105,
+          "parsed_qsos": 105
+        },
+        {
+          "path": "OK1WC_Memorial/2026-03-09/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 96,
+          "parsed_qsos": 96
+        },
+        {
+          "path": "OK1WC_Memorial/2026-03-02/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 113,
+          "parsed_qsos": 113
+        },
+        {
+          "path": "OK1WC_Memorial/2026-02-23/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 102,
+          "parsed_qsos": 102
+        },
+        {
+          "path": "OK1WC_Memorial/2026-02-16/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 118,
+          "parsed_qsos": 118
+        },
+        {
+          "path": "OK1WC_Memorial/2026-02-09/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 135,
+          "parsed_qsos": 135
+        },
+        {
+          "path": "OK1WC_Memorial/2026-02-02/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 107,
+          "parsed_qsos": 107
+        },
+        {
+          "path": "OK1WC_Memorial/2026-01-26/9A3DML.log",
+          "indexed_in_production": true,
+          "qso_count": 42,
+          "parsed_qsos": 42
+        },
+        {
+          "path": "OK1WC_Memorial/2026-01-19/9A3DML.log",
+          "indexed_in_production": true,
+          "qso_count": 26,
+          "parsed_qsos": 26
+        },
+        {
+          "path": "OK1WC_Memorial/2026-01-12/DA0BCC.log",
+          "indexed_in_production": true,
+          "qso_count": 92,
+          "parsed_qsos": 92
+        },
+        {
+          "path": "OK1WC_Memorial/2026-01-05/9A3DML.log",
+          "indexed_in_production": true,
+          "qso_count": 50,
+          "parsed_qsos": 50
+        }
+      ],
+      "production_ledger_records_for_roots": 88,
+      "production_indexed_samples": 40,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 29,
+      "name": "YU DX Contest (public result QSO tables)",
+      "candidate_tasks": 805,
+      "scopes": {
+        "YU_DX_Contest/2025": 805
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 4,
+      "responses_without_html_end": 4,
+      "samples": [
+        {
+          "path": "YU_DX_Contest/2025/YT9X.log",
+          "indexed_in_production": true,
+          "qso_count": 951,
+          "parsed_qsos": 951
+        }
+      ],
+      "production_ledger_records_for_roots": 8,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 30,
+      "name": "SAC Scandinavian Activity Contest (public Cabrillo logs)",
+      "candidate_tasks": 1893,
+      "scopes": {
+        "SAC/CW/2025": 1085,
+        "SAC/SSB/2025": 808
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 2,
+      "samples": [
+        {
+          "path": "SAC/CW/2025/2E0JID.log",
+          "indexed_in_production": true,
+          "qso_count": 11,
+          "parsed_qsos": 11
+        },
+        {
+          "path": "SAC/SSB/2025/2E0DGL.log",
+          "indexed_in_production": true,
+          "qso_count": 3,
+          "parsed_qsos": 3
+        }
+      ],
+      "production_ledger_records_for_roots": 8,
+      "production_indexed_samples": 2,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 31,
+      "name": "URE public logs (EAPSK63/EARTTY/King of Spain/CNCW/CME)",
+      "candidate_tasks": 3982,
+      "scopes": {
+        "URE/CME/2025": 267,
+        "URE/CNCW/2025": 207,
+        "URE/EAPSK63/2025": 442,
+        "URE/EARTTY/2025": 916,
+        "URE/SMRCW/2025": 1152,
+        "URE/SMRSSB/2025": 998
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 13,
+      "responses_without_html_end": 6,
+      "samples": [
+        {
+          "path": "URE/CME/2025/9A3B.log",
+          "indexed_in_production": true,
+          "qso_count": 435,
+          "parsed_qsos": 435
+        },
+        {
+          "path": "URE/CNCW/2025/CT1DRB.log",
+          "indexed_in_production": true,
+          "qso_count": 212,
+          "parsed_qsos": 212
+        },
+        {
+          "path": "URE/EAPSK63/2025/3Z9W.log",
+          "indexed_in_production": true,
+          "qso_count": 143,
+          "parsed_qsos": 143
+        },
+        {
+          "path": "URE/EARTTY/2025/2E0BLN.log",
+          "indexed_in_production": true,
+          "qso_count": 4,
+          "parsed_qsos": 4
+        },
+        {
+          "path": "URE/SMRCW/2025/2E0LMI.log",
+          "indexed_in_production": true,
+          "qso_count": 2,
+          "parsed_qsos": 2
+        },
+        {
+          "path": "URE/SMRSSB/2025/2E0EVM.log",
+          "indexed_in_production": true,
+          "qso_count": 57,
+          "parsed_qsos": 57
+        }
+      ],
+      "production_ledger_records_for_roots": 70,
+      "production_indexed_samples": 6,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 32,
+      "name": "9A HRS contests (HF Robot public QSO tables)",
+      "candidate_tasks": 232,
+      "scopes": {
+        "9A_HRS_Contest/Kup_Jadrana/2026": 57,
+        "9A_HRS_Contest/Hrvatski_Radioamaterski_Kup/2026": 100,
+        "9A_HRS_Contest/Zimski_KV_Kup/2026": 75
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 9,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "9A_HRS_Contest/Kup_Jadrana/2026/9A0BR.log",
+          "indexed_in_production": true,
+          "qso_count": 73,
+          "parsed_qsos": 73
+        },
+        {
+          "path": "9A_HRS_Contest/Hrvatski_Radioamaterski_Kup/2026/9A0KG.log",
+          "indexed_in_production": true,
+          "qso_count": 104,
+          "parsed_qsos": 104
+        },
+        {
+          "path": "9A_HRS_Contest/Zimski_KV_Kup/2026/9A0KG.log",
+          "indexed_in_production": true,
+          "qso_count": 138,
+          "parsed_qsos": 138
+        }
+      ],
+      "production_ledger_records_for_roots": 51,
+      "production_indexed_samples": 3,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 33,
+      "name": "Istra Open Contest (public Cabrillo logs)",
+      "candidate_tasks": 90,
+      "scopes": {
+        "Istra_Open_Contest/2026": 90
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 2,
+      "responses_without_html_end": 1,
+      "samples": [
+        {
+          "path": "Istra_Open_Contest/2026/9A1AL.log",
+          "indexed_in_production": true,
+          "qso_count": 19,
+          "parsed_qsos": 19
+        }
+      ],
+      "production_ledger_records_for_roots": 1,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": false
+    },
+    {
+      "id": 34,
+      "name": "TTC-SPCWC (public checked-log tables)",
+      "candidate_tasks": 114,
+      "scopes": {
+        "TTC-SPCWC/2026-10-06": 114
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 14,
+      "responses_without_html_end": 0,
+      "samples": [
+        {
+          "path": "TTC-SPCWC/2026-10-06/CT7BJG.log",
+          "indexed_in_production": true,
+          "qso_count": 120,
+          "parsed_qsos": 120
+        }
+      ],
+      "production_ledger_records_for_roots": 12,
+      "production_indexed_samples": 1,
+      "errors": [],
+      "transport_retry_observed": true
+    },
+    {
+      "id": 35,
+      "name": "YOTA Contest (public evaluated QSO tables)",
+      "candidate_tasks": 926,
+      "scopes": {
+        "YOTA_Contest/2026/Round_2": 548,
+        "YOTA_Contest/2026/Round_1": 378
+      },
+      "http_statuses": [
+        200
+      ],
+      "response_count": 5,
+      "responses_without_html_end": 5,
+      "samples": [
+        {
+          "path": "YOTA_Contest/2026/Round_2/2E0KXA.log",
+          "indexed_in_production": true,
+          "qso_count": 7,
+          "parsed_qsos": 7
+        },
+        {
+          "path": "YOTA_Contest/2026/Round_1/2E0OBO.log",
+          "indexed_in_production": true,
+          "qso_count": 20,
+          "parsed_qsos": 20
+        }
+      ],
+      "production_ledger_records_for_roots": 17,
+      "production_indexed_samples": 2,
+      "errors": [],
+      "transport_retry_observed": false
+    }
+  ],
+  "http_note": "Status 0 in the temporary probe meant no HTTP response; it is represented as transport_retry_observed, not an HTTP status."
+}

@@ -39,7 +39,7 @@ READ_TIMEOUT_SECONDS = 5
 READ_CHUNK_SIZE = 65536
 HTML_END_MARKER = b"</html>"
 HTML_TAIL_BYTES = 16384
-DEFAULT_TERR_ID = "76"  # World Wide
+DEFAULT_TERR_ID = "3"  # World Wide
 TASK_LEDGER: "TaskLedger | None" = None
 PROGRESS_LABEL = "RCC Cup"
 DEFAULT_MODE = "CW"
@@ -68,10 +68,13 @@ def read_response_text(resp: urllib.request.addinfourl) -> str:
         if time.time() - start > MAX_RESPONSE_SECONDS:
             raise TimeoutError("UA9QCQ response read timed out")
         try:
-            chunk = resp.read(READ_CHUNK_SIZE)
+            reader = getattr(resp, "read1", resp.read)
+            chunk = reader(READ_CHUNK_SIZE)
         except socket.timeout:
-            continue
+            raise TimeoutError("UA9QCQ response stalled before complete HTML") from None
         if not chunk:
+            if HTML_END_MARKER not in tail.lower():
+                raise ValueError("UA9QCQ returned incomplete HTML")
             break
         chunks.append(chunk)
         tail = (tail + chunk)[-HTML_TAIL_BYTES:]

@@ -282,6 +282,13 @@ def add_counts(target: Dict[str, int], delta: Dict[str, int]) -> None:
         target[key] = target.get(key, 0) + value
 
 
+def record_task_result(target: Dict[str, int], counts: Dict[str, int]) -> None:
+    add_counts(target, counts)
+    target["tasks_completed"] = target.get("tasks_completed", 0) + 1
+    target["tasks_failed"] = target.get("tasks_failed", 0) + int(bool(counts.get("error", 0)))
+    target["written_files"] = target.get("written_files", 0) + counts.get("files_written", counts.get("ok", 0))
+
+
 def normalize_ua9qcq_cookie(cookie: str) -> str:
     cookie = cookie.strip()
     if cookie.lower().startswith("cookie:"):
@@ -363,6 +370,7 @@ def task_mark_complete(
     item_count: int,
     *,
     output_count: int | None = None,
+    empty_count: int | None = None,
 ) -> None:
     if TASK_LEDGER:
         TASK_LEDGER.set_hash(
@@ -370,7 +378,17 @@ def task_mark_complete(
             list_hash,
             item_count,
             output_count=output_count,
+            empty_count=empty_count,
         )
+
+
+def ua9_batch_counts(stats, outcome: str) -> Dict[str, int]:
+    return {
+        outcome: 1,
+        "files_written": stats.saved_logs,
+        "output_count": stats.saved_logs + stats.skipped_existing,
+        "empty_count": stats.skipped_empty,
+    }
 
 
 def valid_existing_log(path: Path) -> bool:
@@ -1458,6 +1476,8 @@ def tasks_cqww(last: int | None) -> List[DownloadTask]:
         mode = match.group("mode").lower()
         path = match.group("path")
         pages.append((year, mode, urllib.parse.urljoin(base_url, path)))
+    if not pages:
+        raise RuntimeError(f"Public log index format not recognized: {base_url}")
     pages.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         pages = pages[: last * 2]
@@ -1510,6 +1530,8 @@ def tasks_cqwpx(last: int | None) -> List[DownloadTask]:
         mode = match.group("mode").lower()
         path = match.group("path")
         pages.append((year, mode, urllib.parse.urljoin(base_url, path)))
+    if not pages:
+        raise RuntimeError(f"Public log index format not recognized: {base_url}")
     pages.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         pages = pages[: last * 2]
@@ -1560,6 +1582,8 @@ def tasks_cqwwrtty(last: int | None) -> List[DownloadTask]:
     for match in re.finditer(r"href=['\"](?P<year>(19|20)\d{2})/['\"]", html_text):
         year = match.group("year")
         years.append((year, urllib.parse.urljoin(base_url, f"{year}/")))
+    if not years:
+        raise RuntimeError(f"Public log index format not recognized: {base_url}")
     years.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         years = years[: last]
@@ -1612,6 +1636,8 @@ def tasks_cq160(last: int | None) -> List[DownloadTask]:
         mode = match.group("mode").lower()
         path = match.group("path")
         pages.append((year, mode, urllib.parse.urljoin(base_url, path)))
+    if not pages:
+        raise RuntimeError(f"Public log index format not recognized: {base_url}")
     pages.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         pages = pages[: last * 2]
@@ -1662,6 +1688,8 @@ def tasks_cqwpxrtty(last: int | None) -> List[DownloadTask]:
     for match in re.finditer(r"href=['\"](?P<year>(19|20)\d{2})/['\"]", html_text):
         year = match.group("year")
         years.append((year, urllib.parse.urljoin(base_url, f"{year}/")))
+    if not years:
+        raise RuntimeError(f"Public log index format not recognized: {base_url}")
     years.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         years = years[: last]
@@ -1712,6 +1740,8 @@ def tasks_wwdigi(last: int | None) -> List[DownloadTask]:
     for match in re.finditer(r"href=['\"](?P<year>(19|20)\d{2})/['\"]", html_text, flags=re.IGNORECASE):
         year = match.group("year")
         years.append((year, urllib.parse.urljoin(base_url, f"{year}/")))
+    if not years:
+        raise RuntimeError(f"Public log index format not recognized: {base_url}")
     years.sort(key=lambda itm: int(itm[0]), reverse=True)
     if last:
         years = years[: last]
@@ -1800,7 +1830,7 @@ def tasks_arrl(last: int | None) -> List[DownloadTask]:
             years = arrl_discover_years(eid)
         except Exception as exc:  # pylint: disable=broad-except
             print(f"Failed to fetch years for {name} ({eid}): {exc}", file=sys.stderr)
-            continue
+            raise RuntimeError(f"ARRL year discovery failed for {eid}") from exc
         if last:
             years = years[: last]
         if not years:
@@ -1812,7 +1842,7 @@ def tasks_arrl(last: int | None) -> List[DownloadTask]:
                 logs = list(arrl_discover_logs(eid, iid))
             except Exception as exc:  # pylint: disable=broad-except
                 print(f"Failed to fetch logs for {name} {year}: {exc}", file=sys.stderr)
-                continue
+                raise RuntimeError(f"ARRL inventory failed for {eid}/{year}") from exc
             task_key = f"ARRL/{contest_slug}/{year}"
             log_urls = [url for _call, url in logs]
             dests = [
@@ -1988,6 +2018,7 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
 
     vhf.migrate_legacy_checklog_markers()
     contests = vhf.discover_contests(None, recent_years=last) if last else vhf.discover_contests(None)
+    hf_state = ProviderState(REPO_ROOT / "state/providers/vhfmanager/hf_parser.json")
     tasks: List[DownloadTask] = []
     for contest in contests:
         host = urllib.parse.urlparse(vhf.BASE_URL).hostname or "unknown"
@@ -1996,24 +2027,35 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"Failed to fetch contest {contest.cid}: {exc}")
-            continue
+            raise RuntimeError(f"VHFManager inventory failed for {contest.cid}") from exc
         if not links:
             continue
+        hf_table = False
+        if not vhf.is_pmc_contest(contest) and all(
+            vhf.extract_band_khz(link.category_hint) < 30000 for link in links
+        ):
+            sample_page = vhf.fetch_text(links[0].url)
+            hf_table = vhf.parse_qsos_hf(sample_page) is not None
+        hf_record = hf_state.get_scope(str(contest.cid)) or {}
+        recheck_processed = hf_table and hf_record.get("version") != 1
         output_root = "WW_PMC" if vhf.is_pmc_contest(contest) else "EU_VHF_CONTESTS"
         task_key = f"{output_root}/{contest.cid}"
         skip, list_hash, count = task_should_skip(task_key, [lnk.url for lnk in links])
-        if skip:
+        if skip and not recheck_processed:
             continue
         placeholder = Path(output_root) / f"{vhf.slugify(contest.name)}_{contest.cid}" / "contest.log"
 
-        def action(contest=contest, links=links) -> Dict[str, int]:
+        def action(contest=contest, links=links, recheck_processed=recheck_processed) -> Dict[str, int]:
             counts = vhf.download_contest_logs(
                 contest,
                 links,
                 workers=vhf.DEFAULT_WORKERS,
                 max_logs=None,
                 include_checklogs=not vhf.is_pmc_contest(contest),
+                recheck_processed=recheck_processed,
             )
+            if recheck_processed and not counts.get("error", 0):
+                hf_state.update_scope(str(contest.cid), {"version": 1, "seed_count": len(links)})
             return counts
 
         tasks.append(
@@ -2114,8 +2156,7 @@ def _build_darc_tasks(keys: Tuple[str, ...], source: str, last: int | None) -> L
             periods = darc.discover_periods(spec, last=last)
         except Exception as exc:  # pylint: disable=broad-except
             print(f"Failed to discover periods for {spec.label}: {exc}", file=sys.stderr)
-            continue
-        accepted_periods = 0
+            raise RuntimeError(f"DARC period discovery failed for {spec.key}") from exc
         for year, edition in periods:
             try:
                 calls = darc.discover_calls_for_period(
@@ -2128,20 +2169,17 @@ def _build_darc_tasks(keys: Tuple[str, ...], source: str, last: int | None) -> L
                 )
             except Exception as exc:  # pylint: disable=broad-except
                 print(f"Failed to discover calls for {spec.label} {darc.period_label(year, edition)}: {exc}", file=sys.stderr)
-                continue
+                raise RuntimeError(f"DARC inventory failed for {spec.key}/{year}") from exc
             if not calls:
                 continue
             try:
                 has_public_logs = darc.period_has_public_logs(spec, year, edition, calls)
             except Exception as exc:  # pylint: disable=broad-except
                 print(f"Failed to probe logs for {spec.label} {darc.period_label(year, edition)}: {exc}", file=sys.stderr)
-                continue
+                raise RuntimeError(f"DARC public-log probe failed for {spec.key}/{year}") from exc
             if not has_public_logs:
                 print(f"DARC skip (no public logs yet): {spec.label} {darc.period_label(year, edition)}")
                 continue
-            if last is not None and accepted_periods >= last:
-                break
-            accepted_periods += 1
             period_key = darc.period_label(year, edition)
             task_key = f"{spec.output_root.as_posix()}/{period_key}"
             dests = []
@@ -2256,11 +2294,21 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
                 wed.RESULTS_URL, wed.results_post_data(year, "0"), cookie
             )
             dates = [d for d in wed.parse_date_options(landing_for_dates) if d.startswith(f"{year}-")]
-        task_key = f"WednesdayMiniTest40m/{year}"
-        skip, list_hash, count = task_should_skip(task_key, dates)
-        if skip:
-            continue
         for contest_date in dates:
+            task_key = f"WednesdayMiniTest40m/{contest_date}"
+            result_page = wed.fetch_text_with_cookie(
+                wed.RESULTS_URL, wed.results_post_data(year, contest_date), cookie
+            )
+            entries = wed.parse_more_info_entries(result_page)
+            station_items = [f"{entry['id_res']}:{entry['callsign'].strip().upper()}"
+                             for entry in entries if entry.get("id_res") and entry.get("callsign")]
+            expected = [output_root / contest_date / f"{entry['callsign'].strip().upper().replace('/', '_')}.log"
+                        for entry in entries if entry.get("id_res") and entry.get("callsign")]
+            skip, list_hash, count = task_should_skip_known_outputs(
+                task_key, station_items, expected, label=source_label
+            )
+            if skip:
+                continue
             placeholder = output_root / contest_date / "contest.log"
 
             def action(
@@ -2290,7 +2338,7 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors} reason={stats.abort_reason}"
                         )
-                    return {"error": 1}
+                    return ua9_batch_counts(stats, "error")
                 if stats.errors:
                     with PRINT_LOCK:
                         reason = getattr(stats, "abort_reason", "")
@@ -2300,17 +2348,17 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors}{suffix}"
                         )
-                    return {"error": 1}
+                    return ua9_batch_counts(stats, "error")
                 if stats.saved_logs:
                     with PRINT_LOCK:
                         print(
                             f"[{source_label}] ok {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing}"
                         )
-                    return {"ok": 1}
+                    return ua9_batch_counts(stats, "ok")
                 with PRINT_LOCK:
-                    print(f"[{source_label}] skip (no logs): {contest_date}")
-                return {"skip": 1}
+                    print(f"[{source_label}] skip (no new logs): {contest_date}")
+                return ua9_batch_counts(stats, "skip")
 
             tasks.append(
                 DownloadTask(
@@ -2324,8 +2372,6 @@ def tasks_wed_minitest_40m(last: int | None) -> List[DownloadTask]:
                     output_roots=(output_root.as_posix(),),
                 )
             )
-        if not dates:
-            task_mark_complete(task_key, list_hash, count)
     return tasks
 
 
@@ -2368,11 +2414,21 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
                 wed.RESULTS_URL, wed.results_post_data(year, "0"), cookie
             )
             dates = [d for d in wed.parse_date_options(landing_for_dates) if d.startswith(f"{year}-")]
-        task_key = f"WednesdayMiniTest80m/{year}"
-        skip, list_hash, count = task_should_skip(task_key, dates)
-        if skip:
-            continue
         for contest_date in dates:
+            task_key = f"WednesdayMiniTest80m/{contest_date}"
+            result_page = wed.fetch_text_with_cookie(
+                wed.RESULTS_URL, wed.results_post_data(year, contest_date), cookie
+            )
+            entries = wed.parse_more_info_entries(result_page)
+            station_items = [f"{entry['id_res']}:{entry['callsign'].strip().upper()}"
+                             for entry in entries if entry.get("id_res") and entry.get("callsign")]
+            expected = [output_root / contest_date / f"{entry['callsign'].strip().upper().replace('/', '_')}.log"
+                        for entry in entries if entry.get("id_res") and entry.get("callsign")]
+            skip, list_hash, count = task_should_skip_known_outputs(
+                task_key, station_items, expected, label=source_label
+            )
+            if skip:
+                continue
             placeholder = output_root / contest_date / "contest.log"
 
             def action(
@@ -2402,7 +2458,7 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors} reason={stats.abort_reason}"
                         )
-                    return {"error": 1}
+                    return ua9_batch_counts(stats, "error")
                 if stats.errors:
                     with PRINT_LOCK:
                         reason = getattr(stats, "abort_reason", "")
@@ -2412,17 +2468,17 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors}{suffix}"
                         )
-                    return {"error": 1}
+                    return ua9_batch_counts(stats, "error")
                 if stats.saved_logs:
                     with PRINT_LOCK:
                         print(
                             f"[{source_label}] ok {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing}"
                         )
-                    return {"ok": 1}
+                    return ua9_batch_counts(stats, "ok")
                 with PRINT_LOCK:
-                    print(f"[{source_label}] skip (no logs): {contest_date}")
-                return {"skip": 1}
+                    print(f"[{source_label}] skip (no new logs): {contest_date}")
+                return ua9_batch_counts(stats, "skip")
 
             tasks.append(
                 DownloadTask(
@@ -2436,8 +2492,6 @@ def tasks_wed_minitest_80m(last: int | None) -> List[DownloadTask]:
                     output_roots=(output_root.as_posix(),),
                 )
             )
-        if not dates:
-            task_mark_complete(task_key, list_hash, count)
     return tasks
 
 
@@ -2495,7 +2549,23 @@ def tasks_ua9qcq_yearly(
         if not dates:
             dates = ["0"]
         task_key = f"{output_root.as_posix()}/{year}"
-        skip, list_hash, count = task_should_skip(task_key, dates)
+        inventory_items = []
+        expected_outputs = []
+        for contest_date in dates:
+            results_html = (
+                landing_for_dates
+                if not dates_all and contest_date == "0"
+                else fetch_with_retry(module.results_post_data(year, contest_date))
+            )
+            for entry in module.parse_more_info_entries(results_html):
+                call = entry.get("callsign", "").strip().upper()
+                station_id = entry.get("id_res", "")
+                if call and station_id:
+                    inventory_items.append(f"{contest_date}:{station_id}:{call}")
+                    expected_outputs.append(output_root / year / f"{call.replace('/', '_')}.log")
+        skip, list_hash, count = task_should_skip_known_outputs(
+            task_key, inventory_items, expected_outputs, label=source_label
+        )
         if skip:
             continue
         for contest_date in dates:
@@ -2530,7 +2600,7 @@ def tasks_ua9qcq_yearly(
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors} reason={stats.abort_reason}"
                         )
-                    return {"error": 1}
+                    return ua9_batch_counts(stats, "error")
                 if stats.errors:
                     with PRINT_LOCK:
                         reason = getattr(stats, "abort_reason", "")
@@ -2540,17 +2610,17 @@ def tasks_ua9qcq_yearly(
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing} "
                             f"errors={stats.errors}{suffix}"
                         )
-                    return {"error": 1}
+                    return ua9_batch_counts(stats, "error")
                 if stats.saved_logs:
                     with PRINT_LOCK:
                         print(
                             f"[{source_label}] ok {year} {contest_date}: saved={stats.saved_logs} "
                             f"empty={stats.skipped_empty} existing={stats.skipped_existing}"
                         )
-                    return {"ok": 1}
+                    return ua9_batch_counts(stats, "ok")
                 with PRINT_LOCK:
-                    print(f"[{source_label}] skip (no logs): {year} {contest_date}")
-                return {"skip": 1}
+                    print(f"[{source_label}] skip (no new logs): {year} {contest_date}")
+                return ua9_batch_counts(stats, "skip")
 
             tasks.append(
                 DownloadTask(
@@ -2685,7 +2755,7 @@ def tasks_ref(last: int | None) -> List[DownloadTask]:
             except Exception as exc:  # pylint: disable=broad-except
                 with PRINT_LOCK:
                     print(f"REF list failed {year} {mode_label}: {exc}")
-                continue
+                raise RuntimeError(f"REF inventory failed for {year}/{mode_label}") from exc
             if not calls:
                 continue
             task_key = f"REF/{year}/{contest}"
@@ -2763,7 +2833,7 @@ def tasks_eudx(last: int | None) -> List[DownloadTask]:
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"EUDX list failed {year}: {exc}")
-            continue
+            raise RuntimeError(f"EUDX inventory failed for {year}") from exc
         if not logs:
             continue
         task_key = f"EUDX_contest/{year}"
@@ -2812,7 +2882,7 @@ def tasks_istra_open(last: int | None) -> List[DownloadTask]:
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"Istra Open list failed {year}: {exc}")
-            continue
+            raise RuntimeError(f"Istra Open inventory failed for {year}") from exc
         if not logs:
             continue
         task_key = f"Istra_Open_Contest/{year}"
@@ -2860,7 +2930,7 @@ def tasks_ttc_spcwc(last: int | None) -> List[DownloadTask]:
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"TTC-SPCWC list failed {round_info.date}: {exc}")
-            continue
+            raise RuntimeError(f"TTC-SPCWC inventory failed for {round_info.date}") from exc
         if not stations:
             continue
         task_key = f"TTC-SPCWC/{round_info.date}"
@@ -2913,58 +2983,41 @@ def tasks_okomdx(last: int | None) -> List[DownloadTask]:
     import download_okomdx_logs as okom  # type: ignore
 
     tasks: List[DownloadTask] = []
-    pages = okom.iter_year_pages(last)
-    for year, slug in pages:
-        try:
-            rounds = okom.discover_rounds(slug)
-        except Exception as exc:  # pylint: disable=broad-except
-            with PRINT_LOCK:
-                print(f"OKOMDX rounds failed {year} {slug}: {exc}")
+    selected_years: Dict[Tuple[str, str], set[int]] = defaultdict(set)
+    for round_page in okom.discover_shared_rounds(last):
+        round_id = round_page.id_round
+        calls = okom.discover_calls(round_id, result_html=round_page.html_text)
+        if not calls:
             continue
-        for round_id in rounds:
-            try:
-                calls = okom.discover_calls(round_id)
-            except Exception as exc:  # pylint: disable=broad-except
-                with PRINT_LOCK:
-                    print(f"OKOMDX list failed round {round_id}: {exc}")
+        meta = okom.classify_round(round_id, round_page.year, calls)
+        if not meta:
+            raise RuntimeError(f"OK contest header format not recognized for round {round_id}")
+        group = (meta.contest_root.as_posix(), meta.mode_label)
+        years = selected_years[group]
+        if last and meta.year not in years and len(years) >= last:
+            continue
+        years.add(meta.year)
+        year = meta.year
+        task_key = f"OKOMDX/{year}/{round_id}"
+        dests = [okom.dest_path(meta, call) for call in calls]
+        skip, list_hash, count = task_should_skip_known_outputs(
+            task_key, calls, dests, upper=True, label="OKOMDX"
+        )
+        if skip:
+            continue
+        created = 0
+        for call, dest in zip(calls, dests):
+            if valid_existing_log(dest):
                 continue
-            if not calls:
-                continue
-            meta = okom.classify_round(round_id, year, calls)
-            if not meta:
-                with PRINT_LOCK:
-                    print(f"OKOMDX unknown contest header for round {round_id} ({year})")
-                continue
-            task_key = f"OKOMDX/{year}/{round_id}"
-            dests = [okom.dest_path(meta, call) for call in calls]
-            skip, list_hash, count = task_should_skip_known_outputs(
-                task_key, calls, dests, upper=True, label="OKOMDX"
-            )
-            if skip:
-                continue
-            created = 0
-            for call, dest in zip(calls, dests):
-                if valid_existing_log(dest):
-                    continue
-                remove_invalid_existing(dest)
+            remove_invalid_existing(dest)
 
-                def action(
-                    round_id=round_id,
-                    year=year,
-                    call=call,
-                ) -> Dict[str, int]:
-                    try:
-                        html_text = okom.fetch_log_html(round_id, call)
-                    except Exception as exc:  # pylint: disable=broad-except
-                        with PRINT_LOCK:
-                            print(f"OKOMDX fail fetch {call} ({round_id}): {exc}")
-                        return {"error": 1}
-                    parsed = okom.parse_header_meta(html_text, year, call)
+            def action(round_id=round_id, year=year, call=call) -> Dict[str, int]:
+                try:
+                    page = okom.fetch_log_html(round_id, call)
+                    parsed = okom.parse_header_meta(page, year, call)
                     if not parsed:
-                        with PRINT_LOCK:
-                            print(f"OKOMDX unknown contest header {call} ({round_id})")
-                        return {"error": 1}
-                    qsos, detected = okom.parse_qsos(html_text, parsed.mode_label)
+                        raise RuntimeError("unrecognized log header")
+                    qsos, detected = okom.parse_qsos(page, parsed.mode_label)
                     if detected:
                         parsed.mode_label = detected
                     cab = okom.build_cabrillo(parsed, qsos)
@@ -2978,21 +3031,25 @@ def tasks_okomdx(last: int | None) -> List[DownloadTask]:
                     with PRINT_LOCK:
                         print(f"ok   {final_dest}")
                     return {"ok": 1}
+                except Exception as exc:  # pylint: disable=broad-except
+                    with PRINT_LOCK:
+                        print(f"OKOMDX fail {call} ({round_id}): {exc}")
+                    return {"error": 1}
 
-                tasks.append(
-                    DownloadTask(
-                        dest=dest,
-                        host="okomdx.crk.cz",
-                        source="OKOMDX",
-                        action=action,
-                        task_key=task_key,
-                        task_hash=list_hash,
-                        task_count=count,
-                    )
+            tasks.append(
+                DownloadTask(
+                    dest=dest,
+                    host="okomdx.crk.cz",
+                    source="OKOMDX",
+                    action=action,
+                    task_key=task_key,
+                    task_hash=list_hash,
+                    task_count=count,
                 )
-                created += 1
-            if created == 0:
-                task_mark_complete(task_key, list_hash, count)
+            )
+            created += 1
+        if created == 0:
+            task_mark_complete(task_key, list_hash, count)
     return tasks
 
 
@@ -3011,7 +3068,7 @@ def tasks_spdx(last: int | None) -> List[DownloadTask]:
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"SPDX list failed {year}: {exc}")
-            continue
+            raise RuntimeError(f"SP DX inventory failed for {year}") from exc
         if not calls:
             continue
         task_key = f"SPDX_contest/{year}"
@@ -3166,7 +3223,10 @@ class OK1WCSession:
                     )
                 with self.opener.open(req, timeout=OK1WC_REQUEST_TIMEOUT) as resp:
                     charset = resp.headers.get_content_charset() or "utf-8"
-                    return resp.read().decode(charset, errors="ignore")
+                    body = resp.read()
+                    if b"</html>" not in body.lower():
+                        raise ValueError("OK1WC returned incomplete HTML")
+                    return body.decode(charset, errors="ignore")
             except Exception as exc:  # pylint: disable=broad-except
                 last_exc = exc
                 if attempt + 1 < retries:
@@ -3400,8 +3460,11 @@ def ok1wc_fetch_round_calls(
     return session, [], last_html
 
 
-def ok1wc_make_round_session_getter(round_info: OK1WCRound) -> Callable[[], OK1WCSession]:
-    session: OK1WCSession | None = None
+def ok1wc_make_round_session_getter(
+    round_info: OK1WCRound,
+    initial_session: OK1WCSession | None = None,
+) -> Callable[[], OK1WCSession]:
+    session = initial_session
     session_lock = threading.Lock()
 
     def get_session() -> OK1WCSession:
@@ -3561,14 +3624,16 @@ def tasks_ok1wc(last: int | None) -> List[DownloadTask]:
     def discover_calls(
         round_info: OK1WCRound,
         marker: Path,
-    ) -> Tuple[OK1WCRound, Path, List[str], str, Exception | None]:
+    ) -> Tuple[OK1WCRound, Path, List[str], str, Exception | None, OK1WCSession | None]:
         try:
-            _session, calls, round_html = ok1wc_fetch_round_calls(round_info)
-            return round_info, marker, calls, round_html, None
+            session, calls, round_html = ok1wc_fetch_round_calls(round_info)
+            return round_info, marker, calls, round_html, None, session
         except Exception as exc:  # pylint: disable=broad-except
-            return round_info, marker, [], "", exc
+            return round_info, marker, [], "", exc, None
 
-    round_results: List[Tuple[OK1WCRound, Path, List[str], str, Exception | None]] = []
+    round_results: List[
+        Tuple[OK1WCRound, Path, List[str], str, Exception | None, OK1WCSession | None]
+    ] = []
     if pending_rounds:
         max_workers = min(OK1WC_CALL_DISCOVERY_WORKERS, len(pending_rounds))
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -3586,11 +3651,11 @@ def tasks_ok1wc(last: int | None) -> List[DownloadTask]:
         reverse=True,
     )
 
-    for round_info, marker, calls, round_html, exc in round_results:
+    for round_info, marker, calls, round_html, exc, round_session in round_results:
         if exc is not None:
             with PRINT_LOCK:
                 print(f"OK1WC round failed {round_info.jobdate}: {exc}")
-            continue
+            raise RuntimeError(f"OK1WC inventory failed for {round_info.date_iso}") from exc
         if not calls:
             has_reference_form = "table_out_vypis" in round_html
             page_bytes = len(round_html.encode("utf-8", errors="ignore"))
@@ -3599,7 +3664,7 @@ def tasks_ok1wc(last: int | None) -> List[DownloadTask]:
                     f"OK1WC fail (no calls): {round_info.jobdate} "
                     f"bytes={page_bytes} reference_form={has_reference_form}"
                 )
-            continue
+            raise RuntimeError(f"OK1WC published round has no station references: {round_info.date_iso}")
 
         with PRINT_LOCK:
             print(
@@ -3615,7 +3680,7 @@ def tasks_ok1wc(last: int | None) -> List[DownloadTask]:
         if skip:
             ok1wc_write_round_marker(marker, round_info, calls)
             continue
-        get_log_session = ok1wc_make_round_session_getter(round_info)
+        get_log_session = ok1wc_make_round_session_getter(round_info, round_session)
         created = 0
         for call, dest in zip(calls, dests):
             if not ok1wc_should_write_log(dest, round_info):
@@ -4015,7 +4080,7 @@ def tasks_yudx(last: int | None) -> List[DownloadTask]:
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"YUDX list failed {year}: {exc}")
-            continue
+            raise RuntimeError(f"YU DX inventory failed for {year}") from exc
         if not metas:
             continue
         if not yudx_year_has_qso_rows(year, metas):
@@ -4565,7 +4630,7 @@ def tasks_hrs_hf(last: int | None) -> List[DownloadTask]:
     except Exception as exc:  # pylint: disable=broad-except
         with PRINT_LOCK:
             print(f"9A HRS discovery failed: {exc}")
-        return tasks
+        raise RuntimeError("9A HRS discovery failed") from exc
     with PRINT_LOCK:
         print(f"9A HRS: discovered {len(rounds)} official rounds")
     for round_info in rounds:
@@ -4574,7 +4639,7 @@ def tasks_hrs_hf(last: int | None) -> List[DownloadTask]:
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"9A HRS list failed {round_info.cid}: {exc}")
-            continue
+            raise RuntimeError(f"9A HRS inventory failed for {round_info.cid}") from exc
         if not call_infos:
             with PRINT_LOCK:
                 print(f"9A HRS skip (no calls): {round_info.cid}")
@@ -4734,14 +4799,16 @@ def tasks_sac(last: int | None) -> List[DownloadTask]:
     except Exception as exc:  # pylint: disable=broad-except
         with PRINT_LOCK:
             print(f"SAC discovery failed: {exc}")
-        return tasks
+        raise RuntimeError("SAC discovery failed") from exc
+    if not year_modes:
+        raise RuntimeError("SAC public-log index contains no recognized year/mode links")
     for year, mode in year_modes:
         try:
             logs = sac_discover_logs(year, mode)
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"SAC list failed {year} {mode.upper()}: {exc}")
-            continue
+            raise RuntimeError(f"SAC inventory failed for {year} {mode.upper()}") from exc
         if not logs:
             with PRINT_LOCK:
                 print(f"SAC skip (no logs): {year} {mode.upper()}")
@@ -4883,14 +4950,16 @@ def tasks_ure(last: int | None) -> List[DownloadTask]:
     except Exception as exc:  # pylint: disable=broad-except
         with PRINT_LOCK:
             print(f"URE discovery failed: {exc}")
-        return tasks
+        raise RuntimeError("URE discovery failed") from exc
+    if not contests:
+        raise RuntimeError("URE public-log index contains no recognized contest links")
     for contest in contests:
         try:
             logs = ure_discover_logs(contest)
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 print(f"URE list failed {contest.code}-{contest.year}: {exc}")
-            continue
+            raise RuntimeError(f"URE inventory failed for {contest.code}-{contest.year}") from exc
         if not logs:
             with PRINT_LOCK:
                 print(f"URE skip (no logs): {contest.code}-{contest.year}")
@@ -5341,7 +5410,13 @@ def _main() -> int:
                 if task.task_key and task.task_hash:
                     with task_lock:
                         task_done[task.task_key] = task_done.get(task.task_key, 0) + 1
-                        if valid_existing_log(task.dest):
+                        if "output_count" in counts:
+                            if task_done[task.task_key] == 1:
+                                task_output_counts[task.task_key] = 0
+                            task_output_counts[task.task_key] += counts["output_count"]
+                            empty_key = f"{task.task_key}:empty"
+                            task_output_counts[empty_key] = task_output_counts.get(empty_key, 0) + counts.get("empty_count", 0)
+                        elif valid_existing_log(task.dest):
                             task_output_counts[task.task_key] = (
                                 task_output_counts.get(task.task_key, 0) + 1
                             )
@@ -5357,6 +5432,7 @@ def _main() -> int:
                                     task.task_hash,
                                     task_counts.get(task.task_key, 0),
                                     output_count=task_output_counts.get(task.task_key, 0),
+                                    empty_count=task_output_counts.get(f"{task.task_key}:empty"),
                                 )
                 return counts
             except Exception as exc:  # pylint: disable=broad-except
@@ -5390,7 +5466,7 @@ def _main() -> int:
                         else:
                             counts = future.result()
                         with counts_lock:
-                            add_counts(provider_counts, counts)
+                            record_task_result(provider_counts, counts)
             finally:
                 if cancel_event.is_set():
                     executor.shutdown(wait=True, cancel_futures=True)
@@ -5405,7 +5481,7 @@ def _main() -> int:
                                     print(f"fail cancelled task cleanup: {exc}")
                                 counts = {"error": 1}
                         with counts_lock:
-                            add_counts(provider_counts, counts)
+                            record_task_result(provider_counts, counts)
 
     def download_provider(sel: int, tasks: List[DownloadTask]) -> None:
         name, _ = PROVIDERS[sel]
@@ -5442,16 +5518,11 @@ def _main() -> int:
                 with provider_lock:
                     counts = dict(provider_counts)
                 elapsed = int(time.time() - provider_start)
-                completed = (
-                    counts.get("ok", 0)
-                    + counts.get("skip", 0)
-                    + counts.get("error", 0)
-                    + counts.get("cancel", 0)
-                )
+                completed = counts.get("tasks_completed", 0)
                 with PRINT_LOCK:
                     print(
                         f"heartbeat {sel}) {name}: tasks completed={completed}/{len(tasks)} "
-                        f"failed={counts.get('error', 0)} elapsed={elapsed}s"
+                        f"failed={counts.get('tasks_failed', 0)} elapsed={elapsed}s"
                     )
 
         hb_thread = threading.Thread(target=heartbeat)
@@ -5616,7 +5687,7 @@ def _main() -> int:
         print("\nSummary:")
         print(f"  providers: {len(selections)}")
         print(f"  provider tasks queued: {total_tasks}")
-        print(f"  files written: {total_counts.get('ok', 0)}")
+        print(f"  files written: {total_counts.get('written_files', 0)}")
         print(f"  skipped: {total_counts.get('skip', 0)}")
         print(f"  download errors: {total_counts.get('error', 0)}")
         print(f"  discovery failures: {len(discovery_failures)}")
@@ -5635,7 +5706,7 @@ def _main() -> int:
                 else ""
             )
             print(
-                f"  {sel}) {name:<40} ok {stats.get('ok', 0):>6} "
+                f"  {sel}) {name:<40} files {stats.get('written_files', 0):>6} "
                 f"skip {stats.get('skip', 0):>6} err {stats.get('error', 0):>4} "
                 f"{cancel_part}tasks {queued:>6} time {provider_elapsed:>5}s"
             )

@@ -3,6 +3,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 
 def load_downloader_module():
@@ -31,6 +32,16 @@ class FakeOK1WCSession:
 
 
 class OK1WCProviderTests(unittest.TestCase):
+    def test_session_rejects_incomplete_html_response(self):
+        session = pld.OK1WCSession()
+        response = mock.MagicMock()
+        response.__enter__.return_value = response
+        response.headers.get_content_charset.return_value = 'utf-8'
+        response.read.return_value = b'<html>partial station table'
+        with mock.patch.object(session.opener, 'open', return_value=response):
+            with self.assertRaisesRegex(ValueError, 'incomplete HTML'):
+                session.fetch_text('https://example.invalid', retries=1)
+
     def round_info(self):
         return pld.OK1WCRound(
             kolo="709",
@@ -109,6 +120,7 @@ class OK1WCProviderTests(unittest.TestCase):
             pld.ok1wc_discover_rounds = lambda _last: [round_info]
 
             def fake_fetch_round_calls(_round_info):
+                session.fetch_round_page(_round_info)
                 return session, ["DH0GHU", "S53M"], "<form action='table_out_vypis'></form>"
 
             def fake_fetch_log_html(fetch_session, _round_info, call):

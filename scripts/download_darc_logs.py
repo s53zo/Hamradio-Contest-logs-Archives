@@ -206,11 +206,15 @@ def calls_from_table(html_text: str) -> List[str]:
 
 
 def current_period_from_loglist(html_text: str) -> Tuple[int | None, str | None]:
-    edition_match = re.search(r"(20\d{2})\s*/\s*([a-z]{3})", html_text, flags=re.IGNORECASE)
-    if edition_match:
-        return int(edition_match.group(1)), edition_match.group(2).lower()
-    years = [int(y) for y in re.findall(r"(20\d{2})", html_text)]
-    return (max(years), None) if years else (None, None)
+    for heading in re.findall(r"<h[1-3][^>]*>(.*?)</h[1-3]>", html_text, re.I | re.S):
+        title = html.unescape(re.sub(r"<[^>]+>", " ", heading))
+        match = re.search(
+            r"(20\d{2})(?:\s*/\s*([a-z]{3}))?\s*(?:Final scores|Classified logs)",
+            title, re.I,
+        )
+        if match:
+            return int(match.group(1)), match.group(2).lower() if match.group(2) else None
+    return None, None
 
 
 def discover_loglist(spec: ContestSpec) -> Tuple[int | None, str | None, List[str]]:
@@ -227,6 +231,7 @@ def discover_years(spec: ContestSpec, loglist_year: int | None) -> List[int]:
     html_text = fetch_text(url)
     for match in re.finditer(r'<option[^>]*value=\"(\d{4})\"', html_text):
         years.add(int(match.group(1)))
+    public_years = set(years)
     if spec.editions:
         for match in re.finditer(r'<option[^>]*value=\"([a-z]{3})\"', html_text, flags=re.IGNORECASE):
             value = match.group(1).lower()
@@ -238,6 +243,8 @@ def discover_years(spec: ContestSpec, loglist_year: int | None) -> List[int]:
         years.add(int(match.group(1)))
     if loglist_year:
         years.add(loglist_year)
+    if public_years:
+        years = {year for year in years if year <= max(public_years)}
     years.discard(0)
     return sorted(years, reverse=True)
 

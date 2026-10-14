@@ -80,6 +80,7 @@ REQUEST_TIMEOUT = 30
 DEFAULT_WORKERS = 10
 BASE_URL = "http://okomdx.crk.cz"
 RESULTS_INDEX = f"{BASE_URL}/index.php?page=results"
+RTTY_INDEX = "http://okrtty.crk.cz/"
 OUTPUT_ROOT_OKOM = Path("OK_OM_DX_Contest")
 OUTPUT_ROOT_OK = Path("OK_Contest")
 OUTPUT_ROOT_RTTY = Path("OK_DX_RTTY_contest")
@@ -131,9 +132,9 @@ def discover_rounds(page_slug: str) -> List[int]:
     return rounds
 
 
-def discover_calls(id_round: int) -> List[str]:
+def discover_calls(id_round: int, result_html: str | None = None) -> List[str]:
     url = f"{BASE_URL}/eval/index.php?str=results&id_round={id_round}"
-    html_text = fetch_text(url)
+    html_text = result_html if result_html is not None else fetch_text(url)
     region_raw = re.findall(r"region=([^&\"'>\\s]+)", html_text, flags=re.IGNORECASE)
     regions = []
     for region in region_raw:
@@ -150,7 +151,7 @@ def discover_calls(id_round: int) -> List[str]:
     seen: set[str] = set()
     uniq: List[str] = []
     for result_url in result_urls:
-        page_html = fetch_text(result_url)
+        page_html = html_text if result_url == url else fetch_text(result_url)
         for match in pattern.finditer(page_html):
             call = match.group(1).upper()
             if call in seen:
@@ -181,6 +182,57 @@ class LogMeta:
     call: str
     operators: str
     category: str
+
+
+@dataclass(frozen=True)
+class RoundPage:
+    year: int
+    id_round: int
+    html_text: str
+
+
+def discover_shared_rounds(last: int | None) -> List[RoundPage]:
+    """Discover supported contests in the shared CRK evaluation database."""
+    highest_round = 0
+    newest_year = 0
+    for index_url in (RESULTS_INDEX, RTTY_INDEX):
+        page = fetch_text(index_url)
+        slugs = set(re.findall(r"page=(\d{4}-\d+)", page))
+        if not slugs:
+            raise RuntimeError(f"Contest year index format not recognized: {index_url}")
+        index_year = max(int(slug.split('-')[0]) for slug in slugs)
+        newest_year = max(newest_year, index_year)
+        for slug in sorted(slugs):
+            if int(slug.split('-')[0]) != index_year:
+                continue
+            year_url = urllib.parse.urljoin(index_url, f"index.php?page={slug}")
+            year_page = fetch_text(year_url)
+            ids = [int(value) for value in re.findall(r"id_round=(\d+)", year_page)]
+            highest_round = max([highest_round] + ids)
+    if not highest_round:
+        raise RuntimeError("No evaluation round links recognized on the contest year pages")
+    # One older calendar year allows a mode whose current event is still future
+    # to supply its latest published logs. Selection by mode happens upstream.
+    oldest_year = newest_year - last if last else 0
+    rounds: List[RoundPage] = []
+    for round_id in range(highest_round, 0, -1):
+        page = fetch_text(f"{BASE_URL}/eval/index.php?str=results&id_round={round_id}")
+        heading = re.search(r"<h2[^>]*>(.*?)</h2>", page, re.I | re.S)
+        if not heading:
+            continue
+        title = _clean(heading.group(1))
+        if not re.search(r"OK(?:-OM DX| DX RTTY| CW| SSB)\s+(?:contest|závod)", title, re.I):
+            continue
+        year_match = re.search(r"\b(?:19|20)\d{2}\b", title)
+        if not year_match:
+            continue
+        year = int(year_match.group(0))
+        if oldest_year and year < oldest_year:
+            break
+        if 'str=log' not in page:
+            continue
+        rounds.append(RoundPage(year, round_id, page))
+    return rounds
 
 
 def _normalize_mode_label(token: str) -> str:
@@ -408,17 +460,8 @@ def iter_year_pages(last: int | None) -> List[Tuple[int, str]]:
     pages = discover_year_pages()
     pages.sort(reverse=True)
     if last:
-        years_seen: set[int] = set()
-        limited: List[Tuple[int, str]] = []
-        for year, slug in pages:
-            if year in years_seen:
-                limited.append((year, slug))
-                continue
-            years_seen.add(year)
-            if len(years_seen) > last:
-                continue
-            limited.append((year, slug))
-        pages = limited
+        selected_years = set(sorted({year for year, _slug in pages}, reverse=True)[:last])
+        pages = [(year, slug) for year, slug in pages if year in selected_years]
     return pages
 
 

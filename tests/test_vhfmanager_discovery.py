@@ -11,6 +11,25 @@ import download_vhfmanager_logs as vhf  # noqa: E402
 
 
 class VhfManagerDiscoveryTests(unittest.TestCase):
+    def test_log_links_preserve_category_and_deduplicate_log_ids(self) -> None:
+        contest = vhf.Contest(490, "ALPE ADRIA", "https://vhfmanager.net/modules/results.php")
+        page = '''<table>
+        <tr><th colspan="15">145 MHz - multi op</th></tr>
+        <tr><td><a href="display_log.php?ContestID=490&amp;logID=1">S53M</a></td></tr>
+        <tr><td><a href="display_log.php?ContestID=490&amp;logID=1&amp;language=G">S53M</a></td></tr>
+        <tr><th colspan="15">435 MHz - single op</th></tr>
+        <tr><td><a href="display_log.php?ContestID=490&amp;logID=2">S53ZO</a></td></tr>
+        </table>'''
+        links = vhf.parse_log_links(contest, page)
+        self.assertEqual(len(links), 2)
+        self.assertEqual([link.category_hint for link in links],
+                         ["145 MHz - multi op", "435 MHz - single op"])
+
+    def test_three_digit_result_rank_is_not_a_callsign_hint(self):
+        contest = vhf.Contest(490, 'Contest', 'https://example.invalid/results')
+        page = '<tr><td>123</td><td><a href="display_log.php?ContestID=490&amp;logID=1">S53ZO</a></td></tr>'
+        self.assertEqual(vhf.parse_log_links(contest, page)[0].call_hint, 'S53ZO')
+
     def test_discovery_start_uses_state_high_watermark(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             state_root = Path(temp_dir)

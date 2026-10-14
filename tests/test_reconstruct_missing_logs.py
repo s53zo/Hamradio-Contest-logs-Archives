@@ -25,6 +25,32 @@ reconstruct = load_reconstruct_module()
 
 
 class ReconstructMissingLogsTests(unittest.TestCase):
+    def test_rainscatter_rst_is_not_mistaken_for_a_callsign(self):
+        self.assertFalse(reconstruct.looks_like_callsign("59S"))
+        qso = reconstruct.parse_qso_line(
+            "QSO: 10000000 CW 2026-06-21 1100 OE5VRL 59S 12 JN78DK DL9GRE 59S 8 JO61FH"
+        )
+        self.assertIsNotNone(qso)
+        self.assertEqual(qso.theircall, "DL9GRE")
+        self.assertEqual(qso.sent_exch, ["59S", "12", "JN78DK"])
+        self.assertEqual(qso.recv_exch, ["59S", "8", "JO61FH"])
+
+    def test_special_calls_are_disambiguated_by_received_rst(self):
+        for call in ("OK70", "OM77PA"):
+            with self.subTest(call=call):
+                qso = reconstruct.parse_qso_line(
+                    f"QSO: 7000 CW 2026-01-01 1200 S53ZO 599 14 {call} 599 15"
+                )
+                self.assertIsNotNone(qso)
+                self.assertEqual(qso.theircall, call)
+
+    def test_sent_locator_and_region_are_not_special_calls_without_rst_boundary(self):
+        qso = reconstruct.parse_qso_line(
+            "QSO: 144300 PH 2026-01-01 1200 S53ZO 59 001 JN76 K1ABC 59 002 FN42"
+        )
+        self.assertEqual(qso.theircall, "K1ABC")
+        self.assertEqual(qso.sent_exch, ["59", "001", "JN76"])
+
     def write_source_log(self, contest_dir, qso_count=12):
         contest_dir.mkdir(parents=True)
         lines = ["START-OF-LOG: 3.0", "CALLSIGN: S53M", "CONTEST: TEST"]

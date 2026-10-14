@@ -67,6 +67,16 @@ The script runs `git pull --ff-only` and then publishes all providers with
 `--last 1`. Additional updater options are passed through, such as
 `--workers 8` or `--skip-tests`.
 
+Before pulling, the script verifies that its Python interpreter can load SSL
+and create a certificate-verifying HTTPS context. When the default `python3`
+has broken SSL dependencies, it tries installed versioned interpreters from
+Python 3.15 through 3.10. An explicit `PYTHON_BIN` is always honored and validated.
+To select an interpreter directly:
+
+```sh
+PYTHON_BIN=/path/to/python3 ./scripts/update_last_year_and_push.sh
+```
+
 Its explicit equivalent is:
 
 ```sh
@@ -193,6 +203,7 @@ state/downloads/tasks.sqlite
 state/reconstruction/ledgers/
 state/providers/ok1wc.json
 state/providers/vhfmanager/checklogs/<contest_id>/<log_id>.done
+state/providers/vhfmanager/hf_parser.json
 state/schema.json
 ```
 

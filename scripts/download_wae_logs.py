@@ -136,7 +136,6 @@ def discover_years(mode_base: str) -> List[int]:
         # The Open Log form may expose the current calendar year before that
         # mode has published results or logs (for example RTTY 2026 in August).
         years = {year for year in years if year <= loglist_year}
-        years.add(loglist_year)
     return sorted(years, reverse=True)
 
 

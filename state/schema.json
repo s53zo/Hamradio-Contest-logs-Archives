@@ -1,5 +1,5 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "downloads": {
     "task_ledger": "state/downloads/tasks.sqlite",
     "task_ledger_schema": 2,
@@ -9,7 +9,8 @@
     "ok1wc": "state/providers/ok1wc.json",
     "vhfmanager": {
       "checklog_marker_root": "state/providers/vhfmanager/checklogs",
-      "checklog_marker_pattern": "{contest_id}/{log_id}.done"
+      "checklog_marker_pattern": "{contest_id}/{log_id}.done",
+      "hf_parser_state": "state/providers/vhfmanager/hf_parser.json"
     }
   },
   "reconstruction": {

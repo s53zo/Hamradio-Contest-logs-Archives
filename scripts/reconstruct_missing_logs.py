@@ -24,7 +24,7 @@ from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 from archive_storage import ArchiveInventory, atomic_write_text
 
 
-RECONSTRUCTION_ALGORITHM_VERSION = 5
+RECONSTRUCTION_ALGORITHM_VERSION = 6
 STATE_SCHEMA_VERSION = 4
 _MATERIALIZED_WORKSPACE: tempfile.TemporaryDirectory[str] | None = None
 
@@ -271,7 +271,7 @@ def normalize_call(call: str) -> str:
 
 PORTABLE_SUFFIXES = {"P", "M", "MM", "AM", "QRP"}
 GRID_RE = re.compile(r"^[A-R]{2}[0-9]{2}([A-X]{2}([0-9]{2})?)?$")
-RST_RE = re.compile(r"^[1-5][0-9N]{2}$")
+RST_RE = re.compile(r"^[1-5][0-9N][0-9NS]$")
 
 
 def base_call(call: str) -> str:
@@ -368,6 +368,14 @@ def looks_like_callsign(token: str) -> bool:
 def find_theircall_index(tokens: List[str]) -> Optional[int]:
     for idx, token in enumerate(tokens):
         if looks_like_callsign(token):
+            return idx
+        # Special calls can resemble locators or region exchanges. A following
+        # received RST identifies the callsign boundary in these Cabrillo rows.
+        if (
+            idx + 1 < len(tokens)
+            and re.fullmatch(r"[A-Z]{1,3}\d{1,4}[A-Z]{0,3}", normalize_call(token))
+            and re.fullmatch(r"[1-5][0-9N](?:[0-9NS])?", tokens[idx + 1])
+        ):
             return idx
     return None
 

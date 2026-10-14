@@ -329,9 +329,18 @@ def parse_contest_name(html_text: str, cid: int) -> str:
 
 def parse_log_links(contest: Contest, html_text: str) -> List[LogLink]:
     links: List[LogLink] = []
+    seen: set[Tuple[Optional[int], Optional[int]]] = set()
+    category_hint = None
     row_re = re.compile(r"<tr[^>]*>(.*?)</tr>", flags=re.IGNORECASE | re.DOTALL)
     for row_match in row_re.finditer(html_text):
         row_html = row_match.group(1)
+        category_match = re.search(
+            r"<th[^>]*colspan=['\"]?\d+['\"]?[^>]*>(.*?)</th>",
+            row_html,
+            flags=re.IGNORECASE | re.DOTALL,
+        )
+        if category_match:
+            category_hint = clean(category_match.group(1))
         if "display_log" not in row_html.lower():
             continue
         href_match = re.search(
@@ -343,14 +352,22 @@ def parse_log_links(contest: Contest, html_text: str) -> List[LogLink]:
             continue
         href = html.unescape(href_match.group(1))
         abs_url = urllib.parse.urljoin(contest.results_url, href)
+        identity = (contest_id_from_url(abs_url), log_id_from_url(abs_url))
+        if identity in seen:
+            continue
+        seen.add(identity)
         cells = re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", row_html, flags=re.IGNORECASE | re.DOTALL)
         call_hint = None
         for cell in cells:
             text = clean(cell).upper()
-            if re.match(r"^[A-Z0-9/]{3,}$", text):
+            if (
+                re.match(r"^[A-Z0-9/]{3,}$", text)
+                and re.search(r"[A-Z]", text)
+                and re.search(r"\d", text)
+            ):
                 call_hint = text
                 break
-        links.append(LogLink(url=abs_url, call_hint=call_hint, category_hint=None))
+        links.append(LogLink(url=abs_url, call_hint=call_hint, category_hint=category_hint))
     return links
 
 
@@ -420,7 +437,7 @@ def is_qso_view_url(url: str) -> bool:
 
 def extract_checklog_links(html_text: str, base_url: str) -> List[LogLink]:
     table_match = re.search(
-        r"<table>\s*<thead>.*?</thead>\s*<tbody>(.*?)</tbody>",
+        r"<table\b[^>]*>\s*<thead\b[^>]*>.*?</thead>\s*<tbody\b[^>]*>(.*?)</tbody>",
         html_text,
         flags=re.IGNORECASE | re.DOTALL,
     )
@@ -678,7 +695,41 @@ def parse_qsos(
 ) -> List[Tuple[int, str, str, str, str, str, str, str, str, int]]:
     if pmc_designation or "pmc" in contest.name.lower():
         return parse_qsos_pmc(html_text, category, pmc_designation)
+    hf_qsos = parse_qsos_hf(html_text)
+    if hf_qsos is not None:
+        return hf_qsos
     return parse_qsos_vhf(html_text, mycall, category, station_locator)
+
+
+def parse_qsos_hf(html_text: str):
+    """Recognize the two HF reference-table layouts served by VHFManager."""
+    for headers, rows in parse_tables(html_text):
+        normalized = [header.lower() for header in headers]
+        frequency_layout = normalized[:3] == ["frekvenca", "datum", "gmt"]
+        timed_layout = normalized[:4] == ["čas", "znak", "band", "mode"]
+        if not frequency_layout and not timed_layout:
+            continue
+        qsos = []
+        for row in rows:
+            if frequency_layout and len(row) >= 9:
+                frequency, date_value, time_value, call, mode, rst_s, exch_s, rst_r, exch_r = row[:9]
+            elif timed_layout and len(row) >= 9:
+                date_value, _, time_value = row[0].partition(" ")
+                call, frequency, mode, rst_s, exch_s = row[1:6]
+                rst_r, exch_r = row[7:9]
+            else:
+                continue
+            match = re.search(r"(\d+(?:[.,]\d+)?)\s*(MHz|kHz)", frequency, re.I)
+            if not match or not re.fullmatch(r"[A-Z0-9/]{3,}", call.upper()):
+                continue
+            value = float(match.group(1).replace(",", "."))
+            freq = int(round(value * (1000 if match.group(2).lower() == "mhz" else 1)))
+            mode_out = "PH" if mode.upper() in {"SSB", "PHONE"} else mode.upper()
+            qsos.append((freq, parse_date(date_value), parse_time_val(time_value),
+                         call.upper(), rst_s, exch_s.rstrip("*"), rst_r,
+                         exch_r.rstrip("*"), mode_out, freq))
+        return qsos
+    return None
 
 
 def contest_year_from_links(
@@ -829,6 +880,8 @@ def band_label_from_qsos(qsos: Sequence[Tuple[int, str, str, str, str, str, str,
     bands = {band for *_rest, band in qsos if band}
     if not bands:
         return "unknown_band"
+    if max(bands) < 30000:
+        return "HF"
     band = sorted(bands)[0]
     return f"{int(round(band / 1000))}MHz"
 
@@ -1011,6 +1064,7 @@ def download_contest_logs(
     workers: int,
     max_logs: Optional[int],
     include_checklogs: bool = True,
+    recheck_processed: bool = False,
 ) -> Dict[str, int]:
     seen: set[str] = set()
     pending: List[LogLink] = []
@@ -1019,7 +1073,7 @@ def download_contest_logs(
     for link in seed_links:
         url = normalize_log_url(link.url, contest.results_url)
         log_id = log_id_from_url(url)
-        if checklog_marker_exists(contest, log_id):
+        if not recheck_processed and checklog_marker_exists(contest, log_id):
             skipped_seed += 1
             continue
         if url in seen:
@@ -1101,7 +1155,7 @@ def download_contest_logs(
                         break
                     url = normalize_log_url(new_link.url, contest.results_url)
                     log_id = log_id_from_url(url)
-                    if checklog_marker_exists(contest, log_id):
+                    if not recheck_processed and checklog_marker_exists(contest, log_id):
                         continue
                     if url in seen:
                         continue

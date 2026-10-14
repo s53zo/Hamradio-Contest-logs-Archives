@@ -302,6 +302,8 @@ Tracked cross-computer state is under `state/`:
 - `state/providers/ok1wc.json` stores OK1WC publication levels.
 - `state/providers/vhfmanager/checklogs/<contest_id>/<log_id>.done` records
   processed VHFManager seed and referenced check logs.
+- `state/providers/vhfmanager/hf_parser.json` records completed HF table-parser
+  recovery so legacy empty-result markers do not hide available HF logs.
 - `state/schema.json` records canonical state locations.
 
 No-op runs leave these files byte-for-byte unchanged. Local transaction and
