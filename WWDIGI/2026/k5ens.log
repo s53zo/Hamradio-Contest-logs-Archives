@@ -1,0 +1,42 @@
+START-OF-LOG: 3.0
+CONTEST: WW-DIGI
+CALLSIGN: K5ENS
+LOCATION: NTX
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY-MODE: DIGI
+CATEGORY-TRANSMITTER: ONE
+GRID-LOCATOR: EM03RU
+CLAIMED-SCORE: 322
+NAME: Ken Schumacher
+OPERATORS: K5ENS
+CLUB: DFW CONTEST GROUP
+SOAPBOX: Logging with RUMLogNG (v 6.5) Contest mode, Radio: IC-7300 into an AH-4 rem
+SOAPBOX: ote tuner with a random long wire of near 100 feet long at about 18 feet up
+SOAPBOX: . I was using wsjt-x v3.0.2 for the FT8 & FT4. I had trouble getting starte
+SOAPBOX: d due to one mistake (my own fault) configuring the WSJT-X software CAT int
+SOAPBOX: erface. After solving that problem, I was able to spend just under 3 hours
+SOAPBOX: working contacts. I made just 16 QSOs across 3 bands. I learned a lot about
+SOAPBOX: configuring the various software to talk to each other and the radio. And
+SOAPBOX: I intend to write up some good notes so I don't have to relearn these thing
+SOAPBOX: s the next time.
+CREATED-BY: RUMlogNG (6.5) by DL2RUM
+QSO:   14080 DG 2026-08-30 0311 K5ENS            EM03   VE6WQ            DO33    0
+QSO:   14080 DG 2026-08-30 0318 K5ENS            EM03   XE2MAM           DM61    0
+QSO:   14080 DG 2026-08-30 0323 K5ENS            EM03   K6XX             CM87    0
+QSO:   14080 DG 2026-08-30 0325 K5ENS            EM03   N7UJJ            DN43    0
+QSO:   14080 DG 2026-08-30 0329 K5ENS            EM03   RW0AR            NO66    0
+QSO:    7048 DG 2026-08-30 0352 K5ENS            EM03   TI1T             EJ79    0
+QSO:    3573 DG 2026-08-30 0441 K5ENS            EM03   W1IE             FM07    0
+QSO:    3573 DG 2026-08-30 0447 K5ENS            EM03   VP2MAA           FK86    0
+QSO:    3573 DG 2026-08-30 0453 K5ENS            EM03   VE3MGY           EN92    0
+QSO:    3573 DG 2026-08-30 0502 K5ENS            EM03   VE3BR            FN03    0
+QSO:    3573 DG 2026-08-30 0514 K5ENS            EM03   K4YT             FM19    0
+QSO:    3573 DG 2026-08-30 0516 K5ENS            EM03   N8HRZ            EN91    0
+QSO:    7048 DG 2026-08-30 0545 K5ENS            EM03   N8HRZ            EN91    0
+QSO:    7048 DG 2026-08-30 0548 K5ENS            EM03   WX4DAT           EM95    0
+QSO:    7048 DG 2026-08-30 0551 K5ENS            EM03   W4IDX            DM24    0
+QSO:   14080 DG 2026-08-30 0558 K5ENS            EM03   CE3TSK           FF46    0
+END-OF-LOG:
