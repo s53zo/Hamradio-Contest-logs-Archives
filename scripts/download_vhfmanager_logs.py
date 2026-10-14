@@ -17,11 +17,13 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import html
+import json
 import os
 import random
 import re
 import socket
 import subprocess
+import tempfile
 import threading
 import time
 import urllib.error
@@ -414,6 +416,42 @@ def normalize_log_url(url: str, base_url: str) -> str:
     return urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, parsed.path, parsed.query, ""))
 
 
+def kvp_contest_ids() -> set[int]:
+    from download_zrs_kvp_logs import discover_seasons
+    return {int(season.contest_id) for season in discover_seasons(None)}
+
+
+def quarantine_untracked_kvp(repo_root: Path, contest_ids: set[int], dry_run: bool = False) -> Tuple[int, Optional[Path]]:
+    result = subprocess.run(
+        ["git", "ls-files", "-z", "--others", "--exclude-standard", "--", "EU_VHF_CONTESTS"],
+        cwd=repo_root, check=True, stdout=subprocess.PIPE,
+    )
+    paths = []
+    for raw in result.stdout.split(b"\0"):
+        if not raw:
+            continue
+        path = Path(os.fsdecode(raw))
+        match = re.search(r"_(\d+)$", path.parts[1]) if len(path.parts) >= 3 else None
+        if match and int(match.group(1)) in contest_ids and path.suffix.lower() == ".log":
+            paths.append(path)
+    if dry_run or not paths:
+        return len(paths), None
+    git_path = subprocess.run(["git", "rev-parse", "--git-dir"], cwd=repo_root,
+                              check=True, text=True, stdout=subprocess.PIPE).stdout.strip()
+    git_dir = Path(git_path)
+    if not git_dir.is_absolute():
+        git_dir = repo_root / git_dir
+    quarantine_root = git_dir / "hcla/quarantine"
+    quarantine_root.mkdir(parents=True, exist_ok=True)
+    backup = Path(tempfile.mkdtemp(prefix="kvp-", dir=quarantine_root))
+    for relative in paths:
+        target = backup / relative
+        target.parent.mkdir(parents=True, exist_ok=True)
+        (repo_root / relative).replace(target)
+    atomic_write_text(backup / "manifest.json", json.dumps([path.as_posix() for path in paths], indent=2) + "\n")
+    return len(paths), backup
+
+
 def contest_id_from_url(url: str) -> Optional[int]:
     parsed = urllib.parse.urlsplit(url)
     q = urllib.parse.parse_qs(parsed.query)
@@ -522,7 +560,13 @@ def parse_qsos_vhf(
             continue
         fields = [clean(c) for c in cells]
         date_val, time_val, their_call, mode, rst_s, nr_s, rst_r, nr_r, wwl = (fields + [""] * 9)[:9]
-        if not their_call:
+        if (
+            not re.fullmatch(r"\d{1,2}[./-]\d{1,2}[./-]\d{2,4}", date_val)
+            or not re.fullmatch(r"\d{1,2}[:.]\d{2}(?::\d{2})?|\d{4}", time_val)
+            or not re.fullmatch(r"[A-Z0-9/]{3,}", their_call.upper())
+            or not re.search(r"[A-Z]", their_call.upper())
+            or not re.search(r"\d", their_call)
+        ):
             continue
         band_for_freq = band_hint if band_hint else 144000
         mode_upper = mode.upper()
@@ -913,6 +957,7 @@ def write_log(
     call: str,
     cab: str,
     file_tag: Optional[str],
+    overwrite: bool = False,
 ) -> Tuple[Path, str]:
     safe_call = safe_filename_component(call)
     safe_tag = re.sub(r"[^A-Za-z0-9_.-]+", "_", file_tag or "").strip("._")
@@ -922,7 +967,9 @@ def write_log(
     else:
         dest = output_root / contest_dir / f"{file_stem}.log"
     dest.parent.mkdir(parents=True, exist_ok=True)
-    if archive_log_exists(dest):
+    if archive_log_exists(dest) and not overwrite:
+        return dest, "skip"
+    if dest.is_file() and dest.read_text() == cab:
         return dest, "skip"
     atomic_write_text(dest, cab)
     return dest, "ok"
@@ -1066,7 +1113,31 @@ def download_contest_logs(
     include_checklogs: bool = True,
     recheck_processed: bool = False,
 ) -> Dict[str, int]:
-    seen: set[str] = set()
+    seen: set[tuple] = set()
+    seeds_by_call: dict[str, list[LogLink]] = {}
+    for link in seed_links:
+        if link.call_hint:
+            seeds_by_call.setdefault(link.call_hint.upper(), []).append(link)
+
+    def resolve_reference(link: LogLink) -> Tuple[LogLink, tuple]:
+        url = normalize_log_url(link.url, contest.results_url)
+        if is_qso_view_url(url):
+            call = (link.call_hint or "").upper()
+            band = extract_band_khz(link.category_hint)
+            if band == 145000:
+                band = 144000
+            candidates = seeds_by_call.get(call, [])
+            matching = [seed for seed in candidates
+                        if (144000 if extract_band_khz(seed.category_hint) == 145000
+                            else extract_band_khz(seed.category_hint)) == band]
+            candidates = matching or (candidates if len(candidates) == 1 else [])
+            if candidates:
+                seed = candidates[0]
+                url = normalize_log_url(seed.url, contest.results_url)
+                link = seed
+            else:
+                return LogLink(url, link.call_hint, link.category_hint), ("reference", contest.cid, call, band)
+        return LogLink(url, link.call_hint, link.category_hint), ("log", contest.cid, log_id_from_url(url))
     pending: List[LogLink] = []
     seed_urls: set[str] = set()
     skipped_seed = 0
@@ -1076,17 +1147,18 @@ def download_contest_logs(
         if not recheck_processed and checklog_marker_exists(contest, log_id):
             skipped_seed += 1
             continue
-        if url in seen:
+        identity = ("log", contest.cid, log_id)
+        if log_id is None or identity in seen:
             continue
         if contest_id_from_url(url) != contest.cid:
             continue
-        seen.add(url)
+        seen.add(identity)
         seed_urls.add(url)
         pending.append(LogLink(url=url, call_hint=link.call_hint, category_hint=link.category_hint))
 
     def worker(link: LogLink) -> Tuple[Dict[str, int], List[LogLink]]:
         is_seed = link.url in seed_urls
-        log_id = log_id_from_url(link.url)
+        log_id = None if is_qso_view_url(link.url) else log_id_from_url(link.url)
         if is_pmc_contest(contest) and is_qso_view_url(link.url):
             print(f"skip (pmc qso view): log_id={log_id}")
             write_checklog_marker(contest, log_id)
@@ -1111,7 +1183,8 @@ def download_contest_logs(
         cab = build_cabrillo(contest, call, category, qsos, is_pmc, operators)
         output_root = contest_output_root(is_pmc)
         file_tag = pmc_file_tag(category) if is_pmc else None
-        dest, status = write_log(output_root, contest_dir, band_label, call, cab, file_tag)
+        dest, status = write_log(output_root, contest_dir, band_label, call, cab, file_tag,
+                                 overwrite=recheck_processed)
         print(f"{'ok  ' if status == 'ok' else 'skip'} {dest}")
         write_checklog_marker(contest, log_id)
         if not include_checklogs:
@@ -1119,11 +1192,12 @@ def download_contest_logs(
         new_links = extract_checklog_links(page, link.url)
         if call:
             new_links = [lnk for lnk in new_links if lnk.call_hint != call]
+        new_links = [LogLink(lnk.url, lnk.call_hint, band_label) for lnk in new_links]
         return {status: 1}, new_links
 
     if max_logs:
         pending = pending[:max_logs]
-        seen = set(link.url for link in pending)
+        seen = {("log", contest.cid, log_id_from_url(link.url)) for link in pending}
 
     totals = empty_counts()
     totals["skip"] += skipped_seed
@@ -1153,16 +1227,19 @@ def download_contest_logs(
                 for new_link in new_links:
                     if max_logs and len(seen) >= max_logs:
                         break
-                    url = normalize_log_url(new_link.url, contest.results_url)
-                    log_id = log_id_from_url(url)
+                    if contest_id_from_url(new_link.url) != contest.cid:
+                        continue
+                    new_link, identity = resolve_reference(new_link)
+                    url = new_link.url
+                    log_id = None if is_qso_view_url(url) else log_id_from_url(url)
                     if not recheck_processed and checklog_marker_exists(contest, log_id):
                         continue
-                    if url in seen:
+                    if identity in seen:
                         continue
                     if contest_id_from_url(url) != contest.cid:
                         continue
-                    seen.add(url)
-                    pending.append(LogLink(url=url, call_hint=new_link.call_hint, category_hint=None))
+                    seen.add(identity)
+                    pending.append(new_link)
     return totals
 
 
@@ -1172,6 +1249,9 @@ def main() -> int:
     parser.add_argument("--last-contests", type=int, default=None, help="Limit to most recent N contests (by ID).")
     parser.add_argument("--max-logs", type=int, default=None, help="Optional cap on logs per contest (testing).")
     parser.add_argument("--only-pmc", action="store_true", help="Only download PMC contests.")
+    parser.add_argument("--quarantine-kvp", action="store_true",
+                        help="Move only untracked misplaced KVP logs to a recoverable local Git backup; stop downloaders first.")
+    parser.add_argument("--dry-run", action="store_true", help="Preview --quarantine-kvp without moving files.")
     parser.add_argument(
         "--no-checklogs",
         action="store_true",
@@ -1194,6 +1274,13 @@ def main() -> int:
         help="Disable task ledger usage.",
     )
     args = parser.parse_args()
+    if args.quarantine_kvp:
+        count, backup = quarantine_untracked_kvp(Path(__file__).resolve().parents[1], kvp_contest_ids(), args.dry_run)
+        print(f"KVP quarantine {'preview' if args.dry_run else 'complete'}: {count} untracked files" +
+              (f"; backup={backup}" if backup else ""))
+        return 0
+    if args.dry_run:
+        parser.error("--dry-run requires --quarantine-kvp")
     global TASK_LEDGER
     TASK_LEDGER = None if args.no_task_ledger else TaskLedger(args.task_ledger)
 
@@ -1205,7 +1292,11 @@ def main() -> int:
 
     any_downloaded = False
     total_skipped_seed = 0
+    kvp_ids = kvp_contest_ids()
     for contest in contests:
+        if contest.cid in kvp_ids:
+            print(f"skip (ZRS KVP provider owns contest): ContestID={contest.cid}")
+            continue
         try:
             contest, links = discover_logs(contest)
         except Exception as exc:  # pylint: disable=broad-except

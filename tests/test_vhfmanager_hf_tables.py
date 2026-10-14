@@ -53,6 +53,7 @@ class VhfManagerHFTablesTests(unittest.TestCase):
                 mock.patch.object(public, "REPO_ROOT", root),
                 mock.patch.object(vhf, "migrate_legacy_checklog_markers"),
                 mock.patch.object(vhf, "discover_contests", return_value=[contest]),
+                mock.patch.object(vhf, "kvp_contest_ids", return_value=set()),
                 mock.patch.object(vhf, "discover_logs", return_value=(contest, [link])),
                 mock.patch.object(vhf, "fetch_text", return_value="HF page"),
                 mock.patch.object(vhf, "parse_qsos_hf", return_value=[]),

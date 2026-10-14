@@ -2018,9 +2018,14 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
 
     vhf.migrate_legacy_checklog_markers()
     contests = vhf.discover_contests(None, recent_years=last) if last else vhf.discover_contests(None)
+    kvp_ids = vhf.kvp_contest_ids() if contests else set()
     hf_state = ProviderState(REPO_ROOT / "state/providers/vhfmanager/hf_parser.json")
     tasks: List[DownloadTask] = []
     for contest in contests:
+        if contest.cid in kvp_ids:
+            with PRINT_LOCK:
+                print(f"VHFManager skip (handled by ZRS KVP): ContestID={contest.cid}")
+            continue
         host = urllib.parse.urlparse(vhf.BASE_URL).hostname or "unknown"
         try:
             contest, links = vhf.discover_logs(contest)
@@ -2037,7 +2042,7 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
             sample_page = vhf.fetch_text(links[0].url)
             hf_table = vhf.parse_qsos_hf(sample_page) is not None
         hf_record = hf_state.get_scope(str(contest.cid)) or {}
-        recheck_processed = hf_table and hf_record.get("version") != 1
+        recheck_processed = hf_table and hf_record.get("version") != 2
         output_root = "WW_PMC" if vhf.is_pmc_contest(contest) else "EU_VHF_CONTESTS"
         task_key = f"{output_root}/{contest.cid}"
         skip, list_hash, count = task_should_skip(task_key, [lnk.url for lnk in links])
@@ -2055,7 +2060,7 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
                 recheck_processed=recheck_processed,
             )
             if recheck_processed and not counts.get("error", 0):
-                hf_state.update_scope(str(contest.cid), {"version": 1, "seed_count": len(links)})
+                hf_state.update_scope(str(contest.cid), {"version": 2, "seed_count": len(links)})
             return counts
 
         tasks.append(

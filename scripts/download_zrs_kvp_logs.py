@@ -218,7 +218,7 @@ def discover_seasons(limit_years: int | None) -> List[Season]:
             season_html = fetch_text(season_url)
         except Exception as exc:  # pylint: disable=broad-except
             print(f"Failed to fetch season page {season_url}: {exc}", file=sys.stderr)
-            continue
+            raise RuntimeError(f"ZRS KVP season discovery failed: {season_url}") from exc
         iframe_match = re.search(
             r'iframe[^>]+src="([^"]*results\.php[^"]*ContestID=(\d+)[^"]*)"',
             season_html,
@@ -232,6 +232,8 @@ def discover_seasons(limit_years: int | None) -> List[Season]:
         entries[(year, season)] = Season(year, season, contest_id, results_url)
 
     seasons = sorted(entries.values(), key=lambda s: (s.year, s.season), reverse=True)
+    if not seasons:
+        raise RuntimeError("ZRS KVP index contains no recognized seasonal contests")
     if limit_years:
         years_seen: List[int] = []
         limited: List[Season] = []

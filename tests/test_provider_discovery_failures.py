@@ -32,6 +32,7 @@ class ProviderDiscoveryFailuresTests(unittest.TestCase):
             ('tasks_arrl', None, [('arrl_discover_contests', [('Example', 'eid')])], 'arrl_discover_years'),
             ('tasks_vhfmanager', 'download_vhfmanager_logs',
              [('migrate_legacy_checklog_markers', None),
+              ('kvp_contest_ids', set()),
               ('discover_contests', [SimpleNamespace(cid=1)])], 'discover_logs'),
             ('tasks_darc_all', 'download_darc_logs', [], 'discover_loglist'),
             ('tasks_ref', 'download_ref_logs', [], 'discover_calls'),
