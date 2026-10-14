@@ -9,6 +9,8 @@ clones. It is committed with the logs and SH6 changes that depend on it.
   Mini-Test scopes use `WednesdayMiniTest40m/<date>` and
   `WednesdayMiniTest80m/<date>`; legacy year-only records are retained but no
   longer suppress round discovery. Existing remote-only logs remain reusable.
+  VHF reference hashes include a traversal revision; a complete hash represents
+  the reference walk, while individual seed markers alone do not.
 - `reconstruction/ledgers/` records completed reconstruction output and cache
   keys.
 - `providers/ok1wc.json` stores OK1WC publication levels by round.
@@ -21,3 +23,7 @@ clones. It is committed with the logs and SH6 changes that depend on it.
 Cookies, credentials, PID files, active transaction journals, SQLite sidecar
 files, and machine-specific paths do not belong here. Local transaction state
 is stored under `.git/hcla/`.
+
+Full recovery journals retain their stage, explicit malformed-file removal
+consent, and exact approved deletion paths. Recoverable artifact backups and
+manifests live under `.git/hcla/quarantine/`, not in this shared state directory.

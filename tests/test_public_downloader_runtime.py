@@ -19,6 +19,33 @@ import public_logs_downloader as public  # noqa: E402
 
 
 class PublicDownloaderRuntimeTests(unittest.TestCase):
+    def test_vhf_contest_batches_do_not_multiply_inner_worker_pools(self):
+        active = 0
+        maximum_active = 0
+        lock = threading.Lock()
+        def action():
+            nonlocal active, maximum_active
+            with lock:
+                active += 1
+                maximum_active = max(maximum_active, active)
+            time.sleep(0.02)
+            with lock:
+                active -= 1
+            return {"ok": 1}
+        tasks = [public.DownloadTask(dest=Path(f"EU_VHF_CONTESTS/fixture/K{number}ABC.log"), host="vhfmanager.net", source="VHFManager", action=action)
+                 for number in range(4)]
+        argv = ["public_logs_downloader.py", "--non-interactive", "--contests", "all", "--last", "1",
+                "--workers", "4", "--heartbeat", "0", "--no-task-ledger", "--no-post-download-shards"]
+        with (
+            mock.patch.object(public, "PROVIDERS", {10: ("Fixture VHF", lambda last: tasks)}),
+            mock.patch.object(public, "valid_existing_log", return_value=False),
+            mock.patch.object(public, "resolve_hosts", return_value={"vhfmanager.net": []}),
+            mock.patch.object(sys, "argv", argv),
+            redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()),
+        ):
+            self.assertEqual(public._main(), 0)
+        self.assertEqual(maximum_active, 1)
+        self.assertEqual(public.VHF_LOG_WORKERS, 4)
     def test_weekly_ua9_cache_fingerprints_each_round(self):
         import download_wednesday_minitest_40m_ubn as forty
         import download_wednesday_minitest_80m_ubn as eighty

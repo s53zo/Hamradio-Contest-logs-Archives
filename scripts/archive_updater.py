@@ -4,18 +4,21 @@
 from __future__ import annotations
 
 import argparse
+from contextlib import contextmanager
 import json
 import os
 import re
+import shlex
 import signal
 import subprocess
 import sys
+import tempfile
 import time
 from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Iterable
 
-from archive_storage import ARCHIVE_ROOTS, LOG_EXTENSIONS, valid_local_log
+from archive_storage import ARCHIVE_ROOTS, LOG_EXTENSIONS, ArchiveInventory, atomic_write_bytes, atomic_write_text, valid_local_log
 from shard_index import apply_path_delta, worktree_log_delta
 
 
@@ -43,6 +46,148 @@ class Transaction:
     phase: str
     commit_sha: str | None = None
     repair_contests: str | None = None
+    recovery_stage: str | None = None
+    recovery_remove_invalid: bool = False
+    recovery_deleted: list[str] | None = None
+    recovery_backup: str | None = None
+
+
+@contextmanager
+def updater_lock(repo: Path):
+    path = git_dir(repo) / "hcla/updater.lock"
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a+b") as handle:
+        if os.name == "nt":
+            import msvcrt
+            if path.stat().st_size == 0:
+                handle.write(b"\0")
+                handle.flush()
+            handle.seek(0)
+        else:
+            import fcntl
+        try:
+            if os.name == "nt":
+                msvcrt.locking(handle.fileno(), msvcrt.LK_NBLCK, 1)
+            else:
+                fcntl.flock(handle, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except OSError as exc:
+            raise UpdateError("Another updater owns this checkout; wait for it to finish") from exc
+        try:
+            yield
+        finally:
+            if os.name == "nt":
+                handle.seek(0)
+                msvcrt.locking(handle.fileno(), msvcrt.LK_UNLCK, 1)
+            else:
+                fcntl.flock(handle, fcntl.LOCK_UN)
+
+
+def running_archive_updaters() -> list[int]:
+    try:
+        result = subprocess.run(["ps", "-axo", "pid=,command="], check=True,
+                                text=True, stdout=subprocess.PIPE)
+    except FileNotFoundError as exc:
+        raise UpdateError("Full recovery requires the POSIX ps command (macOS/Linux)") from exc
+    programs = {"archive_updater.py", "public_logs_downloader.py", "reconstruct_missing_logs.py",
+                "download_vhfmanager_logs.py"}
+    found = []
+    for line in result.stdout.splitlines():
+        fields = line.strip().split(None, 1)
+        if len(fields) != 2 or not fields[0].isdigit() or int(fields[0]) == os.getpid():
+            continue
+        try:
+            tokens = shlex.split(fields[1])
+        except ValueError:
+            continue
+        if any(Path(token).name in programs for token in tokens):
+            found.append(int(fields[0]))
+    return found
+
+
+def quarantine_recovery_artifacts(repo: Path) -> None:
+    from download_vhfmanager_logs import kvp_contest_ids, quarantine_untracked_vhf
+    kvp_ids = kvp_contest_ids()
+    state_path = repo / "state/providers/vhfmanager/hf_parser.json"
+    state = json.loads(state_path.read_text()) if state_path.exists() else {}
+    hf_ids = {int(cid) for cid in state.get("scopes", {}) if cid.isdigit()}
+    count, backup = quarantine_untracked_vhf(repo, kvp_ids, hf_ids)
+    print(f"Recovery quarantine: {count} misplaced untracked logs" +
+          (f"; preserved in {backup}" if backup else ""), flush=True)
+
+
+def known_hf_artifacts(repo: Path, paths: Iterable[Path]) -> list[Path]:
+    state_path = repo / "state/providers/vhfmanager/hf_parser.json"
+    state = json.loads(state_path.read_text()) if state_path.exists() else {}
+    ids = {int(cid) for cid in state.get("scopes", {}) if cid.isdigit()}
+    found = []
+    for path in paths:
+        if len(path.parts) < 4 or path.parts[0] != "EU_VHF_CONTESTS" or path.suffix.lower() != ".log":
+            continue
+        match = re.search(r"_(\d+)$", path.parts[1])
+        if match and int(match.group(1)) in ids and path.parts[2] != "HF":
+            found.append(path)
+    return found
+
+
+def committed_hf_artifacts(repo: Path) -> list[Path]:
+    tree = run_git(repo, "ls-tree", "--name-only", "HEAD", "--", "EU_VHF_CONTESTS").stdout.strip()
+    if not tree:
+        return []
+    folders = run_git(repo, "ls-tree", "--name-only", "HEAD:EU_VHF_CONTESTS").stdout.splitlines()
+    inventory = ArchiveInventory(repo)
+    candidates = []
+    for folder in folders:
+        prefix = Path("EU_VHF_CONTESTS") / folder
+        if known_hf_artifacts(repo, [prefix / "144MHz/example.log"]):
+            candidates.extend(known_hf_artifacts(repo, inventory.git_paths(prefix)))
+    return candidates
+
+
+def recover_committed_hf_artifacts(repo: Path, transaction: Transaction, allow_removal: bool) -> None:
+    candidates = committed_hf_artifacts(repo)
+    inventory = ArchiveInventory(repo)
+    if not candidates:
+        return
+    if not allow_removal:
+        raise UpdateError(f"{len(candidates)} committed non-HF files exist for known HF contests; "
+                          "review them or explicitly use --remove-invalid-generated to back up and remove confirmed malformed files")
+    for path in candidates:
+        content = inventory.read_git_blob(path)
+        text = content.decode("utf-8", errors="replace")
+        rows = [line.split() for line in text.splitlines() if line.startswith("QSO:")]
+        if "CREATED-BY: vhfmanager-downloader" not in text or not rows or not all(
+            len(row) > 6 and row[6] in {"CW", "SSB", "PH"} for row in rows
+        ):
+            raise UpdateError(f"Refusing automatic removal: artifact proof failed for {path}")
+        backup_and_remove_recovery_file(repo, transaction, path, content)
+    for relative in sorted({path.parent for path in candidates}):
+        prefix = Path("state/reconstruction/ledgers/RECONSTRUCTED_LOGS") / relative
+        for path in inventory.git_paths(prefix, log_only=False):
+            if path.name in {".reconstruct_state.json", ".reconstructed_ledger.txt.gz", ".reconstructed_ledger.txt"}:
+                backup_and_remove_recovery_file(repo, transaction, path, inventory.read_git_blob(path))
+    backup = git_dir(repo) / transaction.recovery_backup
+    print(f"Recovery backed up and removed {len(candidates)} proven malformed HF artifacts and their stale round ledgers; backup={backup}", flush=True)
+
+
+def backup_and_remove_recovery_file(repo: Path, transaction: Transaction, path: Path, content: bytes) -> None:
+    local = repo / path
+    if local.exists() and local.read_bytes() != content:
+        raise UpdateError(f"Refusing to overwrite modified artifact: {path}")
+    if transaction.recovery_backup is None:
+        backup_root = git_dir(repo) / "hcla/quarantine"
+        backup_root.mkdir(parents=True, exist_ok=True)
+        backup = Path(tempfile.mkdtemp(prefix="committed-hf-", dir=backup_root))
+        transaction.recovery_backup = backup.relative_to(git_dir(repo)).as_posix()
+    backup = git_dir(repo) / transaction.recovery_backup
+    atomic_write_bytes(backup / path, content)
+    approved = set(transaction.recovery_deleted or [])
+    approved.add(path.as_posix())
+    transaction.recovery_deleted = sorted(approved)
+    atomic_write_text(backup / "manifest.json", json.dumps(transaction.recovery_deleted, indent=2) + "\n")
+    write_transaction(repo, transaction)
+    if local.exists():
+        local.unlink()
+    run_git(repo, "update-index", "--force-remove", "--", path.as_posix())
 
 
 def run_git(repo: Path, *args: str, check: bool = True) -> subprocess.CompletedProcess[str]:
@@ -242,15 +387,16 @@ def source_log_changes(repo: Path) -> list[Path]:
     ]
 
 
-def update_shards(repo: Path) -> set[Path]:
+def update_shards(repo: Path, approved_deletions: Iterable[str] = ()) -> set[Path]:
     delta = worktree_log_delta(repo)
-    if delta.deleted:
+    allowed_deleted = {Path(path) for path in approved_deletions}
+    if set(delta.deleted) - allowed_deleted:
         sample = ", ".join(path.as_posix() for path in delta.deleted[:10])
         raise UpdateError(f"archive update refuses implicit log deletions: {sample}")
-    result = apply_path_delta(repo, delta.added_or_modified)
+    result = apply_path_delta(repo, delta.added_or_modified, deleted=delta.deleted)
     print(
         f"SH6 incremental update: upserted={result.upserted} unchanged={result.unchanged} "
-        f"changed_shards={len(result.changed_shards)}"
+        f"changed_shards={len(result.changed_shards)} removed={len(delta.deleted)}"
     )
     return result.changed_shards
 
@@ -261,10 +407,15 @@ def update_readme(repo: Path) -> None:
     update_readme_from_shards(repo, repo / "SH6")
 
 
-def validate_changes(repo: Path) -> None:
+def validate_changes(repo: Path, approved_deletions: Iterable[str] = (), check_artifacts: bool = True) -> None:
     delta = worktree_log_delta(repo)
-    if delta.deleted:
+    allowed_deleted = {Path(path) for path in approved_deletions}
+    if set(delta.deleted) - allowed_deleted:
         raise UpdateError("validation rejected deleted archive logs")
+    artifacts = known_hf_artifacts(repo, delta.added_or_modified) if check_artifacts else []
+    if artifacts:
+        raise UpdateError("Known HF contests contain non-HF generated files; run full recovery before publishing: " +
+                          ", ".join(path.as_posix() for path in artifacts[:5]))
     invalid = [path for path in delta.added_or_modified if not valid_local_log(repo / path)]
     if invalid:
         raise UpdateError("invalid generated logs: " + ", ".join(path.as_posix() for path in invalid[:10]))
@@ -273,7 +424,7 @@ def validate_changes(repo: Path) -> None:
             raise UpdateError(f"transient file must not be published: {path}")
         if path.name.startswith(".env") or "cookie" in path.name.lower():
             raise UpdateError(f"possible credential file must not be published: {path}")
-        if "D" in status and path.suffix.lower() in LOG_EXTENSIONS:
+        if "D" in status and path.suffix.lower() in LOG_EXTENSIONS and path not in allowed_deleted:
             raise UpdateError(f"log deletion must be explicitly reviewed: {path}")
     check = run_git(repo, "diff", "--check", check=False)
     if check.returncode != 0:
@@ -458,6 +609,10 @@ def main() -> int:
                         help="Repair committed historical reconstruction without running downloaders.")
     parser.add_argument("--repair-contests", default="all",
                         help="Comma-separated archive root names for reconstruction repair (default: all).")
+    parser.add_argument("--recover-history", action="store_true",
+                        help="Quarantine known untracked artifacts, download all providers/all years, and repair all historical reconstruction.")
+    parser.add_argument("--remove-invalid-generated", action="store_true",
+                        help="With full recovery, explicitly permit backed-up removal of proven malformed committed HF artifacts.")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--publish", action="store_true")
     parser.add_argument(
@@ -472,8 +627,40 @@ def main() -> int:
         parser.error("Reconstruction repair cannot use --phase download")
 
     repo = args.repo.resolve()
+    if args.dry_run:
+        return run_archive_update(args, repo)
+    with updater_lock(repo):
+        return run_archive_update(args, repo)
+
+
+def run_archive_update(args, repo: Path) -> int:
     branch = args.branch or current_branch(repo)
     transaction = read_transaction(repo)
+    if args.dry_run and transaction and transaction.recovery_stage is None and not args.recover_history:
+        print(f"Dry run: existing transaction phase={transaction.phase}; no updater changes made.")
+        return 0
+    if transaction and transaction.recovery_stage is not None:
+        args.recover_history = True
+        args.remove_invalid_generated = args.remove_invalid_generated or transaction.recovery_remove_invalid
+    if args.remove_invalid_generated and not args.recover_history:
+        raise UpdateError("--remove-invalid-generated requires --recover-history")
+    if args.recover_history:
+        if args.repair_reconstruction or (transaction and transaction.repair_contests is not None):
+            raise UpdateError("Finish a standalone reconstruction repair before full recovery")
+        if args.phase != "all":
+            raise UpdateError("Full recovery uses --phase all; rerun the same recovery command to resume")
+        if args.dry_run:
+            print("Recovery preview: quarantine untracked KVP/non-HF artifacts; download all providers/all years; "
+                  "repair all committed reconstruction; incrementally update SH6; test and publish if requested.")
+            print(f"Resume stage: {(transaction.recovery_stage if transaction else None) or 'cleanup'}; no recovery changes made.")
+            artifacts = committed_hf_artifacts(repo)
+            if artifacts:
+                print(f"{len(artifacts)} committed non-HF artifacts need review or explicit --remove-invalid-generated consent.")
+            return 0
+        active = running_archive_updaters()
+        if active:
+            raise UpdateError(f"Stop the active archive updater before recovery (PID(s): {', '.join(map(str, active))})")
+        args.contests, args.last, args.repair_contests = "all", "all", "all"
     if transaction and transaction.repair_contests is not None:
         if args.repair_contests not in {"all", transaction.repair_contests}:
             raise UpdateError("Repair contest selection differs from the interrupted transaction")
@@ -497,22 +684,27 @@ def main() -> int:
         clear_transaction(repo)
         sparse_cleanup(repo)
         print(f"Published and verified: {published}")
+        if args.recover_history and transaction.recovery_stage is None:
+            return run_archive_update(args, repo)
         return 0
 
     if transaction is not None:
         cleanup_orphaned_transients(repo)
 
     if transaction is None:
-        if args.resume_existing:
+        if args.resume_existing or (args.recover_history and porcelain_paths(repo)):
             if not porcelain_paths(repo):
                 raise UpdateError("--resume-existing was requested but the working tree is clean")
-            validate_changes(repo)
+            validate_changes(repo, check_artifacts=not args.recover_history)
         else:
             assert_clean_start(repo)
         base = assert_current(repo, args.remote, branch)
         transaction = Transaction(1, base, branch, args.remote, "prepared")
         if args.repair_reconstruction:
             transaction.repair_contests = args.repair_contests
+        if args.recover_history:
+            transaction.recovery_stage = "cleanup"
+            transaction.recovery_remove_invalid = args.remove_invalid_generated
         if args.dry_run:
             print(f"Dry run: base={base} branch={branch} contests={args.contests} last={args.last}")
             if args.repair_reconstruction:
@@ -522,11 +714,23 @@ def main() -> int:
         write_transaction(repo, transaction)
     else:
         adopt_fast_forwarded_transaction_head(repo, transaction)
+        if args.recover_history and transaction.recovery_stage is None:
+            transaction.recovery_stage = "cleanup"
+            write_transaction(repo, transaction)
+    if args.recover_history and args.remove_invalid_generated:
+        transaction.recovery_remove_invalid = True
+        write_transaction(repo, transaction)
 
     migrate_legacy_provider_state(repo)
 
     try:
-        if args.phase in {"all", "download"} and not args.repair_reconstruction:
+        if args.recover_history and transaction.recovery_stage == "cleanup":
+            recover_committed_hf_artifacts(repo, transaction, args.remove_invalid_generated)
+            quarantine_recovery_artifacts(repo)
+            transaction.recovery_stage = "download"
+            write_transaction(repo, transaction)
+        if (args.phase in {"all", "download"} and not args.repair_reconstruction
+                and (not args.recover_history or transaction.recovery_stage == "download")):
             transaction.phase = "downloading"
             write_transaction(repo, transaction)
             run_child(
@@ -546,16 +750,25 @@ def main() -> int:
                 "download",
             )
             transaction.phase = "downloaded"
+            if args.recover_history:
+                transaction.recovery_stage = "reconstruct"
             write_transaction(repo, transaction)
             if args.phase == "download":
                 print("Download phase complete. Rerun with --phase reconstruct to continue.")
                 return 0
 
-        if args.phase in {"all", "reconstruct"}:
+        if (args.phase in {"all", "reconstruct"}
+                and (not args.recover_history or transaction.recovery_stage == "reconstruct")):
             transaction.phase = "reconstructing"
             write_transaction(repo, transaction)
-            if args.repair_reconstruction:
+            if args.repair_reconstruction or args.recover_history:
                 command = [sys.executable, "scripts/reconstruct_missing_logs.py", "--historical", "--no-rebuild-shards"]
+                if args.recover_history:
+                    command.append("--include-worktree")
+                    excluded = sorted({Path(path).parent.as_posix() for path in transaction.recovery_deleted or []
+                                       if Path(path).suffix.lower() in LOG_EXTENSIONS})
+                    for relative in excluded:
+                        command.extend(["--exclude-source-round", relative])
                 if args.repair_contests != "all":
                     command.extend(["--contest", args.repair_contests])
                 run_child(repo, command, "historical reconstruction")
@@ -568,6 +781,8 @@ def main() -> int:
             else:
                 print("No changed source logs require reconstruction.")
             transaction.phase = "reconstructed"
+            if args.recover_history:
+                transaction.recovery_stage = "shards"
             write_transaction(repo, transaction)
             if args.phase == "reconstruct":
                 print("Reconstruction phase complete. Rerun with --phase shards to continue.")
@@ -576,7 +791,7 @@ def main() -> int:
         if args.phase in {"all", "shards"}:
             transaction.phase = "indexing"
             write_transaction(repo, transaction)
-            update_shards(repo)
+            update_shards(repo, transaction.recovery_deleted or [])
             update_readme(repo)
             transaction.phase = "indexed"
             write_transaction(repo, transaction)
@@ -586,7 +801,7 @@ def main() -> int:
             sparse_cleanup(repo)
             print("Archive is already current; no tracked files changed.")
             return 0
-        validate_changes(repo)
+        validate_changes(repo, transaction.recovery_deleted or [])
         if not args.skip_tests:
             run_tests(repo)
         stage_generated_changes(repo)

@@ -156,6 +156,7 @@ def pick_user_agent() -> str:
 USER_AGENT = pick_user_agent()
 REQUEST_TIMEOUT = 30
 DEFAULT_WORKERS = 20
+VHF_LOG_WORKERS = 10
 HOST_WORKER_CAPS = {
     "ua9qcq.com": 1,
     "memorial-ok1wc.cz": 1,
@@ -2045,7 +2046,7 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
         recheck_processed = hf_table and hf_record.get("version") != 2
         output_root = "WW_PMC" if vhf.is_pmc_contest(contest) else "EU_VHF_CONTESTS"
         task_key = f"{output_root}/{contest.cid}"
-        skip, list_hash, count = task_should_skip(task_key, [lnk.url for lnk in links])
+        skip, list_hash, count = task_should_skip(task_key, [f"reference-walk-v2:{lnk.url}" for lnk in links])
         if skip and not recheck_processed:
             continue
         placeholder = Path(output_root) / f"{vhf.slugify(contest.name)}_{contest.cid}" / "contest.log"
@@ -2054,10 +2055,11 @@ def tasks_vhfmanager(last: int | None) -> List[DownloadTask]:
             counts = vhf.download_contest_logs(
                 contest,
                 links,
-                workers=vhf.DEFAULT_WORKERS,
+                workers=VHF_LOG_WORKERS,
                 max_logs=None,
                 include_checklogs=not vhf.is_pmc_contest(contest),
-                recheck_processed=recheck_processed,
+                recheck_processed=True,
+                overwrite_existing=recheck_processed,
             )
             if recheck_processed and not counts.get("error", 0):
                 hf_state.update_scope(str(contest.cid), {"version": 2, "seed_count": len(links)})
@@ -5272,7 +5274,8 @@ def _main() -> int:
     args = parser.parse_args()
 
     global TASK_LEDGER, UA9QCQ_DISCOVERY_OUTAGE, UA9QCQ_IDLE_TIMEOUT
-    global UA9QCQ_MAX_CONSECUTIVE_ERRORS, UA9QCQ_REQUEST_TIMEOUT
+    global UA9QCQ_MAX_CONSECUTIVE_ERRORS, UA9QCQ_REQUEST_TIMEOUT, VHF_LOG_WORKERS
+    VHF_LOG_WORKERS = max(1, min(args.workers, 10))
     UA9QCQ_DISCOVERY_OUTAGE = None
     UA9QCQ_IDLE_TIMEOUT = args.ua9qcq_idle_timeout if args.ua9qcq_idle_timeout > 0 else None
     UA9QCQ_MAX_CONSECUTIVE_ERRORS = (
@@ -5385,6 +5388,11 @@ def _main() -> int:
         task_lock: threading.Lock,
         cancel_event: threading.Event,
     ) -> None:
+        if tasks and tasks[0].source == "VHFManager":
+            # Each contest owns an inner request pool; do not multiply pools.
+            max_workers = 1
+            with PRINT_LOCK:
+                print(f"VHFManager: one contest batch at a time; up to {VHF_LOG_WORKERS} station requests")
         limiter = build_limiter(max_workers)
 
         def wrapped_task(task: DownloadTask) -> Dict[str, int]:

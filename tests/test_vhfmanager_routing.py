@@ -13,6 +13,50 @@ import public_logs_downloader as public
 
 
 class VhfRoutingTests(unittest.TestCase):
+    def test_incomplete_contest_replays_marked_seeds_without_overwriting_valid_logs(self):
+        contest = vhf.Contest(1, "VHF", "https://example.invalid/results.php?ContestID=1")
+        link = vhf.LogLink("https://example.invalid/display_log.php?ContestID=1&logID=10", "K1ABC", "144MHz")
+        with (
+            mock.patch.object(vhf, "migrate_legacy_checklog_markers"),
+            mock.patch.object(vhf, "discover_contests", return_value=[contest]),
+            mock.patch.object(vhf, "kvp_contest_ids", return_value=set()),
+            mock.patch.object(vhf, "discover_logs", return_value=(contest, [link])),
+            mock.patch.object(public, "task_should_skip", return_value=(False, "hash", 1)) as cache,
+            mock.patch.object(vhf, "download_contest_logs", return_value={"skip": 1}) as download,
+        ):
+            task = public.tasks_vhfmanager(None)[0]
+            self.assertTrue(cache.call_args.args[1][0].startswith("reference-walk-v2:"))
+            task.action()
+            self.assertTrue(download.call_args.kwargs["recheck_processed"])
+            self.assertFalse(download.call_args.kwargs["overwrite_existing"])
+    def test_seed_band_hint_prevents_microwave_log_from_defaulting_to_144mhz(self):
+        contest = vhf.Contest(1, "Microwave", "https://example.invalid/results.php?ContestID=1")
+        seed = vhf.LogLink("https://example.invalid/display_log.php?ContestID=1&logID=10", "K1ABC", "5700MHz")
+        cells = ["01.06.26", "12:00", "K2ABC", "CW", "599", "1", "599", "2", "JN23AA"]
+        page = '<table><thead><tr><th>Date</th></tr></thead><tbody><tr>' + ''.join(f'<td>{cell}</td>' for cell in cells) + '</tr></tbody></table>'
+        with (
+            mock.patch.object(vhf, "fetch_text", return_value=page),
+            mock.patch.object(vhf, "write_checklog_marker"),
+            mock.patch.object(vhf, "checklog_marker_exists", return_value=False),
+            mock.patch.object(vhf, "parse_log_header", return_value=("K1ABC", None, "JN22AA", None)),
+            mock.patch.object(vhf, "write_log", return_value=(Path("example.log"), "skip")) as write,
+        ):
+            vhf.download_contest_logs(contest, [seed], workers=1, max_logs=None, include_checklogs=False)
+            self.assertEqual(write.call_args.args[2], "5700MHz")
+    def test_recovery_quarantines_non_hf_files_for_known_hf_contest(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            subprocess.run(["git", "init", "-q"], cwd=root, check=True)
+            wrong = root / "EU_VHF_CONTESTS/ar_memorial_2026_478/144MHz/S53M.log"
+            correct = root / "EU_VHF_CONTESTS/ar_memorial_2026_478/HF/S53M.log"
+            for path in (wrong, correct):
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text("preserved")
+            count, backup = vhf.quarantine_untracked_vhf(root, set(), {478})
+            self.assertEqual(count, 1)
+            self.assertFalse(wrong.exists())
+            self.assertTrue(correct.exists())
+            self.assertTrue((backup / wrong.relative_to(root)).exists())
     def test_explicit_parser_recovery_replaces_stale_log_but_skips_identical_content(self):
         with tempfile.TemporaryDirectory() as temporary:
             root = Path(temporary)

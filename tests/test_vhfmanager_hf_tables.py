@@ -64,6 +64,7 @@ class VhfManagerHFTablesTests(unittest.TestCase):
                 self.assertEqual(len(tasks), 1)
                 tasks[0].action()
                 self.assertTrue(download.call_args.kwargs["recheck_processed"])
+                self.assertTrue(download.call_args.kwargs["overwrite_existing"])
                 self.assertEqual(public.tasks_vhfmanager(1), [])
 
 

@@ -44,6 +44,27 @@ class HistoricalRepairTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "Unknown contest roots"):
             next(reconstruct.historical_contest_dirs(mock.Mock(), {"scripts"}))
 
+    def test_recovery_includes_new_rounds_and_modified_local_sources(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            git(root, "init", "-q")
+            git(root, "config", "user.name", "Test")
+            git(root, "config", "user.email", "test@example.invalid")
+            existing = root / "CQWW/cw/2025/K1ABC.log"
+            existing.parent.mkdir(parents=True)
+            existing.write_text("old")
+            git(root, "add", ".")
+            git(root, "commit", "-qm", "fixture")
+            existing.write_text("corrected source")
+            new = root / "CQWW/cw/2026/K2ABC.log"
+            new.parent.mkdir(parents=True)
+            new.write_text("newly downloaded source")
+            contents = []
+            for path, relative in reconstruct.historical_contest_dirs(ArchiveInventory(root), {"CQWW"}, include_worktree=True):
+                contents.append((relative, next(path.glob("*.log")).read_text()))
+            self.assertEqual(contents, [(Path("CQWW/cw/2025"), "corrected source"),
+                                        (Path("CQWW/cw/2026"), "newly downloaded source")])
+
     def test_cli_replaces_remote_reconstruction_without_source_changes(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)

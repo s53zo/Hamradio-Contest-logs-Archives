@@ -421,7 +421,9 @@ def kvp_contest_ids() -> set[int]:
     return {int(season.contest_id) for season in discover_seasons(None)}
 
 
-def quarantine_untracked_kvp(repo_root: Path, contest_ids: set[int], dry_run: bool = False) -> Tuple[int, Optional[Path]]:
+def quarantine_untracked_vhf(repo_root: Path, contest_ids: set[int],
+                             hf_contest_ids: Optional[set[int]] = None,
+                             dry_run: bool = False) -> Tuple[int, Optional[Path]]:
     result = subprocess.run(
         ["git", "ls-files", "-z", "--others", "--exclude-standard", "--", "EU_VHF_CONTESTS"],
         cwd=repo_root, check=True, stdout=subprocess.PIPE,
@@ -432,7 +434,11 @@ def quarantine_untracked_kvp(repo_root: Path, contest_ids: set[int], dry_run: bo
             continue
         path = Path(os.fsdecode(raw))
         match = re.search(r"_(\d+)$", path.parts[1]) if len(path.parts) >= 3 else None
-        if match and int(match.group(1)) in contest_ids and path.suffix.lower() == ".log":
+        cid = int(match.group(1)) if match else None
+        misplaced = cid in contest_ids or (
+            cid in (hf_contest_ids or set()) and len(path.parts) >= 4 and path.parts[2] != "HF"
+        )
+        if misplaced and path.suffix.lower() == ".log":
             paths.append(path)
     if dry_run or not paths:
         return len(paths), None
@@ -443,13 +449,17 @@ def quarantine_untracked_kvp(repo_root: Path, contest_ids: set[int], dry_run: bo
         git_dir = repo_root / git_dir
     quarantine_root = git_dir / "hcla/quarantine"
     quarantine_root.mkdir(parents=True, exist_ok=True)
-    backup = Path(tempfile.mkdtemp(prefix="kvp-", dir=quarantine_root))
+    backup = Path(tempfile.mkdtemp(prefix="vhf-" if hf_contest_ids else "kvp-", dir=quarantine_root))
+    atomic_write_text(backup / "manifest.json", json.dumps([path.as_posix() for path in paths], indent=2) + "\n")
     for relative in paths:
         target = backup / relative
         target.parent.mkdir(parents=True, exist_ok=True)
         (repo_root / relative).replace(target)
-    atomic_write_text(backup / "manifest.json", json.dumps([path.as_posix() for path in paths], indent=2) + "\n")
     return len(paths), backup
+
+
+def quarantine_untracked_kvp(repo_root: Path, contest_ids: set[int], dry_run: bool = False) -> Tuple[int, Optional[Path]]:
+    return quarantine_untracked_vhf(repo_root, contest_ids, dry_run=dry_run)
 
 
 def contest_id_from_url(url: str) -> Optional[int]:
@@ -1112,7 +1122,10 @@ def download_contest_logs(
     max_logs: Optional[int],
     include_checklogs: bool = True,
     recheck_processed: bool = False,
+    overwrite_existing: Optional[bool] = None,
 ) -> Dict[str, int]:
+    if overwrite_existing is None:
+        overwrite_existing = recheck_processed
     seen: set[tuple] = set()
     seeds_by_call: dict[str, list[LogLink]] = {}
     for link in seed_links:
@@ -1169,6 +1182,7 @@ def download_contest_logs(
             print(f"Failed to fetch log_id={log_id}: {exc}")
             return {"error": 1}, []
         call, category, locator, pmc_designation = parse_log_header(page)
+        category = category or link.category_hint
         if not call:
             call = link.call_hint or f"log_{hash(link.url) & 0xFFFF}"
         qsos = parse_qsos(page, contest, call, category, locator, pmc_designation)
@@ -1184,7 +1198,7 @@ def download_contest_logs(
         output_root = contest_output_root(is_pmc)
         file_tag = pmc_file_tag(category) if is_pmc else None
         dest, status = write_log(output_root, contest_dir, band_label, call, cab, file_tag,
-                                 overwrite=recheck_processed)
+                                 overwrite=overwrite_existing)
         print(f"{'ok  ' if status == 'ok' else 'skip'} {dest}")
         write_checklog_marker(contest, log_id)
         if not include_checklogs:

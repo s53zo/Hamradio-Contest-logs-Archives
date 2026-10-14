@@ -250,6 +250,17 @@ python3 scripts/archive_updater.py --dry-run --contests all --last 1
 python3 scripts/archive_updater.py --contests all --last 1 --publish
 ```
 
+For a one-time recovery after parser fixes, use:
+
+```sh
+./scripts/fix_archive_errors_and_push.sh --dry-run
+./scripts/fix_archive_errors_and_push.sh --workers 8
+```
+
+This checks all providers and years, repairs historical reconstruction, and
+publishes incremental SH6 updates. Stop other updaters first. Published malformed
+artifacts require explicit removal consent; see [full recovery instructions](UPDATER.md#full-historical-recovery).
+
 For selected providers or lower concurrency:
 
 ```sh

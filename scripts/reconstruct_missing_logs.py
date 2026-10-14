@@ -554,19 +554,37 @@ def prepare_changed_contest_dirs(
     return prepared
 
 
-def historical_contest_dirs(inventory: ArchiveInventory, include: Optional[Set[str]]):
+def historical_contest_dirs(inventory: ArchiveInventory, include: Optional[Set[str]], include_worktree: bool = False,
+                            excluded_rounds: Optional[Set[Path]] = None):
     roots = ARCHIVE_ROOTS - {"RECONSTRUCTED_LOGS"}
     if include:
         unknown = include - roots
         if unknown:
             raise ValueError(f"Unknown contest roots: {', '.join(sorted(unknown))}")
         roots = include
+    changed_parents = set()
+    if include_worktree:
+        from shard_index import worktree_log_delta
+        delta = worktree_log_delta(inventory.repo_root)
+        if any(path.parts[0] != "RECONSTRUCTED_LOGS" and path.parent not in (excluded_rounds or set())
+               for path in delta.deleted):
+            raise RuntimeError("Historical recovery refuses deleted source logs")
+        changed_parents = {path.parent for path in delta.added_or_modified
+                           if path.parts[0] in roots and path.suffix.lower() == ".log"}
     for root in sorted(roots):
-        parents = sorted({path.parent for path in inventory.git_paths(root) if path.suffix.lower() == ".log"})
+        parents = sorted({path.parent for path in inventory.git_paths(root) if path.suffix.lower() == ".log"}
+                         | {path for path in changed_parents if path.parts[0] == root})
         for relative in parents:
+            if relative in (excluded_rounds or set()):
+                continue
             with tempfile.TemporaryDirectory(prefix="hcla-history-round-") as temporary:
                 workspace = Path(temporary)
                 inventory.materialize_prefix(relative, workspace)
+                if include_worktree:
+                    for local in (inventory.repo_root / relative).glob("*.log"):
+                        target = workspace / relative / local.name
+                        target.parent.mkdir(parents=True, exist_ok=True)
+                        shutil.copy2(local, target)
                 yield workspace / relative, relative
 
 
@@ -762,6 +780,10 @@ def _main() -> int:
         "--historical", action="store_true",
         help="Repair committed historical rounds one at a time, including remote-only logs.",
     )
+    ap.add_argument("--include-worktree", action="store_true",
+                    help="Include newly downloaded and modified source logs in historical recovery.")
+    ap.add_argument("--exclude-source-round", action="append", type=Path, default=[],
+                    help="Historical recovery: exclude a confirmed malformed source round.")
     ap.add_argument(
         "--ledger-root",
         type=Path,
@@ -787,6 +809,10 @@ def _main() -> int:
         help="Skip rebuilding SH6 SQLite shard indexes after reconstruction.",
     )
     args = ap.parse_args()
+    if args.include_worktree and not args.historical:
+        ap.error("--include-worktree requires --historical")
+    if args.exclude_source_round and not args.historical:
+        ap.error("--exclude-source-round requires --historical")
     if args.historical and (args.changed_only or args.contest_dir or args.out_dir or args.out_root):
         ap.error("--historical cannot be combined with alternate input/output directories or --changed-only")
     if args.historical and not (args.no_rebuild_shards or args.dry_run):
@@ -810,7 +836,8 @@ def _main() -> int:
     if args.historical:
         include = {name.strip() for entry in (args.contest or []) for name in entry.split(",") if name.strip()}
         def historical_paths():
-            for path, relative in historical_contest_dirs(archive_inventory, include or None):
+            for path, relative in historical_contest_dirs(archive_inventory, include or None, args.include_worktree,
+                                                        set(args.exclude_source_round)):
                 contest_rel_paths[path] = relative
                 yield path
         contest_dirs = historical_paths()
