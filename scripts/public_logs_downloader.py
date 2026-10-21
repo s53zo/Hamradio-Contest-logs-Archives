@@ -5365,6 +5365,8 @@ def _main() -> int:
 
     def run_provider(sel: int) -> Tuple[int, List[DownloadTask]]:
         name, fn = PROVIDERS[sel]
+        if download_cancel_event.is_set():
+            return sel, []
         try:
             tasks = discover_provider_tasks(sel, name, fn, last_val)
             discovered = len(tasks)
@@ -5635,16 +5637,38 @@ def _main() -> int:
         with stats_lock:
             provider_stats[sel] = provider_counts
     discovery_started = time.monotonic()
-    with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, min(len(selections), args.workers))) as executor:
-        futures = {executor.submit(run_provider, sel): sel for sel in selections}
+    with (
+        concurrent.futures.ThreadPoolExecutor(
+            max_workers=max(1, min(len(selections), args.workers)),
+            thread_name_prefix="discovery",
+        ) as executor,
+        concurrent.futures.ThreadPoolExecutor(
+            max_workers=1, thread_name_prefix="ua9qcq-discovery",
+        ) as ua9_executor,
+    ):
+        # Queue shared-server providers in their own pool. They must not occupy
+        # general discovery workers while waiting for the UA9QCQ lock.
+        futures = {
+            (ua9_executor if sel in UA9QCQ_PROVIDER_IDS else executor).submit(run_provider, sel): sel
+            for sel in selections
+        }
         pending = set(futures)
         heartbeat_interval = args.heartbeat if args.heartbeat > 0 else 60
         while pending:
-            done, pending = concurrent.futures.wait(
-                pending,
-                timeout=heartbeat_interval,
-                return_when=concurrent.futures.FIRST_COMPLETED,
-            )
+            try:
+                done, pending = concurrent.futures.wait(
+                    pending,
+                    timeout=heartbeat_interval,
+                    return_when=concurrent.futures.FIRST_COMPLETED,
+                )
+            except KeyboardInterrupt:
+                download_cancel_event.set()
+                for future in pending:
+                    future.cancel()
+                print("\nDiscovery interrupted; stopping queued discovery and download work.")
+                for thread in download_threads:
+                    thread.join()
+                raise
             if not done:
                 elapsed = int(time.monotonic() - discovery_started)
                 waiting = ", ".join(
@@ -5668,6 +5692,10 @@ def _main() -> int:
                         (task.dest.parts[0],) if task.dest.parts else ()
                     )
                     reconstruct_roots.update(root for root in roots if root in MANIFEST_ROOTS)
+                if tasks:
+                    thread = threading.Thread(target=download_provider, args=(sel, tasks))
+                    download_threads.append(thread)
+                    thread.start()
 
     print("\nDiscovery results (stable order):")
     for sel in sorted(selections):
@@ -5706,14 +5734,6 @@ def _main() -> int:
         f"\nTotal provider tasks queued: {total_tasks} using up to "
         f"{args.workers} workers per server (one task may write multiple logs)"
     )
-
-    for sel in sorted(discovery_tasks):
-        tasks = discovery_tasks[sel]
-        if not tasks:
-            continue
-        thread = threading.Thread(target=download_provider, args=(sel, tasks))
-        thread.start()
-        download_threads.append(thread)
 
     download_interrupted = False
     try:

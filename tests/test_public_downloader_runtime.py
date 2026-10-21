@@ -19,6 +19,75 @@ import public_logs_downloader as public  # noqa: E402
 
 
 class PublicDownloaderRuntimeTests(unittest.TestCase):
+    def test_download_starts_before_other_provider_finishes_discovery(self):
+        downloaded = threading.Event()
+        slow_observed_download = []
+        download_calls = []
+
+        def download():
+            download_calls.append(1)
+            downloaded.set()
+            return {"ok": 1}
+
+        def slow(_last):
+            slow_observed_download.append(downloaded.wait(timeout=3))
+            return []
+
+        task = public.DownloadTask(
+            dest=Path("TTC-SPCWC/2099-01-01/EARLY.log"),
+            host="example.invalid", source="fixture", action=download,
+        )
+        with (
+            mock.patch.object(public, "PROVIDERS", {
+                1: ("Fast", lambda _last: [task]), 2: ("Slow", slow),
+            }),
+            mock.patch.object(public, "valid_existing_log", return_value=False),
+            mock.patch.object(public, "resolve_hosts", return_value={"example.invalid": []}),
+            mock.patch.object(sys, "argv", [
+                "downloader", "--non-interactive", "--contests", "all",
+                "--workers", "2", "--heartbeat", "0",
+                "--no-task-ledger", "--no-post-download-shards",
+            ]),
+            redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()),
+        ):
+            self.assertEqual(public._main(), 0)
+        self.assertEqual(slow_observed_download, [True])
+        self.assertEqual(download_calls, [1])
+
+    def test_waiting_ua9_providers_do_not_occupy_general_discovery_workers(self):
+        general_started = threading.Event()
+        first_finished = threading.Event()
+        observations = []
+
+        def first(_last):
+            observations.append(("general", general_started.wait(timeout=3)))
+            first_finished.set()
+            return []
+
+        def second(_last):
+            observations.append(("serialized", first_finished.is_set()))
+            return []
+
+        def general(_last):
+            general_started.set()
+            return []
+
+        with (
+            mock.patch.object(public, "PROVIDERS", {
+                11: ("UA9 first", first), 12: ("UA9 second", second),
+                31: ("Independent", general),
+            }),
+            mock.patch.object(public, "get_ua9qcq_cookie", return_value=""),
+            mock.patch.object(sys, "argv", [
+                "downloader", "--non-interactive", "--contests", "all",
+                "--workers", "1", "--heartbeat", "0",
+                "--no-task-ledger", "--no-post-download-shards",
+            ]),
+            redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()),
+        ):
+            self.assertEqual(public._main(), 0)
+        self.assertEqual(observations, [("general", True), ("serialized", True)])
+
     def test_vhf_contest_batches_do_not_multiply_inner_worker_pools(self):
         active = 0
         maximum_active = 0

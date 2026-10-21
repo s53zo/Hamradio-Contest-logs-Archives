@@ -278,6 +278,12 @@ staging, commit creation, remote reconciliation, push verification, and sparse
 cleanup. A run with no new material reports that the archive is already current
 and creates no commit.
 
+Downloads start as soon as each provider finishes discovery, while other
+providers continue checking their sites. UA9QCQ discovery uses a separate
+single-worker queue so its providers run sequentially without blocking the
+general discovery workers. Reconstruction and publication wait for all
+discovery and download work to finish.
+
 Provider connection failures (including timeouts, connection resets, and HTTP
 errors) produce warnings. Available logs still proceed through reconstruction,
 SH6 updates, tests, and publication. Unavailable providers and failed downloads
