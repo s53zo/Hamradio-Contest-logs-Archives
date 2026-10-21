@@ -278,6 +278,12 @@ staging, commit creation, remote reconciliation, push verification, and sparse
 cleanup. A run with no new material reports that the archive is already current
 and creates no commit.
 
+Provider connection failures (including timeouts, connection resets, and HTTP
+errors) produce warnings. Available logs still proceed through reconstruction,
+SH6 updates, tests, and publication. Unavailable providers and failed downloads
+remain pending for the next run; they are not recorded as completed. Parsing,
+local file, and data-validation failures still stop publication.
+
 UA9QCQ providers read the session cookie from `UA9QCQ_COOKIE`. Interactive runs
 prompt for it without displaying the value. For unattended automation, inject
 the variable through the machine's secret manager rather than putting the value
