@@ -6,17 +6,15 @@ REPO_ROOT="$(git -C "$SCRIPT_DIR" rev-parse --show-toplevel)"
 PYTHON_EXPLICIT="${PYTHON_BIN:+yes}"
 PYTHON_BIN="${PYTHON_BIN:-python3}"
 
-if [[ " ${*:-} " == *" --help "* || " ${*:-} " == *" -h "* ]]; then
-  exec "$PYTHON_BIN" "$REPO_ROOT/scripts/archive_updater.py" --help
-fi
+PYTHON_PROBE='import sys; sys.exit(1) if sys.version_info < (3, 10) else None; import ssl; ssl.create_default_context()'
 
 if [[ -z "$PYTHON_EXPLICIT" ]] && ! "$PYTHON_BIN" -c \
-  'import ssl; ssl.create_default_context()' >/dev/null 2>&1; then
+  "$PYTHON_PROBE" >/dev/null 2>&1; then
   for candidate in python3.15 python3.14 python3.13 python3.12 python3.11 python3.10; do
     if command -v "$candidate" >/dev/null 2>&1 && "$candidate" -c \
-      'import ssl; ssl.create_default_context()' >/dev/null 2>&1; then
+      "$PYTHON_PROBE" >/dev/null 2>&1; then
       PYTHON_BIN="$candidate"
-      echo "Default Python HTTPS support is unavailable; using $PYTHON_BIN." >&2
+      echo "Default Python is too old or HTTPS support is unavailable; using $PYTHON_BIN." >&2
       break
     fi
   done
@@ -24,6 +22,14 @@ fi
 
 "$PYTHON_BIN" - <<'PY'
 import sys
+
+if sys.version_info < (3, 10):
+    print(
+        f"Updater requires Python 3.10 or newer; {sys.executable} is "
+        f"Python {sys.version.split()[0]}. Set PYTHON_BIN to a newer interpreter.",
+        file=sys.stderr,
+    )
+    raise SystemExit(1)
 
 try:
     import ssl
@@ -37,6 +43,10 @@ except (ImportError, OSError) as exc:
     )
     raise SystemExit(1)
 PY
+
+if [[ " ${*:-} " == *" --help "* || " ${*:-} " == *" -h "* ]]; then
+  exec "$PYTHON_BIN" "$REPO_ROOT/scripts/archive_updater.py" --help
+fi
 
 cd "$REPO_ROOT"
 git pull --ff-only

@@ -11,6 +11,16 @@ ROOT = Path(__file__).resolve().parents[1]
 
 class UpdateCommandTests(unittest.TestCase):
     def test_default_broken_ssl_selects_working_installed_python(self):
+        self.assert_default_python_fallback("#!/bin/sh\nexit 1\n")
+
+    def test_default_old_python_with_working_ssl_selects_newer_python(self):
+        # The old launcher checked only SSL, so this interpreter passed its
+        # probe despite being unable to evaluate Python 3.10 type aliases.
+        self.assert_default_python_fallback(
+            '#!/bin/sh\ncase "$2" in *version_info*) exit 1;; esac\nexit 0\n'
+        )
+
+    def assert_default_python_fallback(self, default_python):
         with tempfile.TemporaryDirectory() as temp:
             repo = Path(temp) / "repo"
             scripts = repo / "scripts"
@@ -23,7 +33,7 @@ class UpdateCommandTests(unittest.TestCase):
             binaries = Path(temp) / "bin"
             binaries.mkdir()
             for name, source in {
-                "python3": "#!/bin/sh\nexit 1\n",
+                "python3": default_python,
                 "git": f'#!/bin/sh\nif [ "$1" = "pull" ]; then exit 0; fi\nexec "{shutil.which("git")}" "$@"\n',
             }.items():
                 path = binaries / name
