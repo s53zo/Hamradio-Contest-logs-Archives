@@ -199,7 +199,7 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
     def test_ua9qcq_transport_failure_opens_shared_circuit(self) -> None:
         blocked_provider = mock.Mock(return_value=[])
         with mock.patch.object(public, "UA9QCQ_DISCOVERY_ATTEMPTS", 1):
-            with self.assertRaisesRegex(RuntimeError, "VPN/WARP"):
+            with self.assertRaisesRegex(ConnectionError, "VPN/WARP"):
                 public.discover_provider_tasks(
                     11,
                     "Wednesday Mini-Test 40m",
@@ -208,7 +208,7 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
                     ),
                     1,
                 )
-            with self.assertRaisesRegex(RuntimeError, "VPN/WARP"):
+            with self.assertRaisesRegex(ConnectionError, "VPN/WARP"):
                 public.discover_provider_tasks(
                     12,
                     "Russian DX",
@@ -302,6 +302,62 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
             self.assertEqual(public._main(), 1)
         self.assertIn("FAILED: provider unavailable", output.getvalue())
         self.assertIn("Run incomplete", output.getvalue())
+
+    def test_connection_discovery_warning_allows_no_download_resume(self) -> None:
+        def fail(_last_years):
+            try:
+                raise ConnectionResetError("server offline")
+            except ConnectionResetError as exc:
+                raise RuntimeError("URE discovery failed") from exc
+
+        output = io.StringIO()
+        with (
+            mock.patch.object(public, "PROVIDERS", {1: ("Fixture", fail)}),
+            mock.patch.object(sys, "argv", [
+                "downloader", "--non-interactive", "--contests", "1",
+                "--no-task-ledger", "--no-post-download-shards",
+            ]),
+            redirect_stdout(output), redirect_stderr(output),
+        ):
+            self.assertEqual(public._main(), 0)
+        self.assertIn("WARNING: URE discovery failed", output.getvalue())
+        self.assertIn("Continuing with available files", output.getvalue())
+
+    def test_connection_failures_allow_successful_downloads_to_proceed(self) -> None:
+        def offline(_last):
+            raise TimeoutError("offline provider")
+
+        def reset():
+            raise ConnectionResetError("offline download")
+
+        tasks = [
+            public.DownloadTask(
+                dest=Path(f"TTC-SPCWC/2099-01-01/TEST{n}.log"),
+                host="example.invalid", source="fixture", action=action,
+                task_key=f"fixture/{n}", task_hash="hash", task_count=1,
+            )
+            for n, action in enumerate((lambda: {"ok": 1}, reset))
+        ]
+        output = io.StringIO()
+        with (
+            mock.patch.object(public, "PROVIDERS", {
+                1: ("Online", lambda _last: tasks), 2: ("Offline", offline),
+            }),
+            mock.patch.object(public, "valid_existing_log", return_value=False),
+            mock.patch.object(public, "resolve_hosts", return_value={"example.invalid": []}),
+            mock.patch.object(public, "task_mark_complete") as complete,
+            mock.patch.object(sys, "argv", [
+                "downloader", "--non-interactive", "--contests", "1,2",
+                "--workers", "1", "--heartbeat", "0",
+                "--no-task-ledger", "--no-post-download-shards",
+            ]),
+            redirect_stdout(output), redirect_stderr(output),
+        ):
+            self.assertEqual(public._main(), 0)
+        self.assertIn("Skipping post-download SH6 rebuild", output.getvalue())
+        self.assertIn("1 download connection failure(s)", output.getvalue())
+        self.assertEqual(complete.call_count, 1)
+        self.assertEqual(complete.call_args.args[0], "fixture/0")
 
     def test_download_error_returns_nonzero_before_post_processing(self) -> None:
         task = public.DownloadTask(
@@ -407,7 +463,7 @@ class PublicDownloaderRuntimeTests(unittest.TestCase):
             ):
                 self.assertEqual(
                     public.download_file(destination, signed_url, retries=1),
-                    {"error": 1},
+                    {"error": 1, "connection_warning": 1},
                 )
 
         self.assertNotIn("top-secret", output.getvalue())

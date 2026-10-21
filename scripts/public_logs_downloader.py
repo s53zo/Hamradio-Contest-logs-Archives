@@ -78,6 +78,7 @@ import sys
 import threading
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date
@@ -288,6 +289,29 @@ def record_task_result(target: Dict[str, int], counts: Dict[str, int]) -> None:
     target["tasks_completed"] = target.get("tasks_completed", 0) + 1
     target["tasks_failed"] = target.get("tasks_failed", 0) + int(bool(counts.get("error", 0)))
     target["written_files"] = target.get("written_files", 0) + counts.get("files_written", counts.get("ok", 0))
+
+
+def is_connection_failure(exc: BaseException) -> bool:
+    """Recognize remote access failures even when a provider wraps the cause."""
+    seen: set[int] = set()
+    while id(exc) not in seen:
+        seen.add(id(exc))
+        if isinstance(exc, (
+            urllib.error.URLError, ConnectionError, TimeoutError,
+            socket.gaierror, http.client.HTTPException,
+        )):
+            return True
+        cause = exc.__cause__ or exc.__context__
+        if cause is None:
+            return False
+        exc = cause
+    return False
+
+
+def download_failure_counts(exc: BaseException) -> Dict[str, int]:
+    if is_connection_failure(exc):
+        return {"error": 1, "connection_warning": 1}
+    return {"error": 1}
 
 
 def normalize_ua9qcq_cookie(cookie: str) -> str:
@@ -1192,6 +1216,7 @@ def download_file(
             else:
                 with PRINT_LOCK:
                     print(f"fail {dest_path}: {exc}")
+                return download_failure_counts(exc)
     return {"error": 1}
 
 
@@ -1252,6 +1277,7 @@ def download_arrl_log(
             else:
                 with PRINT_LOCK:
                     print(f"fail {dest_path}: {exc}")
+                return download_failure_counts(exc)
     return {"error": 1}
 
 
@@ -1903,7 +1929,7 @@ def tasks_zrs_kvp(last: int | None) -> List[DownloadTask]:
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"fail {placeholder}: {exc}")
-                    return {"error": 1}
+                    return download_failure_counts(exc)
                 if not result:
                     return {"skip": 1}
                 call, cbr = result
@@ -1982,7 +2008,7 @@ def tasks_euhfc(last: int | None) -> List[DownloadTask]:
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"fail {dest}: {exc}")
-                    return {"error": 1}
+                    return download_failure_counts(exc)
                 owner = euhf.parse_owner(text, call)
                 category = euhf.parse_category(text)
                 qsos = euhf.extract_qsos(text, owner)
@@ -2123,7 +2149,7 @@ def tasks_wae(last: int | None) -> List[DownloadTask]:
                     except Exception as exc:  # pylint: disable=broad-except
                         with PRINT_LOCK:
                             print(f"fail {call} {year} ({mode}): {exc}")
-                        return {"error": 1}
+                        return download_failure_counts(exc)
                     if not cab:
                         with PRINT_LOCK:
                             print(f"skip (no cabrillo): {call} {year} ({mode})")
@@ -2221,7 +2247,7 @@ def _build_darc_tasks(keys: Tuple[str, ...], source: str, last: int | None) -> L
                     except Exception as exc:  # pylint: disable=broad-except
                         with PRINT_LOCK:
                             print(f"fail {call} {darc.period_label(year, edition)} ({spec.label}): {exc}")
-                        return {"error": 1}
+                        return download_failure_counts(exc)
                     if not cab:
                         with PRINT_LOCK:
                             print(f"skip (no cabrillo): {call} {darc.period_label(year, edition)} ({spec.label})")
@@ -2798,7 +2824,7 @@ def tasks_ref(last: int | None) -> List[DownloadTask]:
                     except Exception as exc:  # pylint: disable=broad-except
                         with PRINT_LOCK:
                             print(f"fail {call} {year} ({mode_label}): {exc}")
-                        return {"error": 1}
+                        return download_failure_counts(exc)
                     if not cab:
                         with PRINT_LOCK:
                             print(f"skip (no log): {call} {year} ({mode_label})")
@@ -2965,7 +2991,7 @@ def tasks_ttc_spcwc(last: int | None) -> List[DownloadTask]:
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"fail {dest}: {exc}")
-                    return {"error": 1}
+                    return download_failure_counts(exc)
 
             tasks.append(
                 DownloadTask(
@@ -3041,7 +3067,7 @@ def tasks_okomdx(last: int | None) -> List[DownloadTask]:
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"OKOMDX fail {call} ({round_id}): {exc}")
-                    return {"error": 1}
+                    return download_failure_counts(exc)
 
             tasks.append(
                 DownloadTask(
@@ -3104,7 +3130,7 @@ def tasks_spdx(last: int | None) -> List[DownloadTask]:
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"SPDX fail {call} {year}: {exc}")
-                    return {"error": 1}
+                    return download_failure_counts(exc)
                 with PRINT_LOCK:
                     print(f"ok   {dest}")
                 return {"ok": 1}
@@ -3713,7 +3739,7 @@ def tasks_ok1wc(last: int | None) -> List[DownloadTask]:
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"OK1WC fail {call} {round_info.jobdate}: {exc}")
-                    return {"error": 1}
+                    return download_failure_counts(exc)
                 with PRINT_LOCK:
                     print(f"ok   {dest}")
                 return {"ok": 1}
@@ -4132,7 +4158,7 @@ def tasks_yudx(last: int | None) -> List[DownloadTask]:
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"YUDX fail {meta.call} {meta.year}: {exc}")
-                    return {"error": 1}
+                    return download_failure_counts(exc)
                 with PRINT_LOCK:
                     print(f"ok   {dest}")
                 return {"ok": 1}
@@ -4200,7 +4226,7 @@ def tasks_yota(last: int | None) -> List[DownloadTask]:
                             f"fail YOTA Contest {entry.event.year} "
                             f"{entry.event.round_name} {entry.callsign}: {exc}"
                         )
-                    return {"error": 1}
+                    return download_failure_counts(exc)
                 with PRINT_LOCK:
                     print(f"ok   {dest}")
                 return {"ok": 1}
@@ -4708,7 +4734,7 @@ def tasks_hrs_hf(last: int | None) -> List[DownloadTask]:
                 except Exception as exc:  # pylint: disable=broad-except
                     with PRINT_LOCK:
                         print(f"9A HRS fail {info.call} {round_info.cid}: {exc}")
-                    return {"error": 1}
+                    return download_failure_counts(exc)
                 with PRINT_LOCK:
                     print(f"ok   {dest}")
                 return {"ok": 1}
@@ -5093,7 +5119,7 @@ def discover_provider_tasks(
 
     with UA9QCQ_DISCOVERY_LOCK:
         if UA9QCQ_DISCOVERY_OUTAGE:
-            raise RuntimeError(UA9QCQ_DISCOVERY_OUTAGE)
+            raise ConnectionError(UA9QCQ_DISCOVERY_OUTAGE)
         try:
             return run_attempts()
         except (OSError, TimeoutError) as exc:
@@ -5101,7 +5127,7 @@ def discover_provider_tasks(
                 "UA9QCQ transport stalled before completing its HTML response; "
                 "check VPN/WARP split-tunnel routing or retry later"
             )
-            raise RuntimeError(UA9QCQ_DISCOVERY_OUTAGE) from exc
+            raise ConnectionError(UA9QCQ_DISCOVERY_OUTAGE) from exc
 
 
 def prompt_selection() -> List[int]:
@@ -5335,6 +5361,7 @@ def _main() -> int:
 
     discovery_inventory: Dict[int, Tuple[int, int, int]] = {}
     discovery_failures: Dict[int, str] = {}
+    discovery_warnings: Dict[int, str] = {}
 
     def run_provider(sel: int) -> Tuple[int, List[DownloadTask]]:
         name, fn = PROVIDERS[sel]
@@ -5352,8 +5379,12 @@ def _main() -> int:
         except Exception as exc:  # pylint: disable=broad-except
             with PRINT_LOCK:
                 discovery_inventory[sel] = (0, 0, 0)
-                discovery_failures[sel] = str(exc)
-                print(f"Provider {sel}) {name} failed during discovery: {exc}")
+                if is_connection_failure(exc):
+                    discovery_warnings[sel] = str(exc)
+                    print(f"WARNING: Provider {sel}) {name} unavailable during discovery: {exc}")
+                else:
+                    discovery_failures[sel] = str(exc)
+                    print(f"Provider {sel}) {name} failed during discovery: {exc}")
             return sel, []
         return sel, tasks
 
@@ -5452,7 +5483,7 @@ def _main() -> int:
                 with PRINT_LOCK:
                     print(f"fail task {task.dest}: {exc}")
                 success = False
-                return {"error": 1}
+                return download_failure_counts(exc)
             finally:
                 if limiter and acquired:
                     limiter.release(success)
@@ -5642,12 +5673,22 @@ def _main() -> int:
     for sel in sorted(selections):
         name, _ = discovery_results.get(sel, (PROVIDERS[sel][0], 0))
         discovered, existing, downloads = discovery_inventory.get(sel, (0, 0, 0))
+        if sel in discovery_warnings:
+            print(f"  {sel}) {name:<40} WARNING: {discovery_warnings[sel]}")
+            continue
         if sel in discovery_failures:
             print(f"  {sel}) {name:<40} FAILED: {discovery_failures[sel]}")
             continue
         print(
             f"  {sel}) {name:<40} candidates {discovered:>6} "
             f"existing {existing:>6} queued {downloads:>6}"
+        )
+
+    if discovery_warnings:
+        print(
+            f"WARNING: {len(discovery_warnings)} provider connection failure(s). "
+            "Continuing with available files; unavailable providers will be retried on the next run.",
+            file=sys.stderr,
         )
 
     if total_tasks == 0:
@@ -5704,6 +5745,8 @@ def _main() -> int:
         print(f"  skipped: {total_counts.get('skip', 0)}")
         print(f"  download errors: {total_counts.get('error', 0)}")
         print(f"  discovery failures: {len(discovery_failures)}")
+        print(f"  provider connection warnings: {len(discovery_warnings)}")
+        print(f"  download connection warnings: {total_counts.get('connection_warning', 0)}")
         if total_counts.get("cancel", 0):
             print(f"  canceled: {total_counts.get('cancel', 0)}")
         print(f"  elapsed: {total_elapsed:.1f}s")
@@ -5740,7 +5783,14 @@ def _main() -> int:
     if not download_interrupted:
         print_download_summary()
     download_errors = combined_download_counts().get("error", 0)
-    if discovery_failures or download_errors:
+    connection_warnings = combined_download_counts().get("connection_warning", 0)
+    if connection_warnings:
+        print(
+            f"WARNING: {connection_warnings} download connection failure(s). "
+            "Continuing with successful files; failed downloads remain pending for the next run.",
+            file=sys.stderr,
+        )
+    if discovery_failures or download_errors > connection_warnings:
         print(
             "Run incomplete: "
             f"{len(discovery_failures)} discovery failure(s), "
