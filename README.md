@@ -7,11 +7,11 @@ long-term preservation of contest activity data.
 ## Current Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-10-27:
+SH6-indexed snapshot counted on 2026-10-29:
 
-- total indexed log files: 2,266,208
-- source/public indexed log files: 1,815,565
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 450,643
+- total indexed log files: 2,266,460
+- source/public indexed log files: 1,815,790
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 450,670
 - unique source/public callsigns in the SH6 index: 181,470
 - contest roots in the SH6 index: 37
 - SQLite shard files in `SH6/`: 256
@@ -113,14 +113,14 @@ directories are not indexed.
 | RussianRadioTeamChampionship | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,883 |
 | SAC | 2021, 2023, 2024, 2025 | 11,330 |
 | SPDX contest | 2019, 2020, 2021, 2023, 2024, 2025, 2026 | 18,880 |
-| TTC-SPCWC | 2026 | 2,055 |
+| TTC-SPCWC | 2026 | 2,217 |
 | URE | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 58,424 |
 | WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,708 |
 | WRTC | 2018, 2026 | 3,216 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 8,818 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 15,190 |
-| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,854 |
-| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 14,186 |
+| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,911 |
+| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 14,219 |
 | YOTA_Contest | 2021, 2022, 2023, 2024, 2025, 2026 | 14,102 |
 | YU DX Contest | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 5,165 |
 | YuriGagarinDXContest | 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,858 |
