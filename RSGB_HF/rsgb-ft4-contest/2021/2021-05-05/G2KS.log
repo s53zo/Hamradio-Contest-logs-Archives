@@ -1,0 +1,36 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G2KS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO84
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210505&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4279; excluded rows=5.
+QSO:  3577 FT4 2021-05-05 1901 G2KS          - IO84               JL5TMP/P      - IJ63
+QSO:  3577 FT4 2021-05-05 1902 G2KS          +00 IO84             G3KNU         -07 IO93
+QSO:  3577 FT4 2021-05-05 1906 G2KS          +12 IO84             G4FAL         +01 IO93
+QSO:  3577 FT4 2021-05-05 1908 G2KS          +06 IO84             G4DZL         +15 IO92
+QSO:  3577 FT4 2021-05-05 1909 G2KS          +05 IO84             G0ORE         +00 IO92
+QSO:  3576 FT4 2021-05-05 1913 G2KS          +07 IO84             G4EBK         -05 IO93
+QSO:  3576 FT4 2021-05-05 1914 G2KS          -03 IO84             GM6XX         +08 IO86
+QSO:  3577 FT4 2021-05-05 1916 G2KS          +08 IO84             G0HDV         -04 IO93
+QSO:  3577 FT4 2021-05-05 1921 G2KS          +08 IO84             HB9AWS        -04 JN46
+QSO:  3577 FT4 2021-05-05 1922 G2KS          -03 IO84             DG3BZ         -13 JO31
+QSO:  3577 FT4 2021-05-05 1923 G2KS          +00 IO84             GW0ARK        -08 IO81
+QSO:  3576 FT4 2021-05-05 1924 G2KS          +04 IO84             G7X           -13 IO92
+QSO:  3576 FT4 2021-05-05 1925 G2KS          +03 IO84             G0AJH         -13 JO01
+QSO: 14081 FT4 2021-05-05 1935 G2KS          +04 IO84             W1UE          +04 FN41
+QSO: 14081 FT4 2021-05-05 1937 G2KS          +14 IO84             K1WY          -01 FN31
+QSO:  3577 FT4 2021-05-05 2002 G2KS          -12 IO84             PA3EPP        -15 JO32
+QSO:  3576 FT4 2021-05-05 2004 G2KS          -10 IO84             LB2WG         -13 JO59
+QSO:  3576 FT4 2021-05-05 2006 G2KS          -17 IO84             G0FVH         -15 IO80
+QSO:  3576 FT4 2021-05-05 2013 G2KS          -15 IO84             OZ1DAE        -15 JO65
+QSO:  3576 FT4 2021-05-05 2023 G2KS          -02 IO84             OK1FAK        +00 JO70
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: N9KJN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 20M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: EN52
+CATEGORY: Non-UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220926&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4760; excluded rows=0.
+QSO: 14081 FT4 2022-09-26 1910 N9KJN         -07 EN52             VE3QN         +04 FN25
+QSO: 14082 FT4 2022-09-26 1921 N9KJN         -08 EN52             EI3GRB        -07 IO52
+QSO: 14081 FT4 2022-09-26 1935 N9KJN         -13 EN52             G6XX          -10 IO93
+QSO: 14081 FT4 2022-09-26 1943 N9KJN         -05 EN52             G4OWT         -07 IO90
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-AUTUMN-SERIES-DATA
+CALLSIGN: G3PXT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=Autumn+Series+DATA&Date=181112&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=1737; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unrecognized source date (1).
+QSO:  3580 PS 2018-11-12 2004 G3PXT         599 1                G6GLP         599 2
+QSO:  3580 PS 2018-11-12 2010 G3PXT         599 3                M0RYB         599 4
+QSO:  3580 PS 2018-11-12 2021 G3PXT         599 4                G4ABX         599 28
+QSO:  3580 PS 2018-11-12 2023 G3PXT         599 5                G3HRH         599 5
+QSO:  3580 PS 2018-11-12 2028 G3PXT         599 6                G3SNU         599 9
+QSO:  3592 RY 2018-11-12 2030 G3PXT         599 7                G6XX          599 27
+QSO:  3592 RY 2018-11-12 2032 G3PXT         599 8                G4RCG         599 22
+END-OF-LOG:

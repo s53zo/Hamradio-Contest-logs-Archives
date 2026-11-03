@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: WA5NOM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 20M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: EM05
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210628&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4376; excluded rows=0.
+QSO: 14081 FT4 2021-06-28 1916 WA5NOM        -08 EM05             PJ4DX         -06 FK52
+QSO: 14081 FT4 2021-06-28 1933 WA5NOM        -08 EM05             WO3H          -13 EN91
+QSO: 14081 FT4 2021-06-28 1959 WA5NOM        +05 EM05             KF7JZ         +02 EM44
+QSO: 14081 FT4 2021-06-28 2001 WA5NOM        -11 EM05             N1EK          -11 FM19
+QSO: 14081 FT4 2021-06-28 2013 WA5NOM        -05 EM05             CO7HNS        -15 FL11
+QSO: 14081 FT4 2021-06-28 2017 WA5NOM        -11 EM05             CO7YB         -10 FL11
+END-OF-LOG:

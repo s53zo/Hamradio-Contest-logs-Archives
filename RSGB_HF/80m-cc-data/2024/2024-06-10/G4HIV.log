@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G4HIV
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+CATEGORY-OPERATOR: CHECKLOG
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=9213; excluded rows=1.
+QSO:  3605 RY 2024-06-10 2019 G4HIV         599 1                G0MUD         599 73
+QSO:  3603 RY 2024-06-10 2025 G4HIV         599 2                MI4I          599 41
+QSO:  3601 RY 2024-06-10 2026 G4HIV         599 3                G4N           599 95
+QSO:  3600 RY 2024-06-10 2028 G4HIV         599 4                M0RYB/P       599 86
+END-OF-LOG:

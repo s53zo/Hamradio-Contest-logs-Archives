@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: M0GDX
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=7377; excluded rows=2.
+QSO:  3500 RY 2017-05-10 1909 M0GDX         599 1                G1A           599 10
+QSO:  3500 RY 2017-05-10 1911 M0GDX         599 2                GW2R          599 13
+QSO:  3500 RY 2017-05-10 1922 M0GDX         599 3                G3PDH         599 34
+QSO:  3500 RY 2017-05-10 1932 M0GDX         599 4                M0JKB         599 28
+QSO:  3500 RY 2017-05-10 1945 M0GDX         599 5                M0VAA         599 53
+QSO:  3500 RY 2017-05-10 1956 M0GDX         599 6                G4TPO         599 42
+END-OF-LOG:

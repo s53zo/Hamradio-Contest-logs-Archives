@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: MM0RKN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO85
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210215&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4907; excluded rows=7.
+QSO:  3577 FT4 2021-02-15 2023 MM0RKN        -02 IO85             G3KNU         -14 IO93
+QSO:  3576 FT4 2021-02-15 2054 MM0RKN        -05 IO85             G0VDZ         -10 IO91
+QSO:  3577 FT4 2021-02-15 2059 MM0RKN        -16 IO85             G1JSP         +07 IO92
+QSO:  3576 FT4 2021-02-15 2114 MM0RKN        -02 IO85             G5LP          +07 IO92
+QSO:  3576 FT4 2021-02-15 2117 MM0RKN        -08 IO85             G4KRW         -15 IO92
+QSO:  3577 FT4 2021-02-15 2124 MM0RKN        -09 IO85             M0KZC         -05 IO90
+QSO:  3577 FT4 2021-02-15 2126 MM0RKN        +00 IO85             PC4H          -12 JO22
+QSO:  3577 FT4 2021-02-15 2127 MM0RKN        -16 IO85             DF1LON        -08 JO31
+QSO:  3577 FT4 2021-02-15 2130 MM0RKN        -05 IO85             DF9HI         -14 JO31
+END-OF-LOG:

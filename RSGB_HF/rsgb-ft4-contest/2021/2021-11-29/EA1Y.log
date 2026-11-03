@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: EA1Y
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 20M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IN71
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=211129&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=3622; excluded rows=0.
+QSO: 14081 FT4 2021-11-29 2006 EA1Y          +04 IN71             DL1YEG        -17 JO42
+QSO: 14081 FT4 2021-11-29 2016 EA1Y          +13 IN71             G6XX          +07 IO93
+QSO: 14081 FT4 2021-11-29 2031 EA1Y          +01 IN71             DJ9MH         -06 JO50
+QSO: 14081 FT4 2021-11-29 2110 EA1Y          -09 IN71             G7NJX         -11 IO81
+QSO: 14081 FT4 2021-11-29 2126 EA1Y          -04 IN71             MM0C          -06 IO75
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M7SQI
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=240318&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4804; excluded rows=1.
+QSO: 28181 FT4 2024-03-18 2012 M7SQI         +18 -                K2LNS         +09 -
+QSO: 28181 FT4 2024-03-18 2013 M7SQI         -12 -                KC2NJ         -08 -
+QSO: 21000 FT4 2024-03-18 2021 M7SQI         +16 -                W1OP          -07 -
+QSO: 21000 FT4 2024-03-18 2055 M7SQI         -04 -                KA4MLP        -15 -
+QSO: 21000 FT4 2024-03-18 2056 M7SQI         -04 -                K8CW          -13 -
+END-OF-LOG:

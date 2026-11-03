@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M7TGF
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO83
+CATEGORY: 10W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210407&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4636; excluded rows=1.
+QSO: 14081 FT4 2021-04-07 1921 M7TGF         +00 IO83             RT3W          -14 KO81
+QSO: 14081 FT4 2021-04-07 1922 M7TGF         +08 IO83             EA5EYO        -12 IM98
+QSO:  3580 FT4 2021-04-07 1959 M7TGF         +04 IO83             G0GEP         -10 IO92
+QSO:  3580 FT4 2021-04-07 2001 M7TGF         -05 IO83             G4ZFE         -11 IO91
+QSO:  3579 FT4 2021-04-07 2004 M7TGF         +06 IO83             G4FAL         -20 IO93
+QSO:  7048 FT4 2021-04-07 2025 M7TGF         +21 IO83             DL4ME         -14 JO50
+QSO:  7048 FT4 2021-04-07 2028 M7TGF         +21 IO83             ON6SAT        -09 JO20
+END-OF-LOG:

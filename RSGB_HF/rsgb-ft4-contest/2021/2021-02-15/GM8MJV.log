@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: GM8MJV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO85
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210215&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4907; excluded rows=7.
+QSO:  7048 FT4 2021-02-15 2002 GM8MJV        -05 IO85             DM2LCT        -12 JO61
+QSO:  3575 FT4 2021-02-15 2022 GM8MJV        +15 IO85             2E0FQT        -11 IO93
+QSO:  3575 FT4 2021-02-15 2025 GM8MJV        +07 IO85             G4CTY         +01 JO01
+QSO:  3575 FT4 2021-02-15 2033 GM8MJV        +13 IO85             MM1DMU        -17 IO75
+QSO:  7048 FT4 2021-02-15 2042 GM8MJV        +25 IO85             GM6XX         +14 IO86
+QSO:  7048 FT4 2021-02-15 2044 GM8MJV        +11 IO85             EA4GJP        -05 IM69
+QSO:  7048 FT4 2021-02-15 2047 GM8MJV        +11 IO85             OK1SI         -10 JO70
+QSO: 14080 FT4 2021-02-15 2054 GM8MJV        -08 IO85             N0IS          -14 EM48
+QSO:  3575 FT4 2021-02-15 2059 GM8MJV        +12 IO85             G6ZRV         +04 JO02
+QSO:  3575 FT4 2021-02-15 2112 GM8MJV        +17 IO85             G1SCT         +06 IO92
+END-OF-LOG:

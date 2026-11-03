@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G1K
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=240318&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4804; excluded rows=1.
+QSO:  7050 FT4 2024-03-18 2001 G1K           -06 -                EH3DOWN       -17 -
+QSO:  7050 FT4 2024-03-18 2002 G1K           -06 -                EH3DOWN       -17 -
+QSO:  7050 FT4 2024-03-18 2004 G1K           -06 -                GW4CVT        -10 -
+QSO: 14082 FT4 2024-03-18 2025 G1K           -12 -                HA3MQ         -10 -
+QSO: 21142 FT4 2024-03-18 2041 G1K           -06 -                W1OP          -17 -
+QSO: 14082 FT4 2024-03-18 2050 G1K           +01 -                YO4NF         -21 -
+QSO:  7050 FT4 2024-03-18 2104 G1K           -13 -                MW7FON        -12 -
+QSO:  7050 FT4 2024-03-18 2121 G1K           -02 -                ON6NL         -04 -
+END-OF-LOG:

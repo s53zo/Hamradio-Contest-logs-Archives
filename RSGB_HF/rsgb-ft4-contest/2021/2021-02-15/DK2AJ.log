@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: DK2AJ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO51
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210215&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4907; excluded rows=7.
+QSO:  3576 FT4 2021-02-15 2005 DK2AJ         +00 JO51             DK7UY         +08 JO44
+QSO:  3576 FT4 2021-02-15 2008 DK2AJ         +01 JO51             PA4O          -01 JO33
+QSO:  3576 FT4 2021-02-15 2013 DK2AJ         -07 JO51             M5T           +08 IO93
+QSO:  3579 FT4 2021-02-15 2018 DK2AJ         +11 JO51             DJ9MH         +00 JO50
+QSO:  3579 FT4 2021-02-15 2021 DK2AJ         -06 JO51             G7X           +04 IO92
+QSO:  3579 FT4 2021-02-15 2022 DK2AJ         +05 JO51             PA2TA         +01 JO21
+QSO:  3579 FT4 2021-02-15 2023 DK2AJ         +01 JO51             PG7V          +08 JO22
+QSO:  3579 FT4 2021-02-15 2028 DK2AJ         +11 JO51             G4ZFE         -10 IO91
+QSO:  3579 FT4 2021-02-15 2036 DK2AJ         -03 JO51             M5RJC         03 IO82
+END-OF-LOG:

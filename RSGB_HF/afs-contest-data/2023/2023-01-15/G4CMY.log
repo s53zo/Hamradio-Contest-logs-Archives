@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-AFS-CONTEST-DATA
+CALLSIGN: G4CMY
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=AFS+Contest+DATA&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=23378; excluded rows=6.
+QSO:  7040 PS 2023-01-15 1416 G4CMY         599 1                G4RCD         599 57
+QSO:  7042 PS 2023-01-15 1432 G4CMY         599 2                G5Q           599 103
+QSO:  7041 PS 2023-01-15 1521 G4CMY         599 3                GM4Z          599 137
+QSO:  3583 PS 2023-01-15 1550 G4CMY         599 4                G5TO          599 123
+END-OF-LOG:

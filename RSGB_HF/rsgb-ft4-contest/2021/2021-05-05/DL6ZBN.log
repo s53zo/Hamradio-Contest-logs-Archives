@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: DL6ZBN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 40M
+GRID-LOCATOR: JO40
+CATEGORY: 10W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210505&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4279; excluded rows=5.
+QSO:  7050 FT4 2021-05-05 1931 DL6ZBN        -03 JO40             G4RCG         -06 IO93
+QSO:  7050 FT4 2021-05-05 1933 DL6ZBN        +03 JO40             SP6M          -10 JO80
+QSO:  7050 FT4 2021-05-05 1939 DL6ZBN        +01 JO40             M0URL         -05 IO91
+QSO:  7050 FT4 2021-05-05 1945 DL6ZBN        +04 JO40             G4FFY         -16 JO01
+END-OF-LOG:

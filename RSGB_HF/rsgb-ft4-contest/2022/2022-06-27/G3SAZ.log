@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G3SAZ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO90
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220627&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4422; excluded rows=2.
+QSO:  7049 FT4 2022-06-27 1917 G3SAZ         -02 IO90             PC2T          -15 JO21
+QSO:  7049 FT4 2022-06-27 1920 G3SAZ         -01 IO90             I2XLF         -12 JN45
+QSO:  7049 FT4 2022-06-27 1925 G3SAZ         +06 IO90             PD2PKM        -08 JO21
+QSO:  7048 FT4 2022-06-27 1933 G3SAZ         -06 IO90             PA4DN         -20 JO32
+QSO: 14082 FT4 2022-06-27 1939 G3SAZ         +07 IO90             OQ4U          -06 JO20
+QSO: 14081 FT4 2022-06-27 1947 G3SAZ         -04 IO90             EA3FHP        -11 JN11
+QSO: 14081 FT4 2022-06-27 1949 G3SAZ         -10 IO90             SV1EAG        -19 KM18
+END-OF-LOG:

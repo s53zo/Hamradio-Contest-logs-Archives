@@ -1,0 +1,15 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: M0WIT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=7600; excluded rows=5.
+QSO:  3580 PS 2016-05-11 1950 M0WIT         599 1                G3YOA         599 38
+QSO:  3580 PS 2016-05-11 2005 M0WIT         599 2                G0RPM         599 71
+QSO:  3580 PS 2016-05-11 2016 M0WIT         599 3                2E0SHT        599 30
+END-OF-LOG:

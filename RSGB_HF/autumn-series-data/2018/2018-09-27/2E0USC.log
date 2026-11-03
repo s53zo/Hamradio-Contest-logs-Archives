@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-AUTUMN-SERIES-DATA
+CALLSIGN: 2E0USC
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=Autumn+Series+DATA&Date=180927&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=3856; excluded rows=0.
+QSO:  3578 PS 2018-09-27 2010 2E0USC        599 1                G3CO          599 20
+QSO:  3577 PS 2018-09-27 2018 2E0USC        599 2                G3RXO         599 48
+QSO:  3579 PS 2018-09-27 2024 2E0USC        599 3                G0GDA         599 48
+QSO:  3579 PS 2018-09-27 2028 2E0USC        599 4                G3RVM         599 68
+END-OF-LOG:

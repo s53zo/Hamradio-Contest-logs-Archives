@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M7ERU
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 40M
+GRID-LOCATOR: IO93
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220627&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4422; excluded rows=2.
+QSO:  7048 FT4 2022-06-27 1941 M7ERU         +3 IO93              G0BIX         -16 JO01
+QSO:  7048 FT4 2022-06-27 1950 M7ERU         -11 IO93             DG9VH         -19 JN39
+QSO:  7048 FT4 2022-06-27 1951 M7ERU         -03 IO93             DL4DCD        -03 JO41
+QSO:  7048 FT4 2022-06-27 2026 M7ERU         +05 IO93             G4EBK         -03 IO93
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: M0XXM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=8156; excluded rows=4.
+QSO: 03581 PS 2018-03-05 2042 M0XXM         599 1                G3MXH         590 30
+QSO: 03581 PS 2018-03-05 2059 M0XXM         599 2                G1IPU         599 54
+QSO: 03580 PS 2018-03-05 2104 M0XXM         599 3                MW0MAU        599 32
+QSO: 03581 PS 2018-03-05 2106 M0XXM         599 4                MW0CVT        599 36
+QSO: 03581 PS 2018-03-05 2114 M0XXM         599 5                GM0WED        599 53
+QSO: 03581 PS 2018-03-05 2125 M0XXM         599 6                PC4H          599 76
+QSO: 03582 PS 2018-03-05 2129 M0XXM         599 7                G3VCA         599 75
+END-OF-LOG:

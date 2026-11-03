@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-AFS-CONTEST-PHONE
+CALLSIGN: M6PTU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: ALL
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=AFS+Contest+PHONE&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=26050; excluded rows=26.
+SOAPBOX: WARNING: 23 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: missing or invalid HF frequency (23).
+QSO:  7139 PH 2018-01-13 1434 M6PTU         59 2                 GM2V          59 98
+QSO:  3716 PH 2018-01-13 1513 M6PTU         59 7                 G0KYS         59 72
+QSO:  3710 PH 2018-01-13 1514 M6PTU         59 8                 G4HYC         59 94
+QSO:  3719 PH 2018-01-13 1522 M6PTU         59 9                 M1BXF         59 139
+QSO:  3723 PH 2018-01-13 1527 M6PTU         59 10                G4PIQ         59 153
+QSO:  3664 PH 2018-01-13 1615 M6PTU         59 19                GW0FRE        59 158
+QSO:  3672 PH 2018-01-13 1622 M6PTU         59 21                G3Q           59 183
+END-OF-LOG:

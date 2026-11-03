@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M5N
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO91
+CATEGORY: UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=221017&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4256; excluded rows=2.
+QSO:  7048 FT4 2022-10-17 1900 M5N           -06 IO91             R4DI          +05 -
+QSO:  7048 FT4 2022-10-17 1901 M5N           -10 IO91             GW0ARK        -03 IO81
+QSO:  7048 FT4 2022-10-17 1902 M5N           +04 IO91             PF1B          +14 JO22
+QSO:  7048 FT4 2022-10-17 1903 M5N           +04 IO91             SP9DWT        +08 JN99
+QSO:  7048 FT4 2022-10-17 1904 M5N           +12 IO91             IQ1TO         -09 JN35
+QSO:  7048 FT4 2022-10-17 1904 M5N           +18 IO91             PE1OYB        +03 JO21
+QSO:  7048 FT4 2022-10-17 1905 M5N           -12 IO91             2E0RRJ        -03 IO93
+QSO:  7048 FT4 2022-10-17 1907 M5N           -13 IO91             EA1SV         -04 IN83
+QSO:  7048 FT4 2022-10-17 1908 M5N           -08 IO91             EA3HMM        +04 JN00
+QSO:  7048 FT4 2022-10-17 1909 M5N           +06 IO91             DF4ZL         +13 JN49
+QSO: 14080 FT4 2022-10-17 2023 M5N           -12 IO91             WA8LRW        -18 EN91
+QSO: 14080 FT4 2022-10-17 2025 M5N           -07 IO91             K2RSB         -08 FN31
+QSO: 14080 FT4 2022-10-17 2026 M5N           +00 IO91             K9OM          +02 EN65
+QSO: 14080 FT4 2022-10-17 2027 M5N           -17 IO91             VE1BZI        -02 FN74
+END-OF-LOG:

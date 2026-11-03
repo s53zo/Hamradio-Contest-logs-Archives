@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M7ICL
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: JO02
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220926&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4760; excluded rows=0.
+QSO: 14082 FT4 2022-09-26 1911 M7ICL         - JO02               HB9AWS        - JN46
+QSO: 14082 FT4 2022-09-26 1921 M7ICL         +02 JO02             YO9HP         -13 KN35
+QSO: 14082 FT4 2022-09-26 1927 M7ICL         -19 JO02             CT2FXY        -13 IM59
+QSO: 14082 FT4 2022-09-26 1928 M7ICL         -03 JO02             R85RTO        -16 LO02
+QSO:  7049 FT4 2022-09-26 1946 M7ICL         +16 JO02             DL2IAN        +03 JN39
+QSO:  7049 FT4 2022-09-26 1953 M7ICL         +04 JO02             F5OIH         -07 JN06
+QSO:  7049 FT4 2022-09-26 1958 M7ICL         +17 JO02             DG1BOR        -01 JN49
+QSO:  7049 FT4 2022-09-26 2013 M7ICL         -08 JO02             F5RUE         -10 IN94
+QSO:  7049 FT4 2022-09-26 2015 M7ICL         +20 JO02             SE6K          +04 JO66
+QSO:  7049 FT4 2022-09-26 2019 M7ICL         +12 JO02             OU2PA         -13 JO57
+END-OF-LOG:

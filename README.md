@@ -78,10 +78,10 @@ requests through this repository's Issues.
 <!-- STATS:START -->
 SH6-indexed snapshot counted on 2026-11-03:
 
-- total indexed log files: 2,288,548
-- source/public indexed log files: 1,835,378
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 453,170
-- unique source/public callsigns in the SH6 index: 181,976
+- total indexed log files: 2,361,986
+- source/public indexed log files: 1,894,776
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 467,210
+- unique source/public callsigns in the SH6 index: 182,865
 - contest roots in the SH6 index: 39
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -116,7 +116,7 @@ directories are not indexed.
 | RDAContest | 2018, 2019, 2020, 2021, 2022, 2023 | 8,115 |
 | REF | 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 41,552 |
 | RFChampionshipCW | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 2,488 |
-| RSGB_HF | 2019, 2022, 2025, 2026 | 8,614 |
+| RSGB_HF | 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 | 82,052 |
 | RSGB_VHF | 2017, 2018, 2019, 2021, 2022, 2025, 2026 | 13,474 |
 | RussianDXContest | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 10,755 |
 | RussianRadioTeamChampionship | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,883 |

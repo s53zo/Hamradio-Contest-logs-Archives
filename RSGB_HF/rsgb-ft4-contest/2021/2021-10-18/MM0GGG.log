@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: MM0GGG
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO85
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=211018&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4030; excluded rows=1.
+QSO:  7047 FT4 2021-10-18 1905 MM0GGG        +09 IO85             MM0C          +16 IO75
+QSO:  7047 FT4 2021-10-18 1908 MM0GGG        +11 IO85             GM4M          +13 IO75
+QSO:  7048 FT4 2021-10-18 1918 MM0GGG        +03 IO85             G3SWC         -12 IO91
+QSO: 14080 FT4 2021-10-18 1922 MM0GGG        -06 IO85             EA1Y          -01 IN71
+QSO:  7048 FT4 2021-10-18 1931 MM0GGG        -15 IO85             ON9KAT        -18 JO21
+QSO:  7048 FT4 2021-10-18 1933 MM0GGG        +00 IO85             GU0UVH        -01 IN89
+QSO:  7048 FT4 2021-10-18 1936 MM0GGG        -01 IO85             OK2EA         -08 JN89
+QSO:  7048 FT4 2021-10-18 1939 MM0GGG        -08 IO85             PA2RO         +00 JO22
+QSO:  7048 FT4 2021-10-18 1952 MM0GGG        -01 IO85             GW0ARK        -08 IO81
+QSO:  7048 FT4 2021-10-18 1957 MM0GGG        -17 IO85             PD2PKM        -01 JO21
+QSO:  7048 FT4 2021-10-18 2002 MM0GGG        +07 IO85             OQ4U          -03 JO20
+QSO:  7048 FT4 2021-10-18 2004 MM0GGG        +07 IO85             G4AWA         +12 IO90
+QSO:  7048 FT4 2021-10-18 2008 MM0GGG        -01 IO85             2E0CVN        -12 IO80
+QSO:  7048 FT4 2021-10-18 2008 MM0GGG        -10 IO85             G3LHJ         +02 IO80
+QSO: 14080 FT4 2021-10-18 2012 MM0GGG        -11 IO85             HB9AWS        +01 JN46
+QSO:  7047 FT4 2021-10-18 2029 MM0GGG        -10 IO85             EA1IOK        +01 IN62
+END-OF-LOG:

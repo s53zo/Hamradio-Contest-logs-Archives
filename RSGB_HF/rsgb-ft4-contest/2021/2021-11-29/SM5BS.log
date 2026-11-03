@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: SM5BS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO89
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=211129&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=3622; excluded rows=0.
+QSO:  7048 FT4 2021-11-29 2007 SM5BS         -13 JO89             EA3FHP        -08 JN11
+QSO:  7048 FT4 2021-11-29 2012 SM5BS         -10 JO89             F5RD          -12 JN16
+QSO: 14083 FT4 2021-11-29 2023 SM5BS         -01 JO89             G6XX          +09 IO93
+QSO:  3579 FT4 2021-11-29 2048 SM5BS         -06 JO89             PA0PIW        -09 JO22
+QSO:  7050 FT4 2021-11-29 2059 SM5BS         -11 JO89             SZ2T          -14 KN10
+QSO:  7050 FT4 2021-11-29 2101 SM5BS         +01 JO89             G6XX          -11 IO93
+QSO:  3579 FT4 2021-11-29 2108 SM5BS         +09 JO89             DR4W          -21 JN59
+QSO:  3579 FT4 2021-11-29 2109 SM5BS         -12 JO89             OS6AT         +01 JO10
+QSO:  3579 FT4 2021-11-29 2114 SM5BS         +02 JO89             GW4JBQ        -16 IO81
+END-OF-LOG:

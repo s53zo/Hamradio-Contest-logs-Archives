@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G4GMS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+CATEGORY: UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=231127&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=3847; excluded rows=2.
+QSO:  7049 FT4 2023-11-27 2002 G4GMS         +07 -                G0HGH         +01 -
+QSO:  3577 FT4 2023-11-27 2009 G4GMS         +01 -                DL4ME         +07 -
+QSO:  3577 FT4 2023-11-27 2010 G4GMS         +12 -                PH3T          -16 -
+QSO:  3578 FT4 2023-11-27 2016 G4GMS         +14 -                PA3EWG        -13 -
+QSO:  3577 FT4 2023-11-27 2020 G4GMS         +16 -                DL9UP         -15 -
+QSO:  3578 FT4 2023-11-27 2022 G4GMS         +13 -                PC4H          -08 -
+QSO:  3576 FT4 2023-11-27 2023 G4GMS         +12 -                PA4T          -11 -
+QSO:  3576 FT4 2023-11-27 2025 G4GMS         -05 -                DO2SBS        -11 -
+QSO:  3578 FT4 2023-11-27 2031 G4GMS         +05 -                DD3VV         -18 -
+QSO:  3577 FT4 2023-11-27 2033 G4GMS         +19 -                GW0ARK        -18 -
+QSO:  3577 FT4 2023-11-27 2053 G4GMS         +23 -                G0HGH         +01 -
+END-OF-LOG:

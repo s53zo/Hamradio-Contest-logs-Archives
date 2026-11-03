@@ -1,0 +1,16 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: MS0FNR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY: 10W-A
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=4463; excluded rows=3.
+QSO:  3584 PS 2019-07-25 1957 MS0FNR        599 1                G4IDF         599 1
+QSO:  3584 PS 2019-07-25 2005 MS0FNR        599 2                G3VDB         599 49
+QSO:  3584 PS 2019-07-25 2029 MS0FNR        599 3                G0HDV         599 66
+END-OF-LOG:

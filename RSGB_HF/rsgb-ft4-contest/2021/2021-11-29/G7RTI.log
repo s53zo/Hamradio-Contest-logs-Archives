@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G7RTI
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO91
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=211129&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=3622; excluded rows=0.
+QSO:  3580 FT4 2021-11-29 2001 G7RTI         +05 IO91             M5G           +03 IO91
+QSO:  3576 FT4 2021-11-29 2013 G7RTI         -06 IO91             G4BRK         -01 IO91
+QSO:  3579 FT4 2021-11-29 2022 G7RTI         -01 IO91             G4KRW         +04 IO92
+QSO:  3579 FT4 2021-11-29 2023 G7RTI         +04 IO91             M0KKM         +00 JO02
+QSO:  3579 FT4 2021-11-29 2023 G7RTI         +01 IO91             G6DXY         -04 IO91
+QSO:  3579 FT4 2021-11-29 2026 G7RTI         +03 IO91             MM0C          -13 IO75
+QSO:  3579 FT4 2021-11-29 2035 G7RTI         -13 IO91             G4BYE         -12 IO91
+QSO:  3580 FT4 2021-11-29 2040 G7RTI         -01 IO91             G1GNQ         -07 JO01
+QSO:  3580 FT4 2021-11-29 2042 G7RTI         -06 IO91             G4ARI         -19 IO92
+QSO:  3580 FT4 2021-11-29 2044 G7RTI         +00 IO91             G4AWA         +11 IO90
+QSO:  3580 FT4 2021-11-29 2045 G7RTI         -05 IO91             GW0ETF        -06 IO73
+END-OF-LOG:

@@ -1,0 +1,16 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: 2E0DHG
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=7600; excluded rows=5.
+QSO:  3590 RY 2016-05-11 1949 2E0DHG        599 1                G3PHO         599 45
+QSO:  3590 RY 2016-05-11 1956 2E0DHG        599 2                G4FAL         599 49
+QSO:  3593 RY 2016-05-11 2000 2E0DHG        599 3                G0HSA         599 41
+QSO:  3595 RY 2016-05-11 2010 2E0DHG        599 4                G4SGX         599 60
+END-OF-LOG:

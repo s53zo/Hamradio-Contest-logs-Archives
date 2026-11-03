@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: DO2SBS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO71
+CATEGORY: Non-UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220228&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4296; excluded rows=2.
+QSO:  3576 FT4 2022-02-28 2006 DO2SBS        +15 JO71             DO5HMK        +07 JO60
+QSO:  3576 FT4 2022-02-28 2014 DO2SBS        +01 JO71             HB9HNF        -13 -
+QSO:  3576 FT4 2022-02-28 2015 DO2SBS        -12 JO71             G7RDX         -02 IO91
+QSO:  3576 FT4 2022-02-28 2021 DO2SBS        -06 JO71             G4DBW         -05 JO01
+QSO:  3576 FT4 2022-02-28 2022 DO2SBS        +09 JO71             DL1RI         -02 JO40
+END-OF-LOG:

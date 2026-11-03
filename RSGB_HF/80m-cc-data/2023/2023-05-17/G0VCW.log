@@ -1,0 +1,16 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G0VCW
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+CATEGORY: 10W-U
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=8604; excluded rows=2.
+QSO:  3605 RY 2023-05-17 1901 G0VCW         599 1                M7FRS         599 1
+QSO:  3605 RY 2023-05-17 1923 G0VCW         599 2                M7W           599 26
+QSO:  3605 RY 2023-05-17 1930 G0VCW         599 3                M4J           599 24
+END-OF-LOG:

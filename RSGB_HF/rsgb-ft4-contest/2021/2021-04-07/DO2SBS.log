@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: DO2SBS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO71
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210407&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4636; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  3576 FT4 2021-04-07 1926 DO2SBS        -06 JO71             G0ORE         -08 IO92
+QSO:  3576 FT4 2021-04-07 1927 DO2SBS        +05 JO71             DF1LX         +11 JO42
+QSO:  3576 FT4 2021-04-07 1929 DO2SBS        +13 JO71             G4FAL         -09 IO93
+QSO:  3576 FT4 2021-04-07 1930 DO2SBS        -03 JO71             G3SWC         -02 IO91
+QSO:  3576 FT4 2021-04-07 1932 DO2SBS        -08 JO71             M0OEB         -04 JO02
+QSO:  3576 FT4 2021-04-07 1935 DO2SBS        +00 JO71             G0LUH         -04 IO91
+QSO:  3576 FT4 2021-04-07 1936 DO2SBS        -03 JO71             ON1AEY        -09 JO11
+QSO:  3576 FT4 2021-04-07 1937 DO2SBS        +14 JO71             SP1IT         -06 JO73
+QSO:  3576 FT4 2021-04-07 1938 DO2SBS        -10 JO71             G4ZFE         -05 IO91
+QSO:  3576 FT4 2021-04-07 1943 DO2SBS        +01 JO71             G4OZG         -11 JO02
+QSO:  3576 FT4 2021-04-07 1948 DO2SBS        +10 JO71             OK1HEH        +05 JN79
+END-OF-LOG:

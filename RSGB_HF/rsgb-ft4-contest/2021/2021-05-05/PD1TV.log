@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: PD1TV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 40M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO32
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210505&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4279; excluded rows=5.
+QSO:  7048 FT4 2021-05-05 1930 PD1TV         -20 JO32             DH1OL         -09 JN39
+QSO:  7047 FT4 2021-05-05 1932 PD1TV         +01 JO32             S56KPN        -07 JN76
+QSO:  7049 FT4 2021-05-05 1934 PD1TV         +05 JO32             G4RCG         -01 IO93
+QSO:  7048 FT4 2021-05-05 1943 PD1TV         -04 JO32             GM4JKZ        -04 IO85
+QSO:  7048 FT4 2021-05-05 1945 PD1TV         +12 JO32             PA4DN         +01 JO32
+QSO:  7048 FT4 2021-05-05 1946 PD1TV         -13 JO32             G0ORE         -13 IO92
+QSO:  7048 FT4 2021-05-05 1950 PD1TV         +00 JO32             PE1JRP        +04 JO32
+QSO:  7048 FT4 2021-05-05 2015 PD1TV         -17 JO32             GM4M          -18 IO75
+QSO:  7048 FT4 2021-05-05 2016 PD1TV         -19 JO32             HB9AWS        -18 JN46
+QSO:  7049 FT4 2021-05-05 2019 PD1TV         -07 JO32             GW0ARK        +01 IO81
+QSO:  7048 FT4 2021-05-05 2028 PD1TV         +04 JO32             GM5BDX        -09 IO75
+END-OF-LOG:

@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G6EES
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=4245; excluded rows=5.
+QSO:  3600 RY 2018-02-14 2007 G6EES         599 1                PA5SKY        599 7
+QSO:  3600 RY 2018-02-14 2008 G6EES         599 2                PA7WW         599 6
+QSO:  3600 RY 2018-02-14 2010 G6EES         599 3                MM3AWD        599 9
+QSO:  3599 RY 2018-02-14 2017 G6EES         599 4                DK5KK         599 17
+END-OF-LOG:

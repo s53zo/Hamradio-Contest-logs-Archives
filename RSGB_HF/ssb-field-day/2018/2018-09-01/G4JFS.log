@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SSB-FIELD-DAY
+CALLSIGN: G4JFS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: ALL
+CATEGORY-STATION: FIXED
+CATEGORY: Fixed
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=SSB+Field+Day&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=13676; excluded rows=4.
+QSO: 14000 PH 2018-09-01 1317 G4JFS         59 1                 UA9CDC/P      59 24
+QSO: 14000 PH 2018-09-01 1336 G4JFS         59 2                 R7BF/P        59 33
+QSO:  7000 PH 2018-09-01 2157 G4JFS         59 3                 TK/DL2RMC/P   59 470
+END-OF-LOG:

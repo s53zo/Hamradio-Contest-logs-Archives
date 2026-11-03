@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: GM4M
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO75
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220627&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4422; excluded rows=2.
+QSO:  7048 FT4 2022-06-27 1944 GM4M          +11 IO75             G2KS          -11 IO84
+QSO:  7048 FT4 2022-06-27 1948 GM4M          +13 IO75             MM0ABM        +02 IO75
+QSO:  7048 FT4 2022-06-27 1950 GM4M          +18 IO75             PC4H          +03 JO22
+QSO:  7048 FT4 2022-06-27 1951 GM4M          +24 IO75             GM5BDX        +04 IO75
+QSO:  7048 FT4 2022-06-27 1953 GM4M          +00 IO75             PA3AGN        -05 JO22
+QSO:  7048 FT4 2022-06-27 1955 GM4M          -03 IO75             G6XX/70       -10 IO93
+QSO:  7048 FT4 2022-06-27 1956 GM4M          +01 IO75             G4FFY         +01 JO01
+QSO:  7048 FT4 2022-06-27 1958 GM4M          -07 IO75             DC1ULI        -02 JO31
+QSO: 14081 FT4 2022-06-27 2002 GM4M          +17 IO75             PD7AC         +00 JO21
+QSO: 14081 FT4 2022-06-27 2003 GM4M          -12 IO75             IZ0MIT        +02 JN61
+QSO: 14081 FT4 2022-06-27 2004 GM4M          +20 IO75             PD1MB         -11 JO22
+QSO: 14081 FT4 2022-06-27 2006 GM4M          +02 IO75             F5OIH         -11 JN06
+QSO: 14081 FT4 2022-06-27 2013 GM4M          -08 IO75             IZ0MIT        -01 JN61
+QSO:  3576 FT4 2022-06-27 2022 GM4M          +13 IO75             G5LP          -05 IO92
+QSO:  3576 FT4 2022-06-27 2023 GM4M          -06 IO75             MW7FON        -07 IO73
+QSO:  3576 FT4 2022-06-27 2024 GM4M          -06 IO75             MW7FON        -07 IO73
+QSO:  3576 FT4 2022-06-27 2025 GM4M          +03 IO75             M4C           -18 IO91
+QSO:  3576 FT4 2022-06-27 2030 GM4M          -05 IO75             GQ0HDV        -08 IO93
+END-OF-LOG:

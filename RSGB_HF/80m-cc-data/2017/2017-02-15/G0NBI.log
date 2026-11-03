@@ -1,0 +1,39 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G0NBI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=7054; excluded rows=10.
+SOAPBOX: WARNING: 7 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (7).
+QSO:  3583 PS 2017-02-15 2001 G0NBI         599 1                M9A           599 3
+QSO:  3583 PS 2017-02-15 2003 G0NBI         599 2                G4ARI         599 4
+QSO:  3583 PS 2017-02-15 2003 G0NBI         599 3                G3LDI         599 2
+QSO:  3585 PS 2017-02-15 2011 G0NBI         599 5                M1DDD/P       599 12
+QSO:  3585 PS 2017-02-15 2013 G0NBI         599 6                G3SNU         599 14
+QSO:  3587 PS 2017-02-15 2020 G0NBI         599 8                G3ZAY         599 18
+QSO:  3581 PS 2017-02-15 2025 G0NBI         599 10               G1A           599 33
+QSO:  3581 PS 2017-02-15 2027 G0NBI         599 11               G4ABX         599 26
+QSO:  3581 PS 2017-02-15 2029 G0NBI         599 12               G3LHJ         599 19
+QSO:  3585 PS 2017-02-15 2037 G0NBI         599 14               G3YLA         599 28
+QSO:  3595 RY 2017-02-15 2050 G0NBI         599 15               G3PHO         599 38
+QSO:  3595 RY 2017-02-15 2052 G0NBI         599 16               G4ARI         599 52
+QSO:  3595 RY 2017-02-15 2056 G0NBI         599 18               DJ3IW         599 39
+QSO:  3605 RY 2017-02-15 2058 G0NBI         599 19               G3PND         599 26
+QSO:  3599 RY 2017-02-15 2059 G0NBI         599 20               GM4AFF        599 40
+QSO:  3599 RY 2017-02-15 2101 G0NBI         599 21               G1A           599 63
+QSO:  3598 RY 2017-02-15 2103 G0NBI         599 22               G3TBK         599 73
+QSO:  3583 PS 2017-02-15 2114 G0NBI         599 25               G3HRH         599 63
+QSO:  3583 PS 2017-02-15 2115 G0NBI         599 26               G4ASR         599 73
+QSO:  3581 PS 2017-02-15 2120 G0NBI         599 27               G3UJE         599 60
+QSO:  3581 PS 2017-02-15 2121 G0NBI         599 28               G3RVM         599 83
+QSO:  3581 PS 2017-02-15 2122 G0NBI         599 29               PC4H          599 65
+QSO:  3587 PS 2017-02-15 2128 G0NBI         599 30               GM3YEH        599 43
+END-OF-LOG:

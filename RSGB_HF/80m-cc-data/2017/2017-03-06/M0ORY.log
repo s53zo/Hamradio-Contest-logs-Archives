@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: M0ORY
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=6846; excluded rows=4.
+QSO:  3600 RY 2017-03-06 2017 M0ORY         599 1                G3ORY         599 22
+QSO:  3600 RY 2017-03-06 2022 M0ORY         599 2                G4ARI         599 27
+QSO:  3600 RY 2017-03-06 2025 M0ORY         599 3                PA2A          599 19
+QSO:  3600 RY 2017-03-06 2028 M0ORY         599 4                GW5NF         599 22
+QSO:  3600 RY 2017-03-06 2033 M0ORY         599 5                G3VCA         599 33
+QSO:  3600 RY 2017-03-06 2044 M0ORY         599 6                G3LDI         599 40
+END-OF-LOG:

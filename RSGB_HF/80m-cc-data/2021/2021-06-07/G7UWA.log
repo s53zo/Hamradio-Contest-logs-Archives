@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G7UWA
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+CATEGORY: 10W-U
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=10730; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  3500 RY 2021-06-07 1923 G7UWA         599 1                G7RDX         599 13
+QSO:  3500 RY 2021-06-07 1940 G7UWA         599 2                G4FPH         599 51
+QSO:  3500 RY 2021-06-07 1943 G7UWA         599 3                G3WVG         599 60
+QSO:  3500 RY 2021-06-07 1948 G7UWA         599 4                G3PDH         599 57
+QSO:  3500 RY 2021-06-07 2010 G7UWA         599 6                M2A           599 92
+QSO:  3500 RY 2021-06-07 2025 G7UWA         599 7                G3KLH         599 77
+QSO:  3500 RY 2021-06-07 2026 G7UWA         599 9                DF1MM         599 79
+END-OF-LOG:

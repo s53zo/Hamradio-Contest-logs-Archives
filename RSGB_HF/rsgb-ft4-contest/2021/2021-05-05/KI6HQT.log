@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: KI6HQT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 20M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: EM10
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210505&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4279; excluded rows=5.
+QSO: 14081 FT4 2021-05-05 1940 KI6HQT        -02 EM10             N3GTG         +09 FM17
+QSO: 14081 FT4 2021-05-05 1946 KI6HQT        -02 EM10             K3ZK          -06 FN21
+QSO: 14081 FT4 2021-05-05 2016 KI6HQT        -07 EM10             CO7DSR        -06 FL11
+QSO: 14081 FT4 2021-05-05 2021 KI6HQT        -09 EM10             CO7HNS        -18 FL11
+QSO: 14081 FT4 2021-05-05 2023 KI6HQT        +00 EM10             KV3U          -08 FN10
+QSO: 14081 FT4 2021-05-05 2027 KI6HQT        -12 EM10             KO4ALW        -01 EL96
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M0XMB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO94
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210315&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4409; excluded rows=0.
+QSO:  3575 FT4 2021-03-15 2004 M0XMB         -10 IO94             HG8LXL        -07 KN06
+QSO:  3575 FT4 2021-03-15 2012 M0XMB         +03 IO94             S57NRC        +13 JN75
+QSO:  3575 FT4 2021-03-15 2023 M0XMB         +06 IO94             OP5T          -7 JO21
+QSO:  3575 FT4 2021-03-15 2102 M0XMB         -05 IO94             G7X           -08 IO92
+QSO:  3575 FT4 2021-03-15 2109 M0XMB         -05 IO94             DL5STX        -06 JN59
+END-OF-LOG:

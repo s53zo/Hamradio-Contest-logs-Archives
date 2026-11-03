@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G8EQD
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=2800; excluded rows=2.
+QSO:  3583 RY 2016-02-10 2002 G8EQD         599 1                G3PHO         599 2
+QSO:  3583 RY 2016-02-10 2008 G8EQD         599 2                G3TKF         599 12
+QSO:  3580 RY 2016-02-10 2017 G8EQD         599 3                G3ZVW         599 16
+QSO:  3585 RY 2016-02-10 2045 G8EQD         599 4                G3SNU         599 32
+QSO:  3593 RY 2016-02-10 2049 G8EQD         599 5                G3PHO         599 31
+QSO:  3588 RY 2016-02-10 2101 G8EQD         599 6                G0HSA         599 12
+QSO:  3582 RY 2016-02-10 2127 G8EQD         599 7                OE1MBB        599 12
+END-OF-LOG:

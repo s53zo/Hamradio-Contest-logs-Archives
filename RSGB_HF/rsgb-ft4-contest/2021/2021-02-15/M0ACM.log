@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M0ACM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO91
+CATEGORY: 10W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210215&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4907; excluded rows=7.
+QSO:  7048 FT4 2021-02-15 2002 M0ACM         +33 IO91             M1G           +10 IO91
+QSO:  7048 FT4 2021-02-15 2005 M0ACM         +12 IO91             DG2GMW        -03 JN48
+QSO:  7048 FT4 2021-02-15 2008 M0ACM         +05 IO91             YO9HP         -01 KN35
+QSO:  7048 FT4 2021-02-15 2013 M0ACM         +19 IO91             EA1DMB        -07 IN73
+QSO:  7048 FT4 2021-02-15 2015 M0ACM         +05 IO91             IZ3ZRD        -18 JN55
+QSO:  7048 FT4 2021-02-15 2017 M0ACM         +03 IO91             IZ1GEA        -16 JN35
+QSO:  7048 FT4 2021-02-15 2018 M0ACM         - IO91               IZ1GEA        - -
+QSO:  7048 FT4 2021-02-15 2023 M0ACM         +09 IO91             OK1SI         -07 -
+QSO:  7048 FT4 2021-02-15 2029 M0ACM         -04 IO91             LY2CX         +00 KO05
+QSO:  7048 FT4 2021-02-15 2032 M0ACM         +03 IO91             F5NSL         -16 -
+QSO:  7048 FT4 2021-02-15 2036 M0ACM         -10 IO91             DM2LCT        -03 JO61
+QSO: 14080 FT4 2021-02-15 2042 M0ACM         +03 IO91             VP8LP         -13 GD18
+QSO:  7049 FT4 2021-02-15 2053 M0ACM         +09 IO91             S56KPN        -15 JN76
+QSO:  7049 FT4 2021-02-15 2053 M0ACM         -07 IO91             OE4ATS        +00 JN87
+QSO:  7049 FT4 2021-02-15 2055 M0ACM         -01 IO91             CS8ABF        -10 HM77
+QSO:  7049 FT4 2021-02-15 2058 M0ACM         +12 IO91             EA3FHP        -03 JN11
+QSO:  7049 FT4 2021-02-15 2105 M0ACM         +05 IO91             EA8AIN        -07 IL18
+QSO:  7048 FT4 2021-02-15 2126 M0ACM         +10 IO91             EA3IEO        +02 JN01
+QSO:  7048 FT4 2021-02-15 2130 M0ACM         +25 IO91             S57NRC        +10 JN75
+END-OF-LOG:

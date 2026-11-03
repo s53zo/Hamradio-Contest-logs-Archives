@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: 2E0RET
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=8156; excluded rows=4.
+QSO:  3580 PS 2018-03-05 2014 2E0RET        599 1                G8CRB         599 17
+QSO:  3580 PS 2018-03-05 2024 2E0RET        599 2                M0VGB         599 9
+QSO:  3580 PS 2018-03-05 2026 2E0RET        599 2                G1IPU         599 25
+QSO:  3582 PS 2018-03-05 2043 2E0RET        599 3                G3TBK         599 53
+QSO:  3582 PS 2018-03-05 2047 2E0RET        599 3                G0BWB         599 33
+QSO:  3583 PS 2018-03-05 2106 2E0RET        599 4                G3YLA         599 25
+END-OF-LOG:

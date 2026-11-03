@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G0MCV
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=7725; excluded rows=12.
+QSO:  3500 RY 2016-04-21 1907 G0MCV         599 1                PA2GRU        599 4
+QSO:  3500 RY 2016-04-21 1910 G0MCV         599 2                G4RCG         599 12
+QSO:  3500 RY 2016-04-21 1919 G0MCV         599 3                G3ORY         599 30
+QSO:  3500 RY 2016-04-21 1950 G0MCV         599 4                G3LDI         599 52
+QSO:  3500 RY 2016-04-21 2019 G0MCV         599 5                M0VAA         599 78
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G4ZZL
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO01
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=211129&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=3622; excluded rows=0.
+QSO:  7048 FT4 2021-11-29 2002 G4ZZL         -06 JO01             M7SAE         -08 JO01
+QSO:  7048 FT4 2021-11-29 2005 G4ZZL         -08 JO01             S56KPN        -09 JN76
+QSO:  7048 FT4 2021-11-29 2007 G4ZZL         -08 JO01             S56KPN        -14 JN76
+QSO:  7048 FT4 2021-11-29 2015 G4ZZL         +14 JO01             G3LHJ         +02 IO80
+QSO:  7048 FT4 2021-11-29 2017 G4ZZL         -05 JO01             M0TQR         -10 IO80
+QSO:  7048 FT4 2021-11-29 2020 G4ZZL         -01 JO01             YO8PS         +02 KN37
+QSO:  3580 FT4 2021-11-29 2040 G4ZZL         -08 JO01             F5RUE         -13 IN94
+QSO:  7047 FT4 2021-11-29 2054 G4ZZL         -11 JO01             SZ2T          -07 KN10
+QSO:  7047 FT4 2021-11-29 2055 G4ZZL         -10 JO01             EW7DK         -14 KO43
+QSO:  3576 FT4 2021-11-29 2104 G4ZZL         +09 JO01             G6XX          -12 IO93
+QSO:  3577 FT4 2021-11-29 2121 G4ZZL         -02 JO01             M7PLS         -02 IO91
+END-OF-LOG:

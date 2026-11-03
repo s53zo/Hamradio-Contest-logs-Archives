@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M0HHG
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO80
+CATEGORY: UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220926&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4760; excluded rows=0.
+QSO:  3576 FT4 2022-09-26 1927 M0HHG         +13 IO80             GW0ARK        +11 IO81
+QSO:  3576 FT4 2022-09-26 1928 M0HHG         -01 IO80             GU0UVH        +12 IN89
+QSO:  3576 FT4 2022-09-26 1929 M0HHG         -01 IO80             PA7F          +12 JO22
+QSO:  3576 FT4 2022-09-26 1930 M0HHG         -10 IO80             M0KNM         -04 IO91
+QSO:  3576 FT4 2022-09-26 1931 M0HHG         -04 IO80             G3TDH         +14 IO83
+QSO:  3576 FT4 2022-09-26 1931 M0HHG         -10 IO80             ON5ZZ         +02 JO11
+QSO:  3576 FT4 2022-09-26 1933 M0HHG         -15 IO80             G3SAZ         +01 IO90
+QSO:  3576 FT4 2022-09-26 1935 M0HHG         -01 IO80             PA7F          -01 JO22
+QSO:  7048 FT4 2022-09-26 1940 M0HHG         -01 IO80             PF22GP        -01 -
+QSO:  7048 FT4 2022-09-26 1942 M0HHG         +01 IO80             DG1BOR        -03 JN49
+QSO:  7048 FT4 2022-09-26 1943 M0HHG         -06 IO80             GM0VGI        +01 IO87
+QSO:  7048 FT4 2022-09-26 1948 M0HHG         -12 IO80             PE1LDS        +02 JO22
+QSO:  7048 FT4 2022-09-26 1950 M0HHG         -14 IO80             PD0YL         -05 JO22
+QSO:  7048 FT4 2022-09-26 1952 M0HHG         -17 IO80             II5SMM        -04 JN53
+QSO:  7048 FT4 2022-09-26 1954 M0HHG         -05 IO80             PG7V          +08 JO22
+END-OF-LOG:

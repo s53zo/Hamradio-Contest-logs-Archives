@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: GM5JDG
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO97
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220530&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4725; excluded rows=39.
+QSO: 14080 FT4 2022-05-30 1916 GM5JDG        +05 IO97             EA3GTK        -10 JN01
+QSO: 14081 FT4 2022-05-30 1918 GM5JDG        +25 IO97             EA3FHP        -06 JN11
+QSO:  7048 FT4 2022-05-30 1954 GM5JDG        +02 IO97             G4BYE         -20 IO91
+QSO:  7047 FT4 2022-05-30 1958 GM5JDG        +10 IO97             G0HDB         -11 IO82
+QSO:  7048 FT4 2022-05-30 2006 GM5JDG        +09 IO97             MW0CVT        -07 IO81
+QSO: 14080 FT4 2022-05-30 2015 GM5JDG        +02 IO97             D0BW          -13 KN87
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: DD7UW
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 40M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO71
+CATEGORY: Non-UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220926&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4760; excluded rows=0.
+QSO:  7048 FT4 2022-09-26 2002 DD7UW         +06 JO71             M0JTL         +07 IO92
+QSO:  7048 FT4 2022-09-26 2010 DD7UW         +13 JO71             G0HDV         -04 IO93
+QSO:  7048 FT4 2022-09-26 2019 DD7UW         +07 JO71             G6XX          +01 IO93
+END-OF-LOG:

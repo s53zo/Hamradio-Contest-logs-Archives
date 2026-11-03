@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M1TZR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 40M
+GRID-LOCATOR: IO83
+CATEGORY: 10W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210315&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4409; excluded rows=0.
+QSO:  7049 FT4 2021-03-15 2008 M1TZR         -11 IO83             S56KPN        -10 JN76
+QSO:  7049 FT4 2021-03-15 2014 M1TZR         +02 IO83             G3RIK         -13 IO83
+QSO:  7049 FT4 2021-03-15 2029 M1TZR         +09 IO83             S57NRC        +01 JN75
+QSO:  7049 FT4 2021-03-15 2044 M1TZR         +12 IO83             EA5EYO        -14 IM98
+QSO:  7049 FT4 2021-03-15 2045 M1TZR         +00 IO83             EA3FBP        -10 JN11
+QSO:  7049 FT4 2021-03-15 2058 M1TZR         +14 IO83             EA1CLT        -14 IN52
+QSO:  7049 FT4 2021-03-15 2117 M1TZR         +01 IO83             EA5IKP        -16 IM98
+QSO:  7049 FT4 2021-03-15 2125 M1TZR         -07 IO83             EA3IE         -14 JN11
+QSO:  7049 FT4 2021-03-15 2139 M1TZR         +01 IO83             W1MK          -10 FN42
+QSO:  7049 FT4 2021-03-15 2140 M1TZR         +01 IO83             IZ8EYN        -08 JM89
+END-OF-LOG:

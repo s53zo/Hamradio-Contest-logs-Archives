@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: MM7DMW
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO85
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220328&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4143; excluded rows=0.
+QSO:  7048 FT4 2022-03-28 1920 MM7DMW        +17 IO85             F5NTS         -08 JO10
+QSO:  7048 FT4 2022-03-28 1922 MM7DMW        +01 IO85             UA3GX         -13 -
+QSO:  7048 FT4 2022-03-28 1930 MM7DMW        -07 IO85             LB2WG         +13 JO59
+QSO:  7048 FT4 2022-03-28 1932 MM7DMW        +13 IO85             DL8CW         -12 JO30
+QSO:  7048 FT4 2022-03-28 1936 MM7DMW        +05 IO85             EW1OK         -09 KO33
+QSO:  3576 FT4 2022-03-28 1941 MM7DMW        +06 IO85             G7RDX         +04 IO91
+QSO:  3576 FT4 2022-03-28 2005 MM7DMW        +29 IO85             G3KNU         -03 IO93
+QSO:  7048 FT4 2022-03-28 2019 MM7DMW        +10 IO85             F5OIH         -09 JN06
+QSO:  7049 FT4 2022-03-28 2027 MM7DMW        +08 IO85             DL1RV         -10 JN47
+END-OF-LOG:

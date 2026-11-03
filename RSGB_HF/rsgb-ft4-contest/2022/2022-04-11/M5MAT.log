@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M5MAT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 20M
+GRID-LOCATOR: IO81
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220411&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4668; excluded rows=2.
+QSO: 14082 FT4 2022-04-11 1953 M5MAT         +01 IO81             IZ5MDD        +00 JN53
+QSO: 14082 FT4 2022-04-11 1954 M5MAT         -06 IO81             YT1DL         -11 KN04
+QSO: 14082 FT4 2022-04-11 1957 M5MAT         +01 IO81             SP2FNC        -15 JO94
+QSO: 14082 FT4 2022-04-11 2004 M5MAT         +05 IO81             PJ4DX         -12 FK52
+QSO: 14082 FT4 2022-04-11 2022 M5MAT         +06 IO81             W1UE          -10 FN41
+QSO: 14082 FT4 2022-04-11 2023 M5MAT         +06 IO81             EA3FHP        -10 JN11
+QSO: 14082 FT4 2022-04-11 2024 M5MAT         -06 IO81             5B4AMM        +00 KM65
+QSO: 14082 FT4 2022-04-11 2026 M5MAT         +00 IO81             YO8PS         -16 -
+QSO: 14082 FT4 2022-04-11 2029 M5MAT         +02 IO81             SV3SPD        -11 KM08
+END-OF-LOG:

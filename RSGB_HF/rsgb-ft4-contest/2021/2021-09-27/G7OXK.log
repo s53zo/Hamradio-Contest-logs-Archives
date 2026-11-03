@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G7OXK
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 40M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO91
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210927&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4282; excluded rows=19.
+QSO:  7047 FT4 2021-09-27 1908 G7OXK         -03 IO91             PC1PM         599 JO23
+QSO:  7047 FT4 2021-09-27 1909 G7OXK         +04 IO91             GW6GW         599 IO81
+QSO:  7048 FT4 2021-09-27 1912 G7OXK         -07 IO91             PA3GDG        599 JO21
+END-OF-LOG:

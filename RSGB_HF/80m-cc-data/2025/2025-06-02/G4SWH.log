@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G4SWH
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W-U
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=9943; excluded rows=4.
+QSO:  3582 PS 2025-06-02 1923 G4SWH         599 2                M0K           599 9
+QSO:  3585 PS 2025-06-02 1954 G4SWH         599 4                G4BYE         599 38
+QSO:  3585 PS 2025-06-02 1957 G4SWH         599 6                G4BVY         599 83
+QSO:  3582 PS 2025-06-02 2008 G4SWH         599 10               M0TDW         599 50
+QSO:  3585 PS 2025-06-02 2016 G4SWH         599 11               G8FCQ         599 70
+QSO:  3588 PS 2025-06-02 2020 G4SWH         599 12               M5M           599 90
+END-OF-LOG:

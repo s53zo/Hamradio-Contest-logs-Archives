@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: DG0OS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO51
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=211018&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4030; excluded rows=1.
+QSO:  7049 FT4 2021-10-18 1916 DG0OS         -05 JO51             DM2DK         -12 JO51
+QSO:  7048 FT4 2021-10-18 1919 DG0OS         +02 JO51             PA5PEK        -08 JO11
+QSO:  7048 FT4 2021-10-18 1924 DG0OS         -16 JO51             M7ICL         -08 JO02
+QSO: 14081 FT4 2021-10-18 2004 DG0OS         -04 JO51             M5G           +02 IO91
+QSO: 14081 FT4 2021-10-18 2006 DG0OS         -09 JO51             G4CTY         -05 JO01
+END-OF-LOG:

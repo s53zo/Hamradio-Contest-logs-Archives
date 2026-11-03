@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M1EYP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO83
+CATEGORY: 10W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210628&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4376; excluded rows=0.
+QSO:  3578 FT4 2021-06-28 1909 M1EYP         -12 IO83             G6TEQ         -17 IO80
+QSO:  3578 FT4 2021-06-28 1911 M1EYP         -10 IO83             G3LHJ         -10 IO80
+QSO:  3578 FT4 2021-06-28 1914 M1EYP         8 IO83               G4NKT         -17 IO81
+QSO:  3577 FT4 2021-06-28 1920 M1EYP         1 IO83               G1GNQ         -5 JO01
+QSO:  3578 FT4 2021-06-28 1927 M1EYP         7 IO83               G4BYE         -18 IO91
+QSO:  3578 FT4 2021-06-28 1931 M1EYP         3 IO83               M5RJC         -7 IO82
+QSO:  3578 FT4 2021-06-28 1934 M1EYP         -1 IO83              G0JJG         -16 JO02
+QSO:  3578 FT4 2021-06-28 1936 M1EYP         7 IO83               M0SAR         -17 IO91
+QSO:  3578 FT4 2021-06-28 1937 M1EYP         3 IO83               G6XX          -13 IO83
+QSO:  7048 FT4 2021-06-28 1941 M1EYP         -2 IO83              G3TDH         -10 IO83
+QSO:  7048 FT4 2021-06-28 1947 M1EYP         -4 IO83              DJ2TG         -7 JO31
+QSO:  7048 FT4 2021-06-28 1953 M1EYP         7 IO83               G4EBK         -5 IO93
+QSO:  7048 FT4 2021-06-28 1955 M1EYP         8 IO83               PA2JCB        -13 JO21
+QSO:  7048 FT4 2021-06-28 2009 M1EYP         11 IO83              G7X           -11 IO92
+END-OF-LOG:

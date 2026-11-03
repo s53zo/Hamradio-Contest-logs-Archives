@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G4OED
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 10M
+CATEGORY-POWER: LOW
+CATEGORY: UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=250616&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=7632; excluded rows=1.
+QSO: 28182 FT4 2025-06-16 1919 G4OED         +20 -                SP5EXA        +20 -
+QSO: 28182 FT4 2025-06-16 1919 G4OED         -06 -                SQ5N          -02 -
+QSO: 28182 FT4 2025-06-16 2001 G4OED         +06 -                G6HUI         +18 -
+QSO: 28182 FT4 2025-06-16 2010 G4OED         +05 -                OE4WHG        +07 -
+QSO: 28182 FT4 2025-06-16 2013 G4OED         +13 -                I4IOR         +17 -
+END-OF-LOG:

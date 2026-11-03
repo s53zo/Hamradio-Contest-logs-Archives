@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: 2E0EGS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=8156; excluded rows=4.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  3585 PS 2018-03-05 2011 2E0EGS        599 1                G3TDH         599 13
+QSO:  3584 PS 2018-03-05 2025 2E0EGS        599 2                G3PDH         599 27
+QSO:  3585 PS 2018-03-05 2027 2E0EGS        599 3                G4ARI         599 29
+QSO:  3583 PS 2018-03-05 2031 2E0EGS        599 4                G3L           599 14
+QSO:  3583 PS 2018-03-05 2032 2E0EGS        599 5                G4ELZ         599 9
+QSO:  3581 PS 2018-03-05 2047 2E0EGS        599 6                MW0MAU        599 23
+QSO:  3581 PS 2018-03-05 2048 2E0EGS        599 7                G0DWV         599 1
+QSO:  3582 PS 2018-03-05 2050 2E0EGS        599 8                M0TQR         599 36
+QSO:  3581 PS 2018-03-05 2056 2E0EGS        599 9                G1IPU         599 49
+QSO:  3583 PS 2018-03-05 2104 2E0EGS        599 10               G3YHV         599 56
+QSO:  3583 PS 2018-03-05 2106 2E0EGS        599 11               G3LDI         599 59
+QSO:  3583 PS 2018-03-05 2110 2E0EGS        599 12               MW0CVT        599 38
+QSO:  3583 PS 2018-03-05 2112 2E0EGS        599 12               G4TPO         599 56
+QSO:  3582 PS 2018-03-05 2116 2E0EGS        599 14               G3VCA         599 70
+QSO:  3587 PS 2018-03-05 2124 2E0EGS        599 15               G8OO          599 70
+END-OF-LOG:

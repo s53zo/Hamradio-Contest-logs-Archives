@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G4IDF
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+GRID-LOCATOR: IO82
+CATEGORY: 10W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210315&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4409; excluded rows=0.
+QSO:  3578 FT4 2021-03-15 2115 G4IDF         +10 IO82             DF1LON        -16 JO31
+QSO:  3577 FT4 2021-03-15 2116 G4IDF         +10 IO82             HB9AWS        -16 JN46
+QSO:  3576 FT4 2021-03-15 2118 G4IDF         +09 IO82             OP5T          +03 JO21
+QSO:  3578 FT4 2021-03-15 2123 G4IDF         +08 IO82             OE5TXF        -16 JN78
+QSO:  3578 FT4 2021-03-15 2124 G4IDF         +08 IO82             ON6SAT        -04 JO20
+QSO:  3576 FT4 2021-03-15 2124 G4IDF         +01 IO82             G0HDB         -13 IO82
+QSO:  3578 FT4 2021-03-15 2126 G4IDF         +02 IO82             G3WVG         -12 IO91
+QSO:  3578 FT4 2021-03-15 2127 G4IDF         +09 IO82             DL8OH         -15 JO33
+QSO:  3578 FT4 2021-03-15 2128 G4IDF         +11 IO82             ON6SAT        -04 JO20
+END-OF-LOG:

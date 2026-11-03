@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M0XLZ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO94
+CATEGORY: 10W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210407&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4636; excluded rows=1.
+QSO: 14080 FT4 2021-04-07 1901 M0XLZ         +06 IO94             M0RZE         -14 IO94
+QSO: 14080 FT4 2021-04-07 1905 M0XLZ         -12 IO94             EA3FHP        -01 JN11
+QSO: 14081 FT4 2021-04-07 1918 M0XLZ         +13 IO94             EA1Y          -06 IN71
+QSO: 14081 FT4 2021-04-07 1922 M0XLZ         +08 IO94             EA3IE         +02 JN11
+QSO: 14081 FT4 2021-04-07 1924 M0XLZ         +03 IO94             EA5EYO        -15 IM98
+QSO: 14081 FT4 2021-04-07 1926 M0XLZ         +06 IO94             EA1CMS        -06 IN70
+QSO: 14081 FT4 2021-04-07 1931 M0XLZ         +10 IO94             EA5WO         -03 IM99
+QSO:  7049 FT4 2021-04-07 1941 M0XLZ         -13 IO94             YL3FW         -04 KO06
+QSO:  7049 FT4 2021-04-07 1943 M0XLZ         +04 IO94             OK1SI         -17 JO70
+QSO:  7049 FT4 2021-04-07 1946 M0XLZ         -03 IO94             DL3IAK        -09 JN49
+QSO:  7048 FT4 2021-04-07 2000 M0XLZ         +02 IO94             DC6NF         -10 JN49
+END-OF-LOG:

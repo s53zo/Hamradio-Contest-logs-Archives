@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M0OEB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO02
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210407&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4636; excluded rows=1.
+QSO:  3576 FT4 2021-04-07 1906 M0OEB         +03 JO02             GX4WAB        +02 JO01
+QSO:  3575 FT4 2021-04-07 1907 M0OEB         -03 JO02             G0LUH         -02 IO91
+QSO:  7047 FT4 2021-04-07 1910 M0OEB         -05 JO02             SP2PA         +15 JO94
+QSO:  7048 FT4 2021-04-07 1912 M0OEB         -02 JO02             OK1SI         +02 JO70
+QSO:  7048 FT4 2021-04-07 1914 M0OEB         -07 JO02             S56KPN        -10 JN76
+QSO:  7048 FT4 2021-04-07 1915 M0OEB         -02 JO02             DM2RR         -06 JO71
+QSO: 14080 FT4 2021-04-07 1918 M0OEB         -16 JO02             G4NBS         -11 JO02
+QSO: 14080 FT4 2021-04-07 1919 M0OEB         -07 JO02             EA5HM         -17 IM99
+QSO: 14080 FT4 2021-04-07 1923 M0OEB         -13 JO02             R6KEE         -15 KN75
+QSO: 14080 FT4 2021-04-07 1924 M0OEB         -09 JO02             R6KEE         -15 KN75
+QSO: 14080 FT4 2021-04-07 1924 M0OEB         -10 JO02             R6KEE         -15 KN75
+QSO: 14080 FT4 2021-04-07 1927 M0OEB         -04 JO02             R4FCJ         -07 LO33
+QSO: 14080 FT4 2021-04-07 1928 M0OEB         -03 JO02             EA5HM         -12 IM99
+QSO:  3575 FT4 2021-04-07 1931 M0OEB         -03 JO02             G0LUH         +01 IO91
+QSO:  3576 FT4 2021-04-07 1932 M0OEB         -04 JO02             DO2SBS        -08 JO71
+END-OF-LOG:

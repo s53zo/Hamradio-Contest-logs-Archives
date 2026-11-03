@@ -1,0 +1,16 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G1SCT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W-U
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=7471; excluded rows=11.
+QSO:  3580 PS 2019-04-25 1918 G1SCT         599 1                G1A           599 22
+QSO:  3580 PS 2019-04-25 1920 G1SCT         599 2                2E0EGS        599 11
+END-OF-LOG:

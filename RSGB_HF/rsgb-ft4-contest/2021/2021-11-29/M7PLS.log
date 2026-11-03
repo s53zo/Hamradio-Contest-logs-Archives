@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M7PLS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO91
+CATEGORY: 10W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=211129&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=3622; excluded rows=0.
+QSO:  7049 FT4 2021-11-29 2001 M7PLS         +10 IO91             G4AWA         +30 IO90
+QSO:  7049 FT4 2021-11-29 2002 M7PLS         +07 IO91             G3KLH         -13 IO90
+QSO:  7049 FT4 2021-11-29 2004 M7PLS         +04 IO91             G0FHH         -08 IO80
+QSO:  7049 FT4 2021-11-29 2005 M7PLS         +02 IO91             M0TQR         -14 IO80
+QSO:  7049 FT4 2021-11-29 2007 M7PLS         -10 IO91             2U0HZY        -10 IN89
+QSO:  7049 FT4 2021-11-29 2009 M7PLS         +07 IO91             G3LHJ         -06 IO80
+QSO:  7049 FT4 2021-11-29 2013 M7PLS         -08 IO91             M0CGF         -14 IO91
+QSO:  3576 FT4 2021-11-29 2027 M7PLS         +13 IO91             G6XX          -21 IO93
+QSO:  3577 FT4 2021-11-29 2030 M7PLS         +05 IO91             G4NKT         -14 IO81
+QSO:  3577 FT4 2021-11-29 2032 M7PLS         +10 IO91             G5LP          -07 IO92
+QSO:  3577 FT4 2021-11-29 2032 M7PLS         -05 IO91             DO4DAN        +00 JO40
+QSO:  3577 FT4 2021-11-29 2036 M7PLS         +05 IO91             G0ORE         -07 IO92
+QSO:  3577 FT4 2021-11-29 2038 M7PLS         -04 IO91             DF1LON        -12 JO31
+QSO:  3577 FT4 2021-11-29 2040 M7PLS         +02 IO91             2W0LKX        -08 IO82
+QSO:  3577 FT4 2021-11-29 2046 M7PLS         -05 IO91             OS6AT         -04 JO10
+QSO:  3577 FT4 2021-11-29 2050 M7PLS         +06 IO91             M5RJC         +00 IO82
+QSO:  7048 FT4 2021-11-29 2103 M7PLS         -13 IO91             SZ2T          -15 KN10
+QSO:  3580 FT4 2021-11-29 2108 M7PLS         -04 IO91             G6DXY         -06 IO91
+END-OF-LOG:

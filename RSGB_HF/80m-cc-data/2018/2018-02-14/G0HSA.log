@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G0HSA
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=4245; excluded rows=5.
+QSO:  3595 RY 2018-02-14 2000 G0HSA         599 1                G3KLH         599 1
+QSO:  3595 RY 2018-02-14 2027 G0HSA         599 2                M7V           599 13
+QSO:  3595 RY 2018-02-14 2029 G0HSA         599 3                G0BWG         599 2
+QSO:  3600 RY 2018-02-14 2058 G0HSA         599 4                G0LHZ         599 21
+QSO:  3600 RY 2018-02-14 2100 G0HSA         599 5                G3WYW         599 26
+END-OF-LOG:

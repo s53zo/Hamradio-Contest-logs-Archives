@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G4CGS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO91
+CATEGORY: 100W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210315&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4409; excluded rows=0.
+QSO:  3578 FT4 2021-03-15 2023 G4CGS         +01 IO91             G5LP          -08 IO92
+QSO:  3579 FT4 2021-03-15 2030 G4CGS         -01 IO91             G0HDB         -17 IO82
+QSO:  3579 FT4 2021-03-15 2031 G4CGS         +00 IO91             G4CTY         -02 JO01
+QSO:  3579 FT4 2021-03-15 2032 G4CGS         +06 IO91             PC4H          -16 JO22
+QSO:  3580 FT4 2021-03-15 2040 G4CGS         -08 IO91             G4KRW         -09 IO92
+QSO:  3580 FT4 2021-03-15 2044 G4CGS         +04 IO91             G3KLH         -11 IO90
+QSO:  3580 FT4 2021-03-15 2049 G4CGS         +05 IO91             G0ORY         -12 IO92
+QSO:  3580 FT4 2021-03-15 2052 G4CGS         +01 IO91             2E0EVM        -11 IO80
+QSO:  3577 FT4 2021-03-15 2059 G4CGS         -10 IO91             PA3JQD        -10 JO21
+QSO:  3577 FT4 2021-03-15 2103 G4CGS         +08 IO91             G6XX          -16 IO81
+QSO:  3578 FT4 2021-03-15 2105 G4CGS         -07 IO91             G1P           -14 IO91
+QSO:  3580 FT4 2021-03-15 2109 G4CGS         +04 IO91             G4NKT         -09 IO81
+QSO:  3580 FT4 2021-03-15 2111 G4CGS         -07 IO91             EI8KN         -13 IO62
+QSO:  3578 FT4 2021-03-15 2116 G4CGS         -12 IO91             ON6SAT        -12 JO20
+QSO:  3579 FT4 2021-03-15 2120 G4CGS         -06 IO91             DF9HI         +00 JO31
+QSO:  3579 FT4 2021-03-15 2121 G4CGS         -03 IO91             M0KEP         -14 IO91
+QSO:  3579 FT4 2021-03-15 2127 G4CGS         -12 IO91             DL5STX        -16 JN59
+END-OF-LOG:

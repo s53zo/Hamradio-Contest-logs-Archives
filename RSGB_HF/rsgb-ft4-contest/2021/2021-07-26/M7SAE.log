@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M7SAE
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 40M
+GRID-LOCATOR: JO01
+CATEGORY: 10W UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210726&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4687; excluded rows=3.
+QSO:  7048 FT4 2021-07-26 1942 M7SAE         -01 JO01             SV2BWY        -10 KN10
+QSO:  7049 FT4 2021-07-26 1944 M7SAE         +11 JO01             DF9HI         -08 JO31
+QSO:  7049 FT4 2021-07-26 1945 M7SAE         +05 JO01             DM3CH         -12 JN39
+QSO:  7049 FT4 2021-07-26 1946 M7SAE         +05 JO01             DM3CH         -12 JN39
+QSO:  7049 FT4 2021-07-26 1952 M7SAE         -03 JO01             GI4SNA        +12 IO64
+QSO:  7049 FT4 2021-07-26 1953 M7SAE         -09 JO01             G6TEQ         -07 IO80
+QSO:  7049 FT4 2021-07-26 1955 M7SAE         +03 JO01             PD3EM         -12 JO21
+QSO:  7048 FT4 2021-07-26 2018 M7SAE         +10 JO01             G6XX          +03 IO82
+QSO:  7048 FT4 2021-07-26 2019 M7SAE         +09 JO01             GW0ARK        -15 IO81
+QSO:  7049 FT4 2021-07-26 2027 M7SAE         +03 JO01             DK5PH         -16 JN49
+END-OF-LOG:

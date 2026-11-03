@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: M7SYR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO91
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=221017&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4256; excluded rows=2.
+QSO:  7049 FT4 2022-10-17 1902 M7SYR         +02 IO91             PD0WVB        -16 JO22
+QSO: 14082 FT4 2022-10-17 1920 M7SYR         +08 IO91             G3ZPB         +01 IO91
+QSO: 14082 FT4 2022-10-17 1921 M7SYR         +06 IO91             YO4GIY        -13 KN43
+QSO: 14080 FT4 2022-10-17 1939 M7SYR         -02 IO91             M0KCV         -16 IO91
+QSO: 14081 FT4 2022-10-17 1946 M7SYR         -10 IO91             OE3OOG        -14 JN87
+END-OF-LOG:

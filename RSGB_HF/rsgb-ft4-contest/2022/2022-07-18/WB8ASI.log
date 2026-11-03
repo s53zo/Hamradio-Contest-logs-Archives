@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: WB8ASI
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: EN63
+CATEGORY: Non-UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220718&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4078; excluded rows=0.
+QSO: 14080 FT4 2022-07-18 1915 WB8ASI        +13 EN63             KN0L          +21 EN11
+QSO: 14080 FT4 2022-07-18 1922 WB8ASI        -06 EN63             GX1KAR/P      -09 JO00
+QSO: 14080 FT4 2022-07-18 1923 WB8ASI        -07 EN63             SP5OXM        -15 KO02
+QSO: 14080 FT4 2022-07-18 2002 WB8ASI        -05 EN63             AC1V          +01 FN31
+QSO: 14081 FT4 2022-07-18 2011 WB8ASI        -11 EN63             EA3FHP        -07 JN11
+QSO: 14080 FT4 2022-07-18 2017 WB8ASI        -01 EN63             G8OO          -05 JO02
+QSO:  7048 FT4 2022-07-18 2023 WB8ASI        -07 EN63             W1UE          -19 FN41
+END-OF-LOG:

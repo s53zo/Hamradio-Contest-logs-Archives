@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: PG2T
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO22
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=210215&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4907; excluded rows=7.
+QSO:  7048 FT4 2021-02-15 2033 PG2T          -05 JO22             F5NSL         -02 IN94
+QSO:  3582 FT4 2021-02-15 2047 PG2T          +19 JO22             G4ZFE         -10 IO91
+QSO:  3580 FT4 2021-02-15 2048 PG2T          +04 JO22             PA3JQD        -10 JO21
+QSO:  3580 FT4 2021-02-15 2107 PG2T          +25 JO22             G3SVL         -17 -
+QSO:  3578 FT4 2021-02-15 2111 PG2T          +11 JO22             M0MPM         -09 -
+QSO:  3578 FT4 2021-02-15 2113 PG2T          +00 JO22             GU0UVH        -08 IN89
+QSO:  3576 FT4 2021-02-15 2122 PG2T          +11 JO22             GM6XX         -08 -
+QSO:  3576 FT4 2021-02-15 2125 PG2T          +11 JO22             M5JB          -11 IO93
+QSO:  3576 FT4 2021-02-15 2125 PG2T          -01 JO22             M5JB          -11 IO93
+QSO:  3576 FT4 2021-02-15 2127 PG2T          +03 JO22             G6ZRV         -06 JO02
+END-OF-LOG:

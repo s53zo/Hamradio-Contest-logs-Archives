@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: G3SAZ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: IO90
+CATEGORY: UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=221017&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4256; excluded rows=2.
+QSO:  3577 FT4 2022-10-17 1901 G3SAZ         -13 IO90             M8M           -03 JO02
+QSO:  3576 FT4 2022-10-17 1904 G3SAZ         +02 IO90             G7RDX         -06 IO91
+QSO:  3576 FT4 2022-10-17 1905 G3SAZ         -08 IO90             G4ARI         -06 -
+QSO:  3576 FT4 2022-10-17 1906 G3SAZ         +04 IO90             GW0ARK        -06 IO81
+QSO:  3576 FT4 2022-10-17 1909 G3SAZ         -03 IO90             G4CTY         -04 JO01
+QSO:  3576 FT4 2022-10-17 1911 G3SAZ         -04 IO90             G7NJX         -10 IO81
+QSO:  3576 FT4 2022-10-17 1913 G3SAZ         -02 IO90             G3SWC         -11 IO91
+QSO:  3576 FT4 2022-10-17 1914 G3SAZ         -06 IO90             G4OZG         -15 JO02
+QSO:  3578 FT4 2022-10-17 1917 G3SAZ         -12 IO90             DL8LR         -17 JN39
+QSO:  3578 FT4 2022-10-17 1933 G3SAZ         -03 IO90             M5RJC         -11 IO82
+QSO:  3577 FT4 2022-10-17 1937 G3SAZ         -04 IO90             F6KRK         -11 JN18
+QSO:  3577 FT4 2022-10-17 1940 G3SAZ         -09 IO90             M0SEU         -15 JO01
+QSO:  7050 FT4 2022-10-17 2007 G3SAZ         -12 IO90             DL5AWI        -07 JO50
+QSO:  7049 FT4 2022-10-17 2008 G3SAZ         -16 IO90             DJ9MH         -14 JO50
+QSO:  7049 FT4 2022-10-17 2010 G3SAZ         -12 IO90             HB9AWS        -14 -
+END-OF-LOG:

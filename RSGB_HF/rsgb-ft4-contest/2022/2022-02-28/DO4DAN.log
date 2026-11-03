@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: DO4DAN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO40
+CATEGORY: Non-UK 100W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=220228&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4296; excluded rows=2.
+QSO:  3578 FT4 2022-02-28 2013 DO4DAN        +06 JO40             G0HDV         -15 IO93
+QSO:  3579 FT4 2022-02-28 2014 DO4DAN        +02 JO40             SE6K          +07 JO66
+QSO:  3577 FT4 2022-02-28 2017 DO4DAN        +01 JO40             OK1ZCF        -08 JO80
+QSO:  3578 FT4 2022-02-28 2057 DO4DAN        +00 JO40             DK7ZT         +02 JO40
+QSO:  3579 FT4 2022-02-28 2113 DO4DAN        +03 JO40             PG7V          -13 JO22
+QSO:  3579 FT4 2022-02-28 2114 DO4DAN        -02 JO40             MW0LKX        -07 IO82
+END-OF-LOG:

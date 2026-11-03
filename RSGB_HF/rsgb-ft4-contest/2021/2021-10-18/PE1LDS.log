@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: PE1LDS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+CATEGORY-POWER: LOW
+GRID-LOCATOR: JO22
+CATEGORY: 100W Non UK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=211018&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4030; excluded rows=1.
+QSO:  3575 FT4 2021-10-18 1913 PE1LDS        -08 JO22             M0XXJ         -05 IO91
+QSO: 14080 FT4 2021-10-18 1927 PE1LDS        -07 JO22             EA1Y          -04 IN71
+QSO:  3575 FT4 2021-10-18 1942 PE1LDS        -14 JO22             PB0ACU        -09 JO22
+QSO: 14080 FT4 2021-10-18 1954 PE1LDS        -08 JO22             EA1Y          -09 IN71
+QSO:  7047 FT4 2021-10-18 2007 PE1LDS        -12 JO22             M5JB          -13 IO93
+QSO:  7047 FT4 2021-10-18 2009 PE1LDS        -09 JO22             DM3CH         +00 JN39
+QSO:  7047 FT4 2021-10-18 2012 PE1LDS        -06 JO22             2W0LKX        -07 IO82
+QSO:  3575 FT4 2021-10-18 2021 PE1LDS        +07 JO22             G8OO          +01 JO02
+QSO:  7047 FT4 2021-10-18 2026 PE1LDS        -05 JO22             GW6LUT        -13 IO81
+END-OF-LOG:

@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: M0RKX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 80M
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=2800; excluded rows=2.
+QSO:  3579 PS 2016-02-10 2002 M0RKX         599 1                G4ABX         599 2
+QSO:  3579 PS 2016-02-10 2005 M0RKX         599 2                G3ZVW         599 10
+QSO:  3581 PS 2016-02-10 2013 M0RKX         599 3                G3MZV         599 11
+QSO:  3583 PS 2016-02-10 2018 M0RKX         599 4                PA1NL         599 6
+QSO:  3593 RY 2016-02-10 2120 M0RKX         599 5                DL6RAI        599 77
+END-OF-LOG:

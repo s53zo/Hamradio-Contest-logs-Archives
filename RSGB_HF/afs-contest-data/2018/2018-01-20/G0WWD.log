@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-AFS-CONTEST-DATA
+CALLSIGN: G0WWD
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=AFS+Contest+DATA&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=14221; excluded rows=3.
+QSO:  3600 RY 2018-01-20 1452 G0WWD         599 21               G5LP          599 33
+QSO:  3600 RY 2018-01-20 1457 G0WWD         599 22               G5L           599 36
+QSO:  3600 RY 2018-01-20 1506 G0WWD         599 23               M7Z           599 45
+QSO:  3600 PS 2018-01-20 1507 G0WWD         599 24               G0HSA         599 48
+QSO:  3600 PS 2018-01-20 1511 G0WWD         599 25               G4CXQ         599 29
+QSO:  3600 PS 2018-01-20 1513 G0WWD         599 26               M0B           599 32
+END-OF-LOG:

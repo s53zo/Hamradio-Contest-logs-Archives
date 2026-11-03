@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-AUTUMN-SERIES-DATA
+CALLSIGN: GE7RTI
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 80M
+CATEGORY-OPERATOR: CHECKLOG
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=Autumn+Series+DATA&Date=251103&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=8617; excluded rows=1.
+QSO:  3610 RY 2025-11-03 2002 GE7RTI        599 1                M0IDA         599 1
+QSO:  3610 RY 2025-11-03 2003 GE7RTI        599 2                G8FZV         599 4
+QSO:  3614 RY 2025-11-03 2006 GE7RTI        599 3                GW4JBQ        599 5
+END-OF-LOG:

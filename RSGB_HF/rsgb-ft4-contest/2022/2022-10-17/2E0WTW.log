@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-RSGB-FT4-CONTEST
+CALLSIGN: 2E0WTW
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: ALL
+GRID-LOCATOR: IO83
+CATEGORY: UK 10W RESTRICTED
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=221017&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=4256; excluded rows=2.
+QSO: 14081 FT4 2022-10-17 1841 2E0WTW        +20 IO83             HA7TM         -08 JN97
+QSO:  7048 FT4 2022-10-17 1911 2E0WTW        +12 IO83             G0FHH         -08 IO80
+QSO:  7048 FT4 2022-10-17 1913 2E0WTW        +10 IO83             G0AJH         -12 JO01
+QSO:  7048 FT4 2022-10-17 1921 2E0WTW        -03 IO83             GW0ARK        -08 IO81
+QSO:  7048 FT4 2022-10-17 1923 2E0WTW        +13 IO83             M0HHG         -10 IO80
+QSO:  3576 FT4 2022-10-17 1941 2E0WTW        +13 IO83             G4ARI         -09 IO92
+QSO:  3577 FT4 2022-10-17 1948 2E0WTW        +10 IO83             GW0ARK        -10 IO81
+QSO:  3577 FT4 2022-10-17 1955 2E0WTW        +05 IO83             G4DZL         -09 IO92
+QSO:  3577 FT4 2022-10-17 1958 2E0WTW        +12 IO83             G0HDB         -12 IO82
+QSO:  3577 FT4 2022-10-17 2030 2E0WTW        +12 IO83             G5LP          -08 IO92
+END-OF-LOG:

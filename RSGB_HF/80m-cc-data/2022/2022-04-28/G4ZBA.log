@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-80M-CC-DATA
+CALLSIGN: G4ZBA
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 80M
+CATEGORY-POWER: LOW
+CATEGORY: 100W-U
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=80m+CC+DATA&Date=all&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=9257; excluded rows=0.
+QSO:  3581 PS 2022-04-28 1900 G4ZBA         599 1                G4PFZ         599 2
+QSO:  3583 PS 2022-04-28 1903 G4ZBA         599 2                G4LPP         599 6
+QSO:  3583 PS 2022-04-28 1904 G4ZBA         599 3                M0NKR         599 4
+QSO:  3584 PS 2022-04-28 1905 G4ZBA         599 4                G3LDI         599 3
+QSO:  3584 PS 2022-04-28 1906 G4ZBA         599 5                G3PDH         599 8
+QSO:  3586 PS 2022-04-28 1920 G4ZBA         599 6                G3YLA         599 18
+QSO:  3589 PS 2022-04-28 1923 G4ZBA         599 7                MW0CVT        599 10
+END-OF-LOG:
