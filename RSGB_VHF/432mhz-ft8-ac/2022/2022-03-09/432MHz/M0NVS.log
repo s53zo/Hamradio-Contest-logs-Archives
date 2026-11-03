@@ -10,26 +10,26 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220309&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=880; excluded rows=0.
-QSO:   432 DG 2022-03-09 1916 M0NVS         -15 IO91             G4BRK         -05 IO91
-QSO:   432 DG 2022-03-09 1919 M0NVS         -08 IO91             M0XTY         -08 JO01
-QSO:   432 DG 2022-03-09 1921 M0NVS         -06 IO91             G3WAG         -02 IO82
-QSO:   432 DG 2022-03-09 1925 M0NVS         -14 IO91             MI0IHH        -01 IO74
-QSO:   432 DG 2022-03-09 1927 M0NVS         -12 IO91             G4EII         -15 IO83
-QSO:   432 DG 2022-03-09 1932 M0NVS         -17 IO91             G3WZK         -15 IO91
-QSO:   432 DG 2022-03-09 1933 M0NVS         -11 IO91             G7WIR         -15 JO01
-QSO:   432 DG 2022-03-09 1934 M0NVS         +05 IO91             G3SED         -15 IO90
-QSO:   432 DG 2022-03-09 1944 M0NVS         -10 IO91             G0BIX         -16 JO01
-QSO:   432 DG 2022-03-09 1949 M0NVS         -03 IO91             M0ZPU         -01 IO92
-QSO:   432 DG 2022-03-09 1951 M0NVS         -07 IO91             2E0DUE        -05 JO01
-QSO:   432 DG 2022-03-09 1958 M0NVS         -13 IO91             G4NBS         -22 JO02
-QSO:   432 DG 2022-03-09 1959 M0NVS         -20 IO91             2E0GKW        -14 IO91
-QSO:   432 DG 2022-03-09 2001 M0NVS         +00 IO91             G3YDY         +14 JO01
-QSO:   432 DG 2022-03-09 2021 M0NVS         -13 IO91             G8TTI         -13 IO81
-QSO:   432 DG 2022-03-09 2022 M0NVS         +17 IO91             G7LRQ         +04 IO91
-QSO:   432 DG 2022-03-09 2024 M0NVS         -16 IO91             GI4SNA        -16 IO64
-QSO:   432 DG 2022-03-09 2032 M0NVS         -12 IO91             G4RQI         -04 IO93
-QSO:   432 DG 2022-03-09 2033 M0NVS         -07 IO91             G0ISX         -03 IO93
-QSO:   432 DG 2022-03-09 2045 M0NVS         -24 IO91             MM0ABM        -19 IO75
+QSO:   432 FT8 2022-03-09 1916 M0NVS         -15 IO91             G4BRK         -05 IO91
+QSO:   432 FT8 2022-03-09 1919 M0NVS         -08 IO91             M0XTY         -08 JO01
+QSO:   432 FT8 2022-03-09 1921 M0NVS         -06 IO91             G3WAG         -02 IO82
+QSO:   432 FT8 2022-03-09 1925 M0NVS         -14 IO91             MI0IHH        -01 IO74
+QSO:   432 FT8 2022-03-09 1927 M0NVS         -12 IO91             G4EII         -15 IO83
+QSO:   432 FT8 2022-03-09 1932 M0NVS         -17 IO91             G3WZK         -15 IO91
+QSO:   432 FT8 2022-03-09 1933 M0NVS         -11 IO91             G7WIR         -15 JO01
+QSO:   432 FT8 2022-03-09 1934 M0NVS         +05 IO91             G3SED         -15 IO90
+QSO:   432 FT8 2022-03-09 1944 M0NVS         -10 IO91             G0BIX         -16 JO01
+QSO:   432 FT8 2022-03-09 1949 M0NVS         -03 IO91             M0ZPU         -01 IO92
+QSO:   432 FT8 2022-03-09 1951 M0NVS         -07 IO91             2E0DUE        -05 JO01
+QSO:   432 FT8 2022-03-09 1958 M0NVS         -13 IO91             G4NBS         -22 JO02
+QSO:   432 FT8 2022-03-09 1959 M0NVS         -20 IO91             2E0GKW        -14 IO91
+QSO:   432 FT8 2022-03-09 2001 M0NVS         +00 IO91             G3YDY         +14 JO01
+QSO:   432 FT8 2022-03-09 2021 M0NVS         -13 IO91             G8TTI         -13 IO81
+QSO:   432 FT8 2022-03-09 2022 M0NVS         +17 IO91             G7LRQ         +04 IO91
+QSO:   432 FT8 2022-03-09 2024 M0NVS         -16 IO91             GI4SNA        -16 IO64
+QSO:   432 FT8 2022-03-09 2032 M0NVS         -12 IO91             G4RQI         -04 IO93
+QSO:   432 FT8 2022-03-09 2033 M0NVS         -07 IO91             G0ISX         -03 IO93
+QSO:   432 FT8 2022-03-09 2045 M0NVS         -24 IO91             MM0ABM        -19 IO75
 END-OF-LOG:

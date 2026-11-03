@@ -10,38 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220713&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=767; excluded rows=0.
-QSO:   432 DG 2022-07-13 1901 MM0CEZ        -15 IO75             M0IEP         -15 IO91
-QSO:   432 DG 2022-07-13 1908 MM0CEZ        +00 IO75             GI6ATZ        +09 IO74
-QSO:   432 DG 2022-07-13 1910 MM0CEZ        -13 IO75             G3ZPB         -18 IO91
-QSO:   432 DG 2022-07-13 1911 MM0CEZ        -08 IO75             G4EII         +03 IO83
-QSO:   432 DG 2022-07-13 1913 MM0CEZ        -13 IO75             2E0DUE        -14 JO01
-QSO:   432 DG 2022-07-13 1915 MM0CEZ        +00 IO75             GM0HBK        +06 IO77
-QSO:   432 DG 2022-07-13 1916 MM0CEZ        -10 IO75             MM0ABM        -09 IO75
-QSO:   432 DG 2022-07-13 1919 MM0CEZ        +05 IO75             G0DJA         -06 IO93
-QSO:   432 DG 2022-07-13 1921 MM0CEZ        -18 IO75             G3OVH         -12 IO92
-QSO:   432 DG 2022-07-13 1922 MM0CEZ        -04 IO75             GM0EWX        -13 IO67
-QSO:   432 DG 2022-07-13 1925 MM0CEZ        -15 IO75             G8GNI         -06 IO91
-QSO:   432 DG 2022-07-13 1926 MM0CEZ        +03 IO75             G4BRK         +13 IO91
-QSO:   432 DG 2022-07-13 1930 MM0CEZ        -04 IO75             2E1FMS        -05 IO82
-QSO:   432 DG 2022-07-13 1932 MM0CEZ        -19 IO75             G0ISX         -17 IO93
-QSO:   432 DG 2022-07-13 1934 MM0CEZ        -03 IO75             M0FXX         -04 IO91
-QSO:   432 DG 2022-07-13 1935 MM0CEZ        -15 IO75             G8EEM         -06 IO93
-QSO:   432 DG 2022-07-13 1941 MM0CEZ        +01 IO75             G0XDI         -07 IO91
-QSO:   432 DG 2022-07-13 1948 MM0CEZ        -05 IO75             G4RQI         -04 IO93
-QSO:   432 DG 2022-07-13 1949 MM0CEZ        -10 IO75             G4RGK         -11 IO91
-QSO:   432 DG 2022-07-13 1952 MM0CEZ        -05 IO75             G4APJ         -06 IO83
-QSO:   432 DG 2022-07-13 1954 MM0CEZ        -18 IO75             G8CRB         -13 JO02
-QSO:   432 DG 2022-07-13 2002 MM0CEZ        -19 IO75             M7REV         -14 IO82
-QSO:   432 DG 2022-07-13 2005 MM0CEZ        +00 IO75             G7LRQ         -05 IO91
-QSO:   432 DG 2022-07-13 2007 MM0CEZ        -08 IO75             G4NBS         +08 JO02
-QSO:   432 DG 2022-07-13 2008 MM0CEZ        -08 IO75             G8EOP         -01 IO93
-QSO:   432 DG 2022-07-13 2010 MM0CEZ        -20 IO75             G3YDY         -12 JO01
-QSO:   432 DG 2022-07-13 2015 MM0CEZ        -13 IO75             M0AHN         -10 IO91
-QSO:   432 DG 2022-07-13 2016 MM0CEZ        +06 IO75             G4FUF         -08 JO01
-QSO:   432 DG 2022-07-13 2026 MM0CEZ        -14 IO75             G4OED         -16 IO91
-QSO:   432 DG 2022-07-13 2039 MM0CEZ        -12 IO75             M1EYP         -10 IO83
-QSO:   432 DG 2022-07-13 2049 MM0CEZ        -05 IO75             M0UHF         -07 IO91
-QSO:   432 DG 2022-07-13 2053 MM0CEZ        -13 IO75             G0BIX         -19 JO01
+QSO:   432 FT8 2022-07-13 1901 MM0CEZ        -15 IO75             M0IEP         -15 IO91
+QSO:   432 FT8 2022-07-13 1908 MM0CEZ        +00 IO75             GI6ATZ        +09 IO74
+QSO:   432 FT8 2022-07-13 1910 MM0CEZ        -13 IO75             G3ZPB         -18 IO91
+QSO:   432 FT8 2022-07-13 1911 MM0CEZ        -08 IO75             G4EII         +03 IO83
+QSO:   432 FT8 2022-07-13 1913 MM0CEZ        -13 IO75             2E0DUE        -14 JO01
+QSO:   432 FT8 2022-07-13 1915 MM0CEZ        +00 IO75             GM0HBK        +06 IO77
+QSO:   432 FT8 2022-07-13 1916 MM0CEZ        -10 IO75             MM0ABM        -09 IO75
+QSO:   432 FT8 2022-07-13 1919 MM0CEZ        +05 IO75             G0DJA         -06 IO93
+QSO:   432 FT8 2022-07-13 1921 MM0CEZ        -18 IO75             G3OVH         -12 IO92
+QSO:   432 FT8 2022-07-13 1922 MM0CEZ        -04 IO75             GM0EWX        -13 IO67
+QSO:   432 FT8 2022-07-13 1925 MM0CEZ        -15 IO75             G8GNI         -06 IO91
+QSO:   432 FT8 2022-07-13 1926 MM0CEZ        +03 IO75             G4BRK         +13 IO91
+QSO:   432 FT8 2022-07-13 1930 MM0CEZ        -04 IO75             2E1FMS        -05 IO82
+QSO:   432 FT8 2022-07-13 1932 MM0CEZ        -19 IO75             G0ISX         -17 IO93
+QSO:   432 FT8 2022-07-13 1934 MM0CEZ        -03 IO75             M0FXX         -04 IO91
+QSO:   432 FT8 2022-07-13 1935 MM0CEZ        -15 IO75             G8EEM         -06 IO93
+QSO:   432 FT8 2022-07-13 1941 MM0CEZ        +01 IO75             G0XDI         -07 IO91
+QSO:   432 FT8 2022-07-13 1948 MM0CEZ        -05 IO75             G4RQI         -04 IO93
+QSO:   432 FT8 2022-07-13 1949 MM0CEZ        -10 IO75             G4RGK         -11 IO91
+QSO:   432 FT8 2022-07-13 1952 MM0CEZ        -05 IO75             G4APJ         -06 IO83
+QSO:   432 FT8 2022-07-13 1954 MM0CEZ        -18 IO75             G8CRB         -13 JO02
+QSO:   432 FT8 2022-07-13 2002 MM0CEZ        -19 IO75             M7REV         -14 IO82
+QSO:   432 FT8 2022-07-13 2005 MM0CEZ        +00 IO75             G7LRQ         -05 IO91
+QSO:   432 FT8 2022-07-13 2007 MM0CEZ        -08 IO75             G4NBS         +08 JO02
+QSO:   432 FT8 2022-07-13 2008 MM0CEZ        -08 IO75             G8EOP         -01 IO93
+QSO:   432 FT8 2022-07-13 2010 MM0CEZ        -20 IO75             G3YDY         -12 JO01
+QSO:   432 FT8 2022-07-13 2015 MM0CEZ        -13 IO75             M0AHN         -10 IO91
+QSO:   432 FT8 2022-07-13 2016 MM0CEZ        +06 IO75             G4FUF         -08 JO01
+QSO:   432 FT8 2022-07-13 2026 MM0CEZ        -14 IO75             G4OED         -16 IO91
+QSO:   432 FT8 2022-07-13 2039 MM0CEZ        -12 IO75             M1EYP         -10 IO83
+QSO:   432 FT8 2022-07-13 2049 MM0CEZ        -05 IO75             M0UHF         -07 IO91
+QSO:   432 FT8 2022-07-13 2053 MM0CEZ        -13 IO75             G0BIX         -19 JO01
 END-OF-LOG:

@@ -10,39 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260928&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=6998; excluded rows=0.
-QSO:  3575 DG 2026-09-28 2057 M7WVX         -07 -                OZ5AGJ        +10 -
-QSO:  3575 DG 2026-09-28 2055 M7WVX         -14 -                G4DBW         +04 -
-QSO:  3575 DG 2026-09-28 2052 M7WVX         +14 -                G0BIX         -02 -
-QSO:  7048 DG 2026-09-28 2042 M7WVX         -05 -                SE6K          -14 -
-QSO:  7048 DG 2026-09-28 2035 M7WVX         +33 -                G4BYE         +04 -
-QSO:  7048 DG 2026-09-28 2034 M7WVX         +02 -                DL7ARV        -03 -
-QSO:  7048 DG 2026-09-28 2031 M7WVX         -05 -                IK0SRL        -09 -
-QSO:  3576 DG 2026-09-28 2020 M7WVX         -04 -                SP100PKP      +04 -
-QSO:  3576 DG 2026-09-28 2019 M7WVX         +29 -                GW5P          +01 -
-QSO:  3576 DG 2026-09-28 2018 M7WVX         +01 -                M0KHR         -05 -
-QSO:  3576 DG 2026-09-28 2014 M7WVX         -15 -                EA5OH         -02 -
-QSO: 14081 DG 2026-09-28 2003 M7WVX         +25 -                CR7BRV        -11 -
-QSO:  3576 DG 2026-09-28 1956 M7WVX         +08 -                G7ABT         +19 -
-QSO:  3576 DG 2026-09-28 1954 M7WVX         -05 -                M8GVC         -04 -
-QSO:  3576 DG 2026-09-28 1953 M7WVX         +03 -                M0HWO         -08 -
-QSO:  3576 DG 2026-09-28 1953 M7WVX         +12 -                PE1PIX        -05 -
-QSO:  3576 DG 2026-09-28 1952 M7WVX         -09 -                M0HWO         +00 -
-QSO:  3576 DG 2026-09-28 1949 M7WVX         +06 -                GM6URC        +02 -
-QSO:  3576 DG 2026-09-28 1947 M7WVX         +21 -                G6GN          +06 -
-QSO:  3576 DG 2026-09-28 1946 M7WVX         +15 -                GU0UVH        +03 -
-QSO:  3576 DG 2026-09-28 1945 M7WVX         +06 -                PA0MUS        +11 -
-QSO:  3576 DG 2026-09-28 1943 M7WVX         -04 -                CT7AUT        -07 -
-QSO:  3575 DG 2026-09-28 1941 M7WVX         +13 -                MW0CVT        +07 -
-QSO:  3575 DG 2026-09-28 1939 M7WVX         +18 -                ON7ER         +12 -
-QSO:  3575 DG 2026-09-28 1939 M7WVX         +02 -                PE1LZZ        -02 -
-QSO:  3575 DG 2026-09-28 1938 M7WVX         +14 -                DO1ARD        -06 -
-QSO:  3575 DG 2026-09-28 1936 M7WVX         +16 -                DO1NJN        +07 -
-QSO:  7048 DG 2026-09-28 1925 M7WVX         +23 -                M0KNM         +08 -
-QSO: 14080 DG 2026-09-28 1918 M7WVX         +11 -                EA4ZI         -20 -
-QSO: 14080 DG 2026-09-28 1916 M7WVX         +20 -                LZ1QZ         +02 -
-QSO: 14080 DG 2026-09-28 1916 M7WVX         +20 -                RA3AL         +02 -
-QSO: 14080 DG 2026-09-28 1908 M7WVX         +09 -                YO3RU         -02 -
-QSO: 14080 DG 2026-09-28 1902 M7WVX         -07 -                G6DXY         -02 -
-QSO: 14080 DG 2026-09-28 1900 M7WVX         +23 -                M0KNM         +09 -
+QSO:  3575 FT4 2026-09-28 2057 M7WVX         -07 -                OZ5AGJ        +10 -
+QSO:  3575 FT4 2026-09-28 2055 M7WVX         -14 -                G4DBW         +04 -
+QSO:  3575 FT4 2026-09-28 2052 M7WVX         +14 -                G0BIX         -02 -
+QSO:  7048 FT4 2026-09-28 2042 M7WVX         -05 -                SE6K          -14 -
+QSO:  7048 FT4 2026-09-28 2035 M7WVX         +33 -                G4BYE         +04 -
+QSO:  7048 FT4 2026-09-28 2034 M7WVX         +02 -                DL7ARV        -03 -
+QSO:  7048 FT4 2026-09-28 2031 M7WVX         -05 -                IK0SRL        -09 -
+QSO:  3576 FT4 2026-09-28 2020 M7WVX         -04 -                SP100PKP      +04 -
+QSO:  3576 FT4 2026-09-28 2019 M7WVX         +29 -                GW5P          +01 -
+QSO:  3576 FT4 2026-09-28 2018 M7WVX         +01 -                M0KHR         -05 -
+QSO:  3576 FT4 2026-09-28 2014 M7WVX         -15 -                EA5OH         -02 -
+QSO: 14081 FT4 2026-09-28 2003 M7WVX         +25 -                CR7BRV        -11 -
+QSO:  3576 FT4 2026-09-28 1956 M7WVX         +08 -                G7ABT         +19 -
+QSO:  3576 FT4 2026-09-28 1954 M7WVX         -05 -                M8GVC         -04 -
+QSO:  3576 FT4 2026-09-28 1953 M7WVX         +03 -                M0HWO         -08 -
+QSO:  3576 FT4 2026-09-28 1953 M7WVX         +12 -                PE1PIX        -05 -
+QSO:  3576 FT4 2026-09-28 1952 M7WVX         -09 -                M0HWO         +00 -
+QSO:  3576 FT4 2026-09-28 1949 M7WVX         +06 -                GM6URC        +02 -
+QSO:  3576 FT4 2026-09-28 1947 M7WVX         +21 -                G6GN          +06 -
+QSO:  3576 FT4 2026-09-28 1946 M7WVX         +15 -                GU0UVH        +03 -
+QSO:  3576 FT4 2026-09-28 1945 M7WVX         +06 -                PA0MUS        +11 -
+QSO:  3576 FT4 2026-09-28 1943 M7WVX         -04 -                CT7AUT        -07 -
+QSO:  3575 FT4 2026-09-28 1941 M7WVX         +13 -                MW0CVT        +07 -
+QSO:  3575 FT4 2026-09-28 1939 M7WVX         +18 -                ON7ER         +12 -
+QSO:  3575 FT4 2026-09-28 1939 M7WVX         +02 -                PE1LZZ        -02 -
+QSO:  3575 FT4 2026-09-28 1938 M7WVX         +14 -                DO1ARD        -06 -
+QSO:  3575 FT4 2026-09-28 1936 M7WVX         +16 -                DO1NJN        +07 -
+QSO:  7048 FT4 2026-09-28 1925 M7WVX         +23 -                M0KNM         +08 -
+QSO: 14080 FT4 2026-09-28 1918 M7WVX         +11 -                EA4ZI         -20 -
+QSO: 14080 FT4 2026-09-28 1916 M7WVX         +20 -                LZ1QZ         +02 -
+QSO: 14080 FT4 2026-09-28 1916 M7WVX         +20 -                RA3AL         +02 -
+QSO: 14080 FT4 2026-09-28 1908 M7WVX         +09 -                YO3RU         -02 -
+QSO: 14080 FT4 2026-09-28 1902 M7WVX         -07 -                G6DXY         -02 -
+QSO: 14080 FT4 2026-09-28 1900 M7WVX         +23 -                M0KNM         +09 -
 END-OF-LOG:

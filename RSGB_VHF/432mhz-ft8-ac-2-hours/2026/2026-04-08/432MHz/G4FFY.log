@@ -10,16 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260408&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=518; excluded rows=0.
-QSO:   432 DG 2026-04-08 1936 G4FFY         -17 JO01             G7WIR         -19 JO01
-QSO:   432 DG 2026-04-08 1940 G4FFY         +12 JO01             G0BIX         -03 JO01
-QSO:   432 DG 2026-04-08 1946 G4FFY         -12 JO01             G3YDY         -10 JO01
-QSO:   432 DG 2026-04-08 1949 G4FFY         +06 JO01             G6HIE         -05 JO00
-QSO:   432 DG 2026-04-08 2026 G4FFY         +05 JO01             G7FPE         -08 JO01
-QSO:   432 DG 2026-04-08 2033 G4FFY         +07 JO01             G7HMV         -07 IO91
-QSO:   432 DG 2026-04-08 2035 G4FFY         +04 JO01             G0XDI         -07 IO91
-QSO:   432 DG 2026-04-08 2039 G4FFY         -10 JO01             F1NQP         -20 JN19
-QSO:   432 DG 2026-04-08 2049 G4FFY         -18 JO01             G0JDL         -20 JO02
-QSO:   432 DG 2026-04-08 2052 G4FFY         +05 JO01             G3WZK         +03 IO91
+QSO:   432 FT8 2026-04-08 1936 G4FFY         -17 JO01             G7WIR         -19 JO01
+QSO:   432 FT8 2026-04-08 1940 G4FFY         +12 JO01             G0BIX         -03 JO01
+QSO:   432 FT8 2026-04-08 1946 G4FFY         -12 JO01             G3YDY         -10 JO01
+QSO:   432 FT8 2026-04-08 1949 G4FFY         +06 JO01             G6HIE         -05 JO00
+QSO:   432 FT8 2026-04-08 2026 G4FFY         +05 JO01             G7FPE         -08 JO01
+QSO:   432 FT8 2026-04-08 2033 G4FFY         +07 JO01             G7HMV         -07 IO91
+QSO:   432 FT8 2026-04-08 2035 G4FFY         +04 JO01             G0XDI         -07 IO91
+QSO:   432 FT8 2026-04-08 2039 G4FFY         -10 JO01             F1NQP         -20 JN19
+QSO:   432 FT8 2026-04-08 2049 G4FFY         -18 JO01             G0JDL         -20 JO02
+QSO:   432 FT8 2026-04-08 2052 G4FFY         +05 JO01             G3WZK         +03 IO91
 END-OF-LOG:

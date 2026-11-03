@@ -10,14 +10,14 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260513&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=504; excluded rows=0.
-QSO:   432 DG 2026-05-13 2054 G4BEE         -04 IO83             G4ZTR         -14 JO01
-QSO:   432 DG 2026-05-13 2036 G4BEE         +13 IO83             G4HGI         +12 IO83
-QSO:   432 DG 2026-05-13 2026 G4BEE         -15 IO83             G7LRQ         -20 JO03
-QSO:   432 DG 2026-05-13 2016 G4BEE         +04 IO83             GM8MJV        +13 IO85
-QSO:   432 DG 2026-05-13 1944 G4BEE         -12 IO83             M0KSE         -04 IO83
-QSO:   432 DG 2026-05-13 1942 G4BEE         -13 IO83             G0GJV         -11 IO91
-QSO:   432 DG 2026-05-13 1933 G4BEE         -09 IO83             GW8CZW        +13 IO73
-QSO:   432 DG 2026-05-13 1931 G4BEE         -03 IO83             M1DYU         +26 IO83
+QSO:   432 FT8 2026-05-13 2054 G4BEE         -04 IO83             G4ZTR         -14 JO01
+QSO:   432 FT8 2026-05-13 2036 G4BEE         +13 IO83             G4HGI         +12 IO83
+QSO:   432 FT8 2026-05-13 2026 G4BEE         -15 IO83             G7LRQ         -20 JO03
+QSO:   432 FT8 2026-05-13 2016 G4BEE         +04 IO83             GM8MJV        +13 IO85
+QSO:   432 FT8 2026-05-13 1944 G4BEE         -12 IO83             M0KSE         -04 IO83
+QSO:   432 FT8 2026-05-13 1942 G4BEE         -13 IO83             G0GJV         -11 IO91
+QSO:   432 FT8 2026-05-13 1933 G4BEE         -09 IO83             GW8CZW        +13 IO73
+QSO:   432 FT8 2026-05-13 1931 G4BEE         -03 IO83             M1DYU         +26 IO83
 END-OF-LOG:

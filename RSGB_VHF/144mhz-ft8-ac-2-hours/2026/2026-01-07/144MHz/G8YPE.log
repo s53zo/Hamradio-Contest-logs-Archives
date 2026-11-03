@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260107&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=763; excluded rows=0.
-QSO:   144 DG 2026-01-07 1904 G8YPE         -09 IO92             M9DJN         +07 IO82
-QSO:   144 DG 2026-01-07 1906 G8YPE         -14 IO92             G7COU         -09 IO93
-QSO:   144 DG 2026-01-07 1913 G8YPE         +01 IO92             G0RMG         -13 IO92
-QSO:   144 DG 2026-01-07 1915 G8YPE         -12 IO92             G7LRQ         -12 JO03
-QSO:   144 DG 2026-01-07 1931 G8YPE         -05 IO92             G0JEI         -11 IO93
-QSO:   144 DG 2026-01-07 1941 G8YPE         -15 IO92             G0JDL         -04 JO02
-QSO:   144 DG 2026-01-07 1943 G8YPE         -13 IO92             G4ZTR         -08 JO01
-QSO:   144 DG 2026-01-07 1951 G8YPE         -08 IO92             G0JJG         -24 JO02
-QSO:   144 DG 2026-01-07 2005 G8YPE         +14 IO92             G8SEI         +01 IO92
-QSO:   144 DG 2026-01-07 2018 G8YPE         -17 IO92             MM0CEZ        -22 IO75
-QSO:   144 DG 2026-01-07 2023 G8YPE         -04 IO92             M1EYP/P       -04 IO83
-QSO:   144 DG 2026-01-07 2027 G8YPE         -15 IO92             G8IXK         -15 IO91
+QSO:   144 FT8 2026-01-07 1904 G8YPE         -09 IO92             M9DJN         +07 IO82
+QSO:   144 FT8 2026-01-07 1906 G8YPE         -14 IO92             G7COU         -09 IO93
+QSO:   144 FT8 2026-01-07 1913 G8YPE         +01 IO92             G0RMG         -13 IO92
+QSO:   144 FT8 2026-01-07 1915 G8YPE         -12 IO92             G7LRQ         -12 JO03
+QSO:   144 FT8 2026-01-07 1931 G8YPE         -05 IO92             G0JEI         -11 IO93
+QSO:   144 FT8 2026-01-07 1941 G8YPE         -15 IO92             G0JDL         -04 JO02
+QSO:   144 FT8 2026-01-07 1943 G8YPE         -13 IO92             G4ZTR         -08 JO01
+QSO:   144 FT8 2026-01-07 1951 G8YPE         -08 IO92             G0JJG         -24 JO02
+QSO:   144 FT8 2026-01-07 2005 G8YPE         +14 IO92             G8SEI         +01 IO92
+QSO:   144 FT8 2026-01-07 2018 G8YPE         -17 IO92             MM0CEZ        -22 IO75
+QSO:   144 FT8 2026-01-07 2023 G8YPE         -04 IO92             M1EYP/P       -04 IO83
+QSO:   144 FT8 2026-01-07 2027 G8YPE         -15 IO92             G8IXK         -15 IO91
 END-OF-LOG:

@@ -10,25 +10,25 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260408&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=518; excluded rows=0.
-QSO:   432 DG 2026-04-08 1901 M1EYP/P       -1 IO83              G8YPE         -11 IO92
-QSO:   432 DG 2026-04-08 1905 M1EYP/P       13 IO83              M9DJN         7 IO82
-QSO:   432 DG 2026-04-08 1908 M1EYP/P       15 IO83              G7LRQ         -8 JO03
-QSO:   432 DG 2026-04-08 1911 M1EYP/P       18 IO83              G7ADF         17 IO83
-QSO:   432 DG 2026-04-08 1913 M1EYP/P       -18 IO83             EI8KN         -17 IO62
-QSO:   432 DG 2026-04-08 1916 M1EYP/P       9 IO83               GI4SNA        3 IO64
-QSO:   432 DG 2026-04-08 1919 M1EYP/P       4 IO83               G8CZW         1 IO83
-QSO:   432 DG 2026-04-08 1924 M1EYP/P       -18 IO83             G0XDI         -16 IO91
-QSO:   432 DG 2026-04-08 1928 M1EYP/P       -9 IO83              G7RDX         -18 IO91
-QSO:   432 DG 2026-04-08 1929 M1EYP/P       -11 IO83             F1NQP         -16 JN19
-QSO:   432 DG 2026-04-08 1936 M1EYP/P       -21 IO83             G4APJ         9 IO83
-QSO:   432 DG 2026-04-08 1939 M1EYP/P       5 IO83               GM8MJV        -15 IO85
-QSO:   432 DG 2026-04-08 1945 M1EYP/P       -2 IO83              G4ZTR         -18 JO01
-QSO:   432 DG 2026-04-08 1948 M1EYP/P       22 IO83              G8SEI         3 IO92
-QSO:   432 DG 2026-04-08 2001 M1EYP/P       -6 IO83              G3YDY         -15 JO01
-QSO:   432 DG 2026-04-08 2006 M1EYP/P       -13 IO83             G0GJV         -15 IO91
-QSO:   432 DG 2026-04-08 2013 M1EYP/P       2 IO83               G6DDN         -14 IO93
-QSO:   432 DG 2026-04-08 2020 M1EYP/P       -11 IO83             G0RMG         -19 IO92
-QSO:   432 DG 2026-04-08 2059 M1EYP/P       -2 IO83              EI8KN         -17 IO62
+QSO:   432 FT8 2026-04-08 1901 M1EYP/P       -1 IO83              G8YPE         -11 IO92
+QSO:   432 FT8 2026-04-08 1905 M1EYP/P       13 IO83              M9DJN         7 IO82
+QSO:   432 FT8 2026-04-08 1908 M1EYP/P       15 IO83              G7LRQ         -8 JO03
+QSO:   432 FT8 2026-04-08 1911 M1EYP/P       18 IO83              G7ADF         17 IO83
+QSO:   432 FT8 2026-04-08 1913 M1EYP/P       -18 IO83             EI8KN         -17 IO62
+QSO:   432 FT8 2026-04-08 1916 M1EYP/P       9 IO83               GI4SNA        3 IO64
+QSO:   432 FT8 2026-04-08 1919 M1EYP/P       4 IO83               G8CZW         1 IO83
+QSO:   432 FT8 2026-04-08 1924 M1EYP/P       -18 IO83             G0XDI         -16 IO91
+QSO:   432 FT8 2026-04-08 1928 M1EYP/P       -9 IO83              G7RDX         -18 IO91
+QSO:   432 FT8 2026-04-08 1929 M1EYP/P       -11 IO83             F1NQP         -16 JN19
+QSO:   432 FT8 2026-04-08 1936 M1EYP/P       -21 IO83             G4APJ         9 IO83
+QSO:   432 FT8 2026-04-08 1939 M1EYP/P       5 IO83               GM8MJV        -15 IO85
+QSO:   432 FT8 2026-04-08 1945 M1EYP/P       -2 IO83              G4ZTR         -18 JO01
+QSO:   432 FT8 2026-04-08 1948 M1EYP/P       22 IO83              G8SEI         3 IO92
+QSO:   432 FT8 2026-04-08 2001 M1EYP/P       -6 IO83              G3YDY         -15 JO01
+QSO:   432 FT8 2026-04-08 2006 M1EYP/P       -13 IO83             G0GJV         -15 IO91
+QSO:   432 FT8 2026-04-08 2013 M1EYP/P       2 IO83               G6DDN         -14 IO93
+QSO:   432 FT8 2026-04-08 2020 M1EYP/P       -11 IO83             G0RMG         -19 IO92
+QSO:   432 FT8 2026-04-08 2059 M1EYP/P       -2 IO83              EI8KN         -17 IO62
 END-OF-LOG:

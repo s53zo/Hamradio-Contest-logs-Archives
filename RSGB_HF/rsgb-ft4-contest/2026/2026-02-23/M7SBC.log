@@ -9,19 +9,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO:  7048 DG 2026-02-23 2046 M7SBC         -06 -                SQ5N          -13 -
-QSO:  7048 DG 2026-02-23 2051 M7SBC         +04 -                IU0TPA        -10 -
-QSO:  7048 DG 2026-02-23 2052 M7SBC         -03 -                HA7XL         -07 -
-QSO:  7048 DG 2026-02-23 2054 M7SBC         -04 -                DF8QB         -14 -
-QSO:  7048 DG 2026-02-23 2110 M7SBC         -04 -                LZ2EW         -18 -
-QSO:  7048 DG 2026-02-23 2113 M7SBC         -10 -                IK4RVY        -21 -
-QSO:  7048 DG 2026-02-23 2115 M7SBC         -06 -                IK4RVY        -21 -
-QSO:  7048 DG 2026-02-23 2117 M7SBC         +08 -                HG80EME       -17 -
-QSO:  7048 DG 2026-02-23 2126 M7SBC         -06 -                AN46AL        -16 -
-QSO:  7048 DG 2026-02-23 2131 M7SBC         +04 -                G0CER         +07 -
-QSO:  7048 DG 2026-02-23 2132 M7SBC         -01 -                ZV5PR         -11 -
-QSO:  7048 DG 2026-02-23 2134 M7SBC         -13 -                OK5AG         -12 -
-QSO:  7048 DG 2026-02-23 2136 M7SBC         +05 -                LZ3PA         -01 -
-QSO:  7048 DG 2026-02-23 2152 M7SBC         -07 -                LZ1JZ         -10 -
+QSO:  7048 FT4 2026-02-23 2046 M7SBC         -06 -                SQ5N          -13 -
+QSO:  7048 FT4 2026-02-23 2051 M7SBC         +04 -                IU0TPA        -10 -
+QSO:  7048 FT4 2026-02-23 2052 M7SBC         -03 -                HA7XL         -07 -
+QSO:  7048 FT4 2026-02-23 2054 M7SBC         -04 -                DF8QB         -14 -
+QSO:  7048 FT4 2026-02-23 2110 M7SBC         -04 -                LZ2EW         -18 -
+QSO:  7048 FT4 2026-02-23 2113 M7SBC         -10 -                IK4RVY        -21 -
+QSO:  7048 FT4 2026-02-23 2115 M7SBC         -06 -                IK4RVY        -21 -
+QSO:  7048 FT4 2026-02-23 2117 M7SBC         +08 -                HG80EME       -17 -
+QSO:  7048 FT4 2026-02-23 2126 M7SBC         -06 -                AN46AL        -16 -
+QSO:  7048 FT4 2026-02-23 2131 M7SBC         +04 -                G0CER         +07 -
+QSO:  7048 FT4 2026-02-23 2132 M7SBC         -01 -                ZV5PR         -11 -
+QSO:  7048 FT4 2026-02-23 2134 M7SBC         -13 -                OK5AG         -12 -
+QSO:  7048 FT4 2026-02-23 2136 M7SBC         +05 -                LZ3PA         -01 -
+QSO:  7048 FT4 2026-02-23 2152 M7SBC         -07 -                LZ1JZ         -10 -
 END-OF-LOG:

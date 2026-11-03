@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=221005&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1040; excluded rows=0.
-QSO:   144 DG 2022-10-05 1912 MW3ASG        +10 IO81             G4OED         +04 IO91
-QSO:   144 DG 2022-10-05 1932 MW3ASG        -01 IO81             G4HGV         -24 IO91
-QSO:   144 DG 2022-10-05 1944 MW3ASG        +11 IO81             G0BIX         -21 JO01
-QSO:   144 DG 2022-10-05 1948 MW3ASG        +01 IO81             G4RUW         -17 IO91
-QSO:   144 DG 2022-10-05 1957 MW3ASG        +00 IO81             G8GNI         -16 IO91
-QSO:   144 DG 2022-10-05 2004 MW3ASG        +12 IO81             G7WIR         -24 JO01
-QSO:   144 DG 2022-10-05 2013 MW3ASG        -09 IO81             F8BON         -14 IN86
-QSO:   144 DG 2022-10-05 2020 MW3ASG        +06 IO81             G4ZZL         -23 JO01
-QSO:   144 DG 2022-10-05 2025 MW3ASG        +00 IO81             M0BKV         -08 IO70
-QSO:   144 DG 2022-10-05 2029 MW3ASG        +11 IO81             G7RDX         -03 IO91
-QSO:   144 DG 2022-10-05 2035 MW3ASG        +06 IO81             G4NBS         -05 JO02
-QSO:   144 DG 2022-10-05 2044 MW3ASG        +06 IO81             G3YDY         -05 JO01
-QSO:   144 DG 2022-10-05 2046 MW3ASG        +17 IO81             G0XDI         -07 IO91
+QSO:   144 FT8 2022-10-05 1912 MW3ASG        +10 IO81             G4OED         +04 IO91
+QSO:   144 FT8 2022-10-05 1932 MW3ASG        -01 IO81             G4HGV         -24 IO91
+QSO:   144 FT8 2022-10-05 1944 MW3ASG        +11 IO81             G0BIX         -21 JO01
+QSO:   144 FT8 2022-10-05 1948 MW3ASG        +01 IO81             G4RUW         -17 IO91
+QSO:   144 FT8 2022-10-05 1957 MW3ASG        +00 IO81             G8GNI         -16 IO91
+QSO:   144 FT8 2022-10-05 2004 MW3ASG        +12 IO81             G7WIR         -24 JO01
+QSO:   144 FT8 2022-10-05 2013 MW3ASG        -09 IO81             F8BON         -14 IN86
+QSO:   144 FT8 2022-10-05 2020 MW3ASG        +06 IO81             G4ZZL         -23 JO01
+QSO:   144 FT8 2022-10-05 2025 MW3ASG        +00 IO81             M0BKV         -08 IO70
+QSO:   144 FT8 2022-10-05 2029 MW3ASG        +11 IO81             G7RDX         -03 IO91
+QSO:   144 FT8 2022-10-05 2035 MW3ASG        +06 IO81             G4NBS         -05 JO02
+QSO:   144 FT8 2022-10-05 2044 MW3ASG        +06 IO81             G3YDY         -05 JO01
+QSO:   144 FT8 2022-10-05 2046 MW3ASG        +17 IO81             G0XDI         -07 IO91
 END-OF-LOG:

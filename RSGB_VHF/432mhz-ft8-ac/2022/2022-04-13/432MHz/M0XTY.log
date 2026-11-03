@@ -10,25 +10,25 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220413&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=794; excluded rows=0.
-QSO:   432 DG 2022-04-13 1903 M0XTY         +13 JO01             G3WZK         +17 IO91
-QSO:   432 DG 2022-04-13 1905 M0XTY         -12 JO01             G4CTP         -06 IO91
-QSO:   432 DG 2022-04-13 1907 M0XTY         -19 JO01             2E0KKQ        -09 JO01
-QSO:   432 DG 2022-04-13 1911 M0XTY         -17 JO01             G4DBL         -02 IO91
-QSO:   432 DG 2022-04-13 1917 M0XTY         +30 JO01             G7WIR         +25 JO01
-QSO:   432 DG 2022-04-13 1920 M0XTY         -14 JO01             G4FFY         -14 JO01
-QSO:   432 DG 2022-04-13 1930 M0XTY         -06 JO01             G4EFT         -04 IO91
-QSO:   432 DG 2022-04-13 2005 M0XTY         -07 JO01             G4OED         -14 IO91
-QSO:   432 DG 2022-04-13 2011 M0XTY         -12 JO01             G4VPD         -12 IO92
-QSO:   432 DG 2022-04-13 2013 M0XTY         +28 JO01             G7WIR         +24 JO01
-QSO:   432 DG 2022-04-13 2017 M0XTY         -18 JO01             G0BIX         -24 JO01
-QSO:   432 DG 2022-04-13 2018 M0XTY         +12 JO01             G7LRQ         +07 IO91
-QSO:   432 DG 2022-04-13 2021 M0XTY         +16 JO01             G3ZPB         -11 IO91
-QSO:   432 DG 2022-04-13 2028 M0XTY         -01 JO01             M0FXX         -09 IO91
-QSO:   432 DG 2022-04-13 2032 M0XTY         -14 JO01             G0LGS         -17 IO81
-QSO:   432 DG 2022-04-13 2038 M0XTY         -10 JO01             G3YDY         -12 JO01
-QSO:   432 DG 2022-04-13 2039 M0XTY         -07 JO01             M0AHN         +07 IO91
-QSO:   432 DG 2022-04-13 2048 M0XTY         -01 JO01             G4NBS         -03 JO02
-QSO:   432 DG 2022-04-13 2100 M0XTY         -20 JO01             M0IEP         -04 IO91
+QSO:   432 FT8 2022-04-13 1903 M0XTY         +13 JO01             G3WZK         +17 IO91
+QSO:   432 FT8 2022-04-13 1905 M0XTY         -12 JO01             G4CTP         -06 IO91
+QSO:   432 FT8 2022-04-13 1907 M0XTY         -19 JO01             2E0KKQ        -09 JO01
+QSO:   432 FT8 2022-04-13 1911 M0XTY         -17 JO01             G4DBL         -02 IO91
+QSO:   432 FT8 2022-04-13 1917 M0XTY         +30 JO01             G7WIR         +25 JO01
+QSO:   432 FT8 2022-04-13 1920 M0XTY         -14 JO01             G4FFY         -14 JO01
+QSO:   432 FT8 2022-04-13 1930 M0XTY         -06 JO01             G4EFT         -04 IO91
+QSO:   432 FT8 2022-04-13 2005 M0XTY         -07 JO01             G4OED         -14 IO91
+QSO:   432 FT8 2022-04-13 2011 M0XTY         -12 JO01             G4VPD         -12 IO92
+QSO:   432 FT8 2022-04-13 2013 M0XTY         +28 JO01             G7WIR         +24 JO01
+QSO:   432 FT8 2022-04-13 2017 M0XTY         -18 JO01             G0BIX         -24 JO01
+QSO:   432 FT8 2022-04-13 2018 M0XTY         +12 JO01             G7LRQ         +07 IO91
+QSO:   432 FT8 2022-04-13 2021 M0XTY         +16 JO01             G3ZPB         -11 IO91
+QSO:   432 FT8 2022-04-13 2028 M0XTY         -01 JO01             M0FXX         -09 IO91
+QSO:   432 FT8 2022-04-13 2032 M0XTY         -14 JO01             G0LGS         -17 IO81
+QSO:   432 FT8 2022-04-13 2038 M0XTY         -10 JO01             G3YDY         -12 JO01
+QSO:   432 FT8 2022-04-13 2039 M0XTY         -07 JO01             M0AHN         +07 IO91
+QSO:   432 FT8 2022-04-13 2048 M0XTY         -01 JO01             G4NBS         -03 JO02
+QSO:   432 FT8 2022-04-13 2100 M0XTY         -20 JO01             M0IEP         -04 IO91
 END-OF-LOG:

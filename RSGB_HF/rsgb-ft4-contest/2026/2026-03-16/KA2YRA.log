@@ -10,24 +10,25 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO: 14081 DG 2026-03-16 2007 KA2YRA        -07 -                M2X           -10 -
-QSO: 14080 DG 2026-03-16 2013 KA2YRA        -03 -                P4/WE9V       -13 -
-QSO: 14080 DG 2026-03-16 2017 KA2YRA        -04 -                GW0ARK        -04 -
-QSO: 14081 DG 2026-03-16 2024 KA2YRA        +03 -                DM5KM         -21 -
-QSO: 14081 DG 2026-03-16 2025 KA2YRA        +07 -                KP4VET        -03 -
-QSO: 14080 DG 2026-03-16 2031 KA2YRA        +06 -                WB4DFW        -04 -
-QSO: 14080 DG 2026-03-16 2034 KA2YRA        -13 -                G7WIR         -18 -
-QSO: 14080 DG 2026-03-16 2035 KA2YRA        -09 -                F4JGI         -02 -
-QSO: 14080 DG 2026-03-16 2037 KA2YRA        +02 -                KE2ET         +00 -
-QSO: 14080 DG 2026-03-16 2044 KA2YRA        +01 -                K4OMC         -04 -
-QSO: 14080 DG 2026-03-16 2050 KA2YRA        +05 -                K4SX          -17 -
-QSO: 14081 DG 2026-03-16 2104 KA2YRA        -14 -                GM1DSK        +02 -
-QSO: 14081 DG 2026-03-16 2108 KA2YRA        -12 -                GU7DAI        -20 -
-QSO: 14081 DG 2026-03-16 2112 KA2YRA        +08 -                KZ3P          -04 -
-QSO: 14081 DG 2026-03-16 2116 KA2YRA        -18 -                8P6PE         -14 -
-QSO: 14081 DG 2026-03-16 2119 KA2YRA        -09 -                W0QC          -09 -
-QSO: 14081 DG 2026-03-16 2120 KA2YRA        -04 -                NE4S          -02 -
-QSO: 14081 DG 2026-03-16 2121 KA2YRA        +06 -                K4WLG         -04 -
-QSO: 14081 DG 2026-03-16 2157 KA2YRA        -12 -                TI4LAS        -10 -
+QSO: 14081 FT4 2026-03-16 2007 KA2YRA        -07 -                M2X           -10 -
+QSO: 14080 FT4 2026-03-16 2013 KA2YRA        -03 -                P4/WE9V       -13 -
+QSO: 14080 FT4 2026-03-16 2017 KA2YRA        -04 -                GW0ARK        -04 -
+QSO: 14081 FT4 2026-03-16 2024 KA2YRA        +03 -                DM5KM         -21 -
+QSO: 14081 FT4 2026-03-16 2025 KA2YRA        +07 -                KP4VET        -03 -
+QSO: 14080 FT4 2026-03-16 2031 KA2YRA        +06 -                WB4DFW        -04 -
+QSO: 14080 FT4 2026-03-16 2034 KA2YRA        -13 -                G7WIR         -18 -
+QSO: 14080 FT4 2026-03-16 2035 KA2YRA        -09 -                F4JGI         -02 -
+QSO: 14080 FT4 2026-03-16 2037 KA2YRA        +02 -                KE2ET         +00 -
+QSO: 14080 FT4 2026-03-16 2044 KA2YRA        +01 -                K4OMC         -04 -
+QSO: 14080 FT4 2026-03-16 2050 KA2YRA        +05 -                K4SX          -17 -
+QSO: 14081 FT4 2026-03-16 2104 KA2YRA        -14 -                GM1DSK        +02 -
+QSO: 14081 FT4 2026-03-16 2108 KA2YRA        -12 -                GU7DAI        -20 -
+QSO: 14081 FT4 2026-03-16 2112 KA2YRA        +08 -                KZ3P          -04 -
+QSO: 14081 FT4 2026-03-16 2116 KA2YRA        -18 -                8P6PE         -14 -
+QSO: 14081 FT4 2026-03-16 2119 KA2YRA        -09 -                W0QC          -09 -
+QSO: 14081 FT4 2026-03-16 2120 KA2YRA        -04 -                NE4S          -02 -
+QSO: 14081 FT4 2026-03-16 2121 KA2YRA        +06 -                K4WLG         -04 -
+QSO: 14081 FT4 2026-03-16 2157 KA2YRA        -12 -                TI4LAS        -10 -
 END-OF-LOG:

@@ -10,18 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO:  7048 DG 2026-02-23 2015 G8NFZ         -05 -                HG80EME       -15 -
-QSO:  7048 DG 2026-02-23 2018 G8NFZ         -02 -                2D0PEY        -12 -
-QSO:  7048 DG 2026-02-23 2023 G8NFZ         -03 -                AO5HC         -08 -
-QSO:  7048 DG 2026-02-23 2025 G8NFZ         +04 -                I2XLF         -02 -
-QSO:  7048 DG 2026-02-23 2028 G8NFZ         +09 -                SQ5N          -08 -
-QSO:  7049 DG 2026-02-23 2103 G8NFZ         -14 -                CT4KQ         -17 -
-QSO:  7049 DG 2026-02-23 2114 G8NFZ         -05 -                F4JQH         -09 -
-QSO:  7049 DG 2026-02-23 2120 G8NFZ         -05 -                IK2FTB        -03 -
-QSO:  7049 DG 2026-02-23 2122 G8NFZ         -10 -                IK4RVY        -13 -
-QSO:  7049 DG 2026-02-23 2123 G8NFZ         +03 -                YO4CVV        +01 -
-QSO:  7049 DG 2026-02-23 2128 G8NFZ         -02 -                ZV5PR         -10 -
-QSO:  7049 DG 2026-02-23 2144 G8NFZ         -15 -                K9OM          -14 -
-QSO:  7050 DG 2026-02-23 2158 G8NFZ         -03 -                SV3DCX        -02 -
+QSO:  7048 FT4 2026-02-23 2015 G8NFZ         -05 -                HG80EME       -15 -
+QSO:  7048 FT4 2026-02-23 2018 G8NFZ         -02 -                2D0PEY        -12 -
+QSO:  7048 FT4 2026-02-23 2023 G8NFZ         -03 -                AO5HC         -08 -
+QSO:  7048 FT4 2026-02-23 2025 G8NFZ         +04 -                I2XLF         -02 -
+QSO:  7048 FT4 2026-02-23 2028 G8NFZ         +09 -                SQ5N          -08 -
+QSO:  7049 FT4 2026-02-23 2103 G8NFZ         -14 -                CT4KQ         -17 -
+QSO:  7049 FT4 2026-02-23 2114 G8NFZ         -05 -                F4JQH         -09 -
+QSO:  7049 FT4 2026-02-23 2120 G8NFZ         -05 -                IK2FTB        -03 -
+QSO:  7049 FT4 2026-02-23 2122 G8NFZ         -10 -                IK4RVY        -13 -
+QSO:  7049 FT4 2026-02-23 2123 G8NFZ         +03 -                YO4CVV        +01 -
+QSO:  7049 FT4 2026-02-23 2128 G8NFZ         -02 -                ZV5PR         -10 -
+QSO:  7049 FT4 2026-02-23 2144 G8NFZ         -15 -                K9OM          -14 -
+QSO:  7050 FT4 2026-02-23 2158 G8NFZ         -03 -                SV3DCX        -02 -
 END-OF-LOG:

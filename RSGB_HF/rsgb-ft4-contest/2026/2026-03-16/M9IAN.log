@@ -9,16 +9,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO: 14082 DG 2026-03-16 2005 M9IAN         -01 -                G4TTO         -10 -
-QSO:  7050 DG 2026-03-16 2009 M9IAN         +03 -                DL7ZO         -15 -
-QSO:  7050 DG 2026-03-16 2014 M9IAN         +05 -                HB9AWS        -10 -
-QSO:  7050 DG 2026-03-16 2015 M9IAN         +13 -                DK2OY         -05 -
-QSO:  7050 DG 2026-03-16 2015 M9IAN         +06 -                DL5LS         -04 -
-QSO:  7050 DG 2026-03-16 2018 M9IAN         -05 -                OK2USM        -11 -
-QSO:  7048 DG 2026-03-16 2022 M9IAN         -08 -                F4JQH         -21 -
-QSO: 14082 DG 2026-03-16 2051 M9IAN         +05 -                P4/WE9V       -16 -
-QSO:  7049 DG 2026-03-16 2104 M9IAN         +02 -                HA6NL         -13 -
-QSO:  3577 DG 2026-03-16 2115 M9IAN         +11 -                M5RJC         -13 -
-QSO:  7049 DG 2026-03-16 2134 M9IAN         +06 -                EA5ET         -09 -
+QSO: 14082 FT4 2026-03-16 2005 M9IAN         -01 -                G4TTO         -10 -
+QSO:  7050 FT4 2026-03-16 2009 M9IAN         +03 -                DL7ZO         -15 -
+QSO:  7050 FT4 2026-03-16 2014 M9IAN         +05 -                HB9AWS        -10 -
+QSO:  7050 FT4 2026-03-16 2015 M9IAN         +13 -                DK2OY         -05 -
+QSO:  7050 FT4 2026-03-16 2015 M9IAN         +06 -                DL5LS         -04 -
+QSO:  7050 FT4 2026-03-16 2018 M9IAN         -05 -                OK2USM        -11 -
+QSO:  7048 FT4 2026-03-16 2022 M9IAN         -08 -                F4JQH         -21 -
+QSO: 14082 FT4 2026-03-16 2051 M9IAN         +05 -                P4/WE9V       -16 -
+QSO:  7049 FT4 2026-03-16 2104 M9IAN         +02 -                HA6NL         -13 -
+QSO:  3577 FT4 2026-03-16 2115 M9IAN         +11 -                M5RJC         -13 -
+QSO:  7049 FT4 2026-03-16 2134 M9IAN         +06 -                EA5ET         -09 -
 END-OF-LOG:

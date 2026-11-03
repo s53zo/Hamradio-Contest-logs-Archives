@@ -10,40 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=261014&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=403; excluded rows=0.
-QSO:   432 DG 2026-10-14 1701 G0GJV         +19 IO91             G0XDI         -25 IO91
-QSO:   432 DG 2026-10-14 1706 G0GJV         +22 IO91             2E0MRK        +30 IO91
-QSO:   432 DG 2026-10-14 1709 G0GJV         +07 IO91             G7WIR         +05 JO01
-QSO:   432 DG 2026-10-14 1711 G0GJV         +12 IO91             PA3CWS        -11 JO22
-QSO:   432 DG 2026-10-14 1713 G0GJV         +06 IO91             PH2M          -10 JO22
-QSO:   432 DG 2026-10-14 1718 G0GJV         -13 IO91             GW4HDF        -14 IO81
-QSO:   432 DG 2026-10-14 1719 G0GJV         -14 IO91             PA2WCB        -10 JO21
-QSO:   432 DG 2026-10-14 1723 G0GJV         -15 IO91             G0HSP         -17 IO90
-QSO:   432 DG 2026-10-14 1727 G0GJV         -01 IO91             GX0ERG        +08 JO01
-QSO:   432 DG 2026-10-14 1730 G0GJV         -04 IO91             G1MPC         -02 IO91
-QSO:   432 DG 2026-10-14 1731 G0GJV         -14 IO91             PI4VPO        -10 JO21
-QSO:   432 DG 2026-10-14 1734 G0GJV         +03 IO91             M0PEL         +09 JO01
-QSO:   432 DG 2026-10-14 1738 G0GJV         -19 IO91             ON8NT         -12 JO11
-QSO:   432 DG 2026-10-14 1742 G0GJV         +02 IO91             G7LRQ         +00 JO03
-QSO:   432 DG 2026-10-14 1750 G0GJV         -07 IO91             F4AMF         -07 JN19
-QSO:   432 DG 2026-10-14 1806 G0GJV         +09 IO91             PA3EWP        +02 JO21
-QSO:   432 DG 2026-10-14 1812 G0GJV         -08 IO91             G1HJW         -11 JO01
-QSO:   432 DG 2026-10-14 1813 G0GJV         -14 IO91             PD1ADA        -08 JO21
-QSO:   432 DG 2026-10-14 1816 G0GJV         -07 IO91             DF1LON        -09 JO31
-QSO:   432 DG 2026-10-14 1817 G0GJV         -14 IO91             ON7GB         -13 JO21
-QSO:   432 DG 2026-10-14 1819 G0GJV         -06 IO91             PA2CV         -04 JO32
-QSO:   432 DG 2026-10-14 2035 G0GJV         -03 IO91             G3WZK         -07 IO91
-QSO:   432 DG 2026-10-14 2036 G0GJV         +05 IO91             EI8KN         -13 IO62
-QSO:   432 DG 2026-10-14 2038 G0GJV         -19 IO91             G0JJG         -18 JO02
-QSO:   432 DG 2026-10-14 2039 G0GJV         +04 IO91             G4NBS         +00 JO02
-QSO:   432 DG 2026-10-14 2042 G0GJV         +00 IO91             G3YDY         +03 JO01
-QSO:   432 DG 2026-10-14 2043 G0GJV         +17 IO91             G4ZTR         -05 JO01
-QSO:   432 DG 2026-10-14 2044 G0GJV         -14 IO91             DK5WO         -08 JO30
-QSO:   432 DG 2026-10-14 2045 G0GJV         -07 IO91             2E0JPO        -06 IO91
-QSO:   432 DG 2026-10-14 2048 G0GJV         -23 IO91             G8SEI         -12 IO92
-QSO:   432 DG 2026-10-14 2049 G0GJV         +00 IO91             G4BAO         -19 JO02
-QSO:   432 DG 2026-10-14 2050 G0GJV         -07 IO91             DF4IAE        -08 JN49
-QSO:   432 DG 2026-10-14 2053 G0GJV         +09 IO91             M/NT6B        +24 -
-QSO:   432 DG 2026-10-14 2057 G0GJV         -08 IO91             G0BIX         -10 JO01
+QSO:   432 FT8 2026-10-14 1701 G0GJV         +19 IO91             G0XDI         -25 IO91
+QSO:   432 FT8 2026-10-14 1706 G0GJV         +22 IO91             2E0MRK        +30 IO91
+QSO:   432 FT8 2026-10-14 1709 G0GJV         +07 IO91             G7WIR         +05 JO01
+QSO:   432 FT8 2026-10-14 1711 G0GJV         +12 IO91             PA3CWS        -11 JO22
+QSO:   432 FT8 2026-10-14 1713 G0GJV         +06 IO91             PH2M          -10 JO22
+QSO:   432 FT8 2026-10-14 1718 G0GJV         -13 IO91             GW4HDF        -14 IO81
+QSO:   432 FT8 2026-10-14 1719 G0GJV         -14 IO91             PA2WCB        -10 JO21
+QSO:   432 FT8 2026-10-14 1723 G0GJV         -15 IO91             G0HSP         -17 IO90
+QSO:   432 FT8 2026-10-14 1727 G0GJV         -01 IO91             GX0ERG        +08 JO01
+QSO:   432 FT8 2026-10-14 1730 G0GJV         -04 IO91             G1MPC         -02 IO91
+QSO:   432 FT8 2026-10-14 1731 G0GJV         -14 IO91             PI4VPO        -10 JO21
+QSO:   432 FT8 2026-10-14 1734 G0GJV         +03 IO91             M0PEL         +09 JO01
+QSO:   432 FT8 2026-10-14 1738 G0GJV         -19 IO91             ON8NT         -12 JO11
+QSO:   432 FT8 2026-10-14 1742 G0GJV         +02 IO91             G7LRQ         +00 JO03
+QSO:   432 FT8 2026-10-14 1750 G0GJV         -07 IO91             F4AMF         -07 JN19
+QSO:   432 FT8 2026-10-14 1806 G0GJV         +09 IO91             PA3EWP        +02 JO21
+QSO:   432 FT8 2026-10-14 1812 G0GJV         -08 IO91             G1HJW         -11 JO01
+QSO:   432 FT8 2026-10-14 1813 G0GJV         -14 IO91             PD1ADA        -08 JO21
+QSO:   432 FT8 2026-10-14 1816 G0GJV         -07 IO91             DF1LON        -09 JO31
+QSO:   432 FT8 2026-10-14 1817 G0GJV         -14 IO91             ON7GB         -13 JO21
+QSO:   432 FT8 2026-10-14 1819 G0GJV         -06 IO91             PA2CV         -04 JO32
+QSO:   432 FT8 2026-10-14 2035 G0GJV         -03 IO91             G3WZK         -07 IO91
+QSO:   432 FT8 2026-10-14 2036 G0GJV         +05 IO91             EI8KN         -13 IO62
+QSO:   432 FT8 2026-10-14 2038 G0GJV         -19 IO91             G0JJG         -18 JO02
+QSO:   432 FT8 2026-10-14 2039 G0GJV         +04 IO91             G4NBS         +00 JO02
+QSO:   432 FT8 2026-10-14 2042 G0GJV         +00 IO91             G3YDY         +03 JO01
+QSO:   432 FT8 2026-10-14 2043 G0GJV         +17 IO91             G4ZTR         -05 JO01
+QSO:   432 FT8 2026-10-14 2044 G0GJV         -14 IO91             DK5WO         -08 JO30
+QSO:   432 FT8 2026-10-14 2045 G0GJV         -07 IO91             2E0JPO        -06 IO91
+QSO:   432 FT8 2026-10-14 2048 G0GJV         -23 IO91             G8SEI         -12 IO92
+QSO:   432 FT8 2026-10-14 2049 G0GJV         +00 IO91             G4BAO         -19 JO02
+QSO:   432 FT8 2026-10-14 2050 G0GJV         -07 IO91             DF4IAE        -08 JN49
+QSO:   432 FT8 2026-10-14 2053 G0GJV         +09 IO91             M/NT6B        +24 -
+QSO:   432 FT8 2026-10-14 2057 G0GJV         -08 IO91             G0BIX         -10 JO01
 END-OF-LOG:

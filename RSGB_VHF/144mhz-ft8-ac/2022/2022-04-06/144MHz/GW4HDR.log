@@ -10,14 +10,14 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220406&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1359; excluded rows=0.
-QSO:   144 DG 2022-04-06 1902 GW4HDR        -04 IO83             MI0IHH        -12 IO74
-QSO:   144 DG 2022-04-06 1903 GW4HDR        -03 IO83             MW0AQZ        +11 IO73
-QSO:   144 DG 2022-04-06 1905 GW4HDR        +10 IO83             G4EII         +06 IO83
-QSO:   144 DG 2022-04-06 1908 GW4HDR        -16 IO83             G3YKI         -16 IO82
-QSO:   144 DG 2022-04-06 1910 GW4HDR        +11 IO83             G0TZA         +09 IO83
-QSO:   144 DG 2022-04-06 1912 GW4HDR        -07 IO83             M1BAT         -06 IO83
-QSO:   144 DG 2022-04-06 1915 GW4HDR        -13 IO83             M1EYP/P       +02 IO83
-QSO:   144 DG 2022-04-06 1921 GW4HDR        +10 IO83             2E0ILF        +05 IO83
+QSO:   144 FT8 2022-04-06 1902 GW4HDR        -04 IO83             MI0IHH        -12 IO74
+QSO:   144 FT8 2022-04-06 1903 GW4HDR        -03 IO83             MW0AQZ        +11 IO73
+QSO:   144 FT8 2022-04-06 1905 GW4HDR        +10 IO83             G4EII         +06 IO83
+QSO:   144 FT8 2022-04-06 1908 GW4HDR        -16 IO83             G3YKI         -16 IO82
+QSO:   144 FT8 2022-04-06 1910 GW4HDR        +11 IO83             G0TZA         +09 IO83
+QSO:   144 FT8 2022-04-06 1912 GW4HDR        -07 IO83             M1BAT         -06 IO83
+QSO:   144 FT8 2022-04-06 1915 GW4HDR        -13 IO83             M1EYP/P       +02 IO83
+QSO:   144 FT8 2022-04-06 1921 GW4HDR        +10 IO83             2E0ILF        +05 IO83
 END-OF-LOG:

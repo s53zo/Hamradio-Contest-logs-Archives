@@ -10,39 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220504&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1793; excluded rows=0.
-QSO:   144 DG 2022-05-04 1912 EI2GLB        +00 IO63             G0LGS         -10 IO81
-QSO:   144 DG 2022-05-04 1916 EI2GLB        -07 IO63             M0IEP         -02 IO91
-QSO:   144 DG 2022-05-04 1919 EI2GLB        -06 IO63             2E0IEI        -04 IO81
-QSO:   144 DG 2022-05-04 1922 EI2GLB        +03 IO63             G3WAG/P       +04 IO82
-QSO:   144 DG 2022-05-04 1925 EI2GLB        -16 IO63             G8GNI         -16 IO91
-QSO:   144 DG 2022-05-04 1931 EI2GLB        -12 IO63             M1EYP/P       -02 IO83
-QSO:   144 DG 2022-05-04 1937 EI2GLB        -02 IO63             F6DBI         -06 IN88
-QSO:   144 DG 2022-05-04 1939 EI2GLB        -06 IO63             M0BKV         -11 IO70
-QSO:   144 DG 2022-05-04 1941 EI2GLB        +03 IO63             EI8KN         +10 IO62
-QSO:   144 DG 2022-05-04 1944 EI2GLB        -15 IO63             G7RAU         -03 IN79
-QSO:   144 DG 2022-05-04 1946 EI2GLB        -11 IO63             GD6ICR        -14 IO74
-QSO:   144 DG 2022-05-04 1948 EI2GLB        -13 IO63             GW4HDR        -07 IO83
-QSO:   144 DG 2022-05-04 1950 EI2GLB        -10 IO63             G0ISX         -09 IO93
-QSO:   144 DG 2022-05-04 1951 EI2GLB        -12 IO63             GI5RPG        -19 IO64
-QSO:   144 DG 2022-05-04 1953 EI2GLB        +00 IO63             EI2IXB        -07 IO63
-QSO:   144 DG 2022-05-04 1957 EI2GLB        -02 IO63             GI6ATZ        -16 IO74
-QSO:   144 DG 2022-05-04 2003 EI2GLB        -14 IO63             G3YKI         -11 IO82
-QSO:   144 DG 2022-05-04 2006 EI2GLB        -04 IO63             G7LRQ         -18 IO91
-QSO:   144 DG 2022-05-04 2009 EI2GLB        -18 IO63             GM4VVX        -17 IO78
-QSO:   144 DG 2022-05-04 2012 EI2GLB        +02 IO63             MM0CEZ        -07 IO75
-QSO:   144 DG 2022-05-04 2015 EI2GLB        +01 IO63             MM0ABM        -02 IO75
-QSO:   144 DG 2022-05-04 2017 EI2GLB        -10 IO63             GM7PKT        -09 IO76
-QSO:   144 DG 2022-05-04 2023 EI2GLB        +08 IO63             G4EII         -12 IO83
-QSO:   144 DG 2022-05-04 2024 EI2GLB        +02 IO63             G0XDI         -07 IO91
-QSO:   144 DG 2022-05-04 2025 EI2GLB        -06 IO63             G4VPD         -02 IO92
-QSO:   144 DG 2022-05-04 2030 EI2GLB        -05 IO63             G4NBS         -06 JO02
-QSO:   144 DG 2022-05-04 2031 EI2GLB        -05 IO63             M0XJA         +01 IO82
-QSO:   144 DG 2022-05-04 2032 EI2GLB        +06 IO63             G4KUX         +01 IO94
-QSO:   144 DG 2022-05-04 2037 EI2GLB        +21 IO63             G4RRA         -01 IO80
-QSO:   144 DG 2022-05-04 2045 EI2GLB        +00 IO63             EI4GGB        +09 IO63
-QSO:   144 DG 2022-05-04 2057 EI2GLB        -19 IO63             GS3PYE/P      -15 IO67
-QSO:   144 DG 2022-05-04 2100 EI2GLB        +13 IO63             GD0TEP        +01 IO74
-QSO:   144 DG 2022-05-04 2103 EI2GLB        -13 IO63             M0CFV         -10 IO91
+QSO:   144 FT8 2022-05-04 1912 EI2GLB        +00 IO63             G0LGS         -10 IO81
+QSO:   144 FT8 2022-05-04 1916 EI2GLB        -07 IO63             M0IEP         -02 IO91
+QSO:   144 FT8 2022-05-04 1919 EI2GLB        -06 IO63             2E0IEI        -04 IO81
+QSO:   144 FT8 2022-05-04 1922 EI2GLB        +03 IO63             G3WAG/P       +04 IO82
+QSO:   144 FT8 2022-05-04 1925 EI2GLB        -16 IO63             G8GNI         -16 IO91
+QSO:   144 FT8 2022-05-04 1931 EI2GLB        -12 IO63             M1EYP/P       -02 IO83
+QSO:   144 FT8 2022-05-04 1937 EI2GLB        -02 IO63             F6DBI         -06 IN88
+QSO:   144 FT8 2022-05-04 1939 EI2GLB        -06 IO63             M0BKV         -11 IO70
+QSO:   144 FT8 2022-05-04 1941 EI2GLB        +03 IO63             EI8KN         +10 IO62
+QSO:   144 FT8 2022-05-04 1944 EI2GLB        -15 IO63             G7RAU         -03 IN79
+QSO:   144 FT8 2022-05-04 1946 EI2GLB        -11 IO63             GD6ICR        -14 IO74
+QSO:   144 FT8 2022-05-04 1948 EI2GLB        -13 IO63             GW4HDR        -07 IO83
+QSO:   144 FT8 2022-05-04 1950 EI2GLB        -10 IO63             G0ISX         -09 IO93
+QSO:   144 FT8 2022-05-04 1951 EI2GLB        -12 IO63             GI5RPG        -19 IO64
+QSO:   144 FT8 2022-05-04 1953 EI2GLB        +00 IO63             EI2IXB        -07 IO63
+QSO:   144 FT8 2022-05-04 1957 EI2GLB        -02 IO63             GI6ATZ        -16 IO74
+QSO:   144 FT8 2022-05-04 2003 EI2GLB        -14 IO63             G3YKI         -11 IO82
+QSO:   144 FT8 2022-05-04 2006 EI2GLB        -04 IO63             G7LRQ         -18 IO91
+QSO:   144 FT8 2022-05-04 2009 EI2GLB        -18 IO63             GM4VVX        -17 IO78
+QSO:   144 FT8 2022-05-04 2012 EI2GLB        +02 IO63             MM0CEZ        -07 IO75
+QSO:   144 FT8 2022-05-04 2015 EI2GLB        +01 IO63             MM0ABM        -02 IO75
+QSO:   144 FT8 2022-05-04 2017 EI2GLB        -10 IO63             GM7PKT        -09 IO76
+QSO:   144 FT8 2022-05-04 2023 EI2GLB        +08 IO63             G4EII         -12 IO83
+QSO:   144 FT8 2022-05-04 2024 EI2GLB        +02 IO63             G0XDI         -07 IO91
+QSO:   144 FT8 2022-05-04 2025 EI2GLB        -06 IO63             G4VPD         -02 IO92
+QSO:   144 FT8 2022-05-04 2030 EI2GLB        -05 IO63             G4NBS         -06 JO02
+QSO:   144 FT8 2022-05-04 2031 EI2GLB        -05 IO63             M0XJA         +01 IO82
+QSO:   144 FT8 2022-05-04 2032 EI2GLB        +06 IO63             G4KUX         +01 IO94
+QSO:   144 FT8 2022-05-04 2037 EI2GLB        +21 IO63             G4RRA         -01 IO80
+QSO:   144 FT8 2022-05-04 2045 EI2GLB        +00 IO63             EI4GGB        +09 IO63
+QSO:   144 FT8 2022-05-04 2057 EI2GLB        -19 IO63             GS3PYE/P      -15 IO67
+QSO:   144 FT8 2022-05-04 2100 EI2GLB        +13 IO63             GD0TEP        +01 IO74
+QSO:   144 FT8 2022-05-04 2103 EI2GLB        -13 IO63             M0CFV         -10 IO91
 END-OF-LOG:

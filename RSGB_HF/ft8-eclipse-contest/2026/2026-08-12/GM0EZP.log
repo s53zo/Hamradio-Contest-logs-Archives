@@ -9,39 +9,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT8+Eclipse+Contest&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1873; excluded rows=0.
-QSO:  7075 DG 2026-08-12 1630 GM0EZP        -08 -                DG4BZ         -09 -
-QSO:  7075 DG 2026-08-12 1640 GM0EZP        -05 -                G4AWA         +10 -
-QSO:  7075 DG 2026-08-12 1642 GM0EZP        -10 -                G7RDX         -07 -
-QSO:  7075 DG 2026-08-12 1649 GM0EZP        -16 -                M0SNZ         -04 -
-QSO:  7075 DG 2026-08-12 1652 GM0EZP        -16 -                DM4TG         -02 -
-QSO:  7075 DG 2026-08-12 1655 GM0EZP        -10 -                US7UK         -10 -
-QSO:  7075 DG 2026-08-12 1657 GM0EZP        -03 -                GU0UVH        -08 -
-QSO:  7075 DG 2026-08-12 1704 GM0EZP        -10 -                PA1MOS        -18 -
-QSO:  7075 DG 2026-08-12 1707 GM0EZP        -08 -                SV8QG         -19 -
-QSO:  7075 DG 2026-08-12 1710 GM0EZP        -01 -                DF5DY         -01 -
-QSO:  7075 DG 2026-08-12 1712 GM0EZP        -10 -                E70SZ         -07 -
-QSO:  7075 DG 2026-08-12 1719 GM0EZP        -08 -                GM4CXM        -02 -
-QSO:  7075 DG 2026-08-12 1722 GM0EZP        -10 -                IK2TPX        +00 -
-QSO:  7075 DG 2026-08-12 1732 GM0EZP        -15 -                DL1EMA        -10 -
-QSO:  7075 DG 2026-08-12 1741 GM0EZP        -10 -                M9KER/A       -06 -
-QSO:  7075 DG 2026-08-12 1743 GM0EZP        -05 -                DA2DA         -10 -
-QSO:  7074 DG 2026-08-12 1753 GM0EZP        -03 -                PD3H          -11 -
-QSO:  7074 DG 2026-08-12 1755 GM0EZP        -08 -                LY1DY         -07 -
-QSO:  7074 DG 2026-08-12 1759 GM0EZP        -09 -                DL9YNG        -09 -
-QSO:  7074 DG 2026-08-12 1800 GM0EZP        -15 -                F1IQH         -12 -
-QSO:  7075 DG 2026-08-12 1810 GM0EZP        -06 -                R2EC          -13 -
-QSO:  7075 DG 2026-08-12 1825 GM0EZP        -02 -                G4DBW         +01 -
-QSO:  7074 DG 2026-08-12 1836 GM0EZP        -01 -                M9MAS         -07 -
-QSO:  7074 DG 2026-08-12 1844 GM0EZP        -05 -                OK1FED        -08 -
-QSO:  7074 DG 2026-08-12 1846 GM0EZP        -10 -                ON6AT         -03 -
-QSO:  7074 DG 2026-08-12 1850 GM0EZP        -09 -                SM7JKW        -14 -
-QSO:  7074 DG 2026-08-12 1853 GM0EZP        -14 -                DB3MB         -09 -
-QSO:  7074 DG 2026-08-12 1856 GM0EZP        -04 -                SV2HXV        +05 -
-QSO:  7074 DG 2026-08-12 1902 GM0EZP        -07 -                CT2KNA        -04 -
-QSO:  7074 DG 2026-08-12 1904 GM0EZP        +07 -                SP3IPA        -21 -
-QSO:  7074 DG 2026-08-12 1908 GM0EZP        -01 -                LY3I          -07 -
-QSO:  7074 DG 2026-08-12 1914 GM0EZP        -13 -                R6FT          -19 -
-QSO:  7074 DG 2026-08-12 1917 GM0EZP        -13 -                DK5DW         -19 -
-QSO:  7075 DG 2026-08-12 1927 GM0EZP        -04 -                LA4YGA        -13 -
+QSO:  7075 FT8 2026-08-12 1630 GM0EZP        -08 -                DG4BZ         -09 -
+QSO:  7075 FT8 2026-08-12 1640 GM0EZP        -05 -                G4AWA         +10 -
+QSO:  7075 FT8 2026-08-12 1642 GM0EZP        -10 -                G7RDX         -07 -
+QSO:  7075 FT8 2026-08-12 1649 GM0EZP        -16 -                M0SNZ         -04 -
+QSO:  7075 FT8 2026-08-12 1652 GM0EZP        -16 -                DM4TG         -02 -
+QSO:  7075 FT8 2026-08-12 1655 GM0EZP        -10 -                US7UK         -10 -
+QSO:  7075 FT8 2026-08-12 1657 GM0EZP        -03 -                GU0UVH        -08 -
+QSO:  7075 FT8 2026-08-12 1704 GM0EZP        -10 -                PA1MOS        -18 -
+QSO:  7075 FT8 2026-08-12 1707 GM0EZP        -08 -                SV8QG         -19 -
+QSO:  7075 FT8 2026-08-12 1710 GM0EZP        -01 -                DF5DY         -01 -
+QSO:  7075 FT8 2026-08-12 1712 GM0EZP        -10 -                E70SZ         -07 -
+QSO:  7075 FT8 2026-08-12 1719 GM0EZP        -08 -                GM4CXM        -02 -
+QSO:  7075 FT8 2026-08-12 1722 GM0EZP        -10 -                IK2TPX        +00 -
+QSO:  7075 FT8 2026-08-12 1732 GM0EZP        -15 -                DL1EMA        -10 -
+QSO:  7075 FT8 2026-08-12 1741 GM0EZP        -10 -                M9KER/A       -06 -
+QSO:  7075 FT8 2026-08-12 1743 GM0EZP        -05 -                DA2DA         -10 -
+QSO:  7074 FT8 2026-08-12 1753 GM0EZP        -03 -                PD3H          -11 -
+QSO:  7074 FT8 2026-08-12 1755 GM0EZP        -08 -                LY1DY         -07 -
+QSO:  7074 FT8 2026-08-12 1759 GM0EZP        -09 -                DL9YNG        -09 -
+QSO:  7074 FT8 2026-08-12 1800 GM0EZP        -15 -                F1IQH         -12 -
+QSO:  7075 FT8 2026-08-12 1810 GM0EZP        -06 -                R2EC          -13 -
+QSO:  7075 FT8 2026-08-12 1825 GM0EZP        -02 -                G4DBW         +01 -
+QSO:  7074 FT8 2026-08-12 1836 GM0EZP        -01 -                M9MAS         -07 -
+QSO:  7074 FT8 2026-08-12 1844 GM0EZP        -05 -                OK1FED        -08 -
+QSO:  7074 FT8 2026-08-12 1846 GM0EZP        -10 -                ON6AT         -03 -
+QSO:  7074 FT8 2026-08-12 1850 GM0EZP        -09 -                SM7JKW        -14 -
+QSO:  7074 FT8 2026-08-12 1853 GM0EZP        -14 -                DB3MB         -09 -
+QSO:  7074 FT8 2026-08-12 1856 GM0EZP        -04 -                SV2HXV        +05 -
+QSO:  7074 FT8 2026-08-12 1902 GM0EZP        -07 -                CT2KNA        -04 -
+QSO:  7074 FT8 2026-08-12 1904 GM0EZP        +07 -                SP3IPA        -21 -
+QSO:  7074 FT8 2026-08-12 1908 GM0EZP        -01 -                LY3I          -07 -
+QSO:  7074 FT8 2026-08-12 1914 GM0EZP        -13 -                R6FT          -19 -
+QSO:  7074 FT8 2026-08-12 1917 GM0EZP        -13 -                DK5DW         -19 -
+QSO:  7075 FT8 2026-08-12 1927 GM0EZP        -04 -                LA4YGA        -13 -
 END-OF-LOG:

@@ -10,26 +10,26 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260304&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1043; excluded rows=1.
-QSO:   144 DG 2026-03-04 1904 G0RMG         -16 IO92             G0RAS         -11 IO91
-QSO:   144 DG 2026-03-04 1905 G0RMG         +01 IO92             G0GJV         -05 IO91
-QSO:   144 DG 2026-03-04 1907 G0RMG         +06 IO92             2E0MRK        -06 IO91
-QSO:   144 DG 2026-03-04 1909 G0RMG         -02 IO92             M9VGP         -01 IO91
-QSO:   144 DG 2026-03-04 1911 G0RMG         +15 IO92             G3WAG         +02 IO82
-QSO:   144 DG 2026-03-04 1916 G0RMG         +20 IO92             G8YPE         +08 IO92
-QSO:   144 DG 2026-03-04 1921 G0RMG         +03 IO92             M9DJN         +06 IO82
-QSO:   144 DG 2026-03-04 1924 G0RMG         -10 IO92             EI8KN         -05 IO62
-QSO:   144 DG 2026-03-04 1934 G0RMG         -06 IO92             G7WIR         -18 JO01
-QSO:   144 DG 2026-03-04 1940 G0RMG         -12 IO92             G4RFR         -13 IO90
-QSO:   144 DG 2026-03-04 1943 G0RMG         +12 IO92             G8SEI         -24 IO92
-QSO:   144 DG 2026-03-04 1946 G0RMG         +25 IO92             G0ORE         +25 IO92
-QSO:   144 DG 2026-03-04 1948 G0RMG         -07 IO92             G0DUQ         -09 IO82
-QSO:   144 DG 2026-03-04 1949 G0RMG         -17 IO92             G0JJG         -24 JO02
-QSO:   144 DG 2026-03-04 2012 G0RMG         -16 IO92             G3WZK         -15 IO91
-QSO:   144 DG 2026-03-04 2028 G0RMG         -09 IO92             G7FPE         -25 JO01
-QSO:   144 DG 2026-03-04 2031 G0RMG         -09 IO92             G0BIX         -25 JO01
-QSO:   144 DG 2026-03-04 2034 G0RMG         -13 IO92             M1EYP/P       -13 IO83
-QSO:   144 DG 2026-03-04 2038 G0RMG         -10 IO92             G1MPC         -24 IO91
-QSO:   144 DG 2026-03-04 2048 G0RMG         +13 IO92             G0XDI         -09 IO91
+QSO:   144 FT8 2026-03-04 1904 G0RMG         -16 IO92             G0RAS         -11 IO91
+QSO:   144 FT8 2026-03-04 1905 G0RMG         +01 IO92             G0GJV         -05 IO91
+QSO:   144 FT8 2026-03-04 1907 G0RMG         +06 IO92             2E0MRK        -06 IO91
+QSO:   144 FT8 2026-03-04 1909 G0RMG         -02 IO92             M9VGP         -01 IO91
+QSO:   144 FT8 2026-03-04 1911 G0RMG         +15 IO92             G3WAG         +02 IO82
+QSO:   144 FT8 2026-03-04 1916 G0RMG         +20 IO92             G8YPE         +08 IO92
+QSO:   144 FT8 2026-03-04 1921 G0RMG         +03 IO92             M9DJN         +06 IO82
+QSO:   144 FT8 2026-03-04 1924 G0RMG         -10 IO92             EI8KN         -05 IO62
+QSO:   144 FT8 2026-03-04 1934 G0RMG         -06 IO92             G7WIR         -18 JO01
+QSO:   144 FT8 2026-03-04 1940 G0RMG         -12 IO92             G4RFR         -13 IO90
+QSO:   144 FT8 2026-03-04 1943 G0RMG         +12 IO92             G8SEI         -24 IO92
+QSO:   144 FT8 2026-03-04 1946 G0RMG         +25 IO92             G0ORE         +25 IO92
+QSO:   144 FT8 2026-03-04 1948 G0RMG         -07 IO92             G0DUQ         -09 IO82
+QSO:   144 FT8 2026-03-04 1949 G0RMG         -17 IO92             G0JJG         -24 JO02
+QSO:   144 FT8 2026-03-04 2012 G0RMG         -16 IO92             G3WZK         -15 IO91
+QSO:   144 FT8 2026-03-04 2028 G0RMG         -09 IO92             G7FPE         -25 JO01
+QSO:   144 FT8 2026-03-04 2031 G0RMG         -09 IO92             G0BIX         -25 JO01
+QSO:   144 FT8 2026-03-04 2034 G0RMG         -13 IO92             M1EYP/P       -13 IO83
+QSO:   144 FT8 2026-03-04 2038 G0RMG         -10 IO92             G1MPC         -24 IO91
+QSO:   144 FT8 2026-03-04 2048 G0RMG         +13 IO92             G0XDI         -09 IO91
 END-OF-LOG:

@@ -10,29 +10,30 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO:  7049 DG 2026-08-17 1909 DG4MCB        +02 -                9A60CBM       -09 -
-QSO:  3576 DG 2026-08-17 1952 DG4MCB        -01 -                9A60CBM       -12 -
-QSO:  3576 DG 2026-08-17 1953 DG4MCB        -03 -                OK2WMC        -01 -
-QSO:  3577 DG 2026-08-17 1955 DG4MCB        -01 -                SP9UOP        -04 -
-QSO:  3577 DG 2026-08-17 1959 DG4MCB        -17 -                DA6CGN        -18 -
-QSO:  3577 DG 2026-08-17 2003 DG4MCB        -13 -                G6GN          -11 -
-QSO:  3577 DG 2026-08-17 2005 DG4MCB        -02 -                IN3OWY        +00 -
-QSO:  3577 DG 2026-08-17 2008 DG4MCB        +00 -                DO1ARD        +00 -
-QSO:  3577 DG 2026-08-17 2009 DG4MCB        +04 -                DL4ME         +00 -
-QSO:  3577 DG 2026-08-17 2009 DG4MCB        -14 -                DG7FBB        -10 -
-QSO:  3577 DG 2026-08-17 2010 DG4MCB        -04 -                SP1MGM        -10 -
-QSO:  3577 DG 2026-08-17 2010 DG4MCB        -16 -                DK5OPA        +03 -
-QSO:  3577 DG 2026-08-17 2015 DG4MCB        -01 -                DL5DTG        -11 -
-QSO:  3577 DG 2026-08-17 2016 DG4MCB        -03 -                DK2OY         -03 -
-QSO:  7048 DG 2026-08-17 2031 DG4MCB        -04 -                IU8SOQ        -10 -
-QSO:  7049 DG 2026-08-17 2033 DG4MCB        -10 -                9A9N          -13 -
-QSO:  7049 DG 2026-08-17 2036 DG4MCB        +05 -                9A5ADR        -02 -
-QSO:  7049 DG 2026-08-17 2037 DG4MCB        +06 -                DF8QB         -02 -
-QSO:  7049 DG 2026-08-17 2039 DG4MCB        -01 -                G1WOV         -10 -
-QSO:  7049 DG 2026-08-17 2040 DG4MCB        -12 -                OE5TXF        -01 -
-QSO:  7048 DG 2026-08-17 2049 DG4MCB        +05 -                M0PAW         -15 -
-QSO:  7048 DG 2026-08-17 2053 DG4MCB        -06 -                G4BYE         -02 -
-QSO:  7049 DG 2026-08-17 2057 DG4MCB        +09 -                ON4DS         -09 -
-QSO:  7049 DG 2026-08-17 2059 DG4MCB        -05 -                DL7VTW        -12 -
+QSO:  7049 FT4 2026-08-17 1909 DG4MCB        +02 -                9A60CBM       -09 -
+QSO:  3576 FT4 2026-08-17 1952 DG4MCB        -01 -                9A60CBM       -12 -
+QSO:  3576 FT4 2026-08-17 1953 DG4MCB        -03 -                OK2WMC        -01 -
+QSO:  3577 FT4 2026-08-17 1955 DG4MCB        -01 -                SP9UOP        -04 -
+QSO:  3577 FT4 2026-08-17 1959 DG4MCB        -17 -                DA6CGN        -18 -
+QSO:  3577 FT4 2026-08-17 2003 DG4MCB        -13 -                G6GN          -11 -
+QSO:  3577 FT4 2026-08-17 2005 DG4MCB        -02 -                IN3OWY        +00 -
+QSO:  3577 FT4 2026-08-17 2008 DG4MCB        +00 -                DO1ARD        +00 -
+QSO:  3577 FT4 2026-08-17 2009 DG4MCB        +04 -                DL4ME         +00 -
+QSO:  3577 FT4 2026-08-17 2009 DG4MCB        -14 -                DG7FBB        -10 -
+QSO:  3577 FT4 2026-08-17 2010 DG4MCB        -04 -                SP1MGM        -10 -
+QSO:  3577 FT4 2026-08-17 2010 DG4MCB        -16 -                DK5OPA        +03 -
+QSO:  3577 FT4 2026-08-17 2015 DG4MCB        -01 -                DL5DTG        -11 -
+QSO:  3577 FT4 2026-08-17 2016 DG4MCB        -03 -                DK2OY         -03 -
+QSO:  7048 FT4 2026-08-17 2031 DG4MCB        -04 -                IU8SOQ        -10 -
+QSO:  7049 FT4 2026-08-17 2033 DG4MCB        -10 -                9A9N          -13 -
+QSO:  7049 FT4 2026-08-17 2036 DG4MCB        +05 -                9A5ADR        -02 -
+QSO:  7049 FT4 2026-08-17 2037 DG4MCB        +06 -                DF8QB         -02 -
+QSO:  7049 FT4 2026-08-17 2039 DG4MCB        -01 -                G1WOV         -10 -
+QSO:  7049 FT4 2026-08-17 2040 DG4MCB        -12 -                OE5TXF        -01 -
+QSO:  7048 FT4 2026-08-17 2049 DG4MCB        +05 -                M0PAW         -15 -
+QSO:  7048 FT4 2026-08-17 2053 DG4MCB        -06 -                G4BYE         -02 -
+QSO:  7049 FT4 2026-08-17 2057 DG4MCB        +09 -                ON4DS         -09 -
+QSO:  7049 FT4 2026-08-17 2059 DG4MCB        -05 -                DL7VTW        -12 -
 END-OF-LOG:

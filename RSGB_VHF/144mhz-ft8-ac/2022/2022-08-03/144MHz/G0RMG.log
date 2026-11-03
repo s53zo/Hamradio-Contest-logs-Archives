@@ -10,24 +10,24 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220803&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1776; excluded rows=3.
-QSO:   144 DG 2022-08-03 1905 G0RMG         +00 IO92             G0LGS         -01 IO81
-QSO:   144 DG 2022-08-03 1908 G0RMG         -03 IO92             2E1FMS        -15 IO82
-QSO:   144 DG 2022-08-03 1910 G0RMG         +10 IO92             G4VPD         +04 IO92
-QSO:   144 DG 2022-08-03 1918 G0RMG         -01 IO92             G3XBY         +22 IO92
-QSO:   144 DG 2022-08-03 1922 G0RMG         -06 IO92             M0BKV         -01 IO70
-QSO:   144 DG 2022-08-03 1930 G0RMG         -03 IO92             G0MOH         -09 IO70
-QSO:   144 DG 2022-08-03 1938 G0RMG         -19 IO92             G4CDF         -16 IO91
-QSO:   144 DG 2022-08-03 1947 G0RMG         -05 IO92             G3YKI         +01 IO82
-QSO:   144 DG 2022-08-03 1950 G0RMG         -17 IO92             G4OED         -12 IO91
-QSO:   144 DG 2022-08-03 1951 G0RMG         -07 IO92             M0XJA         -10 IO82
-QSO:   144 DG 2022-08-03 1952 G0RMG         +16 IO92             G1RAG         +14 IO92
-QSO:   144 DG 2022-08-03 1955 G0RMG         -12 IO92             EI2FG         -12 IO61
-QSO:   144 DG 2022-08-03 2000 G0RMG         +29 IO92             M1CFK         +30 IO92
-QSO:   144 DG 2022-08-03 2002 G0RMG         -03 IO92             G4HGV         +05 IO91
-QSO:   144 DG 2022-08-03 2008 G0RMG         -04 IO92             M7REV         -09 IO82
-QSO:   144 DG 2022-08-03 2024 G0RMG         +21 IO92             G0ORE         +23 IO92
-QSO:   144 DG 2022-08-03 2033 G0RMG         -10 IO92             M1CVK         -11 IO71
-QSO:   144 DG 2022-08-03 2056 G0RMG         +33 IO92             G3WAG/P       +18 IO82
+QSO:   144 FT8 2022-08-03 1905 G0RMG         +00 IO92             G0LGS         -01 IO81
+QSO:   144 FT8 2022-08-03 1908 G0RMG         -03 IO92             2E1FMS        -15 IO82
+QSO:   144 FT8 2022-08-03 1910 G0RMG         +10 IO92             G4VPD         +04 IO92
+QSO:   144 FT8 2022-08-03 1918 G0RMG         -01 IO92             G3XBY         +22 IO92
+QSO:   144 FT8 2022-08-03 1922 G0RMG         -06 IO92             M0BKV         -01 IO70
+QSO:   144 FT8 2022-08-03 1930 G0RMG         -03 IO92             G0MOH         -09 IO70
+QSO:   144 FT8 2022-08-03 1938 G0RMG         -19 IO92             G4CDF         -16 IO91
+QSO:   144 FT8 2022-08-03 1947 G0RMG         -05 IO92             G3YKI         +01 IO82
+QSO:   144 FT8 2022-08-03 1950 G0RMG         -17 IO92             G4OED         -12 IO91
+QSO:   144 FT8 2022-08-03 1951 G0RMG         -07 IO92             M0XJA         -10 IO82
+QSO:   144 FT8 2022-08-03 1952 G0RMG         +16 IO92             G1RAG         +14 IO92
+QSO:   144 FT8 2022-08-03 1955 G0RMG         -12 IO92             EI2FG         -12 IO61
+QSO:   144 FT8 2022-08-03 2000 G0RMG         +29 IO92             M1CFK         +30 IO92
+QSO:   144 FT8 2022-08-03 2002 G0RMG         -03 IO92             G4HGV         +05 IO91
+QSO:   144 FT8 2022-08-03 2008 G0RMG         -04 IO92             M7REV         -09 IO82
+QSO:   144 FT8 2022-08-03 2024 G0RMG         +21 IO92             G0ORE         +23 IO92
+QSO:   144 FT8 2022-08-03 2033 G0RMG         -10 IO92             M1CVK         -11 IO71
+QSO:   144 FT8 2022-08-03 2056 G0RMG         +33 IO92             G3WAG/P       +18 IO82
 END-OF-LOG:

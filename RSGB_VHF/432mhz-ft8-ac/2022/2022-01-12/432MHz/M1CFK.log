@@ -10,13 +10,13 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1908 M1CFK         +26 IO92             G0RMG         +21 IO92
-QSO:   432 DG 2022-01-12 1947 M1CFK         -13 IO92             G7PHN         -16 IO82
-QSO:   432 DG 2022-01-12 2010 M1CFK         -15 IO92             M0AHN         -06 IO91
-QSO:   432 DG 2022-01-12 2027 M1CFK         +26 IO92             M1AEC         +16 IO82
-QSO:   432 DG 2022-01-12 2037 M1CFK         +24 IO92             G0ORE         +18 IO92
-QSO:   432 DG 2022-01-12 2043 M1CFK         -11 IO92             G3YKI         -10 IO82
-QSO:   432 DG 2022-01-12 2053 M1CFK         -07 IO92             EI8KN         -15 IO62
+QSO:   432 FT8 2022-01-12 1908 M1CFK         +26 IO92             G0RMG         +21 IO92
+QSO:   432 FT8 2022-01-12 1947 M1CFK         -13 IO92             G7PHN         -16 IO82
+QSO:   432 FT8 2022-01-12 2010 M1CFK         -15 IO92             M0AHN         -06 IO91
+QSO:   432 FT8 2022-01-12 2027 M1CFK         +26 IO92             M1AEC         +16 IO82
+QSO:   432 FT8 2022-01-12 2037 M1CFK         +24 IO92             G0ORE         +18 IO92
+QSO:   432 FT8 2022-01-12 2043 M1CFK         -11 IO92             G3YKI         -10 IO82
+QSO:   432 FT8 2022-01-12 2053 M1CFK         -07 IO92             EI8KN         -15 IO62
 END-OF-LOG:

@@ -9,37 +9,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO:  3578 DG 2026-02-23 2032 PA2A          +02 -                M5N           -02 -
-QSO:  3578 DG 2026-02-23 2033 PA2A          +05 -                PH3T          -06 -
-QSO:  3578 DG 2026-02-23 2033 PA2A          +07 -                DF3QK         +00 -
-QSO:  3578 DG 2026-02-23 2038 PA2A          -08 -                M0KKM         -06 -
-QSO:  3578 DG 2026-02-23 2038 PA2A          -04 -                DO2ANW        -06 -
-QSO:  3578 DG 2026-02-23 2039 PA2A          +05 -                OK2USM        -04 -
-QSO:  3578 DG 2026-02-23 2040 PA2A          +05 -                G4CXQ         -05 -
-QSO:  3578 DG 2026-02-23 2043 PA2A          +04 -                GW5JJV        -07 -
-QSO:  3578 DG 2026-02-23 2043 PA2A          +02 -                DF3QK         -09 -
-QSO:  3578 DG 2026-02-23 2046 PA2A          +01 -                DM3CH         -03 -
-QSO:  3578 DG 2026-02-23 2047 PA2A          -05 -                MW0MAU        - -
-QSO:  3577 DG 2026-02-23 2055 PA2A          -11 -                M7CWF         -05 -
-QSO:  3577 DG 2026-02-23 2101 PA2A          +09 -                DJ9MH         -08 -
-QSO:  3577 DG 2026-02-23 2102 PA2A          -06 -                HG0NPJ        -06 -
-QSO:  3577 DG 2026-02-23 2102 PA2A          -03 -                ON8HW         -21 -
-QSO:  3577 DG 2026-02-23 2104 PA2A          +01 -                ON1AJ         -08 -
-QSO:  3577 DG 2026-02-23 2105 PA2A          -04 -                DO1GMT        -16 -
-QSO:  3577 DG 2026-02-23 2106 PA2A          -09 -                DO1DMR        +02 -
-QSO:  3578 DG 2026-02-23 2112 PA2A          -07 -                IN3OWY        -12 -
-QSO:  3578 DG 2026-02-23 2113 PA2A          -02 -                I2XLF         -06 -
-QSO:  3578 DG 2026-02-23 2114 PA2A          +00 -                G7D           -10 -
-QSO:  3578 DG 2026-02-23 2118 PA2A          -07 -                DF1KBN        -08 -
-QSO:  3578 DG 2026-02-23 2123 PA2A          -03 -                G4CTP         +05 -
-QSO:  3578 DG 2026-02-23 2124 PA2A          -03 -                DO1NJN        -13 -
-QSO:  3578 DG 2026-02-23 2125 PA2A          +03 -                PC4H          -07 -
-QSO:  3578 DG 2026-02-23 2132 PA2A          -07 -                G0LFT         +05 -
-QSO:  3578 DG 2026-02-23 2133 PA2A          +12 -                DF8QB         +08 -
-QSO:  3578 DG 2026-02-23 2135 PA2A          +06 -                GW5P          -10 -
-QSO:  3578 DG 2026-02-23 2137 PA2A          -03 -                G4BYE         -13 -
-QSO:  3578 DG 2026-02-23 2138 PA2A          -06 -                DK2OY         -11 -
-QSO:  3578 DG 2026-02-23 2149 PA2A          -01 -                G4BRK         -11 -
-QSO:  3578 DG 2026-02-23 2157 PA2A          -06 -                G6DXY         -10 -
+QSO:  3578 FT4 2026-02-23 2032 PA2A          +02 -                M5N           -02 -
+QSO:  3578 FT4 2026-02-23 2033 PA2A          +05 -                PH3T          -06 -
+QSO:  3578 FT4 2026-02-23 2033 PA2A          +07 -                DF3QK         +00 -
+QSO:  3578 FT4 2026-02-23 2038 PA2A          -08 -                M0KKM         -06 -
+QSO:  3578 FT4 2026-02-23 2038 PA2A          -04 -                DO2ANW        -06 -
+QSO:  3578 FT4 2026-02-23 2039 PA2A          +05 -                OK2USM        -04 -
+QSO:  3578 FT4 2026-02-23 2040 PA2A          +05 -                G4CXQ         -05 -
+QSO:  3578 FT4 2026-02-23 2043 PA2A          +04 -                GW5JJV        -07 -
+QSO:  3578 FT4 2026-02-23 2043 PA2A          +02 -                DF3QK         -09 -
+QSO:  3578 FT4 2026-02-23 2046 PA2A          +01 -                DM3CH         -03 -
+QSO:  3578 FT4 2026-02-23 2047 PA2A          -05 -                MW0MAU        - -
+QSO:  3577 FT4 2026-02-23 2055 PA2A          -11 -                M7CWF         -05 -
+QSO:  3577 FT4 2026-02-23 2101 PA2A          +09 -                DJ9MH         -08 -
+QSO:  3577 FT4 2026-02-23 2102 PA2A          -06 -                HG0NPJ        -06 -
+QSO:  3577 FT4 2026-02-23 2102 PA2A          -03 -                ON8HW         -21 -
+QSO:  3577 FT4 2026-02-23 2104 PA2A          +01 -                ON1AJ         -08 -
+QSO:  3577 FT4 2026-02-23 2105 PA2A          -04 -                DO1GMT        -16 -
+QSO:  3577 FT4 2026-02-23 2106 PA2A          -09 -                DO1DMR        +02 -
+QSO:  3578 FT4 2026-02-23 2112 PA2A          -07 -                IN3OWY        -12 -
+QSO:  3578 FT4 2026-02-23 2113 PA2A          -02 -                I2XLF         -06 -
+QSO:  3578 FT4 2026-02-23 2114 PA2A          +00 -                G7D           -10 -
+QSO:  3578 FT4 2026-02-23 2118 PA2A          -07 -                DF1KBN        -08 -
+QSO:  3578 FT4 2026-02-23 2123 PA2A          -03 -                G4CTP         +05 -
+QSO:  3578 FT4 2026-02-23 2124 PA2A          -03 -                DO1NJN        -13 -
+QSO:  3578 FT4 2026-02-23 2125 PA2A          +03 -                PC4H          -07 -
+QSO:  3578 FT4 2026-02-23 2132 PA2A          -07 -                G0LFT         +05 -
+QSO:  3578 FT4 2026-02-23 2133 PA2A          +12 -                DF8QB         +08 -
+QSO:  3578 FT4 2026-02-23 2135 PA2A          +06 -                GW5P          -10 -
+QSO:  3578 FT4 2026-02-23 2137 PA2A          -03 -                G4BYE         -13 -
+QSO:  3578 FT4 2026-02-23 2138 PA2A          -06 -                DK2OY         -11 -
+QSO:  3578 FT4 2026-02-23 2149 PA2A          -01 -                G4BRK         -11 -
+QSO:  3578 FT4 2026-02-23 2157 PA2A          -06 -                G6DXY         -10 -
 END-OF-LOG:

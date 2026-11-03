@@ -10,40 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220504&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1793; excluded rows=0.
-QSO:   144 DG 2022-05-04 1909 G3YKI         +14 IO82             G8EEM         +13 IO93
-QSO:   144 DG 2022-05-04 1910 G3YKI         +12 IO82             G8AOE/P       +20 IO94
-QSO:   144 DG 2022-05-04 1913 G3YKI         +27 IO82             M1EYP/P       -18 IO83
-QSO:   144 DG 2022-05-04 1917 G3YKI         +08 IO82             G0TFD         +08 IO82
-QSO:   144 DG 2022-05-04 1918 G3YKI         -14 IO82             GW4OBA        -21 IO72
-QSO:   144 DG 2022-05-04 1919 G3YKI         -10 IO82             M1CFK         -05 IO92
-QSO:   144 DG 2022-05-04 1923 G3YKI         -13 IO82             G3XBY         -18 IO92
-QSO:   144 DG 2022-05-04 1924 G3YKI         +16 IO82             G4EII         +08 IO83
-QSO:   144 DG 2022-05-04 1932 G3YKI         -01 IO82             G8VFP         -17 IO82
-QSO:   144 DG 2022-05-04 1934 G3YKI         +08 IO82             MI0IHH        -03 IO74
-QSO:   144 DG 2022-05-04 1935 G3YKI         -09 IO82             M1CFK         -09 IO92
-QSO:   144 DG 2022-05-04 1936 G3YKI         -16 IO82             GD6ICR        -12 IO74
-QSO:   144 DG 2022-05-04 1937 G3YKI         +01 IO82             G8VFP         -17 IO82
-QSO:   144 DG 2022-05-04 1941 G3YKI         -13 IO82             MM0ABM        -01 IO75
-QSO:   144 DG 2022-05-04 1947 G3YKI         -15 IO82             G0ITL         -10 IO92
-QSO:   144 DG 2022-05-04 1949 G3YKI         +14 IO82             M7REV         -04 IO82
-QSO:   144 DG 2022-05-04 1952 G3YKI         +02 IO82             MM0CEZ        -09 IO75
-QSO:   144 DG 2022-05-04 1956 G3YKI         +11 IO82             GD0TEP        +00 IO74
-QSO:   144 DG 2022-05-04 2003 G3YKI         -11 IO82             EI2GLB        -14 IO63
-QSO:   144 DG 2022-05-04 2009 G3YKI         +03 IO82             GI6ATZ        +05 IO74
-QSO:   144 DG 2022-05-04 2014 G3YKI         -01 IO82             G4KUX         +00 IO94
-QSO:   144 DG 2022-05-04 2018 G3YKI         +11 IO82             2E1FMS        -05 IO82
-QSO:   144 DG 2022-05-04 2025 G3YKI         -07 IO82             G8VFP         -20 IO82
-QSO:   144 DG 2022-05-04 2029 G3YKI         -11 IO82             2E0IEI        -15 IO81
-QSO:   144 DG 2022-05-04 2031 G3YKI         -01 IO82             G0LGS         -15 IO81
-QSO:   144 DG 2022-05-04 2034 G3YKI         +01 IO82             G0FEH         -12 IO92
-QSO:   144 DG 2022-05-04 2035 G3YKI         -16 IO82             G6PAP         -07 IO92
-QSO:   144 DG 2022-05-04 2039 G3YKI         -04 IO82             G0ISX         -15 IO93
-QSO:   144 DG 2022-05-04 2040 G3YKI         -05 IO82             G0DJA         -07 IO93
-QSO:   144 DG 2022-05-04 2042 G3YKI         -11 IO82             M0RTQ         -08 IO93
-QSO:   144 DG 2022-05-04 2045 G3YKI         -02 IO82             G0BSX         -04 IO93
-QSO:   144 DG 2022-05-04 2047 G3YKI         -11 IO82             EI4GGB        -03 IO63
-QSO:   144 DG 2022-05-04 2051 G3YKI         -02 IO82             G1GEY         -17 IO94
-QSO:   144 DG 2022-05-04 2056 G3YKI         -11 IO82             MM0CKK        -06 IO75
+QSO:   144 FT8 2022-05-04 1909 G3YKI         +14 IO82             G8EEM         +13 IO93
+QSO:   144 FT8 2022-05-04 1910 G3YKI         +12 IO82             G8AOE/P       +20 IO94
+QSO:   144 FT8 2022-05-04 1913 G3YKI         +27 IO82             M1EYP/P       -18 IO83
+QSO:   144 FT8 2022-05-04 1917 G3YKI         +08 IO82             G0TFD         +08 IO82
+QSO:   144 FT8 2022-05-04 1918 G3YKI         -14 IO82             GW4OBA        -21 IO72
+QSO:   144 FT8 2022-05-04 1919 G3YKI         -10 IO82             M1CFK         -05 IO92
+QSO:   144 FT8 2022-05-04 1923 G3YKI         -13 IO82             G3XBY         -18 IO92
+QSO:   144 FT8 2022-05-04 1924 G3YKI         +16 IO82             G4EII         +08 IO83
+QSO:   144 FT8 2022-05-04 1932 G3YKI         -01 IO82             G8VFP         -17 IO82
+QSO:   144 FT8 2022-05-04 1934 G3YKI         +08 IO82             MI0IHH        -03 IO74
+QSO:   144 FT8 2022-05-04 1935 G3YKI         -09 IO82             M1CFK         -09 IO92
+QSO:   144 FT8 2022-05-04 1936 G3YKI         -16 IO82             GD6ICR        -12 IO74
+QSO:   144 FT8 2022-05-04 1937 G3YKI         +01 IO82             G8VFP         -17 IO82
+QSO:   144 FT8 2022-05-04 1941 G3YKI         -13 IO82             MM0ABM        -01 IO75
+QSO:   144 FT8 2022-05-04 1947 G3YKI         -15 IO82             G0ITL         -10 IO92
+QSO:   144 FT8 2022-05-04 1949 G3YKI         +14 IO82             M7REV         -04 IO82
+QSO:   144 FT8 2022-05-04 1952 G3YKI         +02 IO82             MM0CEZ        -09 IO75
+QSO:   144 FT8 2022-05-04 1956 G3YKI         +11 IO82             GD0TEP        +00 IO74
+QSO:   144 FT8 2022-05-04 2003 G3YKI         -11 IO82             EI2GLB        -14 IO63
+QSO:   144 FT8 2022-05-04 2009 G3YKI         +03 IO82             GI6ATZ        +05 IO74
+QSO:   144 FT8 2022-05-04 2014 G3YKI         -01 IO82             G4KUX         +00 IO94
+QSO:   144 FT8 2022-05-04 2018 G3YKI         +11 IO82             2E1FMS        -05 IO82
+QSO:   144 FT8 2022-05-04 2025 G3YKI         -07 IO82             G8VFP         -20 IO82
+QSO:   144 FT8 2022-05-04 2029 G3YKI         -11 IO82             2E0IEI        -15 IO81
+QSO:   144 FT8 2022-05-04 2031 G3YKI         -01 IO82             G0LGS         -15 IO81
+QSO:   144 FT8 2022-05-04 2034 G3YKI         +01 IO82             G0FEH         -12 IO92
+QSO:   144 FT8 2022-05-04 2035 G3YKI         -16 IO82             G6PAP         -07 IO92
+QSO:   144 FT8 2022-05-04 2039 G3YKI         -04 IO82             G0ISX         -15 IO93
+QSO:   144 FT8 2022-05-04 2040 G3YKI         -05 IO82             G0DJA         -07 IO93
+QSO:   144 FT8 2022-05-04 2042 G3YKI         -11 IO82             M0RTQ         -08 IO93
+QSO:   144 FT8 2022-05-04 2045 G3YKI         -02 IO82             G0BSX         -04 IO93
+QSO:   144 FT8 2022-05-04 2047 G3YKI         -11 IO82             EI4GGB        -03 IO63
+QSO:   144 FT8 2022-05-04 2051 G3YKI         -02 IO82             G1GEY         -17 IO94
+QSO:   144 FT8 2022-05-04 2056 G3YKI         -11 IO82             MM0CKK        -06 IO75
 END-OF-LOG:

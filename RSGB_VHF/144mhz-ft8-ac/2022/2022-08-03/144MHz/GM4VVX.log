@@ -10,20 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220803&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1776; excluded rows=3.
-QSO:   144 DG 2022-08-03 1903 GM4VVX        +10 IO78             GM0HTT        +04 IO89
-QSO:   144 DG 2022-08-03 1906 GM4VVX        +11 IO78             GM8IEM        -03 IO78
-QSO:   144 DG 2022-08-03 1908 GM4VVX        -10 IO78             GM7PKT        +03 IO76
-QSO:   144 DG 2022-08-03 1910 GM4VVX        -13 IO78             MM0ULL        -03 IO77
-QSO:   144 DG 2022-08-03 1919 GM4VVX        -20 IO78             GM0EWX        -08 IO67
-QSO:   144 DG 2022-08-03 1920 GM4VVX        +08 IO78             GI6ATZ        +09 IO74
-QSO:   144 DG 2022-08-03 1922 GM4VVX        +06 IO78             GM0HBK        +10 IO77
-QSO:   144 DG 2022-08-03 1926 GM4VVX        -17 IO78             G4YTD         -08 IO84
-QSO:   144 DG 2022-08-03 1938 GM4VVX        -23 IO78             GM8MJV        -19 IO85
-QSO:   144 DG 2022-08-03 1940 GM4VVX        -01 IO78             G4EII         -12 IO83
-QSO:   144 DG 2022-08-03 1948 GM4VVX        -08 IO78             GM4JTJ        -11 IO86
-QSO:   144 DG 2022-08-03 1949 GM4VVX        -08 IO78             G4KUX         -15 IO94
-QSO:   144 DG 2022-08-03 2034 GM4VVX        +00 IO78             GM4AOS        +06 IO76
-QSO:   144 DG 2022-08-03 2051 GM4VVX        -16 IO78             G0HIK         -15 IO84
+QSO:   144 FT8 2022-08-03 1903 GM4VVX        +10 IO78             GM0HTT        +04 IO89
+QSO:   144 FT8 2022-08-03 1906 GM4VVX        +11 IO78             GM8IEM        -03 IO78
+QSO:   144 FT8 2022-08-03 1908 GM4VVX        -10 IO78             GM7PKT        +03 IO76
+QSO:   144 FT8 2022-08-03 1910 GM4VVX        -13 IO78             MM0ULL        -03 IO77
+QSO:   144 FT8 2022-08-03 1919 GM4VVX        -20 IO78             GM0EWX        -08 IO67
+QSO:   144 FT8 2022-08-03 1920 GM4VVX        +08 IO78             GI6ATZ        +09 IO74
+QSO:   144 FT8 2022-08-03 1922 GM4VVX        +06 IO78             GM0HBK        +10 IO77
+QSO:   144 FT8 2022-08-03 1926 GM4VVX        -17 IO78             G4YTD         -08 IO84
+QSO:   144 FT8 2022-08-03 1938 GM4VVX        -23 IO78             GM8MJV        -19 IO85
+QSO:   144 FT8 2022-08-03 1940 GM4VVX        -01 IO78             G4EII         -12 IO83
+QSO:   144 FT8 2022-08-03 1948 GM4VVX        -08 IO78             GM4JTJ        -11 IO86
+QSO:   144 FT8 2022-08-03 1949 GM4VVX        -08 IO78             G4KUX         -15 IO94
+QSO:   144 FT8 2022-08-03 2034 GM4VVX        +00 IO78             GM4AOS        +06 IO76
+QSO:   144 FT8 2022-08-03 2051 GM4VVX        -16 IO78             G0HIK         -15 IO84
 END-OF-LOG:

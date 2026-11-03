@@ -10,27 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220601&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=921; excluded rows=0.
-QSO:   144 DG 2022-06-01 1903 2E0DBS        -19 JO02             F4IWY         +02 JO10
-QSO:   144 DG 2022-06-01 1905 2E0DBS        +05 JO02             G0ODR         +31 JO02
-QSO:   144 DG 2022-06-01 1907 2E0DBS        -15 JO02             GQ7KHV        -17 IO93
-QSO:   144 DG 2022-06-01 1912 2E0DBS        -15 JO02             M0DGD         -12 JO01
-QSO:   144 DG 2022-06-01 1915 2E0DBS        -22 JO02             M0SKT         -19 IO92
-QSO:   144 DG 2022-06-01 1917 2E0DBS        -17 JO02             M7APV         -08 JO01
-QSO:   144 DG 2022-06-01 1923 2E0DBS        -18 JO02             MQ0XTY        -13 JO01
-QSO:   144 DG 2022-06-01 1924 2E0DBS        -16 JO02             G4FFY         -03 JO01
-QSO:   144 DG 2022-06-01 1938 2E0DBS        -13 JO02             PE1KL         -14 JO21
-QSO:   144 DG 2022-06-01 1944 2E0DBS        -20 JO02             G1GEY         -20 IO94
-QSO:   144 DG 2022-06-01 1952 2E0DBS        -10 JO02             G8EEM         -05 IO93
-QSO:   144 DG 2022-06-01 1953 2E0DBS        -12 JO02             GQ4NBS        -10 JO02
-QSO:   144 DG 2022-06-01 2009 2E0DBS        -09 JO02             GQ7WIR        -12 JO01
-QSO:   144 DG 2022-06-01 2016 2E0DBS        -20 JO02             GI6ATZ        -12 IO74
-QSO:   144 DG 2022-06-01 2019 2E0DBS        -15 JO02             G7LRQ         -22 IO91
-QSO:   144 DG 2022-06-01 2024 2E0DBS        -22 JO02             PI4TX         -16 JO22
-QSO:   144 DG 2022-06-01 2028 2E0DBS        -21 JO02             G8VHI         -08 IO92
-QSO:   144 DG 2022-06-01 2033 2E0DBS        -17 JO02             PA5COR        -15 JO23
-QSO:   144 DG 2022-06-01 2037 2E0DBS        -15 JO02             GQ4NVT        -07 JO01
-QSO:   144 DG 2022-06-01 2040 2E0DBS        -25 JO02             PA2WDR        -19 JO21
-QSO:   144 DG 2022-06-01 2045 2E0DBS        -13 JO02             GB0QPJ        -10 JO01
+QSO:   144 FT8 2022-06-01 1903 2E0DBS        -19 JO02             F4IWY         +02 JO10
+QSO:   144 FT8 2022-06-01 1905 2E0DBS        +05 JO02             G0ODR         +31 JO02
+QSO:   144 FT8 2022-06-01 1907 2E0DBS        -15 JO02             GQ7KHV        -17 IO93
+QSO:   144 FT8 2022-06-01 1912 2E0DBS        -15 JO02             M0DGD         -12 JO01
+QSO:   144 FT8 2022-06-01 1915 2E0DBS        -22 JO02             M0SKT         -19 IO92
+QSO:   144 FT8 2022-06-01 1917 2E0DBS        -17 JO02             M7APV         -08 JO01
+QSO:   144 FT8 2022-06-01 1923 2E0DBS        -18 JO02             MQ0XTY        -13 JO01
+QSO:   144 FT8 2022-06-01 1924 2E0DBS        -16 JO02             G4FFY         -03 JO01
+QSO:   144 FT8 2022-06-01 1938 2E0DBS        -13 JO02             PE1KL         -14 JO21
+QSO:   144 FT8 2022-06-01 1944 2E0DBS        -20 JO02             G1GEY         -20 IO94
+QSO:   144 FT8 2022-06-01 1952 2E0DBS        -10 JO02             G8EEM         -05 IO93
+QSO:   144 FT8 2022-06-01 1953 2E0DBS        -12 JO02             GQ4NBS        -10 JO02
+QSO:   144 FT8 2022-06-01 2009 2E0DBS        -09 JO02             GQ7WIR        -12 JO01
+QSO:   144 FT8 2022-06-01 2016 2E0DBS        -20 JO02             GI6ATZ        -12 IO74
+QSO:   144 FT8 2022-06-01 2019 2E0DBS        -15 JO02             G7LRQ         -22 IO91
+QSO:   144 FT8 2022-06-01 2024 2E0DBS        -22 JO02             PI4TX         -16 JO22
+QSO:   144 FT8 2022-06-01 2028 2E0DBS        -21 JO02             G8VHI         -08 IO92
+QSO:   144 FT8 2022-06-01 2033 2E0DBS        -17 JO02             PA5COR        -15 JO23
+QSO:   144 FT8 2022-06-01 2037 2E0DBS        -15 JO02             GQ4NVT        -07 JO01
+QSO:   144 FT8 2022-06-01 2040 2E0DBS        -25 JO02             PA2WDR        -19 JO21
+QSO:   144 FT8 2022-06-01 2045 2E0DBS        -13 JO02             GB0QPJ        -10 JO01
 END-OF-LOG:

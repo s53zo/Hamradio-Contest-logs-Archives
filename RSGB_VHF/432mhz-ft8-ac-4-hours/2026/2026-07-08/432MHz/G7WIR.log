@@ -10,31 +10,31 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=260708&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=378; excluded rows=0.
-QSO:   432 DG 2026-07-08 1729 G7WIR         -10 JO01             G0GJV         -03 IO91
-QSO:   432 DG 2026-07-08 1731 G7WIR         -01 JO01             2E0MRK        -06 IO91
-QSO:   432 DG 2026-07-08 1735 G7WIR         +19 JO01             G0XDI         +13 IO91
-QSO:   432 DG 2026-07-08 1746 G7WIR         -06 JO01             PH2M          -17 JO22
-QSO:   432 DG 2026-07-08 1750 G7WIR         -16 JO01             PI4VPO        -11 JO21
-QSO:   432 DG 2026-07-08 1802 G7WIR         -16 JO01             G1HJW         -20 JO01
-QSO:   432 DG 2026-07-08 1806 G7WIR         +10 JO01             G7LRQ         +01 JO03
-QSO:   432 DG 2026-07-08 1810 G7WIR         +06 JO01             M0SSK         +11 JO01
-QSO:   432 DG 2026-07-08 1843 G7WIR         -12 JO01             G0BIX         -12 JO01
-QSO:   432 DG 2026-07-08 1903 G7WIR         -14 JO01             G3TMG         -15 IO90
-QSO:   432 DG 2026-07-08 1911 G7WIR         +08 JO01             G7RDX         -01 IO91
-QSO:   432 DG 2026-07-08 1916 G7WIR         +20 JO01             G3WZK         +27 IO91
-QSO:   432 DG 2026-07-08 1920 G7WIR         -15 JO01             G8SEI         -24 IO92
-QSO:   432 DG 2026-07-08 1924 G7WIR         -14 JO01             G4ZTR         -09 JO01
-QSO:   432 DG 2026-07-08 1924 G7WIR         +02 JO01             G3YDY         -14 JO01
-QSO:   432 DG 2026-07-08 1935 G7WIR         -18 JO01             G8IXK         -10 IO91
-QSO:   432 DG 2026-07-08 1942 G7WIR         +00 JO01             G6HIE         +01 JO00
-QSO:   432 DG 2026-07-08 2009 G7WIR         -14 JO01             G0HSP         -12 IO90
-QSO:   432 DG 2026-07-08 2013 G7WIR         -17 JO01             G7ICV         -05 JO01
-QSO:   432 DG 2026-07-08 2014 G7WIR         -01 JO01             G0BIX         -08 JO01
-QSO:   432 DG 2026-07-08 2015 G7WIR         +12 JO01             M0MHX         +22 JO01
-QSO:   432 DG 2026-07-08 2021 G7WIR         +04 JO01             G8OVZ/P       +14 IO92
-QSO:   432 DG 2026-07-08 2036 G7WIR         -17 JO01             EI2FG         -17 IO61
-QSO:   432 DG 2026-07-08 2049 G7WIR         -13 JO01             G0JDL         -10 JO02
-QSO:   432 DG 2026-07-08 2051 G7WIR         -12 JO01             PA7ML         -20 JO22
+QSO:   432 FT8 2026-07-08 1729 G7WIR         -10 JO01             G0GJV         -03 IO91
+QSO:   432 FT8 2026-07-08 1731 G7WIR         -01 JO01             2E0MRK        -06 IO91
+QSO:   432 FT8 2026-07-08 1735 G7WIR         +19 JO01             G0XDI         +13 IO91
+QSO:   432 FT8 2026-07-08 1746 G7WIR         -06 JO01             PH2M          -17 JO22
+QSO:   432 FT8 2026-07-08 1750 G7WIR         -16 JO01             PI4VPO        -11 JO21
+QSO:   432 FT8 2026-07-08 1802 G7WIR         -16 JO01             G1HJW         -20 JO01
+QSO:   432 FT8 2026-07-08 1806 G7WIR         +10 JO01             G7LRQ         +01 JO03
+QSO:   432 FT8 2026-07-08 1810 G7WIR         +06 JO01             M0SSK         +11 JO01
+QSO:   432 FT8 2026-07-08 1843 G7WIR         -12 JO01             G0BIX         -12 JO01
+QSO:   432 FT8 2026-07-08 1903 G7WIR         -14 JO01             G3TMG         -15 IO90
+QSO:   432 FT8 2026-07-08 1911 G7WIR         +08 JO01             G7RDX         -01 IO91
+QSO:   432 FT8 2026-07-08 1916 G7WIR         +20 JO01             G3WZK         +27 IO91
+QSO:   432 FT8 2026-07-08 1920 G7WIR         -15 JO01             G8SEI         -24 IO92
+QSO:   432 FT8 2026-07-08 1924 G7WIR         -14 JO01             G4ZTR         -09 JO01
+QSO:   432 FT8 2026-07-08 1924 G7WIR         +02 JO01             G3YDY         -14 JO01
+QSO:   432 FT8 2026-07-08 1935 G7WIR         -18 JO01             G8IXK         -10 IO91
+QSO:   432 FT8 2026-07-08 1942 G7WIR         +00 JO01             G6HIE         +01 JO00
+QSO:   432 FT8 2026-07-08 2009 G7WIR         -14 JO01             G0HSP         -12 IO90
+QSO:   432 FT8 2026-07-08 2013 G7WIR         -17 JO01             G7ICV         -05 JO01
+QSO:   432 FT8 2026-07-08 2014 G7WIR         -01 JO01             G0BIX         -08 JO01
+QSO:   432 FT8 2026-07-08 2015 G7WIR         +12 JO01             M0MHX         +22 JO01
+QSO:   432 FT8 2026-07-08 2021 G7WIR         +04 JO01             G8OVZ/P       +14 IO92
+QSO:   432 FT8 2026-07-08 2036 G7WIR         -17 JO01             EI2FG         -17 IO61
+QSO:   432 FT8 2026-07-08 2049 G7WIR         -13 JO01             G0JDL         -10 JO02
+QSO:   432 FT8 2026-07-08 2051 G7WIR         -12 JO01             PA7ML         -20 JO22
 END-OF-LOG:

@@ -10,33 +10,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220309&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=880; excluded rows=0.
-QSO:   432 DG 2022-03-09 1900 G0BIX         -03 JO01             G7LRQ         +00 IO91
-QSO:   432 DG 2022-03-09 1902 G0BIX         -03 JO01             G7WIR         -02 JO01
-QSO:   432 DG 2022-03-09 1904 G0BIX         -11 JO01             M0SEU         +02 JO01
-QSO:   432 DG 2022-03-09 1911 G0BIX         +05 JO01             GW4HDF        +03 IO81
-QSO:   432 DG 2022-03-09 1913 G0BIX         -16 JO01             2E0JPO        -14 IO91
-QSO:   432 DG 2022-03-09 1918 G0BIX         +11 JO01             M0DGD         -03 JO01
-QSO:   432 DG 2022-03-09 1920 G0BIX         +11 JO01             M0UGA/P       +21 IO92
-QSO:   432 DG 2022-03-09 1922 G0BIX         -12 JO01             G4EII         -02 IO83
-QSO:   432 DG 2022-03-09 1930 G0BIX         -02 JO01             G3SED         -14 IO90
-QSO:   432 DG 2022-03-09 1932 G0BIX         -09 JO01             M0XTY         +03 JO01
-QSO:   432 DG 2022-03-09 1936 G0BIX         -02 JO01             G0XDI         -07 IO91
-QSO:   432 DG 2022-03-09 1938 G0BIX         -05 JO01             G3YDY         -03 JO01
-QSO:   432 DG 2022-03-09 1941 G0BIX         +04 JO01             G8SEI         -15 IO92
-QSO:   432 DG 2022-03-09 1945 G0BIX         -16 JO01             M0NVS         -10 IO91
-QSO:   432 DG 2022-03-09 1947 G0BIX         +01 JO01             M7APR         -06 IO91
-QSO:   432 DG 2022-03-09 1952 G0BIX         -09 JO01             M0AHN         -02 IO91
-QSO:   432 DG 2022-03-09 1955 G0BIX         -12 JO01             GI4SNA        -14 IO64
-QSO:   432 DG 2022-03-09 2005 G0BIX         -10 JO01             EI8KN         -16 IO62
-QSO:   432 DG 2022-03-09 2006 G0BIX         -07 JO01             MW0MZM        -10 IO81
-QSO:   432 DG 2022-03-09 2014 G0BIX         +01 JO01             G3WZK         +01 IO91
-QSO:   432 DG 2022-03-09 2017 G0BIX         +17 JO01             G7LRQ         +14 IO91
-QSO:   432 DG 2022-03-09 2019 G0BIX         -05 JO01             G4RQI         -03 IO93
-QSO:   432 DG 2022-03-09 2035 G0BIX         -16 JO01             G4VPD         -04 IO92
-QSO:   432 DG 2022-03-09 2037 G0BIX         +04 JO01             G3MXH         -14 JO02
-QSO:   432 DG 2022-03-09 2039 G0BIX         -09 JO01             G0ISX         -20 IO93
-QSO:   432 DG 2022-03-09 2044 G0BIX         -11 JO01             DL6ZG         -06 JO21
-QSO:   432 DG 2022-03-09 2046 G0BIX         -02 JO01             DL1KDA        -05 JO30
+QSO:   432 FT8 2022-03-09 1900 G0BIX         -03 JO01             G7LRQ         +00 IO91
+QSO:   432 FT8 2022-03-09 1902 G0BIX         -03 JO01             G7WIR         -02 JO01
+QSO:   432 FT8 2022-03-09 1904 G0BIX         -11 JO01             M0SEU         +02 JO01
+QSO:   432 FT8 2022-03-09 1911 G0BIX         +05 JO01             GW4HDF        +03 IO81
+QSO:   432 FT8 2022-03-09 1913 G0BIX         -16 JO01             2E0JPO        -14 IO91
+QSO:   432 FT8 2022-03-09 1918 G0BIX         +11 JO01             M0DGD         -03 JO01
+QSO:   432 FT8 2022-03-09 1920 G0BIX         +11 JO01             M0UGA/P       +21 IO92
+QSO:   432 FT8 2022-03-09 1922 G0BIX         -12 JO01             G4EII         -02 IO83
+QSO:   432 FT8 2022-03-09 1930 G0BIX         -02 JO01             G3SED         -14 IO90
+QSO:   432 FT8 2022-03-09 1932 G0BIX         -09 JO01             M0XTY         +03 JO01
+QSO:   432 FT8 2022-03-09 1936 G0BIX         -02 JO01             G0XDI         -07 IO91
+QSO:   432 FT8 2022-03-09 1938 G0BIX         -05 JO01             G3YDY         -03 JO01
+QSO:   432 FT8 2022-03-09 1941 G0BIX         +04 JO01             G8SEI         -15 IO92
+QSO:   432 FT8 2022-03-09 1945 G0BIX         -16 JO01             M0NVS         -10 IO91
+QSO:   432 FT8 2022-03-09 1947 G0BIX         +01 JO01             M7APR         -06 IO91
+QSO:   432 FT8 2022-03-09 1952 G0BIX         -09 JO01             M0AHN         -02 IO91
+QSO:   432 FT8 2022-03-09 1955 G0BIX         -12 JO01             GI4SNA        -14 IO64
+QSO:   432 FT8 2022-03-09 2005 G0BIX         -10 JO01             EI8KN         -16 IO62
+QSO:   432 FT8 2022-03-09 2006 G0BIX         -07 JO01             MW0MZM        -10 IO81
+QSO:   432 FT8 2022-03-09 2014 G0BIX         +01 JO01             G3WZK         +01 IO91
+QSO:   432 FT8 2022-03-09 2017 G0BIX         +17 JO01             G7LRQ         +14 IO91
+QSO:   432 FT8 2022-03-09 2019 G0BIX         -05 JO01             G4RQI         -03 IO93
+QSO:   432 FT8 2022-03-09 2035 G0BIX         -16 JO01             G4VPD         -04 IO92
+QSO:   432 FT8 2022-03-09 2037 G0BIX         +04 JO01             G3MXH         -14 JO02
+QSO:   432 FT8 2022-03-09 2039 G0BIX         -09 JO01             G0ISX         -20 IO93
+QSO:   432 FT8 2022-03-09 2044 G0BIX         -11 JO01             DL6ZG         -06 JO21
+QSO:   432 FT8 2022-03-09 2046 G0BIX         -02 JO01             DL1KDA        -05 JO30
 END-OF-LOG:

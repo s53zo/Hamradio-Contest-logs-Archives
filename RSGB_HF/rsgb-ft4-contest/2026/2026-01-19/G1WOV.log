@@ -10,11 +10,12 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO:  7049 DG 2026-01-19 2005 G1WOV         +18 -                G7NJX         +18 -
-QSO:  7049 DG 2026-01-19 2010 G1WOV         -13 -                CR6WWA        -09 -
-QSO:  7049 DG 2026-01-19 2012 G1WOV         -13 -                GW4JBO        -08 -
-QSO:  7049 DG 2026-01-19 2013 G1WOV         +00 -                GW5P          +03 -
-QSO: 21141 DG 2026-01-19 2124 G1WOV         +18 -                G7NJX         +17 -
-QSO:  3576 DG 2026-01-19 2135 G1WOV         +02 -                EG7WWA        +01 -
+QSO:  7049 FT4 2026-01-19 2005 G1WOV         +18 -                G7NJX         +18 -
+QSO:  7049 FT4 2026-01-19 2010 G1WOV         -13 -                CR6WWA        -09 -
+QSO:  7049 FT4 2026-01-19 2012 G1WOV         -13 -                GW4JBO        -08 -
+QSO:  7049 FT4 2026-01-19 2013 G1WOV         +00 -                GW5P          +03 -
+QSO: 21141 FT4 2026-01-19 2124 G1WOV         +18 -                G7NJX         +17 -
+QSO:  3576 FT4 2026-01-19 2135 G1WOV         +02 -                EG7WWA        +01 -
 END-OF-LOG:

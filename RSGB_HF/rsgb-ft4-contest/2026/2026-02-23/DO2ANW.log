@@ -10,26 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO:  3576 DG 2026-02-23 1728 DO2ANW        +00 -                F4ASJ         +04 -
-QSO:  3576 DG 2026-02-23 1729 DO2ANW        -10 -                SV3CEZ        -02 -
-QSO:  3577 DG 2026-02-23 1857 DO2ANW        -02 -                SQ9DJQ        -02 -
-QSO:  3578 DG 2026-02-23 2001 DO2ANW        -09 -                DA7T          -06 -
-QSO:  3578 DG 2026-02-23 2003 DO2ANW        +01 -                SE6K          +09 -
-QSO:  3578 DG 2026-02-23 2006 DO2ANW        -11 -                DK1XAM        +13 -
-QSO:  3578 DG 2026-02-23 2009 DO2ANW        +03 -                DO8SD         +23 -
-QSO:  3578 DG 2026-02-23 2010 DO2ANW        -06 -                G4ARI         -04 -
-QSO:  3577 DG 2026-02-23 2016 DO2ANW        -08 -                DB100FT       +08 -
-QSO:  3578 DG 2026-02-23 2023 DO2ANW        -07 -                DO1GMT        -09 -
-QSO:  3577 DG 2026-02-23 2028 DO2ANW        +04 -                DO1DMR        +15 -
-QSO:  3577 DG 2026-02-23 2028 DO2ANW        +03 -                ON8HW         -05 -
-QSO:  3578 DG 2026-02-23 2035 DO2ANW        +01 -                M5RJC         -08 -
-QSO:  3576 DG 2026-02-23 2037 DO2ANW        -11 -                M7CWF         -10 -
-QSO:  3578 DG 2026-02-23 2038 DO2ANW        -06 -                PA2A          -04 -
-QSO:  3576 DG 2026-02-23 2040 DO2ANW        -03 -                DO1ARD        +05 -
-QSO:  3576 DG 2026-02-23 2041 DO2ANW        +00 -                HG0NPJ        +03 -
-QSO:  3578 DG 2026-02-23 2044 DO2ANW        -04 -                G2M           -10 -
-QSO:  3578 DG 2026-02-23 2044 DO2ANW        -10 -                PC4H          -07 -
-QSO:  3577 DG 2026-02-23 2055 DO2ANW        +03 -                II0LOVE       -11 -
-QSO:  3577 DG 2026-02-23 2059 DO2ANW        -11 -                SV1DKR        -14 -
+QSO:  3576 FT4 2026-02-23 1728 DO2ANW        +00 -                F4ASJ         +04 -
+QSO:  3576 FT4 2026-02-23 1729 DO2ANW        -10 -                SV3CEZ        -02 -
+QSO:  3577 FT4 2026-02-23 1857 DO2ANW        -02 -                SQ9DJQ        -02 -
+QSO:  3578 FT4 2026-02-23 2001 DO2ANW        -09 -                DA7T          -06 -
+QSO:  3578 FT4 2026-02-23 2003 DO2ANW        +01 -                SE6K          +09 -
+QSO:  3578 FT4 2026-02-23 2006 DO2ANW        -11 -                DK1XAM        +13 -
+QSO:  3578 FT4 2026-02-23 2009 DO2ANW        +03 -                DO8SD         +23 -
+QSO:  3578 FT4 2026-02-23 2010 DO2ANW        -06 -                G4ARI         -04 -
+QSO:  3577 FT4 2026-02-23 2016 DO2ANW        -08 -                DB100FT       +08 -
+QSO:  3578 FT4 2026-02-23 2023 DO2ANW        -07 -                DO1GMT        -09 -
+QSO:  3577 FT4 2026-02-23 2028 DO2ANW        +04 -                DO1DMR        +15 -
+QSO:  3577 FT4 2026-02-23 2028 DO2ANW        +03 -                ON8HW         -05 -
+QSO:  3578 FT4 2026-02-23 2035 DO2ANW        +01 -                M5RJC         -08 -
+QSO:  3576 FT4 2026-02-23 2037 DO2ANW        -11 -                M7CWF         -10 -
+QSO:  3578 FT4 2026-02-23 2038 DO2ANW        -06 -                PA2A          -04 -
+QSO:  3576 FT4 2026-02-23 2040 DO2ANW        -03 -                DO1ARD        +05 -
+QSO:  3576 FT4 2026-02-23 2041 DO2ANW        +00 -                HG0NPJ        +03 -
+QSO:  3578 FT4 2026-02-23 2044 DO2ANW        -04 -                G2M           -10 -
+QSO:  3578 FT4 2026-02-23 2044 DO2ANW        -10 -                PC4H          -07 -
+QSO:  3577 FT4 2026-02-23 2055 DO2ANW        +03 -                II0LOVE       -11 -
+QSO:  3577 FT4 2026-02-23 2059 DO2ANW        -11 -                SV1DKR        -14 -
 END-OF-LOG:

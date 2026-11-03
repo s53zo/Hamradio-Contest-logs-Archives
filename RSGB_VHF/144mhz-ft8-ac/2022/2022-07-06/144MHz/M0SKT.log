@@ -10,20 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220706&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1581; excluded rows=0.
-QSO:   144 DG 2022-07-06 1902 M0SKT         -01 IO92             G4PDF         -11 IO93
-QSO:   144 DG 2022-07-06 1903 M0SKT         -09 IO92             M7ICL         -01 JO02
-QSO:   144 DG 2022-07-06 1906 M0SKT         -11 IO92             G4HGV         -13 IO91
-QSO:   144 DG 2022-07-06 1908 M0SKT         -07 IO92             2E0DBS        -21 JO02
-QSO:   144 DG 2022-07-06 1930 M0SKT         -08 IO92             M0XTY         -09 JO01
-QSO:   144 DG 2022-07-06 1943 M0SKT         -10 IO92             G3XBY         -15 IO92
-QSO:   144 DG 2022-07-06 1944 M0SKT         -13 IO92             G4MHJ         -01 JO01
-QSO:   144 DG 2022-07-06 1949 M0SKT         -14 IO92             M7APV         -12 JO01
-QSO:   144 DG 2022-07-06 2009 M0SKT         -10 IO92             M1SJE         -16 IO92
-QSO:   144 DG 2022-07-06 2017 M0SKT         -11 IO92             M0IEP         -05 IO91
-QSO:   144 DG 2022-07-06 2030 M0SKT         -06 IO92             G7LRQ         -20 IO91
-QSO:   144 DG 2022-07-06 2049 M0SKT         -09 IO92             G1JSF         -17 IO91
-QSO:   144 DG 2022-07-06 2051 M0SKT         -18 IO92             G8CRB         -20 JO02
-QSO:   144 DG 2022-07-06 2058 M0SKT         -17 IO92             G0HDV         -13 IO93
+QSO:   144 FT8 2022-07-06 1902 M0SKT         -01 IO92             G4PDF         -11 IO93
+QSO:   144 FT8 2022-07-06 1903 M0SKT         -09 IO92             M7ICL         -01 JO02
+QSO:   144 FT8 2022-07-06 1906 M0SKT         -11 IO92             G4HGV         -13 IO91
+QSO:   144 FT8 2022-07-06 1908 M0SKT         -07 IO92             2E0DBS        -21 JO02
+QSO:   144 FT8 2022-07-06 1930 M0SKT         -08 IO92             M0XTY         -09 JO01
+QSO:   144 FT8 2022-07-06 1943 M0SKT         -10 IO92             G3XBY         -15 IO92
+QSO:   144 FT8 2022-07-06 1944 M0SKT         -13 IO92             G4MHJ         -01 JO01
+QSO:   144 FT8 2022-07-06 1949 M0SKT         -14 IO92             M7APV         -12 JO01
+QSO:   144 FT8 2022-07-06 2009 M0SKT         -10 IO92             M1SJE         -16 IO92
+QSO:   144 FT8 2022-07-06 2017 M0SKT         -11 IO92             M0IEP         -05 IO91
+QSO:   144 FT8 2022-07-06 2030 M0SKT         -06 IO92             G7LRQ         -20 IO91
+QSO:   144 FT8 2022-07-06 2049 M0SKT         -09 IO92             G1JSF         -17 IO91
+QSO:   144 FT8 2022-07-06 2051 M0SKT         -18 IO92             G8CRB         -20 JO02
+QSO:   144 FT8 2022-07-06 2058 M0SKT         -17 IO92             G0HDV         -13 IO93
 END-OF-LOG:

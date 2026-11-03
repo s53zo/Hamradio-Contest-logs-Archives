@@ -9,34 +9,35 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260427&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7294; excluded rows=0.
-QSO:  7049 DG 2026-04-27 1910 M0JQT         +13 -                PD2NBE        -11 -
-QSO:  7049 DG 2026-04-27 1912 M0JQT         -07 -                G1WOV         +04 -
-QSO:  7049 DG 2026-04-27 1914 M0JQT         +13 -                G4DBW         -02 -
-QSO:  7049 DG 2026-04-27 1914 M0JQT         -01 -                DK3TNA        -14 -
-QSO:  7049 DG 2026-04-27 1916 M0JQT         +05 -                M0PAW         -04 -
-QSO:  7049 DG 2026-04-27 1917 M0JQT         -06 -                ON7PM         -07 -
-QSO:  7049 DG 2026-04-27 1920 M0JQT         +14 -                M5RJC         +03 -
-QSO:  7049 DG 2026-04-27 1925 M0JQT         +06 -                HB9AWS        -17 -
-QSO:  7049 DG 2026-04-27 1930 M0JQT         +01 -                G4ARI         -08 -
-QSO:  7049 DG 2026-04-27 1931 M0JQT         -01 -                DF4ZL         -12 -
-QSO:  3577 DG 2026-04-27 1942 M0JQT         -12 -                M0HWO         +23 -
-QSO:  3577 DG 2026-04-27 1943 M0JQT         -01 -                G3YJQ         +00 -
-QSO:  3577 DG 2026-04-27 1944 M0JQT         +03 -                G4ARI         -03 -
-QSO:  3577 DG 2026-04-27 1945 M0JQT         +03 -                DO4KT         +01 -
-QSO:  3577 DG 2026-04-27 1946 M0JQT         +02 -                DO1ARD        -02 -
-QSO:  3577 DG 2026-04-27 1948 M0JQT         +05 -                G4OZG         +03 -
-QSO:  3577 DG 2026-04-27 1949 M0JQT         -04 -                DK3TNA        -08 -
-QSO:  3577 DG 2026-04-27 1949 M0JQT         -04 -                DK3TNA        -08 -
-QSO:  3577 DG 2026-04-27 1950 M0JQT         -07 -                SE6K          +08 -
-QSO:  3577 DG 2026-04-27 1952 M0JQT         +01 -                G6DXY         +04 -
-QSO:  3577 DG 2026-04-27 1955 M0JQT         -02 -                M7WLT         +04 -
-QSO:  3577 DG 2026-04-27 1958 M0JQT         -13 -                DA6DT         +04 -
-QSO:  3577 DG 2026-04-27 2001 M0JQT         +03 -                M0IEP         -09 -
-QSO:  3577 DG 2026-04-27 2002 M0JQT         -10 -                DF4ZL         +01 -
-QSO:  3577 DG 2026-04-27 2003 M0JQT         +16 -                G4CXQ         -04 -
-QSO:  3577 DG 2026-04-27 2004 M0JQT         +13 -                PI4PD         -13 -
-QSO:  3577 DG 2026-04-27 2005 M0JQT         -09 -                MW7RHR        +08 -
-QSO:  3577 DG 2026-04-27 2007 M0JQT         +03 -                DL4ME         -19 -
-QSO:  3577 DG 2026-04-27 2009 M0JQT         +02 -                M8M           -10 -
+QSO:  7049 FT4 2026-04-27 1910 M0JQT         +13 -                PD2NBE        -11 -
+QSO:  7049 FT4 2026-04-27 1912 M0JQT         -07 -                G1WOV         +04 -
+QSO:  7049 FT4 2026-04-27 1914 M0JQT         +13 -                G4DBW         -02 -
+QSO:  7049 FT4 2026-04-27 1914 M0JQT         -01 -                DK3TNA        -14 -
+QSO:  7049 FT4 2026-04-27 1916 M0JQT         +05 -                M0PAW         -04 -
+QSO:  7049 FT4 2026-04-27 1917 M0JQT         -06 -                ON7PM         -07 -
+QSO:  7049 FT4 2026-04-27 1920 M0JQT         +14 -                M5RJC         +03 -
+QSO:  7049 FT4 2026-04-27 1925 M0JQT         +06 -                HB9AWS        -17 -
+QSO:  7049 FT4 2026-04-27 1930 M0JQT         +01 -                G4ARI         -08 -
+QSO:  7049 FT4 2026-04-27 1931 M0JQT         -01 -                DF4ZL         -12 -
+QSO:  3577 FT4 2026-04-27 1942 M0JQT         -12 -                M0HWO         +23 -
+QSO:  3577 FT4 2026-04-27 1943 M0JQT         -01 -                G3YJQ         +00 -
+QSO:  3577 FT4 2026-04-27 1944 M0JQT         +03 -                G4ARI         -03 -
+QSO:  3577 FT4 2026-04-27 1945 M0JQT         +03 -                DO4KT         +01 -
+QSO:  3577 FT4 2026-04-27 1946 M0JQT         +02 -                DO1ARD        -02 -
+QSO:  3577 FT4 2026-04-27 1948 M0JQT         +05 -                G4OZG         +03 -
+QSO:  3577 FT4 2026-04-27 1949 M0JQT         -04 -                DK3TNA        -08 -
+QSO:  3577 FT4 2026-04-27 1949 M0JQT         -04 -                DK3TNA        -08 -
+QSO:  3577 FT4 2026-04-27 1950 M0JQT         -07 -                SE6K          +08 -
+QSO:  3577 FT4 2026-04-27 1952 M0JQT         +01 -                G6DXY         +04 -
+QSO:  3577 FT4 2026-04-27 1955 M0JQT         -02 -                M7WLT         +04 -
+QSO:  3577 FT4 2026-04-27 1958 M0JQT         -13 -                DA6DT         +04 -
+QSO:  3577 FT4 2026-04-27 2001 M0JQT         +03 -                M0IEP         -09 -
+QSO:  3577 FT4 2026-04-27 2002 M0JQT         -10 -                DF4ZL         +01 -
+QSO:  3577 FT4 2026-04-27 2003 M0JQT         +16 -                G4CXQ         -04 -
+QSO:  3577 FT4 2026-04-27 2004 M0JQT         +13 -                PI4PD         -13 -
+QSO:  3577 FT4 2026-04-27 2005 M0JQT         -09 -                MW7RHR        +08 -
+QSO:  3577 FT4 2026-04-27 2007 M0JQT         +03 -                DL4ME         -19 -
+QSO:  3577 FT4 2026-04-27 2009 M0JQT         +02 -                M8M           -10 -
 END-OF-LOG:

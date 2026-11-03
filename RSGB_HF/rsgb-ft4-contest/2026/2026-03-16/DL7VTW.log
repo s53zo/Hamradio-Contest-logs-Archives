@@ -2,7 +2,7 @@ START-OF-LOG: 3.0
 CREATED-BY: RSGB-public-qso-downloader
 CONTEST: RSGB-RSGB-FT4-CONTEST
 CALLSIGN: DL7VTW
-CATEGORY-MODE: RTTY
+CATEGORY-MODE: DIGI
 CATEGORY-BAND: ALL
 CATEGORY-POWER: LOW
 CATEGORY: Non-UK 100W RESTRICTED
@@ -10,35 +10,36 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO:  7000 RY 2026-03-16 2000 DL7VTW        -09 -                M0IEP         -04 -
-QSO:  7000 RY 2026-03-16 2001 DL7VTW        +10 -                G3PXT         +06 -
-QSO:  7000 RY 2026-03-16 2002 DL7VTW        -08 -                GW5JJV        -05 -
-QSO:  7000 RY 2026-03-16 2006 DL7VTW        -04 -                GU4WRP        -08 -
-QSO:  7000 RY 2026-03-16 2007 DL7VTW        -02 -                EA5JAR        -12 -
-QSO:  7000 RY 2026-03-16 2016 DL7VTW        +00 -                GU7DAI        +00 -
-QSO:  7000 RY 2026-03-16 2020 DL7VTW        +11 -                M5RJC         +10 -
-QSO:  3500 RY 2026-03-16 2033 DL7VTW        +01 -                HG0NPJ        -02 -
-QSO:  3500 RY 2026-03-16 2034 DL7VTW        -04 -                SV1DKR        -06 -
-QSO:  3500 RY 2026-03-16 2049 DL7VTW        -06 -                HB9AWS        -07 -
-QSO:  3500 RY 2026-03-16 2050 DL7VTW        +03 -                HA6NL         -02 -
-QSO:  3500 RY 2026-03-16 2051 DL7VTW        -01 -                DO1NJN        +18 -
-QSO:  3500 RY 2026-03-16 2052 DL7VTW        -02 -                SP0YAGI       -01 -
-QSO:  3500 RY 2026-03-16 2056 DL7VTW        -07 -                IK2FTB        +06 -
-QSO:  3500 RY 2026-03-16 2059 DL7VTW        -02 -                ON1AEY        -02 -
-QSO:  3500 RY 2026-03-16 2100 DL7VTW        +04 -                PE1FBC        -12 -
-QSO:  3500 RY 2026-03-16 2101 DL7VTW        +16 -                DL8OBF        -07 -
-QSO:  3500 RY 2026-03-16 2108 DL7VTW        -03 -                DR2T          -06 -
-QSO:  3500 RY 2026-03-16 2110 DL7VTW        -06 -                ON3RV         +00 -
-QSO:  3500 RY 2026-03-16 2129 DL7VTW        +02 -                DK3TNA        +08 -
-QSO:  3500 RY 2026-03-16 2131 DL7VTW        -06 -                DM50DMS       +02 -
-QSO:  3500 RY 2026-03-16 2133 DL7VTW        -01 -                SV2FNT        -12 -
-QSO:  3500 RY 2026-03-16 2135 DL7VTW        +03 -                PA5BS         +02 -
-QSO:  3500 RY 2026-03-16 2137 DL7VTW        -14 -                G7WIR         -15 -
-QSO:  3500 RY 2026-03-16 2143 DL7VTW        -13 -                G3MXH         -09 -
-QSO:  3500 RY 2026-03-16 2146 DL7VTW        -06 -                SP1TJ         -12 -
-QSO:  3500 RY 2026-03-16 2149 DL7VTW        -08 -                OK2JIQ        -03 -
-QSO:  3500 RY 2026-03-16 2152 DL7VTW        -06 -                RD7O          -01 -
-QSO:  3500 RY 2026-03-16 2155 DL7VTW        -06 -                DG7FBB        +00 -
-QSO:  3500 RY 2026-03-16 2156 DL7VTW        -03 -                GW5P          -05 -
+QSO:  7000 FT4 2026-03-16 2000 DL7VTW        -09 -                M0IEP         -04 -
+QSO:  7000 FT4 2026-03-16 2001 DL7VTW        +10 -                G3PXT         +06 -
+QSO:  7000 FT4 2026-03-16 2002 DL7VTW        -08 -                GW5JJV        -05 -
+QSO:  7000 FT4 2026-03-16 2006 DL7VTW        -04 -                GU4WRP        -08 -
+QSO:  7000 FT4 2026-03-16 2007 DL7VTW        -02 -                EA5JAR        -12 -
+QSO:  7000 FT4 2026-03-16 2016 DL7VTW        +00 -                GU7DAI        +00 -
+QSO:  7000 FT4 2026-03-16 2020 DL7VTW        +11 -                M5RJC         +10 -
+QSO:  3500 FT4 2026-03-16 2033 DL7VTW        +01 -                HG0NPJ        -02 -
+QSO:  3500 FT4 2026-03-16 2034 DL7VTW        -04 -                SV1DKR        -06 -
+QSO:  3500 FT4 2026-03-16 2049 DL7VTW        -06 -                HB9AWS        -07 -
+QSO:  3500 FT4 2026-03-16 2050 DL7VTW        +03 -                HA6NL         -02 -
+QSO:  3500 FT4 2026-03-16 2051 DL7VTW        -01 -                DO1NJN        +18 -
+QSO:  3500 FT4 2026-03-16 2052 DL7VTW        -02 -                SP0YAGI       -01 -
+QSO:  3500 FT4 2026-03-16 2056 DL7VTW        -07 -                IK2FTB        +06 -
+QSO:  3500 FT4 2026-03-16 2059 DL7VTW        -02 -                ON1AEY        -02 -
+QSO:  3500 FT4 2026-03-16 2100 DL7VTW        +04 -                PE1FBC        -12 -
+QSO:  3500 FT4 2026-03-16 2101 DL7VTW        +16 -                DL8OBF        -07 -
+QSO:  3500 FT4 2026-03-16 2108 DL7VTW        -03 -                DR2T          -06 -
+QSO:  3500 FT4 2026-03-16 2110 DL7VTW        -06 -                ON3RV         +00 -
+QSO:  3500 FT4 2026-03-16 2129 DL7VTW        +02 -                DK3TNA        +08 -
+QSO:  3500 FT4 2026-03-16 2131 DL7VTW        -06 -                DM50DMS       +02 -
+QSO:  3500 FT4 2026-03-16 2133 DL7VTW        -01 -                SV2FNT        -12 -
+QSO:  3500 FT4 2026-03-16 2135 DL7VTW        +03 -                PA5BS         +02 -
+QSO:  3500 FT4 2026-03-16 2137 DL7VTW        -14 -                G7WIR         -15 -
+QSO:  3500 FT4 2026-03-16 2143 DL7VTW        -13 -                G3MXH         -09 -
+QSO:  3500 FT4 2026-03-16 2146 DL7VTW        -06 -                SP1TJ         -12 -
+QSO:  3500 FT4 2026-03-16 2149 DL7VTW        -08 -                OK2JIQ        -03 -
+QSO:  3500 FT4 2026-03-16 2152 DL7VTW        -06 -                RD7O          -01 -
+QSO:  3500 FT4 2026-03-16 2155 DL7VTW        -06 -                DG7FBB        +00 -
+QSO:  3500 FT4 2026-03-16 2156 DL7VTW        -03 -                GW5P          -05 -
 END-OF-LOG:

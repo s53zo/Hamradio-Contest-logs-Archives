@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=221102&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=832; excluded rows=0.
-QSO:   144 DG 2022-11-02 1903 G4OED         -07 IO91             M0LMK         -05 JO01
-QSO:   144 DG 2022-11-02 1910 G4OED         +12 IO91             GW4HDF        +07 IO81
-QSO:   144 DG 2022-11-02 1912 G4OED         -03 IO91             G4EII         -06 IO83
-QSO:   144 DG 2022-11-02 1915 G4OED         -13 IO91             G4HGI         -08 IO83
-QSO:   144 DG 2022-11-02 1933 G4OED         -10 IO91             G3WAG         -07 IO82
-QSO:   144 DG 2022-11-02 1935 G4OED         +17 IO91             GW4HDF        +10 IO81
-QSO:   144 DG 2022-11-02 1938 G4OED         +00 IO91             G3XBY         -09 IO92
-QSO:   144 DG 2022-11-02 1943 G4OED         -23 IO91             MM0ZBH        -16 IO86
-QSO:   144 DG 2022-11-02 1944 G4OED         -11 IO91             2E1FMS        -07 IO82
-QSO:   144 DG 2022-11-02 1946 G4OED         +27 IO91             M0ONY         +18 IO91
-QSO:   144 DG 2022-11-02 2000 G4OED         -17 IO91             M0XTY         -21 JO01
-QSO:   144 DG 2022-11-02 2013 G4OED         -17 IO91             EI8KN         -07 IO62
-QSO:   144 DG 2022-11-02 2017 G4OED         -03 IO91             G7WIR         -08 JO01
-QSO:   144 DG 2022-11-02 2018 G4OED         -03 IO91             G0BIX         -08 JO01
-QSO:   144 DG 2022-11-02 2025 G4OED         -09 IO91             2E0DUE        -01 JO01
-QSO:   144 DG 2022-11-02 2040 G4OED         -08 IO91             G0XDI         -19 IO91
+QSO:   144 FT8 2022-11-02 1903 G4OED         -07 IO91             M0LMK         -05 JO01
+QSO:   144 FT8 2022-11-02 1910 G4OED         +12 IO91             GW4HDF        +07 IO81
+QSO:   144 FT8 2022-11-02 1912 G4OED         -03 IO91             G4EII         -06 IO83
+QSO:   144 FT8 2022-11-02 1915 G4OED         -13 IO91             G4HGI         -08 IO83
+QSO:   144 FT8 2022-11-02 1933 G4OED         -10 IO91             G3WAG         -07 IO82
+QSO:   144 FT8 2022-11-02 1935 G4OED         +17 IO91             GW4HDF        +10 IO81
+QSO:   144 FT8 2022-11-02 1938 G4OED         +00 IO91             G3XBY         -09 IO92
+QSO:   144 FT8 2022-11-02 1943 G4OED         -23 IO91             MM0ZBH        -16 IO86
+QSO:   144 FT8 2022-11-02 1944 G4OED         -11 IO91             2E1FMS        -07 IO82
+QSO:   144 FT8 2022-11-02 1946 G4OED         +27 IO91             M0ONY         +18 IO91
+QSO:   144 FT8 2022-11-02 2000 G4OED         -17 IO91             M0XTY         -21 JO01
+QSO:   144 FT8 2022-11-02 2013 G4OED         -17 IO91             EI8KN         -07 IO62
+QSO:   144 FT8 2022-11-02 2017 G4OED         -03 IO91             G7WIR         -08 JO01
+QSO:   144 FT8 2022-11-02 2018 G4OED         -03 IO91             G0BIX         -08 JO01
+QSO:   144 FT8 2022-11-02 2025 G4OED         -09 IO91             2E0DUE        -01 JO01
+QSO:   144 FT8 2022-11-02 2040 G4OED         -08 IO91             G0XDI         -19 IO91
 END-OF-LOG:

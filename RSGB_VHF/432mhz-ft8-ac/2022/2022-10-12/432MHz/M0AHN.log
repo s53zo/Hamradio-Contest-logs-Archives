@@ -10,33 +10,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221012&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=675; excluded rows=0.
-QSO:   432 DG 2022-10-12 1904 M0AHN         +07 IO91             M0LMK         -13 JO01
-QSO:   432 DG 2022-10-12 1907 M0AHN         -16 IO91             ON8NT         -19 JO11
-QSO:   432 DG 2022-10-12 1908 M0AHN         -01 IO91             G0GRI         -07 IO80
-QSO:   432 DG 2022-10-12 1911 M0AHN         -09 IO91             G3TKN         +07 IO90
-QSO:   432 DG 2022-10-12 1914 M0AHN         -04 IO91             M0AFJ         -15 IO70
-QSO:   432 DG 2022-10-12 1916 M0AHN         +01 IO91             G0LGS         -14 IO81
-QSO:   432 DG 2022-10-12 1917 M0AHN         -12 IO91             EI8KN         -16 IO62
-QSO:   432 DG 2022-10-12 1919 M0AHN         +02 IO91             M7REV         -06 IO82
-QSO:   432 DG 2022-10-12 1920 M0AHN         +14 IO91             M0IEP         -01 IO91
-QSO:   432 DG 2022-10-12 1922 M0AHN         -15 IO91             G0ISX         -02 IO93
-QSO:   432 DG 2022-10-12 1925 M0AHN         +07 IO91             G4EII         -10 IO83
-QSO:   432 DG 2022-10-12 1928 M0AHN         -08 IO91             2E1EMK        +14 IO91
-QSO:   432 DG 2022-10-12 1930 M0AHN         -12 IO91             G4VPD         -01 IO92
-QSO:   432 DG 2022-10-12 1934 M0AHN         -01 IO91             G0ORE         +02 IO92
-QSO:   432 DG 2022-10-12 1944 M0AHN         -04 IO91             G8CRB         -06 JO02
-QSO:   432 DG 2022-10-12 1948 M0AHN         +16 IO91             G8DMN         +08 IO81
-QSO:   432 DG 2022-10-12 1950 M0AHN         -07 IO91             PI4HLM        -16 JO22
-QSO:   432 DG 2022-10-12 1956 M0AHN         +00 IO91             G8GNI         -11 IO91
-QSO:   432 DG 2022-10-12 2000 M0AHN         +06 IO91             G7WIR         -21 JO01
-QSO:   432 DG 2022-10-12 2006 M0AHN         +04 IO91             2E1FMS        -18 IO82
-QSO:   432 DG 2022-10-12 2009 M0AHN         -16 IO91             G8EEM         +11 IO93
-QSO:   432 DG 2022-10-12 2013 M0AHN         +12 IO91             G4APJ         -07 IO83
-QSO:   432 DG 2022-10-12 2027 M0AHN         +11 IO91             GM8MJV        -12 IO85
-QSO:   432 DG 2022-10-12 2036 M0AHN         +06 IO91             G0XDI         -11 IO91
-QSO:   432 DG 2022-10-12 2041 M0AHN         +09 IO91             G3YDY         +02 JO01
-QSO:   432 DG 2022-10-12 2043 M0AHN         +02 IO91             G7LRQ         -20 IO91
-QSO:   432 DG 2022-10-12 2059 M0AHN         -14 IO91             G3ZPB         -17 IO91
+QSO:   432 FT8 2022-10-12 1904 M0AHN         +07 IO91             M0LMK         -13 JO01
+QSO:   432 FT8 2022-10-12 1907 M0AHN         -16 IO91             ON8NT         -19 JO11
+QSO:   432 FT8 2022-10-12 1908 M0AHN         -01 IO91             G0GRI         -07 IO80
+QSO:   432 FT8 2022-10-12 1911 M0AHN         -09 IO91             G3TKN         +07 IO90
+QSO:   432 FT8 2022-10-12 1914 M0AHN         -04 IO91             M0AFJ         -15 IO70
+QSO:   432 FT8 2022-10-12 1916 M0AHN         +01 IO91             G0LGS         -14 IO81
+QSO:   432 FT8 2022-10-12 1917 M0AHN         -12 IO91             EI8KN         -16 IO62
+QSO:   432 FT8 2022-10-12 1919 M0AHN         +02 IO91             M7REV         -06 IO82
+QSO:   432 FT8 2022-10-12 1920 M0AHN         +14 IO91             M0IEP         -01 IO91
+QSO:   432 FT8 2022-10-12 1922 M0AHN         -15 IO91             G0ISX         -02 IO93
+QSO:   432 FT8 2022-10-12 1925 M0AHN         +07 IO91             G4EII         -10 IO83
+QSO:   432 FT8 2022-10-12 1928 M0AHN         -08 IO91             2E1EMK        +14 IO91
+QSO:   432 FT8 2022-10-12 1930 M0AHN         -12 IO91             G4VPD         -01 IO92
+QSO:   432 FT8 2022-10-12 1934 M0AHN         -01 IO91             G0ORE         +02 IO92
+QSO:   432 FT8 2022-10-12 1944 M0AHN         -04 IO91             G8CRB         -06 JO02
+QSO:   432 FT8 2022-10-12 1948 M0AHN         +16 IO91             G8DMN         +08 IO81
+QSO:   432 FT8 2022-10-12 1950 M0AHN         -07 IO91             PI4HLM        -16 JO22
+QSO:   432 FT8 2022-10-12 1956 M0AHN         +00 IO91             G8GNI         -11 IO91
+QSO:   432 FT8 2022-10-12 2000 M0AHN         +06 IO91             G7WIR         -21 JO01
+QSO:   432 FT8 2022-10-12 2006 M0AHN         +04 IO91             2E1FMS        -18 IO82
+QSO:   432 FT8 2022-10-12 2009 M0AHN         -16 IO91             G8EEM         +11 IO93
+QSO:   432 FT8 2022-10-12 2013 M0AHN         +12 IO91             G4APJ         -07 IO83
+QSO:   432 FT8 2022-10-12 2027 M0AHN         +11 IO91             GM8MJV        -12 IO85
+QSO:   432 FT8 2022-10-12 2036 M0AHN         +06 IO91             G0XDI         -11 IO91
+QSO:   432 FT8 2022-10-12 2041 M0AHN         +09 IO91             G3YDY         +02 JO01
+QSO:   432 FT8 2022-10-12 2043 M0AHN         +02 IO91             G7LRQ         -20 IO91
+QSO:   432 FT8 2022-10-12 2059 M0AHN         -14 IO91             G3ZPB         -17 IO91
 END-OF-LOG:

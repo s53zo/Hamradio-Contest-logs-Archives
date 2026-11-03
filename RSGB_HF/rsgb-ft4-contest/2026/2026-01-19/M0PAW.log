@@ -10,27 +10,28 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO: 14081 DG 2026-01-19 2000 M0PAW         -08 -                EA8FO         -14 -
-QSO:  7048 DG 2026-01-19 2005 M0PAW         -12 -                EA5IY         -12 -
-QSO:  7048 DG 2026-01-19 2006 M0PAW         -09 -                CR6WWA        -07 -
-QSO:  7048 DG 2026-01-19 2017 M0PAW         -07 -                LZ0WWA        -12 -
-QSO:  7047 DG 2026-01-19 2020 M0PAW         -01 -                CQ7WWA        -01 -
-QSO:  7048 DG 2026-01-19 2025 M0PAW         -17 -                GU7DAI        -06 -
-QSO:  7048 DG 2026-01-19 2027 M0PAW         +00 -                YO3RU         -04 -
-QSO:  7048 DG 2026-01-19 2044 M0PAW         -05 -                YO9FDG        -03 -
-QSO:  7048 DG 2026-01-19 2046 M0PAW         -11 -                2D0PEY        -04 -
-QSO:  7048 DG 2026-01-19 2110 M0PAW         +17 -                OZ1AXG        -07 -
-QSO:  7048 DG 2026-01-19 2112 M0PAW         +00 -                DJ2KP         -03 -
-QSO:  7049 DG 2026-01-19 2116 M0PAW         +04 -                DJ2KP         +00 -
-QSO:  7048 DG 2026-01-19 2117 M0PAW         -09 -                PE2K          -05 -
-QSO:  7049 DG 2026-01-19 2119 M0PAW         -10 -                GM4VYQ        +03 -
-QSO:  7048 DG 2026-01-19 2121 M0PAW         +01 -                M8DEF         -01 -
-QSO:  7048 DG 2026-01-19 2122 M0PAW         +11 -                G6P           +16 -
-QSO:  7048 DG 2026-01-19 2126 M0PAW         -08 -                F4CYH         -05 -
-QSO:  7048 DG 2026-01-19 2128 M0PAW         -06 -                OK2USM        -06 -
-QSO:  7049 DG 2026-01-19 2135 M0PAW         -08 -                GW0ARK        -03 -
-QSO:  7048 DG 2026-01-19 2139 M0PAW         +02 -                ON6NL         +08 -
-QSO:  7049 DG 2026-01-19 2142 M0PAW         -12 -                DB2GM         -13 -
-QSO:  7049 DG 2026-01-19 2144 M0PAW         -08 -                DJ0ABM        -03 -
+QSO: 14081 FT4 2026-01-19 2000 M0PAW         -08 -                EA8FO         -14 -
+QSO:  7048 FT4 2026-01-19 2005 M0PAW         -12 -                EA5IY         -12 -
+QSO:  7048 FT4 2026-01-19 2006 M0PAW         -09 -                CR6WWA        -07 -
+QSO:  7048 FT4 2026-01-19 2017 M0PAW         -07 -                LZ0WWA        -12 -
+QSO:  7047 FT4 2026-01-19 2020 M0PAW         -01 -                CQ7WWA        -01 -
+QSO:  7048 FT4 2026-01-19 2025 M0PAW         -17 -                GU7DAI        -06 -
+QSO:  7048 FT4 2026-01-19 2027 M0PAW         +00 -                YO3RU         -04 -
+QSO:  7048 FT4 2026-01-19 2044 M0PAW         -05 -                YO9FDG        -03 -
+QSO:  7048 FT4 2026-01-19 2046 M0PAW         -11 -                2D0PEY        -04 -
+QSO:  7048 FT4 2026-01-19 2110 M0PAW         +17 -                OZ1AXG        -07 -
+QSO:  7048 FT4 2026-01-19 2112 M0PAW         +00 -                DJ2KP         -03 -
+QSO:  7049 FT4 2026-01-19 2116 M0PAW         +04 -                DJ2KP         +00 -
+QSO:  7048 FT4 2026-01-19 2117 M0PAW         -09 -                PE2K          -05 -
+QSO:  7049 FT4 2026-01-19 2119 M0PAW         -10 -                GM4VYQ        +03 -
+QSO:  7048 FT4 2026-01-19 2121 M0PAW         +01 -                M8DEF         -01 -
+QSO:  7048 FT4 2026-01-19 2122 M0PAW         +11 -                G6P           +16 -
+QSO:  7048 FT4 2026-01-19 2126 M0PAW         -08 -                F4CYH         -05 -
+QSO:  7048 FT4 2026-01-19 2128 M0PAW         -06 -                OK2USM        -06 -
+QSO:  7049 FT4 2026-01-19 2135 M0PAW         -08 -                GW0ARK        -03 -
+QSO:  7048 FT4 2026-01-19 2139 M0PAW         +02 -                ON6NL         +08 -
+QSO:  7049 FT4 2026-01-19 2142 M0PAW         -12 -                DB2GM         -13 -
+QSO:  7049 FT4 2026-01-19 2144 M0PAW         -08 -                DJ0ABM        -03 -
 END-OF-LOG:

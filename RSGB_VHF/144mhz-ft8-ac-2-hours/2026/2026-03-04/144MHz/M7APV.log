@@ -10,28 +10,28 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260304&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1043; excluded rows=1.
-QSO:   144 DG 2026-03-04 1902 M7APV         -02 JO01             G7WIR         +02 JO01
-QSO:   144 DG 2026-03-04 1903 M7APV         -11 JO01             G0BIX         -06 JO01
-QSO:   144 DG 2026-03-04 1907 M7APV         -16 JO01             G0XDI         -13 IO91
-QSO:   144 DG 2026-03-04 1911 M7APV         -11 JO01             G3WZK         -02 IO91
-QSO:   144 DG 2026-03-04 1913 M7APV         -11 JO01             G8IXK         -11 IO91
-QSO:   144 DG 2026-03-04 1916 M7APV         -01 JO01             M0MHX         -07 JO01
-QSO:   144 DG 2026-03-04 1918 M7APV         -09 JO01             G3YDY         -05 JO01
-QSO:   144 DG 2026-03-04 1920 M7APV         -17 JO01             M0SKT         -07 IO92
-QSO:   144 DG 2026-03-04 1921 M7APV         -17 JO01             2E0MRK        -09 IO91
-QSO:   144 DG 2026-03-04 1932 M7APV         -11 JO01             G0GMB         -09 IO92
-QSO:   144 DG 2026-03-04 1936 M7APV         +07 JO01             G7FPE         +21 JO01
-QSO:   144 DG 2026-03-04 1939 M7APV         -02 JO01             G4ZTR         -05 JO01
-QSO:   144 DG 2026-03-04 1942 M7APV         -11 JO01             G4BAO         -08 JO02
-QSO:   144 DG 2026-03-04 1945 M7APV         -02 JO01             G0JJG         -09 JO02
-QSO:   144 DG 2026-03-04 1951 M7APV         -06 JO01             G7RDX         -16 IO91
-QSO:   144 DG 2026-03-04 1956 M7APV         -23 JO01             G3LNM         -13 JO02
-QSO:   144 DG 2026-03-04 1958 M7APV         -19 JO01             G1HJW         -20 JO01
-QSO:   144 DG 2026-03-04 2000 M7APV         -22 JO01             G4PDF         -21 IO93
-QSO:   144 DG 2026-03-04 2023 M7APV         -03 JO01             G1MPC         +11 IO91
-QSO:   144 DG 2026-03-04 2029 M7APV         -18 JO01             G0GJV         -13 IO91
-QSO:   144 DG 2026-03-04 2031 M7APV         -13 JO01             G0ODR         +01 JO02
-QSO:   144 DG 2026-03-04 2045 M7APV         -18 JO01             2E0JHJ        -22 IO91
+QSO:   144 FT8 2026-03-04 1902 M7APV         -02 JO01             G7WIR         +02 JO01
+QSO:   144 FT8 2026-03-04 1903 M7APV         -11 JO01             G0BIX         -06 JO01
+QSO:   144 FT8 2026-03-04 1907 M7APV         -16 JO01             G0XDI         -13 IO91
+QSO:   144 FT8 2026-03-04 1911 M7APV         -11 JO01             G3WZK         -02 IO91
+QSO:   144 FT8 2026-03-04 1913 M7APV         -11 JO01             G8IXK         -11 IO91
+QSO:   144 FT8 2026-03-04 1916 M7APV         -01 JO01             M0MHX         -07 JO01
+QSO:   144 FT8 2026-03-04 1918 M7APV         -09 JO01             G3YDY         -05 JO01
+QSO:   144 FT8 2026-03-04 1920 M7APV         -17 JO01             M0SKT         -07 IO92
+QSO:   144 FT8 2026-03-04 1921 M7APV         -17 JO01             2E0MRK        -09 IO91
+QSO:   144 FT8 2026-03-04 1932 M7APV         -11 JO01             G0GMB         -09 IO92
+QSO:   144 FT8 2026-03-04 1936 M7APV         +07 JO01             G7FPE         +21 JO01
+QSO:   144 FT8 2026-03-04 1939 M7APV         -02 JO01             G4ZTR         -05 JO01
+QSO:   144 FT8 2026-03-04 1942 M7APV         -11 JO01             G4BAO         -08 JO02
+QSO:   144 FT8 2026-03-04 1945 M7APV         -02 JO01             G0JJG         -09 JO02
+QSO:   144 FT8 2026-03-04 1951 M7APV         -06 JO01             G7RDX         -16 IO91
+QSO:   144 FT8 2026-03-04 1956 M7APV         -23 JO01             G3LNM         -13 JO02
+QSO:   144 FT8 2026-03-04 1958 M7APV         -19 JO01             G1HJW         -20 JO01
+QSO:   144 FT8 2026-03-04 2000 M7APV         -22 JO01             G4PDF         -21 IO93
+QSO:   144 FT8 2026-03-04 2023 M7APV         -03 JO01             G1MPC         +11 IO91
+QSO:   144 FT8 2026-03-04 2029 M7APV         -18 JO01             G0GJV         -13 IO91
+QSO:   144 FT8 2026-03-04 2031 M7APV         -13 JO01             G0ODR         +01 JO02
+QSO:   144 FT8 2026-03-04 2045 M7APV         -18 JO01             2E0JHJ        -22 IO91
 END-OF-LOG:

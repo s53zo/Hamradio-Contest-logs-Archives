@@ -10,17 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO:  7049 DG 2026-03-16 2002 PD2PKM        +02 -                OK2USM        +13 -
-QSO:  7049 DG 2026-03-16 2004 PD2PKM        -14 -                PA5BS         -09 -
-QSO:  7049 DG 2026-03-16 2005 PD2PKM        +01 -                F4JQH         +19 -
-QSO:  7048 DG 2026-03-16 2007 PD2PKM        +04 -                2D0PEY        +06 -
-QSO:  7049 DG 2026-03-16 2009 PD2PKM        -16 -                US4ET         +05 -
-QSO:  7050 DG 2026-03-16 2014 PD2PKM        -01 -                SG5Z          +14 -
-QSO:  7048 DG 2026-03-16 2018 PD2PKM        -11 -                IU0TPA        -02 -
-QSO:  7049 DG 2026-03-16 2021 PD2PKM        -01 -                MW7RHR        +10 -
-QSO:  7049 DG 2026-03-16 2025 PD2PKM        -07 -                GM4M          +17 -
-QSO:  7049 DG 2026-03-16 2038 PD2PKM        +08 -                GM4VYQ        +16 -
-QSO:  7049 DG 2026-03-16 2044 PD2PKM        -14 -                SV1DZB        -14 -
-QSO:  7049 DG 2026-03-16 2118 PD2PKM        -03 -                EB1GUA        +02 -
+QSO:  7049 FT4 2026-03-16 2002 PD2PKM        +02 -                OK2USM        +13 -
+QSO:  7049 FT4 2026-03-16 2004 PD2PKM        -14 -                PA5BS         -09 -
+QSO:  7049 FT4 2026-03-16 2005 PD2PKM        +01 -                F4JQH         +19 -
+QSO:  7048 FT4 2026-03-16 2007 PD2PKM        +04 -                2D0PEY        +06 -
+QSO:  7049 FT4 2026-03-16 2009 PD2PKM        -16 -                US4ET         +05 -
+QSO:  7050 FT4 2026-03-16 2014 PD2PKM        -01 -                SG5Z          +14 -
+QSO:  7048 FT4 2026-03-16 2018 PD2PKM        -11 -                IU0TPA        -02 -
+QSO:  7049 FT4 2026-03-16 2021 PD2PKM        -01 -                MW7RHR        +10 -
+QSO:  7049 FT4 2026-03-16 2025 PD2PKM        -07 -                GM4M          +17 -
+QSO:  7049 FT4 2026-03-16 2038 PD2PKM        +08 -                GM4VYQ        +16 -
+QSO:  7049 FT4 2026-03-16 2044 PD2PKM        -14 -                SV1DZB        -14 -
+QSO:  7049 FT4 2026-03-16 2118 PD2PKM        -03 -                EB1GUA        +02 -
 END-OF-LOG:

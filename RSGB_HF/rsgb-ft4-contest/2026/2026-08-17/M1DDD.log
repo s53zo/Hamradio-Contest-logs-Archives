@@ -10,38 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO: 21140 DG 2026-08-17 1952 M1DDD         +33 -                TA2K          -10 -
-QSO: 21140 DG 2026-08-17 1954 M1DDD         -05 -                VP8LP         -10 -
-QSO: 21141 DG 2026-08-17 1955 M1DDD         +26 -                K9OM          -04 -
-QSO: 21141 DG 2026-08-17 2002 M1DDD         +10 -                9A5ADR        -08 -
-QSO: 21141 DG 2026-08-17 2005 M1DDD         +29 -                SV9MBH        -09 -
-QSO:  7047 DG 2026-08-17 2014 M1DDD         +23 -                PH3T          -03 -
-QSO:  7049 DG 2026-08-17 2017 M1DDD         +07 -                PH3BDJ        +01 -
-QSO:  7048 DG 2026-08-17 2019 M1DDD         +10 -                G6MTI         -03 -
-QSO:  7050 DG 2026-08-17 2020 M1DDD         -06 -                PC1TG         +03 -
-QSO:  7049 DG 2026-08-17 2021 M1DDD         +10 -                CT7AUT        +11 -
-QSO:  7049 DG 2026-08-17 2023 M1DDD         +17 -                G7ILZ         -01 -
-QSO:  7049 DG 2026-08-17 2023 M1DDD         +17 -                GW4JBQ        +12 -
-QSO:  7049 DG 2026-08-17 2025 M1DDD         +09 -                G5USH         -18 -
-QSO:  7050 DG 2026-08-17 2026 M1DDD         +09 -                G4BYE         +08 -
-QSO:  7050 DG 2026-08-17 2027 M1DDD         +13 -                MM0C          +03 -
-QSO:  7048 DG 2026-08-17 2029 M1DDD         +00 -                GU0UVH        -02 -
-QSO:  7048 DG 2026-08-17 2029 M1DDD         +08 -                2E0UMK        +07 -
-QSO:  7049 DG 2026-08-17 2032 M1DDD         +00 -                OZ5AGJ        +07 -
-QSO:  7049 DG 2026-08-17 2033 M1DDD         +07 -                F5PEG         +04 -
-QSO:  7047 DG 2026-08-17 2035 M1DDD         +06 -                IZ5MMT        -15 -
-QSO:  7048 DG 2026-08-17 2036 M1DDD         -06 -                PA3DZM        -06 -
-QSO:  7048 DG 2026-08-17 2038 M1DDD         +11 -                PD2PKM        +01 -
-QSO:  7048 DG 2026-08-17 2038 M1DDD         -01 -                PC4H          +05 -
-QSO:  7048 DG 2026-08-17 2039 M1DDD         +07 -                DF6QN         +05 -
-QSO:  7048 DG 2026-08-17 2040 M1DDD         -05 -                IV3DXW        -05 -
-QSO:  7048 DG 2026-08-17 2041 M1DDD         -04 -                PH3BDJ        -02 -
-QSO:  7048 DG 2026-08-17 2041 M1DDD         +08 -                DL4ME         -10 -
-QSO:  7048 DG 2026-08-17 2042 M1DDD         +07 -                ON5ZZ         -01 -
-QSO:  7048 DG 2026-08-17 2043 M1DDD         +01 -                DL7VTW        -04 -
-QSO:  7048 DG 2026-08-17 2044 M1DDD         +11 -                M0PAW         +05 -
-QSO:  7049 DG 2026-08-17 2049 M1DDD         -10 -                EA3HKY        -11 -
-QSO:  7048 DG 2026-08-17 2056 M1DDD         +09 -                MW0CVT        +01 -
-QSO:  7048 DG 2026-08-17 2059 M1DDD         -04 -                9A5ADR        -19 -
+QSO: 21140 FT4 2026-08-17 1952 M1DDD         +33 -                TA2K          -10 -
+QSO: 21140 FT4 2026-08-17 1954 M1DDD         -05 -                VP8LP         -10 -
+QSO: 21141 FT4 2026-08-17 1955 M1DDD         +26 -                K9OM          -04 -
+QSO: 21141 FT4 2026-08-17 2002 M1DDD         +10 -                9A5ADR        -08 -
+QSO: 21141 FT4 2026-08-17 2005 M1DDD         +29 -                SV9MBH        -09 -
+QSO:  7047 FT4 2026-08-17 2014 M1DDD         +23 -                PH3T          -03 -
+QSO:  7049 FT4 2026-08-17 2017 M1DDD         +07 -                PH3BDJ        +01 -
+QSO:  7048 FT4 2026-08-17 2019 M1DDD         +10 -                G6MTI         -03 -
+QSO:  7050 FT4 2026-08-17 2020 M1DDD         -06 -                PC1TG         +03 -
+QSO:  7049 FT4 2026-08-17 2021 M1DDD         +10 -                CT7AUT        +11 -
+QSO:  7049 FT4 2026-08-17 2023 M1DDD         +17 -                G7ILZ         -01 -
+QSO:  7049 FT4 2026-08-17 2023 M1DDD         +17 -                GW4JBQ        +12 -
+QSO:  7049 FT4 2026-08-17 2025 M1DDD         +09 -                G5USH         -18 -
+QSO:  7050 FT4 2026-08-17 2026 M1DDD         +09 -                G4BYE         +08 -
+QSO:  7050 FT4 2026-08-17 2027 M1DDD         +13 -                MM0C          +03 -
+QSO:  7048 FT4 2026-08-17 2029 M1DDD         +00 -                GU0UVH        -02 -
+QSO:  7048 FT4 2026-08-17 2029 M1DDD         +08 -                2E0UMK        +07 -
+QSO:  7049 FT4 2026-08-17 2032 M1DDD         +00 -                OZ5AGJ        +07 -
+QSO:  7049 FT4 2026-08-17 2033 M1DDD         +07 -                F5PEG         +04 -
+QSO:  7047 FT4 2026-08-17 2035 M1DDD         +06 -                IZ5MMT        -15 -
+QSO:  7048 FT4 2026-08-17 2036 M1DDD         -06 -                PA3DZM        -06 -
+QSO:  7048 FT4 2026-08-17 2038 M1DDD         +11 -                PD2PKM        +01 -
+QSO:  7048 FT4 2026-08-17 2038 M1DDD         -01 -                PC4H          +05 -
+QSO:  7048 FT4 2026-08-17 2039 M1DDD         +07 -                DF6QN         +05 -
+QSO:  7048 FT4 2026-08-17 2040 M1DDD         -05 -                IV3DXW        -05 -
+QSO:  7048 FT4 2026-08-17 2041 M1DDD         -04 -                PH3BDJ        -02 -
+QSO:  7048 FT4 2026-08-17 2041 M1DDD         +08 -                DL4ME         -10 -
+QSO:  7048 FT4 2026-08-17 2042 M1DDD         +07 -                ON5ZZ         -01 -
+QSO:  7048 FT4 2026-08-17 2043 M1DDD         +01 -                DL7VTW        -04 -
+QSO:  7048 FT4 2026-08-17 2044 M1DDD         +11 -                M0PAW         +05 -
+QSO:  7049 FT4 2026-08-17 2049 M1DDD         -10 -                EA3HKY        -11 -
+QSO:  7048 FT4 2026-08-17 2056 M1DDD         +09 -                MW0CVT        +01 -
+QSO:  7048 FT4 2026-08-17 2059 M1DDD         -04 -                9A5ADR        -19 -
 END-OF-LOG:

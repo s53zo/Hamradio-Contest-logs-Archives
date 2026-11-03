@@ -9,12 +9,13 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO:  3575 DG 2026-03-16 2125 M4P           +02 -                M0KKM         -11 -
-QSO:  3575 DG 2026-03-16 2126 M4P           +09 -                G7NJX         -02 -
-QSO:  3575 DG 2026-03-16 2126 M4P           +06 -                M5N           +02 -
-QSO:  3575 DG 2026-03-16 2128 M4P           +02 -                G7WIR         -10 -
-QSO:  3575 DG 2026-03-16 2130 M4P           +01 -                G4TTO         +09 -
-QSO:  3575 DG 2026-03-16 2131 M4P           +10 -                DO1NJN        -06 -
-QSO:  3575 DG 2026-03-16 2132 M4P           -03 -                DK3TNA        -11 -
+QSO:  3575 FT4 2026-03-16 2125 M4P           +02 -                M0KKM         -11 -
+QSO:  3575 FT4 2026-03-16 2126 M4P           +09 -                G7NJX         -02 -
+QSO:  3575 FT4 2026-03-16 2126 M4P           +06 -                M5N           +02 -
+QSO:  3575 FT4 2026-03-16 2128 M4P           +02 -                G7WIR         -10 -
+QSO:  3575 FT4 2026-03-16 2130 M4P           +01 -                G4TTO         +09 -
+QSO:  3575 FT4 2026-03-16 2131 M4P           +10 -                DO1NJN        -06 -
+QSO:  3575 FT4 2026-03-16 2132 M4P           -03 -                DK3TNA        -11 -
 END-OF-LOG:

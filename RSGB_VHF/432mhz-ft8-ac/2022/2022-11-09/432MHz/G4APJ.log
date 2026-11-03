@@ -10,29 +10,29 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221109&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=724; excluded rows=0.
-QSO:   432 DG 2022-11-09 1901 G4APJ         -12 IO83             G0BIX         -10 JO01
-QSO:   432 DG 2022-11-09 1907 G4APJ         +12 IO83             G4NBS         +19 JO02
-QSO:   432 DG 2022-11-09 1912 G4APJ         -06 IO83             2E0DUE        -24 JO01
-QSO:   432 DG 2022-11-09 1920 G4APJ         +07 IO83             2E1FMS        -10 IO82
-QSO:   432 DG 2022-11-09 1923 G4APJ         +05 IO83             M1EYP         +12 IO83
-QSO:   432 DG 2022-11-09 1928 G4APJ         +04 IO83             G0XDI         -12 IO91
-QSO:   432 DG 2022-11-09 1934 G4APJ         -13 IO83             G8EEM         -08 IO93
-QSO:   432 DG 2022-11-09 1935 G4APJ         -13 IO83             PH2M          -16 JO22
-QSO:   432 DG 2022-11-09 1937 G4APJ         +07 IO83             G0LGS         +11 IO81
-QSO:   432 DG 2022-11-09 1942 G4APJ         -18 IO83             M7REV         -05 IO82
-QSO:   432 DG 2022-11-09 1944 G4APJ         +02 IO83             M0IEP         +10 IO91
-QSO:   432 DG 2022-11-09 1945 G4APJ         -05 IO83             2E0JPO        +16 IO91
-QSO:   432 DG 2022-11-09 1946 G4APJ         -10 IO83             G3WZK         -09 IO91
-QSO:   432 DG 2022-11-09 1948 G4APJ         -02 IO83             G4OED         -12 IO91
-QSO:   432 DG 2022-11-09 1950 G4APJ         -05 IO83             G7WIR         -10 JO01
-QSO:   432 DG 2022-11-09 1953 G4APJ         +03 IO83             G3ZPB         -16 IO91
-QSO:   432 DG 2022-11-09 1955 G4APJ         +13 IO83             G7LRQ         +02 IO91
-QSO:   432 DG 2022-11-09 1957 G4APJ         -11 IO83             G3YDY         +01 JO01
-QSO:   432 DG 2022-11-09 2004 G4APJ         +09 IO83             G4EII         +09 IO83
-QSO:   432 DG 2022-11-09 2011 G4APJ         -07 IO83             G0GRI         -01 IO80
-QSO:   432 DG 2022-11-09 2015 G4APJ         -09 IO83             G4VPD         +02 IO92
-QSO:   432 DG 2022-11-09 2031 G4APJ         -15 IO83             G8CRB         -19 JO02
-QSO:   432 DG 2022-11-09 2055 G4APJ         -04 IO83             G0OFC         +06 IO92
+QSO:   432 FT8 2022-11-09 1901 G4APJ         -12 IO83             G0BIX         -10 JO01
+QSO:   432 FT8 2022-11-09 1907 G4APJ         +12 IO83             G4NBS         +19 JO02
+QSO:   432 FT8 2022-11-09 1912 G4APJ         -06 IO83             2E0DUE        -24 JO01
+QSO:   432 FT8 2022-11-09 1920 G4APJ         +07 IO83             2E1FMS        -10 IO82
+QSO:   432 FT8 2022-11-09 1923 G4APJ         +05 IO83             M1EYP         +12 IO83
+QSO:   432 FT8 2022-11-09 1928 G4APJ         +04 IO83             G0XDI         -12 IO91
+QSO:   432 FT8 2022-11-09 1934 G4APJ         -13 IO83             G8EEM         -08 IO93
+QSO:   432 FT8 2022-11-09 1935 G4APJ         -13 IO83             PH2M          -16 JO22
+QSO:   432 FT8 2022-11-09 1937 G4APJ         +07 IO83             G0LGS         +11 IO81
+QSO:   432 FT8 2022-11-09 1942 G4APJ         -18 IO83             M7REV         -05 IO82
+QSO:   432 FT8 2022-11-09 1944 G4APJ         +02 IO83             M0IEP         +10 IO91
+QSO:   432 FT8 2022-11-09 1945 G4APJ         -05 IO83             2E0JPO        +16 IO91
+QSO:   432 FT8 2022-11-09 1946 G4APJ         -10 IO83             G3WZK         -09 IO91
+QSO:   432 FT8 2022-11-09 1948 G4APJ         -02 IO83             G4OED         -12 IO91
+QSO:   432 FT8 2022-11-09 1950 G4APJ         -05 IO83             G7WIR         -10 JO01
+QSO:   432 FT8 2022-11-09 1953 G4APJ         +03 IO83             G3ZPB         -16 IO91
+QSO:   432 FT8 2022-11-09 1955 G4APJ         +13 IO83             G7LRQ         +02 IO91
+QSO:   432 FT8 2022-11-09 1957 G4APJ         -11 IO83             G3YDY         +01 JO01
+QSO:   432 FT8 2022-11-09 2004 G4APJ         +09 IO83             G4EII         +09 IO83
+QSO:   432 FT8 2022-11-09 2011 G4APJ         -07 IO83             G0GRI         -01 IO80
+QSO:   432 FT8 2022-11-09 2015 G4APJ         -09 IO83             G4VPD         +02 IO92
+QSO:   432 FT8 2022-11-09 2031 G4APJ         -15 IO83             G8CRB         -19 JO02
+QSO:   432 FT8 2022-11-09 2055 G4APJ         -04 IO83             G0OFC         +06 IO92
 END-OF-LOG:

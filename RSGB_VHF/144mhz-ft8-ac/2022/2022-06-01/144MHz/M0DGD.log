@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220601&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=921; excluded rows=0.
-QSO:   144 DG 2022-06-01 1907 M0DGD         -04 JO01             M7APV         -03 JO01
-QSO:   144 DG 2022-06-01 1909 M0DGD         -02 JO01             G4FFY         +05 JO01
-QSO:   144 DG 2022-06-01 1912 M0DGD         -12 JO01             2E0DBS        -15 JO02
-QSO:   144 DG 2022-06-01 1916 M0DGD         -18 JO01             GQ4PDF        -16 IO93
-QSO:   144 DG 2022-06-01 1934 M0DGD         -12 JO01             G4ZZL         -14 JO01
-QSO:   144 DG 2022-06-01 1952 M0DGD         -10 JO01             GQ7WIR        -24 JO01
-QSO:   144 DG 2022-06-01 1957 M0DGD         -04 JO01             2E0DUE        -06 JO01
-QSO:   144 DG 2022-06-01 2007 M0DGD         +00 JO01             GB0QPJ        -07 JO01
-QSO:   144 DG 2022-06-01 2021 M0DGD         -03 JO01             G7ICV         +11 JO01
-QSO:   144 DG 2022-06-01 2025 M0DGD         -03 JO01             G7LRQ         -13 IO91
-QSO:   144 DG 2022-06-01 2028 M0DGD         -08 JO01             2Q0IEI        -17 IO81
-QSO:   144 DG 2022-06-01 2056 M0DGD         -18 JO01             PA5PEK        -22 JO11
+QSO:   144 FT8 2022-06-01 1907 M0DGD         -04 JO01             M7APV         -03 JO01
+QSO:   144 FT8 2022-06-01 1909 M0DGD         -02 JO01             G4FFY         +05 JO01
+QSO:   144 FT8 2022-06-01 1912 M0DGD         -12 JO01             2E0DBS        -15 JO02
+QSO:   144 FT8 2022-06-01 1916 M0DGD         -18 JO01             GQ4PDF        -16 IO93
+QSO:   144 FT8 2022-06-01 1934 M0DGD         -12 JO01             G4ZZL         -14 JO01
+QSO:   144 FT8 2022-06-01 1952 M0DGD         -10 JO01             GQ7WIR        -24 JO01
+QSO:   144 FT8 2022-06-01 1957 M0DGD         -04 JO01             2E0DUE        -06 JO01
+QSO:   144 FT8 2022-06-01 2007 M0DGD         +00 JO01             GB0QPJ        -07 JO01
+QSO:   144 FT8 2022-06-01 2021 M0DGD         -03 JO01             G7ICV         +11 JO01
+QSO:   144 FT8 2022-06-01 2025 M0DGD         -03 JO01             G7LRQ         -13 IO91
+QSO:   144 FT8 2022-06-01 2028 M0DGD         -08 JO01             2Q0IEI        -17 IO81
+QSO:   144 FT8 2022-06-01 2056 M0DGD         -18 JO01             PA5PEK        -22 JO11
 END-OF-LOG:

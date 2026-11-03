@@ -2,7 +2,7 @@ START-OF-LOG: 3.0
 CREATED-BY: RSGB-public-qso-downloader
 CONTEST: RSGB-RSGB-FT4-CONTEST
 CALLSIGN: DL7VTW
-CATEGORY-MODE: RTTY
+CATEGORY-MODE: DIGI
 CATEGORY-BAND: 20M
 CATEGORY-POWER: LOW
 CATEGORY: Non-UK 100W RESTRICTED
@@ -10,25 +10,26 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260727&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7916; excluded rows=0.
-QSO: 14000 RY 2026-07-27 1900 DL7VTW        +11 -                LX1RFJ        -05 -
-QSO: 14000 RY 2026-07-27 1905 DL7VTW        +02 -                G8KHF         -03 -
-QSO: 14000 RY 2026-07-27 1906 DL7VTW        +12 -                ON7VZ         +17 -
-QSO: 14000 RY 2026-07-27 1907 DL7VTW        -09 -                DF0KK         -11 -
-QSO: 14000 RY 2026-07-27 1910 DL7VTW        -01 -                IS0PTW        -04 -
-QSO: 14000 RY 2026-07-27 1911 DL7VTW        +12 -                F4IBJ         -04 -
-QSO: 14000 RY 2026-07-27 1916 DL7VTW        -04 -                OE3ICA        +03 -
-QSO: 14000 RY 2026-07-27 1920 DL7VTW        +07 -                SV1DKR        -04 -
-QSO: 14000 RY 2026-07-27 1922 DL7VTW        -03 -                JA9BFN        -06 -
-QSO: 14000 RY 2026-07-27 1923 DL7VTW        +05 -                YO8CNA        -08 -
-QSO: 14000 RY 2026-07-27 1929 DL7VTW        -03 -                ON3CCM        -02 -
-QSO: 14000 RY 2026-07-27 1931 DL7VTW        +00 -                UA0AV         -03 -
-QSO: 14000 RY 2026-07-27 1932 DL7VTW        +05 -                PD9MK         -08 -
-QSO: 14000 RY 2026-07-27 1933 DL7VTW        +17 -                HG7WDL        +02 -
-QSO: 14000 RY 2026-07-27 1933 DL7VTW        -09 -                PA2A          -10 -
-QSO: 14000 RY 2026-07-27 1935 DL7VTW        -04 -                G4BYE         -06 -
-QSO: 14000 RY 2026-07-27 1936 DL7VTW        +08 -                GW4JBQ        -01 -
-QSO: 14000 RY 2026-07-27 1937 DL7VTW        -08 -                M5BBB         -02 -
-QSO: 14000 RY 2026-07-27 1938 DL7VTW        +16 -                RC6OU         +02 -
-QSO: 14000 RY 2026-07-27 1940 DL7VTW        +18 -                YO4NF         +07 -
+QSO: 14000 FT4 2026-07-27 1900 DL7VTW        +11 -                LX1RFJ        -05 -
+QSO: 14000 FT4 2026-07-27 1905 DL7VTW        +02 -                G8KHF         -03 -
+QSO: 14000 FT4 2026-07-27 1906 DL7VTW        +12 -                ON7VZ         +17 -
+QSO: 14000 FT4 2026-07-27 1907 DL7VTW        -09 -                DF0KK         -11 -
+QSO: 14000 FT4 2026-07-27 1910 DL7VTW        -01 -                IS0PTW        -04 -
+QSO: 14000 FT4 2026-07-27 1911 DL7VTW        +12 -                F4IBJ         -04 -
+QSO: 14000 FT4 2026-07-27 1916 DL7VTW        -04 -                OE3ICA        +03 -
+QSO: 14000 FT4 2026-07-27 1920 DL7VTW        +07 -                SV1DKR        -04 -
+QSO: 14000 FT4 2026-07-27 1922 DL7VTW        -03 -                JA9BFN        -06 -
+QSO: 14000 FT4 2026-07-27 1923 DL7VTW        +05 -                YO8CNA        -08 -
+QSO: 14000 FT4 2026-07-27 1929 DL7VTW        -03 -                ON3CCM        -02 -
+QSO: 14000 FT4 2026-07-27 1931 DL7VTW        +00 -                UA0AV         -03 -
+QSO: 14000 FT4 2026-07-27 1932 DL7VTW        +05 -                PD9MK         -08 -
+QSO: 14000 FT4 2026-07-27 1933 DL7VTW        +17 -                HG7WDL        +02 -
+QSO: 14000 FT4 2026-07-27 1933 DL7VTW        -09 -                PA2A          -10 -
+QSO: 14000 FT4 2026-07-27 1935 DL7VTW        -04 -                G4BYE         -06 -
+QSO: 14000 FT4 2026-07-27 1936 DL7VTW        +08 -                GW4JBQ        -01 -
+QSO: 14000 FT4 2026-07-27 1937 DL7VTW        -08 -                M5BBB         -02 -
+QSO: 14000 FT4 2026-07-27 1938 DL7VTW        +16 -                RC6OU         +02 -
+QSO: 14000 FT4 2026-07-27 1940 DL7VTW        +18 -                YO4NF         +07 -
 END-OF-LOG:

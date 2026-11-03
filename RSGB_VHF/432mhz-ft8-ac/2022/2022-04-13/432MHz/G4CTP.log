@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220413&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=794; excluded rows=0.
-QSO:   432 DG 2022-04-13 1906 G4CTP         -06 IO91             M0XTY         -12 JO01
-QSO:   432 DG 2022-04-13 1916 G4CTP         -15 IO91             G3WZK         -18 IO91
-QSO:   432 DG 2022-04-13 1918 G4CTP         +19 IO91             G4EFT         +24 IO91
-QSO:   432 DG 2022-04-13 1922 G4CTP         +13 IO91             G7LRQ         -03 IO91
-QSO:   432 DG 2022-04-13 1924 G4CTP         -06 IO91             G7WIR         -14 JO01
-QSO:   432 DG 2022-04-13 1935 G4CTP         -02 IO91             G3ZPB         -14 -
-QSO:   432 DG 2022-04-13 1951 G4CTP         -06 IO91             G0BIX         -24 JO01
-QSO:   432 DG 2022-04-13 1957 G4CTP         -08 IO91             2E0DUE        -24 JO01
-QSO:   432 DG 2022-04-13 2031 G4CTP         +07 IO91             G4NBS         -05 JO02
-QSO:   432 DG 2022-04-13 2037 G4CTP         +13 IO91             M0FXX         -08 IO91
-QSO:   432 DG 2022-04-13 2043 G4CTP         -06 IO91             G0MBL         -13 JO01
+QSO:   432 FT8 2022-04-13 1906 G4CTP         -06 IO91             M0XTY         -12 JO01
+QSO:   432 FT8 2022-04-13 1916 G4CTP         -15 IO91             G3WZK         -18 IO91
+QSO:   432 FT8 2022-04-13 1918 G4CTP         +19 IO91             G4EFT         +24 IO91
+QSO:   432 FT8 2022-04-13 1922 G4CTP         +13 IO91             G7LRQ         -03 IO91
+QSO:   432 FT8 2022-04-13 1924 G4CTP         -06 IO91             G7WIR         -14 JO01
+QSO:   432 FT8 2022-04-13 1935 G4CTP         -02 IO91             G3ZPB         -14 -
+QSO:   432 FT8 2022-04-13 1951 G4CTP         -06 IO91             G0BIX         -24 JO01
+QSO:   432 FT8 2022-04-13 1957 G4CTP         -08 IO91             2E0DUE        -24 JO01
+QSO:   432 FT8 2022-04-13 2031 G4CTP         +07 IO91             G4NBS         -05 JO02
+QSO:   432 FT8 2022-04-13 2037 G4CTP         +13 IO91             M0FXX         -08 IO91
+QSO:   432 FT8 2022-04-13 2043 G4CTP         -06 IO91             G0MBL         -13 JO01
 END-OF-LOG:

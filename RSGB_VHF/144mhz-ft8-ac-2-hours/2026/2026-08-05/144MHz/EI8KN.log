@@ -10,40 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260805&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=829; excluded rows=0.
-QSO:   144 DG 2026-08-05 1910 EI8KN         -10 IO62             EI3ENB        +24 IO62
-QSO:   144 DG 2026-08-05 1911 EI8KN         -23 IO62             G8IXK         -21 IO91
-QSO:   144 DG 2026-08-05 1914 EI8KN         -11 IO62             M9VGP         -08 IO91
-QSO:   144 DG 2026-08-05 1916 EI8KN         -16 IO62             M9DJN         -04 IO82
-QSO:   144 DG 2026-08-05 1922 EI8KN         -13 IO62             G0JJG         -22 JO02
-QSO:   144 DG 2026-08-05 1925 EI8KN         -02 IO62             MM0CEZ        +02 IO75
-QSO:   144 DG 2026-08-05 1929 EI8KN         -12 IO62             GM4JTJ        +07 IO86
-QSO:   144 DG 2026-08-05 1932 EI8KN         -21 IO62             GM8IEM        -25 IO78
-QSO:   144 DG 2026-08-05 1936 EI8KN         -18 IO62             GM7PKT        -16 IO76
-QSO:   144 DG 2026-08-05 1937 EI8KN         -08 IO62             GM8MJV        +28 IO85
-QSO:   144 DG 2026-08-05 1943 EI8KN         -09 IO62             G4ZTR         -04 JO01
-QSO:   144 DG 2026-08-05 1944 EI8KN         -18 IO62             G0BIX         -22 JO01
-QSO:   144 DG 2026-08-05 1946 EI8KN         -11 IO62             G8YPE         -12 IO92
-QSO:   144 DG 2026-08-05 1948 EI8KN         -11 IO62             G7LRQ         +05 JO03
-QSO:   144 DG 2026-08-05 1951 EI8KN         -12 IO62             G0XDI         +07 IO91
-QSO:   144 DG 2026-08-05 1952 EI8KN         -08 IO62             G8EEM         -12 IO93
-QSO:   144 DG 2026-08-05 1958 EI8KN         -17 IO62             G3YDY         -18 JO01
-QSO:   144 DG 2026-08-05 2002 EI8KN         -05 IO62             G8SEI         -11 IO92
-QSO:   144 DG 2026-08-05 2003 EI8KN         -05 IO62             G7WIR         -08 JO01
-QSO:   144 DG 2026-08-05 2005 EI8KN         -15 IO62             G4FFY         -17 JO01
-QSO:   144 DG 2026-08-05 2006 EI8KN         -22 IO62             F1FPL         -05 JN09
-QSO:   144 DG 2026-08-05 2010 EI8KN         -08 IO62             M8GTD         +01 IO70
-QSO:   144 DG 2026-08-05 2012 EI8KN         -13 IO62             MW0UAA        -14 IO81
-QSO:   144 DG 2026-08-05 2015 EI8KN         -18 IO62             F8BON         -06 IN86
-QSO:   144 DG 2026-08-05 2021 EI8KN         -13 IO62             G8DER         +10 IO81
-QSO:   144 DG 2026-08-05 2024 EI8KN         -13 IO62             G0JDL         -15 JO02
-QSO:   144 DG 2026-08-05 2025 EI8KN         -05 IO62             G4HGI         -01 IO83
-QSO:   144 DG 2026-08-05 2029 EI8KN         -17 IO62             M1EYP         -13 IO83
-QSO:   144 DG 2026-08-05 2031 EI8KN         -16 IO62             G8LIY         -16 IO83
-QSO:   144 DG 2026-08-05 2033 EI8KN         -12 IO62             GM4FVM        -17 IO85
-QSO:   144 DG 2026-08-05 2044 EI8KN         -13 IO62             G6HIE         -13 JO00
-QSO:   144 DG 2026-08-05 2046 EI8KN         -13 IO62             F1NQP         -26 JN19
-QSO:   144 DG 2026-08-05 2048 EI8KN         -12 IO62             G3WAG/P       +16 IO82
-QSO:   144 DG 2026-08-05 2054 EI8KN         -20 IO62             G4CXT         -16 JO02
+QSO:   144 FT8 2026-08-05 1910 EI8KN         -10 IO62             EI3ENB        +24 IO62
+QSO:   144 FT8 2026-08-05 1911 EI8KN         -23 IO62             G8IXK         -21 IO91
+QSO:   144 FT8 2026-08-05 1914 EI8KN         -11 IO62             M9VGP         -08 IO91
+QSO:   144 FT8 2026-08-05 1916 EI8KN         -16 IO62             M9DJN         -04 IO82
+QSO:   144 FT8 2026-08-05 1922 EI8KN         -13 IO62             G0JJG         -22 JO02
+QSO:   144 FT8 2026-08-05 1925 EI8KN         -02 IO62             MM0CEZ        +02 IO75
+QSO:   144 FT8 2026-08-05 1929 EI8KN         -12 IO62             GM4JTJ        +07 IO86
+QSO:   144 FT8 2026-08-05 1932 EI8KN         -21 IO62             GM8IEM        -25 IO78
+QSO:   144 FT8 2026-08-05 1936 EI8KN         -18 IO62             GM7PKT        -16 IO76
+QSO:   144 FT8 2026-08-05 1937 EI8KN         -08 IO62             GM8MJV        +28 IO85
+QSO:   144 FT8 2026-08-05 1943 EI8KN         -09 IO62             G4ZTR         -04 JO01
+QSO:   144 FT8 2026-08-05 1944 EI8KN         -18 IO62             G0BIX         -22 JO01
+QSO:   144 FT8 2026-08-05 1946 EI8KN         -11 IO62             G8YPE         -12 IO92
+QSO:   144 FT8 2026-08-05 1948 EI8KN         -11 IO62             G7LRQ         +05 JO03
+QSO:   144 FT8 2026-08-05 1951 EI8KN         -12 IO62             G0XDI         +07 IO91
+QSO:   144 FT8 2026-08-05 1952 EI8KN         -08 IO62             G8EEM         -12 IO93
+QSO:   144 FT8 2026-08-05 1958 EI8KN         -17 IO62             G3YDY         -18 JO01
+QSO:   144 FT8 2026-08-05 2002 EI8KN         -05 IO62             G8SEI         -11 IO92
+QSO:   144 FT8 2026-08-05 2003 EI8KN         -05 IO62             G7WIR         -08 JO01
+QSO:   144 FT8 2026-08-05 2005 EI8KN         -15 IO62             G4FFY         -17 JO01
+QSO:   144 FT8 2026-08-05 2006 EI8KN         -22 IO62             F1FPL         -05 JN09
+QSO:   144 FT8 2026-08-05 2010 EI8KN         -08 IO62             M8GTD         +01 IO70
+QSO:   144 FT8 2026-08-05 2012 EI8KN         -13 IO62             MW0UAA        -14 IO81
+QSO:   144 FT8 2026-08-05 2015 EI8KN         -18 IO62             F8BON         -06 IN86
+QSO:   144 FT8 2026-08-05 2021 EI8KN         -13 IO62             G8DER         +10 IO81
+QSO:   144 FT8 2026-08-05 2024 EI8KN         -13 IO62             G0JDL         -15 JO02
+QSO:   144 FT8 2026-08-05 2025 EI8KN         -05 IO62             G4HGI         -01 IO83
+QSO:   144 FT8 2026-08-05 2029 EI8KN         -17 IO62             M1EYP         -13 IO83
+QSO:   144 FT8 2026-08-05 2031 EI8KN         -16 IO62             G8LIY         -16 IO83
+QSO:   144 FT8 2026-08-05 2033 EI8KN         -12 IO62             GM4FVM        -17 IO85
+QSO:   144 FT8 2026-08-05 2044 EI8KN         -13 IO62             G6HIE         -13 JO00
+QSO:   144 FT8 2026-08-05 2046 EI8KN         -13 IO62             F1NQP         -26 JN19
+QSO:   144 FT8 2026-08-05 2048 EI8KN         -12 IO62             G3WAG/P       +16 IO82
+QSO:   144 FT8 2026-08-05 2054 EI8KN         -20 IO62             G4CXT         -16 JO02
 END-OF-LOG:

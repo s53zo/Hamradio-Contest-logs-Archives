@@ -10,36 +10,37 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO:  1844 DG 2026-04-11 2340 SP5UFK        +00 -                G6P           -02 -
-QSO:  1844 DG 2026-04-11 2342 SP5UFK        -16 -                G4ARI         -13 -
-QSO:  1844 DG 2026-04-11 2343 SP5UFK        +04 -                DO6LE         +02 -
-QSO:  1844 DG 2026-04-11 2344 SP5UFK        -03 -                GM5G          -14 -
-QSO:  3577 DG 2026-04-11 2347 SP5UFK        +03 -                DO5HOK        -10 -
-QSO:  3577 DG 2026-04-11 2348 SP5UFK        +06 -                MM0KPV        +11 -
-QSO:  3577 DG 2026-04-11 2348 SP5UFK        +04 -                G3SWC         +08 -
-QSO:  3577 DG 2026-04-11 2349 SP5UFK        -08 -                DO1KPH        +02 -
-QSO:  3577 DG 2026-04-11 2350 SP5UFK        +01 -                G4ARI         +08 -
-QSO:  3577 DG 2026-04-11 2352 SP5UFK        -05 -                W1UE          -06 -
-QSO:  3577 DG 2026-04-11 2355 SP5UFK        +12 -                G7L           +13 -
-QSO:  3577 DG 2026-04-11 2355 SP5UFK        +11 -                DO6LE         +12 -
-QSO:  3577 DG 2026-04-11 2356 SP5UFK        +08 -                SQ9DJQ        +33 -
-QSO:  3577 DG 2026-04-11 2357 SP5UFK        +06 -                G5FZ          +12 -
-QSO:  3577 DG 2026-04-11 2358 SP5UFK        +03 -                DB4BIN        +10 -
-QSO:  3577 DG 2026-04-12 0000 SP5UFK        +08 -                G7M           +00 -
-QSO:  3577 DG 2026-04-12 0001 SP5UFK        +01 -                PC2F          -16 -
-QSO:  3577 DG 2026-04-12 0002 SP5UFK        +01 -                GM5G          +05 -
-QSO:  3576 DG 2026-04-12 0004 SP5UFK        +08 -                G0HSP         +06 -
-QSO:  3577 DG 2026-04-12 0005 SP5UFK        -04 -                G6RST         -02 -
-QSO:  3577 DG 2026-04-12 0007 SP5UFK        +02 -                I1WXY         -07 -
-QSO:  3577 DG 2026-04-12 0008 SP5UFK        +09 -                G7RAU         -04 -
-QSO:  3576 DG 2026-04-12 0012 SP5UFK        -08 -                G3TKT/P       +09 -
-QSO:  3577 DG 2026-04-12 0013 SP5UFK        +07 -                G6P           +01 -
-QSO:  3577 DG 2026-04-12 0020 SP5UFK        +04 -                G4R           +06 -
-QSO:  7049 DG 2026-04-12 0034 SP5UFK        +02 -                W1UE          -14 -
-QSO:  7049 DG 2026-04-12 0039 SP5UFK        +06 -                K9OM          -12 -
-QSO:  7048 DG 2026-04-12 0100 SP5UFK        -05 -                G0HSP         -19 -
-QSO:  3576 DG 2026-04-12 0109 SP5UFK        -07 -                EA1JZB        -08 -
-QSO:  3576 DG 2026-04-12 0109 SP5UFK        +01 -                RJ6D          +00 -
-QSO:  3576 DG 2026-04-12 0114 SP5UFK        +14 -                DJ9MH         -06 -
+QSO:  1844 FT4 2026-04-11 2340 SP5UFK        +00 -                G6P           -02 -
+QSO:  1844 FT4 2026-04-11 2342 SP5UFK        -16 -                G4ARI         -13 -
+QSO:  1844 FT4 2026-04-11 2343 SP5UFK        +04 -                DO6LE         +02 -
+QSO:  1844 FT4 2026-04-11 2344 SP5UFK        -03 -                GM5G          -14 -
+QSO:  3577 FT4 2026-04-11 2347 SP5UFK        +03 -                DO5HOK        -10 -
+QSO:  3577 FT4 2026-04-11 2348 SP5UFK        +06 -                MM0KPV        +11 -
+QSO:  3577 FT4 2026-04-11 2348 SP5UFK        +04 -                G3SWC         +08 -
+QSO:  3577 FT4 2026-04-11 2349 SP5UFK        -08 -                DO1KPH        +02 -
+QSO:  3577 FT4 2026-04-11 2350 SP5UFK        +01 -                G4ARI         +08 -
+QSO:  3577 FT4 2026-04-11 2352 SP5UFK        -05 -                W1UE          -06 -
+QSO:  3577 FT4 2026-04-11 2355 SP5UFK        +12 -                G7L           +13 -
+QSO:  3577 FT4 2026-04-11 2355 SP5UFK        +11 -                DO6LE         +12 -
+QSO:  3577 FT4 2026-04-11 2356 SP5UFK        +08 -                SQ9DJQ        +33 -
+QSO:  3577 FT4 2026-04-11 2357 SP5UFK        +06 -                G5FZ          +12 -
+QSO:  3577 FT4 2026-04-11 2358 SP5UFK        +03 -                DB4BIN        +10 -
+QSO:  3577 FT4 2026-04-12 0000 SP5UFK        +08 -                G7M           +00 -
+QSO:  3577 FT4 2026-04-12 0001 SP5UFK        +01 -                PC2F          -16 -
+QSO:  3577 FT4 2026-04-12 0002 SP5UFK        +01 -                GM5G          +05 -
+QSO:  3576 FT4 2026-04-12 0004 SP5UFK        +08 -                G0HSP         +06 -
+QSO:  3577 FT4 2026-04-12 0005 SP5UFK        -04 -                G6RST         -02 -
+QSO:  3577 FT4 2026-04-12 0007 SP5UFK        +02 -                I1WXY         -07 -
+QSO:  3577 FT4 2026-04-12 0008 SP5UFK        +09 -                G7RAU         -04 -
+QSO:  3576 FT4 2026-04-12 0012 SP5UFK        -08 -                G3TKT/P       +09 -
+QSO:  3577 FT4 2026-04-12 0013 SP5UFK        +07 -                G6P           +01 -
+QSO:  3577 FT4 2026-04-12 0020 SP5UFK        +04 -                G4R           +06 -
+QSO:  7049 FT4 2026-04-12 0034 SP5UFK        +02 -                W1UE          -14 -
+QSO:  7049 FT4 2026-04-12 0039 SP5UFK        +06 -                K9OM          -12 -
+QSO:  7048 FT4 2026-04-12 0100 SP5UFK        -05 -                G0HSP         -19 -
+QSO:  3576 FT4 2026-04-12 0109 SP5UFK        -07 -                EA1JZB        -08 -
+QSO:  3576 FT4 2026-04-12 0109 SP5UFK        +01 -                RJ6D          +00 -
+QSO:  3576 FT4 2026-04-12 0114 SP5UFK        +14 -                DJ9MH         -06 -
 END-OF-LOG:

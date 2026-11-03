@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220803&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1776; excluded rows=3.
-QSO:   144 DG 2022-08-03 1902 M7ICL         +02 JO02             GI6ATZ        -11 IO74
-QSO:   144 DG 2022-08-03 1905 M7ICL         +13 JO02             G4NBS         -11 JO02
-QSO:   144 DG 2022-08-03 1926 M7ICL         -04 JO02             G7KHV         -14 IO93
-QSO:   144 DG 2022-08-03 1937 M7ICL         -14 JO02             G4MHJ         -19 JO01
-QSO:   144 DG 2022-08-03 1944 M7ICL         -16 JO02             M7APV         -21 JO01
-QSO:   144 DG 2022-08-03 2009 M7ICL         -04 JO02             M0SKT         -11 IO92
-QSO:   144 DG 2022-08-03 2011 M7ICL         -16 JO02             M0DGD         -22 JO01
-QSO:   144 DG 2022-08-03 2021 M7ICL         -06 JO02             G1MIS         -15 IO92
-QSO:   144 DG 2022-08-03 2028 M7ICL         -01 JO02             G4HGV         -08 IO91
-QSO:   144 DG 2022-08-03 2045 M7ICL         -02 JO02             G8CRB         -13 JO02
-QSO:   144 DG 2022-08-03 2054 M7ICL         -01 JO02             G8EEM         -24 IO93
+QSO:   144 FT8 2022-08-03 1902 M7ICL         +02 JO02             GI6ATZ        -11 IO74
+QSO:   144 FT8 2022-08-03 1905 M7ICL         +13 JO02             G4NBS         -11 JO02
+QSO:   144 FT8 2022-08-03 1926 M7ICL         -04 JO02             G7KHV         -14 IO93
+QSO:   144 FT8 2022-08-03 1937 M7ICL         -14 JO02             G4MHJ         -19 JO01
+QSO:   144 FT8 2022-08-03 1944 M7ICL         -16 JO02             M7APV         -21 JO01
+QSO:   144 FT8 2022-08-03 2009 M7ICL         -04 JO02             M0SKT         -11 IO92
+QSO:   144 FT8 2022-08-03 2011 M7ICL         -16 JO02             M0DGD         -22 JO01
+QSO:   144 FT8 2022-08-03 2021 M7ICL         -06 JO02             G1MIS         -15 IO92
+QSO:   144 FT8 2022-08-03 2028 M7ICL         -01 JO02             G4HGV         -08 IO91
+QSO:   144 FT8 2022-08-03 2045 M7ICL         -02 JO02             G8CRB         -13 JO02
+QSO:   144 FT8 2022-08-03 2054 M7ICL         -01 JO02             G8EEM         -24 IO93
 END-OF-LOG:

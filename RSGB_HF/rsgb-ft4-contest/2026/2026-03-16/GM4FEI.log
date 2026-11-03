@@ -10,21 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO: 14081 DG 2026-03-16 2024 GM4FEI        +02 -                W1UE          -10 -
-QSO: 14081 DG 2026-03-16 2041 GM4FEI        +13 -                VO1WAR        -05 -
-QSO: 14082 DG 2026-03-16 2045 GM4FEI        +12 -                PY5EJ         -17 -
-QSO: 14080 DG 2026-03-16 2050 GM4FEI        +14 -                P4/WE9V       -10 -
-QSO:  7048 DG 2026-03-16 2100 GM4FEI        +09 -                DH9ET         +02 -
-QSO:  7048 DG 2026-03-16 2102 GM4FEI        +07 -                HA9MDP        -12 -
-QSO:  7049 DG 2026-03-16 2109 GM4FEI        +13 -                HA7XL         -07 -
-QSO:  7049 DG 2026-03-16 2110 GM4FEI        -04 -                9A1HR         -01 -
-QSO:  7049 DG 2026-03-16 2116 GM4FEI        -05 -                OE8RPK        -08 -
-QSO:  7049 DG 2026-03-16 2119 GM4FEI        +07 -                YT1DL         -02 -
-QSO:  7049 DG 2026-03-16 2120 GM4FEI        -12 -                DG7FBB        -13 -
-QSO: 14080 DG 2026-03-16 2125 GM4FEI        +10 -                NT2A          -11 -
-QSO:  3576 DG 2026-03-16 2132 GM4FEI        +08 -                G7NJX         -08 -
-QSO:  3575 DG 2026-03-16 2137 GM4FEI        -06 -                OT8P          -08 -
-QSO:  3576 DG 2026-03-16 2150 GM4FEI        +00 -                F6KHM         -01 -
-QSO:  3575 DG 2026-03-16 2158 GM4FEI        +25 -                G6P           +10 -
+QSO: 14081 FT4 2026-03-16 2024 GM4FEI        +02 -                W1UE          -10 -
+QSO: 14081 FT4 2026-03-16 2041 GM4FEI        +13 -                VO1WAR        -05 -
+QSO: 14082 FT4 2026-03-16 2045 GM4FEI        +12 -                PY5EJ         -17 -
+QSO: 14080 FT4 2026-03-16 2050 GM4FEI        +14 -                P4/WE9V       -10 -
+QSO:  7048 FT4 2026-03-16 2100 GM4FEI        +09 -                DH9ET         +02 -
+QSO:  7048 FT4 2026-03-16 2102 GM4FEI        +07 -                HA9MDP        -12 -
+QSO:  7049 FT4 2026-03-16 2109 GM4FEI        +13 -                HA7XL         -07 -
+QSO:  7049 FT4 2026-03-16 2110 GM4FEI        -04 -                9A1HR         -01 -
+QSO:  7049 FT4 2026-03-16 2116 GM4FEI        -05 -                OE8RPK        -08 -
+QSO:  7049 FT4 2026-03-16 2119 GM4FEI        +07 -                YT1DL         -02 -
+QSO:  7049 FT4 2026-03-16 2120 GM4FEI        -12 -                DG7FBB        -13 -
+QSO: 14080 FT4 2026-03-16 2125 GM4FEI        +10 -                NT2A          -11 -
+QSO:  3576 FT4 2026-03-16 2132 GM4FEI        +08 -                G7NJX         -08 -
+QSO:  3575 FT4 2026-03-16 2137 GM4FEI        -06 -                OT8P          -08 -
+QSO:  3576 FT4 2026-03-16 2150 GM4FEI        +00 -                F6KHM         -01 -
+QSO:  3575 FT4 2026-03-16 2158 GM4FEI        +25 -                G6P           +10 -
 END-OF-LOG:

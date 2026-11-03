@@ -9,32 +9,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260928&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=6998; excluded rows=0.
-QSO:  7048 DG 2026-09-28 1903 G0PPP         +15 -                PH3T          -06 -
-QSO:  7049 DG 2026-09-28 1903 G0PPP         +16 -                PH3T          -12 -
-QSO:  7048 DG 2026-09-28 1905 G0PPP         +10 -                PA4GDR        -16 -
-QSO:  7049 DG 2026-09-28 1907 G0PPP         +11 -                PE1PIX        -02 -
-QSO:  7049 DG 2026-09-28 1908 G0PPP         +04 -                PC4H          -06 -
-QSO:  7050 DG 2026-09-28 1909 G0PPP         +09 -                F5OIH         -07 -
-QSO:  7047 DG 2026-09-28 1911 G0PPP         +03 -                OZ7DR         -06 -
-QSO: 14082 DG 2026-09-28 1918 G0PPP         +19 -                YO3RU         +04 -
-QSO: 14080 DG 2026-09-28 1920 G0PPP         +04 -                LZ1QZ         +04 -
-QSO: 14080 DG 2026-09-28 1923 G0PPP         +21 -                CR7BRV        +05 -
-QSO: 14081 DG 2026-09-28 1927 G0PPP         -04 -                EA5QS         -11 -
-QSO: 14081 DG 2026-09-28 1930 G0PPP         +14 -                EA4ZI         -19 -
-QSO: 14081 DG 2026-09-28 1932 G0PPP         -08 -                UX5UO         -21 -
-QSO: 14081 DG 2026-09-28 1933 G0PPP         +00 -                R3EDI         +02 -
-QSO: 14082 DG 2026-09-28 1935 G0PPP         +14 -                RU3UR         -12 -
-QSO: 14081 DG 2026-09-28 1937 G0PPP         +11 -                TF4CU         -03 -
-QSO:  7049 DG 2026-09-28 1950 G0PPP         +08 -                PA3EOZ        -07 -
-QSO: 14080 DG 2026-09-28 1957 G0PPP         +16 -                CT7AUT        -08 -
-QSO: 14081 DG 2026-09-28 1959 G0PPP         +00 -                EA7GNT        -08 -
-QSO: 14081 DG 2026-09-28 1959 G0PPP         -07 -                G3TKT         -19 -
-QSO: 14081 DG 2026-09-28 2000 G0PPP         -07 -                EA7GNT        -08 -
-QSO: 14082 DG 2026-09-28 2002 G0PPP         +07 -                ER5DX         -12 -
-QSO:  7048 DG 2026-09-28 2012 G0PPP         -01 -                CT7AUT        -15 -
-QSO:  7049 DG 2026-09-28 2029 G0PPP         +09 -                IK2FTB        -19 -
-QSO: 14080 DG 2026-09-28 2032 G0PPP         +07 -                K9OM          -17 -
-QSO:  7049 DG 2026-09-28 2045 G0PPP         +02 -                DL7ACA        -12 -
-QSO:  7047 DG 2026-09-28 2053 G0PPP         +06 -                DL1FRH        -03 -
+QSO:  7048 FT4 2026-09-28 1903 G0PPP         +15 -                PH3T          -06 -
+QSO:  7049 FT4 2026-09-28 1903 G0PPP         +16 -                PH3T          -12 -
+QSO:  7048 FT4 2026-09-28 1905 G0PPP         +10 -                PA4GDR        -16 -
+QSO:  7049 FT4 2026-09-28 1907 G0PPP         +11 -                PE1PIX        -02 -
+QSO:  7049 FT4 2026-09-28 1908 G0PPP         +04 -                PC4H          -06 -
+QSO:  7050 FT4 2026-09-28 1909 G0PPP         +09 -                F5OIH         -07 -
+QSO:  7047 FT4 2026-09-28 1911 G0PPP         +03 -                OZ7DR         -06 -
+QSO: 14082 FT4 2026-09-28 1918 G0PPP         +19 -                YO3RU         +04 -
+QSO: 14080 FT4 2026-09-28 1920 G0PPP         +04 -                LZ1QZ         +04 -
+QSO: 14080 FT4 2026-09-28 1923 G0PPP         +21 -                CR7BRV        +05 -
+QSO: 14081 FT4 2026-09-28 1927 G0PPP         -04 -                EA5QS         -11 -
+QSO: 14081 FT4 2026-09-28 1930 G0PPP         +14 -                EA4ZI         -19 -
+QSO: 14081 FT4 2026-09-28 1932 G0PPP         -08 -                UX5UO         -21 -
+QSO: 14081 FT4 2026-09-28 1933 G0PPP         +00 -                R3EDI         +02 -
+QSO: 14082 FT4 2026-09-28 1935 G0PPP         +14 -                RU3UR         -12 -
+QSO: 14081 FT4 2026-09-28 1937 G0PPP         +11 -                TF4CU         -03 -
+QSO:  7049 FT4 2026-09-28 1950 G0PPP         +08 -                PA3EOZ        -07 -
+QSO: 14080 FT4 2026-09-28 1957 G0PPP         +16 -                CT7AUT        -08 -
+QSO: 14081 FT4 2026-09-28 1959 G0PPP         +00 -                EA7GNT        -08 -
+QSO: 14081 FT4 2026-09-28 1959 G0PPP         -07 -                G3TKT         -19 -
+QSO: 14081 FT4 2026-09-28 2000 G0PPP         -07 -                EA7GNT        -08 -
+QSO: 14082 FT4 2026-09-28 2002 G0PPP         +07 -                ER5DX         -12 -
+QSO:  7048 FT4 2026-09-28 2012 G0PPP         -01 -                CT7AUT        -15 -
+QSO:  7049 FT4 2026-09-28 2029 G0PPP         +09 -                IK2FTB        -19 -
+QSO: 14080 FT4 2026-09-28 2032 G0PPP         +07 -                K9OM          -17 -
+QSO:  7049 FT4 2026-09-28 2045 G0PPP         +02 -                DL7ACA        -12 -
+QSO:  7047 FT4 2026-09-28 2053 G0PPP         +06 -                DL1FRH        -03 -
 END-OF-LOG:

@@ -10,39 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260518&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7313; excluded rows=0.
-QSO: 14081 DG 2026-05-18 2004 SV1DZB        -03 -                M0MHX         -01 -
-QSO: 14080 DG 2026-05-18 2005 SV1DZB        -03 -                2D0PEY        +08 -
-QSO: 14082 DG 2026-05-18 2007 SV1DZB        -12 -                JA8JLC        -01 -
-QSO: 14082 DG 2026-05-18 2008 SV1DZB        +03 -                G7L           -07 -
-QSO: 14082 DG 2026-05-18 2008 SV1DZB        -02 -                GW5P          +03 -
-QSO: 14082 DG 2026-05-18 2009 SV1DZB        +05 -                UT5NM         +06 -
-QSO: 14082 DG 2026-05-18 2009 SV1DZB        -11 -                LA9RMA        -04 -
-QSO: 14082 DG 2026-05-18 2010 SV1DZB        -02 -                G3WJG         -06 -
-QSO: 14082 DG 2026-05-18 2011 SV1DZB        -14 -                JO7KMB        -05 -
-QSO: 14082 DG 2026-05-18 2050 SV1DZB        -08 -                MW0CVT        +01 -
-QSO: 14082 DG 2026-05-18 2013 SV1DZB        +07 -                OK2VCR        +17 -
-QSO: 14082 DG 2026-05-18 2013 SV1DZB        -08 -                G7NJX         +00 -
-QSO: 14082 DG 2026-05-18 2016 SV1DZB        -10 -                E77TH         -05 -
-QSO: 14082 DG 2026-05-18 2020 SV1DZB        -09 -                JA9RRH        -09 -
-QSO: 14082 DG 2026-05-18 2023 SV1DZB        -14 -                LA/G3SWC      -13 -
-QSO: 14082 DG 2026-05-18 2024 SV1DZB        -12 -                VE3WUE        +12 -
-QSO: 14082 DG 2026-05-18 2025 SV1DZB        -05 -                9A3AUH        +05 -
-QSO: 14082 DG 2026-05-18 2028 SV1DZB        -14 -                V49B          -01 -
-QSO: 14082 DG 2026-05-18 2029 SV1DZB        -03 -                SQ9DJQ        +08 -
-QSO: 14082 DG 2026-05-18 2031 SV1DZB        -16 -                M5N           +06 -
-QSO: 14082 DG 2026-05-18 2033 SV1DZB        +02 -                GM4VYQ        -03 -
-QSO: 14082 DG 2026-05-18 2037 SV1DZB        -13 -                JA8EPO        -04 -
-QSO: 14082 DG 2026-05-18 2037 SV1DZB        -04 -                YU1LM         +04 -
-QSO: 14082 DG 2026-05-18 2040 SV1DZB        -06 -                M0KNM         +05 -
-QSO: 14082 DG 2026-05-18 2042 SV1DZB        -11 -                G4SRT         -04 -
-QSO: 14082 DG 2026-05-18 2044 SV1DZB        -11 -                G6DXY         +01 -
-QSO: 14082 DG 2026-05-18 2043 SV1DZB        -17 -                G8NFZ         -07 -
-QSO: 14082 DG 2026-05-18 2045 SV1DZB        -03 -                DL4KSD        +10 -
-QSO: 14082 DG 2026-05-18 2048 SV1DZB        -10 -                G7ILZ         -11 -
-QSO: 14082 DG 2026-05-18 2049 SV1DZB        +08 -                F4NGR         +21 -
-QSO: 14082 DG 2026-05-18 2051 SV1DZB        -14 -                EA4AA         -17 -
-QSO: 14082 DG 2026-05-18 2051 SV1DZB        -14 -                G4JVG         -08 -
-QSO: 14082 DG 2026-05-18 2054 SV1DZB        +03 -                K6RO          +01 -
-QSO: 14082 DG 2026-05-18 2056 SV1DZB        -05 -                G4OZG         -03 -
+QSO: 14081 FT4 2026-05-18 2004 SV1DZB        -03 -                M0MHX         -01 -
+QSO: 14080 FT4 2026-05-18 2005 SV1DZB        -03 -                2D0PEY        +08 -
+QSO: 14082 FT4 2026-05-18 2007 SV1DZB        -12 -                JA8JLC        -01 -
+QSO: 14082 FT4 2026-05-18 2008 SV1DZB        +03 -                G7L           -07 -
+QSO: 14082 FT4 2026-05-18 2008 SV1DZB        -02 -                GW5P          +03 -
+QSO: 14082 FT4 2026-05-18 2009 SV1DZB        +05 -                UT5NM         +06 -
+QSO: 14082 FT4 2026-05-18 2009 SV1DZB        -11 -                LA9RMA        -04 -
+QSO: 14082 FT4 2026-05-18 2010 SV1DZB        -02 -                G3WJG         -06 -
+QSO: 14082 FT4 2026-05-18 2011 SV1DZB        -14 -                JO7KMB        -05 -
+QSO: 14082 FT4 2026-05-18 2050 SV1DZB        -08 -                MW0CVT        +01 -
+QSO: 14082 FT4 2026-05-18 2013 SV1DZB        +07 -                OK2VCR        +17 -
+QSO: 14082 FT4 2026-05-18 2013 SV1DZB        -08 -                G7NJX         +00 -
+QSO: 14082 FT4 2026-05-18 2016 SV1DZB        -10 -                E77TH         -05 -
+QSO: 14082 FT4 2026-05-18 2020 SV1DZB        -09 -                JA9RRH        -09 -
+QSO: 14082 FT4 2026-05-18 2023 SV1DZB        -14 -                LA/G3SWC      -13 -
+QSO: 14082 FT4 2026-05-18 2024 SV1DZB        -12 -                VE3WUE        +12 -
+QSO: 14082 FT4 2026-05-18 2025 SV1DZB        -05 -                9A3AUH        +05 -
+QSO: 14082 FT4 2026-05-18 2028 SV1DZB        -14 -                V49B          -01 -
+QSO: 14082 FT4 2026-05-18 2029 SV1DZB        -03 -                SQ9DJQ        +08 -
+QSO: 14082 FT4 2026-05-18 2031 SV1DZB        -16 -                M5N           +06 -
+QSO: 14082 FT4 2026-05-18 2033 SV1DZB        +02 -                GM4VYQ        -03 -
+QSO: 14082 FT4 2026-05-18 2037 SV1DZB        -13 -                JA8EPO        -04 -
+QSO: 14082 FT4 2026-05-18 2037 SV1DZB        -04 -                YU1LM         +04 -
+QSO: 14082 FT4 2026-05-18 2040 SV1DZB        -06 -                M0KNM         +05 -
+QSO: 14082 FT4 2026-05-18 2042 SV1DZB        -11 -                G4SRT         -04 -
+QSO: 14082 FT4 2026-05-18 2044 SV1DZB        -11 -                G6DXY         +01 -
+QSO: 14082 FT4 2026-05-18 2043 SV1DZB        -17 -                G8NFZ         -07 -
+QSO: 14082 FT4 2026-05-18 2045 SV1DZB        -03 -                DL4KSD        +10 -
+QSO: 14082 FT4 2026-05-18 2048 SV1DZB        -10 -                G7ILZ         -11 -
+QSO: 14082 FT4 2026-05-18 2049 SV1DZB        +08 -                F4NGR         +21 -
+QSO: 14082 FT4 2026-05-18 2051 SV1DZB        -14 -                EA4AA         -17 -
+QSO: 14082 FT4 2026-05-18 2051 SV1DZB        -14 -                G4JVG         -08 -
+QSO: 14082 FT4 2026-05-18 2054 SV1DZB        +03 -                K6RO          +01 -
+QSO: 14082 FT4 2026-05-18 2056 SV1DZB        -05 -                G4OZG         -03 -
 END-OF-LOG:

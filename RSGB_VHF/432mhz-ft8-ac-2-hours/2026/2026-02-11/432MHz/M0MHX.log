@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260211&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=449; excluded rows=0.
-QSO:   432 DG 2026-02-11 1901 M0MHX         +19 JO01             G0XDI         +11 IO91
-QSO:   432 DG 2026-02-11 1905 M0MHX         +25 JO01             G0BIX         +24 JO01
-QSO:   432 DG 2026-02-11 1906 M0MHX         +13 JO01             G7WIR         +15 JO01
-QSO:   432 DG 2026-02-11 1919 M0MHX         -02 JO01             G1HJW         -08 JO01
-QSO:   432 DG 2026-02-11 1921 M0MHX         -12 JO01             G0GJV         -10 IO91
-QSO:   432 DG 2026-02-11 1933 M0MHX         -13 JO01             G4ZTR         -08 JO01
-QSO:   432 DG 2026-02-11 1939 M0MHX         +22 JO01             G7FPE         +21 JO01
-QSO:   432 DG 2026-02-11 2027 M0MHX         +19 JO01             G4FFY         +16 JO01
-QSO:   432 DG 2026-02-11 2034 M0MHX         -16 JO01             G8SEI         -17 IO92
-QSO:   432 DG 2026-02-11 2037 M0MHX         -13 JO01             2E0MRK        -01 IO91
-QSO:   432 DG 2026-02-11 2038 M0MHX         -13 JO01             G8IXK         -10 IO91
-QSO:   432 DG 2026-02-11 2043 M0MHX         -17 JO01             M7GOA         -10 JO01
-QSO:   432 DG 2026-02-11 2053 M0MHX         -01 JO01             G7LRQ         +00 JO03
+QSO:   432 FT8 2026-02-11 1901 M0MHX         +19 JO01             G0XDI         +11 IO91
+QSO:   432 FT8 2026-02-11 1905 M0MHX         +25 JO01             G0BIX         +24 JO01
+QSO:   432 FT8 2026-02-11 1906 M0MHX         +13 JO01             G7WIR         +15 JO01
+QSO:   432 FT8 2026-02-11 1919 M0MHX         -02 JO01             G1HJW         -08 JO01
+QSO:   432 FT8 2026-02-11 1921 M0MHX         -12 JO01             G0GJV         -10 IO91
+QSO:   432 FT8 2026-02-11 1933 M0MHX         -13 JO01             G4ZTR         -08 JO01
+QSO:   432 FT8 2026-02-11 1939 M0MHX         +22 JO01             G7FPE         +21 JO01
+QSO:   432 FT8 2026-02-11 2027 M0MHX         +19 JO01             G4FFY         +16 JO01
+QSO:   432 FT8 2026-02-11 2034 M0MHX         -16 JO01             G8SEI         -17 IO92
+QSO:   432 FT8 2026-02-11 2037 M0MHX         -13 JO01             2E0MRK        -01 IO91
+QSO:   432 FT8 2026-02-11 2038 M0MHX         -13 JO01             G8IXK         -10 IO91
+QSO:   432 FT8 2026-02-11 2043 M0MHX         -17 JO01             M7GOA         -10 JO01
+QSO:   432 FT8 2026-02-11 2053 M0MHX         -01 JO01             G7LRQ         +00 JO03
 END-OF-LOG:

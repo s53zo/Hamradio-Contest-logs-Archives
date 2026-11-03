@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220706&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1581; excluded rows=0.
-QSO:   144 DG 2022-07-06 1903 M0VTC         -03 IO91             G1JSF         -13 IO91
-QSO:   144 DG 2022-07-06 1906 M0VTC         -09 IO91             M0XTY         -13 JO01
-QSO:   144 DG 2022-07-06 1908 M0VTC         -09 IO91             G3WAG/P       -18 IO82
-QSO:   144 DG 2022-07-06 1919 M0VTC         -15 IO91             2E0DBS        -19 JO02
-QSO:   144 DG 2022-07-06 1933 M0VTC         -11 IO91             2E0SNB        -21 IO91
-QSO:   144 DG 2022-07-06 1935 M0VTC         +24 IO91             M0HAO         +02 IO91
-QSO:   144 DG 2022-07-06 1943 M0VTC         -04 IO91             G0BIX         -06 JO01
-QSO:   144 DG 2022-07-06 2029 M0VTC         -16 IO91             F1FPL         -19 JN09
-QSO:   144 DG 2022-07-06 2045 M0VTC         -05 IO91             G8DER         -07 IO81
-QSO:   144 DG 2022-07-06 2049 M0VTC         +09 IO91             G0XDI         -11 IO91
-QSO:   144 DG 2022-07-06 2052 M0VTC         +17 IO91             G3SED         -06 IO90
+QSO:   144 FT8 2022-07-06 1903 M0VTC         -03 IO91             G1JSF         -13 IO91
+QSO:   144 FT8 2022-07-06 1906 M0VTC         -09 IO91             M0XTY         -13 JO01
+QSO:   144 FT8 2022-07-06 1908 M0VTC         -09 IO91             G3WAG/P       -18 IO82
+QSO:   144 FT8 2022-07-06 1919 M0VTC         -15 IO91             2E0DBS        -19 JO02
+QSO:   144 FT8 2022-07-06 1933 M0VTC         -11 IO91             2E0SNB        -21 IO91
+QSO:   144 FT8 2022-07-06 1935 M0VTC         +24 IO91             M0HAO         +02 IO91
+QSO:   144 FT8 2022-07-06 1943 M0VTC         -04 IO91             G0BIX         -06 JO01
+QSO:   144 FT8 2022-07-06 2029 M0VTC         -16 IO91             F1FPL         -19 JN09
+QSO:   144 FT8 2022-07-06 2045 M0VTC         -05 IO91             G8DER         -07 IO81
+QSO:   144 FT8 2022-07-06 2049 M0VTC         +09 IO91             G0XDI         -11 IO91
+QSO:   144 FT8 2022-07-06 2052 M0VTC         +17 IO91             G3SED         -06 IO90
 END-OF-LOG:

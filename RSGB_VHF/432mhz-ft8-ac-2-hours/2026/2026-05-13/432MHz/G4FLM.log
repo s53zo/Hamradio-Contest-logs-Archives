@@ -10,21 +10,21 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260513&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=504; excluded rows=0.
-QSO:   432 DG 2026-05-13 1903 G4FLM         -11 IO94             G7LRQ         -10 JO03
-QSO:   432 DG 2026-05-13 1916 G4FLM         -15 IO94             DK0TR         -15 JO40
-QSO:   432 DG 2026-05-13 1923 G4FLM         -20 IO94             PA7ML         -18 JO22
-QSO:   432 DG 2026-05-13 1935 G4FLM         -20 IO94             PA7ML         +00 JO22
-QSO:   432 DG 2026-05-13 1938 G4FLM         -15 IO94             PA6I          -18 JO32
-QSO:   432 DG 2026-05-13 1941 G4FLM         -08 IO94             G4KUX         -12 IO94
-QSO:   432 DG 2026-05-13 1950 G4FLM         -18 IO94             PI50VPO       -14 JO21
-QSO:   432 DG 2026-05-13 2000 G4FLM         -10 IO94             G0XDI         -15 IO91
-QSO:   432 DG 2026-05-13 2009 G4FLM         -06 IO94             GW8CZW        +02 IO73
-QSO:   432 DG 2026-05-13 2015 G4FLM         -08 IO94             G0GJV         +05 IO91
-QSO:   432 DG 2026-05-13 2018 G4FLM         -11 IO94             G6HIE         +05 JO00
-QSO:   432 DG 2026-05-13 2031 G4FLM         -10 IO94             G8SEI         -15 IO92
-QSO:   432 DG 2026-05-13 2054 G4FLM         -09 IO94             G7RDX         -15 IO91
-QSO:   432 DG 2026-05-13 2055 G4FLM         -18 IO94             G0JJG         -18 JO02
-QSO:   432 DG 2026-05-13 2058 G4FLM         -13 IO94             G4ZTR         -11 JO01
+QSO:   432 FT8 2026-05-13 1903 G4FLM         -11 IO94             G7LRQ         -10 JO03
+QSO:   432 FT8 2026-05-13 1916 G4FLM         -15 IO94             DK0TR         -15 JO40
+QSO:   432 FT8 2026-05-13 1923 G4FLM         -20 IO94             PA7ML         -18 JO22
+QSO:   432 FT8 2026-05-13 1935 G4FLM         -20 IO94             PA7ML         +00 JO22
+QSO:   432 FT8 2026-05-13 1938 G4FLM         -15 IO94             PA6I          -18 JO32
+QSO:   432 FT8 2026-05-13 1941 G4FLM         -08 IO94             G4KUX         -12 IO94
+QSO:   432 FT8 2026-05-13 1950 G4FLM         -18 IO94             PI50VPO       -14 JO21
+QSO:   432 FT8 2026-05-13 2000 G4FLM         -10 IO94             G0XDI         -15 IO91
+QSO:   432 FT8 2026-05-13 2009 G4FLM         -06 IO94             GW8CZW        +02 IO73
+QSO:   432 FT8 2026-05-13 2015 G4FLM         -08 IO94             G0GJV         +05 IO91
+QSO:   432 FT8 2026-05-13 2018 G4FLM         -11 IO94             G6HIE         +05 JO00
+QSO:   432 FT8 2026-05-13 2031 G4FLM         -10 IO94             G8SEI         -15 IO92
+QSO:   432 FT8 2026-05-13 2054 G4FLM         -09 IO94             G7RDX         -15 IO91
+QSO:   432 FT8 2026-05-13 2055 G4FLM         -18 IO94             G0JJG         -18 JO02
+QSO:   432 FT8 2026-05-13 2058 G4FLM         -13 IO94             G4ZTR         -11 JO01
 END-OF-LOG:

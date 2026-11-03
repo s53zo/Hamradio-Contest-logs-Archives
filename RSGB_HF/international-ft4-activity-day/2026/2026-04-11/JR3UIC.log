@@ -10,18 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO: 21140 DG 2026-04-12 0321 JR3UIC        -10 -                BX6ABC        +19 -
-QSO: 21140 DG 2026-04-12 0522 JR3UIC        -06 -                VK2IO         +00 -
-QSO: 21140 DG 2026-04-12 0524 JR3UIC        +06 -                ZL4AS         +17 -
-QSO: 14080 DG 2026-04-12 0534 JR3UIC        -07 -                R0UBH         -06 -
-QSO:  7048 DG 2026-04-12 0623 JR3UIC        +09 -                JO1LNK        +14 -
-QSO:  7048 DG 2026-04-12 0624 JR3UIC        +04 -                JJ3DKQ/P      +22 -
-QSO: 28180 DG 2026-04-12 0637 JR3UIC        -10 -                JA3JND        +11 -
-QSO: 28180 DG 2026-04-12 0649 JR3UIC        -14 -                JA1LZB        +11 -
-QSO: 14080 DG 2026-04-12 0656 JR3UIC        +01 -                RA0QD         +01 -
-QSO: 14080 DG 2026-04-12 0724 JR3UIC        -15 -                G6P           -16 -
-QSO: 28180 DG 2026-04-12 0731 JR3UIC        -10 -                UB1API        -08 -
-QSO: 28180 DG 2026-04-12 0734 JR3UIC        -17 -                R1AV          -12 -
-QSO:  7048 DG 2026-04-12 0737 JR3UIC        -12 -                JM1KKT        +28 -
+QSO: 21140 FT4 2026-04-12 0321 JR3UIC        -10 -                BX6ABC        +19 -
+QSO: 21140 FT4 2026-04-12 0522 JR3UIC        -06 -                VK2IO         +00 -
+QSO: 21140 FT4 2026-04-12 0524 JR3UIC        +06 -                ZL4AS         +17 -
+QSO: 14080 FT4 2026-04-12 0534 JR3UIC        -07 -                R0UBH         -06 -
+QSO:  7048 FT4 2026-04-12 0623 JR3UIC        +09 -                JO1LNK        +14 -
+QSO:  7048 FT4 2026-04-12 0624 JR3UIC        +04 -                JJ3DKQ/P      +22 -
+QSO: 28180 FT4 2026-04-12 0637 JR3UIC        -10 -                JA3JND        +11 -
+QSO: 28180 FT4 2026-04-12 0649 JR3UIC        -14 -                JA1LZB        +11 -
+QSO: 14080 FT4 2026-04-12 0656 JR3UIC        +01 -                RA0QD         +01 -
+QSO: 14080 FT4 2026-04-12 0724 JR3UIC        -15 -                G6P           -16 -
+QSO: 28180 FT4 2026-04-12 0731 JR3UIC        -10 -                UB1API        -08 -
+QSO: 28180 FT4 2026-04-12 0734 JR3UIC        -17 -                R1AV          -12 -
+QSO:  7048 FT4 2026-04-12 0737 JR3UIC        -12 -                JM1KKT        +28 -
 END-OF-LOG:

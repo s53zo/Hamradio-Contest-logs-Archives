@@ -10,31 +10,31 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=260506&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=795; excluded rows=1.
-QSO:   144 DG 2026-05-06 1704 G0HSP         -12 IO90             G0XDI         -10 IO91
-QSO:   144 DG 2026-05-06 1713 G0HSP         -15 IO90             G0GJV         -04 IO91
-QSO:   144 DG 2026-05-06 1715 G0HSP         -15 IO90             G5CTH         +06 IO91
-QSO:   144 DG 2026-05-06 1716 G0HSP         -10 IO90             G7WIR         -03 JO01
-QSO:   144 DG 2026-05-06 1721 G0HSP         -16 IO90             2E0MRK        +04 IO91
-QSO:   144 DG 2026-05-06 1723 G0HSP         -20 IO90             G4RFR         -01 IO90
-QSO:   144 DG 2026-05-06 1805 G0HSP         -11 IO90             F8BON         +13 IN86
-QSO:   144 DG 2026-05-06 1816 G0HSP         -14 IO90             PH2M          -19 JO22
-QSO:   144 DG 2026-05-06 1819 G0HSP         -15 IO90             G0BIX         +08 JO01
-QSO:   144 DG 2026-05-06 1825 G0HSP         -16 IO90             G4BMM         -09 IO91
-QSO:   144 DG 2026-05-06 1830 G0HSP         -17 IO90             G8EEM         -01 IO93
-QSO:   144 DG 2026-05-06 1832 G0HSP         -20 IO90             G6DDN         -10 IO93
-QSO:   144 DG 2026-05-06 1837 G0HSP         -19 IO90             G4VPD         -13 IO92
-QSO:   144 DG 2026-05-06 1850 G0HSP         -11 IO90             GX3VER        +21 IO91
-QSO:   144 DG 2026-05-06 1855 G0HSP         -17 IO90             F1NQP         -22 JN19
-QSO:   144 DG 2026-05-06 1901 G0HSP         -16 IO90             G3WZK         -15 IO91
-QSO:   144 DG 2026-05-06 1903 G0HSP         -21 IO90             PA4Y          -12 JO21
-QSO:   144 DG 2026-05-06 1905 G0HSP         -10 IO90             TM8DW         -11 JO00
-QSO:   144 DG 2026-05-06 1906 G0HSP         -10 IO90             G4ZTR         -09 JO01
-QSO:   144 DG 2026-05-06 1926 G0HSP         -17 IO90             G0JDL         -05 JO02
-QSO:   144 DG 2026-05-06 1929 G0HSP         -07 IO90             G7RDX         -06 IO91
-QSO:   144 DG 2026-05-06 1933 G0HSP         -16 IO90             G3UQW         +03 IO90
-QSO:   144 DG 2026-05-06 1943 G0HSP         -20 IO90             G6HIE         -15 JO00
-QSO:   144 DG 2026-05-06 1945 G0HSP         -03 IO90             M7DLB         +05 IO90
-QSO:   144 DG 2026-05-06 1956 G0HSP         -23 IO90             G4HGI         -19 IO83
+QSO:   144 FT8 2026-05-06 1704 G0HSP         -12 IO90             G0XDI         -10 IO91
+QSO:   144 FT8 2026-05-06 1713 G0HSP         -15 IO90             G0GJV         -04 IO91
+QSO:   144 FT8 2026-05-06 1715 G0HSP         -15 IO90             G5CTH         +06 IO91
+QSO:   144 FT8 2026-05-06 1716 G0HSP         -10 IO90             G7WIR         -03 JO01
+QSO:   144 FT8 2026-05-06 1721 G0HSP         -16 IO90             2E0MRK        +04 IO91
+QSO:   144 FT8 2026-05-06 1723 G0HSP         -20 IO90             G4RFR         -01 IO90
+QSO:   144 FT8 2026-05-06 1805 G0HSP         -11 IO90             F8BON         +13 IN86
+QSO:   144 FT8 2026-05-06 1816 G0HSP         -14 IO90             PH2M          -19 JO22
+QSO:   144 FT8 2026-05-06 1819 G0HSP         -15 IO90             G0BIX         +08 JO01
+QSO:   144 FT8 2026-05-06 1825 G0HSP         -16 IO90             G4BMM         -09 IO91
+QSO:   144 FT8 2026-05-06 1830 G0HSP         -17 IO90             G8EEM         -01 IO93
+QSO:   144 FT8 2026-05-06 1832 G0HSP         -20 IO90             G6DDN         -10 IO93
+QSO:   144 FT8 2026-05-06 1837 G0HSP         -19 IO90             G4VPD         -13 IO92
+QSO:   144 FT8 2026-05-06 1850 G0HSP         -11 IO90             GX3VER        +21 IO91
+QSO:   144 FT8 2026-05-06 1855 G0HSP         -17 IO90             F1NQP         -22 JN19
+QSO:   144 FT8 2026-05-06 1901 G0HSP         -16 IO90             G3WZK         -15 IO91
+QSO:   144 FT8 2026-05-06 1903 G0HSP         -21 IO90             PA4Y          -12 JO21
+QSO:   144 FT8 2026-05-06 1905 G0HSP         -10 IO90             TM8DW         -11 JO00
+QSO:   144 FT8 2026-05-06 1906 G0HSP         -10 IO90             G4ZTR         -09 JO01
+QSO:   144 FT8 2026-05-06 1926 G0HSP         -17 IO90             G0JDL         -05 JO02
+QSO:   144 FT8 2026-05-06 1929 G0HSP         -07 IO90             G7RDX         -06 IO91
+QSO:   144 FT8 2026-05-06 1933 G0HSP         -16 IO90             G3UQW         +03 IO90
+QSO:   144 FT8 2026-05-06 1943 G0HSP         -20 IO90             G6HIE         -15 JO00
+QSO:   144 FT8 2026-05-06 1945 G0HSP         -03 IO90             M7DLB         +05 IO90
+QSO:   144 FT8 2026-05-06 1956 G0HSP         -23 IO90             G4HGI         -19 IO83
 END-OF-LOG:

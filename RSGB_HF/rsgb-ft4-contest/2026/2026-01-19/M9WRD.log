@@ -10,19 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO:  7048 DG 2026-01-19 2025 M9WRD         -05 -                LZ0WWA        -04 -
-QSO:  3575 DG 2026-01-19 2053 M9WRD         -10 -                S57AJ         -08 -
-QSO:  7048 DG 2026-01-19 2108 M9WRD         +06 -                OZ1AXG        -13 -
-QSO:  7048 DG 2026-01-19 2109 M9WRD         -06 -                DJ2KP         -04 -
-QSO:  7048 DG 2026-01-19 2116 M9WRD         +02 -                DF8QB         -05 -
-QSO:  7048 DG 2026-01-19 2117 M9WRD         -10 -                OK2USM        -10 -
-QSO:  7048 DG 2026-01-19 2117 M9WRD         +12 -                G6P           +16 -
-QSO:  7048 DG 2026-01-19 2120 M9WRD         +07 -                G4CJC         +02 -
-QSO:  7048 DG 2026-01-19 2122 M9WRD         -03 -                M0ABT         -08 -
-QSO:  7048 DG 2026-01-19 2123 M9WRD         -01 -                G0BIX         -11 -
-QSO:  7048 DG 2026-01-19 2126 M9WRD         -07 -                G7WIR         -13 -
-QSO:  7048 DG 2026-01-19 2152 M9WRD         +03 -                G5KTX         -14 -
-QSO:  7048 DG 2026-01-19 2158 M9WRD         +13 -                HB9AWS        -04 -
-QSO:  7048 DG 2026-01-19 2200 M9WRD         -09 -                2D0PEY        -17 -
+QSO:  7048 FT4 2026-01-19 2025 M9WRD         -05 -                LZ0WWA        -04 -
+QSO:  3575 FT4 2026-01-19 2053 M9WRD         -10 -                S57AJ         -08 -
+QSO:  7048 FT4 2026-01-19 2108 M9WRD         +06 -                OZ1AXG        -13 -
+QSO:  7048 FT4 2026-01-19 2109 M9WRD         -06 -                DJ2KP         -04 -
+QSO:  7048 FT4 2026-01-19 2116 M9WRD         +02 -                DF8QB         -05 -
+QSO:  7048 FT4 2026-01-19 2117 M9WRD         -10 -                OK2USM        -10 -
+QSO:  7048 FT4 2026-01-19 2117 M9WRD         +12 -                G6P           +16 -
+QSO:  7048 FT4 2026-01-19 2120 M9WRD         +07 -                G4CJC         +02 -
+QSO:  7048 FT4 2026-01-19 2122 M9WRD         -03 -                M0ABT         -08 -
+QSO:  7048 FT4 2026-01-19 2123 M9WRD         -01 -                G0BIX         -11 -
+QSO:  7048 FT4 2026-01-19 2126 M9WRD         -07 -                G7WIR         -13 -
+QSO:  7048 FT4 2026-01-19 2152 M9WRD         +03 -                G5KTX         -14 -
+QSO:  7048 FT4 2026-01-19 2158 M9WRD         +13 -                HB9AWS        -04 -
+QSO:  7048 FT4 2026-01-19 2200 M9WRD         -09 -                2D0PEY        -17 -
 END-OF-LOG:

@@ -10,33 +10,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220810&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=947; excluded rows=0.
-QSO:   432 DG 2022-08-10 1902 2E1FMS        -09 IO82             G3YKI         +05 IO82
-QSO:   432 DG 2022-08-10 1903 2E1FMS        -19 IO82             GM8MJV        -13 IO85
-QSO:   432 DG 2022-08-10 1909 2E1FMS        -14 IO82             G4EII         +13 IO83
-QSO:   432 DG 2022-08-10 1914 2E1FMS        -14 IO82             M7REV         -07 IO82
-QSO:   432 DG 2022-08-10 1917 2E1FMS        -07 IO82             MI0IHH        +18 IO74
-QSO:   432 DG 2022-08-10 1923 2E1FMS        -23 IO82             G0ISX         +10 IO93
-QSO:   432 DG 2022-08-10 1926 2E1FMS        -20 IO82             EI8KN         -18 IO62
-QSO:   432 DG 2022-08-10 1931 2E1FMS        -22 IO82             G0LGS         -12 IO81
-QSO:   432 DG 2022-08-10 1933 2E1FMS        -17 IO82             M0UHF         -11 IO91
-QSO:   432 DG 2022-08-10 1935 2E1FMS        -16 IO82             G8DVR         -09 IO83
-QSO:   432 DG 2022-08-10 1938 2E1FMS        -18 IO82             M0IEP         -04 IO91
-QSO:   432 DG 2022-08-10 1942 2E1FMS        -16 IO82             M0FXX         -19 IO91
-QSO:   432 DG 2022-08-10 1947 2E1FMS        -26 IO82             G0RMG         -15 IO92
-QSO:   432 DG 2022-08-10 1951 2E1FMS        -07 IO82             G7LRQ         -17 IO91
-QSO:   432 DG 2022-08-10 1955 2E1FMS        -18 IO82             G4OED         -14 IO91
-QSO:   432 DG 2022-08-10 2001 2E1FMS        +00 IO82             MW0PJE        -08 IO82
-QSO:   432 DG 2022-08-10 2007 2E1FMS        -19 IO82             2E0DUE        -11 JO01
-QSO:   432 DG 2022-08-10 2010 2E1FMS        -15 IO82             G7WKX/P       -05 IO83
-QSO:   432 DG 2022-08-10 2014 2E1FMS        -12 IO82             G4VPD         +00 IO92
-QSO:   432 DG 2022-08-10 2021 2E1FMS        -08 IO82             G4YTD         -11 IO84
-QSO:   432 DG 2022-08-10 2023 2E1FMS        -16 IO82             G0DJA         -11 IO93
-QSO:   432 DG 2022-08-10 2024 2E1FMS        -12 IO82             OV3T          -13 JO46
-QSO:   432 DG 2022-08-10 2028 2E1FMS        -08 IO82             M0UGA/P       +03 IO92
-QSO:   432 DG 2022-08-10 2044 2E1FMS        -09 IO82             GI4SNA        +00 IO64
-QSO:   432 DG 2022-08-10 2054 2E1FMS        -08 IO82             G4KUX         -12 IO94
-QSO:   432 DG 2022-08-10 2057 2E1FMS        -08 IO82             GI6ATZ        -12 IO74
-QSO:   432 DG 2022-08-10 2100 2E1FMS        -08 IO82             G0XDI         -12 IO91
+QSO:   432 FT8 2022-08-10 1902 2E1FMS        -09 IO82             G3YKI         +05 IO82
+QSO:   432 FT8 2022-08-10 1903 2E1FMS        -19 IO82             GM8MJV        -13 IO85
+QSO:   432 FT8 2022-08-10 1909 2E1FMS        -14 IO82             G4EII         +13 IO83
+QSO:   432 FT8 2022-08-10 1914 2E1FMS        -14 IO82             M7REV         -07 IO82
+QSO:   432 FT8 2022-08-10 1917 2E1FMS        -07 IO82             MI0IHH        +18 IO74
+QSO:   432 FT8 2022-08-10 1923 2E1FMS        -23 IO82             G0ISX         +10 IO93
+QSO:   432 FT8 2022-08-10 1926 2E1FMS        -20 IO82             EI8KN         -18 IO62
+QSO:   432 FT8 2022-08-10 1931 2E1FMS        -22 IO82             G0LGS         -12 IO81
+QSO:   432 FT8 2022-08-10 1933 2E1FMS        -17 IO82             M0UHF         -11 IO91
+QSO:   432 FT8 2022-08-10 1935 2E1FMS        -16 IO82             G8DVR         -09 IO83
+QSO:   432 FT8 2022-08-10 1938 2E1FMS        -18 IO82             M0IEP         -04 IO91
+QSO:   432 FT8 2022-08-10 1942 2E1FMS        -16 IO82             M0FXX         -19 IO91
+QSO:   432 FT8 2022-08-10 1947 2E1FMS        -26 IO82             G0RMG         -15 IO92
+QSO:   432 FT8 2022-08-10 1951 2E1FMS        -07 IO82             G7LRQ         -17 IO91
+QSO:   432 FT8 2022-08-10 1955 2E1FMS        -18 IO82             G4OED         -14 IO91
+QSO:   432 FT8 2022-08-10 2001 2E1FMS        +00 IO82             MW0PJE        -08 IO82
+QSO:   432 FT8 2022-08-10 2007 2E1FMS        -19 IO82             2E0DUE        -11 JO01
+QSO:   432 FT8 2022-08-10 2010 2E1FMS        -15 IO82             G7WKX/P       -05 IO83
+QSO:   432 FT8 2022-08-10 2014 2E1FMS        -12 IO82             G4VPD         +00 IO92
+QSO:   432 FT8 2022-08-10 2021 2E1FMS        -08 IO82             G4YTD         -11 IO84
+QSO:   432 FT8 2022-08-10 2023 2E1FMS        -16 IO82             G0DJA         -11 IO93
+QSO:   432 FT8 2022-08-10 2024 2E1FMS        -12 IO82             OV3T          -13 JO46
+QSO:   432 FT8 2022-08-10 2028 2E1FMS        -08 IO82             M0UGA/P       +03 IO92
+QSO:   432 FT8 2022-08-10 2044 2E1FMS        -09 IO82             GI4SNA        +00 IO64
+QSO:   432 FT8 2022-08-10 2054 2E1FMS        -08 IO82             G4KUX         -12 IO94
+QSO:   432 FT8 2022-08-10 2057 2E1FMS        -08 IO82             GI6ATZ        -12 IO74
+QSO:   432 FT8 2022-08-10 2100 2E1FMS        -08 IO82             G0XDI         -12 IO91
 END-OF-LOG:

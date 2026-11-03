@@ -10,39 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1900 PH2M          -05 JO22             PE1ITR        -06 JO21
-QSO:   432 DG 2022-01-12 1901 PH2M          -21 JO22             DK5DV         -24 JO30
-QSO:   432 DG 2022-01-12 1903 PH2M          +00 JO22             PA5Y          +13 JO21
-QSO:   432 DG 2022-01-12 1905 PH2M          -19 JO22             PA3FOE        +15 JO21
-QSO:   432 DG 2022-01-12 1908 PH2M          -02 JO22             PD2VE         +02 JO22
-QSO:   432 DG 2022-01-12 1910 PH2M          -08 JO22             PA0RBL        -13 JO32
-QSO:   432 DG 2022-01-12 1917 PH2M          -12 JO22             PA5PEK        +11 JO11
-QSO:   432 DG 2022-01-12 1920 PH2M          -06 JO22             G3YDY         +09 JO01
-QSO:   432 DG 2022-01-12 1924 PH2M          -17 JO22             PE1FBC        -19 JO22
-QSO:   432 DG 2022-01-12 1926 PH2M          -16 JO22             ON75GTM       -02 JO21
-QSO:   432 DG 2022-01-12 1928 PH2M          -14 JO22             PA2BTK        -11 JO22
-QSO:   432 DG 2022-01-12 1931 PH2M          -13 JO22             G7WIR         -09 JO01
-QSO:   432 DG 2022-01-12 1941 PH2M          -11 JO22             PA2GWA        +00 JO22
-QSO:   432 DG 2022-01-12 1950 PH2M          -18 JO22             G0MBL         -14 JO01
-QSO:   432 DG 2022-01-12 1952 PH2M          +00 JO22             PD3SWO        +05 JO21
-QSO:   432 DG 2022-01-12 1954 PH2M          -15 JO22             ON1ANZ        -08 JO21
-QSO:   432 DG 2022-01-12 1957 PH2M          -10 JO22             ON4BCV        +01 JO21
-QSO:   432 DG 2022-01-12 2000 PH2M          -18 JO22             PA4DN         -03 JO32
-QSO:   432 DG 2022-01-12 2004 PH2M          -06 JO22             PA9R          -06 JO22
-QSO:   432 DG 2022-01-12 2007 PH2M          -24 JO22             G0GJV         -11 IO91
-QSO:   432 DG 2022-01-12 2013 PH2M          -11 JO22             F5APQ         -06 JO00
-QSO:   432 DG 2022-01-12 2017 PH2M          -12 JO22             PC9F          -13 JO32
-QSO:   432 DG 2022-01-12 2018 PH2M          -06 JO22             PA2RUS        +21 JO22
-QSO:   432 DG 2022-01-12 2026 PH2M          -05 JO22             G7LRQ         -04 IO91
-QSO:   432 DG 2022-01-12 2029 PH2M          -06 JO22             G0XDI         -06 IO91
-QSO:   432 DG 2022-01-12 2031 PH2M          -21 JO22             G4VPD         -09 IO92
-QSO:   432 DG 2022-01-12 2034 PH2M          -22 JO22             G8SEI         -05 IO92
-QSO:   432 DG 2022-01-12 2038 PH2M          -07 JO22             ON4QJ         -19 JO20
-QSO:   432 DG 2022-01-12 2039 PH2M          -16 JO22             ON8SV         +00 JO20
-QSO:   432 DG 2022-01-12 2041 PH2M          -04 JO22             PA0CAB        +18 JO22
-QSO:   432 DG 2022-01-12 2047 PH2M          -10 JO22             G7CQH         -02 IO92
-QSO:   432 DG 2022-01-12 2051 PH2M          -06 JO22             PA2WDR        -12 JO21
-QSO:   432 DG 2022-01-12 2100 PH2M          -19 JO22             G0JJG         -14 JO02
+QSO:   432 FT8 2022-01-12 1900 PH2M          -05 JO22             PE1ITR        -06 JO21
+QSO:   432 FT8 2022-01-12 1901 PH2M          -21 JO22             DK5DV         -24 JO30
+QSO:   432 FT8 2022-01-12 1903 PH2M          +00 JO22             PA5Y          +13 JO21
+QSO:   432 FT8 2022-01-12 1905 PH2M          -19 JO22             PA3FOE        +15 JO21
+QSO:   432 FT8 2022-01-12 1908 PH2M          -02 JO22             PD2VE         +02 JO22
+QSO:   432 FT8 2022-01-12 1910 PH2M          -08 JO22             PA0RBL        -13 JO32
+QSO:   432 FT8 2022-01-12 1917 PH2M          -12 JO22             PA5PEK        +11 JO11
+QSO:   432 FT8 2022-01-12 1920 PH2M          -06 JO22             G3YDY         +09 JO01
+QSO:   432 FT8 2022-01-12 1924 PH2M          -17 JO22             PE1FBC        -19 JO22
+QSO:   432 FT8 2022-01-12 1926 PH2M          -16 JO22             ON75GTM       -02 JO21
+QSO:   432 FT8 2022-01-12 1928 PH2M          -14 JO22             PA2BTK        -11 JO22
+QSO:   432 FT8 2022-01-12 1931 PH2M          -13 JO22             G7WIR         -09 JO01
+QSO:   432 FT8 2022-01-12 1941 PH2M          -11 JO22             PA2GWA        +00 JO22
+QSO:   432 FT8 2022-01-12 1950 PH2M          -18 JO22             G0MBL         -14 JO01
+QSO:   432 FT8 2022-01-12 1952 PH2M          +00 JO22             PD3SWO        +05 JO21
+QSO:   432 FT8 2022-01-12 1954 PH2M          -15 JO22             ON1ANZ        -08 JO21
+QSO:   432 FT8 2022-01-12 1957 PH2M          -10 JO22             ON4BCV        +01 JO21
+QSO:   432 FT8 2022-01-12 2000 PH2M          -18 JO22             PA4DN         -03 JO32
+QSO:   432 FT8 2022-01-12 2004 PH2M          -06 JO22             PA9R          -06 JO22
+QSO:   432 FT8 2022-01-12 2007 PH2M          -24 JO22             G0GJV         -11 IO91
+QSO:   432 FT8 2022-01-12 2013 PH2M          -11 JO22             F5APQ         -06 JO00
+QSO:   432 FT8 2022-01-12 2017 PH2M          -12 JO22             PC9F          -13 JO32
+QSO:   432 FT8 2022-01-12 2018 PH2M          -06 JO22             PA2RUS        +21 JO22
+QSO:   432 FT8 2022-01-12 2026 PH2M          -05 JO22             G7LRQ         -04 IO91
+QSO:   432 FT8 2022-01-12 2029 PH2M          -06 JO22             G0XDI         -06 IO91
+QSO:   432 FT8 2022-01-12 2031 PH2M          -21 JO22             G4VPD         -09 IO92
+QSO:   432 FT8 2022-01-12 2034 PH2M          -22 JO22             G8SEI         -05 IO92
+QSO:   432 FT8 2022-01-12 2038 PH2M          -07 JO22             ON4QJ         -19 JO20
+QSO:   432 FT8 2022-01-12 2039 PH2M          -16 JO22             ON8SV         +00 JO20
+QSO:   432 FT8 2022-01-12 2041 PH2M          -04 JO22             PA0CAB        +18 JO22
+QSO:   432 FT8 2022-01-12 2047 PH2M          -10 JO22             G7CQH         -02 IO92
+QSO:   432 FT8 2022-01-12 2051 PH2M          -06 JO22             PA2WDR        -12 JO21
+QSO:   432 FT8 2022-01-12 2100 PH2M          -19 JO22             G0JJG         -14 JO02
 END-OF-LOG:

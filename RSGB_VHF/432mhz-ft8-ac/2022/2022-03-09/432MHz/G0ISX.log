@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220309&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=880; excluded rows=0.
-QSO:   432 DG 2022-03-09 1901 G0ISX         +03 IO93             G3YDY         -05 JO01
-QSO:   432 DG 2022-03-09 1907 G0ISX         -04 IO93             G4EII         -09 IO83
-QSO:   432 DG 2022-03-09 1918 G0ISX         -08 IO93             G8GNI         -06 IO91
-QSO:   432 DG 2022-03-09 1929 G0ISX         -11 IO93             EI9KP         -07 IO54
-QSO:   432 DG 2022-03-09 1938 G0ISX         +23 IO93             G0UXC         +12 IO83
-QSO:   432 DG 2022-03-09 1949 G0ISX         +04 IO93             G7LRQ         -09 IO91
-QSO:   432 DG 2022-03-09 1951 G0ISX         +00 IO93             G0XDI         -09 IO91
-QSO:   432 DG 2022-03-09 2006 G0ISX         -12 IO93             GI4SNA        -14 IO64
-QSO:   432 DG 2022-03-09 2017 G0ISX         +07 IO93             G4NBS         +02 JO02
-QSO:   432 DG 2022-03-09 2028 G0ISX         -03 IO93             M0NVS         -07 IO91
-QSO:   432 DG 2022-03-09 2037 G0ISX         -20 IO93             G0BIX         -09 JO01
+QSO:   432 FT8 2022-03-09 1901 G0ISX         +03 IO93             G3YDY         -05 JO01
+QSO:   432 FT8 2022-03-09 1907 G0ISX         -04 IO93             G4EII         -09 IO83
+QSO:   432 FT8 2022-03-09 1918 G0ISX         -08 IO93             G8GNI         -06 IO91
+QSO:   432 FT8 2022-03-09 1929 G0ISX         -11 IO93             EI9KP         -07 IO54
+QSO:   432 FT8 2022-03-09 1938 G0ISX         +23 IO93             G0UXC         +12 IO83
+QSO:   432 FT8 2022-03-09 1949 G0ISX         +04 IO93             G7LRQ         -09 IO91
+QSO:   432 FT8 2022-03-09 1951 G0ISX         +00 IO93             G0XDI         -09 IO91
+QSO:   432 FT8 2022-03-09 2006 G0ISX         -12 IO93             GI4SNA        -14 IO64
+QSO:   432 FT8 2022-03-09 2017 G0ISX         +07 IO93             G4NBS         +02 JO02
+QSO:   432 FT8 2022-03-09 2028 G0ISX         -03 IO93             M0NVS         -07 IO91
+QSO:   432 FT8 2022-03-09 2037 G0ISX         -20 IO93             G0BIX         -09 JO01
 END-OF-LOG:

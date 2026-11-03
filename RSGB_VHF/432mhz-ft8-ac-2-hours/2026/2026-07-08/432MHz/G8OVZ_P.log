@@ -10,27 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260708&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=616; excluded rows=0.
-QSO:   432 DG 2026-07-08 1901 G8OVZ/P       -02 IO92             G7LRQ         -23 JO03
-QSO:   432 DG 2026-07-08 1902 G8OVZ/P       +08 IO92             G0BIX         -02 JO01
-QSO:   432 DG 2026-07-08 1904 G8OVZ/P       +06 IO92             G0BIX         -07 JO01
-QSO:   432 DG 2026-07-08 1906 G8OVZ/P       +20 IO92             G4HGI         +08 IO83
-QSO:   432 DG 2026-07-08 1907 G8OVZ/P       +25 IO92             G3YDY         -01 JO01
-QSO:   432 DG 2026-07-08 1915 G8OVZ/P       +09 IO92             GD0TEP        +00 IO74
-QSO:   432 DG 2026-07-08 1917 G8OVZ/P       -11 IO92             G7IGC         -13 IO92
-QSO:   432 DG 2026-07-08 1929 G8OVZ/P       -07 IO92             OV3T          -18 JO46
-QSO:   432 DG 2026-07-08 1932 G8OVZ/P       +05 IO92             G7RDX         -08 IO91
-QSO:   432 DG 2026-07-08 1933 G8OVZ/P       +23 IO92             G0XDI         +06 IO91
-QSO:   432 DG 2026-07-08 1942 G8OVZ/P       +09 IO92             GI4SNA        -12 IO64
-QSO:   432 DG 2026-07-08 2013 G8OVZ/P       +08 IO92             F1NQP         -26 JN19
-QSO:   432 DG 2026-07-08 2015 G8OVZ/P       -09 IO92             G4ZTR         -15 JO01
-QSO:   432 DG 2026-07-08 2020 G8OVZ/P       +14 IO92             G7WIR         +04 JO01
-QSO:   432 DG 2026-07-08 2025 G8OVZ/P       +12 IO92             M0MHX         +19 JO01
-QSO:   432 DG 2026-07-08 2028 G8OVZ/P       -11 IO92             PE1ITR        -13 JO21
-QSO:   432 DG 2026-07-08 2031 G8OVZ/P       -16 IO92             PA3CWS        -09 JO22
-QSO:   432 DG 2026-07-08 2034 G8OVZ/P       +06 IO92             G0JDL         +07 JO02
-QSO:   432 DG 2026-07-08 2035 G8OVZ/P       -08 IO92             PH2M          -12 JO22
-QSO:   432 DG 2026-07-08 2039 G8OVZ/P       +33 IO92             G4NBS         +21 JO02
-QSO:   432 DG 2026-07-08 2049 G8OVZ/P       -08 IO92             G3WZK         -15 IO91
+QSO:   432 FT8 2026-07-08 1901 G8OVZ/P       -02 IO92             G7LRQ         -23 JO03
+QSO:   432 FT8 2026-07-08 1902 G8OVZ/P       +08 IO92             G0BIX         -02 JO01
+QSO:   432 FT8 2026-07-08 1904 G8OVZ/P       +06 IO92             G0BIX         -07 JO01
+QSO:   432 FT8 2026-07-08 1906 G8OVZ/P       +20 IO92             G4HGI         +08 IO83
+QSO:   432 FT8 2026-07-08 1907 G8OVZ/P       +25 IO92             G3YDY         -01 JO01
+QSO:   432 FT8 2026-07-08 1915 G8OVZ/P       +09 IO92             GD0TEP        +00 IO74
+QSO:   432 FT8 2026-07-08 1917 G8OVZ/P       -11 IO92             G7IGC         -13 IO92
+QSO:   432 FT8 2026-07-08 1929 G8OVZ/P       -07 IO92             OV3T          -18 JO46
+QSO:   432 FT8 2026-07-08 1932 G8OVZ/P       +05 IO92             G7RDX         -08 IO91
+QSO:   432 FT8 2026-07-08 1933 G8OVZ/P       +23 IO92             G0XDI         +06 IO91
+QSO:   432 FT8 2026-07-08 1942 G8OVZ/P       +09 IO92             GI4SNA        -12 IO64
+QSO:   432 FT8 2026-07-08 2013 G8OVZ/P       +08 IO92             F1NQP         -26 JN19
+QSO:   432 FT8 2026-07-08 2015 G8OVZ/P       -09 IO92             G4ZTR         -15 JO01
+QSO:   432 FT8 2026-07-08 2020 G8OVZ/P       +14 IO92             G7WIR         +04 JO01
+QSO:   432 FT8 2026-07-08 2025 G8OVZ/P       +12 IO92             M0MHX         +19 JO01
+QSO:   432 FT8 2026-07-08 2028 G8OVZ/P       -11 IO92             PE1ITR        -13 JO21
+QSO:   432 FT8 2026-07-08 2031 G8OVZ/P       -16 IO92             PA3CWS        -09 JO22
+QSO:   432 FT8 2026-07-08 2034 G8OVZ/P       +06 IO92             G0JDL         +07 JO02
+QSO:   432 FT8 2026-07-08 2035 G8OVZ/P       -08 IO92             PH2M          -12 JO22
+QSO:   432 FT8 2026-07-08 2039 G8OVZ/P       +33 IO92             G4NBS         +21 JO02
+QSO:   432 FT8 2026-07-08 2049 G8OVZ/P       -08 IO92             G3WZK         -15 IO91
 END-OF-LOG:

@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260114&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=409; excluded rows=0.
-QSO:   432 DG 2026-01-14 2011 G4HGI         +01 IO83             F4FET         -13 JO00
-QSO:   432 DG 2026-01-14 2026 G4HGI         +02 IO83             G0BIX         -07 JO01
-QSO:   432 DG 2026-01-14 2027 G4HGI         +16 IO83             G8SEI         +00 IO92
-QSO:   432 DG 2026-01-14 2028 G4HGI         +12 IO83             G0XDI         -03 IO91
-QSO:   432 DG 2026-01-14 2032 G4HGI         +21 IO83             G8CZW         +38 IO83
-QSO:   432 DG 2026-01-14 2035 G4HGI         +00 IO83             G3YDY         -13 JO01
-QSO:   432 DG 2026-01-14 2041 G4HGI         +03 IO83             G4ZTR         -11 JO01
-QSO:   432 DG 2026-01-14 2043 G4HGI         -11 IO83             G0JJG         -19 JO02
-QSO:   432 DG 2026-01-14 2047 G4HGI         -12 IO83             2E0JPO        -10 IO91
-QSO:   432 DG 2026-01-14 2049 G4HGI         -08 IO83             M9DJN         -03 IO82
-QSO:   432 DG 2026-01-14 2053 G4HGI         -02 IO83             MM0CEZ        -06 IO75
-QSO:   432 DG 2026-01-14 2056 G4HGI         -11 IO83             G8YPE         -10 IO92
+QSO:   432 FT8 2026-01-14 2011 G4HGI         +01 IO83             F4FET         -13 JO00
+QSO:   432 FT8 2026-01-14 2026 G4HGI         +02 IO83             G0BIX         -07 JO01
+QSO:   432 FT8 2026-01-14 2027 G4HGI         +16 IO83             G8SEI         +00 IO92
+QSO:   432 FT8 2026-01-14 2028 G4HGI         +12 IO83             G0XDI         -03 IO91
+QSO:   432 FT8 2026-01-14 2032 G4HGI         +21 IO83             G8CZW         +38 IO83
+QSO:   432 FT8 2026-01-14 2035 G4HGI         +00 IO83             G3YDY         -13 JO01
+QSO:   432 FT8 2026-01-14 2041 G4HGI         +03 IO83             G4ZTR         -11 JO01
+QSO:   432 FT8 2026-01-14 2043 G4HGI         -11 IO83             G0JJG         -19 JO02
+QSO:   432 FT8 2026-01-14 2047 G4HGI         -12 IO83             2E0JPO        -10 IO91
+QSO:   432 FT8 2026-01-14 2049 G4HGI         -08 IO83             M9DJN         -03 IO82
+QSO:   432 FT8 2026-01-14 2053 G4HGI         -02 IO83             MM0CEZ        -06 IO75
+QSO:   432 FT8 2026-01-14 2056 G4HGI         -11 IO83             G8YPE         -10 IO92
 END-OF-LOG:

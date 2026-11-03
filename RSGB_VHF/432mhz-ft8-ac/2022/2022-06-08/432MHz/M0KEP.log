@@ -10,26 +10,26 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220608&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=677; excluded rows=0.
-QSO:   432 DG 2022-06-08 1901 M0KEP         -10 IO82             G4VPD         +16 IO92
-QSO:   432 DG 2022-06-08 1903 M0KEP         +02 IO82             2Q0IEI        +16 IO81
-QSO:   432 DG 2022-06-08 1907 M0KEP         -01 IO82             G4OED         -03 IO91
-QSO:   432 DG 2022-06-08 1908 M0KEP         -17 IO82             G1PPA         -14 IO93
-QSO:   432 DG 2022-06-08 1913 M0KEP         -19 IO82             G3ZPB         -04 IO91
-QSO:   432 DG 2022-06-08 1914 M0KEP         -09 IO82             M7REV         -12 IO82
-QSO:   432 DG 2022-06-08 1916 M0KEP         -12 IO82             M0IEP         -08 IO91
-QSO:   432 DG 2022-06-08 1918 M0KEP         -04 IO82             M1CFK         +25 IO92
-QSO:   432 DG 2022-06-08 1923 M0KEP         +01 IO82             G0TFD         +04 IO82
-QSO:   432 DG 2022-06-08 1924 M0KEP         -06 IO82             M0AHN         +19 IO91
-QSO:   432 DG 2022-06-08 1927 M0KEP         -16 IO82             M0KYB         +05 IO91
-QSO:   432 DG 2022-06-08 1928 M0KEP         -18 IO82             MW0PJE        -08 IO82
-QSO:   432 DG 2022-06-08 1931 M0KEP         +04 IO82             M7APR         +18 IO91
-QSO:   432 DG 2022-06-08 1934 M0KEP         -25 IO82             M7ICL         -13 JO02
-QSO:   432 DG 2022-06-08 1938 M0KEP         -11 IO82             G3MXH         -07 JO02
-QSO:   432 DG 2022-06-08 1942 M0KEP         -14 IO82             G1UDS         -16 IO82
-QSO:   432 DG 2022-06-08 1948 M0KEP         -21 IO82             M3THN         -15 IO92
-QSO:   432 DG 2022-06-08 1953 M0KEP         -19 IO82             G0XDI         -17 IO91
-QSO:   432 DG 2022-06-08 1954 M0KEP         +02 IO82             MQ1EYP/P      +06 IO83
-QSO:   432 DG 2022-06-08 1958 M0KEP         -17 IO82             G3YKI         -16 IO82
+QSO:   432 FT8 2022-06-08 1901 M0KEP         -10 IO82             G4VPD         +16 IO92
+QSO:   432 FT8 2022-06-08 1903 M0KEP         +02 IO82             2Q0IEI        +16 IO81
+QSO:   432 FT8 2022-06-08 1907 M0KEP         -01 IO82             G4OED         -03 IO91
+QSO:   432 FT8 2022-06-08 1908 M0KEP         -17 IO82             G1PPA         -14 IO93
+QSO:   432 FT8 2022-06-08 1913 M0KEP         -19 IO82             G3ZPB         -04 IO91
+QSO:   432 FT8 2022-06-08 1914 M0KEP         -09 IO82             M7REV         -12 IO82
+QSO:   432 FT8 2022-06-08 1916 M0KEP         -12 IO82             M0IEP         -08 IO91
+QSO:   432 FT8 2022-06-08 1918 M0KEP         -04 IO82             M1CFK         +25 IO92
+QSO:   432 FT8 2022-06-08 1923 M0KEP         +01 IO82             G0TFD         +04 IO82
+QSO:   432 FT8 2022-06-08 1924 M0KEP         -06 IO82             M0AHN         +19 IO91
+QSO:   432 FT8 2022-06-08 1927 M0KEP         -16 IO82             M0KYB         +05 IO91
+QSO:   432 FT8 2022-06-08 1928 M0KEP         -18 IO82             MW0PJE        -08 IO82
+QSO:   432 FT8 2022-06-08 1931 M0KEP         +04 IO82             M7APR         +18 IO91
+QSO:   432 FT8 2022-06-08 1934 M0KEP         -25 IO82             M7ICL         -13 JO02
+QSO:   432 FT8 2022-06-08 1938 M0KEP         -11 IO82             G3MXH         -07 JO02
+QSO:   432 FT8 2022-06-08 1942 M0KEP         -14 IO82             G1UDS         -16 IO82
+QSO:   432 FT8 2022-06-08 1948 M0KEP         -21 IO82             M3THN         -15 IO92
+QSO:   432 FT8 2022-06-08 1953 M0KEP         -19 IO82             G0XDI         -17 IO91
+QSO:   432 FT8 2022-06-08 1954 M0KEP         +02 IO82             MQ1EYP/P      +06 IO83
+QSO:   432 FT8 2022-06-08 1958 M0KEP         -17 IO82             G3YKI         -16 IO82
 END-OF-LOG:

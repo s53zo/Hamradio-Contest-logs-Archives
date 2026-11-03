@@ -10,14 +10,14 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=260812&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=408; excluded rows=0.
-QSO:   432 DG 2026-08-12 1907 G4APJ         +11 IO83             GW8CZW        +23 IO73
-QSO:   432 DG 2026-08-12 1916 G4APJ         +03 IO83             G7LRQ         -16 JO03
-QSO:   432 DG 2026-08-12 1926 G4APJ         -02 IO83             G6DDN         -17 IO93
-QSO:   432 DG 2026-08-12 1944 G4APJ         -15 IO83             GM8MJV        -13 IO85
-QSO:   432 DG 2026-08-12 1952 G4APJ         -09 IO83             2E0JPO        -11 IO91
-QSO:   432 DG 2026-08-12 1954 G4APJ         -17 IO83             G8SEI         -07 IO92
-QSO:   432 DG 2026-08-12 2000 G4APJ         +11 IO83             G4ZTR         -08 JO01
-QSO:   432 DG 2026-08-12 2012 G4APJ         +18 IO83             G4HGI         +06 IO83
+QSO:   432 FT8 2026-08-12 1907 G4APJ         +11 IO83             GW8CZW        +23 IO73
+QSO:   432 FT8 2026-08-12 1916 G4APJ         +03 IO83             G7LRQ         -16 JO03
+QSO:   432 FT8 2026-08-12 1926 G4APJ         -02 IO83             G6DDN         -17 IO93
+QSO:   432 FT8 2026-08-12 1944 G4APJ         -15 IO83             GM8MJV        -13 IO85
+QSO:   432 FT8 2026-08-12 1952 G4APJ         -09 IO83             2E0JPO        -11 IO91
+QSO:   432 FT8 2026-08-12 1954 G4APJ         -17 IO83             G8SEI         -07 IO92
+QSO:   432 FT8 2026-08-12 2000 G4APJ         +11 IO83             G4ZTR         -08 JO01
+QSO:   432 FT8 2026-08-12 2012 G4APJ         +18 IO83             G4HGI         +06 IO83
 END-OF-LOG:

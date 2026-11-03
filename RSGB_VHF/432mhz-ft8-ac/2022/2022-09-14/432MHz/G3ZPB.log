@@ -10,33 +10,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220914&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=476; excluded rows=0.
-QSO:   432 DG 2022-09-14 1901 G3ZPB         -07 IO91             G0BIX         +11 JO01
-QSO:   432 DG 2022-09-14 1903 G3ZPB         +03 IO91             GW4HDF        +05 IO81
-QSO:   432 DG 2022-09-14 1904 G3ZPB         +02 IO91             G4DCV         +30 IO91
-QSO:   432 DG 2022-09-14 1909 G3ZPB         -08 IO91             M0LMK         -04 JO01
-QSO:   432 DG 2022-09-14 1922 G3ZPB         -16 IO91             PA6Q          -14 JO32
-QSO:   432 DG 2022-09-14 1931 G3ZPB         -12 IO91             G8GNI         -09 IO91
-QSO:   432 DG 2022-09-14 1932 G3ZPB         -07 IO91             G4EII         +10 IO83
-QSO:   432 DG 2022-09-14 1934 G3ZPB         -14 IO91             G0ISX         -01 IO93
-QSO:   432 DG 2022-09-14 1936 G3ZPB         +03 IO91             2E0GKW        +31 IO91
-QSO:   432 DG 2022-09-14 1939 G3ZPB         -12 IO91             G4NBS         +02 JO02
-QSO:   432 DG 2022-09-14 1940 G3ZPB         -08 IO91             EI8KN         +05 IO62
-QSO:   432 DG 2022-09-14 1942 G3ZPB         -16 IO91             G7RAU         -11 IN79
-QSO:   432 DG 2022-09-14 1945 G3ZPB         -03 IO91             M0AHN         +20 IO91
-QSO:   432 DG 2022-09-14 1946 G3ZPB         -14 IO91             2E1EMK        -14 IO91
-QSO:   432 DG 2022-09-14 1948 G3ZPB         -08 IO91             G0LGS         +01 IO81
-QSO:   432 DG 2022-09-14 1955 G3ZPB         -04 IO91             PE1ITR        -07 JO21
-QSO:   432 DG 2022-09-14 2002 G3ZPB         -15 IO91             G4OED         -17 IO91
-QSO:   432 DG 2022-09-14 2009 G3ZPB         -14 IO91             GM4JTJ        -10 IO86
-QSO:   432 DG 2022-09-14 2011 G3ZPB         -24 IO91             2E0DUE        -20 JO01
-QSO:   432 DG 2022-09-14 2014 G3ZPB         -15 IO91             G0BSX         +11 IO93
-QSO:   432 DG 2022-09-14 2016 G3ZPB         -01 IO91             G4VPD         +10 IO92
-QSO:   432 DG 2022-09-14 2027 G3ZPB         -12 IO91             G0DJA         -04 IO93
-QSO:   432 DG 2022-09-14 2030 G3ZPB         -08 IO91             G3YDY         -10 JO01
-QSO:   432 DG 2022-09-14 2035 G3ZPB         -06 IO91             M0IEP         -10 IO91
-QSO:   432 DG 2022-09-14 2048 G3ZPB         -11 IO91             G6HIE         -14 JO00
-QSO:   432 DG 2022-09-14 2054 G3ZPB         -06 IO91             G4OED         -03 IO91
-QSO:   432 DG 2022-09-14 2056 G3ZPB         -24 IO91             EI4ACB        -02 IO62
+QSO:   432 FT8 2022-09-14 1901 G3ZPB         -07 IO91             G0BIX         +11 JO01
+QSO:   432 FT8 2022-09-14 1903 G3ZPB         +03 IO91             GW4HDF        +05 IO81
+QSO:   432 FT8 2022-09-14 1904 G3ZPB         +02 IO91             G4DCV         +30 IO91
+QSO:   432 FT8 2022-09-14 1909 G3ZPB         -08 IO91             M0LMK         -04 JO01
+QSO:   432 FT8 2022-09-14 1922 G3ZPB         -16 IO91             PA6Q          -14 JO32
+QSO:   432 FT8 2022-09-14 1931 G3ZPB         -12 IO91             G8GNI         -09 IO91
+QSO:   432 FT8 2022-09-14 1932 G3ZPB         -07 IO91             G4EII         +10 IO83
+QSO:   432 FT8 2022-09-14 1934 G3ZPB         -14 IO91             G0ISX         -01 IO93
+QSO:   432 FT8 2022-09-14 1936 G3ZPB         +03 IO91             2E0GKW        +31 IO91
+QSO:   432 FT8 2022-09-14 1939 G3ZPB         -12 IO91             G4NBS         +02 JO02
+QSO:   432 FT8 2022-09-14 1940 G3ZPB         -08 IO91             EI8KN         +05 IO62
+QSO:   432 FT8 2022-09-14 1942 G3ZPB         -16 IO91             G7RAU         -11 IN79
+QSO:   432 FT8 2022-09-14 1945 G3ZPB         -03 IO91             M0AHN         +20 IO91
+QSO:   432 FT8 2022-09-14 1946 G3ZPB         -14 IO91             2E1EMK        -14 IO91
+QSO:   432 FT8 2022-09-14 1948 G3ZPB         -08 IO91             G0LGS         +01 IO81
+QSO:   432 FT8 2022-09-14 1955 G3ZPB         -04 IO91             PE1ITR        -07 JO21
+QSO:   432 FT8 2022-09-14 2002 G3ZPB         -15 IO91             G4OED         -17 IO91
+QSO:   432 FT8 2022-09-14 2009 G3ZPB         -14 IO91             GM4JTJ        -10 IO86
+QSO:   432 FT8 2022-09-14 2011 G3ZPB         -24 IO91             2E0DUE        -20 JO01
+QSO:   432 FT8 2022-09-14 2014 G3ZPB         -15 IO91             G0BSX         +11 IO93
+QSO:   432 FT8 2022-09-14 2016 G3ZPB         -01 IO91             G4VPD         +10 IO92
+QSO:   432 FT8 2022-09-14 2027 G3ZPB         -12 IO91             G0DJA         -04 IO93
+QSO:   432 FT8 2022-09-14 2030 G3ZPB         -08 IO91             G3YDY         -10 JO01
+QSO:   432 FT8 2022-09-14 2035 G3ZPB         -06 IO91             M0IEP         -10 IO91
+QSO:   432 FT8 2022-09-14 2048 G3ZPB         -11 IO91             G6HIE         -14 JO00
+QSO:   432 FT8 2022-09-14 2054 G3ZPB         -06 IO91             G4OED         -03 IO91
+QSO:   432 FT8 2022-09-14 2056 G3ZPB         -24 IO91             EI4ACB        -02 IO62
 END-OF-LOG:

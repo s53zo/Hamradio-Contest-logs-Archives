@@ -10,24 +10,24 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221109&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=724; excluded rows=0.
-QSO:   432 DG 2022-11-09 1945 G4PDF         -07 IO93             M7ICL         -01 JO02
-QSO:   432 DG 2022-11-09 1950 G4PDF         -16 IO93             G4VPD         -09 IO92
-QSO:   432 DG 2022-11-09 1951 G4PDF         -13 IO93             G4NBS         -11 JO02
-QSO:   432 DG 2022-11-09 1953 G4PDF         -11 IO93             G8EEM         -04 IO93
-QSO:   432 DG 2022-11-09 1955 G4PDF         -16 IO93             2E0DUE        -17 JO01
-QSO:   432 DG 2022-11-09 2001 G4PDF         -21 IO93             G0BIX         -19 JO01
-QSO:   432 DG 2022-11-09 2004 G4PDF         -20 IO93             G3YDY         -13 JO01
-QSO:   432 DG 2022-11-09 2006 G4PDF         -22 IO93             M0TMR         -18 IO93
-QSO:   432 DG 2022-11-09 2024 G4PDF         -24 IO93             M7REV         -21 IO82
-QSO:   432 DG 2022-11-09 2026 G4PDF         -25 IO93             G4ZZL         -11 JO01
-QSO:   432 DG 2022-11-09 2029 G4PDF         -14 IO93             G4EII         -10 IO83
-QSO:   432 DG 2022-11-09 2033 G4PDF         -13 IO93             G8CRB         -13 JO02
-QSO:   432 DG 2022-11-09 2036 G4PDF         -06 IO93             G4KUX         -01 IO94
-QSO:   432 DG 2022-11-09 2040 G4PDF         -13 IO93             G7LRQ         -22 IO91
-QSO:   432 DG 2022-11-09 2047 G4PDF         -11 IO93             2E1FMS        -15 IO82
-QSO:   432 DG 2022-11-09 2049 G4PDF         -18 IO93             M0IEP         -09 IO91
-QSO:   432 DG 2022-11-09 2050 G4PDF         -15 IO93             G4OED         -13 IO91
-QSO:   432 DG 2022-11-09 2055 G4PDF         -19 IO93             M0XXJ         -13 IO91
+QSO:   432 FT8 2022-11-09 1945 G4PDF         -07 IO93             M7ICL         -01 JO02
+QSO:   432 FT8 2022-11-09 1950 G4PDF         -16 IO93             G4VPD         -09 IO92
+QSO:   432 FT8 2022-11-09 1951 G4PDF         -13 IO93             G4NBS         -11 JO02
+QSO:   432 FT8 2022-11-09 1953 G4PDF         -11 IO93             G8EEM         -04 IO93
+QSO:   432 FT8 2022-11-09 1955 G4PDF         -16 IO93             2E0DUE        -17 JO01
+QSO:   432 FT8 2022-11-09 2001 G4PDF         -21 IO93             G0BIX         -19 JO01
+QSO:   432 FT8 2022-11-09 2004 G4PDF         -20 IO93             G3YDY         -13 JO01
+QSO:   432 FT8 2022-11-09 2006 G4PDF         -22 IO93             M0TMR         -18 IO93
+QSO:   432 FT8 2022-11-09 2024 G4PDF         -24 IO93             M7REV         -21 IO82
+QSO:   432 FT8 2022-11-09 2026 G4PDF         -25 IO93             G4ZZL         -11 JO01
+QSO:   432 FT8 2022-11-09 2029 G4PDF         -14 IO93             G4EII         -10 IO83
+QSO:   432 FT8 2022-11-09 2033 G4PDF         -13 IO93             G8CRB         -13 JO02
+QSO:   432 FT8 2022-11-09 2036 G4PDF         -06 IO93             G4KUX         -01 IO94
+QSO:   432 FT8 2022-11-09 2040 G4PDF         -13 IO93             G7LRQ         -22 IO91
+QSO:   432 FT8 2022-11-09 2047 G4PDF         -11 IO93             2E1FMS        -15 IO82
+QSO:   432 FT8 2022-11-09 2049 G4PDF         -18 IO93             M0IEP         -09 IO91
+QSO:   432 FT8 2022-11-09 2050 G4PDF         -15 IO93             G4OED         -13 IO91
+QSO:   432 FT8 2022-11-09 2055 G4PDF         -19 IO93             M0XXJ         -13 IO91
 END-OF-LOG:

@@ -10,16 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260408&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=518; excluded rows=0.
-QSO:   432 DG 2026-04-08 1903 G8CZW         +23 IO83             G4APJ         +13 IO83
-QSO:   432 DG 2026-04-08 1907 G8CZW         -13 IO83             MI0IHH        -05 IO74
-QSO:   432 DG 2026-04-08 1913 G8CZW         -15 IO83             G4BEE         -06 IO83
-QSO:   432 DG 2026-04-08 1919 G8CZW         +00 IO83             G6DDN         -14 IO93
-QSO:   432 DG 2026-04-08 1920 G8CZW         +01 IO83             M1EYP/P       +04 IO83
-QSO:   432 DG 2026-04-08 1932 G8CZW         -02 IO83             GI4SNA        +02 IO64
-QSO:   432 DG 2026-04-08 1956 G8CZW         +37 IO83             G7ADF         +11 IO83
-QSO:   432 DG 2026-04-08 2001 G8CZW         -06 IO83             G8IXK         -13 IO91
-QSO:   432 DG 2026-04-08 2007 G8CZW         -07 IO83             G0GJV         -09 IO91
-QSO:   432 DG 2026-04-08 2046 G8CZW         -10 IO83             GM8MJV        -10 IO85
+QSO:   432 FT8 2026-04-08 1903 G8CZW         +23 IO83             G4APJ         +13 IO83
+QSO:   432 FT8 2026-04-08 1907 G8CZW         -13 IO83             MI0IHH        -05 IO74
+QSO:   432 FT8 2026-04-08 1913 G8CZW         -15 IO83             G4BEE         -06 IO83
+QSO:   432 FT8 2026-04-08 1919 G8CZW         +00 IO83             G6DDN         -14 IO93
+QSO:   432 FT8 2026-04-08 1920 G8CZW         +01 IO83             M1EYP/P       +04 IO83
+QSO:   432 FT8 2026-04-08 1932 G8CZW         -02 IO83             GI4SNA        +02 IO64
+QSO:   432 FT8 2026-04-08 1956 G8CZW         +37 IO83             G7ADF         +11 IO83
+QSO:   432 FT8 2026-04-08 2001 G8CZW         -06 IO83             G8IXK         -13 IO91
+QSO:   432 FT8 2026-04-08 2007 G8CZW         -07 IO83             G0GJV         -09 IO91
+QSO:   432 FT8 2026-04-08 2046 G8CZW         -10 IO83             GM8MJV        -10 IO85
 END-OF-LOG:

@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1303; excluded rows=0.
-QSO:   144 DG 2022-03-02 1914 G7COU         -15 IO93             G8EEM         -15 IO93
-QSO:   144 DG 2022-03-02 1921 G7COU         +01 IO93             G4PDF         -03 IO93
-QSO:   144 DG 2022-03-02 1922 G7COU         +08 IO93             G0HDV         +11 IO93
-QSO:   144 DG 2022-03-02 1928 G7COU         +05 IO93             2E1SKY        +04 IO93
-QSO:   144 DG 2022-03-02 1934 G7COU         -14 IO93             G8CRB         -20 JO02
-QSO:   144 DG 2022-03-02 1939 G7COU         +08 IO93             G6COL         +08 IO93
-QSO:   144 DG 2022-03-02 1945 G7COU         +22 IO93             G8AOE/P       +19 IO94
-QSO:   144 DG 2022-03-02 2006 G7COU         -20 IO93             ON6LEO        -13 JO21
-QSO:   144 DG 2022-03-02 2012 G7COU         +14 IO93             G8VDP         +00 IO93
-QSO:   144 DG 2022-03-02 2021 G7COU         +01 IO93             GI6ATZ        -01 IO74
-QSO:   144 DG 2022-03-02 2044 G7COU         -02 IO93             G4FBA         -16 IO93
-QSO:   144 DG 2022-03-02 2050 G7COU         -11 IO93             G0FVI         -09 IO93
-QSO:   144 DG 2022-03-02 2057 G7COU         +29 IO93             M0RTQ         +24 IO93
+QSO:   144 FT8 2022-03-02 1914 G7COU         -15 IO93             G8EEM         -15 IO93
+QSO:   144 FT8 2022-03-02 1921 G7COU         +01 IO93             G4PDF         -03 IO93
+QSO:   144 FT8 2022-03-02 1922 G7COU         +08 IO93             G0HDV         +11 IO93
+QSO:   144 FT8 2022-03-02 1928 G7COU         +05 IO93             2E1SKY        +04 IO93
+QSO:   144 FT8 2022-03-02 1934 G7COU         -14 IO93             G8CRB         -20 JO02
+QSO:   144 FT8 2022-03-02 1939 G7COU         +08 IO93             G6COL         +08 IO93
+QSO:   144 FT8 2022-03-02 1945 G7COU         +22 IO93             G8AOE/P       +19 IO94
+QSO:   144 FT8 2022-03-02 2006 G7COU         -20 IO93             ON6LEO        -13 JO21
+QSO:   144 FT8 2022-03-02 2012 G7COU         +14 IO93             G8VDP         +00 IO93
+QSO:   144 FT8 2022-03-02 2021 G7COU         +01 IO93             GI6ATZ        -01 IO74
+QSO:   144 FT8 2022-03-02 2044 G7COU         -02 IO93             G4FBA         -16 IO93
+QSO:   144 FT8 2022-03-02 2050 G7COU         -11 IO93             G0FVI         -09 IO93
+QSO:   144 FT8 2022-03-02 2057 G7COU         +29 IO93             M0RTQ         +24 IO93
 END-OF-LOG:

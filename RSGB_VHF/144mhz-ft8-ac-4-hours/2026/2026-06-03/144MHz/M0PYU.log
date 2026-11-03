@@ -10,24 +10,24 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=260603&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=694; excluded rows=0.
-QSO:   144 DG 2026-06-03 1758 M0PYU         +10 IO93             G0VXM         -09 IO93
-QSO:   144 DG 2026-06-03 1801 M0PYU         +14 IO93             G7LRQ         +03 JO03
-QSO:   144 DG 2026-06-03 1809 M0PYU         -14 IO93             G0BIX         -16 JO01
-QSO:   144 DG 2026-06-03 1814 M0PYU         -11 IO93             G7WIR         -18 JO01
-QSO:   144 DG 2026-06-03 1827 M0PYU         -04 IO93             G6DDN         -21 IO93
-QSO:   144 DG 2026-06-03 1835 M0PYU         -12 IO93             G4APJ         -14 IO83
-QSO:   144 DG 2026-06-03 1843 M0PYU         -11 IO93             G0WUU         +01 IO93
-QSO:   144 DG 2026-06-03 1854 M0PYU         -15 IO93             F1NQP         -12 JN19
-QSO:   144 DG 2026-06-03 1901 M0PYU         +11 IO93             G4PDF         +00 IO93
-QSO:   144 DG 2026-06-03 1926 M0PYU         -07 IO93             M0UHF         -07 IO91
-QSO:   144 DG 2026-06-03 1928 M0PYU         +12 IO93             G8EEM         +01 IO93
-QSO:   144 DG 2026-06-03 1931 M0PYU         -03 IO93             G8SEI         -08 IO92
-QSO:   144 DG 2026-06-03 1951 M0PYU         +11 IO93             G7COU         -04 IO93
-QSO:   144 DG 2026-06-03 2001 M0PYU         -03 IO93             MM0CEZ        -18 IO75
-QSO:   144 DG 2026-06-03 2013 M0PYU         -19 IO93             G4BEE         -06 IO83
-QSO:   144 DG 2026-06-03 2032 M0PYU         +00 IO93             GI4SNA        -15 IO64
-QSO:   144 DG 2026-06-03 2037 M0PYU         -15 IO93             OV3T          -15 JO46
-QSO:   144 DG 2026-06-03 2045 M0PYU         +10 IO93             G4NBS         -04 JO02
+QSO:   144 FT8 2026-06-03 1758 M0PYU         +10 IO93             G0VXM         -09 IO93
+QSO:   144 FT8 2026-06-03 1801 M0PYU         +14 IO93             G7LRQ         +03 JO03
+QSO:   144 FT8 2026-06-03 1809 M0PYU         -14 IO93             G0BIX         -16 JO01
+QSO:   144 FT8 2026-06-03 1814 M0PYU         -11 IO93             G7WIR         -18 JO01
+QSO:   144 FT8 2026-06-03 1827 M0PYU         -04 IO93             G6DDN         -21 IO93
+QSO:   144 FT8 2026-06-03 1835 M0PYU         -12 IO93             G4APJ         -14 IO83
+QSO:   144 FT8 2026-06-03 1843 M0PYU         -11 IO93             G0WUU         +01 IO93
+QSO:   144 FT8 2026-06-03 1854 M0PYU         -15 IO93             F1NQP         -12 JN19
+QSO:   144 FT8 2026-06-03 1901 M0PYU         +11 IO93             G4PDF         +00 IO93
+QSO:   144 FT8 2026-06-03 1926 M0PYU         -07 IO93             M0UHF         -07 IO91
+QSO:   144 FT8 2026-06-03 1928 M0PYU         +12 IO93             G8EEM         +01 IO93
+QSO:   144 FT8 2026-06-03 1931 M0PYU         -03 IO93             G8SEI         -08 IO92
+QSO:   144 FT8 2026-06-03 1951 M0PYU         +11 IO93             G7COU         -04 IO93
+QSO:   144 FT8 2026-06-03 2001 M0PYU         -03 IO93             MM0CEZ        -18 IO75
+QSO:   144 FT8 2026-06-03 2013 M0PYU         -19 IO93             G4BEE         -06 IO83
+QSO:   144 FT8 2026-06-03 2032 M0PYU         +00 IO93             GI4SNA        -15 IO64
+QSO:   144 FT8 2026-06-03 2037 M0PYU         -15 IO93             OV3T          -15 JO46
+QSO:   144 FT8 2026-06-03 2045 M0PYU         +10 IO93             G4NBS         -04 JO02
 END-OF-LOG:

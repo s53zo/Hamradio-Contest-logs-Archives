@@ -10,21 +10,21 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220713&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=767; excluded rows=0.
-QSO:   432 DG 2022-07-13 2006 2E0JPO        +04 IO91             G8GNI         +01 IO91
-QSO:   432 DG 2022-07-13 2008 2E0JPO        +31 IO91             G7LRQ         +18 IO91
-QSO:   432 DG 2022-07-13 2009 2E0JPO        -03 IO91             G8CRB         +00 JO02
-QSO:   432 DG 2022-07-13 2011 2E0JPO        -17 IO91             G7WIR         -10 JO01
-QSO:   432 DG 2022-07-13 2014 2E0JPO        +06 IO91             G3ZPB         -05 IO91
-QSO:   432 DG 2022-07-13 2020 2E0JPO        +07 IO91             2E1FMS        -10 IO82
-QSO:   432 DG 2022-07-13 2033 2E0JPO        +10 IO91             G7LRQ         -02 IO91
-QSO:   432 DG 2022-07-13 2035 2E0JPO        -07 IO91             G3WZK         -02 IO91
-QSO:   432 DG 2022-07-13 2036 2E0JPO        +08 IO91             2E0DUE        -02 JO01
-QSO:   432 DG 2022-07-13 2039 2E0JPO        +21 IO91             G0BIX         +05 JO01
-QSO:   432 DG 2022-07-13 2040 2E0JPO        -10 IO91             G0BIX         +05 JO01
-QSO:   432 DG 2022-07-13 2043 2E0JPO        +07 IO91             G0XDI         -06 IO91
-QSO:   432 DG 2022-07-13 2046 2E0JPO        -04 IO91             G4FFY         -12 JO01
-QSO:   432 DG 2022-07-13 2055 2E0JPO        +19 IO91             PA5Y          -03 JO21
-QSO:   432 DG 2022-07-13 2058 2E0JPO        +07 IO91             G4NBS         +12 JO02
+QSO:   432 FT8 2022-07-13 2006 2E0JPO        +04 IO91             G8GNI         +01 IO91
+QSO:   432 FT8 2022-07-13 2008 2E0JPO        +31 IO91             G7LRQ         +18 IO91
+QSO:   432 FT8 2022-07-13 2009 2E0JPO        -03 IO91             G8CRB         +00 JO02
+QSO:   432 FT8 2022-07-13 2011 2E0JPO        -17 IO91             G7WIR         -10 JO01
+QSO:   432 FT8 2022-07-13 2014 2E0JPO        +06 IO91             G3ZPB         -05 IO91
+QSO:   432 FT8 2022-07-13 2020 2E0JPO        +07 IO91             2E1FMS        -10 IO82
+QSO:   432 FT8 2022-07-13 2033 2E0JPO        +10 IO91             G7LRQ         -02 IO91
+QSO:   432 FT8 2022-07-13 2035 2E0JPO        -07 IO91             G3WZK         -02 IO91
+QSO:   432 FT8 2022-07-13 2036 2E0JPO        +08 IO91             2E0DUE        -02 JO01
+QSO:   432 FT8 2022-07-13 2039 2E0JPO        +21 IO91             G0BIX         +05 JO01
+QSO:   432 FT8 2022-07-13 2040 2E0JPO        -10 IO91             G0BIX         +05 JO01
+QSO:   432 FT8 2022-07-13 2043 2E0JPO        +07 IO91             G0XDI         -06 IO91
+QSO:   432 FT8 2022-07-13 2046 2E0JPO        -04 IO91             G4FFY         -12 JO01
+QSO:   432 FT8 2022-07-13 2055 2E0JPO        +19 IO91             PA5Y          -03 JO21
+QSO:   432 FT8 2022-07-13 2058 2E0JPO        +07 IO91             G4NBS         +12 JO02
 END-OF-LOG:

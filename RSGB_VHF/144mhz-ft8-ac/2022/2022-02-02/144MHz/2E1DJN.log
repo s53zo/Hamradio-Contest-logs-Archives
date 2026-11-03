@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1902 2E1DJN        +31 IO82             M7REV         +14 IO82
-QSO:   144 DG 2022-02-02 1909 2E1DJN        +05 IO82             G8XYJ         +00 IO82
-QSO:   144 DG 2022-02-02 1914 2E1DJN        +03 IO82             MM0CEZ        -10 IO75
-QSO:   144 DG 2022-02-02 1917 2E1DJN        -01 IO82             G4APJ         -13 IO83
-QSO:   144 DG 2022-02-02 1918 2E1DJN        +05 IO82             G4UJS         -10 IO82
-QSO:   144 DG 2022-02-02 1934 2E1DJN        +02 IO82             G3YKI         -04 IO82
-QSO:   144 DG 2022-02-02 1947 2E1DJN        -03 IO82             G3WAG/P       -08 IO82
-QSO:   144 DG 2022-02-02 1958 2E1DJN        -13 IO82             G0JCC         -12 IO82
-QSO:   144 DG 2022-02-02 2021 2E1DJN        +00 IO82             G3XBY         -11 -
-QSO:   144 DG 2022-02-02 2027 2E1DJN        +16 IO82             G0GFC         -08 -
-QSO:   144 DG 2022-02-02 2056 2E1DJN        +10 IO82             M6UKZ         -13 IO82
+QSO:   144 FT8 2022-02-02 1902 2E1DJN        +31 IO82             M7REV         +14 IO82
+QSO:   144 FT8 2022-02-02 1909 2E1DJN        +05 IO82             G8XYJ         +00 IO82
+QSO:   144 FT8 2022-02-02 1914 2E1DJN        +03 IO82             MM0CEZ        -10 IO75
+QSO:   144 FT8 2022-02-02 1917 2E1DJN        -01 IO82             G4APJ         -13 IO83
+QSO:   144 FT8 2022-02-02 1918 2E1DJN        +05 IO82             G4UJS         -10 IO82
+QSO:   144 FT8 2022-02-02 1934 2E1DJN        +02 IO82             G3YKI         -04 IO82
+QSO:   144 FT8 2022-02-02 1947 2E1DJN        -03 IO82             G3WAG/P       -08 IO82
+QSO:   144 FT8 2022-02-02 1958 2E1DJN        -13 IO82             G0JCC         -12 IO82
+QSO:   144 FT8 2022-02-02 2021 2E1DJN        +00 IO82             G3XBY         -11 -
+QSO:   144 FT8 2022-02-02 2027 2E1DJN        +16 IO82             G0GFC         -08 -
+QSO:   144 FT8 2022-02-02 2056 2E1DJN        +10 IO82             M6UKZ         -13 IO82
 END-OF-LOG:

@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260708&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=616; excluded rows=0.
-QSO:   432 DG 2026-07-08 1900 G6DDN         -08 IO93             G4FLM         -07 IO94
-QSO:   432 DG 2026-07-08 1902 G6DDN         -01 IO93             GM8MJV        +20 IO85
-QSO:   432 DG 2026-07-08 1912 G6DDN         -07 IO93             GD0TEP        +16 IO74
-QSO:   432 DG 2026-07-08 1916 G6DDN         -11 IO93             OV3T          -02 JO46
-QSO:   432 DG 2026-07-08 1917 G6DDN         -12 IO93             PA3CWS        -18 JO22
-QSO:   432 DG 2026-07-08 1924 G6DDN         -16 IO93             GI4SNA        -09 IO64
-QSO:   432 DG 2026-07-08 1932 G6DDN         -12 IO93             M1EYP/P       +08 IO83
-QSO:   432 DG 2026-07-08 1941 G6DDN         -05 IO93             OZ1IIL        +02 JO47
-QSO:   432 DG 2026-07-08 1946 G6DDN         -18 IO93             PA6I          -19 JO32
-QSO:   432 DG 2026-07-08 1948 G6DDN         -16 IO93             G6HIE         -12 JO00
-QSO:   432 DG 2026-07-08 2003 G6DDN         -20 IO93             G8SEI         -06 IO92
-QSO:   432 DG 2026-07-08 2013 G6DDN         -11 IO93             G3YDY         -02 JO01
-QSO:   432 DG 2026-07-08 2013 G6DDN         -17 IO93             EI4ACB        +01 IO62
-QSO:   432 DG 2026-07-08 2024 G6DDN         -03 IO93             G4HGI         +16 IO83
-QSO:   432 DG 2026-07-08 2039 G6DDN         -15 IO93             OZ3MC         -08 JO46
-QSO:   432 DG 2026-07-08 2057 G6DDN         -14 IO93             G7RDX         -01 IO91
+QSO:   432 FT8 2026-07-08 1900 G6DDN         -08 IO93             G4FLM         -07 IO94
+QSO:   432 FT8 2026-07-08 1902 G6DDN         -01 IO93             GM8MJV        +20 IO85
+QSO:   432 FT8 2026-07-08 1912 G6DDN         -07 IO93             GD0TEP        +16 IO74
+QSO:   432 FT8 2026-07-08 1916 G6DDN         -11 IO93             OV3T          -02 JO46
+QSO:   432 FT8 2026-07-08 1917 G6DDN         -12 IO93             PA3CWS        -18 JO22
+QSO:   432 FT8 2026-07-08 1924 G6DDN         -16 IO93             GI4SNA        -09 IO64
+QSO:   432 FT8 2026-07-08 1932 G6DDN         -12 IO93             M1EYP/P       +08 IO83
+QSO:   432 FT8 2026-07-08 1941 G6DDN         -05 IO93             OZ1IIL        +02 JO47
+QSO:   432 FT8 2026-07-08 1946 G6DDN         -18 IO93             PA6I          -19 JO32
+QSO:   432 FT8 2026-07-08 1948 G6DDN         -16 IO93             G6HIE         -12 JO00
+QSO:   432 FT8 2026-07-08 2003 G6DDN         -20 IO93             G8SEI         -06 IO92
+QSO:   432 FT8 2026-07-08 2013 G6DDN         -11 IO93             G3YDY         -02 JO01
+QSO:   432 FT8 2026-07-08 2013 G6DDN         -17 IO93             EI4ACB        +01 IO62
+QSO:   432 FT8 2026-07-08 2024 G6DDN         -03 IO93             G4HGI         +16 IO83
+QSO:   432 FT8 2026-07-08 2039 G6DDN         -15 IO93             OZ3MC         -08 JO46
+QSO:   432 FT8 2026-07-08 2057 G6DDN         -14 IO93             G7RDX         -01 IO91
 END-OF-LOG:

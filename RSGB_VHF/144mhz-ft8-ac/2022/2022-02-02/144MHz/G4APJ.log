@@ -10,38 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1901 G4APJ         -14 IO83             EA1HRR        -12 IN83
-QSO:   144 DG 2022-02-02 1905 G4APJ         -13 IO83             F0GOW         -08 IN96
-QSO:   144 DG 2022-02-02 1907 G4APJ         -09 IO83             F1IXQ         -06 IN96
-QSO:   144 DG 2022-02-02 1908 G4APJ         -09 IO83             F6BQX         -05 IN96
-QSO:   144 DG 2022-02-02 1910 G4APJ         -11 IO83             G8GNI         -15 IO91
-QSO:   144 DG 2022-02-02 1911 G4APJ         +03 IO83             F5LMG         +06 IN88
-QSO:   144 DG 2022-02-02 1913 G4APJ         -04 IO83             G8DER         +02 IO81
-QSO:   144 DG 2022-02-02 1915 G4APJ         -22 IO83             G4RRA         -17 IO80
-QSO:   144 DG 2022-02-02 1916 G4APJ         -13 IO83             2E1DJN        -01 IO82
-QSO:   144 DG 2022-02-02 1919 G4APJ         -09 IO83             G0BIX         -11 JO01
-QSO:   144 DG 2022-02-02 1927 G4APJ         +03 IO83             G3YKI         +00 IO82
-QSO:   144 DG 2022-02-02 1933 G4APJ         +16 IO83             M1EYP/P       +18 IO83
-QSO:   144 DG 2022-02-02 1935 G4APJ         -06 IO83             G8CRB         -03 JO02
-QSO:   144 DG 2022-02-02 1936 G4APJ         -01 IO83             G0DJA         +08 IO93
-QSO:   144 DG 2022-02-02 1945 G4APJ         -17 IO83             MM0CEZ        -16 IO75
-QSO:   144 DG 2022-02-02 1948 G4APJ         -08 IO83             G3SAO         -03 IO83
-QSO:   144 DG 2022-02-02 1950 G4APJ         -09 IO83             EI9KP         +02 IO54
-QSO:   144 DG 2022-02-02 2000 G4APJ         -15 IO83             M0IEP         -09 IO91
-QSO:   144 DG 2022-02-02 2003 G4APJ         -18 IO83             G7WIR         -19 JO01
-QSO:   144 DG 2022-02-02 2007 G4APJ         -04 IO83             EA2XR         +09 IN83
-QSO:   144 DG 2022-02-02 2011 G4APJ         +00 IO83             M0FXX         +02 IO91
-QSO:   144 DG 2022-02-02 2013 G4APJ         -08 IO83             F6CIS         -18 IN94
-QSO:   144 DG 2022-02-02 2015 G4APJ         -22 IO83             G4VPD         -19 IO92
-QSO:   144 DG 2022-02-02 2018 G4APJ         -14 IO83             G7IGC         -16 IO92
-QSO:   144 DG 2022-02-02 2021 G4APJ         -10 IO83             M7REV         -05 IO82
-QSO:   144 DG 2022-02-02 2023 G4APJ         -11 IO83             G3WAG/P       -07 IO82
-QSO:   144 DG 2022-02-02 2036 G4APJ         -10 IO83             G8AOE/P       -17 IO94
-QSO:   144 DG 2022-02-02 2041 G4APJ         -18 IO83             G0LGS         -06 IO81
-QSO:   144 DG 2022-02-02 2044 G4APJ         -15 IO83             EA1U          -07 IN83
-QSO:   144 DG 2022-02-02 2045 G4APJ         -16 IO83             F4FMB         -08 IN96
-QSO:   144 DG 2022-02-02 2049 G4APJ         -19 IO83             G3WZK         -10 IO91
-QSO:   144 DG 2022-02-02 2058 G4APJ         -03 IO83             GI6ATZ        +11 IO74
+QSO:   144 FT8 2022-02-02 1901 G4APJ         -14 IO83             EA1HRR        -12 IN83
+QSO:   144 FT8 2022-02-02 1905 G4APJ         -13 IO83             F0GOW         -08 IN96
+QSO:   144 FT8 2022-02-02 1907 G4APJ         -09 IO83             F1IXQ         -06 IN96
+QSO:   144 FT8 2022-02-02 1908 G4APJ         -09 IO83             F6BQX         -05 IN96
+QSO:   144 FT8 2022-02-02 1910 G4APJ         -11 IO83             G8GNI         -15 IO91
+QSO:   144 FT8 2022-02-02 1911 G4APJ         +03 IO83             F5LMG         +06 IN88
+QSO:   144 FT8 2022-02-02 1913 G4APJ         -04 IO83             G8DER         +02 IO81
+QSO:   144 FT8 2022-02-02 1915 G4APJ         -22 IO83             G4RRA         -17 IO80
+QSO:   144 FT8 2022-02-02 1916 G4APJ         -13 IO83             2E1DJN        -01 IO82
+QSO:   144 FT8 2022-02-02 1919 G4APJ         -09 IO83             G0BIX         -11 JO01
+QSO:   144 FT8 2022-02-02 1927 G4APJ         +03 IO83             G3YKI         +00 IO82
+QSO:   144 FT8 2022-02-02 1933 G4APJ         +16 IO83             M1EYP/P       +18 IO83
+QSO:   144 FT8 2022-02-02 1935 G4APJ         -06 IO83             G8CRB         -03 JO02
+QSO:   144 FT8 2022-02-02 1936 G4APJ         -01 IO83             G0DJA         +08 IO93
+QSO:   144 FT8 2022-02-02 1945 G4APJ         -17 IO83             MM0CEZ        -16 IO75
+QSO:   144 FT8 2022-02-02 1948 G4APJ         -08 IO83             G3SAO         -03 IO83
+QSO:   144 FT8 2022-02-02 1950 G4APJ         -09 IO83             EI9KP         +02 IO54
+QSO:   144 FT8 2022-02-02 2000 G4APJ         -15 IO83             M0IEP         -09 IO91
+QSO:   144 FT8 2022-02-02 2003 G4APJ         -18 IO83             G7WIR         -19 JO01
+QSO:   144 FT8 2022-02-02 2007 G4APJ         -04 IO83             EA2XR         +09 IN83
+QSO:   144 FT8 2022-02-02 2011 G4APJ         +00 IO83             M0FXX         +02 IO91
+QSO:   144 FT8 2022-02-02 2013 G4APJ         -08 IO83             F6CIS         -18 IN94
+QSO:   144 FT8 2022-02-02 2015 G4APJ         -22 IO83             G4VPD         -19 IO92
+QSO:   144 FT8 2022-02-02 2018 G4APJ         -14 IO83             G7IGC         -16 IO92
+QSO:   144 FT8 2022-02-02 2021 G4APJ         -10 IO83             M7REV         -05 IO82
+QSO:   144 FT8 2022-02-02 2023 G4APJ         -11 IO83             G3WAG/P       -07 IO82
+QSO:   144 FT8 2022-02-02 2036 G4APJ         -10 IO83             G8AOE/P       -17 IO94
+QSO:   144 FT8 2022-02-02 2041 G4APJ         -18 IO83             G0LGS         -06 IO81
+QSO:   144 FT8 2022-02-02 2044 G4APJ         -15 IO83             EA1U          -07 IN83
+QSO:   144 FT8 2022-02-02 2045 G4APJ         -16 IO83             F4FMB         -08 IN96
+QSO:   144 FT8 2022-02-02 2049 G4APJ         -19 IO83             G3WZK         -10 IO91
+QSO:   144 FT8 2022-02-02 2058 G4APJ         -03 IO83             GI6ATZ        +11 IO74
 END-OF-LOG:

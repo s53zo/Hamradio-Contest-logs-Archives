@@ -10,10 +10,10 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260204&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=927; excluded rows=0.
-QSO:   144 DG 2026-02-04 1901 M1RTB         -05 IO83             G8LIY         -17 IO83
-QSO:   144 DG 2026-02-04 1910 M1RTB         +11 IO83             G4HGI         -03 IO83
-QSO:   144 DG 2026-02-04 1915 M1RTB         -18 IO83             M9DJN         -09 IO82
-QSO:   144 DG 2026-02-04 1916 M1RTB         -01 IO83             G8CZW         -25 IO83
+QSO:   144 FT8 2026-02-04 1901 M1RTB         -05 IO83             G8LIY         -17 IO83
+QSO:   144 FT8 2026-02-04 1910 M1RTB         +11 IO83             G4HGI         -03 IO83
+QSO:   144 FT8 2026-02-04 1915 M1RTB         -18 IO83             M9DJN         -09 IO82
+QSO:   144 FT8 2026-02-04 1916 M1RTB         -01 IO83             G8CZW         -25 IO83
 END-OF-LOG:

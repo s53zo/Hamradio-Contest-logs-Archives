@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220713&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=767; excluded rows=0.
-QSO:   432 DG 2022-07-13 1902 G4FFY         +00 JO01             G7LRQ         -16 IO91
-QSO:   432 DG 2022-07-13 1906 G4FFY         -10 JO01             GW4HDF        -14 IO81
-QSO:   432 DG 2022-07-13 1911 G4FFY         -14 JO01             2E0DUE        -12 JO01
-QSO:   432 DG 2022-07-13 1925 G4FFY         -10 JO01             PA5PEK        -21 JO11
-QSO:   432 DG 2022-07-13 1926 G4FFY         -01 JO01             G0BIX         -21 JO01
-QSO:   432 DG 2022-07-13 1938 G4FFY         -16 JO01             G6HIE         -15 JO00
-QSO:   432 DG 2022-07-13 1952 G4FFY         -11 JO01             G3ZPB         -16 IO91
-QSO:   432 DG 2022-07-13 2005 G4FFY         +10 JO01             M0TZZ         -08 JO01
-QSO:   432 DG 2022-07-13 2018 G4FFY         -02 JO01             G0XDI         -09 IO91
-QSO:   432 DG 2022-07-13 2024 G4FFY         +04 JO01             F5RZC         +00 JO10
-QSO:   432 DG 2022-07-13 2028 G4FFY         +14 JO01             G7WIR         +13 JO01
-QSO:   432 DG 2022-07-13 2047 G4FFY         -12 JO01             2E0JPO        -04 IO91
+QSO:   432 FT8 2022-07-13 1902 G4FFY         +00 JO01             G7LRQ         -16 IO91
+QSO:   432 FT8 2022-07-13 1906 G4FFY         -10 JO01             GW4HDF        -14 IO81
+QSO:   432 FT8 2022-07-13 1911 G4FFY         -14 JO01             2E0DUE        -12 JO01
+QSO:   432 FT8 2022-07-13 1925 G4FFY         -10 JO01             PA5PEK        -21 JO11
+QSO:   432 FT8 2022-07-13 1926 G4FFY         -01 JO01             G0BIX         -21 JO01
+QSO:   432 FT8 2022-07-13 1938 G4FFY         -16 JO01             G6HIE         -15 JO00
+QSO:   432 FT8 2022-07-13 1952 G4FFY         -11 JO01             G3ZPB         -16 IO91
+QSO:   432 FT8 2022-07-13 2005 G4FFY         +10 JO01             M0TZZ         -08 JO01
+QSO:   432 FT8 2022-07-13 2018 G4FFY         -02 JO01             G0XDI         -09 IO91
+QSO:   432 FT8 2022-07-13 2024 G4FFY         +04 JO01             F5RZC         +00 JO10
+QSO:   432 FT8 2022-07-13 2028 G4FFY         +14 JO01             G7WIR         +13 JO01
+QSO:   432 FT8 2022-07-13 2047 G4FFY         -12 JO01             2E0JPO        -04 IO91
 END-OF-LOG:

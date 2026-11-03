@@ -10,40 +10,41 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO:  7049 DG 2026-08-17 1902 SP9UOP        +14 -                PD2PKM        -21 -
-QSO:  7049 DG 2026-08-17 1909 SP9UOP        -03 -                MM0KQC        -09 -
-QSO:  7049 DG 2026-08-17 1912 SP9UOP        -04 -                RX3DRC        -10 -
-QSO:  3576 DG 2026-08-17 1915 SP9UOP        +07 -                DO1ARD        +00 -
-QSO:  7049 DG 2026-08-17 1920 SP9UOP        +00 -                M5N           +00 -
-QSO:  7049 DG 2026-08-17 1921 SP9UOP        -03 -                M0NPT         -16 -
-QSO:  7049 DG 2026-08-17 1922 SP9UOP        +01 -                PE2K          -08 -
-QSO:  7049 DG 2026-08-17 1923 SP9UOP        +17 -                DF4ZL         +03 -
-QSO:  7049 DG 2026-08-17 1924 SP9UOP        +06 -                PA7SL         -09 -
-QSO:  7049 DG 2026-08-17 1927 SP9UOP        +06 -                PA2A          -05 -
-QSO:  7049 DG 2026-08-17 1927 SP9UOP        +06 -                PH3T          -05 -
-QSO:  7049 DG 2026-08-17 1928 SP9UOP        +04 -                PC9K          -11 -
-QSO:  7049 DG 2026-08-17 1930 SP9UOP        +08 -                PA0GSP        -14 -
-QSO:  7049 DG 2026-08-17 1931 SP9UOP        +04 -                M5RJC         -16 -
-QSO:  7049 DG 2026-08-17 1932 SP9UOP        +04 -                PH3BDJ        -05 -
-QSO:  7049 DG 2026-08-17 1934 SP9UOP        +12 -                PA3EOZ        -19 -
-QSO:  7049 DG 2026-08-17 1935 SP9UOP        +02 -                9A60CBM       -05 -
-QSO:  7049 DG 2026-08-17 1939 SP9UOP        -01 -                IN3OWY        +02 -
-QSO:  3576 DG 2026-08-17 1946 SP9UOP        -02 -                PA0MUS        +01 -
-QSO:  3576 DG 2026-08-17 1947 SP9UOP        +05 -                G4OZG         +08 -
-QSO:  3576 DG 2026-08-17 1949 SP9UOP        -04 -                9A60CBM       -02 -
-QSO:  3576 DG 2026-08-17 1950 SP9UOP        +20 -                OK2WMC        +29 -
-QSO:  3576 DG 2026-08-17 1953 SP9UOP        -12 -                OK4KD         -03 -
-QSO:  3576 DG 2026-08-17 1954 SP9UOP        -04 -                DG4MCB        -01 -
-QSO:  3576 DG 2026-08-17 1955 SP9UOP        -06 -                DO1NJN        -01 -
-QSO:  3576 DG 2026-08-17 1955 SP9UOP        +07 -                DO1ARD        -01 -
-QSO:  3576 DG 2026-08-17 1957 SP9UOP        +02 -                DJ2PW         -03 -
-QSO:  3576 DG 2026-08-17 1958 SP9UOP        -14 -                SQ8LSB        +06 -
-QSO:  3576 DG 2026-08-17 2000 SP9UOP        +00 -                M7WYF         -04 -
-QSO:  3576 DG 2026-08-17 2001 SP9UOP        +06 -                GW5P          +00 -
-QSO:  3576 DG 2026-08-17 2006 SP9UOP        +05 -                SE6K          +17 -
-QSO:  3576 DG 2026-08-17 2007 SP9UOP        -03 -                DF4ZL         -05 -
-QSO:  3577 DG 2026-08-17 2016 SP9UOP        -08 -                M5N           -04 -
-QSO:  3577 DG 2026-08-17 2017 SP9UOP        +16 -                OK2USM        +18 -
-QSO:  3577 DG 2026-08-17 2018 SP9UOP        +16 -                DK2OY         +08 -
+QSO:  7049 FT4 2026-08-17 1902 SP9UOP        +14 -                PD2PKM        -21 -
+QSO:  7049 FT4 2026-08-17 1909 SP9UOP        -03 -                MM0KQC        -09 -
+QSO:  7049 FT4 2026-08-17 1912 SP9UOP        -04 -                RX3DRC        -10 -
+QSO:  3576 FT4 2026-08-17 1915 SP9UOP        +07 -                DO1ARD        +00 -
+QSO:  7049 FT4 2026-08-17 1920 SP9UOP        +00 -                M5N           +00 -
+QSO:  7049 FT4 2026-08-17 1921 SP9UOP        -03 -                M0NPT         -16 -
+QSO:  7049 FT4 2026-08-17 1922 SP9UOP        +01 -                PE2K          -08 -
+QSO:  7049 FT4 2026-08-17 1923 SP9UOP        +17 -                DF4ZL         +03 -
+QSO:  7049 FT4 2026-08-17 1924 SP9UOP        +06 -                PA7SL         -09 -
+QSO:  7049 FT4 2026-08-17 1927 SP9UOP        +06 -                PA2A          -05 -
+QSO:  7049 FT4 2026-08-17 1927 SP9UOP        +06 -                PH3T          -05 -
+QSO:  7049 FT4 2026-08-17 1928 SP9UOP        +04 -                PC9K          -11 -
+QSO:  7049 FT4 2026-08-17 1930 SP9UOP        +08 -                PA0GSP        -14 -
+QSO:  7049 FT4 2026-08-17 1931 SP9UOP        +04 -                M5RJC         -16 -
+QSO:  7049 FT4 2026-08-17 1932 SP9UOP        +04 -                PH3BDJ        -05 -
+QSO:  7049 FT4 2026-08-17 1934 SP9UOP        +12 -                PA3EOZ        -19 -
+QSO:  7049 FT4 2026-08-17 1935 SP9UOP        +02 -                9A60CBM       -05 -
+QSO:  7049 FT4 2026-08-17 1939 SP9UOP        -01 -                IN3OWY        +02 -
+QSO:  3576 FT4 2026-08-17 1946 SP9UOP        -02 -                PA0MUS        +01 -
+QSO:  3576 FT4 2026-08-17 1947 SP9UOP        +05 -                G4OZG         +08 -
+QSO:  3576 FT4 2026-08-17 1949 SP9UOP        -04 -                9A60CBM       -02 -
+QSO:  3576 FT4 2026-08-17 1950 SP9UOP        +20 -                OK2WMC        +29 -
+QSO:  3576 FT4 2026-08-17 1953 SP9UOP        -12 -                OK4KD         -03 -
+QSO:  3576 FT4 2026-08-17 1954 SP9UOP        -04 -                DG4MCB        -01 -
+QSO:  3576 FT4 2026-08-17 1955 SP9UOP        -06 -                DO1NJN        -01 -
+QSO:  3576 FT4 2026-08-17 1955 SP9UOP        +07 -                DO1ARD        -01 -
+QSO:  3576 FT4 2026-08-17 1957 SP9UOP        +02 -                DJ2PW         -03 -
+QSO:  3576 FT4 2026-08-17 1958 SP9UOP        -14 -                SQ8LSB        +06 -
+QSO:  3576 FT4 2026-08-17 2000 SP9UOP        +00 -                M7WYF         -04 -
+QSO:  3576 FT4 2026-08-17 2001 SP9UOP        +06 -                GW5P          +00 -
+QSO:  3576 FT4 2026-08-17 2006 SP9UOP        +05 -                SE6K          +17 -
+QSO:  3576 FT4 2026-08-17 2007 SP9UOP        -03 -                DF4ZL         -05 -
+QSO:  3577 FT4 2026-08-17 2016 SP9UOP        -08 -                M5N           -04 -
+QSO:  3577 FT4 2026-08-17 2017 SP9UOP        +16 -                OK2USM        +18 -
+QSO:  3577 FT4 2026-08-17 2018 SP9UOP        +16 -                DK2OY         +08 -
 END-OF-LOG:

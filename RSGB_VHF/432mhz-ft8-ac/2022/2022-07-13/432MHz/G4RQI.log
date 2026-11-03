@@ -10,26 +10,26 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220713&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=767; excluded rows=0.
-QSO:   432 DG 2022-07-13 1901 G4RQI         -03 IO93             GI6ATZ        -07 IO74
-QSO:   432 DG 2022-07-13 1903 G4RQI         -07 IO93             MM0CEZ        -06 IO75
-QSO:   432 DG 2022-07-13 1904 G4RQI         +03 IO93             M0TMR         +05 IO93
-QSO:   432 DG 2022-07-13 1907 G4RQI         -19 IO93             GM0EWX        -11 IO67
-QSO:   432 DG 2022-07-13 1918 G4RQI         -02 IO93             2E0DUE        +05 JO01
-QSO:   432 DG 2022-07-13 1922 G4RQI         -08 IO93             G8CRB         -10 JO02
-QSO:   432 DG 2022-07-13 1924 G4RQI         +00 IO93             G0DJA         +00 IO93
-QSO:   432 DG 2022-07-13 1925 G4RQI         -02 IO93             G4EII         -10 IO83
-QSO:   432 DG 2022-07-13 1928 G4RQI         -18 IO93             PD5DRE        -18 JO32
-QSO:   432 DG 2022-07-13 1930 G4RQI         -03 IO93             PH0TV         -19 JO32
-QSO:   432 DG 2022-07-13 1933 G4RQI         -04 IO93             PE1NYQ        -16 JO21
-QSO:   432 DG 2022-07-13 1939 G4RQI         +01 IO93             G3YDY         -03 JO01
-QSO:   432 DG 2022-07-13 1949 G4RQI         -04 IO93             MM0CEZ        -05 IO75
-QSO:   432 DG 2022-07-13 1954 G4RQI         -10 IO93             G7LRQ         -18 IO91
-QSO:   432 DG 2022-07-13 1958 G4RQI         +00 IO93             PA5Y          -12 JO21
-QSO:   432 DG 2022-07-13 2000 G4RQI         -03 IO93             G4NBS         -01 JO02
-QSO:   432 DG 2022-07-13 2021 G4RQI         -15 IO93             GM0HBK        -15 IO77
-QSO:   432 DG 2022-07-13 2047 G4RQI         -15 IO93             G0ISX         -16 -
-QSO:   432 DG 2022-07-13 2056 G4RQI         -12 IO93             PA5PEK        -12 JO11
-QSO:   432 DG 2022-07-13 2058 G4RQI         +05 IO93             G0BIX         -02 JO01
+QSO:   432 FT8 2022-07-13 1901 G4RQI         -03 IO93             GI6ATZ        -07 IO74
+QSO:   432 FT8 2022-07-13 1903 G4RQI         -07 IO93             MM0CEZ        -06 IO75
+QSO:   432 FT8 2022-07-13 1904 G4RQI         +03 IO93             M0TMR         +05 IO93
+QSO:   432 FT8 2022-07-13 1907 G4RQI         -19 IO93             GM0EWX        -11 IO67
+QSO:   432 FT8 2022-07-13 1918 G4RQI         -02 IO93             2E0DUE        +05 JO01
+QSO:   432 FT8 2022-07-13 1922 G4RQI         -08 IO93             G8CRB         -10 JO02
+QSO:   432 FT8 2022-07-13 1924 G4RQI         +00 IO93             G0DJA         +00 IO93
+QSO:   432 FT8 2022-07-13 1925 G4RQI         -02 IO93             G4EII         -10 IO83
+QSO:   432 FT8 2022-07-13 1928 G4RQI         -18 IO93             PD5DRE        -18 JO32
+QSO:   432 FT8 2022-07-13 1930 G4RQI         -03 IO93             PH0TV         -19 JO32
+QSO:   432 FT8 2022-07-13 1933 G4RQI         -04 IO93             PE1NYQ        -16 JO21
+QSO:   432 FT8 2022-07-13 1939 G4RQI         +01 IO93             G3YDY         -03 JO01
+QSO:   432 FT8 2022-07-13 1949 G4RQI         -04 IO93             MM0CEZ        -05 IO75
+QSO:   432 FT8 2022-07-13 1954 G4RQI         -10 IO93             G7LRQ         -18 IO91
+QSO:   432 FT8 2022-07-13 1958 G4RQI         +00 IO93             PA5Y          -12 JO21
+QSO:   432 FT8 2022-07-13 2000 G4RQI         -03 IO93             G4NBS         -01 JO02
+QSO:   432 FT8 2022-07-13 2021 G4RQI         -15 IO93             GM0HBK        -15 IO77
+QSO:   432 FT8 2022-07-13 2047 G4RQI         -15 IO93             G0ISX         -16 -
+QSO:   432 FT8 2022-07-13 2056 G4RQI         -12 IO93             PA5PEK        -12 JO11
+QSO:   432 FT8 2022-07-13 2058 G4RQI         +05 IO93             G0BIX         -02 JO01
 END-OF-LOG:

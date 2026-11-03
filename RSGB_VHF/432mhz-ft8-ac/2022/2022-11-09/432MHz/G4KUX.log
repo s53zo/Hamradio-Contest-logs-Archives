@@ -10,33 +10,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221109&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=724; excluded rows=0.
-QSO:   432 DG 2022-11-09 1910 G4KUX         +01 IO94             PH2M          -14 JO22
-QSO:   432 DG 2022-11-09 1920 G4KUX         -18 IO94             G0ISX         -12 IO93
-QSO:   432 DG 2022-11-09 1925 G4KUX         -19 IO94             M7ICL         -02 JO02
-QSO:   432 DG 2022-11-09 1926 G4KUX         +18 IO94             G4NBS         +20 JO02
-QSO:   432 DG 2022-11-09 1930 G4KUX         +14 IO94             G0XDI         +06 IO91
-QSO:   432 DG 2022-11-09 1932 G4KUX         -05 IO94             G0RQL         -05 IO70
-QSO:   432 DG 2022-11-09 1943 G4KUX         -13 IO94             EI9KP         -20 IO54
-QSO:   432 DG 2022-11-09 1946 G4KUX         +15 IO94             G8EEM         +24 IO93
-QSO:   432 DG 2022-11-09 1952 G4KUX         +00 IO94             G0BIX         +09 JO01
-QSO:   432 DG 2022-11-09 1954 G4KUX         +09 IO94             G4EII         +16 IO83
-QSO:   432 DG 2022-11-09 2002 G4KUX         +04 IO94             G4VPD         -05 IO92BJ
-QSO:   432 DG 2022-11-09 2008 G4KUX         -10 IO94             OZ3Z          -12 JO45UN
-QSO:   432 DG 2022-11-09 2015 G4KUX         -19 IO94             PD4RD         -14 JO21HU
-QSO:   432 DG 2022-11-09 2019 G4KUX         -05 IO94             DL5EBS        -15 JO31
-QSO:   432 DG 2022-11-09 2021 G4KUX         -06 IO94             DD7DAC        -13 JO31
-QSO:   432 DG 2022-11-09 2023 G4KUX         -02 IO94             PA7ML         +00 JO22
-QSO:   432 DG 2022-11-09 2025 G4KUX         +00 IO94             PA3CWS        -14 JO22
-QSO:   432 DG 2022-11-09 2032 G4KUX         -10 IO94             G8CRB         -01 JO02
-QSO:   432 DG 2022-11-09 2032 G4KUX         -10 IO94             G8CRB         -01 JO02
-QSO:   432 DG 2022-11-09 2034 G4KUX         -16 IO94             G0JJG         -10 JO02
-QSO:   432 DG 2022-11-09 2035 G4KUX         -01 IO94             G4PDF         -06 IO93
-QSO:   432 DG 2022-11-09 2036 G4KUX         +00 IO94             G3YDY         +06 JO01
-QSO:   432 DG 2022-11-09 2046 G4KUX         +13 IO94             G7LRQ         -19 IO91
-QSO:   432 DG 2022-11-09 2051 G4KUX         -07 IO94             2E1FMS        -14 IO82
-QSO:   432 DG 2022-11-09 2056 G4KUX         -05 IO94             M0IEP         -05 IO91
-QSO:   432 DG 2022-11-09 2058 G4KUX         -15 IO94             G0GRI         -03 IO80
-QSO:   432 DG 2022-11-09 2059 G4KUX         -06 IO94             G3ZPB         -11 IO91
+QSO:   432 FT8 2022-11-09 1910 G4KUX         +01 IO94             PH2M          -14 JO22
+QSO:   432 FT8 2022-11-09 1920 G4KUX         -18 IO94             G0ISX         -12 IO93
+QSO:   432 FT8 2022-11-09 1925 G4KUX         -19 IO94             M7ICL         -02 JO02
+QSO:   432 FT8 2022-11-09 1926 G4KUX         +18 IO94             G4NBS         +20 JO02
+QSO:   432 FT8 2022-11-09 1930 G4KUX         +14 IO94             G0XDI         +06 IO91
+QSO:   432 FT8 2022-11-09 1932 G4KUX         -05 IO94             G0RQL         -05 IO70
+QSO:   432 FT8 2022-11-09 1943 G4KUX         -13 IO94             EI9KP         -20 IO54
+QSO:   432 FT8 2022-11-09 1946 G4KUX         +15 IO94             G8EEM         +24 IO93
+QSO:   432 FT8 2022-11-09 1952 G4KUX         +00 IO94             G0BIX         +09 JO01
+QSO:   432 FT8 2022-11-09 1954 G4KUX         +09 IO94             G4EII         +16 IO83
+QSO:   432 FT8 2022-11-09 2002 G4KUX         +04 IO94             G4VPD         -05 IO92BJ
+QSO:   432 FT8 2022-11-09 2008 G4KUX         -10 IO94             OZ3Z          -12 JO45UN
+QSO:   432 FT8 2022-11-09 2015 G4KUX         -19 IO94             PD4RD         -14 JO21HU
+QSO:   432 FT8 2022-11-09 2019 G4KUX         -05 IO94             DL5EBS        -15 JO31
+QSO:   432 FT8 2022-11-09 2021 G4KUX         -06 IO94             DD7DAC        -13 JO31
+QSO:   432 FT8 2022-11-09 2023 G4KUX         -02 IO94             PA7ML         +00 JO22
+QSO:   432 FT8 2022-11-09 2025 G4KUX         +00 IO94             PA3CWS        -14 JO22
+QSO:   432 FT8 2022-11-09 2032 G4KUX         -10 IO94             G8CRB         -01 JO02
+QSO:   432 FT8 2022-11-09 2032 G4KUX         -10 IO94             G8CRB         -01 JO02
+QSO:   432 FT8 2022-11-09 2034 G4KUX         -16 IO94             G0JJG         -10 JO02
+QSO:   432 FT8 2022-11-09 2035 G4KUX         -01 IO94             G4PDF         -06 IO93
+QSO:   432 FT8 2022-11-09 2036 G4KUX         +00 IO94             G3YDY         +06 JO01
+QSO:   432 FT8 2022-11-09 2046 G4KUX         +13 IO94             G7LRQ         -19 IO91
+QSO:   432 FT8 2022-11-09 2051 G4KUX         -07 IO94             2E1FMS        -14 IO82
+QSO:   432 FT8 2022-11-09 2056 G4KUX         -05 IO94             M0IEP         -05 IO91
+QSO:   432 FT8 2022-11-09 2058 G4KUX         -15 IO94             G0GRI         -03 IO80
+QSO:   432 FT8 2022-11-09 2059 G4KUX         -06 IO94             G3ZPB         -11 IO91
 END-OF-LOG:

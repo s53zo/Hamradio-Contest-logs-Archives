@@ -10,34 +10,34 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220209&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=864; excluded rows=0.
-QSO:   432 DG 2022-02-09 1902 M7APR         -11 IO91             M0XTY         -04 JO01
-QSO:   432 DG 2022-02-09 1906 M7APR         +24 IO91             GW4HDF        +29 IO81
-QSO:   432 DG 2022-02-09 1908 M7APR         +06 IO91             G0RMG         +05 IO92
-QSO:   432 DG 2022-02-09 1910 M7APR         +14 IO91             M0NYY         +13 IO91
-QSO:   432 DG 2022-02-09 1912 M7APR         +03 IO91             G0LGS         -05 IO81
-QSO:   432 DG 2022-02-09 1922 M7APR         -10 IO91             G0RQL         -02 IO70
-QSO:   432 DG 2022-02-09 1924 M7APR         +27 IO91             M1AEC         +05 IO82
-QSO:   432 DG 2022-02-09 1926 M7APR         -15 IO91             G7WIR         -24 JO01
-QSO:   432 DG 2022-02-09 1928 M7APR         +04 IO91             G0MBL         -07 JO01
-QSO:   432 DG 2022-02-09 1929 M7APR         +29 IO91             G4OED         +31 IO91
-QSO:   432 DG 2022-02-09 1931 M7APR         -12 IO91             G0JLE         +01 IO81
-QSO:   432 DG 2022-02-09 1938 M7APR         -14 IO91             PE1NYQ        -15 JO21
-QSO:   432 DG 2022-02-09 1942 M7APR         -20 IO91             G4PDS         -16 IO80
-QSO:   432 DG 2022-02-09 1946 M7APR         -16 IO91             2E0DUE        -18 JO01
-QSO:   432 DG 2022-02-09 2006 M7APR         -07 IO91             EI8KN         -08 IO62
-QSO:   432 DG 2022-02-09 2010 M7APR         -20 IO91             G3ZPB         -18 IO91
-QSO:   432 DG 2022-02-09 2017 M7APR         -21 IO91             2E0GTD        -15 IO91
-QSO:   432 DG 2022-02-09 2023 M7APR         -01 IO91             G0BIX         -03 JO01
-QSO:   432 DG 2022-02-09 2030 M7APR         -14 IO91             G4FFY         -15 JO01
-QSO:   432 DG 2022-02-09 2032 M7APR         -14 IO91             G4RHR         -07 JO02
-QSO:   432 DG 2022-02-09 2034 M7APR         -11 IO91             G0ORE         -10 IO92
-QSO:   432 DG 2022-02-09 2035 M7APR         +12 IO91             G8GNI         +18 IO91
-QSO:   432 DG 2022-02-09 2038 M7APR         -01 IO91             G0BIX         -10 JO01
-QSO:   432 DG 2022-02-09 2040 M7APR         -01 IO91             G0BIX         -10 JO01
-QSO:   432 DG 2022-02-09 2042 M7APR         -06 IO91             G8SEI         +03 IO92
-QSO:   432 DG 2022-02-09 2043 M7APR         +16 IO91             M0IEP         +17 IO91
-QSO:   432 DG 2022-02-09 2049 M7APR         +04 IO91             G4NBS         -18 JO02
-QSO:   432 DG 2022-02-09 2055 M7APR         -12 IO91             G4VPD         -16 IO92
+QSO:   432 FT8 2022-02-09 1902 M7APR         -11 IO91             M0XTY         -04 JO01
+QSO:   432 FT8 2022-02-09 1906 M7APR         +24 IO91             GW4HDF        +29 IO81
+QSO:   432 FT8 2022-02-09 1908 M7APR         +06 IO91             G0RMG         +05 IO92
+QSO:   432 FT8 2022-02-09 1910 M7APR         +14 IO91             M0NYY         +13 IO91
+QSO:   432 FT8 2022-02-09 1912 M7APR         +03 IO91             G0LGS         -05 IO81
+QSO:   432 FT8 2022-02-09 1922 M7APR         -10 IO91             G0RQL         -02 IO70
+QSO:   432 FT8 2022-02-09 1924 M7APR         +27 IO91             M1AEC         +05 IO82
+QSO:   432 FT8 2022-02-09 1926 M7APR         -15 IO91             G7WIR         -24 JO01
+QSO:   432 FT8 2022-02-09 1928 M7APR         +04 IO91             G0MBL         -07 JO01
+QSO:   432 FT8 2022-02-09 1929 M7APR         +29 IO91             G4OED         +31 IO91
+QSO:   432 FT8 2022-02-09 1931 M7APR         -12 IO91             G0JLE         +01 IO81
+QSO:   432 FT8 2022-02-09 1938 M7APR         -14 IO91             PE1NYQ        -15 JO21
+QSO:   432 FT8 2022-02-09 1942 M7APR         -20 IO91             G4PDS         -16 IO80
+QSO:   432 FT8 2022-02-09 1946 M7APR         -16 IO91             2E0DUE        -18 JO01
+QSO:   432 FT8 2022-02-09 2006 M7APR         -07 IO91             EI8KN         -08 IO62
+QSO:   432 FT8 2022-02-09 2010 M7APR         -20 IO91             G3ZPB         -18 IO91
+QSO:   432 FT8 2022-02-09 2017 M7APR         -21 IO91             2E0GTD        -15 IO91
+QSO:   432 FT8 2022-02-09 2023 M7APR         -01 IO91             G0BIX         -03 JO01
+QSO:   432 FT8 2022-02-09 2030 M7APR         -14 IO91             G4FFY         -15 JO01
+QSO:   432 FT8 2022-02-09 2032 M7APR         -14 IO91             G4RHR         -07 JO02
+QSO:   432 FT8 2022-02-09 2034 M7APR         -11 IO91             G0ORE         -10 IO92
+QSO:   432 FT8 2022-02-09 2035 M7APR         +12 IO91             G8GNI         +18 IO91
+QSO:   432 FT8 2022-02-09 2038 M7APR         -01 IO91             G0BIX         -10 JO01
+QSO:   432 FT8 2022-02-09 2040 M7APR         -01 IO91             G0BIX         -10 JO01
+QSO:   432 FT8 2022-02-09 2042 M7APR         -06 IO91             G8SEI         +03 IO92
+QSO:   432 FT8 2022-02-09 2043 M7APR         +16 IO91             M0IEP         +17 IO91
+QSO:   432 FT8 2022-02-09 2049 M7APR         +04 IO91             G4NBS         -18 JO02
+QSO:   432 FT8 2022-02-09 2055 M7APR         -12 IO91             G4VPD         -16 IO92
 END-OF-LOG:

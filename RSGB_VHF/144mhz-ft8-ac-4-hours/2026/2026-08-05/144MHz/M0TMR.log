@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=260805&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=661; excluded rows=0.
-QSO:   144 DG 2026-08-05 1802 M0TMR         +26 IO93             G6DDN         +08 IO93
-QSO:   144 DG 2026-08-05 1811 M0TMR         -13 IO93             G8LIY         +05 IO83
-QSO:   144 DG 2026-08-05 1813 M0TMR         -25 IO93             G8EEM         -15 IO93
-QSO:   144 DG 2026-08-05 1814 M0TMR         -17 IO93             M8FQT         -12 IO93
-QSO:   144 DG 2026-08-05 1815 M0TMR         -05 IO93             G8VDP         -01 IO93
-QSO:   144 DG 2026-08-05 1826 M0TMR         -20 IO93             G7WIR         -16 JO01
-QSO:   144 DG 2026-08-05 1836 M0TMR         +00 IO93             G7WKX         +00 IO83
-QSO:   144 DG 2026-08-05 1844 M0TMR         -19 IO93             G7LRQ         -15 JO03
-QSO:   144 DG 2026-08-05 1854 M0TMR         -07 IO93             M1DYU         +25 IO83
-QSO:   144 DG 2026-08-05 1904 M0TMR         -14 IO93             G4HGI         -05 IO83
-QSO:   144 DG 2026-08-05 1918 M0TMR         -12 IO93             MM0CEZ        -13 IO75
-QSO:   144 DG 2026-08-05 2006 M0TMR         -21 IO93             M1TZR         -09 IO83
-QSO:   144 DG 2026-08-05 2010 M0TMR         -06 IO93             G8XVJ         -19 IO83
+QSO:   144 FT8 2026-08-05 1802 M0TMR         +26 IO93             G6DDN         +08 IO93
+QSO:   144 FT8 2026-08-05 1811 M0TMR         -13 IO93             G8LIY         +05 IO83
+QSO:   144 FT8 2026-08-05 1813 M0TMR         -25 IO93             G8EEM         -15 IO93
+QSO:   144 FT8 2026-08-05 1814 M0TMR         -17 IO93             M8FQT         -12 IO93
+QSO:   144 FT8 2026-08-05 1815 M0TMR         -05 IO93             G8VDP         -01 IO93
+QSO:   144 FT8 2026-08-05 1826 M0TMR         -20 IO93             G7WIR         -16 JO01
+QSO:   144 FT8 2026-08-05 1836 M0TMR         +00 IO93             G7WKX         +00 IO83
+QSO:   144 FT8 2026-08-05 1844 M0TMR         -19 IO93             G7LRQ         -15 JO03
+QSO:   144 FT8 2026-08-05 1854 M0TMR         -07 IO93             M1DYU         +25 IO83
+QSO:   144 FT8 2026-08-05 1904 M0TMR         -14 IO93             G4HGI         -05 IO83
+QSO:   144 FT8 2026-08-05 1918 M0TMR         -12 IO93             MM0CEZ        -13 IO75
+QSO:   144 FT8 2026-08-05 2006 M0TMR         -21 IO93             M1TZR         -09 IO83
+QSO:   144 FT8 2026-08-05 2010 M0TMR         -06 IO93             G8XVJ         -19 IO83
 END-OF-LOG:

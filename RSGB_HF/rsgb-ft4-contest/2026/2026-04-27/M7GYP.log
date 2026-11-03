@@ -9,18 +9,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260427&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7294; excluded rows=0.
-QSO:  7049 DG 2026-04-27 1910 M7GYP         +07 -                DK2OY         -08 -
-QSO:  7049 DG 2026-04-27 1912 M7GYP         +08 -                M8EVM         +00 -
-QSO:  7048 DG 2026-04-27 1913 M7GYP         +07 -                PA4GDR        -12 -
-QSO:  7049 DG 2026-04-27 1915 M7GYP         +06 -                M0PAW         -10 -
-QSO:  7047 DG 2026-04-27 1917 M7GYP         +10 -                PH3T          -11 -
-QSO:  7049 DG 2026-04-27 1922 M7GYP         +16 -                PD2PKM        -10 -
-QSO:  7049 DG 2026-04-27 1922 M7GYP         +06 -                G0AJH         -12 -
-QSO:  7049 DG 2026-04-27 1927 M7GYP         +13 -                G0HSP         -13 -
-QSO:  7049 DG 2026-04-27 1935 M7GYP         +13 -                PI4APD        -06 -
-QSO:  7047 DG 2026-04-27 1937 M7GYP         +07 -                PD2GSP        -06 -
-QSO:  7049 DG 2026-04-27 1943 M7GYP         -11 -                I2XLF         -17 -
-QSO:  7049 DG 2026-04-27 1946 M7GYP         -06 -                DL5LS         -10 -
-QSO:  7048 DG 2026-04-27 1951 M7GYP         -03 -                G4CTP         -09 -
+QSO:  7049 FT4 2026-04-27 1910 M7GYP         +07 -                DK2OY         -08 -
+QSO:  7049 FT4 2026-04-27 1912 M7GYP         +08 -                M8EVM         +00 -
+QSO:  7048 FT4 2026-04-27 1913 M7GYP         +07 -                PA4GDR        -12 -
+QSO:  7049 FT4 2026-04-27 1915 M7GYP         +06 -                M0PAW         -10 -
+QSO:  7047 FT4 2026-04-27 1917 M7GYP         +10 -                PH3T          -11 -
+QSO:  7049 FT4 2026-04-27 1922 M7GYP         +16 -                PD2PKM        -10 -
+QSO:  7049 FT4 2026-04-27 1922 M7GYP         +06 -                G0AJH         -12 -
+QSO:  7049 FT4 2026-04-27 1927 M7GYP         +13 -                G0HSP         -13 -
+QSO:  7049 FT4 2026-04-27 1935 M7GYP         +13 -                PI4APD        -06 -
+QSO:  7047 FT4 2026-04-27 1937 M7GYP         +07 -                PD2GSP        -06 -
+QSO:  7049 FT4 2026-04-27 1943 M7GYP         -11 -                I2XLF         -17 -
+QSO:  7049 FT4 2026-04-27 1946 M7GYP         -06 -                DL5LS         -10 -
+QSO:  7048 FT4 2026-04-27 1951 M7GYP         -03 -                G4CTP         -09 -
 END-OF-LOG:

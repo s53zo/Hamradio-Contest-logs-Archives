@@ -10,35 +10,35 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221214&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=482; excluded rows=0.
-QSO:   432 DG 2022-12-14 1902 G4EII         +02 IO83             G0ISX         +01 IO93
-QSO:   432 DG 2022-12-14 1906 G4EII         -11 IO83             G3YDY         -10 JO01
-QSO:   432 DG 2022-12-14 1909 G4EII         -08 IO83             2E0DUE        -06 JO01
-QSO:   432 DG 2022-12-14 1910 G4EII         -15 IO83             2E0DUE        -06 JO01
-QSO:   432 DG 2022-12-14 1914 G4EII         +05 IO83             M7REV         -01 IO82
-QSO:   432 DG 2022-12-14 1917 G4EII         -09 IO83             G4VPD         -09 IO92
-QSO:   432 DG 2022-12-14 1918 G4EII         +12 IO83             G0EHG         +19 IO83
-QSO:   432 DG 2022-12-14 1920 G4EII         -08 IO83             PD7RON        -16 JO22
-QSO:   432 DG 2022-12-14 1923 G4EII         +17 IO83             G0DJA         +06 IO93
-QSO:   432 DG 2022-12-14 1925 G4EII         -08 IO83             DL1BFR        -07 JO32
-QSO:   432 DG 2022-12-14 1926 G4EII         -18 IO83             PA3CWS        -26 JO22
-QSO:   432 DG 2022-12-14 1929 G4EII         -20 IO83             G0BSX         -15 IO93
-QSO:   432 DG 2022-12-14 1930 G4EII         +07 IO83             G4NBS         +09 JO02
-QSO:   432 DG 2022-12-14 1933 G4EII         -04 IO83             G8VFP         -09 IO82
-QSO:   432 DG 2022-12-14 1939 G4EII         +15 IO83             M0IEP         +04 IO91
-QSO:   432 DG 2022-12-14 1940 G4EII         -14 IO83             G4OED         -10 IO91
-QSO:   432 DG 2022-12-14 1942 G4EII         +09 IO83             GI6ATZ        +10 IO74
-QSO:   432 DG 2022-12-14 1947 G4EII         -08 IO83             G4VPD         -08 IO92
-QSO:   432 DG 2022-12-14 1958 G4EII         -13 IO83             G8EEM         -23 IO93
-QSO:   432 DG 2022-12-14 1959 G4EII         -12 IO83             GM0HBK        -16 IO77
-QSO:   432 DG 2022-12-14 2001 G4EII         -12 IO83             M0TMR         -16 IO93
-QSO:   432 DG 2022-12-14 2017 G4EII         +05 IO83             G8SEI         -11 IO92
-QSO:   432 DG 2022-12-14 2018 G4EII         -08 IO83             EI2FG         -12 IO61
-QSO:   432 DG 2022-12-14 2020 G4EII         -16 IO83             EI8KN         -15 IO62
-QSO:   432 DG 2022-12-14 2022 G4EII         +00 IO83             G0XDI         -12 IO91
-QSO:   432 DG 2022-12-14 2044 G4EII         -13 IO83             G7WIR         -13 JO01
-QSO:   432 DG 2022-12-14 2045 G4EII         -10 IO83             G7WIR         -13 JO01
-QSO:   432 DG 2022-12-14 2053 G4EII         -09 IO83             G4PDF         -11 IO93
-QSO:   432 DG 2022-12-14 2059 G4EII         -06 IO83             G3YDY         -10 JO01
+QSO:   432 FT8 2022-12-14 1902 G4EII         +02 IO83             G0ISX         +01 IO93
+QSO:   432 FT8 2022-12-14 1906 G4EII         -11 IO83             G3YDY         -10 JO01
+QSO:   432 FT8 2022-12-14 1909 G4EII         -08 IO83             2E0DUE        -06 JO01
+QSO:   432 FT8 2022-12-14 1910 G4EII         -15 IO83             2E0DUE        -06 JO01
+QSO:   432 FT8 2022-12-14 1914 G4EII         +05 IO83             M7REV         -01 IO82
+QSO:   432 FT8 2022-12-14 1917 G4EII         -09 IO83             G4VPD         -09 IO92
+QSO:   432 FT8 2022-12-14 1918 G4EII         +12 IO83             G0EHG         +19 IO83
+QSO:   432 FT8 2022-12-14 1920 G4EII         -08 IO83             PD7RON        -16 JO22
+QSO:   432 FT8 2022-12-14 1923 G4EII         +17 IO83             G0DJA         +06 IO93
+QSO:   432 FT8 2022-12-14 1925 G4EII         -08 IO83             DL1BFR        -07 JO32
+QSO:   432 FT8 2022-12-14 1926 G4EII         -18 IO83             PA3CWS        -26 JO22
+QSO:   432 FT8 2022-12-14 1929 G4EII         -20 IO83             G0BSX         -15 IO93
+QSO:   432 FT8 2022-12-14 1930 G4EII         +07 IO83             G4NBS         +09 JO02
+QSO:   432 FT8 2022-12-14 1933 G4EII         -04 IO83             G8VFP         -09 IO82
+QSO:   432 FT8 2022-12-14 1939 G4EII         +15 IO83             M0IEP         +04 IO91
+QSO:   432 FT8 2022-12-14 1940 G4EII         -14 IO83             G4OED         -10 IO91
+QSO:   432 FT8 2022-12-14 1942 G4EII         +09 IO83             GI6ATZ        +10 IO74
+QSO:   432 FT8 2022-12-14 1947 G4EII         -08 IO83             G4VPD         -08 IO92
+QSO:   432 FT8 2022-12-14 1958 G4EII         -13 IO83             G8EEM         -23 IO93
+QSO:   432 FT8 2022-12-14 1959 G4EII         -12 IO83             GM0HBK        -16 IO77
+QSO:   432 FT8 2022-12-14 2001 G4EII         -12 IO83             M0TMR         -16 IO93
+QSO:   432 FT8 2022-12-14 2017 G4EII         +05 IO83             G8SEI         -11 IO92
+QSO:   432 FT8 2022-12-14 2018 G4EII         -08 IO83             EI2FG         -12 IO61
+QSO:   432 FT8 2022-12-14 2020 G4EII         -16 IO83             EI8KN         -15 IO62
+QSO:   432 FT8 2022-12-14 2022 G4EII         +00 IO83             G0XDI         -12 IO91
+QSO:   432 FT8 2022-12-14 2044 G4EII         -13 IO83             G7WIR         -13 JO01
+QSO:   432 FT8 2022-12-14 2045 G4EII         -10 IO83             G7WIR         -13 JO01
+QSO:   432 FT8 2022-12-14 2053 G4EII         -09 IO83             G4PDF         -11 IO93
+QSO:   432 FT8 2022-12-14 2059 G4EII         -06 IO83             G3YDY         -10 JO01
 END-OF-LOG:

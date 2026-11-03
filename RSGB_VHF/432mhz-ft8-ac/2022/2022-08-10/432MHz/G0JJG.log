@@ -10,36 +10,36 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220810&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=947; excluded rows=0.
-QSO:   432 DG 2022-08-10 1905 G0JJG         +07 JO02             M0LMK         -10 JO01
-QSO:   432 DG 2022-08-10 1908 G0JJG         +21 JO02             2E0DUE        +14 JO01
-QSO:   432 DG 2022-08-10 1910 G0JJG         +05 JO02             OV3T          -13 JO46
-QSO:   432 DG 2022-08-10 1917 G0JJG         -04 JO02             G8CRB         -14 JO02
-QSO:   432 DG 2022-08-10 1918 G0JJG         -10 JO02             G0DJA         -14 IO93
-QSO:   432 DG 2022-08-10 1921 G0JJG         -04 JO02             ON8NT         -14 JO11
-QSO:   432 DG 2022-08-10 1923 G0JJG         -03 JO02             PE1FBC        -17 JO22
-QSO:   432 DG 2022-08-10 1926 G0JJG         -21 JO02             M7GMT         -18 JO02
-QSO:   432 DG 2022-08-10 1929 G0JJG         +02 JO02             OZ2ND         +00 JO46
-QSO:   432 DG 2022-08-10 1931 G0JJG         +03 JO02             PA1CM         -09 JO21
-QSO:   432 DG 2022-08-10 1934 G0JJG         +08 JO02             PE1NYQ        -01 JO21
-QSO:   432 DG 2022-08-10 1935 G0JJG         +07 JO02             TM62YT        +07 -
-QSO:   432 DG 2022-08-10 1938 G0JJG         +00 JO02             PA3CWS        -13 JO22
-QSO:   432 DG 2022-08-10 1940 G0JJG         +07 JO02             G7LRQ         -06 IO91
-QSO:   432 DG 2022-08-10 1944 G0JJG         -03 JO02             G8VHI         -15 IO92
-QSO:   432 DG 2022-08-10 1948 G0JJG         +17 JO02             G4NBS         +08 JO02
-QSO:   432 DG 2022-08-10 1956 G0JJG         +13 JO02             G7WIR         -04 JO01
-QSO:   432 DG 2022-08-10 2001 G0JJG         -18 JO02             G0ISX         -22 IO93
-QSO:   432 DG 2022-08-10 2004 G0JJG         -04 JO02             M0UGA/P       -17 IO92
-QSO:   432 DG 2022-08-10 2006 G0JJG         +03 JO02             G8TTI         -23 IO81
-QSO:   432 DG 2022-08-10 2010 G0JJG         -16 JO02             PA3GUV        -18 JO22
-QSO:   432 DG 2022-08-10 2015 G0JJG         +02 JO02             G0XDI         -15 IO91
-QSO:   432 DG 2022-08-10 2016 G0JJG         +19 JO02             G3TCG         -18 JO00
-QSO:   432 DG 2022-08-10 2018 G0JJG         +03 JO02             M0UHF         -02 IO91
-QSO:   432 DG 2022-08-10 2030 G0JJG         -11 JO02             G3WZK         -17 IO91
-QSO:   432 DG 2022-08-10 2034 G0JJG         -03 JO02             G3YDY         -09 JO01
-QSO:   432 DG 2022-08-10 2036 G0JJG         -07 JO02             PE1NFT        -10 JO21
-QSO:   432 DG 2022-08-10 2045 G0JJG         +15 JO02             F5RZC         +04 JO10
-QSO:   432 DG 2022-08-10 2052 G0JJG         -07 JO02             G4EII         -14 IO83
-QSO:   432 DG 2022-08-10 2058 G0JJG         -10 JO02             DG9BFE        -16 JO33
+QSO:   432 FT8 2022-08-10 1905 G0JJG         +07 JO02             M0LMK         -10 JO01
+QSO:   432 FT8 2022-08-10 1908 G0JJG         +21 JO02             2E0DUE        +14 JO01
+QSO:   432 FT8 2022-08-10 1910 G0JJG         +05 JO02             OV3T          -13 JO46
+QSO:   432 FT8 2022-08-10 1917 G0JJG         -04 JO02             G8CRB         -14 JO02
+QSO:   432 FT8 2022-08-10 1918 G0JJG         -10 JO02             G0DJA         -14 IO93
+QSO:   432 FT8 2022-08-10 1921 G0JJG         -04 JO02             ON8NT         -14 JO11
+QSO:   432 FT8 2022-08-10 1923 G0JJG         -03 JO02             PE1FBC        -17 JO22
+QSO:   432 FT8 2022-08-10 1926 G0JJG         -21 JO02             M7GMT         -18 JO02
+QSO:   432 FT8 2022-08-10 1929 G0JJG         +02 JO02             OZ2ND         +00 JO46
+QSO:   432 FT8 2022-08-10 1931 G0JJG         +03 JO02             PA1CM         -09 JO21
+QSO:   432 FT8 2022-08-10 1934 G0JJG         +08 JO02             PE1NYQ        -01 JO21
+QSO:   432 FT8 2022-08-10 1935 G0JJG         +07 JO02             TM62YT        +07 -
+QSO:   432 FT8 2022-08-10 1938 G0JJG         +00 JO02             PA3CWS        -13 JO22
+QSO:   432 FT8 2022-08-10 1940 G0JJG         +07 JO02             G7LRQ         -06 IO91
+QSO:   432 FT8 2022-08-10 1944 G0JJG         -03 JO02             G8VHI         -15 IO92
+QSO:   432 FT8 2022-08-10 1948 G0JJG         +17 JO02             G4NBS         +08 JO02
+QSO:   432 FT8 2022-08-10 1956 G0JJG         +13 JO02             G7WIR         -04 JO01
+QSO:   432 FT8 2022-08-10 2001 G0JJG         -18 JO02             G0ISX         -22 IO93
+QSO:   432 FT8 2022-08-10 2004 G0JJG         -04 JO02             M0UGA/P       -17 IO92
+QSO:   432 FT8 2022-08-10 2006 G0JJG         +03 JO02             G8TTI         -23 IO81
+QSO:   432 FT8 2022-08-10 2010 G0JJG         -16 JO02             PA3GUV        -18 JO22
+QSO:   432 FT8 2022-08-10 2015 G0JJG         +02 JO02             G0XDI         -15 IO91
+QSO:   432 FT8 2022-08-10 2016 G0JJG         +19 JO02             G3TCG         -18 JO00
+QSO:   432 FT8 2022-08-10 2018 G0JJG         +03 JO02             M0UHF         -02 IO91
+QSO:   432 FT8 2022-08-10 2030 G0JJG         -11 JO02             G3WZK         -17 IO91
+QSO:   432 FT8 2022-08-10 2034 G0JJG         -03 JO02             G3YDY         -09 JO01
+QSO:   432 FT8 2022-08-10 2036 G0JJG         -07 JO02             PE1NFT        -10 JO21
+QSO:   432 FT8 2022-08-10 2045 G0JJG         +15 JO02             F5RZC         +04 JO10
+QSO:   432 FT8 2022-08-10 2052 G0JJG         -07 JO02             G4EII         -14 IO83
+QSO:   432 FT8 2022-08-10 2058 G0JJG         -10 JO02             DG9BFE        -16 JO33
 END-OF-LOG:

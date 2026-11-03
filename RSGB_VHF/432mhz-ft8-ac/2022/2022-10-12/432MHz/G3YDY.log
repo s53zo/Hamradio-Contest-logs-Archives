@@ -10,45 +10,45 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221012&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=675; excluded rows=0.
-QSO:   432 DG 2022-10-12 1901 G3YDY         -11 JO01             DH7IF         -03 JN49
-QSO:   432 DG 2022-10-12 1907 G3YDY         +02 JO01             PH2M          -05 JO22
-QSO:   432 DG 2022-10-12 1909 G3YDY         -05 JO01             M0LMK         -08 JO01
-QSO:   432 DG 2022-10-12 1911 G3YDY         +02 JO01             G7WIR         -01 JO01
-QSO:   432 DG 2022-10-12 1913 G3YDY         +06 JO01             G0BIX         +00 JO01
-QSO:   432 DG 2022-10-12 1918 G3YDY         -08 JO01             GW4HDF        -13 IO81
-QSO:   432 DG 2022-10-12 1920 G3YDY         +07 JO01             G0XDI         -10 IO91
-QSO:   432 DG 2022-10-12 1923 G3YDY         -06 JO01             EI8KN         -11 IO62
-QSO:   432 DG 2022-10-12 1925 G3YDY         +07 JO01             G4NBS         +11 JO02
-QSO:   432 DG 2022-10-12 1927 G3YDY         -02 JO01             ON8NT         +02 JO11
-QSO:   432 DG 2022-10-12 1928 G3YDY         -04 JO01             DL5EBS        -01 JO31
-QSO:   432 DG 2022-10-12 1930 G3YDY         -02 JO01             DK3RV         -02 JO31
-QSO:   432 DG 2022-10-12 1937 G3YDY         -04 JO01             PI4HLM        -09 JO22
-QSO:   432 DG 2022-10-12 1938 G3YDY         -16 JO01             G4APJ         -18 IO83
-QSO:   432 DG 2022-10-12 1941 G3YDY         +19 JO01             2E0DUE        +11 JO01
-QSO:   432 DG 2022-10-12 1942 G3YDY         +01 JO01             G8EEM         +03 IO93
-QSO:   432 DG 2022-10-12 1945 G3YDY         -11 JO01             M1RKY         -12 IO92
-QSO:   432 DG 2022-10-12 1946 G3YDY         -06 JO01             G4EII         -05 IO83
-QSO:   432 DG 2022-10-12 1947 G3YDY         +10 JO01             G0BIX         +02 JO01
-QSO:   432 DG 2022-10-12 1951 G3YDY         +06 JO01             PA3CWS        -08 JO22
-QSO:   432 DG 2022-10-12 1953 G3YDY         +04 JO01             PE1NYQ        -03 JO21
-QSO:   432 DG 2022-10-12 1955 G3YDY         -17 JO01             PA2CV         -18 JO32
-QSO:   432 DG 2022-10-12 1957 G3YDY         +02 JO01             G7RDX         -03 IO91
-QSO:   432 DG 2022-10-12 1959 G3YDY         -02 JO01             G7LRQ         +00 IO91
-QSO:   432 DG 2022-10-12 2005 G3YDY         -03 JO01             G3ZPB         -07 IO91
-QSO:   432 DG 2022-10-12 2016 G3YDY         -08 JO01             DL5FN         -08 JO40
-QSO:   432 DG 2022-10-12 2021 G3YDY         +00 JO01             G8GNI         -03 IO91
-QSO:   432 DG 2022-10-12 2023 G3YDY         -08 JO01             G4VPD         -12 IO92
-QSO:   432 DG 2022-10-12 2025 G3YDY         -07 JO01             M7REV         -06 IO82
-QSO:   432 DG 2022-10-12 2028 G3YDY         +04 JO01             G7HMV         +06 IO91
-QSO:   432 DG 2022-10-12 2031 G3YDY         +02 JO01             G0VQH         +01 JO02
-QSO:   432 DG 2022-10-12 2033 G3YDY         -14 JO01             G8CRB         -05 JO02
-QSO:   432 DG 2022-10-12 2036 G3YDY         -10 JO01             M0IEP         -19 IO91
-QSO:   432 DG 2022-10-12 2038 G3YDY         +08 JO01             2E0JPO        +14 IO91
-QSO:   432 DG 2022-10-12 2041 G3YDY         +02 JO01             M0AHN         +09 IO91
-QSO:   432 DG 2022-10-12 2043 G3YDY         +15 JO01             G0JJG         +18 JO02
-QSO:   432 DG 2022-10-12 2049 G3YDY         -11 JO01             PE4A          -14 JO22
-QSO:   432 DG 2022-10-12 2055 G3YDY         -17 JO01             DF4IAE        -15 JN49
-QSO:   432 DG 2022-10-12 2056 G3YDY         -08 JO01             PH3V          -01 JO21
+QSO:   432 FT8 2022-10-12 1901 G3YDY         -11 JO01             DH7IF         -03 JN49
+QSO:   432 FT8 2022-10-12 1907 G3YDY         +02 JO01             PH2M          -05 JO22
+QSO:   432 FT8 2022-10-12 1909 G3YDY         -05 JO01             M0LMK         -08 JO01
+QSO:   432 FT8 2022-10-12 1911 G3YDY         +02 JO01             G7WIR         -01 JO01
+QSO:   432 FT8 2022-10-12 1913 G3YDY         +06 JO01             G0BIX         +00 JO01
+QSO:   432 FT8 2022-10-12 1918 G3YDY         -08 JO01             GW4HDF        -13 IO81
+QSO:   432 FT8 2022-10-12 1920 G3YDY         +07 JO01             G0XDI         -10 IO91
+QSO:   432 FT8 2022-10-12 1923 G3YDY         -06 JO01             EI8KN         -11 IO62
+QSO:   432 FT8 2022-10-12 1925 G3YDY         +07 JO01             G4NBS         +11 JO02
+QSO:   432 FT8 2022-10-12 1927 G3YDY         -02 JO01             ON8NT         +02 JO11
+QSO:   432 FT8 2022-10-12 1928 G3YDY         -04 JO01             DL5EBS        -01 JO31
+QSO:   432 FT8 2022-10-12 1930 G3YDY         -02 JO01             DK3RV         -02 JO31
+QSO:   432 FT8 2022-10-12 1937 G3YDY         -04 JO01             PI4HLM        -09 JO22
+QSO:   432 FT8 2022-10-12 1938 G3YDY         -16 JO01             G4APJ         -18 IO83
+QSO:   432 FT8 2022-10-12 1941 G3YDY         +19 JO01             2E0DUE        +11 JO01
+QSO:   432 FT8 2022-10-12 1942 G3YDY         +01 JO01             G8EEM         +03 IO93
+QSO:   432 FT8 2022-10-12 1945 G3YDY         -11 JO01             M1RKY         -12 IO92
+QSO:   432 FT8 2022-10-12 1946 G3YDY         -06 JO01             G4EII         -05 IO83
+QSO:   432 FT8 2022-10-12 1947 G3YDY         +10 JO01             G0BIX         +02 JO01
+QSO:   432 FT8 2022-10-12 1951 G3YDY         +06 JO01             PA3CWS        -08 JO22
+QSO:   432 FT8 2022-10-12 1953 G3YDY         +04 JO01             PE1NYQ        -03 JO21
+QSO:   432 FT8 2022-10-12 1955 G3YDY         -17 JO01             PA2CV         -18 JO32
+QSO:   432 FT8 2022-10-12 1957 G3YDY         +02 JO01             G7RDX         -03 IO91
+QSO:   432 FT8 2022-10-12 1959 G3YDY         -02 JO01             G7LRQ         +00 IO91
+QSO:   432 FT8 2022-10-12 2005 G3YDY         -03 JO01             G3ZPB         -07 IO91
+QSO:   432 FT8 2022-10-12 2016 G3YDY         -08 JO01             DL5FN         -08 JO40
+QSO:   432 FT8 2022-10-12 2021 G3YDY         +00 JO01             G8GNI         -03 IO91
+QSO:   432 FT8 2022-10-12 2023 G3YDY         -08 JO01             G4VPD         -12 IO92
+QSO:   432 FT8 2022-10-12 2025 G3YDY         -07 JO01             M7REV         -06 IO82
+QSO:   432 FT8 2022-10-12 2028 G3YDY         +04 JO01             G7HMV         +06 IO91
+QSO:   432 FT8 2022-10-12 2031 G3YDY         +02 JO01             G0VQH         +01 JO02
+QSO:   432 FT8 2022-10-12 2033 G3YDY         -14 JO01             G8CRB         -05 JO02
+QSO:   432 FT8 2022-10-12 2036 G3YDY         -10 JO01             M0IEP         -19 IO91
+QSO:   432 FT8 2022-10-12 2038 G3YDY         +08 JO01             2E0JPO        +14 IO91
+QSO:   432 FT8 2022-10-12 2041 G3YDY         +02 JO01             M0AHN         +09 IO91
+QSO:   432 FT8 2022-10-12 2043 G3YDY         +15 JO01             G0JJG         +18 JO02
+QSO:   432 FT8 2022-10-12 2049 G3YDY         -11 JO01             PE4A          -14 JO22
+QSO:   432 FT8 2022-10-12 2055 G3YDY         -17 JO01             DF4IAE        -15 JN49
+QSO:   432 FT8 2022-10-12 2056 G3YDY         -08 JO01             PH3V          -01 JO21
 END-OF-LOG:

@@ -10,24 +10,24 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220209&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=864; excluded rows=0.
-QSO:   432 DG 2022-02-09 1901 G7LRQ         -13 IO91             PH0TV         -09 JO32
-QSO:   432 DG 2022-02-09 1902 G7LRQ         -05 IO91             PE1ITR        -17 JO21
-QSO:   432 DG 2022-02-09 1903 G7LRQ         -05 IO91             PA2CV         -12 JO32
-QSO:   432 DG 2022-02-09 1905 G7LRQ         +05 IO91             PA7ML         +02 JO22
-QSO:   432 DG 2022-02-09 1908 G7LRQ         +08 IO91             M0UGA         +21 IO92
-QSO:   432 DG 2022-02-09 1909 G7LRQ         -12 IO91             PH0TV         -10 JO32
-QSO:   432 DG 2022-02-09 1914 G7LRQ         -04 IO91             G4NBS         -02 JO02
-QSO:   432 DG 2022-02-09 1916 G7LRQ         -06 IO91             PA6Q          -13 JO32
-QSO:   432 DG 2022-02-09 1918 G7LRQ         -01 IO91             PA3CWS        -12 JO22
-QSO:   432 DG 2022-02-09 1920 G7LRQ         +08 IO91             G0BIX         +16 JO01
-QSO:   432 DG 2022-02-09 1923 G7LRQ         -13 IO91             PE1PIX        -15 JO23
-QSO:   432 DG 2022-02-09 1925 G7LRQ         -11 IO91             G4ZZL         -21 JO01
-QSO:   432 DG 2022-02-09 1927 G7LRQ         +04 IO91             2E0GKW        +06 IO91
-QSO:   432 DG 2022-02-09 1928 G7LRQ         -17 IO91             PD6Z          -03 JO22
-QSO:   432 DG 2022-02-09 1929 G7LRQ         -23 IO91             DL5EAG        -07 JO31
-QSO:   432 DG 2022-02-09 1931 G7LRQ         -05 IO91             M0XTY         +01 JO01
-QSO:   432 DG 2022-02-09 1932 G7LRQ         +02 IO91             PA5PEK        +01 JO11
-QSO:   432 DG 2022-02-09 1936 G7LRQ         -03 IO91             G7WIR         -05 JO01
+QSO:   432 FT8 2022-02-09 1901 G7LRQ         -13 IO91             PH0TV         -09 JO32
+QSO:   432 FT8 2022-02-09 1902 G7LRQ         -05 IO91             PE1ITR        -17 JO21
+QSO:   432 FT8 2022-02-09 1903 G7LRQ         -05 IO91             PA2CV         -12 JO32
+QSO:   432 FT8 2022-02-09 1905 G7LRQ         +05 IO91             PA7ML         +02 JO22
+QSO:   432 FT8 2022-02-09 1908 G7LRQ         +08 IO91             M0UGA         +21 IO92
+QSO:   432 FT8 2022-02-09 1909 G7LRQ         -12 IO91             PH0TV         -10 JO32
+QSO:   432 FT8 2022-02-09 1914 G7LRQ         -04 IO91             G4NBS         -02 JO02
+QSO:   432 FT8 2022-02-09 1916 G7LRQ         -06 IO91             PA6Q          -13 JO32
+QSO:   432 FT8 2022-02-09 1918 G7LRQ         -01 IO91             PA3CWS        -12 JO22
+QSO:   432 FT8 2022-02-09 1920 G7LRQ         +08 IO91             G0BIX         +16 JO01
+QSO:   432 FT8 2022-02-09 1923 G7LRQ         -13 IO91             PE1PIX        -15 JO23
+QSO:   432 FT8 2022-02-09 1925 G7LRQ         -11 IO91             G4ZZL         -21 JO01
+QSO:   432 FT8 2022-02-09 1927 G7LRQ         +04 IO91             2E0GKW        +06 IO91
+QSO:   432 FT8 2022-02-09 1928 G7LRQ         -17 IO91             PD6Z          -03 JO22
+QSO:   432 FT8 2022-02-09 1929 G7LRQ         -23 IO91             DL5EAG        -07 JO31
+QSO:   432 FT8 2022-02-09 1931 G7LRQ         -05 IO91             M0XTY         +01 JO01
+QSO:   432 FT8 2022-02-09 1932 G7LRQ         +02 IO91             PA5PEK        +01 JO11
+QSO:   432 FT8 2022-02-09 1936 G7LRQ         -03 IO91             G7WIR         -05 JO01
 END-OF-LOG:

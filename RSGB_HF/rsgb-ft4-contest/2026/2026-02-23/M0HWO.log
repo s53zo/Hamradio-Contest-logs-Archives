@@ -10,22 +10,23 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO: 14080 DG 2026-02-23 2005 M0HWO         -08 -                EA5IUE        -15 -
-QSO:  7049 DG 2026-02-23 2032 M0HWO         +04 -                M7KKC         +00 -
-QSO:  3577 DG 2026-02-23 2039 M0HWO         +11 -                DO1NJN        -07 -
-QSO:  3577 DG 2026-02-23 2040 M0HWO         -01 -                DL5LS         -19 -
-QSO:  3577 DG 2026-02-23 2042 M0HWO         +15 -                G2M           -08 -
-QSO:  3577 DG 2026-02-23 2044 M0HWO         +06 -                G4ARI         -09 -
-QSO:  3577 DG 2026-02-23 2045 M0HWO         -03 -                G6DXY         -06 -
-QSO:  3577 DG 2026-02-23 2051 M0HWO         +03 -                EI3ENB        -04 -
-QSO:  3577 DG 2026-02-23 2053 M0HWO         -06 -                M0PAW         -11 -
-QSO:  3577 DG 2026-02-23 2058 M0HWO         -04 -                DO1ARD        -10 -
-QSO:  3577 DG 2026-02-23 2100 M0HWO         +08 -                DL8TT         -12 -
-QSO:  3577 DG 2026-02-23 2101 M0HWO         +04 -                G4CTP         -09 -
-QSO:  3577 DG 2026-02-23 2102 M0HWO         +07 -                GW4JBQ        -10 -
-QSO:  3577 DG 2026-02-23 2130 M0HWO         +06 -                ON3NYL        -10 -
-QSO:  3577 DG 2026-02-23 2136 M0HWO         +13 -                GW5P          -04 -
-QSO:  3577 DG 2026-02-23 2137 M0HWO         +02 -                M5RJC         -08 -
-QSO:  3577 DG 2026-02-23 2140 M0HWO         +06 -                G0ORE         -12 -
+QSO: 14080 FT4 2026-02-23 2005 M0HWO         -08 -                EA5IUE        -15 -
+QSO:  7049 FT4 2026-02-23 2032 M0HWO         +04 -                M7KKC         +00 -
+QSO:  3577 FT4 2026-02-23 2039 M0HWO         +11 -                DO1NJN        -07 -
+QSO:  3577 FT4 2026-02-23 2040 M0HWO         -01 -                DL5LS         -19 -
+QSO:  3577 FT4 2026-02-23 2042 M0HWO         +15 -                G2M           -08 -
+QSO:  3577 FT4 2026-02-23 2044 M0HWO         +06 -                G4ARI         -09 -
+QSO:  3577 FT4 2026-02-23 2045 M0HWO         -03 -                G6DXY         -06 -
+QSO:  3577 FT4 2026-02-23 2051 M0HWO         +03 -                EI3ENB        -04 -
+QSO:  3577 FT4 2026-02-23 2053 M0HWO         -06 -                M0PAW         -11 -
+QSO:  3577 FT4 2026-02-23 2058 M0HWO         -04 -                DO1ARD        -10 -
+QSO:  3577 FT4 2026-02-23 2100 M0HWO         +08 -                DL8TT         -12 -
+QSO:  3577 FT4 2026-02-23 2101 M0HWO         +04 -                G4CTP         -09 -
+QSO:  3577 FT4 2026-02-23 2102 M0HWO         +07 -                GW4JBQ        -10 -
+QSO:  3577 FT4 2026-02-23 2130 M0HWO         +06 -                ON3NYL        -10 -
+QSO:  3577 FT4 2026-02-23 2136 M0HWO         +13 -                GW5P          -04 -
+QSO:  3577 FT4 2026-02-23 2137 M0HWO         +02 -                M5RJC         -08 -
+QSO:  3577 FT4 2026-02-23 2140 M0HWO         +06 -                G0ORE         -12 -
 END-OF-LOG:

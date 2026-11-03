@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=260408&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=384; excluded rows=0.
-QSO:   432 DG 2026-04-08 1803 G4EFT         +05 IO91             G0GJV         +05 IO91
-QSO:   432 DG 2026-04-08 1807 G4EFT         -10 IO91             G0XDI         -15 IO91
-QSO:   432 DG 2026-04-08 1836 G4EFT         -13 IO91             G7WIR         -18 JO01
-QSO:   432 DG 2026-04-08 1904 G4EFT         +04 IO91             2E0MRK        +01 IO91
-QSO:   432 DG 2026-04-08 1916 G4EFT         -09 IO91             G3WZK         -18 IO91
-QSO:   432 DG 2026-04-08 1935 G4EFT         -09 IO91             G7LRQ         -11 JO03
-QSO:   432 DG 2026-04-08 1942 G4EFT         -06 IO91             M0CRX         -11 IO91
-QSO:   432 DG 2026-04-08 1946 G4EFT         -14 IO91             PH2M          -19 JO22
-QSO:   432 DG 2026-04-08 2023 G4EFT         -12 IO91             G7RDX         -14 IO91
-QSO:   432 DG 2026-04-08 2051 G4EFT         -01 IO91             G6CUT         -15 IO90
-QSO:   432 DG 2026-04-08 2059 G4EFT         -11 IO91             G8SEI         -13 IO92
+QSO:   432 FT8 2026-04-08 1803 G4EFT         +05 IO91             G0GJV         +05 IO91
+QSO:   432 FT8 2026-04-08 1807 G4EFT         -10 IO91             G0XDI         -15 IO91
+QSO:   432 FT8 2026-04-08 1836 G4EFT         -13 IO91             G7WIR         -18 JO01
+QSO:   432 FT8 2026-04-08 1904 G4EFT         +04 IO91             2E0MRK        +01 IO91
+QSO:   432 FT8 2026-04-08 1916 G4EFT         -09 IO91             G3WZK         -18 IO91
+QSO:   432 FT8 2026-04-08 1935 G4EFT         -09 IO91             G7LRQ         -11 JO03
+QSO:   432 FT8 2026-04-08 1942 G4EFT         -06 IO91             M0CRX         -11 IO91
+QSO:   432 FT8 2026-04-08 1946 G4EFT         -14 IO91             PH2M          -19 JO22
+QSO:   432 FT8 2026-04-08 2023 G4EFT         -12 IO91             G7RDX         -14 IO91
+QSO:   432 FT8 2026-04-08 2051 G4EFT         -01 IO91             G6CUT         -15 IO90
+QSO:   432 FT8 2026-04-08 2059 G4EFT         -11 IO91             G8SEI         -13 IO92
 END-OF-LOG:

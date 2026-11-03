@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260805&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=829; excluded rows=0.
-QSO:   144 DG 2026-08-05 1904 G0HSP         +09 IO90             G0XDI         -16 IO91
-QSO:   144 DG 2026-08-05 1907 G0HSP         +03 IO90             G7RDX         -15 IO91
-QSO:   144 DG 2026-08-05 1910 G0HSP         -09 IO90             2E0MRK        -01 IO91
-QSO:   144 DG 2026-08-05 1915 G0HSP         -09 IO90             G4FFY         -05 JO01
-QSO:   144 DG 2026-08-05 1925 G0HSP         -15 IO90             M0SKT         -23 IO92
-QSO:   144 DG 2026-08-05 2019 G0HSP         -18 IO90             F1NQP         -19 JN19
-QSO:   144 DG 2026-08-05 2021 G0HSP         +05 IO90             G7WIR         +00 JO01
-QSO:   144 DG 2026-08-05 2024 G0HSP         +33 IO90             G3TMG         +22 IO90
-QSO:   144 DG 2026-08-05 2036 G0HSP         +21 IO90             G0WEJ         +14 IO90
-QSO:   144 DG 2026-08-05 2045 G0HSP         +04 IO90             G0JJG         -15 JO02
-QSO:   144 DG 2026-08-05 2050 G0HSP         -18 IO90             G1HJW         -19 JO01
+QSO:   144 FT8 2026-08-05 1904 G0HSP         +09 IO90             G0XDI         -16 IO91
+QSO:   144 FT8 2026-08-05 1907 G0HSP         +03 IO90             G7RDX         -15 IO91
+QSO:   144 FT8 2026-08-05 1910 G0HSP         -09 IO90             2E0MRK        -01 IO91
+QSO:   144 FT8 2026-08-05 1915 G0HSP         -09 IO90             G4FFY         -05 JO01
+QSO:   144 FT8 2026-08-05 1925 G0HSP         -15 IO90             M0SKT         -23 IO92
+QSO:   144 FT8 2026-08-05 2019 G0HSP         -18 IO90             F1NQP         -19 JN19
+QSO:   144 FT8 2026-08-05 2021 G0HSP         +05 IO90             G7WIR         +00 JO01
+QSO:   144 FT8 2026-08-05 2024 G0HSP         +33 IO90             G3TMG         +22 IO90
+QSO:   144 FT8 2026-08-05 2036 G0HSP         +21 IO90             G0WEJ         +14 IO90
+QSO:   144 FT8 2026-08-05 2045 G0HSP         +04 IO90             G0JJG         -15 JO02
+QSO:   144 FT8 2026-08-05 2050 G0HSP         -18 IO90             G1HJW         -19 JO01
 END-OF-LOG:

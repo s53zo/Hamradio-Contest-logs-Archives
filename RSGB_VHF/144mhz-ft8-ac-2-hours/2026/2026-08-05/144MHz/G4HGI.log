@@ -10,36 +10,36 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260805&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=829; excluded rows=0.
-QSO:   144 DG 2026-08-05 1901 G4HGI         -14 IO83             G4ZTR         -05 JO01
-QSO:   144 DG 2026-08-05 1902 G4HGI         +35 IO83             G8LIY         +04 IO83
-QSO:   144 DG 2026-08-05 1904 G4HGI         -05 IO83             M0TMR         -14 IO93
-QSO:   144 DG 2026-08-05 1922 G4HGI         +06 IO83             M9DJN         +17 IO82
-QSO:   144 DG 2026-08-05 1923 G4HGI         -17 IO83             G3YDY         -07 JO01
-QSO:   144 DG 2026-08-05 1925 G4HGI         +04 IO83             G0JCC         +04 IO82
-QSO:   144 DG 2026-08-05 1926 G4HGI         -19 IO83             G8IXK         -12 IO91
-QSO:   144 DG 2026-08-05 1929 G4HGI         +08 IO83             G8CZW         +23 IO83
-QSO:   144 DG 2026-08-05 1931 G4HGI         -10 IO83             G8YPE         -02 IO92
-QSO:   144 DG 2026-08-05 1939 G4HGI         +02 IO83             G7COU         -18 IO93
-QSO:   144 DG 2026-08-05 1941 G4HGI         +02 IO83             GM8MJV        +10 IO85
-QSO:   144 DG 2026-08-05 1945 G4HGI         +14 IO83             MM0CEZ        -07 IO75
-QSO:   144 DG 2026-08-05 1946 G4HGI         +00 IO83             M1EYP         -10 IO83
-QSO:   144 DG 2026-08-05 1949 G4HGI         -15 IO83             G7LRQ         +03 JO03
-QSO:   144 DG 2026-08-05 1953 G4HGI         -01 IO83             MW0UAA        -13 IO81
-QSO:   144 DG 2026-08-05 2000 G4HGI         +22 IO83             G3WAG/P       -06 IO82
-QSO:   144 DG 2026-08-05 2004 G4HGI         +07 IO83             G0XDI         -02 IO91
-QSO:   144 DG 2026-08-05 2005 G4HGI         -03 IO83             G0JJG         -22 JO02
-QSO:   144 DG 2026-08-05 2008 G4HGI         -10 IO83             G0JDL         -15 JO02
-QSO:   144 DG 2026-08-05 2011 G4HGI         -07 IO83             G6HIE         -05 JO00
-QSO:   144 DG 2026-08-05 2014 G4HGI         +13 IO83             M1TZR         -01 IO83
-QSO:   144 DG 2026-08-05 2019 G4HGI         -12 IO83             M0MHX         -03 JO01
-QSO:   144 DG 2026-08-05 2021 G4HGI         +10 IO83             G8SEI         +05 IO92
-QSO:   144 DG 2026-08-05 2023 G4HGI         +23 IO83             G6DDN         -06 IO93
-QSO:   144 DG 2026-08-05 2025 G4HGI         -01 IO83             EI8KN         -05 IO62
-QSO:   144 DG 2026-08-05 2038 G4HGI         -07 IO83             F1NQP         -16 JN19
-QSO:   144 DG 2026-08-05 2042 G4HGI         -02 IO83             G0BIX         -09 JO01
-QSO:   144 DG 2026-08-05 2046 G4HGI         -12 IO83             EI3ENB        -08 IO62
-QSO:   144 DG 2026-08-05 2049 G4HGI         +17 IO83             EI4GNB        -07 IO63
-QSO:   144 DG 2026-08-05 2052 G4HGI         +09 IO83             EI3KD         -14 IO51
+QSO:   144 FT8 2026-08-05 1901 G4HGI         -14 IO83             G4ZTR         -05 JO01
+QSO:   144 FT8 2026-08-05 1902 G4HGI         +35 IO83             G8LIY         +04 IO83
+QSO:   144 FT8 2026-08-05 1904 G4HGI         -05 IO83             M0TMR         -14 IO93
+QSO:   144 FT8 2026-08-05 1922 G4HGI         +06 IO83             M9DJN         +17 IO82
+QSO:   144 FT8 2026-08-05 1923 G4HGI         -17 IO83             G3YDY         -07 JO01
+QSO:   144 FT8 2026-08-05 1925 G4HGI         +04 IO83             G0JCC         +04 IO82
+QSO:   144 FT8 2026-08-05 1926 G4HGI         -19 IO83             G8IXK         -12 IO91
+QSO:   144 FT8 2026-08-05 1929 G4HGI         +08 IO83             G8CZW         +23 IO83
+QSO:   144 FT8 2026-08-05 1931 G4HGI         -10 IO83             G8YPE         -02 IO92
+QSO:   144 FT8 2026-08-05 1939 G4HGI         +02 IO83             G7COU         -18 IO93
+QSO:   144 FT8 2026-08-05 1941 G4HGI         +02 IO83             GM8MJV        +10 IO85
+QSO:   144 FT8 2026-08-05 1945 G4HGI         +14 IO83             MM0CEZ        -07 IO75
+QSO:   144 FT8 2026-08-05 1946 G4HGI         +00 IO83             M1EYP         -10 IO83
+QSO:   144 FT8 2026-08-05 1949 G4HGI         -15 IO83             G7LRQ         +03 JO03
+QSO:   144 FT8 2026-08-05 1953 G4HGI         -01 IO83             MW0UAA        -13 IO81
+QSO:   144 FT8 2026-08-05 2000 G4HGI         +22 IO83             G3WAG/P       -06 IO82
+QSO:   144 FT8 2026-08-05 2004 G4HGI         +07 IO83             G0XDI         -02 IO91
+QSO:   144 FT8 2026-08-05 2005 G4HGI         -03 IO83             G0JJG         -22 JO02
+QSO:   144 FT8 2026-08-05 2008 G4HGI         -10 IO83             G0JDL         -15 JO02
+QSO:   144 FT8 2026-08-05 2011 G4HGI         -07 IO83             G6HIE         -05 JO00
+QSO:   144 FT8 2026-08-05 2014 G4HGI         +13 IO83             M1TZR         -01 IO83
+QSO:   144 FT8 2026-08-05 2019 G4HGI         -12 IO83             M0MHX         -03 JO01
+QSO:   144 FT8 2026-08-05 2021 G4HGI         +10 IO83             G8SEI         +05 IO92
+QSO:   144 FT8 2026-08-05 2023 G4HGI         +23 IO83             G6DDN         -06 IO93
+QSO:   144 FT8 2026-08-05 2025 G4HGI         -01 IO83             EI8KN         -05 IO62
+QSO:   144 FT8 2026-08-05 2038 G4HGI         -07 IO83             F1NQP         -16 JN19
+QSO:   144 FT8 2026-08-05 2042 G4HGI         -02 IO83             G0BIX         -09 JO01
+QSO:   144 FT8 2026-08-05 2046 G4HGI         -12 IO83             EI3ENB        -08 IO62
+QSO:   144 FT8 2026-08-05 2049 G4HGI         +17 IO83             EI4GNB        -07 IO63
+QSO:   144 FT8 2026-08-05 2052 G4HGI         +09 IO83             EI3KD         -14 IO51
 END-OF-LOG:

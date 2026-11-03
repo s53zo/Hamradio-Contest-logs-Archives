@@ -10,15 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO: 14082 DG 2026-04-11 1702 KC1NHE        -00 -                WA4TED        -02 -
-QSO: 21143 DG 2026-04-11 1708 KC1NHE        +02 -                HC1MD/2       -03 -
-QSO: 14079 DG 2026-04-11 1717 KC1NHE        -04 -                N5MTJ         -10 -
-QSO: 14082 DG 2026-04-11 1730 KC1NHE        +13 -                N2BJ          -08 -
-QSO: 21141 DG 2026-04-11 1748 KC1NHE        +11 -                AF0G          +02 -
-QSO: 21146 DG 2026-04-11 1812 KC1NHE        +06 -                VP2MAA        -15 -
-QSO:  7047 DG 2026-04-11 2228 KC1NHE        +19 -                W3EWL         +08 -
-QSO:  7047 DG 2026-04-12 0029 KC1NHE        +17 -                K9OM          +09 -
-QSO:  7048 DG 2026-04-11 0137 KC1NHE        +03 -                WK4K          -04 -
-QSO: 14080 DG 2026-04-11 0325 KC1NHE        +12 -                CO8LY         -08 -
+QSO: 14082 FT4 2026-04-11 1702 KC1NHE        -00 -                WA4TED        -02 -
+QSO: 21143 FT4 2026-04-11 1708 KC1NHE        +02 -                HC1MD/2       -03 -
+QSO: 14079 FT4 2026-04-11 1717 KC1NHE        -04 -                N5MTJ         -10 -
+QSO: 14082 FT4 2026-04-11 1730 KC1NHE        +13 -                N2BJ          -08 -
+QSO: 21141 FT4 2026-04-11 1748 KC1NHE        +11 -                AF0G          +02 -
+QSO: 21146 FT4 2026-04-11 1812 KC1NHE        +06 -                VP2MAA        -15 -
+QSO:  7047 FT4 2026-04-11 2228 KC1NHE        +19 -                W3EWL         +08 -
+QSO:  7047 FT4 2026-04-12 0029 KC1NHE        +17 -                K9OM          +09 -
+QSO:  7048 FT4 2026-04-11 0137 KC1NHE        +03 -                WK4K          -04 -
+QSO: 14080 FT4 2026-04-11 0325 KC1NHE        +12 -                CO8LY         -08 -
 END-OF-LOG:

@@ -10,27 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=260304&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=750; excluded rows=1.
-QSO:   144 DG 2026-03-04 1905 M9DJN         +09 IO82             G8YPE         -12 IO92
-QSO:   144 DG 2026-03-04 1908 M9DJN         -05 IO82             G8LIY         -19 IO83
-QSO:   144 DG 2026-03-04 1909 M9DJN         +08 IO82             G4HGI         -02 IO83
-QSO:   144 DG 2026-03-04 1914 M9DJN         -01 IO82             G8SEI         -19 IO92
-QSO:   144 DG 2026-03-04 1920 M9DJN         -05 IO82             G7WIR         -11 JO01
-QSO:   144 DG 2026-03-04 1921 M9DJN         +06 IO82             G0RMG         +03 IO92
-QSO:   144 DG 2026-03-04 1928 M9DJN         -01 IO82             M1EYP/P       -02 IO83
-QSO:   144 DG 2026-03-04 1932 M9DJN         +04 IO82             G4FLM         -03 IO94
-QSO:   144 DG 2026-03-04 1935 M9DJN         +06 IO82             G6DDN         -20 IO93
-QSO:   144 DG 2026-03-04 1940 M9DJN         +03 IO82             G7LRQ         -18 JO03
-QSO:   144 DG 2026-03-04 1943 M9DJN         -15 IO82             G7COU         -22 IO93
-QSO:   144 DG 2026-03-04 1952 M9DJN         +02 IO82             GM8MJV        -12 IO85
-QSO:   144 DG 2026-03-04 1956 M9DJN         +14 IO82             G0DUQ         +01 IO82
-QSO:   144 DG 2026-03-04 2011 M9DJN         -02 IO82             G0BIX         -17 JO01
-QSO:   144 DG 2026-03-04 2015 M9DJN         +00 IO82             G0GJV         -01 IO91
-QSO:   144 DG 2026-03-04 2017 M9DJN         +07 IO82             G4ZTR         -15 JO01
-QSO:   144 DG 2026-03-04 2025 M9DJN         -06 IO82             F1NQP         -15 JN19
-QSO:   144 DG 2026-03-04 2029 M9DJN         -08 IO82             M9VGP         -20 IO91
-QSO:   144 DG 2026-03-04 2036 M9DJN         +02 IO82             G3YDY         -24 JO01
-QSO:   144 DG 2026-03-04 2047 M9DJN         -15 IO82             G0RAS         -18 IO91
-QSO:   144 DG 2026-03-04 2050 M9DJN         +19 IO82             G7FPO         +21 IO82
+QSO:   144 FT8 2026-03-04 1905 M9DJN         +09 IO82             G8YPE         -12 IO92
+QSO:   144 FT8 2026-03-04 1908 M9DJN         -05 IO82             G8LIY         -19 IO83
+QSO:   144 FT8 2026-03-04 1909 M9DJN         +08 IO82             G4HGI         -02 IO83
+QSO:   144 FT8 2026-03-04 1914 M9DJN         -01 IO82             G8SEI         -19 IO92
+QSO:   144 FT8 2026-03-04 1920 M9DJN         -05 IO82             G7WIR         -11 JO01
+QSO:   144 FT8 2026-03-04 1921 M9DJN         +06 IO82             G0RMG         +03 IO92
+QSO:   144 FT8 2026-03-04 1928 M9DJN         -01 IO82             M1EYP/P       -02 IO83
+QSO:   144 FT8 2026-03-04 1932 M9DJN         +04 IO82             G4FLM         -03 IO94
+QSO:   144 FT8 2026-03-04 1935 M9DJN         +06 IO82             G6DDN         -20 IO93
+QSO:   144 FT8 2026-03-04 1940 M9DJN         +03 IO82             G7LRQ         -18 JO03
+QSO:   144 FT8 2026-03-04 1943 M9DJN         -15 IO82             G7COU         -22 IO93
+QSO:   144 FT8 2026-03-04 1952 M9DJN         +02 IO82             GM8MJV        -12 IO85
+QSO:   144 FT8 2026-03-04 1956 M9DJN         +14 IO82             G0DUQ         +01 IO82
+QSO:   144 FT8 2026-03-04 2011 M9DJN         -02 IO82             G0BIX         -17 JO01
+QSO:   144 FT8 2026-03-04 2015 M9DJN         +00 IO82             G0GJV         -01 IO91
+QSO:   144 FT8 2026-03-04 2017 M9DJN         +07 IO82             G4ZTR         -15 JO01
+QSO:   144 FT8 2026-03-04 2025 M9DJN         -06 IO82             F1NQP         -15 JN19
+QSO:   144 FT8 2026-03-04 2029 M9DJN         -08 IO82             M9VGP         -20 IO91
+QSO:   144 FT8 2026-03-04 2036 M9DJN         +02 IO82             G3YDY         -24 JO01
+QSO:   144 FT8 2026-03-04 2047 M9DJN         -15 IO82             G0RAS         -18 IO91
+QSO:   144 FT8 2026-03-04 2050 M9DJN         +19 IO82             G7FPO         +21 IO82
 END-OF-LOG:

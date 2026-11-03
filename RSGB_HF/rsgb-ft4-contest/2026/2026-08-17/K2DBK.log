@@ -10,20 +10,21 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO: 14081 DG 2026-08-17 1919 K2DBK         +03 -                EG2FPA        -12 -
-QSO: 14081 DG 2026-08-17 1922 K2DBK         -04 -                N9OZ          -02 -
-QSO: 14081 DG 2026-08-17 1926 K2DBK         +05 -                AE0XJ         -02 -
-QSO: 14081 DG 2026-08-17 1934 K2DBK         +08 -                KC9RXM        -15 -
-QSO: 14081 DG 2026-08-17 1937 K2DBK         +03 -                WT8J          -04 -
-QSO: 21141 DG 2026-08-17 1954 K2DBK         +10 -                YL2SW         -11 -
-QSO: 21141 DG 2026-08-17 2001 K2DBK         +08 -                UA6NT         -03 -
-QSO: 14081 DG 2026-08-17 2022 K2DBK         -05 -                DG9EAL        -08 -
-QSO: 14081 DG 2026-08-17 2024 K2DBK         -11 -                DG1ABE        -07 -
-QSO: 14081 DG 2026-08-17 2037 K2DBK         +23 -                ON4DS         +06 -
-QSO: 14081 DG 2026-08-17 2050 K2DBK         -02 -                M0LAD         -21 -
-QSO: 14081 DG 2026-08-17 2055 K2DBK         +06 -                AC8RJ         +10 -
-QSO: 14081 DG 2026-08-17 2056 K2DBK         +13 -                EA2A          -06 -
-QSO: 14081 DG 2026-08-17 2058 K2DBK         -14 -                W9ZPL         -06 -
-QSO: 14081 DG 2026-08-17 2059 K2DBK         -12 -                EA1AA         -19 -
+QSO: 14081 FT4 2026-08-17 1919 K2DBK         +03 -                EG2FPA        -12 -
+QSO: 14081 FT4 2026-08-17 1922 K2DBK         -04 -                N9OZ          -02 -
+QSO: 14081 FT4 2026-08-17 1926 K2DBK         +05 -                AE0XJ         -02 -
+QSO: 14081 FT4 2026-08-17 1934 K2DBK         +08 -                KC9RXM        -15 -
+QSO: 14081 FT4 2026-08-17 1937 K2DBK         +03 -                WT8J          -04 -
+QSO: 21141 FT4 2026-08-17 1954 K2DBK         +10 -                YL2SW         -11 -
+QSO: 21141 FT4 2026-08-17 2001 K2DBK         +08 -                UA6NT         -03 -
+QSO: 14081 FT4 2026-08-17 2022 K2DBK         -05 -                DG9EAL        -08 -
+QSO: 14081 FT4 2026-08-17 2024 K2DBK         -11 -                DG1ABE        -07 -
+QSO: 14081 FT4 2026-08-17 2037 K2DBK         +23 -                ON4DS         +06 -
+QSO: 14081 FT4 2026-08-17 2050 K2DBK         -02 -                M0LAD         -21 -
+QSO: 14081 FT4 2026-08-17 2055 K2DBK         +06 -                AC8RJ         +10 -
+QSO: 14081 FT4 2026-08-17 2056 K2DBK         +13 -                EA2A          -06 -
+QSO: 14081 FT4 2026-08-17 2058 K2DBK         -14 -                W9ZPL         -06 -
+QSO: 14081 FT4 2026-08-17 2059 K2DBK         -12 -                EA1AA         -19 -
 END-OF-LOG:

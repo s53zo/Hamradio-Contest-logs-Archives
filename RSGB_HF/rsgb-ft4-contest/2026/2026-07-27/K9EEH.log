@@ -10,18 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260727&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7916; excluded rows=0.
-QSO: 14081 DG 2026-07-27 1902 K9EEH         -01 -                K2DBK         -08 -
-QSO: 14081 DG 2026-07-27 1904 K9EEH         -12 -                K2DBK         -06 -
-QSO: 14081 DG 2026-07-27 1906 K9EEH         -07 -                N5TLH         -09 -
-QSO: 14081 DG 2026-07-27 1908 K9EEH         -03 -                W4SMF         -09 -
-QSO: 14081 DG 2026-07-27 1908 K9EEH         -06 -                VE2GT         -11 -
-QSO: 21141 DG 2026-07-27 1914 K9EEH         +01 -                NE4S          -03 -
-QSO: 14080 DG 2026-07-27 1918 K9EEH         -03 -                KA4MLP        -16 -
-QSO: 14080 DG 2026-07-27 1920 K9EEH         -11 -                W4HRC         -06 -
-QSO: 14080 DG 2026-07-27 1921 K9EEH         +07 -                K4DV          +01 -
-QSO: 14080 DG 2026-07-27 1922 K9EEH         +01 -                VE2GT         +01 -
-QSO: 14080 DG 2026-07-27 1930 K9EEH         -14 -                KA4MLP        -16 -
-QSO: 14080 DG 2026-07-27 1932 K9EEH         -06 -                VE5/ZS1CE     -01 -
-QSO: 14080 DG 2026-07-27 1933 K9EEH         +07 -                NA5M          +04 -
+QSO: 14081 FT4 2026-07-27 1902 K9EEH         -01 -                K2DBK         -08 -
+QSO: 14081 FT4 2026-07-27 1904 K9EEH         -12 -                K2DBK         -06 -
+QSO: 14081 FT4 2026-07-27 1906 K9EEH         -07 -                N5TLH         -09 -
+QSO: 14081 FT4 2026-07-27 1908 K9EEH         -03 -                W4SMF         -09 -
+QSO: 14081 FT4 2026-07-27 1908 K9EEH         -06 -                VE2GT         -11 -
+QSO: 21141 FT4 2026-07-27 1914 K9EEH         +01 -                NE4S          -03 -
+QSO: 14080 FT4 2026-07-27 1918 K9EEH         -03 -                KA4MLP        -16 -
+QSO: 14080 FT4 2026-07-27 1920 K9EEH         -11 -                W4HRC         -06 -
+QSO: 14080 FT4 2026-07-27 1921 K9EEH         +07 -                K4DV          +01 -
+QSO: 14080 FT4 2026-07-27 1922 K9EEH         +01 -                VE2GT         +01 -
+QSO: 14080 FT4 2026-07-27 1930 K9EEH         -14 -                KA4MLP        -16 -
+QSO: 14080 FT4 2026-07-27 1932 K9EEH         -06 -                VE5/ZS1CE     -01 -
+QSO: 14080 FT4 2026-07-27 1933 K9EEH         +07 -                NA5M          +04 -
 END-OF-LOG:

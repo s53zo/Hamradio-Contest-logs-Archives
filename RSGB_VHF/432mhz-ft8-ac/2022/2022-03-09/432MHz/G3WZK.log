@@ -10,21 +10,21 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220309&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=880; excluded rows=0.
-QSO:   432 DG 2022-03-09 1901 G3WZK         +21 IO91             M0XTY         +19 JO01
-QSO:   432 DG 2022-03-09 1903 G3WZK         +14 IO91             G7LRQ         -08 IO91
-QSO:   432 DG 2022-03-09 1909 G3WZK         -07 IO91             2E0JPO        -13 IO91
-QSO:   432 DG 2022-03-09 1917 G3WZK         -09 IO91             M0UGA/P       -15 IO92
-QSO:   432 DG 2022-03-09 1920 G3WZK         +07 IO91             G0GJV         +07 IO91
-QSO:   432 DG 2022-03-09 1930 G3WZK         +15 IO91             G7WIR         +06 JO01
-QSO:   432 DG 2022-03-09 1932 G3WZK         -15 IO91             M0NVS         -17 IO91
-QSO:   432 DG 2022-03-09 1939 G3WZK         +20 IO91             G0XDI         +02 IO91
-QSO:   432 DG 2022-03-09 1941 G3WZK         -03 IO91             G3YDY         -17 JO01
-QSO:   432 DG 2022-03-09 1945 G3WZK         -03 IO91             2E0GKW        -14 IO91
-QSO:   432 DG 2022-03-09 1950 G3WZK         -15 IO91             G3MXH         -14 JO02
-QSO:   432 DG 2022-03-09 1954 G3WZK         -14 IO91             M0ZPU         -15 IO92
-QSO:   432 DG 2022-03-09 2014 G3WZK         +01 IO91             G0BIX         +01 JO01
-QSO:   432 DG 2022-03-09 2027 G3WZK         -24 IO91             G4RQI         -15 IO93
-QSO:   432 DG 2022-03-09 2043 G3WZK         -17 IO91             G8GNI         -21 IO91
+QSO:   432 FT8 2022-03-09 1901 G3WZK         +21 IO91             M0XTY         +19 JO01
+QSO:   432 FT8 2022-03-09 1903 G3WZK         +14 IO91             G7LRQ         -08 IO91
+QSO:   432 FT8 2022-03-09 1909 G3WZK         -07 IO91             2E0JPO        -13 IO91
+QSO:   432 FT8 2022-03-09 1917 G3WZK         -09 IO91             M0UGA/P       -15 IO92
+QSO:   432 FT8 2022-03-09 1920 G3WZK         +07 IO91             G0GJV         +07 IO91
+QSO:   432 FT8 2022-03-09 1930 G3WZK         +15 IO91             G7WIR         +06 JO01
+QSO:   432 FT8 2022-03-09 1932 G3WZK         -15 IO91             M0NVS         -17 IO91
+QSO:   432 FT8 2022-03-09 1939 G3WZK         +20 IO91             G0XDI         +02 IO91
+QSO:   432 FT8 2022-03-09 1941 G3WZK         -03 IO91             G3YDY         -17 JO01
+QSO:   432 FT8 2022-03-09 1945 G3WZK         -03 IO91             2E0GKW        -14 IO91
+QSO:   432 FT8 2022-03-09 1950 G3WZK         -15 IO91             G3MXH         -14 JO02
+QSO:   432 FT8 2022-03-09 1954 G3WZK         -14 IO91             M0ZPU         -15 IO92
+QSO:   432 FT8 2022-03-09 2014 G3WZK         +01 IO91             G0BIX         +01 JO01
+QSO:   432 FT8 2022-03-09 2027 G3WZK         -24 IO91             G4RQI         -15 IO93
+QSO:   432 FT8 2022-03-09 2043 G3WZK         -17 IO91             G8GNI         -21 IO91
 END-OF-LOG:

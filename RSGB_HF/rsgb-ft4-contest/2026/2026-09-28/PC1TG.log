@@ -10,32 +10,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260928&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=6998; excluded rows=0.
-QSO:  7050 DG 2026-09-28 1902 PC1TG         -01 -                OK2ON         -13 -
-QSO:  7050 DG 2026-09-28 1906 PC1TG         +05 -                IN3OWY        +01 -
-QSO:  7050 DG 2026-09-28 1907 PC1TG         -12 -                G8NJL         -09 -
-QSO:  7050 DG 2026-09-28 1907 PC1TG         +13 -                DL7ARV        +03 -
-QSO:  7050 DG 2026-09-28 1916 PC1TG         -04 -                GU0UVH        -08 -
-QSO:  7050 DG 2026-09-28 1917 PC1TG         -07 -                G6GN          -01 -
-QSO:  7050 DG 2026-09-28 1919 PC1TG         +02 -                G2M           -04 -
-QSO:  7050 DG 2026-09-28 1923 PC1TG         +02 -                PH2M          -17 -
-QSO:  7050 DG 2026-09-28 1924 PC1TG         +09 -                SE6K          -03 -
-QSO: 14082 DG 2026-09-28 1934 PC1TG         +23 -                PE1KYP        +17 -
-QSO:  7050 DG 2026-09-28 1938 PC1TG         +11 -                9A5CW         -07 -
-QSO:  7050 DG 2026-09-28 1942 PC1TG         -12 -                SP5CQI        -18 -
-QSO: 14082 DG 2026-09-28 1952 PC1TG         +18 -                CR7BRV        +00 -
-QSO: 14082 DG 2026-09-28 1954 PC1TG         -16 -                KE8UOH        -14 -
-QSO: 14082 DG 2026-09-28 1955 PC1TG         +07 -                CT7AUT        +11 -
-QSO: 14082 DG 2026-09-28 1957 PC1TG         +18 -                CS8ABF        -01 -
-QSO: 14082 DG 2026-09-28 1958 PC1TG         -14 -                K1RO          -05 -
-QSO: 14082 DG 2026-09-28 2002 PC1TG         -13 -                EA8CII        -18 -
-QSO: 14081 DG 2026-09-28 2003 PC1TG         +08 -                EA4ZI         -04 -
-QSO: 14082 DG 2026-09-28 2005 PC1TG         +01 -                EA7GNT        -06 -
-QSO:  7050 DG 2026-09-28 2010 PC1TG         +19 -                PE1KYP        +04 -
-QSO:  3576 DG 2026-09-28 2016 PC1TG         +06 -                DO1ARD        -15 -
-QSO: 14082 DG 2026-09-28 2027 PC1TG         +00 -                HI3K          +04 -
-QSO: 14082 DG 2026-09-28 2030 PC1TG         -01 -                W8PP          -05 -
-QSO: 14082 DG 2026-09-28 2031 PC1TG         -06 -                WD4OBP        -06 -
-QSO: 14082 DG 2026-09-28 2033 PC1TG         -09 -                EA7JVC        -08 -
-QSO: 14082 DG 2026-09-28 2041 PC1TG         +08 -                K9OM          -05 -
+QSO:  7050 FT4 2026-09-28 1902 PC1TG         -01 -                OK2ON         -13 -
+QSO:  7050 FT4 2026-09-28 1906 PC1TG         +05 -                IN3OWY        +01 -
+QSO:  7050 FT4 2026-09-28 1907 PC1TG         -12 -                G8NJL         -09 -
+QSO:  7050 FT4 2026-09-28 1907 PC1TG         +13 -                DL7ARV        +03 -
+QSO:  7050 FT4 2026-09-28 1916 PC1TG         -04 -                GU0UVH        -08 -
+QSO:  7050 FT4 2026-09-28 1917 PC1TG         -07 -                G6GN          -01 -
+QSO:  7050 FT4 2026-09-28 1919 PC1TG         +02 -                G2M           -04 -
+QSO:  7050 FT4 2026-09-28 1923 PC1TG         +02 -                PH2M          -17 -
+QSO:  7050 FT4 2026-09-28 1924 PC1TG         +09 -                SE6K          -03 -
+QSO: 14082 FT4 2026-09-28 1934 PC1TG         +23 -                PE1KYP        +17 -
+QSO:  7050 FT4 2026-09-28 1938 PC1TG         +11 -                9A5CW         -07 -
+QSO:  7050 FT4 2026-09-28 1942 PC1TG         -12 -                SP5CQI        -18 -
+QSO: 14082 FT4 2026-09-28 1952 PC1TG         +18 -                CR7BRV        +00 -
+QSO: 14082 FT4 2026-09-28 1954 PC1TG         -16 -                KE8UOH        -14 -
+QSO: 14082 FT4 2026-09-28 1955 PC1TG         +07 -                CT7AUT        +11 -
+QSO: 14082 FT4 2026-09-28 1957 PC1TG         +18 -                CS8ABF        -01 -
+QSO: 14082 FT4 2026-09-28 1958 PC1TG         -14 -                K1RO          -05 -
+QSO: 14082 FT4 2026-09-28 2002 PC1TG         -13 -                EA8CII        -18 -
+QSO: 14081 FT4 2026-09-28 2003 PC1TG         +08 -                EA4ZI         -04 -
+QSO: 14082 FT4 2026-09-28 2005 PC1TG         +01 -                EA7GNT        -06 -
+QSO:  7050 FT4 2026-09-28 2010 PC1TG         +19 -                PE1KYP        +04 -
+QSO:  3576 FT4 2026-09-28 2016 PC1TG         +06 -                DO1ARD        -15 -
+QSO: 14082 FT4 2026-09-28 2027 PC1TG         +00 -                HI3K          +04 -
+QSO: 14082 FT4 2026-09-28 2030 PC1TG         -01 -                W8PP          -05 -
+QSO: 14082 FT4 2026-09-28 2031 PC1TG         -06 -                WD4OBP        -06 -
+QSO: 14082 FT4 2026-09-28 2033 PC1TG         -09 -                EA7JVC        -08 -
+QSO: 14082 FT4 2026-09-28 2041 PC1TG         +08 -                K9OM          -05 -
 END-OF-LOG:

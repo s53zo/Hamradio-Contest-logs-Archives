@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260909&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=322; excluded rows=0.
-QSO:   432 DG 2026-09-09 2028 PE1OBL        -04 JO21             G7LRQ         -19 JO03
-QSO:   432 DG 2026-09-09 2032 PE1OBL        +02 JO21             PA3CWS        -14 JO22
-QSO:   432 DG 2026-09-09 2033 PE1OBL        -08 JO21             G0JDL         -17 JO02
-QSO:   432 DG 2026-09-09 2034 PE1OBL        -04 JO21             G4ZTR         -18 JO01
-QSO:   432 DG 2026-09-09 2044 PE1OBL        -06 JO21             DL5EBS        -14 JO31
-QSO:   432 DG 2026-09-09 2046 PE1OBL        -05 JO21             G0JJG         -09 JO02
-QSO:   432 DG 2026-09-09 2048 PE1OBL        -11 JO21             G0OFC         -12 IO92
-QSO:   432 DG 2026-09-09 2049 PE1OBL        -03 JO21             G6HIE         -06 JO00
-QSO:   432 DG 2026-09-09 2050 PE1OBL        -13 JO21             G3YDY         -17 JO01
-QSO:   432 DG 2026-09-09 2055 PE1OBL        -30 JO21             F1NQP         +06 JN19
-QSO:   432 DG 2026-09-09 2056 PE1OBL        -12 JO21             G0XDI         -25 IO91
-QSO:   432 DG 2026-09-09 2059 PE1OBL        -18 JO21             DK0TR         -17 JO40
-QSO:   432 DG 2026-09-09 2100 PE1OBL        -01 JO21             G8SEI         -15 IO92
+QSO:   432 FT8 2026-09-09 2028 PE1OBL        -04 JO21             G7LRQ         -19 JO03
+QSO:   432 FT8 2026-09-09 2032 PE1OBL        +02 JO21             PA3CWS        -14 JO22
+QSO:   432 FT8 2026-09-09 2033 PE1OBL        -08 JO21             G0JDL         -17 JO02
+QSO:   432 FT8 2026-09-09 2034 PE1OBL        -04 JO21             G4ZTR         -18 JO01
+QSO:   432 FT8 2026-09-09 2044 PE1OBL        -06 JO21             DL5EBS        -14 JO31
+QSO:   432 FT8 2026-09-09 2046 PE1OBL        -05 JO21             G0JJG         -09 JO02
+QSO:   432 FT8 2026-09-09 2048 PE1OBL        -11 JO21             G0OFC         -12 IO92
+QSO:   432 FT8 2026-09-09 2049 PE1OBL        -03 JO21             G6HIE         -06 JO00
+QSO:   432 FT8 2026-09-09 2050 PE1OBL        -13 JO21             G3YDY         -17 JO01
+QSO:   432 FT8 2026-09-09 2055 PE1OBL        -30 JO21             F1NQP         +06 JN19
+QSO:   432 FT8 2026-09-09 2056 PE1OBL        -12 JO21             G0XDI         -25 IO91
+QSO:   432 FT8 2026-09-09 2059 PE1OBL        -18 JO21             DK0TR         -17 JO40
+QSO:   432 FT8 2026-09-09 2100 PE1OBL        -01 JO21             G8SEI         -15 IO92
 END-OF-LOG:

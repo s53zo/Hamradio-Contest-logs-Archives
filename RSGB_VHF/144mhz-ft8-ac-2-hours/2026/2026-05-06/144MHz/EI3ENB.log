@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260506&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1140; excluded rows=1.
-QSO:   144 DG 2026-05-06 1906 EI3ENB        +03 IO62             EI8KN         +00 IO62
-QSO:   144 DG 2026-05-06 1926 EI3ENB        -19 IO62             G8SEI         -24 IO92
-QSO:   144 DG 2026-05-06 1932 EI3ENB        -11 IO62             G4SWX         -06 JO02
-QSO:   144 DG 2026-05-06 1944 EI3ENB        -03 IO62             G3WAG/P       -05 IO82
-QSO:   144 DG 2026-05-06 1959 EI3ENB        -07 IO62             MW0AXA        -11 IO81
-QSO:   144 DG 2026-05-06 2029 EI3ENB        -12 IO62             M1EYP/P       -14 IO83
-QSO:   144 DG 2026-05-06 2035 EI3ENB        -08 IO62             G7WIR         -22 JO01
-QSO:   144 DG 2026-05-06 2043 EI3ENB        -03 IO62             G4ZTR         -19 JO01
-QSO:   144 DG 2026-05-06 2047 EI3ENB        -13 IO62             G3YDY         -25 JO01
-QSO:   144 DG 2026-05-06 2048 EI3ENB        +03 IO62             GW4VXE        +01 IO71
-QSO:   144 DG 2026-05-06 2055 EI3ENB        -07 IO62             G3MXH         -18 JO02
+QSO:   144 FT8 2026-05-06 1906 EI3ENB        +03 IO62             EI8KN         +00 IO62
+QSO:   144 FT8 2026-05-06 1926 EI3ENB        -19 IO62             G8SEI         -24 IO92
+QSO:   144 FT8 2026-05-06 1932 EI3ENB        -11 IO62             G4SWX         -06 JO02
+QSO:   144 FT8 2026-05-06 1944 EI3ENB        -03 IO62             G3WAG/P       -05 IO82
+QSO:   144 FT8 2026-05-06 1959 EI3ENB        -07 IO62             MW0AXA        -11 IO81
+QSO:   144 FT8 2026-05-06 2029 EI3ENB        -12 IO62             M1EYP/P       -14 IO83
+QSO:   144 FT8 2026-05-06 2035 EI3ENB        -08 IO62             G7WIR         -22 JO01
+QSO:   144 FT8 2026-05-06 2043 EI3ENB        -03 IO62             G4ZTR         -19 JO01
+QSO:   144 FT8 2026-05-06 2047 EI3ENB        -13 IO62             G3YDY         -25 JO01
+QSO:   144 FT8 2026-05-06 2048 EI3ENB        +03 IO62             GW4VXE        +01 IO71
+QSO:   144 FT8 2026-05-06 2055 EI3ENB        -07 IO62             G3MXH         -18 JO02
 END-OF-LOG:

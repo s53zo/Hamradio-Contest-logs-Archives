@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1902 G3WAG         +04 IO82             M0IEP         -01 IO91
-QSO:   432 DG 2022-01-12 1904 G3WAG         -11 IO82             G0RMG         -18 IO92AG
-QSO:   432 DG 2022-01-12 1909 G3WAG         -04 IO82             G0GRI         -02 IO80SX
-QSO:   432 DG 2022-01-12 1913 G3WAG         +25 IO82             G0LGS         +16 IO81WV
-QSO:   432 DG 2022-01-12 1920 G3WAG         -10 IO82             G7RHF         -11 IO82QK
-QSO:   432 DG 2022-01-12 1933 G3WAG         -05 IO82             G4NBS         -15 JO02AF
-QSO:   432 DG 2022-01-12 1942 G3WAG         +15 IO82             EI8KN         +03 IO62IE
-QSO:   432 DG 2022-01-12 1950 G3WAG         -06 IO82             G0BIX         -06 JO01GI
-QSO:   432 DG 2022-01-12 1954 G3WAG         -02 IO82             G7LRQ         -16 IO91TQ
-QSO:   432 DG 2022-01-12 1956 G3WAG         +06 IO82             G4OED         +02 IO91CN
-QSO:   432 DG 2022-01-12 1957 G3WAG         +08 IO82             M0AHN         +23 IO91BH
-QSO:   432 DG 2022-01-12 2005 G3WAG         -14 IO82             M7APR         -19 IO91DN
-QSO:   432 DG 2022-01-12 2009 G3WAG         -16 IO82             G8GNI         -13 IO91JV
+QSO:   432 FT8 2022-01-12 1902 G3WAG         +04 IO82             M0IEP         -01 IO91
+QSO:   432 FT8 2022-01-12 1904 G3WAG         -11 IO82             G0RMG         -18 IO92AG
+QSO:   432 FT8 2022-01-12 1909 G3WAG         -04 IO82             G0GRI         -02 IO80SX
+QSO:   432 FT8 2022-01-12 1913 G3WAG         +25 IO82             G0LGS         +16 IO81WV
+QSO:   432 FT8 2022-01-12 1920 G3WAG         -10 IO82             G7RHF         -11 IO82QK
+QSO:   432 FT8 2022-01-12 1933 G3WAG         -05 IO82             G4NBS         -15 JO02AF
+QSO:   432 FT8 2022-01-12 1942 G3WAG         +15 IO82             EI8KN         +03 IO62IE
+QSO:   432 FT8 2022-01-12 1950 G3WAG         -06 IO82             G0BIX         -06 JO01GI
+QSO:   432 FT8 2022-01-12 1954 G3WAG         -02 IO82             G7LRQ         -16 IO91TQ
+QSO:   432 FT8 2022-01-12 1956 G3WAG         +06 IO82             G4OED         +02 IO91CN
+QSO:   432 FT8 2022-01-12 1957 G3WAG         +08 IO82             M0AHN         +23 IO91BH
+QSO:   432 FT8 2022-01-12 2005 G3WAG         -14 IO82             M7APR         -19 IO91DN
+QSO:   432 FT8 2022-01-12 2009 G3WAG         -16 IO82             G8GNI         -13 IO91JV
 END-OF-LOG:

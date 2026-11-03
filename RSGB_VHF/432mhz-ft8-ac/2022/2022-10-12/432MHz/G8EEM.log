@@ -10,40 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221012&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=675; excluded rows=0.
-QSO:   432 DG 2022-10-12 1900 G8EEM         +14 IO93             M0XLH         +25 IO93
-QSO:   432 DG 2022-10-12 1901 G8EEM         -06 IO93             DG2BCP        -19 JO43
-QSO:   432 DG 2022-10-12 1904 G8EEM         -05 IO93             M0TMR         -11 IO93
-QSO:   432 DG 2022-10-12 1906 G8EEM         -09 IO93             2E0FAU        -11 IO94
-QSO:   432 DG 2022-10-12 1913 G8EEM         +05 IO93             GM8MJV        -15 IO85
-QSO:   432 DG 2022-10-12 1914 G8EEM         -06 IO93             GM7PKT        -09 IO76
-QSO:   432 DG 2022-10-12 1922 G8EEM         +09 IO93             GM4FVM        +00 IO85
-QSO:   432 DG 2022-10-12 1926 G8EEM         -06 IO93             G4EII         -18 IO83
-QSO:   432 DG 2022-10-12 1931 G8EEM         +06 IO93             G8GNI         +02 IO91
-QSO:   432 DG 2022-10-12 1932 G8EEM         +06 IO93             M0IEP         -15 IO91
-QSO:   432 DG 2022-10-12 1937 G8EEM         -14 IO93             M7REV         -13 IO82
-QSO:   432 DG 2022-10-12 1941 G8EEM         +03 IO93             G3YDY         +01 JO01
-QSO:   432 DG 2022-10-12 1943 G8EEM         +07 IO93             G0BIX         -06 JO01
-QSO:   432 DG 2022-10-12 1946 G8EEM         -13 IO93             DL5EBS        -18 JO31
-QSO:   432 DG 2022-10-12 1948 G8EEM         +04 IO93             PA3CWS        -15 JO22
-QSO:   432 DG 2022-10-12 1949 G8EEM         -08 IO93             PD7RON        -12 JO22
-QSO:   432 DG 2022-10-12 1950 G8EEM         -18 IO93             PH0TV         -20 JO32
-QSO:   432 DG 2022-10-12 1954 G8EEM         +00 IO93             G0XDI         -11 IO91
-QSO:   432 DG 2022-10-12 1958 G8EEM         +14 IO93             PA7ML         -02 JO22
-QSO:   432 DG 2022-10-12 2003 G8EEM         -16 IO93             PH2M          -15 JO22
-QSO:   432 DG 2022-10-12 2005 G8EEM         +09 IO93             G7LRQ         -03 IO91
-QSO:   432 DG 2022-10-12 2006 G8EEM         +11 IO93             M0AHN         -16 IO91
-QSO:   432 DG 2022-10-12 2010 G8EEM         -09 IO93             G0LGS         -14 IO81
-QSO:   432 DG 2022-10-12 2022 G8EEM         -07 IO93             G8CRB         -11 JO02
-QSO:   432 DG 2022-10-12 2026 G8EEM         -08 IO93             2E0DUE        -11 JO01
-QSO:   432 DG 2022-10-12 2027 G8EEM         +00 IO93             2E1FMS        -14 IO82
-QSO:   432 DG 2022-10-12 2029 G8EEM         +26 IO93             G4NBS         +10 JO02
-QSO:   432 DG 2022-10-12 2032 G8EEM         -10 IO93             M0LMK         -08 JO01
-QSO:   432 DG 2022-10-12 2042 G8EEM         -13 IO93             G6HIE         -16 JO00
-QSO:   432 DG 2022-10-12 2044 G8EEM         -13 IO93             G3ZPB         -13 IO91
-QSO:   432 DG 2022-10-12 2046 G8EEM         -05 IO93             EI8KN         -08 IO62
-QSO:   432 DG 2022-10-12 2048 G8EEM         -16 IO93             G3YKI         -09 IO82
-QSO:   432 DG 2022-10-12 2051 G8EEM         +19 IO93             G4VPD         -09 IO92
-QSO:   432 DG 2022-10-12 2055 G8EEM         +02 IO93             PD0HCV        -17 JO21
+QSO:   432 FT8 2022-10-12 1900 G8EEM         +14 IO93             M0XLH         +25 IO93
+QSO:   432 FT8 2022-10-12 1901 G8EEM         -06 IO93             DG2BCP        -19 JO43
+QSO:   432 FT8 2022-10-12 1904 G8EEM         -05 IO93             M0TMR         -11 IO93
+QSO:   432 FT8 2022-10-12 1906 G8EEM         -09 IO93             2E0FAU        -11 IO94
+QSO:   432 FT8 2022-10-12 1913 G8EEM         +05 IO93             GM8MJV        -15 IO85
+QSO:   432 FT8 2022-10-12 1914 G8EEM         -06 IO93             GM7PKT        -09 IO76
+QSO:   432 FT8 2022-10-12 1922 G8EEM         +09 IO93             GM4FVM        +00 IO85
+QSO:   432 FT8 2022-10-12 1926 G8EEM         -06 IO93             G4EII         -18 IO83
+QSO:   432 FT8 2022-10-12 1931 G8EEM         +06 IO93             G8GNI         +02 IO91
+QSO:   432 FT8 2022-10-12 1932 G8EEM         +06 IO93             M0IEP         -15 IO91
+QSO:   432 FT8 2022-10-12 1937 G8EEM         -14 IO93             M7REV         -13 IO82
+QSO:   432 FT8 2022-10-12 1941 G8EEM         +03 IO93             G3YDY         +01 JO01
+QSO:   432 FT8 2022-10-12 1943 G8EEM         +07 IO93             G0BIX         -06 JO01
+QSO:   432 FT8 2022-10-12 1946 G8EEM         -13 IO93             DL5EBS        -18 JO31
+QSO:   432 FT8 2022-10-12 1948 G8EEM         +04 IO93             PA3CWS        -15 JO22
+QSO:   432 FT8 2022-10-12 1949 G8EEM         -08 IO93             PD7RON        -12 JO22
+QSO:   432 FT8 2022-10-12 1950 G8EEM         -18 IO93             PH0TV         -20 JO32
+QSO:   432 FT8 2022-10-12 1954 G8EEM         +00 IO93             G0XDI         -11 IO91
+QSO:   432 FT8 2022-10-12 1958 G8EEM         +14 IO93             PA7ML         -02 JO22
+QSO:   432 FT8 2022-10-12 2003 G8EEM         -16 IO93             PH2M          -15 JO22
+QSO:   432 FT8 2022-10-12 2005 G8EEM         +09 IO93             G7LRQ         -03 IO91
+QSO:   432 FT8 2022-10-12 2006 G8EEM         +11 IO93             M0AHN         -16 IO91
+QSO:   432 FT8 2022-10-12 2010 G8EEM         -09 IO93             G0LGS         -14 IO81
+QSO:   432 FT8 2022-10-12 2022 G8EEM         -07 IO93             G8CRB         -11 JO02
+QSO:   432 FT8 2022-10-12 2026 G8EEM         -08 IO93             2E0DUE        -11 JO01
+QSO:   432 FT8 2022-10-12 2027 G8EEM         +00 IO93             2E1FMS        -14 IO82
+QSO:   432 FT8 2022-10-12 2029 G8EEM         +26 IO93             G4NBS         +10 JO02
+QSO:   432 FT8 2022-10-12 2032 G8EEM         -10 IO93             M0LMK         -08 JO01
+QSO:   432 FT8 2022-10-12 2042 G8EEM         -13 IO93             G6HIE         -16 JO00
+QSO:   432 FT8 2022-10-12 2044 G8EEM         -13 IO93             G3ZPB         -13 IO91
+QSO:   432 FT8 2022-10-12 2046 G8EEM         -05 IO93             EI8KN         -08 IO62
+QSO:   432 FT8 2022-10-12 2048 G8EEM         -16 IO93             G3YKI         -09 IO82
+QSO:   432 FT8 2022-10-12 2051 G8EEM         +19 IO93             G4VPD         -09 IO92
+QSO:   432 FT8 2022-10-12 2055 G8EEM         +02 IO93             PD0HCV        -17 JO21
 END-OF-LOG:

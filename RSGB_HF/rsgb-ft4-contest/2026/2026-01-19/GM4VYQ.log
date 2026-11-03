@@ -10,33 +10,34 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO:  7048 DG 2026-01-19 2007 GM4VYQ        -01 -                EA5QS         -07 -
-QSO:  7048 DG 2026-01-19 2010 GM4VYQ        +03 -                EG9WWA        -14 -
-QSO:  7048 DG 2026-01-19 2015 GM4VYQ        +01 -                LZ0WWA        -06 -
-QSO:  7048 DG 2026-01-19 2021 GM4VYQ        -06 -                3Z6I          -11 -
-QSO:  7048 DG 2026-01-19 2022 GM4VYQ        +08 -                YO3RU         +03 -
-QSO:  7048 DG 2026-01-19 2026 GM4VYQ        -01 -                LZ1JZ         +05 -
-QSO:  7048 DG 2026-01-19 2034 GM4VYQ        -03 -                SV1DZB        -13 -
-QSO:  7048 DG 2026-01-19 2044 GM4VYQ        -10 -                G4CTP         -04 -
-QSO:  7048 DG 2026-01-19 2049 GM4VYQ        -03 -                II9WWA        -01 -
-QSO:  7048 DG 2026-01-19 2052 GM4VYQ        -06 -                SN3WWA        -09 -
-QSO:  7048 DG 2026-01-19 2054 GM4VYQ        +07 -                OZ1AXG        +00 -
-QSO:  7048 DG 2026-01-19 2055 GM4VYQ        +05 -                DJ2KP         +02 -
-QSO:  7048 DG 2026-01-19 2056 GM4VYQ        +03 -                SQ5N          -09 -
-QSO:  7048 DG 2026-01-19 2100 GM4VYQ        +07 -                PD2PKM        +00 -
-QSO:  7048 DG 2026-01-19 2102 GM4VYQ        +10 -                DF8QB         +06 -
-QSO:  7048 DG 2026-01-19 2104 GM4VYQ        +02 -                PI4APD        +05 -
-QSO:  7048 DG 2026-01-19 2104 GM4VYQ        -01 -                ON7PM         +06 -
-QSO:  7048 DG 2026-01-19 2105 GM4VYQ        +03 -                F1HFP         +00 -
-QSO:  7048 DG 2026-01-19 2105 GM4VYQ        -06 -                G3WJG         -10 -
-QSO:  7048 DG 2026-01-19 2106 GM4VYQ        +11 -                ON6NL         +18 -
-QSO:  7048 DG 2026-01-19 2107 GM4VYQ        -03 -                GB2WWA        -08 -
-QSO:  7048 DG 2026-01-19 2108 GM4VYQ        +04 -                G4DBW         +00 -
-QSO:  7048 DG 2026-01-19 2114 GM4VYQ        +03 -                DM3CH         +04 -
-QSO:  7048 DG 2026-01-19 2119 GM4VYQ        +03 -                M0PAW         -10 -
-QSO:  7048 DG 2026-01-19 2121 GM4VYQ        -02 -                G5KTX         -04 -
-QSO:  7048 DG 2026-01-19 2122 GM4VYQ        +03 -                G7NJX         +08 -
-QSO:  7048 DG 2026-01-19 2127 GM4VYQ        +02 -                F4CYH         +03 -
-QSO:  7048 DG 2026-01-19 2147 GM4VYQ        -09 -                I2XLF         -02 -
+QSO:  7048 FT4 2026-01-19 2007 GM4VYQ        -01 -                EA5QS         -07 -
+QSO:  7048 FT4 2026-01-19 2010 GM4VYQ        +03 -                EG9WWA        -14 -
+QSO:  7048 FT4 2026-01-19 2015 GM4VYQ        +01 -                LZ0WWA        -06 -
+QSO:  7048 FT4 2026-01-19 2021 GM4VYQ        -06 -                3Z6I          -11 -
+QSO:  7048 FT4 2026-01-19 2022 GM4VYQ        +08 -                YO3RU         +03 -
+QSO:  7048 FT4 2026-01-19 2026 GM4VYQ        -01 -                LZ1JZ         +05 -
+QSO:  7048 FT4 2026-01-19 2034 GM4VYQ        -03 -                SV1DZB        -13 -
+QSO:  7048 FT4 2026-01-19 2044 GM4VYQ        -10 -                G4CTP         -04 -
+QSO:  7048 FT4 2026-01-19 2049 GM4VYQ        -03 -                II9WWA        -01 -
+QSO:  7048 FT4 2026-01-19 2052 GM4VYQ        -06 -                SN3WWA        -09 -
+QSO:  7048 FT4 2026-01-19 2054 GM4VYQ        +07 -                OZ1AXG        +00 -
+QSO:  7048 FT4 2026-01-19 2055 GM4VYQ        +05 -                DJ2KP         +02 -
+QSO:  7048 FT4 2026-01-19 2056 GM4VYQ        +03 -                SQ5N          -09 -
+QSO:  7048 FT4 2026-01-19 2100 GM4VYQ        +07 -                PD2PKM        +00 -
+QSO:  7048 FT4 2026-01-19 2102 GM4VYQ        +10 -                DF8QB         +06 -
+QSO:  7048 FT4 2026-01-19 2104 GM4VYQ        +02 -                PI4APD        +05 -
+QSO:  7048 FT4 2026-01-19 2104 GM4VYQ        -01 -                ON7PM         +06 -
+QSO:  7048 FT4 2026-01-19 2105 GM4VYQ        +03 -                F1HFP         +00 -
+QSO:  7048 FT4 2026-01-19 2105 GM4VYQ        -06 -                G3WJG         -10 -
+QSO:  7048 FT4 2026-01-19 2106 GM4VYQ        +11 -                ON6NL         +18 -
+QSO:  7048 FT4 2026-01-19 2107 GM4VYQ        -03 -                GB2WWA        -08 -
+QSO:  7048 FT4 2026-01-19 2108 GM4VYQ        +04 -                G4DBW         +00 -
+QSO:  7048 FT4 2026-01-19 2114 GM4VYQ        +03 -                DM3CH         +04 -
+QSO:  7048 FT4 2026-01-19 2119 GM4VYQ        +03 -                M0PAW         -10 -
+QSO:  7048 FT4 2026-01-19 2121 GM4VYQ        -02 -                G5KTX         -04 -
+QSO:  7048 FT4 2026-01-19 2122 GM4VYQ        +03 -                G7NJX         +08 -
+QSO:  7048 FT4 2026-01-19 2127 GM4VYQ        +02 -                F4CYH         +03 -
+QSO:  7048 FT4 2026-01-19 2147 GM4VYQ        -09 -                I2XLF         -02 -
 END-OF-LOG:

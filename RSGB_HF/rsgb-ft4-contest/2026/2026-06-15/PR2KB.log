@@ -9,17 +9,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260615&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=8047; excluded rows=0.
-QSO: 21140 DG 2026-06-15 1905 PR2KB         -07 -                DJ8EW         -10 -
-QSO: 21140 DG 2026-06-15 1907 PR2KB         -14 -                G3MXH         -05 -
-QSO: 21140 DG 2026-06-15 1909 PR2KB         -08 -                G6P           -13 -
-QSO: 21140 DG 2026-06-15 1911 PR2KB         +06 -                LW2EDM        -02 -
-QSO: 21140 DG 2026-06-15 1916 PR2KB         -04 -                G0BIX         -16 -
-QSO: 21140 DG 2026-06-15 1932 PR2KB         -12 -                HA9PP         -14 -
-QSO: 21140 DG 2026-06-15 1936 PR2KB         -14 -                SQ5N          -18 -
-QSO: 21140 DG 2026-06-15 1941 PR2KB         -03 -                IK0FUX        -08 -
-QSO: 21140 DG 2026-06-15 1948 PR2KB         -15 -                G4BRK         -07 -
-QSO: 21140 DG 2026-06-15 2010 PR2KB         -12 -                VP8WA         -04 -
-QSO: 21140 DG 2026-06-15 2042 PR2KB         -04 -                GI4SNA        -08 -
-QSO: 21140 DG 2026-06-15 2054 PR2KB         -11 -                R4DD          -10 -
+QSO: 21140 FT4 2026-06-15 1905 PR2KB         -07 -                DJ8EW         -10 -
+QSO: 21140 FT4 2026-06-15 1907 PR2KB         -14 -                G3MXH         -05 -
+QSO: 21140 FT4 2026-06-15 1909 PR2KB         -08 -                G6P           -13 -
+QSO: 21140 FT4 2026-06-15 1911 PR2KB         +06 -                LW2EDM        -02 -
+QSO: 21140 FT4 2026-06-15 1916 PR2KB         -04 -                G0BIX         -16 -
+QSO: 21140 FT4 2026-06-15 1932 PR2KB         -12 -                HA9PP         -14 -
+QSO: 21140 FT4 2026-06-15 1936 PR2KB         -14 -                SQ5N          -18 -
+QSO: 21140 FT4 2026-06-15 1941 PR2KB         -03 -                IK0FUX        -08 -
+QSO: 21140 FT4 2026-06-15 1948 PR2KB         -15 -                G4BRK         -07 -
+QSO: 21140 FT4 2026-06-15 2010 PR2KB         -12 -                VP8WA         -04 -
+QSO: 21140 FT4 2026-06-15 2042 PR2KB         -04 -                GI4SNA        -08 -
+QSO: 21140 FT4 2026-06-15 2054 PR2KB         -11 -                R4DD          -10 -
 END-OF-LOG:

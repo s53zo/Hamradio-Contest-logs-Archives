@@ -10,39 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220504&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1793; excluded rows=0.
-QSO:   144 DG 2022-05-04 1902 M0BKV         -05 IO70             EI4GGB        +12 IO63
-QSO:   144 DG 2022-05-04 1906 M0BKV         -11 IO70             2E0IEI        -09 IO81
-QSO:   144 DG 2022-05-04 1910 M0BKV         -19 IO70             F4FET/P       -14 IN77
-QSO:   144 DG 2022-05-04 1912 M0BKV         +03 IO70             EI8KN         +14 IO62
-QSO:   144 DG 2022-05-04 1913 M0BKV         -04 IO70             GI6ATZ        -06 IO74
-QSO:   144 DG 2022-05-04 1925 M0BKV         +02 IO70             2E0IEI        -08 IO81
-QSO:   144 DG 2022-05-04 1933 M0BKV         -12 IO70             M0IEP         -14 IO91
-QSO:   144 DG 2022-05-04 1936 M0BKV         -11 IO70             M0LMK         -09 JO01
-QSO:   144 DG 2022-05-04 1939 M0BKV         -11 IO70             EI2GLB        -06 IO63
-QSO:   144 DG 2022-05-04 1940 M0BKV         -16 IO70             MW3ASG        -07 IO81
-QSO:   144 DG 2022-05-04 1942 M0BKV         -01 IO70             2E0SNB        -15 IO91
-QSO:   144 DG 2022-05-04 1946 M0BKV         -10 IO70             G4OED         -08 IO91
-QSO:   144 DG 2022-05-04 1948 M0BKV         -03 IO70             G4NBS         +01 JO02
-QSO:   144 DG 2022-05-04 1951 M0BKV         -15 IO70             F6CIS         -13 IN94
-QSO:   144 DG 2022-05-04 1957 M0BKV         +04 IO70             F6DBI         +05 IN88
-QSO:   144 DG 2022-05-04 2001 M0BKV         -16 IO70             PA0RDY        -18 JO22
-QSO:   144 DG 2022-05-04 2004 M0BKV         -18 IO70             G4VPD         -17 IO92
-QSO:   144 DG 2022-05-04 2007 M0BKV         -07 IO70             G0XDI         -02 IO91
-QSO:   144 DG 2022-05-04 2012 M0BKV         -15 IO70             G0JJG         -12 JO02
-QSO:   144 DG 2022-05-04 2014 M0BKV         -09 IO70             G8DMN         +10 IO81
-QSO:   144 DG 2022-05-04 2015 M0BKV         -04 IO70             G4VPD         +01 IO92
-QSO:   144 DG 2022-05-04 2017 M0BKV         -13 IO70             GW4HDF        -07 IO81
-QSO:   144 DG 2022-05-04 2018 M0BKV         -16 IO70             G8IXK         -13 IO91
-QSO:   144 DG 2022-05-04 2019 M0BKV         -15 IO70             ON8NT         -14 JO11
-QSO:   144 DG 2022-05-04 2021 M0BKV         -13 IO70             PA3PCV        -21 JO20
-QSO:   144 DG 2022-05-04 2025 M0BKV         -22 IO70             M0KHR         -10 IO91
-QSO:   144 DG 2022-05-04 2026 M0BKV         -13 IO70             PA3PCV        -21 JO20
-QSO:   144 DG 2022-05-04 2032 M0BKV         -15 IO70             MM0ABM        -10 IO75
-QSO:   144 DG 2022-05-04 2034 M0BKV         -05 IO70             G7RAU         +03 IN79
-QSO:   144 DG 2022-05-04 2037 M0BKV         -22 IO70             GD4SVD        -17 IO75
-QSO:   144 DG 2022-05-04 2052 M0BKV         +04 IO70             G4RRA         -01 IO80
-QSO:   144 DG 2022-05-04 2053 M0BKV         -12 IO70             PH2M          -16 JO22
-QSO:   144 DG 2022-05-04 2055 M0BKV         +00 IO70             G0LGS         -02 IO81
+QSO:   144 FT8 2022-05-04 1902 M0BKV         -05 IO70             EI4GGB        +12 IO63
+QSO:   144 FT8 2022-05-04 1906 M0BKV         -11 IO70             2E0IEI        -09 IO81
+QSO:   144 FT8 2022-05-04 1910 M0BKV         -19 IO70             F4FET/P       -14 IN77
+QSO:   144 FT8 2022-05-04 1912 M0BKV         +03 IO70             EI8KN         +14 IO62
+QSO:   144 FT8 2022-05-04 1913 M0BKV         -04 IO70             GI6ATZ        -06 IO74
+QSO:   144 FT8 2022-05-04 1925 M0BKV         +02 IO70             2E0IEI        -08 IO81
+QSO:   144 FT8 2022-05-04 1933 M0BKV         -12 IO70             M0IEP         -14 IO91
+QSO:   144 FT8 2022-05-04 1936 M0BKV         -11 IO70             M0LMK         -09 JO01
+QSO:   144 FT8 2022-05-04 1939 M0BKV         -11 IO70             EI2GLB        -06 IO63
+QSO:   144 FT8 2022-05-04 1940 M0BKV         -16 IO70             MW3ASG        -07 IO81
+QSO:   144 FT8 2022-05-04 1942 M0BKV         -01 IO70             2E0SNB        -15 IO91
+QSO:   144 FT8 2022-05-04 1946 M0BKV         -10 IO70             G4OED         -08 IO91
+QSO:   144 FT8 2022-05-04 1948 M0BKV         -03 IO70             G4NBS         +01 JO02
+QSO:   144 FT8 2022-05-04 1951 M0BKV         -15 IO70             F6CIS         -13 IN94
+QSO:   144 FT8 2022-05-04 1957 M0BKV         +04 IO70             F6DBI         +05 IN88
+QSO:   144 FT8 2022-05-04 2001 M0BKV         -16 IO70             PA0RDY        -18 JO22
+QSO:   144 FT8 2022-05-04 2004 M0BKV         -18 IO70             G4VPD         -17 IO92
+QSO:   144 FT8 2022-05-04 2007 M0BKV         -07 IO70             G0XDI         -02 IO91
+QSO:   144 FT8 2022-05-04 2012 M0BKV         -15 IO70             G0JJG         -12 JO02
+QSO:   144 FT8 2022-05-04 2014 M0BKV         -09 IO70             G8DMN         +10 IO81
+QSO:   144 FT8 2022-05-04 2015 M0BKV         -04 IO70             G4VPD         +01 IO92
+QSO:   144 FT8 2022-05-04 2017 M0BKV         -13 IO70             GW4HDF        -07 IO81
+QSO:   144 FT8 2022-05-04 2018 M0BKV         -16 IO70             G8IXK         -13 IO91
+QSO:   144 FT8 2022-05-04 2019 M0BKV         -15 IO70             ON8NT         -14 JO11
+QSO:   144 FT8 2022-05-04 2021 M0BKV         -13 IO70             PA3PCV        -21 JO20
+QSO:   144 FT8 2022-05-04 2025 M0BKV         -22 IO70             M0KHR         -10 IO91
+QSO:   144 FT8 2022-05-04 2026 M0BKV         -13 IO70             PA3PCV        -21 JO20
+QSO:   144 FT8 2022-05-04 2032 M0BKV         -15 IO70             MM0ABM        -10 IO75
+QSO:   144 FT8 2022-05-04 2034 M0BKV         -05 IO70             G7RAU         +03 IN79
+QSO:   144 FT8 2022-05-04 2037 M0BKV         -22 IO70             GD4SVD        -17 IO75
+QSO:   144 FT8 2022-05-04 2052 M0BKV         +04 IO70             G4RRA         -01 IO80
+QSO:   144 FT8 2022-05-04 2053 M0BKV         -12 IO70             PH2M          -16 JO22
+QSO:   144 FT8 2022-05-04 2055 M0BKV         +00 IO70             G0LGS         -02 IO81
 END-OF-LOG:

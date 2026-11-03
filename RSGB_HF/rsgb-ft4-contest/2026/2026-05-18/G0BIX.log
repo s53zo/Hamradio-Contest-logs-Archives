@@ -10,33 +10,34 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260518&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7313; excluded rows=0.
-QSO: 21142 DG 2026-05-18 1932 G0BIX         -05 -                VP8VK         +01 -
-QSO: 21142 DG 2026-05-18 1933 G0BIX         -14 -                V49B          -03 -
-QSO: 21142 DG 2026-05-18 1935 G0BIX         -16 -                TF8SM         +00 -
-QSO: 21142 DG 2026-05-18 1938 G0BIX         -07 -                JY4CH         +01 -
-QSO: 21142 DG 2026-05-18 1939 G0BIX         -09 -                PY2KC         +03 -
-QSO: 14082 DG 2026-05-18 1945 G0BIX         +21 -                LZ100LZ       +00 -
-QSO: 14082 DG 2026-05-18 1947 G0BIX         +03 -                YL3QZ         -10 -
-QSO: 14082 DG 2026-05-18 1951 G0BIX         +12 -                IZ0MIT        -18 -
-QSO: 14082 DG 2026-05-18 1951 G0BIX         +15 -                IZ0MIT        -18 -
-QSO: 14082 DG 2026-05-18 1955 G0BIX         +00 -                IU8UHK        -01 -
-QSO: 14082 DG 2026-05-18 1957 G0BIX         +10 -                SP4MPH        +05 -
-QSO: 14082 DG 2026-05-18 2003 G0BIX         -05 -                K1RO          -15 -
-QSO: 14082 DG 2026-05-18 2012 G0BIX         -11 -                VE3TXI        -04 -
-QSO:  7048 DG 2026-05-18 2015 G0BIX         -03 -                M0KNM         -19 -
-QSO:  7048 DG 2026-05-18 2017 G0BIX         +09 -                G4BTY         -01 -
-QSO:  7048 DG 2026-05-18 2018 G0BIX         +02 -                G4BTY         -01 -
-QSO:  7048 DG 2026-05-18 2019 G0BIX         +02 -                M5RJC         -05 -
-QSO:  7049 DG 2026-05-18 2022 G0BIX         +05 -                GW5P          +00 -
-QSO:  7049 DG 2026-05-18 2029 G0BIX         -02 -                MW7RHR        -12 -
-QSO:  7049 DG 2026-05-18 2030 G0BIX         +05 -                G0AJH         -01 -
-QSO:  7049 DG 2026-05-18 2035 G0BIX         -06 -                PE2K          -08 -
-QSO:  3576 DG 2026-05-18 2045 G0BIX         +10 -                G4ARI         +03 -
-QSO:  3576 DG 2026-05-18 2047 G0BIX         +07 -                DO1NJN        +07 -
-QSO:  3576 DG 2026-05-18 2052 G0BIX         +06 -                M5RJC         +05 -
-QSO:  3576 DG 2026-05-18 2053 G0BIX         +06 -                M0HWO         +02 -
-QSO:  3576 DG 2026-05-18 2054 G0BIX         +00 -                PA3I          -03 -
-QSO:  3576 DG 2026-05-18 2056 G0BIX         +00 -                DO4KT         -06 -
-QSO:  3576 DG 2026-05-18 2059 G0BIX         -04 -                G6DXY         +00 -
+QSO: 21142 FT4 2026-05-18 1932 G0BIX         -05 -                VP8VK         +01 -
+QSO: 21142 FT4 2026-05-18 1933 G0BIX         -14 -                V49B          -03 -
+QSO: 21142 FT4 2026-05-18 1935 G0BIX         -16 -                TF8SM         +00 -
+QSO: 21142 FT4 2026-05-18 1938 G0BIX         -07 -                JY4CH         +01 -
+QSO: 21142 FT4 2026-05-18 1939 G0BIX         -09 -                PY2KC         +03 -
+QSO: 14082 FT4 2026-05-18 1945 G0BIX         +21 -                LZ100LZ       +00 -
+QSO: 14082 FT4 2026-05-18 1947 G0BIX         +03 -                YL3QZ         -10 -
+QSO: 14082 FT4 2026-05-18 1951 G0BIX         +12 -                IZ0MIT        -18 -
+QSO: 14082 FT4 2026-05-18 1951 G0BIX         +15 -                IZ0MIT        -18 -
+QSO: 14082 FT4 2026-05-18 1955 G0BIX         +00 -                IU8UHK        -01 -
+QSO: 14082 FT4 2026-05-18 1957 G0BIX         +10 -                SP4MPH        +05 -
+QSO: 14082 FT4 2026-05-18 2003 G0BIX         -05 -                K1RO          -15 -
+QSO: 14082 FT4 2026-05-18 2012 G0BIX         -11 -                VE3TXI        -04 -
+QSO:  7048 FT4 2026-05-18 2015 G0BIX         -03 -                M0KNM         -19 -
+QSO:  7048 FT4 2026-05-18 2017 G0BIX         +09 -                G4BTY         -01 -
+QSO:  7048 FT4 2026-05-18 2018 G0BIX         +02 -                G4BTY         -01 -
+QSO:  7048 FT4 2026-05-18 2019 G0BIX         +02 -                M5RJC         -05 -
+QSO:  7049 FT4 2026-05-18 2022 G0BIX         +05 -                GW5P          +00 -
+QSO:  7049 FT4 2026-05-18 2029 G0BIX         -02 -                MW7RHR        -12 -
+QSO:  7049 FT4 2026-05-18 2030 G0BIX         +05 -                G0AJH         -01 -
+QSO:  7049 FT4 2026-05-18 2035 G0BIX         -06 -                PE2K          -08 -
+QSO:  3576 FT4 2026-05-18 2045 G0BIX         +10 -                G4ARI         +03 -
+QSO:  3576 FT4 2026-05-18 2047 G0BIX         +07 -                DO1NJN        +07 -
+QSO:  3576 FT4 2026-05-18 2052 G0BIX         +06 -                M5RJC         +05 -
+QSO:  3576 FT4 2026-05-18 2053 G0BIX         +06 -                M0HWO         +02 -
+QSO:  3576 FT4 2026-05-18 2054 G0BIX         +00 -                PA3I          -03 -
+QSO:  3576 FT4 2026-05-18 2056 G0BIX         +00 -                DO4KT         -06 -
+QSO:  3576 FT4 2026-05-18 2059 G0BIX         -04 -                G6DXY         +00 -
 END-OF-LOG:

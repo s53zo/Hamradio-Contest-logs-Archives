@@ -10,20 +10,21 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260727&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7916; excluded rows=0.
-QSO: 14082 DG 2026-07-27 1922 VE2GT         +01 -                K9EEH         +01 -
-QSO: 14082 DG 2026-07-27 1931 VE2GT         +03 -                AD8IO         +05 -
-QSO: 14082 DG 2026-07-27 1941 VE2GT         -09 -                HI8CQ         -09 -
-QSO: 14082 DG 2026-07-27 1945 VE2GT         -12 -                AA0AF         -10 -
-QSO: 14082 DG 2026-07-27 2002 VE2GT         +09 -                K9OM          +08 -
-QSO: 14082 DG 2026-07-27 2004 VE2GT         -03 -                KD0OIX        +18 -
-QSO: 14082 DG 2026-07-27 2008 VE2GT         +00 -                W1AW/4        -02 -
-QSO: 14082 DG 2026-07-27 2012 VE2GT         +05 -                G7L           -08 -
-QSO: 14082 DG 2026-07-27 2015 VE2GT         +03 -                K4QD          +11 -
-QSO: 14082 DG 2026-07-27 2021 VE2GT         -10 -                NO0X          -10 -
-QSO: 14082 DG 2026-07-27 2022 VE2GT         -10 -                KE4TT         -13 -
-QSO: 14082 DG 2026-07-27 2043 VE2GT         -04 -                KF0UR         -04 -
-QSO: 14082 DG 2026-07-27 2044 VE2GT         +07 -                HI8UD         -04 -
-QSO: 14082 DG 2026-07-27 2053 VE2GT         -05 -                WZ0D          -10 -
-QSO: 14082 DG 2026-07-27 2057 VE2GT         -03 -                WA9MED        -04 -
+QSO: 14082 FT4 2026-07-27 1922 VE2GT         +01 -                K9EEH         +01 -
+QSO: 14082 FT4 2026-07-27 1931 VE2GT         +03 -                AD8IO         +05 -
+QSO: 14082 FT4 2026-07-27 1941 VE2GT         -09 -                HI8CQ         -09 -
+QSO: 14082 FT4 2026-07-27 1945 VE2GT         -12 -                AA0AF         -10 -
+QSO: 14082 FT4 2026-07-27 2002 VE2GT         +09 -                K9OM          +08 -
+QSO: 14082 FT4 2026-07-27 2004 VE2GT         -03 -                KD0OIX        +18 -
+QSO: 14082 FT4 2026-07-27 2008 VE2GT         +00 -                W1AW/4        -02 -
+QSO: 14082 FT4 2026-07-27 2012 VE2GT         +05 -                G7L           -08 -
+QSO: 14082 FT4 2026-07-27 2015 VE2GT         +03 -                K4QD          +11 -
+QSO: 14082 FT4 2026-07-27 2021 VE2GT         -10 -                NO0X          -10 -
+QSO: 14082 FT4 2026-07-27 2022 VE2GT         -10 -                KE4TT         -13 -
+QSO: 14082 FT4 2026-07-27 2043 VE2GT         -04 -                KF0UR         -04 -
+QSO: 14082 FT4 2026-07-27 2044 VE2GT         +07 -                HI8UD         -04 -
+QSO: 14082 FT4 2026-07-27 2053 VE2GT         -05 -                WZ0D          -10 -
+QSO: 14082 FT4 2026-07-27 2057 VE2GT         -03 -                WA9MED        -04 -
 END-OF-LOG:

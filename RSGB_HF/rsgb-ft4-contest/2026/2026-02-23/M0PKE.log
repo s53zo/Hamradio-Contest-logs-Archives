@@ -9,11 +9,12 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO: 14081 DG 2026-02-23 2037 M0PKE         -08 -                M8HKZ         +00 -
-QSO: 14081 DG 2026-02-23 2039 M0PKE         -04 -                F4VVJ         -05 -
-QSO: 14081 DG 2026-02-23 2044 M0PKE         -16 -                M8FQT         -17 -
-QSO:  7049 DG 2026-02-23 2046 M0PKE         +10 -                DF8QB         -12 -
-QSO:  7049 DG 2026-02-23 2047 M0PKE         -11 -                9A5MTV        -08 -
-QSO:  7049 DG 2026-02-23 2058 M0PKE         +01 -                HA6NL         -05 -
+QSO: 14081 FT4 2026-02-23 2037 M0PKE         -08 -                M8HKZ         +00 -
+QSO: 14081 FT4 2026-02-23 2039 M0PKE         -04 -                F4VVJ         -05 -
+QSO: 14081 FT4 2026-02-23 2044 M0PKE         -16 -                M8FQT         -17 -
+QSO:  7049 FT4 2026-02-23 2046 M0PKE         +10 -                DF8QB         -12 -
+QSO:  7049 FT4 2026-02-23 2047 M0PKE         -11 -                9A5MTV        -08 -
+QSO:  7049 FT4 2026-02-23 2058 M0PKE         +01 -                HA6NL         -05 -
 END-OF-LOG:

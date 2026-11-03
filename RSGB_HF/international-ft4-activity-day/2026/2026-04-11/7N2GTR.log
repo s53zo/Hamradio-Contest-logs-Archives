@@ -9,11 +9,12 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO: 14081 DG 2026-04-12 0914 7N2GTR        +10 -                JA6CVR        +20 -
-QSO: 14081 DG 2026-04-12 0924 7N2GTR        -10 -                VK5JSA        -14 -
-QSO: 14081 DG 2026-04-12 0951 7N2GTR        +12 -                JA6JQV        +08 -
-QSO: 14081 DG 2026-04-12 1011 7N2GTR        -01 -                VK6WX         -08 -
-QSO: 14081 DG 2026-04-12 1027 7N2GTR        -04 -                JH1OZV        -10 -
-QSO: 14081 DG 2026-04-12 1041 7N2GTR        +12 -                JA6SUY        +02 -
+QSO: 14081 FT4 2026-04-12 0914 7N2GTR        +10 -                JA6CVR        +20 -
+QSO: 14081 FT4 2026-04-12 0924 7N2GTR        -10 -                VK5JSA        -14 -
+QSO: 14081 FT4 2026-04-12 0951 7N2GTR        +12 -                JA6JQV        +08 -
+QSO: 14081 FT4 2026-04-12 1011 7N2GTR        -01 -                VK6WX         -08 -
+QSO: 14081 FT4 2026-04-12 1027 7N2GTR        -04 -                JH1OZV        -10 -
+QSO: 14081 FT4 2026-04-12 1041 7N2GTR        +12 -                JA6SUY        +02 -
 END-OF-LOG:

@@ -9,22 +9,23 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO: 28182 DG 2026-04-11 1329 3DA0PA        -01 -                3B9FR         -07 -
-QSO: 28182 DG 2026-04-11 1337 3DA0PA        +00 -                F5NFN         +06 -
-QSO: 28182 DG 2026-04-11 1339 3DA0PA        -09 -                PD1EN         -16 -
-QSO: 28182 DG 2026-04-11 1340 3DA0PA        +10 -                IZ7MFY        -15 -
-QSO: 28182 DG 2026-04-11 1343 3DA0PA        +08 -                F5CDE         -03 -
-QSO: 28182 DG 2026-04-11 1345 3DA0PA        +13 -                IT9JNR        -04 -
-QSO: 21142 DG 2026-04-11 1353 3DA0PA        +12 -                YO4AAC        -14 -
-QSO: 21142 DG 2026-04-11 1354 3DA0PA        +09 -                SV5BYP        -15 -
-QSO: 28182 DG 2026-04-11 1359 3DA0PA        -05 -                KM2G          -06 -
-QSO: 28182 DG 2026-04-11 1400 3DA0PA        -21 -                ZS1JDF        -09 -
-QSO: 28182 DG 2026-04-11 1400 3DA0PA        +13 -                SV1CNS        -08 -
-QSO: 28182 DG 2026-04-11 1401 3DA0PA        +02 -                PY2WLM        -05 -
-QSO: 28182 DG 2026-04-11 1403 3DA0PA        +01 -                F1PBZ         -15 -
-QSO: 28182 DG 2026-04-11 1405 3DA0PA        -01 -                F6DYY         -02 -
-QSO: 28182 DG 2026-04-11 1406 3DA0PA        +04 -                IS0RVH        +03 -
-QSO: 28182 DG 2026-04-11 1407 3DA0PA        +18 -                F5LNU         +00 -
-QSO: 28182 DG 2026-04-11 1408 3DA0PA        +10 -                SV1QEW        -12 -
+QSO: 28182 FT4 2026-04-11 1329 3DA0PA        -01 -                3B9FR         -07 -
+QSO: 28182 FT4 2026-04-11 1337 3DA0PA        +00 -                F5NFN         +06 -
+QSO: 28182 FT4 2026-04-11 1339 3DA0PA        -09 -                PD1EN         -16 -
+QSO: 28182 FT4 2026-04-11 1340 3DA0PA        +10 -                IZ7MFY        -15 -
+QSO: 28182 FT4 2026-04-11 1343 3DA0PA        +08 -                F5CDE         -03 -
+QSO: 28182 FT4 2026-04-11 1345 3DA0PA        +13 -                IT9JNR        -04 -
+QSO: 21142 FT4 2026-04-11 1353 3DA0PA        +12 -                YO4AAC        -14 -
+QSO: 21142 FT4 2026-04-11 1354 3DA0PA        +09 -                SV5BYP        -15 -
+QSO: 28182 FT4 2026-04-11 1359 3DA0PA        -05 -                KM2G          -06 -
+QSO: 28182 FT4 2026-04-11 1400 3DA0PA        -21 -                ZS1JDF        -09 -
+QSO: 28182 FT4 2026-04-11 1400 3DA0PA        +13 -                SV1CNS        -08 -
+QSO: 28182 FT4 2026-04-11 1401 3DA0PA        +02 -                PY2WLM        -05 -
+QSO: 28182 FT4 2026-04-11 1403 3DA0PA        +01 -                F1PBZ         -15 -
+QSO: 28182 FT4 2026-04-11 1405 3DA0PA        -01 -                F6DYY         -02 -
+QSO: 28182 FT4 2026-04-11 1406 3DA0PA        +04 -                IS0RVH        +03 -
+QSO: 28182 FT4 2026-04-11 1407 3DA0PA        +18 -                F5LNU         +00 -
+QSO: 28182 FT4 2026-04-11 1408 3DA0PA        +10 -                SV1QEW        -12 -
 END-OF-LOG:

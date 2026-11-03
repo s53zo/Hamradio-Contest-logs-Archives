@@ -10,30 +10,30 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220504&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1793; excluded rows=0.
-QSO:   144 DG 2022-05-04 1909 G4KUX         +01 IO94             OZ1BEF        -13 JO46OE
-QSO:   144 DG 2022-05-04 1915 G4KUX         +05 IO94             PE1KL         -11 JO21
-QSO:   144 DG 2022-05-04 1928 G4KUX         +00 IO94             PD6Z          +00 JO22
-QSO:   144 DG 2022-05-04 1930 G4KUX         +06 IO94             PH0TV         -17 JO32
-QSO:   144 DG 2022-05-04 1934 G4KUX         +06 IO94             G6HIE         +07 JO00DT
-QSO:   144 DG 2022-05-04 1936 G4KUX         +15 IO94             G3XBY         +05 IO92
-QSO:   144 DG 2022-05-04 1937 G4KUX         +05 IO94             G0UYG         +20 IO93
-QSO:   144 DG 2022-05-04 1941 G4KUX         -04 IO94             EI8KN         +07 IO62
-QSO:   144 DG 2022-05-04 1946 G4KUX         -02 IO94             GM0EWX        -03 IO67
-QSO:   144 DG 2022-05-04 1947 G4KUX         -15 IO94             GS3PYE/P      -14 IO67
-QSO:   144 DG 2022-05-04 1948 G4KUX         -15 IO94             2M0MQN        -08 IO86
-QSO:   144 DG 2022-05-04 1950 G4KUX         -14 IO94             MM0ULL        +04 IO77
-QSO:   144 DG 2022-05-04 1954 G4KUX         +21 IO94             GM4DIJ        +03 IO85IW
-QSO:   144 DG 2022-05-04 1957 G4KUX         -09 IO94             G4NBS         +01 JO02AF
-QSO:   144 DG 2022-05-04 1958 G4KUX         +17 IO94             MM0CEZ        +14 IO75XU
-QSO:   144 DG 2022-05-04 2002 G4KUX         -12 IO94             GD0TEP        -11 IO74SD
-QSO:   144 DG 2022-05-04 2010 G4KUX         +18 IO94             GM1MYF        +08 IO87
-QSO:   144 DG 2022-05-04 2013 G4KUX         +00 IO94             G3YKI         -01 IO92BD
-QSO:   144 DG 2022-05-04 2028 G4KUX         +09 IO94             GI6ATZ        +11 IO74AJ
-QSO:   144 DG 2022-05-04 2030 G4KUX         -11 IO94             GI5RPG        +02 IO64
-QSO:   144 DG 2022-05-04 2032 G4KUX         +02 IO94             EI2GLB        +06 IO63MD
-QSO:   144 DG 2022-05-04 2035 G4KUX         +01 IO94             GM8MJV        +05 IO85TS
-QSO:   144 DG 2022-05-04 2038 G4KUX         -03 IO94             G7RAU         +03 IN79JX
-QSO:   144 DG 2022-05-04 2052 G4KUX         +13 IO94             G3YDY         +13 JO01FQ
+QSO:   144 FT8 2022-05-04 1909 G4KUX         +01 IO94             OZ1BEF        -13 JO46OE
+QSO:   144 FT8 2022-05-04 1915 G4KUX         +05 IO94             PE1KL         -11 JO21
+QSO:   144 FT8 2022-05-04 1928 G4KUX         +00 IO94             PD6Z          +00 JO22
+QSO:   144 FT8 2022-05-04 1930 G4KUX         +06 IO94             PH0TV         -17 JO32
+QSO:   144 FT8 2022-05-04 1934 G4KUX         +06 IO94             G6HIE         +07 JO00DT
+QSO:   144 FT8 2022-05-04 1936 G4KUX         +15 IO94             G3XBY         +05 IO92
+QSO:   144 FT8 2022-05-04 1937 G4KUX         +05 IO94             G0UYG         +20 IO93
+QSO:   144 FT8 2022-05-04 1941 G4KUX         -04 IO94             EI8KN         +07 IO62
+QSO:   144 FT8 2022-05-04 1946 G4KUX         -02 IO94             GM0EWX        -03 IO67
+QSO:   144 FT8 2022-05-04 1947 G4KUX         -15 IO94             GS3PYE/P      -14 IO67
+QSO:   144 FT8 2022-05-04 1948 G4KUX         -15 IO94             2M0MQN        -08 IO86
+QSO:   144 FT8 2022-05-04 1950 G4KUX         -14 IO94             MM0ULL        +04 IO77
+QSO:   144 FT8 2022-05-04 1954 G4KUX         +21 IO94             GM4DIJ        +03 IO85IW
+QSO:   144 FT8 2022-05-04 1957 G4KUX         -09 IO94             G4NBS         +01 JO02AF
+QSO:   144 FT8 2022-05-04 1958 G4KUX         +17 IO94             MM0CEZ        +14 IO75XU
+QSO:   144 FT8 2022-05-04 2002 G4KUX         -12 IO94             GD0TEP        -11 IO74SD
+QSO:   144 FT8 2022-05-04 2010 G4KUX         +18 IO94             GM1MYF        +08 IO87
+QSO:   144 FT8 2022-05-04 2013 G4KUX         +00 IO94             G3YKI         -01 IO92BD
+QSO:   144 FT8 2022-05-04 2028 G4KUX         +09 IO94             GI6ATZ        +11 IO74AJ
+QSO:   144 FT8 2022-05-04 2030 G4KUX         -11 IO94             GI5RPG        +02 IO64
+QSO:   144 FT8 2022-05-04 2032 G4KUX         +02 IO94             EI2GLB        +06 IO63MD
+QSO:   144 FT8 2022-05-04 2035 G4KUX         +01 IO94             GM8MJV        +05 IO85TS
+QSO:   144 FT8 2022-05-04 2038 G4KUX         -03 IO94             G7RAU         +03 IN79JX
+QSO:   144 FT8 2022-05-04 2052 G4KUX         +13 IO94             G3YDY         +13 JO01FQ
 END-OF-LOG:

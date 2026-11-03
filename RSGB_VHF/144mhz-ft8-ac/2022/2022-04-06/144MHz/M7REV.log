@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220406&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1359; excluded rows=0.
-QSO:   144 DG 2022-04-06 1901 M7REV         -09 IO82             G3XBY         +02 IO92
-QSO:   144 DG 2022-04-06 1903 M7REV         +06 IO82             G4VPD         +03 IO92
-QSO:   144 DG 2022-04-06 1905 M7REV         -07 IO82             G0FEH         -20 IO92
-QSO:   144 DG 2022-04-06 1909 M7REV         -22 IO82             OS7P          -15 JO21
-QSO:   144 DG 2022-04-06 1911 M7REV         -14 IO82             PA5PEK        -18 JO11
-QSO:   144 DG 2022-04-06 1920 M7REV         -11 IO82             G0LGS         -22 IO81
-QSO:   144 DG 2022-04-06 1928 M7REV         +08 IO82             2E1DJN        +29 IO82
-QSO:   144 DG 2022-04-06 1931 M7REV         -03 IO82             G8AOE/P       +02 IO94
-QSO:   144 DG 2022-04-06 1938 M7REV         +06 IO82             G3YKI         +15 IO82
-QSO:   144 DG 2022-04-06 1941 M7REV         -06 IO82             G0XDI         -17 IO91
-QSO:   144 DG 2022-04-06 2018 M7REV         -05 IO82             G4NBS         -08 JO02
-QSO:   144 DG 2022-04-06 2039 M7REV         -17 IO82             PE1NFT        -16 JO21
-QSO:   144 DG 2022-04-06 2055 M7REV         +16 IO82             M1NMG         +24 IO82
+QSO:   144 FT8 2022-04-06 1901 M7REV         -09 IO82             G3XBY         +02 IO92
+QSO:   144 FT8 2022-04-06 1903 M7REV         +06 IO82             G4VPD         +03 IO92
+QSO:   144 FT8 2022-04-06 1905 M7REV         -07 IO82             G0FEH         -20 IO92
+QSO:   144 FT8 2022-04-06 1909 M7REV         -22 IO82             OS7P          -15 JO21
+QSO:   144 FT8 2022-04-06 1911 M7REV         -14 IO82             PA5PEK        -18 JO11
+QSO:   144 FT8 2022-04-06 1920 M7REV         -11 IO82             G0LGS         -22 IO81
+QSO:   144 FT8 2022-04-06 1928 M7REV         +08 IO82             2E1DJN        +29 IO82
+QSO:   144 FT8 2022-04-06 1931 M7REV         -03 IO82             G8AOE/P       +02 IO94
+QSO:   144 FT8 2022-04-06 1938 M7REV         +06 IO82             G3YKI         +15 IO82
+QSO:   144 FT8 2022-04-06 1941 M7REV         -06 IO82             G0XDI         -17 IO91
+QSO:   144 FT8 2022-04-06 2018 M7REV         -05 IO82             G4NBS         -08 JO02
+QSO:   144 FT8 2022-04-06 2039 M7REV         -17 IO82             PE1NFT        -16 JO21
+QSO:   144 FT8 2022-04-06 2055 M7REV         +16 IO82             M1NMG         +24 IO82
 END-OF-LOG:

@@ -10,29 +10,29 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220105&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1458; excluded rows=0.
-QSO:   144 DG 2022-01-05 1902 M0KKM         -19 JO02             G3WAG/P       -22 IO82
-QSO:   144 DG 2022-01-05 1910 M0KKM         +04 JO02             G4YHF         +03 IO92
-QSO:   144 DG 2022-01-05 1911 M0KKM         +09 JO02             M7ICL         +12 JO02
-QSO:   144 DG 2022-01-05 1913 M0KKM         -09 JO02             G8CRB         -09 JO02
-QSO:   144 DG 2022-01-05 1917 M0KKM         -03 JO02             M7TXM         -07 IO92
-QSO:   144 DG 2022-01-05 1921 M0KKM         +00 JO02             G4GMS         -01 IO92
-QSO:   144 DG 2022-01-05 1924 M0KKM         -03 JO02             GW4FRX        -07 IO82
-QSO:   144 DG 2022-01-05 1930 M0KKM         +02 JO02             G0GLG         -04 IO91
-QSO:   144 DG 2022-01-05 1933 M0KKM         +08 JO02             G4AWP         -06 JO02
-QSO:   144 DG 2022-01-05 1934 M0KKM         +13 JO02             G1VWC         +09 IO92
-QSO:   144 DG 2022-01-05 1946 M0KKM         +02 JO02             M7TXM         -10 IO92
-QSO:   144 DG 2022-01-05 1955 M0KKM         +00 JO02             2E0DBS        -05 JO02
-QSO:   144 DG 2022-01-05 1958 M0KKM         -17 JO02             2E1SKY        -24 IO93
-QSO:   144 DG 2022-01-05 2007 M0KKM         +01 JO02             G4PDF         -06 IO93
-QSO:   144 DG 2022-01-05 2011 M0KKM         -18 JO02             G0TVJ         -10 JO01
-QSO:   144 DG 2022-01-05 2013 M0KKM         -20 JO02             M0IEP         -09 IO91
-QSO:   144 DG 2022-01-05 2016 M0KKM         -10 JO02             G7LRQ         -14 IO91
-QSO:   144 DG 2022-01-05 2020 M0KKM         -15 JO02             G0HDV         -24 IO93
-QSO:   144 DG 2022-01-05 2023 M0KKM         -19 JO02             M7APV         -10 JO01
-QSO:   144 DG 2022-01-05 2024 M0KKM         -12 JO02             M0MIZ         -13 IO91
-QSO:   144 DG 2022-01-05 2036 M0KKM         -11 JO02             G8EEM         -03 IO93
-QSO:   144 DG 2022-01-05 2041 M0KKM         +26 JO02             G4WFQ         +14 IO92
-QSO:   144 DG 2022-01-05 2048 M0KKM         -10 JO02             M0HHF         -10 IO93
+QSO:   144 FT8 2022-01-05 1902 M0KKM         -19 JO02             G3WAG/P       -22 IO82
+QSO:   144 FT8 2022-01-05 1910 M0KKM         +04 JO02             G4YHF         +03 IO92
+QSO:   144 FT8 2022-01-05 1911 M0KKM         +09 JO02             M7ICL         +12 JO02
+QSO:   144 FT8 2022-01-05 1913 M0KKM         -09 JO02             G8CRB         -09 JO02
+QSO:   144 FT8 2022-01-05 1917 M0KKM         -03 JO02             M7TXM         -07 IO92
+QSO:   144 FT8 2022-01-05 1921 M0KKM         +00 JO02             G4GMS         -01 IO92
+QSO:   144 FT8 2022-01-05 1924 M0KKM         -03 JO02             GW4FRX        -07 IO82
+QSO:   144 FT8 2022-01-05 1930 M0KKM         +02 JO02             G0GLG         -04 IO91
+QSO:   144 FT8 2022-01-05 1933 M0KKM         +08 JO02             G4AWP         -06 JO02
+QSO:   144 FT8 2022-01-05 1934 M0KKM         +13 JO02             G1VWC         +09 IO92
+QSO:   144 FT8 2022-01-05 1946 M0KKM         +02 JO02             M7TXM         -10 IO92
+QSO:   144 FT8 2022-01-05 1955 M0KKM         +00 JO02             2E0DBS        -05 JO02
+QSO:   144 FT8 2022-01-05 1958 M0KKM         -17 JO02             2E1SKY        -24 IO93
+QSO:   144 FT8 2022-01-05 2007 M0KKM         +01 JO02             G4PDF         -06 IO93
+QSO:   144 FT8 2022-01-05 2011 M0KKM         -18 JO02             G0TVJ         -10 JO01
+QSO:   144 FT8 2022-01-05 2013 M0KKM         -20 JO02             M0IEP         -09 IO91
+QSO:   144 FT8 2022-01-05 2016 M0KKM         -10 JO02             G7LRQ         -14 IO91
+QSO:   144 FT8 2022-01-05 2020 M0KKM         -15 JO02             G0HDV         -24 IO93
+QSO:   144 FT8 2022-01-05 2023 M0KKM         -19 JO02             M7APV         -10 JO01
+QSO:   144 FT8 2022-01-05 2024 M0KKM         -12 JO02             M0MIZ         -13 IO91
+QSO:   144 FT8 2022-01-05 2036 M0KKM         -11 JO02             G8EEM         -03 IO93
+QSO:   144 FT8 2022-01-05 2041 M0KKM         +26 JO02             G4WFQ         +14 IO92
+QSO:   144 FT8 2022-01-05 2048 M0KKM         -10 JO02             M0HHF         -10 IO93
 END-OF-LOG:

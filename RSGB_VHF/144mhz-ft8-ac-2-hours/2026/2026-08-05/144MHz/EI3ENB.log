@@ -10,14 +10,14 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260805&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=829; excluded rows=0.
-QSO:   144 DG 2026-08-05 1910 EI3ENB        +24 IO62             EI8KN         -10 IO62
-QSO:   144 DG 2026-08-05 1924 EI3ENB        -10 IO62             M9VGP         -20 IO91
-QSO:   144 DG 2026-08-05 1941 EI3ENB        -02 IO62             G7LRQ         -10 JO03
-QSO:   144 DG 2026-08-05 1948 EI3ENB        -01 IO62             G8CZW         -09 IO83
-QSO:   144 DG 2026-08-05 2013 EI3ENB        +00 IO62             MW0UAA        -13 IO81
-QSO:   144 DG 2026-08-05 2028 EI3ENB        -04 IO62             G3WAG/P       -20 IO82
-QSO:   144 DG 2026-08-05 2046 EI3ENB        -08 IO62             G4HGI         -12 IO83
-QSO:   144 DG 2026-08-05 2050 EI3ENB        -09 IO62             G8SEI         -17 IO92
+QSO:   144 FT8 2026-08-05 1910 EI3ENB        +24 IO62             EI8KN         -10 IO62
+QSO:   144 FT8 2026-08-05 1924 EI3ENB        -10 IO62             M9VGP         -20 IO91
+QSO:   144 FT8 2026-08-05 1941 EI3ENB        -02 IO62             G7LRQ         -10 JO03
+QSO:   144 FT8 2026-08-05 1948 EI3ENB        -01 IO62             G8CZW         -09 IO83
+QSO:   144 FT8 2026-08-05 2013 EI3ENB        +00 IO62             MW0UAA        -13 IO81
+QSO:   144 FT8 2026-08-05 2028 EI3ENB        -04 IO62             G3WAG/P       -20 IO82
+QSO:   144 FT8 2026-08-05 2046 EI3ENB        -08 IO62             G4HGI         -12 IO83
+QSO:   144 FT8 2026-08-05 2050 EI3ENB        -09 IO62             G8SEI         -17 IO92
 END-OF-LOG:

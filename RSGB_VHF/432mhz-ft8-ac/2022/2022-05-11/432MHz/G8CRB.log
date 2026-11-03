@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220511&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=885; excluded rows=0.
-QSO:   432 DG 2022-05-11 1903 G8CRB         +27 JO02             G4NBS         +29 JO02
-QSO:   432 DG 2022-05-11 1905 G8CRB         -01 JO02             PE1NYQ        -08 JO21
-QSO:   432 DG 2022-05-11 1907 G8CRB         -08 JO02             G3MXH         -09 JO02
-QSO:   432 DG 2022-05-11 1910 G8CRB         -21 JO02             M7ICL         -10 JO02
-QSO:   432 DG 2022-05-11 1917 G8CRB         -05 JO02             2E0DUE        -03 JO01
-QSO:   432 DG 2022-05-11 1920 G8CRB         +00 JO02             2E0JPO        +09 IO91
-QSO:   432 DG 2022-05-11 1924 G8CRB         -04 JO02             G3XBM         +10 JO02
-QSO:   432 DG 2022-05-11 1936 G8CRB         -13 JO02             G0JJG         -08 JO02
-QSO:   432 DG 2022-05-11 1948 G8CRB         +05 JO02             G0LBK         -02 JO03
-QSO:   432 DG 2022-05-11 1955 G8CRB         -14 JO02             G0UYG         -15 IO93
-QSO:   432 DG 2022-05-11 2007 G8CRB         -14 JO02             M0IEP         +02 IO91
-QSO:   432 DG 2022-05-11 2023 G8CRB         -15 JO02             G3YDY         -17 JO01
-QSO:   432 DG 2022-05-11 2051 G8CRB         -03 JO02             G8IFN         -04 JO01
+QSO:   432 FT8 2022-05-11 1903 G8CRB         +27 JO02             G4NBS         +29 JO02
+QSO:   432 FT8 2022-05-11 1905 G8CRB         -01 JO02             PE1NYQ        -08 JO21
+QSO:   432 FT8 2022-05-11 1907 G8CRB         -08 JO02             G3MXH         -09 JO02
+QSO:   432 FT8 2022-05-11 1910 G8CRB         -21 JO02             M7ICL         -10 JO02
+QSO:   432 FT8 2022-05-11 1917 G8CRB         -05 JO02             2E0DUE        -03 JO01
+QSO:   432 FT8 2022-05-11 1920 G8CRB         +00 JO02             2E0JPO        +09 IO91
+QSO:   432 FT8 2022-05-11 1924 G8CRB         -04 JO02             G3XBM         +10 JO02
+QSO:   432 FT8 2022-05-11 1936 G8CRB         -13 JO02             G0JJG         -08 JO02
+QSO:   432 FT8 2022-05-11 1948 G8CRB         +05 JO02             G0LBK         -02 JO03
+QSO:   432 FT8 2022-05-11 1955 G8CRB         -14 JO02             G0UYG         -15 IO93
+QSO:   432 FT8 2022-05-11 2007 G8CRB         -14 JO02             M0IEP         +02 IO91
+QSO:   432 FT8 2022-05-11 2023 G8CRB         -15 JO02             G3YDY         -17 JO01
+QSO:   432 FT8 2022-05-11 2051 G8CRB         -03 JO02             G8IFN         -04 JO01
 END-OF-LOG:

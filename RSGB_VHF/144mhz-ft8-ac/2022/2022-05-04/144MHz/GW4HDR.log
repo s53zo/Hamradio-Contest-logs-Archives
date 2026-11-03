@@ -10,23 +10,23 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220504&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1793; excluded rows=0.
-QSO:   144 DG 2022-05-04 1902 GW4HDR        -13 IO83             G0GFC         -17 IO92
-QSO:   144 DG 2022-05-04 1905 GW4HDR        -13 IO83             M0TMR         -14 IO93
-QSO:   144 DG 2022-05-04 1907 GW4HDR        -05 IO83             G0TFD         -08 IO82
-QSO:   144 DG 2022-05-04 1914 GW4HDR        +11 IO83             G4EII         -12 IO83
-QSO:   144 DG 2022-05-04 1915 GW4HDR        -09 IO83             GD4SVD        -12 IO74
-QSO:   144 DG 2022-05-04 1925 GW4HDR        -12 IO83             G7SET/P       -10 IO82
-QSO:   144 DG 2022-05-04 1927 GW4HDR        -18 IO83             G4ENZ         -12 IO81
-QSO:   144 DG 2022-05-04 1930 GW4HDR        -16 IO83             G8AOE/P       -10 IO94
-QSO:   144 DG 2022-05-04 1936 GW4HDR        -10 IO83             G1WYA         -11 IO83
-QSO:   144 DG 2022-05-04 1940 GW4HDR        -05 IO83             MI0IHH        -16 IO74
-QSO:   144 DG 2022-05-04 1943 GW4HDR        -02 IO83             G7WKX/P       +12 IO83
-QSO:   144 DG 2022-05-04 1944 GW4HDR        -14 IO83             G3YKI         -19 IO82
-QSO:   144 DG 2022-05-04 1947 GW4HDR        -07 IO83             EI2GLB        -13 IO63
-QSO:   144 DG 2022-05-04 1954 GW4HDR        -10 IO83             GI5RPG        -24 IO64
-QSO:   144 DG 2022-05-04 2004 GW4HDR        -06 IO83             GD6ICR        -06 IO74
-QSO:   144 DG 2022-05-04 2008 GW4HDR        +02 IO83             GD0TEP        -15 IO74
-QSO:   144 DG 2022-05-04 2048 GW4HDR        -10 IO83             G0FEH         -24 IO92
+QSO:   144 FT8 2022-05-04 1902 GW4HDR        -13 IO83             G0GFC         -17 IO92
+QSO:   144 FT8 2022-05-04 1905 GW4HDR        -13 IO83             M0TMR         -14 IO93
+QSO:   144 FT8 2022-05-04 1907 GW4HDR        -05 IO83             G0TFD         -08 IO82
+QSO:   144 FT8 2022-05-04 1914 GW4HDR        +11 IO83             G4EII         -12 IO83
+QSO:   144 FT8 2022-05-04 1915 GW4HDR        -09 IO83             GD4SVD        -12 IO74
+QSO:   144 FT8 2022-05-04 1925 GW4HDR        -12 IO83             G7SET/P       -10 IO82
+QSO:   144 FT8 2022-05-04 1927 GW4HDR        -18 IO83             G4ENZ         -12 IO81
+QSO:   144 FT8 2022-05-04 1930 GW4HDR        -16 IO83             G8AOE/P       -10 IO94
+QSO:   144 FT8 2022-05-04 1936 GW4HDR        -10 IO83             G1WYA         -11 IO83
+QSO:   144 FT8 2022-05-04 1940 GW4HDR        -05 IO83             MI0IHH        -16 IO74
+QSO:   144 FT8 2022-05-04 1943 GW4HDR        -02 IO83             G7WKX/P       +12 IO83
+QSO:   144 FT8 2022-05-04 1944 GW4HDR        -14 IO83             G3YKI         -19 IO82
+QSO:   144 FT8 2022-05-04 1947 GW4HDR        -07 IO83             EI2GLB        -13 IO63
+QSO:   144 FT8 2022-05-04 1954 GW4HDR        -10 IO83             GI5RPG        -24 IO64
+QSO:   144 FT8 2022-05-04 2004 GW4HDR        -06 IO83             GD6ICR        -06 IO74
+QSO:   144 FT8 2022-05-04 2008 GW4HDR        +02 IO83             GD0TEP        -15 IO74
+QSO:   144 FT8 2022-05-04 2048 GW4HDR        -10 IO83             G0FEH         -24 IO92
 END-OF-LOG:

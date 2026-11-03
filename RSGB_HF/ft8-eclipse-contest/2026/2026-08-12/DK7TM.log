@@ -9,38 +9,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT8+Eclipse+Contest&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1873; excluded rows=0.
-QSO:  7076 DG 2026-08-12 1632 DK7TM         -10 -                G6DXY         -03 -
-QSO:  7076 DG 2026-08-12 1634 DK7TM         -04 -                PI4VPO        -06 -
-QSO:  7076 DG 2026-08-12 1639 DK7TM         -12 -                SQ9M          -04 -
-QSO:  7076 DG 2026-08-12 1640 DK7TM         - -                  M0CTP         - -
-QSO:  7076 DG 2026-08-12 1641 DK7TM         -02 -                OE/DG3FAW     +09 -
-QSO:  7076 DG 2026-08-12 1643 DK7TM         -17 -                G7RDX         -01 -
-QSO:  7076 DG 2026-08-12 1645 DK7TM         -15 -                HA1ZW         -04 -
-QSO:  7076 DG 2026-08-12 1647 DK7TM         -23 -                G0CER         -15 -
-QSO:  7076 DG 2026-08-12 1651 DK7TM         -06 -                PC4H          -14 -
-QSO:  7076 DG 2026-08-12 1654 DK7TM         -19 -                G8YPE         -05 -
-QSO:  7076 DG 2026-08-12 1654 DK7TM         - -                  G8YPE         -05 -
-QSO:  7076 DG 2026-08-12 1657 DK7TM         +02 -                DA2DA         -01 -
-QSO:  7076 DG 2026-08-12 1659 DK7TM         -06 -                PA2IP         -01 -
-QSO:  7076 DG 2026-08-12 1701 DK7TM         -08 -                2E0LMA        -08 -
-QSO:  7076 DG 2026-08-12 1703 DK7TM         -05 -                DL9FA         -03 -
-QSO:  7076 DG 2026-08-12 1706 DK7TM         -06 -                G0HSP         -12 -
-QSO:  7076 DG 2026-08-12 1710 DK7TM         -02 -                9A3ST         -03 -
-QSO:  7076 DG 2026-08-12 1712 DK7TM         -10 -                F5MYH         -03 -
-QSO:  7076 DG 2026-08-12 1718 DK7TM         -15 -                LY3I          -10 -
-QSO:  7076 DG 2026-08-12 1728 DK7TM         -06 -                GW8DX         -01 -
-QSO:  7076 DG 2026-08-12 1730 DK7TM         +22 -                DL4ME         +09 -
-QSO:  7076 DG 2026-08-12 1732 DK7TM         -07 -                G6P           +07 -
-QSO:  7076 DG 2026-08-12 1733 DK7TM         -13 -                SP7SZJ        -09 -
-QSO:  7076 DG 2026-08-12 1735 DK7TM         -05 -                ON6AT         -03 -
-QSO:  7076 DG 2026-08-12 1738 DK7TM         -11 -                GM5G          -05 -
-QSO:  7076 DG 2026-08-12 1741 DK7TM         -18 -                MW7RHR        -07 -
-QSO:  7076 DG 2026-08-12 1743 DK7TM         -11 -                4X5MZ         -19 -
-QSO:  7076 DG 2026-08-12 1747 DK7TM         -11 -                PD0MNO        -04 -
-QSO:  7076 DG 2026-08-12 1757 DK7TM         -12 -                SV9QWC        -12 -
-QSO:  7076 DG 2026-08-12 1800 DK7TM         -15 -                MW7RHR        -09 -
-QSO:  7076 DG 2026-08-12 1808 DK7TM         -12 -                ON7IO         -13 -
-QSO:  7076 DG 2026-08-12 1817 DK7TM         -06 -                YL3CU         -10 -
-QSO:  7076 DG 2026-08-12 1827 DK7TM         -08 -                IZ5MMT        -04 -
+QSO:  7076 FT8 2026-08-12 1632 DK7TM         -10 -                G6DXY         -03 -
+QSO:  7076 FT8 2026-08-12 1634 DK7TM         -04 -                PI4VPO        -06 -
+QSO:  7076 FT8 2026-08-12 1639 DK7TM         -12 -                SQ9M          -04 -
+QSO:  7076 FT8 2026-08-12 1640 DK7TM         - -                  M0CTP         - -
+QSO:  7076 FT8 2026-08-12 1641 DK7TM         -02 -                OE/DG3FAW     +09 -
+QSO:  7076 FT8 2026-08-12 1643 DK7TM         -17 -                G7RDX         -01 -
+QSO:  7076 FT8 2026-08-12 1645 DK7TM         -15 -                HA1ZW         -04 -
+QSO:  7076 FT8 2026-08-12 1647 DK7TM         -23 -                G0CER         -15 -
+QSO:  7076 FT8 2026-08-12 1651 DK7TM         -06 -                PC4H          -14 -
+QSO:  7076 FT8 2026-08-12 1654 DK7TM         -19 -                G8YPE         -05 -
+QSO:  7076 FT8 2026-08-12 1654 DK7TM         - -                  G8YPE         -05 -
+QSO:  7076 FT8 2026-08-12 1657 DK7TM         +02 -                DA2DA         -01 -
+QSO:  7076 FT8 2026-08-12 1659 DK7TM         -06 -                PA2IP         -01 -
+QSO:  7076 FT8 2026-08-12 1701 DK7TM         -08 -                2E0LMA        -08 -
+QSO:  7076 FT8 2026-08-12 1703 DK7TM         -05 -                DL9FA         -03 -
+QSO:  7076 FT8 2026-08-12 1706 DK7TM         -06 -                G0HSP         -12 -
+QSO:  7076 FT8 2026-08-12 1710 DK7TM         -02 -                9A3ST         -03 -
+QSO:  7076 FT8 2026-08-12 1712 DK7TM         -10 -                F5MYH         -03 -
+QSO:  7076 FT8 2026-08-12 1718 DK7TM         -15 -                LY3I          -10 -
+QSO:  7076 FT8 2026-08-12 1728 DK7TM         -06 -                GW8DX         -01 -
+QSO:  7076 FT8 2026-08-12 1730 DK7TM         +22 -                DL4ME         +09 -
+QSO:  7076 FT8 2026-08-12 1732 DK7TM         -07 -                G6P           +07 -
+QSO:  7076 FT8 2026-08-12 1733 DK7TM         -13 -                SP7SZJ        -09 -
+QSO:  7076 FT8 2026-08-12 1735 DK7TM         -05 -                ON6AT         -03 -
+QSO:  7076 FT8 2026-08-12 1738 DK7TM         -11 -                GM5G          -05 -
+QSO:  7076 FT8 2026-08-12 1741 DK7TM         -18 -                MW7RHR        -07 -
+QSO:  7076 FT8 2026-08-12 1743 DK7TM         -11 -                4X5MZ         -19 -
+QSO:  7076 FT8 2026-08-12 1747 DK7TM         -11 -                PD0MNO        -04 -
+QSO:  7076 FT8 2026-08-12 1757 DK7TM         -12 -                SV9QWC        -12 -
+QSO:  7076 FT8 2026-08-12 1800 DK7TM         -15 -                MW7RHR        -09 -
+QSO:  7076 FT8 2026-08-12 1808 DK7TM         -12 -                ON7IO         -13 -
+QSO:  7076 FT8 2026-08-12 1817 DK7TM         -06 -                YL3CU         -10 -
+QSO:  7076 FT8 2026-08-12 1827 DK7TM         -08 -                IZ5MMT        -04 -
 END-OF-LOG:

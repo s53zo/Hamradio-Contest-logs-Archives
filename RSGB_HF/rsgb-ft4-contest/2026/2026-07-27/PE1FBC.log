@@ -10,37 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260727&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7916; excluded rows=0.
-QSO:  7049 DG 2026-07-27 1912 PE1FBC        +17 -                PA0GSP        +07 -
-QSO:  7049 DG 2026-07-27 1914 PE1FBC        +04 -                G3EFG         -07 -
-QSO:  7049 DG 2026-07-27 1915 PE1FBC        +12 -                DL5LS         +15 -
-QSO:  7049 DG 2026-07-27 1918 PE1FBC        -07 -                IN3OWY        +03 -
-QSO:  7049 DG 2026-07-27 1919 PE1FBC        -02 -                DK2OY         +06 -
-QSO:  7049 DG 2026-07-27 1919 PE1FBC        +06 -                G0ORE         -09 -
-QSO:  7050 DG 2026-07-27 1921 PE1FBC        -04 -                PA3DZM        +13 -
-QSO:  7050 DG 2026-07-27 1922 PE1FBC        -02 -                PC4H          +01 -
-QSO:  7050 DG 2026-07-27 1923 PE1FBC        -07 -                SV2AOB        -10 -
-QSO:  7050 DG 2026-07-27 1925 PE1FBC        -08 -                DK2MAX        +00 -
-QSO:  7050 DG 2026-07-27 1927 PE1FBC        +00 -                DG7FBB        +07 -
-QSO:  7050 DG 2026-07-27 1928 PE1FBC        -01 -                G4ARI         +10 -
-QSO:  7050 DG 2026-07-27 1930 PE1FBC        +10 -                PA2REH        +07 -
-QSO:  7050 DG 2026-07-27 1930 PE1FBC        +00 -                M0KNM         -06 -
-QSO:  7050 DG 2026-07-27 1931 PE1FBC        -03 -                8S2A          +03 -
-QSO:  7050 DG 2026-07-27 1934 PE1FBC        +08 -                G4DBW         +10 -
-QSO:  7050 DG 2026-07-27 1937 PE1FBC        +06 -                SE6K          +26 -
-QSO:  7050 DG 2026-07-27 1937 PE1FBC        +11 -                G4OZG         +09 -
-QSO:  7050 DG 2026-07-27 1938 PE1FBC        +06 -                G3XWH         +07 -
-QSO:  7050 DG 2026-07-27 1939 PE1FBC        +06 -                PA4GDR        +17 -
-QSO:  7050 DG 2026-07-27 1940 PE1FBC        +08 -                G1WOV         +05 -
-QSO:  7050 DG 2026-07-27 1943 PE1FBC        +00 -                M0KNM         -03 -
-QSO:  7050 DG 2026-07-27 1946 PE1FBC        -10 -                SV2FNT        -13 -
-QSO:  7050 DG 2026-07-27 1948 PE1FBC        -02 -                M0JQT         +06 -
-QSO:  7050 DG 2026-07-27 1949 PE1FBC        +05 -                PE2K          +00 -
-QSO:  7050 DG 2026-07-27 1951 PE1FBC        +14 -                PA3AGN        +05 -
-QSO:  7049 DG 2026-07-27 1955 PE1FBC        +08 -                PF1B          +07 -
-QSO:  7049 DG 2026-07-27 1956 PE1FBC        +10 -                M5BBB         +10 -
-QSO:  7049 DG 2026-07-27 1957 PE1FBC        -11 -                M0KKM         +06 -
-QSO:  7049 DG 2026-07-27 1958 PE1FBC        +03 -                G7NJX         -01 -
-QSO:  7049 DG 2026-07-27 2000 PE1FBC        +13 -                PA2A          +11 -
-QSO:  7049 DG 2026-07-27 2003 PE1FBC        +01 -                GW4JBQ        -03 -
+QSO:  7049 FT4 2026-07-27 1912 PE1FBC        +17 -                PA0GSP        +07 -
+QSO:  7049 FT4 2026-07-27 1914 PE1FBC        +04 -                G3EFG         -07 -
+QSO:  7049 FT4 2026-07-27 1915 PE1FBC        +12 -                DL5LS         +15 -
+QSO:  7049 FT4 2026-07-27 1918 PE1FBC        -07 -                IN3OWY        +03 -
+QSO:  7049 FT4 2026-07-27 1919 PE1FBC        -02 -                DK2OY         +06 -
+QSO:  7049 FT4 2026-07-27 1919 PE1FBC        +06 -                G0ORE         -09 -
+QSO:  7050 FT4 2026-07-27 1921 PE1FBC        -04 -                PA3DZM        +13 -
+QSO:  7050 FT4 2026-07-27 1922 PE1FBC        -02 -                PC4H          +01 -
+QSO:  7050 FT4 2026-07-27 1923 PE1FBC        -07 -                SV2AOB        -10 -
+QSO:  7050 FT4 2026-07-27 1925 PE1FBC        -08 -                DK2MAX        +00 -
+QSO:  7050 FT4 2026-07-27 1927 PE1FBC        +00 -                DG7FBB        +07 -
+QSO:  7050 FT4 2026-07-27 1928 PE1FBC        -01 -                G4ARI         +10 -
+QSO:  7050 FT4 2026-07-27 1930 PE1FBC        +10 -                PA2REH        +07 -
+QSO:  7050 FT4 2026-07-27 1930 PE1FBC        +00 -                M0KNM         -06 -
+QSO:  7050 FT4 2026-07-27 1931 PE1FBC        -03 -                8S2A          +03 -
+QSO:  7050 FT4 2026-07-27 1934 PE1FBC        +08 -                G4DBW         +10 -
+QSO:  7050 FT4 2026-07-27 1937 PE1FBC        +06 -                SE6K          +26 -
+QSO:  7050 FT4 2026-07-27 1937 PE1FBC        +11 -                G4OZG         +09 -
+QSO:  7050 FT4 2026-07-27 1938 PE1FBC        +06 -                G3XWH         +07 -
+QSO:  7050 FT4 2026-07-27 1939 PE1FBC        +06 -                PA4GDR        +17 -
+QSO:  7050 FT4 2026-07-27 1940 PE1FBC        +08 -                G1WOV         +05 -
+QSO:  7050 FT4 2026-07-27 1943 PE1FBC        +00 -                M0KNM         -03 -
+QSO:  7050 FT4 2026-07-27 1946 PE1FBC        -10 -                SV2FNT        -13 -
+QSO:  7050 FT4 2026-07-27 1948 PE1FBC        -02 -                M0JQT         +06 -
+QSO:  7050 FT4 2026-07-27 1949 PE1FBC        +05 -                PE2K          +00 -
+QSO:  7050 FT4 2026-07-27 1951 PE1FBC        +14 -                PA3AGN        +05 -
+QSO:  7049 FT4 2026-07-27 1955 PE1FBC        +08 -                PF1B          +07 -
+QSO:  7049 FT4 2026-07-27 1956 PE1FBC        +10 -                M5BBB         +10 -
+QSO:  7049 FT4 2026-07-27 1957 PE1FBC        -11 -                M0KKM         +06 -
+QSO:  7049 FT4 2026-07-27 1958 PE1FBC        +03 -                G7NJX         -01 -
+QSO:  7049 FT4 2026-07-27 2000 PE1FBC        +13 -                PA2A          +11 -
+QSO:  7049 FT4 2026-07-27 2003 PE1FBC        +01 -                GW4JBQ        -03 -
 END-OF-LOG:

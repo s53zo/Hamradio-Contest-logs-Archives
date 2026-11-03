@@ -10,44 +10,44 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220706&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1581; excluded rows=0.
-QSO:   144 DG 2022-07-06 1900 G8EEM         +00 IO93             G4PDF         -23 IO93
-QSO:   144 DG 2022-07-06 1903 G8EEM         -16 IO93             PH2M          -16 JO22
-QSO:   144 DG 2022-07-06 1905 G8EEM         +08 IO93             G8AOE/P       +11 IO94
-QSO:   144 DG 2022-07-06 1906 G8EEM         -14 IO93             G0ISX         -13 IO93
-QSO:   144 DG 2022-07-06 1907 G8EEM         -12 IO93             PD7RON        -13 JO22
-QSO:   144 DG 2022-07-06 1912 G8EEM         +29 IO93             G4FBA         +20 IO93
-QSO:   144 DG 2022-07-06 1914 G8EEM         -21 IO93             M1EYP         -11 IO83
-QSO:   144 DG 2022-07-06 1921 G8EEM         +07 IO93             GM8MJV        -07 IO85
-QSO:   144 DG 2022-07-06 1927 G8EEM         -23 IO93             G3WZK         -07 IO91
-QSO:   144 DG 2022-07-06 1928 G8EEM         +05 IO93             G8CRB         -05 JO02
-QSO:   144 DG 2022-07-06 1930 G8EEM         -07 IO93             MM0ABM        -06 IO75
-QSO:   144 DG 2022-07-06 1932 G8EEM         -11 IO93             G7KHV         -09 IO93
-QSO:   144 DG 2022-07-06 1935 G8EEM         -10 IO93             G6HIE         -03 JO00
-QSO:   144 DG 2022-07-06 1937 G8EEM         +00 IO93             G3YDY         +06 JO01
-QSO:   144 DG 2022-07-06 1938 G8EEM         -13 IO93             DB5KN         -08 JO31
-QSO:   144 DG 2022-07-06 1942 G8EEM         +04 IO93             G3OVH         -12 IO92
-QSO:   144 DG 2022-07-06 1946 G8EEM         -05 IO93             G0LGS         -01 IO81
-QSO:   144 DG 2022-07-06 1950 G8EEM         -07 IO93             G3XBY         -14 IO92
-QSO:   144 DG 2022-07-06 1955 G8EEM         -12 IO93             G0KLD         -24 IO83
-QSO:   144 DG 2022-07-06 1957 G8EEM         -01 IO93             EI8KN         +10 IO62
-QSO:   144 DG 2022-07-06 1958 G8EEM         +18 IO93             G4YTM         +20 IO93
-QSO:   144 DG 2022-07-06 2000 G8EEM         +17 IO93             MM0CEZ        +09 IO75
-QSO:   144 DG 2022-07-06 2003 G8EEM         -18 IO93             M7REV         -12 IO82
-QSO:   144 DG 2022-07-06 2004 G8EEM         -07 IO93             G3ZGZ         -07 IO83
-QSO:   144 DG 2022-07-06 2005 G8EEM         +09 IO93             G4RQI         +16 IO93
-QSO:   144 DG 2022-07-06 2009 G8EEM         -24 IO93             G0ISX         -03 IO93
-QSO:   144 DG 2022-07-06 2011 G8EEM         -24 IO93             2E0SNB        -18 IO91
-QSO:   144 DG 2022-07-06 2011 G8EEM         -24 IO93             GM8IEM        -25 IO78
-QSO:   144 DG 2022-07-06 2017 G8EEM         -04 IO93             GW4FRX        +14 IO82
-QSO:   144 DG 2022-07-06 2019 G8EEM         +17 IO93             G7COU         +30 IO93
-QSO:   144 DG 2022-07-06 2020 G8EEM         +06 IO93             G7LRQ         +04 IO91
-QSO:   144 DG 2022-07-06 2023 G8EEM         -03 IO93             G0XDI         -02 IO91
-QSO:   144 DG 2022-07-06 2026 G8EEM         -08 IO93             PA8KM         +03 JO32
-QSO:   144 DG 2022-07-06 2029 G8EEM         -18 IO93             PE4A          -08 JO22
-QSO:   144 DG 2022-07-06 2038 G8EEM         -15 IO93             OS7P          -24 JO21
-QSO:   144 DG 2022-07-06 2041 G8EEM         -24 IO93             G4NBS         -02 JO02
-QSO:   144 DG 2022-07-06 2045 G8EEM         -10 IO93             G0HDV         +07 IO93
-QSO:   144 DG 2022-07-06 2047 G8EEM         -03 IO93             GI6ATZ        -16 IO74
+QSO:   144 FT8 2022-07-06 1900 G8EEM         +00 IO93             G4PDF         -23 IO93
+QSO:   144 FT8 2022-07-06 1903 G8EEM         -16 IO93             PH2M          -16 JO22
+QSO:   144 FT8 2022-07-06 1905 G8EEM         +08 IO93             G8AOE/P       +11 IO94
+QSO:   144 FT8 2022-07-06 1906 G8EEM         -14 IO93             G0ISX         -13 IO93
+QSO:   144 FT8 2022-07-06 1907 G8EEM         -12 IO93             PD7RON        -13 JO22
+QSO:   144 FT8 2022-07-06 1912 G8EEM         +29 IO93             G4FBA         +20 IO93
+QSO:   144 FT8 2022-07-06 1914 G8EEM         -21 IO93             M1EYP         -11 IO83
+QSO:   144 FT8 2022-07-06 1921 G8EEM         +07 IO93             GM8MJV        -07 IO85
+QSO:   144 FT8 2022-07-06 1927 G8EEM         -23 IO93             G3WZK         -07 IO91
+QSO:   144 FT8 2022-07-06 1928 G8EEM         +05 IO93             G8CRB         -05 JO02
+QSO:   144 FT8 2022-07-06 1930 G8EEM         -07 IO93             MM0ABM        -06 IO75
+QSO:   144 FT8 2022-07-06 1932 G8EEM         -11 IO93             G7KHV         -09 IO93
+QSO:   144 FT8 2022-07-06 1935 G8EEM         -10 IO93             G6HIE         -03 JO00
+QSO:   144 FT8 2022-07-06 1937 G8EEM         +00 IO93             G3YDY         +06 JO01
+QSO:   144 FT8 2022-07-06 1938 G8EEM         -13 IO93             DB5KN         -08 JO31
+QSO:   144 FT8 2022-07-06 1942 G8EEM         +04 IO93             G3OVH         -12 IO92
+QSO:   144 FT8 2022-07-06 1946 G8EEM         -05 IO93             G0LGS         -01 IO81
+QSO:   144 FT8 2022-07-06 1950 G8EEM         -07 IO93             G3XBY         -14 IO92
+QSO:   144 FT8 2022-07-06 1955 G8EEM         -12 IO93             G0KLD         -24 IO83
+QSO:   144 FT8 2022-07-06 1957 G8EEM         -01 IO93             EI8KN         +10 IO62
+QSO:   144 FT8 2022-07-06 1958 G8EEM         +18 IO93             G4YTM         +20 IO93
+QSO:   144 FT8 2022-07-06 2000 G8EEM         +17 IO93             MM0CEZ        +09 IO75
+QSO:   144 FT8 2022-07-06 2003 G8EEM         -18 IO93             M7REV         -12 IO82
+QSO:   144 FT8 2022-07-06 2004 G8EEM         -07 IO93             G3ZGZ         -07 IO83
+QSO:   144 FT8 2022-07-06 2005 G8EEM         +09 IO93             G4RQI         +16 IO93
+QSO:   144 FT8 2022-07-06 2009 G8EEM         -24 IO93             G0ISX         -03 IO93
+QSO:   144 FT8 2022-07-06 2011 G8EEM         -24 IO93             2E0SNB        -18 IO91
+QSO:   144 FT8 2022-07-06 2011 G8EEM         -24 IO93             GM8IEM        -25 IO78
+QSO:   144 FT8 2022-07-06 2017 G8EEM         -04 IO93             GW4FRX        +14 IO82
+QSO:   144 FT8 2022-07-06 2019 G8EEM         +17 IO93             G7COU         +30 IO93
+QSO:   144 FT8 2022-07-06 2020 G8EEM         +06 IO93             G7LRQ         +04 IO91
+QSO:   144 FT8 2022-07-06 2023 G8EEM         -03 IO93             G0XDI         -02 IO91
+QSO:   144 FT8 2022-07-06 2026 G8EEM         -08 IO93             PA8KM         +03 JO32
+QSO:   144 FT8 2022-07-06 2029 G8EEM         -18 IO93             PE4A          -08 JO22
+QSO:   144 FT8 2022-07-06 2038 G8EEM         -15 IO93             OS7P          -24 JO21
+QSO:   144 FT8 2022-07-06 2041 G8EEM         -24 IO93             G4NBS         -02 JO02
+QSO:   144 FT8 2022-07-06 2045 G8EEM         -10 IO93             G0HDV         +07 IO93
+QSO:   144 FT8 2022-07-06 2047 G8EEM         -03 IO93             GI6ATZ        -16 IO74
 END-OF-LOG:

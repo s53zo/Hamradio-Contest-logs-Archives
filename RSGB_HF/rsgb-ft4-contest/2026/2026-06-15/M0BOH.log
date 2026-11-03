@@ -10,36 +10,37 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260615&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=8047; excluded rows=0.
-QSO: 14081 DG 2026-06-15 1901 M0BOH         +08 -                DK4RH         +04 -
-QSO: 14081 DG 2026-06-15 1904 M0BOH         -01 -                F4HER         -13 -
-QSO: 14081 DG 2026-06-15 1908 M0BOH         +06 -                II3RPAD       -10 -
-QSO: 14081 DG 2026-06-15 1909 M0BOH         +13 -                F4DIA         +13 -
-QSO: 21141 DG 2026-06-15 1912 M0BOH         +03 -                IQ0VT         +17 -
-QSO: 21141 DG 2026-06-15 1913 M0BOH         +08 -                UR3QCB        +17 -
-QSO: 21141 DG 2026-06-15 1914 M0BOH         +03 -                PY5AMF        -03 -
-QSO: 21141 DG 2026-06-15 1927 M0BOH         +05 -                R7BO          -10 -
-QSO: 21141 DG 2026-06-15 1930 M0BOH         +06 -                SP4MPH        -09 -
-QSO: 21141 DG 2026-06-15 1931 M0BOH         +06 -                M8DEF         +13 -
-QSO: 14081 DG 2026-06-15 1934 M0BOH         +03 -                YO4NF         -06 -
-QSO: 14081 DG 2026-06-15 1935 M0BOH         +05 -                IQ5AAR        -09 -
-QSO: 14081 DG 2026-06-15 1939 M0BOH         -01 -                IU2LZV        -09 -
-QSO: 21141 DG 2026-06-15 1946 M0BOH         +03 -                N3KLJ         -08 -
-QSO: 21141 DG 2026-06-15 1949 M0BOH         +13 -                SP5IDR        +07 -
-QSO: 21141 DG 2026-06-15 1951 M0BOH         +13 -                OK2USM        +00 -
-QSO: 21141 DG 2026-06-15 1954 M0BOH         +01 -                W8PP          -01 -
-QSO: 21141 DG 2026-06-15 1955 M0BOH         +07 -                SP2EWQ        -01 -
-QSO: 21141 DG 2026-06-15 1959 M0BOH         +02 -                I4HRH         +01 -
-QSO: 21141 DG 2026-06-15 2000 M0BOH         +03 -                UR3QCB        -06 -
-QSO: 21141 DG 2026-06-15 2004 M0BOH         -05 -                JA2UBD        -03 -
-QSO: 21141 DG 2026-06-15 2007 M0BOH         +17 -                CT7AUT        +15 -
-QSO: 21141 DG 2026-06-15 2009 M0BOH         +16 -                K1WY          +15 -
-QSO: 14081 DG 2026-06-15 2016 M0BOH         -02 -                S55X          -09 -
-QSO: 14081 DG 2026-06-15 2019 M0BOH         +04 -                TF3IG         -08 -
-QSO: 14081 DG 2026-06-15 2021 M0BOH         +10 -                SP9EIA        +03 -
-QSO: 21141 DG 2026-06-15 2028 M0BOH         +04 -                KF8DZR        +04 -
-QSO: 21141 DG 2026-06-15 2033 M0BOH         +12 -                AH2O          +13 -
-QSO: 21141 DG 2026-06-15 2036 M0BOH         +06 -                CT2IBL        -01 -
-QSO: 14081 DG 2026-06-15 2043 M0BOH         +04 -                IU4PPL        +07 -
-QSO: 14081 DG 2026-06-15 2047 M0BOH         +02 -                F5SJC         -05 -
+QSO: 14081 FT4 2026-06-15 1901 M0BOH         +08 -                DK4RH         +04 -
+QSO: 14081 FT4 2026-06-15 1904 M0BOH         -01 -                F4HER         -13 -
+QSO: 14081 FT4 2026-06-15 1908 M0BOH         +06 -                II3RPAD       -10 -
+QSO: 14081 FT4 2026-06-15 1909 M0BOH         +13 -                F4DIA         +13 -
+QSO: 21141 FT4 2026-06-15 1912 M0BOH         +03 -                IQ0VT         +17 -
+QSO: 21141 FT4 2026-06-15 1913 M0BOH         +08 -                UR3QCB        +17 -
+QSO: 21141 FT4 2026-06-15 1914 M0BOH         +03 -                PY5AMF        -03 -
+QSO: 21141 FT4 2026-06-15 1927 M0BOH         +05 -                R7BO          -10 -
+QSO: 21141 FT4 2026-06-15 1930 M0BOH         +06 -                SP4MPH        -09 -
+QSO: 21141 FT4 2026-06-15 1931 M0BOH         +06 -                M8DEF         +13 -
+QSO: 14081 FT4 2026-06-15 1934 M0BOH         +03 -                YO4NF         -06 -
+QSO: 14081 FT4 2026-06-15 1935 M0BOH         +05 -                IQ5AAR        -09 -
+QSO: 14081 FT4 2026-06-15 1939 M0BOH         -01 -                IU2LZV        -09 -
+QSO: 21141 FT4 2026-06-15 1946 M0BOH         +03 -                N3KLJ         -08 -
+QSO: 21141 FT4 2026-06-15 1949 M0BOH         +13 -                SP5IDR        +07 -
+QSO: 21141 FT4 2026-06-15 1951 M0BOH         +13 -                OK2USM        +00 -
+QSO: 21141 FT4 2026-06-15 1954 M0BOH         +01 -                W8PP          -01 -
+QSO: 21141 FT4 2026-06-15 1955 M0BOH         +07 -                SP2EWQ        -01 -
+QSO: 21141 FT4 2026-06-15 1959 M0BOH         +02 -                I4HRH         +01 -
+QSO: 21141 FT4 2026-06-15 2000 M0BOH         +03 -                UR3QCB        -06 -
+QSO: 21141 FT4 2026-06-15 2004 M0BOH         -05 -                JA2UBD        -03 -
+QSO: 21141 FT4 2026-06-15 2007 M0BOH         +17 -                CT7AUT        +15 -
+QSO: 21141 FT4 2026-06-15 2009 M0BOH         +16 -                K1WY          +15 -
+QSO: 14081 FT4 2026-06-15 2016 M0BOH         -02 -                S55X          -09 -
+QSO: 14081 FT4 2026-06-15 2019 M0BOH         +04 -                TF3IG         -08 -
+QSO: 14081 FT4 2026-06-15 2021 M0BOH         +10 -                SP9EIA        +03 -
+QSO: 21141 FT4 2026-06-15 2028 M0BOH         +04 -                KF8DZR        +04 -
+QSO: 21141 FT4 2026-06-15 2033 M0BOH         +12 -                AH2O          +13 -
+QSO: 21141 FT4 2026-06-15 2036 M0BOH         +06 -                CT2IBL        -01 -
+QSO: 14081 FT4 2026-06-15 2043 M0BOH         +04 -                IU4PPL        +07 -
+QSO: 14081 FT4 2026-06-15 2047 M0BOH         +02 -                F5SJC         -05 -
 END-OF-LOG:

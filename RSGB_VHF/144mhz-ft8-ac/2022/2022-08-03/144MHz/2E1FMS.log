@@ -10,39 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220803&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1776; excluded rows=3.
-QSO:   144 DG 2022-08-03 1902 2E1FMS        -16 IO82             G8EEM         -19 IO93
-QSO:   144 DG 2022-08-03 1904 2E1FMS        -01 IO82             M7REV         +03 IO82
-QSO:   144 DG 2022-08-03 1906 2E1FMS        -24 IO82             M0XLH         -14 IO93
-QSO:   144 DG 2022-08-03 1908 2E1FMS        -15 IO82             G0RMG         -03 IO92
-QSO:   144 DG 2022-08-03 1912 2E1FMS        -07 IO82             G3YKI         +12 IO82
-QSO:   144 DG 2022-08-03 1913 2E1FMS        -17 IO82             G3WAG/P       -17 IO82
-QSO:   144 DG 2022-08-03 1915 2E1FMS        +00 IO82             G0GFC         +03 IO92
-QSO:   144 DG 2022-08-03 1918 2E1FMS        -16 IO82             2E0MML        -07 IO93
-QSO:   144 DG 2022-08-03 1921 2E1FMS        -25 IO82             G0ISX         -12 IO93
-QSO:   144 DG 2022-08-03 1922 2E1FMS        -16 IO82             G4PDF         -02 IO93
-QSO:   144 DG 2022-08-03 1928 2E1FMS        -21 IO82             G3XBY         -10 IO92
-QSO:   144 DG 2022-08-03 1931 2E1FMS        +05 IO82             G4UJS         +06 -
-QSO:   144 DG 2022-08-03 1933 2E1FMS        -17 IO82             G4OBK         -06 IO94
-QSO:   144 DG 2022-08-03 1941 2E1FMS        -12 IO82             G0XDI         -12 IO91
-QSO:   144 DG 2022-08-03 1944 2E1FMS        -16 IO82             GI6ATZ        -09 IO74
-QSO:   144 DG 2022-08-03 1947 2E1FMS        -20 IO82             M1CFK         +03 IO92
-QSO:   144 DG 2022-08-03 1947 2E1FMS        -12 IO82             G0XDI         -12 IO91
-QSO:   144 DG 2022-08-03 2000 2E1FMS        +01 IO82             M0XJA         +30 IO82
-QSO:   144 DG 2022-08-03 2003 2E1FMS        -10 IO82             G4EII         -03 IO83
-QSO:   144 DG 2022-08-03 2007 2E1FMS        -21 IO82             G1RAG         -03 IO92
-QSO:   144 DG 2022-08-03 2024 2E1FMS        -07 IO82             EI2FG         +02 IO61
-QSO:   144 DG 2022-08-03 2031 2E1FMS        +00 IO82             G8AOE/P       +16 IO94
-QSO:   144 DG 2022-08-03 2035 2E1FMS        -15 IO82             EI3KD         +02 IO51
-QSO:   144 DG 2022-08-03 2039 2E1FMS        -21 IO82             G0CUZ         -08 IO82
-QSO:   144 DG 2022-08-03 2041 2E1FMS        -03 IO82             M7NCO         +08 IO82
-QSO:   144 DG 2022-08-03 2043 2E1FMS        -18 IO82             G4CDF         -10 IO91
-QSO:   144 DG 2022-08-03 2044 2E1FMS        -18 IO82             G8IQL         -10 IO90
-QSO:   144 DG 2022-08-03 2048 2E1FMS        -03 IO82             M0RTQ/P       +17 IO93
-QSO:   144 DG 2022-08-03 2051 2E1FMS        -03 IO82             M0RTQ/P       +17 IO93
-QSO:   144 DG 2022-08-03 2053 2E1FMS        -08 IO82             G7COU         -16 IO93
-QSO:   144 DG 2022-08-03 2056 2E1FMS        -14 IO82             M3THN         +01 IO92
-QSO:   144 DG 2022-08-03 2058 2E1FMS        -14 IO82             G0ORE         +01 IO92
-QSO:   144 DG 2022-08-03 2059 2E1FMS        -14 IO82             G4NBS         +01 JO02
+QSO:   144 FT8 2022-08-03 1902 2E1FMS        -16 IO82             G8EEM         -19 IO93
+QSO:   144 FT8 2022-08-03 1904 2E1FMS        -01 IO82             M7REV         +03 IO82
+QSO:   144 FT8 2022-08-03 1906 2E1FMS        -24 IO82             M0XLH         -14 IO93
+QSO:   144 FT8 2022-08-03 1908 2E1FMS        -15 IO82             G0RMG         -03 IO92
+QSO:   144 FT8 2022-08-03 1912 2E1FMS        -07 IO82             G3YKI         +12 IO82
+QSO:   144 FT8 2022-08-03 1913 2E1FMS        -17 IO82             G3WAG/P       -17 IO82
+QSO:   144 FT8 2022-08-03 1915 2E1FMS        +00 IO82             G0GFC         +03 IO92
+QSO:   144 FT8 2022-08-03 1918 2E1FMS        -16 IO82             2E0MML        -07 IO93
+QSO:   144 FT8 2022-08-03 1921 2E1FMS        -25 IO82             G0ISX         -12 IO93
+QSO:   144 FT8 2022-08-03 1922 2E1FMS        -16 IO82             G4PDF         -02 IO93
+QSO:   144 FT8 2022-08-03 1928 2E1FMS        -21 IO82             G3XBY         -10 IO92
+QSO:   144 FT8 2022-08-03 1931 2E1FMS        +05 IO82             G4UJS         +06 -
+QSO:   144 FT8 2022-08-03 1933 2E1FMS        -17 IO82             G4OBK         -06 IO94
+QSO:   144 FT8 2022-08-03 1941 2E1FMS        -12 IO82             G0XDI         -12 IO91
+QSO:   144 FT8 2022-08-03 1944 2E1FMS        -16 IO82             GI6ATZ        -09 IO74
+QSO:   144 FT8 2022-08-03 1947 2E1FMS        -20 IO82             M1CFK         +03 IO92
+QSO:   144 FT8 2022-08-03 1947 2E1FMS        -12 IO82             G0XDI         -12 IO91
+QSO:   144 FT8 2022-08-03 2000 2E1FMS        +01 IO82             M0XJA         +30 IO82
+QSO:   144 FT8 2022-08-03 2003 2E1FMS        -10 IO82             G4EII         -03 IO83
+QSO:   144 FT8 2022-08-03 2007 2E1FMS        -21 IO82             G1RAG         -03 IO92
+QSO:   144 FT8 2022-08-03 2024 2E1FMS        -07 IO82             EI2FG         +02 IO61
+QSO:   144 FT8 2022-08-03 2031 2E1FMS        +00 IO82             G8AOE/P       +16 IO94
+QSO:   144 FT8 2022-08-03 2035 2E1FMS        -15 IO82             EI3KD         +02 IO51
+QSO:   144 FT8 2022-08-03 2039 2E1FMS        -21 IO82             G0CUZ         -08 IO82
+QSO:   144 FT8 2022-08-03 2041 2E1FMS        -03 IO82             M7NCO         +08 IO82
+QSO:   144 FT8 2022-08-03 2043 2E1FMS        -18 IO82             G4CDF         -10 IO91
+QSO:   144 FT8 2022-08-03 2044 2E1FMS        -18 IO82             G8IQL         -10 IO90
+QSO:   144 FT8 2022-08-03 2048 2E1FMS        -03 IO82             M0RTQ/P       +17 IO93
+QSO:   144 FT8 2022-08-03 2051 2E1FMS        -03 IO82             M0RTQ/P       +17 IO93
+QSO:   144 FT8 2022-08-03 2053 2E1FMS        -08 IO82             G7COU         -16 IO93
+QSO:   144 FT8 2022-08-03 2056 2E1FMS        -14 IO82             M3THN         +01 IO92
+QSO:   144 FT8 2022-08-03 2058 2E1FMS        -14 IO82             G0ORE         +01 IO92
+QSO:   144 FT8 2022-08-03 2059 2E1FMS        -14 IO82             G4NBS         +01 JO02
 END-OF-LOG:

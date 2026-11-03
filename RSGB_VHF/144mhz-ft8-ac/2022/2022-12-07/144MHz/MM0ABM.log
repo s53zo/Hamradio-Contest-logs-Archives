@@ -10,23 +10,23 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=221207&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1030; excluded rows=0.
-QSO:   144 DG 2022-12-07 1911 MM0ABM        -15 IO75             G7SXR         -16 IO93
-QSO:   144 DG 2022-12-07 1914 MM0ABM        -12 IO75             G0CNN         -11 IO94
-QSO:   144 DG 2022-12-07 1916 MM0ABM        -25 IO75             2E0ILF        -22 IO83
-QSO:   144 DG 2022-12-07 1919 MM0ABM        -18 IO75             G7SXR         -20 IO93
-QSO:   144 DG 2022-12-07 1921 MM0ABM        -07 IO75             M0IEP         -03 IO91
-QSO:   144 DG 2022-12-07 1923 MM0ABM        -14 IO75             GI6ATZ        -04 IO74
-QSO:   144 DG 2022-12-07 1924 MM0ABM        -12 IO75             G7LRQ         -23 IO91
-QSO:   144 DG 2022-12-07 1928 MM0ABM        -10 IO75             G4NBS         -12 JO02
-QSO:   144 DG 2022-12-07 1930 MM0ABM        -05 IO75             G0XDI         -18 IO91
-QSO:   144 DG 2022-12-07 1931 MM0ABM        -03 IO75             G8SEI         -10 IO92
-QSO:   144 DG 2022-12-07 1944 MM0ABM        -15 IO75             G3WAG         -18 IO82
-QSO:   144 DG 2022-12-07 1947 MM0ABM        -15 IO75             G3YDY         -24 JO01
-QSO:   144 DG 2022-12-07 1953 MM0ABM        -17 IO75             GM4JIB        -19 IO85
-QSO:   144 DG 2022-12-07 2016 MM0ABM        -16 IO75             M1TZR         -15 IO83
-QSO:   144 DG 2022-12-07 2023 MM0ABM        -21 IO75             GM8IEM        -15 IO78
-QSO:   144 DG 2022-12-07 2033 MM0ABM        -06 IO75             G4VPD         -16 IO92
-QSO:   144 DG 2022-12-07 2043 MM0ABM        -05 IO75             G7LRQ         -16 IO91
+QSO:   144 FT8 2022-12-07 1911 MM0ABM        -15 IO75             G7SXR         -16 IO93
+QSO:   144 FT8 2022-12-07 1914 MM0ABM        -12 IO75             G0CNN         -11 IO94
+QSO:   144 FT8 2022-12-07 1916 MM0ABM        -25 IO75             2E0ILF        -22 IO83
+QSO:   144 FT8 2022-12-07 1919 MM0ABM        -18 IO75             G7SXR         -20 IO93
+QSO:   144 FT8 2022-12-07 1921 MM0ABM        -07 IO75             M0IEP         -03 IO91
+QSO:   144 FT8 2022-12-07 1923 MM0ABM        -14 IO75             GI6ATZ        -04 IO74
+QSO:   144 FT8 2022-12-07 1924 MM0ABM        -12 IO75             G7LRQ         -23 IO91
+QSO:   144 FT8 2022-12-07 1928 MM0ABM        -10 IO75             G4NBS         -12 JO02
+QSO:   144 FT8 2022-12-07 1930 MM0ABM        -05 IO75             G0XDI         -18 IO91
+QSO:   144 FT8 2022-12-07 1931 MM0ABM        -03 IO75             G8SEI         -10 IO92
+QSO:   144 FT8 2022-12-07 1944 MM0ABM        -15 IO75             G3WAG         -18 IO82
+QSO:   144 FT8 2022-12-07 1947 MM0ABM        -15 IO75             G3YDY         -24 JO01
+QSO:   144 FT8 2022-12-07 1953 MM0ABM        -17 IO75             GM4JIB        -19 IO85
+QSO:   144 FT8 2022-12-07 2016 MM0ABM        -16 IO75             M1TZR         -15 IO83
+QSO:   144 FT8 2022-12-07 2023 MM0ABM        -21 IO75             GM8IEM        -15 IO78
+QSO:   144 FT8 2022-12-07 2033 MM0ABM        -06 IO75             G4VPD         -16 IO92
+QSO:   144 FT8 2022-12-07 2043 MM0ABM        -05 IO75             G7LRQ         -16 IO91
 END-OF-LOG:

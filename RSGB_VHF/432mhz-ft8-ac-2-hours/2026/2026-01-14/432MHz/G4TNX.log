@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260114&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=409; excluded rows=0.
-QSO:   432 DG 2026-01-14 1902 G4TNX         -03 IO93             PD1GJB        -12 JO22
-QSO:   432 DG 2026-01-14 1903 G4TNX         -04 IO93             PA7ML         -13 JO22
-QSO:   432 DG 2026-01-14 1909 G4TNX         -05 IO93             G8SEI         -17 IO92
-QSO:   432 DG 2026-01-14 1920 G4TNX         -02 IO93             F1NQP         -09 JN19
-QSO:   432 DG 2026-01-14 1927 G4TNX         -15 IO93             G4PDF         -23 IO93
-QSO:   432 DG 2026-01-14 1937 G4TNX         -11 IO93             G4FLM         -15 IO94
-QSO:   432 DG 2026-01-14 1944 G4TNX         +04 IO93             DJ2KP         -09 JO42
-QSO:   432 DG 2026-01-14 1952 G4TNX         -04 IO93             PH2M          -10 JO22
-QSO:   432 DG 2026-01-14 1955 G4TNX         -09 IO93             G4ZTR         -16 JO01
-QSO:   432 DG 2026-01-14 2006 G4TNX         +07 IO93             PA6I          -15 JO32
-QSO:   432 DG 2026-01-14 2015 G4TNX         -08 IO93             G4PDF         -12 IO93
-QSO:   432 DG 2026-01-14 2020 G4TNX         +17 IO93             G0XDI         -03 IO91
-QSO:   432 DG 2026-01-14 2027 G4TNX         -07 IO93             G0GJV         -05 IO91
-QSO:   432 DG 2026-01-14 2039 G4TNX         -10 IO93             MM0CEZ        -20 IO75
-QSO:   432 DG 2026-01-14 2045 G4TNX         -06 IO93             2E0JPO        -06 IO91
-QSO:   432 DG 2026-01-14 2050 G4TNX         +12 IO93             PA3CWS        -11 JO22
+QSO:   432 FT8 2026-01-14 1902 G4TNX         -03 IO93             PD1GJB        -12 JO22
+QSO:   432 FT8 2026-01-14 1903 G4TNX         -04 IO93             PA7ML         -13 JO22
+QSO:   432 FT8 2026-01-14 1909 G4TNX         -05 IO93             G8SEI         -17 IO92
+QSO:   432 FT8 2026-01-14 1920 G4TNX         -02 IO93             F1NQP         -09 JN19
+QSO:   432 FT8 2026-01-14 1927 G4TNX         -15 IO93             G4PDF         -23 IO93
+QSO:   432 FT8 2026-01-14 1937 G4TNX         -11 IO93             G4FLM         -15 IO94
+QSO:   432 FT8 2026-01-14 1944 G4TNX         +04 IO93             DJ2KP         -09 JO42
+QSO:   432 FT8 2026-01-14 1952 G4TNX         -04 IO93             PH2M          -10 JO22
+QSO:   432 FT8 2026-01-14 1955 G4TNX         -09 IO93             G4ZTR         -16 JO01
+QSO:   432 FT8 2026-01-14 2006 G4TNX         +07 IO93             PA6I          -15 JO32
+QSO:   432 FT8 2026-01-14 2015 G4TNX         -08 IO93             G4PDF         -12 IO93
+QSO:   432 FT8 2026-01-14 2020 G4TNX         +17 IO93             G0XDI         -03 IO91
+QSO:   432 FT8 2026-01-14 2027 G4TNX         -07 IO93             G0GJV         -05 IO91
+QSO:   432 FT8 2026-01-14 2039 G4TNX         -10 IO93             MM0CEZ        -20 IO75
+QSO:   432 FT8 2026-01-14 2045 G4TNX         -06 IO93             2E0JPO        -06 IO91
+QSO:   432 FT8 2026-01-14 2050 G4TNX         +12 IO93             PA3CWS        -11 JO22
 END-OF-LOG:

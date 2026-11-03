@@ -10,24 +10,24 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1900 G8XYJ         -08 IO82             G0FEH         -07 IO92
-QSO:   144 DG 2022-02-02 1902 G8XYJ         +12 IO82             G4UJS         +05 IO82
-QSO:   144 DG 2022-02-02 1906 G8XYJ         -04 IO82             2E1DJN        +06 IO82
-QSO:   144 DG 2022-02-02 1911 G8XYJ         -24 IO82             GD0TEP        +05 IO74
-QSO:   144 DG 2022-02-02 1916 G8XYJ         -18 IO82             EI8KN         -16 IO62
-QSO:   144 DG 2022-02-02 1922 G8XYJ         -17 IO82             G0BIX         -12 JO01
-QSO:   144 DG 2022-02-02 1926 G8XYJ         -24 IO82             M1EYP/P       -07 IO83
-QSO:   144 DG 2022-02-02 1932 G8XYJ         -15 IO82             2E1SKY        -15 IO93
-QSO:   144 DG 2022-02-02 1952 G8XYJ         +06 IO82             G3WAG/P       +04 IO82
-QSO:   144 DG 2022-02-02 1957 G8XYJ         -02 IO82             G3SED         -14 IO90
-QSO:   144 DG 2022-02-02 2006 G8XYJ         -08 IO82             G0JCC         -05 IO82
-QSO:   144 DG 2022-02-02 2010 G8XYJ         -06 IO82             G7RHF         +10 IO82
-QSO:   144 DG 2022-02-02 2011 G8XYJ         -11 IO82             G0LGS         -11 IO81
-QSO:   144 DG 2022-02-02 2035 G8XYJ         -13 IO82             GI6ATZ        -01 IO74
-QSO:   144 DG 2022-02-02 2038 G8XYJ         -19 IO82             2E0YRT        -12 IO82
-QSO:   144 DG 2022-02-02 2041 G8XYJ         -15 IO82             G7WIR         -22 JO01
-QSO:   144 DG 2022-02-02 2049 G8XYJ         -13 IO82             G8EEM         -07 IO93
-QSO:   144 DG 2022-02-02 2050 G8XYJ         -02 IO82             G4OYX         -02 IO82
+QSO:   144 FT8 2022-02-02 1900 G8XYJ         -08 IO82             G0FEH         -07 IO92
+QSO:   144 FT8 2022-02-02 1902 G8XYJ         +12 IO82             G4UJS         +05 IO82
+QSO:   144 FT8 2022-02-02 1906 G8XYJ         -04 IO82             2E1DJN        +06 IO82
+QSO:   144 FT8 2022-02-02 1911 G8XYJ         -24 IO82             GD0TEP        +05 IO74
+QSO:   144 FT8 2022-02-02 1916 G8XYJ         -18 IO82             EI8KN         -16 IO62
+QSO:   144 FT8 2022-02-02 1922 G8XYJ         -17 IO82             G0BIX         -12 JO01
+QSO:   144 FT8 2022-02-02 1926 G8XYJ         -24 IO82             M1EYP/P       -07 IO83
+QSO:   144 FT8 2022-02-02 1932 G8XYJ         -15 IO82             2E1SKY        -15 IO93
+QSO:   144 FT8 2022-02-02 1952 G8XYJ         +06 IO82             G3WAG/P       +04 IO82
+QSO:   144 FT8 2022-02-02 1957 G8XYJ         -02 IO82             G3SED         -14 IO90
+QSO:   144 FT8 2022-02-02 2006 G8XYJ         -08 IO82             G0JCC         -05 IO82
+QSO:   144 FT8 2022-02-02 2010 G8XYJ         -06 IO82             G7RHF         +10 IO82
+QSO:   144 FT8 2022-02-02 2011 G8XYJ         -11 IO82             G0LGS         -11 IO81
+QSO:   144 FT8 2022-02-02 2035 G8XYJ         -13 IO82             GI6ATZ        -01 IO74
+QSO:   144 FT8 2022-02-02 2038 G8XYJ         -19 IO82             2E0YRT        -12 IO82
+QSO:   144 FT8 2022-02-02 2041 G8XYJ         -15 IO82             G7WIR         -22 JO01
+QSO:   144 FT8 2022-02-02 2049 G8XYJ         -13 IO82             G8EEM         -07 IO93
+QSO:   144 FT8 2022-02-02 2050 G8XYJ         -02 IO82             G4OYX         -02 IO82
 END-OF-LOG:

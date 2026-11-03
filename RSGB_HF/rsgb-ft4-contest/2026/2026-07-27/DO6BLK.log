@@ -10,31 +10,32 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260727&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7916; excluded rows=0.
-QSO: 21142 DG 2026-07-27 1907 DO6BLK        -01 -                M0KKM         -10 -
-QSO: 21141 DG 2026-07-27 1913 DO6BLK        -11 -                G4CTP         -16 -
-QSO: 21141 DG 2026-07-27 1914 DO6BLK        +10 -                M0PAW         -09 -
-QSO: 21141 DG 2026-07-27 1915 DO6BLK        +24 -                G7L           +03 -
-QSO: 21142 DG 2026-07-27 1917 DO6BLK        +04 -                GU7DAI        -10 -
-QSO: 21142 DG 2026-07-27 1919 DO6BLK        +05 -                M9DJN         -05 -
-QSO: 21142 DG 2026-07-27 1919 DO6BLK        +03 -                G0ORH         -09 -
-QSO: 21142 DG 2026-07-27 1931 DO6BLK        +09 -                G7D           +08 -
-QSO: 21142 DG 2026-07-27 1932 DO6BLK        +06 -                PH3T          +00 -
-QSO: 21142 DG 2026-07-27 1935 DO6BLK        -13 -                G6DXY         +02 -
-QSO: 21142 DG 2026-07-27 1937 DO6BLK        +07 -                M5RJC         +10 -
-QSO: 21142 DG 2026-07-27 1938 DO6BLK        -05 -                G4EFT         +00 -
-QSO: 21142 DG 2026-07-27 1939 DO6BLK        -04 -                G6P           +03 -
-QSO: 21142 DG 2026-07-27 1940 DO6BLK        +05 -                G8CZW         +14 -
-QSO: 21142 DG 2026-07-27 1941 DO6BLK        +14 -                GW5P          +08 -
-QSO: 21142 DG 2026-07-27 1942 DO6BLK        -01 -                M5N           +02 -
-QSO: 21142 DG 2026-07-27 1944 DO6BLK        -06 -                G3MXH         +03 -
-QSO: 21142 DG 2026-07-27 1946 DO6BLK        +06 -                GW0ARK        +04 -
-QSO: 21142 DG 2026-07-27 1947 DO6BLK        -05 -                G6GN          -03 -
-QSO: 21142 DG 2026-07-27 1951 DO6BLK        +03 -                G2M           -04 -
-QSO: 21142 DG 2026-07-27 1957 DO6BLK        -03 -                F4JQH         +02 -
-QSO: 21142 DG 2026-07-27 1958 DO6BLK        +03 -                F4ACR         -11 -
-QSO: 21142 DG 2026-07-27 2000 DO6BLK        -02 -                M0MHX         -20 -
-QSO: 21140 DG 2026-07-27 2002 DO6BLK        -11 -                5B4ARQ        -02 -
-QSO: 28181 DG 2026-07-27 2006 DO6BLK        +13 -                M0PAW         +06 -
-QSO: 28181 DG 2026-07-27 2007 DO6BLK        -02 -                GM7PKT        -07 -
+QSO: 21142 FT4 2026-07-27 1907 DO6BLK        -01 -                M0KKM         -10 -
+QSO: 21141 FT4 2026-07-27 1913 DO6BLK        -11 -                G4CTP         -16 -
+QSO: 21141 FT4 2026-07-27 1914 DO6BLK        +10 -                M0PAW         -09 -
+QSO: 21141 FT4 2026-07-27 1915 DO6BLK        +24 -                G7L           +03 -
+QSO: 21142 FT4 2026-07-27 1917 DO6BLK        +04 -                GU7DAI        -10 -
+QSO: 21142 FT4 2026-07-27 1919 DO6BLK        +05 -                M9DJN         -05 -
+QSO: 21142 FT4 2026-07-27 1919 DO6BLK        +03 -                G0ORH         -09 -
+QSO: 21142 FT4 2026-07-27 1931 DO6BLK        +09 -                G7D           +08 -
+QSO: 21142 FT4 2026-07-27 1932 DO6BLK        +06 -                PH3T          +00 -
+QSO: 21142 FT4 2026-07-27 1935 DO6BLK        -13 -                G6DXY         +02 -
+QSO: 21142 FT4 2026-07-27 1937 DO6BLK        +07 -                M5RJC         +10 -
+QSO: 21142 FT4 2026-07-27 1938 DO6BLK        -05 -                G4EFT         +00 -
+QSO: 21142 FT4 2026-07-27 1939 DO6BLK        -04 -                G6P           +03 -
+QSO: 21142 FT4 2026-07-27 1940 DO6BLK        +05 -                G8CZW         +14 -
+QSO: 21142 FT4 2026-07-27 1941 DO6BLK        +14 -                GW5P          +08 -
+QSO: 21142 FT4 2026-07-27 1942 DO6BLK        -01 -                M5N           +02 -
+QSO: 21142 FT4 2026-07-27 1944 DO6BLK        -06 -                G3MXH         +03 -
+QSO: 21142 FT4 2026-07-27 1946 DO6BLK        +06 -                GW0ARK        +04 -
+QSO: 21142 FT4 2026-07-27 1947 DO6BLK        -05 -                G6GN          -03 -
+QSO: 21142 FT4 2026-07-27 1951 DO6BLK        +03 -                G2M           -04 -
+QSO: 21142 FT4 2026-07-27 1957 DO6BLK        -03 -                F4JQH         +02 -
+QSO: 21142 FT4 2026-07-27 1958 DO6BLK        +03 -                F4ACR         -11 -
+QSO: 21142 FT4 2026-07-27 2000 DO6BLK        -02 -                M0MHX         -20 -
+QSO: 21140 FT4 2026-07-27 2002 DO6BLK        -11 -                5B4ARQ        -02 -
+QSO: 28181 FT4 2026-07-27 2006 DO6BLK        +13 -                M0PAW         +06 -
+QSO: 28181 FT4 2026-07-27 2007 DO6BLK        -02 -                GM7PKT        -07 -
 END-OF-LOG:

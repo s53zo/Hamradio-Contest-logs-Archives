@@ -10,35 +10,35 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260708&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=616; excluded rows=0.
-QSO:   432 DG 2026-07-08 1906 G8IXK         -08 IO91             EI8KN         -14 IO62
-QSO:   432 DG 2026-07-08 1908 G8IXK         -15 IO91             G4APJ         -04 IO83
-QSO:   432 DG 2026-07-08 1910 G8IXK         -01 IO91             G6GCM         -01 IO92
-QSO:   432 DG 2026-07-08 1914 G8IXK         -05 IO91             G7LRQ         -12 JO03
-QSO:   432 DG 2026-07-08 1916 G8IXK         -09 IO91             GI4SNA        -09 IO64
-QSO:   432 DG 2026-07-08 1920 G8IXK         -05 IO91             G0XDI         -17 IO91
-QSO:   432 DG 2026-07-08 1923 G8IXK         -15 IO91             G0HSP         -13 IO90
-QSO:   432 DG 2026-07-08 1925 G8IXK         -06 IO91             F1NQP         -10 JN19
-QSO:   432 DG 2026-07-08 1927 G8IXK         -05 IO91             G6HIE         +06 JO00
-QSO:   432 DG 2026-07-08 1931 G8IXK         -21 IO91             PA3CWS        -20 JO22
-QSO:   432 DG 2026-07-08 1935 G8IXK         -10 IO91             G7WIR         -18 JO01
-QSO:   432 DG 2026-07-08 1939 G8IXK         -16 IO91             G3WZK         -23 IO91
-QSO:   432 DG 2026-07-08 1941 G8IXK         -12 IO91             G0JDL         -19 JO02
-QSO:   432 DG 2026-07-08 1945 G8IXK         -09 IO91             PH2M          -24 JO22
-QSO:   432 DG 2026-07-08 1948 G8IXK         -05 IO91             G4BAO         -10 JO02
-QSO:   432 DG 2026-07-08 1955 G8IXK         -19 IO91             G0WUU         -20 IO93
-QSO:   432 DG 2026-07-08 2001 G8IXK         -11 IO91             G8SEI         -13 IO92
-QSO:   432 DG 2026-07-08 2003 G8IXK         -11 IO91             G4HGI         -13 IO83
-QSO:   432 DG 2026-07-08 2007 G8IXK         -14 IO91             GM8MJV        -13 IO85
-QSO:   432 DG 2026-07-08 2011 G8IXK         +00 IO91             G7RDX         -06 IO91
-QSO:   432 DG 2026-07-08 2015 G8IXK         -08 IO91             G0GJV         -14 IO91
-QSO:   432 DG 2026-07-08 2017 G8IXK         -11 IO91             2E0MRK        -18 IO91
-QSO:   432 DG 2026-07-08 2020 G8IXK         -11 IO91             F1UMW         +01 JN19
-QSO:   432 DG 2026-07-08 2023 G8IXK         -12 IO91             PE1ITR        -13 JO21
-QSO:   432 DG 2026-07-08 2029 G8IXK         -09 IO91             EI2FG         -04 IO61
-QSO:   432 DG 2026-07-08 2044 G8IXK         -05 IO91             EI3KD         -17 IO51
-QSO:   432 DG 2026-07-08 2049 G8IXK         -13 IO91             G4ZTR         -16 JO01
-QSO:   432 DG 2026-07-08 2051 G8IXK         -16 IO91             G3YDY         +02 JO01
-QSO:   432 DG 2026-07-08 2101 G8IXK         -07 IO91             F1ISM         -08 JN09
+QSO:   432 FT8 2026-07-08 1906 G8IXK         -08 IO91             EI8KN         -14 IO62
+QSO:   432 FT8 2026-07-08 1908 G8IXK         -15 IO91             G4APJ         -04 IO83
+QSO:   432 FT8 2026-07-08 1910 G8IXK         -01 IO91             G6GCM         -01 IO92
+QSO:   432 FT8 2026-07-08 1914 G8IXK         -05 IO91             G7LRQ         -12 JO03
+QSO:   432 FT8 2026-07-08 1916 G8IXK         -09 IO91             GI4SNA        -09 IO64
+QSO:   432 FT8 2026-07-08 1920 G8IXK         -05 IO91             G0XDI         -17 IO91
+QSO:   432 FT8 2026-07-08 1923 G8IXK         -15 IO91             G0HSP         -13 IO90
+QSO:   432 FT8 2026-07-08 1925 G8IXK         -06 IO91             F1NQP         -10 JN19
+QSO:   432 FT8 2026-07-08 1927 G8IXK         -05 IO91             G6HIE         +06 JO00
+QSO:   432 FT8 2026-07-08 1931 G8IXK         -21 IO91             PA3CWS        -20 JO22
+QSO:   432 FT8 2026-07-08 1935 G8IXK         -10 IO91             G7WIR         -18 JO01
+QSO:   432 FT8 2026-07-08 1939 G8IXK         -16 IO91             G3WZK         -23 IO91
+QSO:   432 FT8 2026-07-08 1941 G8IXK         -12 IO91             G0JDL         -19 JO02
+QSO:   432 FT8 2026-07-08 1945 G8IXK         -09 IO91             PH2M          -24 JO22
+QSO:   432 FT8 2026-07-08 1948 G8IXK         -05 IO91             G4BAO         -10 JO02
+QSO:   432 FT8 2026-07-08 1955 G8IXK         -19 IO91             G0WUU         -20 IO93
+QSO:   432 FT8 2026-07-08 2001 G8IXK         -11 IO91             G8SEI         -13 IO92
+QSO:   432 FT8 2026-07-08 2003 G8IXK         -11 IO91             G4HGI         -13 IO83
+QSO:   432 FT8 2026-07-08 2007 G8IXK         -14 IO91             GM8MJV        -13 IO85
+QSO:   432 FT8 2026-07-08 2011 G8IXK         +00 IO91             G7RDX         -06 IO91
+QSO:   432 FT8 2026-07-08 2015 G8IXK         -08 IO91             G0GJV         -14 IO91
+QSO:   432 FT8 2026-07-08 2017 G8IXK         -11 IO91             2E0MRK        -18 IO91
+QSO:   432 FT8 2026-07-08 2020 G8IXK         -11 IO91             F1UMW         +01 JN19
+QSO:   432 FT8 2026-07-08 2023 G8IXK         -12 IO91             PE1ITR        -13 JO21
+QSO:   432 FT8 2026-07-08 2029 G8IXK         -09 IO91             EI2FG         -04 IO61
+QSO:   432 FT8 2026-07-08 2044 G8IXK         -05 IO91             EI3KD         -17 IO51
+QSO:   432 FT8 2026-07-08 2049 G8IXK         -13 IO91             G4ZTR         -16 JO01
+QSO:   432 FT8 2026-07-08 2051 G8IXK         -16 IO91             G3YDY         +02 JO01
+QSO:   432 FT8 2026-07-08 2101 G8IXK         -07 IO91             F1ISM         -08 JN09
 END-OF-LOG:

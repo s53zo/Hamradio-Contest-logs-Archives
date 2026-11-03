@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260701&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=775; excluded rows=0.
-QSO:   144 DG 2026-07-01 1901 GM8IEM        -06 IO78             MM0ULL        +07 IO77
-QSO:   144 DG 2026-07-01 1908 GM8IEM        -07 IO78             GM7PKT        +11 IO76
-QSO:   144 DG 2026-07-01 1917 GM8IEM        -19 IO78             G7LRQ         -24 JO03
-QSO:   144 DG 2026-07-01 1919 GM8IEM        -07 IO78             GM8MJV        +05 IO85
-QSO:   144 DG 2026-07-01 1924 GM8IEM        -09 IO78             GM4OAS        -05 IO76
-QSO:   144 DG 2026-07-01 1925 GM8IEM        -11 IO78             G8EEM         -22 IO93
-QSO:   144 DG 2026-07-01 1926 GM8IEM        +02 IO78             GM0HBK        +18 IO77
-QSO:   144 DG 2026-07-01 1927 GM8IEM        -10 IO78             GM4GUF        -04 IO85
-QSO:   144 DG 2026-07-01 1939 GM8IEM        -14 IO78             GM3AND        -23 IO86
-QSO:   144 DG 2026-07-01 1950 GM8IEM        -08 IO78             GM0HTT        -16 IO89
-QSO:   144 DG 2026-07-01 2004 GM8IEM        -05 IO78             GM4WJA        +10 IO87
-QSO:   144 DG 2026-07-01 2028 GM8IEM        -15 IO78             GI4SNA        -15 IO64
-QSO:   144 DG 2026-07-01 2038 GM8IEM        -18 IO78             MI0OBC        -22 IO74
+QSO:   144 FT8 2026-07-01 1901 GM8IEM        -06 IO78             MM0ULL        +07 IO77
+QSO:   144 FT8 2026-07-01 1908 GM8IEM        -07 IO78             GM7PKT        +11 IO76
+QSO:   144 FT8 2026-07-01 1917 GM8IEM        -19 IO78             G7LRQ         -24 JO03
+QSO:   144 FT8 2026-07-01 1919 GM8IEM        -07 IO78             GM8MJV        +05 IO85
+QSO:   144 FT8 2026-07-01 1924 GM8IEM        -09 IO78             GM4OAS        -05 IO76
+QSO:   144 FT8 2026-07-01 1925 GM8IEM        -11 IO78             G8EEM         -22 IO93
+QSO:   144 FT8 2026-07-01 1926 GM8IEM        +02 IO78             GM0HBK        +18 IO77
+QSO:   144 FT8 2026-07-01 1927 GM8IEM        -10 IO78             GM4GUF        -04 IO85
+QSO:   144 FT8 2026-07-01 1939 GM8IEM        -14 IO78             GM3AND        -23 IO86
+QSO:   144 FT8 2026-07-01 1950 GM8IEM        -08 IO78             GM0HTT        -16 IO89
+QSO:   144 FT8 2026-07-01 2004 GM8IEM        -05 IO78             GM4WJA        +10 IO87
+QSO:   144 FT8 2026-07-01 2028 GM8IEM        -15 IO78             GI4SNA        -15 IO64
+QSO:   144 FT8 2026-07-01 2038 GM8IEM        -18 IO78             MI0OBC        -22 IO74
 END-OF-LOG:

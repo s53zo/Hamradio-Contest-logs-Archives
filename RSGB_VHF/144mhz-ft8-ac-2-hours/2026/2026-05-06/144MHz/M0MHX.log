@@ -10,23 +10,23 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260506&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1140; excluded rows=1.
-QSO:   144 DG 2026-05-06 1905 M0MHX         -06 JO01             GX3VER        -09 IO91
-QSO:   144 DG 2026-05-06 1909 M0MHX         +11 JO01             M7APV         -01 JO01
-QSO:   144 DG 2026-05-06 1913 M0MHX         +21 JO01             G0BIX         +20 JO01
-QSO:   144 DG 2026-05-06 1916 M0MHX         -09 JO01             G7ICV         +18 JO01
-QSO:   144 DG 2026-05-06 1918 M0MHX         -05 JO01             G3WZK         -04 IO91
-QSO:   144 DG 2026-05-06 1923 M0MHX         -15 JO01             G4HGI         +01 IO83
-QSO:   144 DG 2026-05-06 1929 M0MHX         +13 JO01             G0XDI         -04 IO91
-QSO:   144 DG 2026-05-06 1938 M0MHX         +18 JO01             G7LRQ         -08 JO03
-QSO:   144 DG 2026-05-06 1940 M0MHX         +08 JO01             G4BMM         +02 IO91
-QSO:   144 DG 2026-05-06 1944 M0MHX         +18 JO01             G7WIR         +16 JO01
-QSO:   144 DG 2026-05-06 2001 M0MHX         +20 JO01             G7FPE         +17 JO01
-QSO:   144 DG 2026-05-06 2006 M0MHX         +19 JO01             G7RDX         +00 IO91
-QSO:   144 DG 2026-05-06 2021 M0MHX         -11 JO01             PH2M          -11 JO22
-QSO:   144 DG 2026-05-06 2024 M0MHX         -11 JO01             G0NAD         -07 JO01
-QSO:   144 DG 2026-05-06 2028 M0MHX         -16 JO01             G0JDL         +08 JO02
-QSO:   144 DG 2026-05-06 2046 M0MHX         -18 JO01             MM0CEZ        -10 IO75
-QSO:   144 DG 2026-05-06 2059 M0MHX         -20 JO01             PE1OBL        -05 JO21
+QSO:   144 FT8 2026-05-06 1905 M0MHX         -06 JO01             GX3VER        -09 IO91
+QSO:   144 FT8 2026-05-06 1909 M0MHX         +11 JO01             M7APV         -01 JO01
+QSO:   144 FT8 2026-05-06 1913 M0MHX         +21 JO01             G0BIX         +20 JO01
+QSO:   144 FT8 2026-05-06 1916 M0MHX         -09 JO01             G7ICV         +18 JO01
+QSO:   144 FT8 2026-05-06 1918 M0MHX         -05 JO01             G3WZK         -04 IO91
+QSO:   144 FT8 2026-05-06 1923 M0MHX         -15 JO01             G4HGI         +01 IO83
+QSO:   144 FT8 2026-05-06 1929 M0MHX         +13 JO01             G0XDI         -04 IO91
+QSO:   144 FT8 2026-05-06 1938 M0MHX         +18 JO01             G7LRQ         -08 JO03
+QSO:   144 FT8 2026-05-06 1940 M0MHX         +08 JO01             G4BMM         +02 IO91
+QSO:   144 FT8 2026-05-06 1944 M0MHX         +18 JO01             G7WIR         +16 JO01
+QSO:   144 FT8 2026-05-06 2001 M0MHX         +20 JO01             G7FPE         +17 JO01
+QSO:   144 FT8 2026-05-06 2006 M0MHX         +19 JO01             G7RDX         +00 IO91
+QSO:   144 FT8 2026-05-06 2021 M0MHX         -11 JO01             PH2M          -11 JO22
+QSO:   144 FT8 2026-05-06 2024 M0MHX         -11 JO01             G0NAD         -07 JO01
+QSO:   144 FT8 2026-05-06 2028 M0MHX         -16 JO01             G0JDL         +08 JO02
+QSO:   144 FT8 2026-05-06 2046 M0MHX         -18 JO01             MM0CEZ        -10 IO75
+QSO:   144 FT8 2026-05-06 2059 M0MHX         -20 JO01             PE1OBL        -05 JO21
 END-OF-LOG:

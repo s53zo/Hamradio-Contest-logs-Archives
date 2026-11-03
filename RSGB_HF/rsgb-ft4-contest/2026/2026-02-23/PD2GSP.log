@@ -10,19 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO:  7049 DG 2026-02-23 2000 PD2GSP        +15 -                G5KTX         +10 -
-QSO:  7049 DG 2026-02-23 2004 PD2GSP        +10 -                I2XLF         +15 -
-QSO:  7049 DG 2026-02-23 2005 PD2GSP        +12 -                OK2USM        +04 -
-QSO:  7049 DG 2026-02-23 2006 PD2GSP        +04 -                F4JQH         +09 -
-QSO:  7049 DG 2026-02-23 2009 PD2GSP        -13 -                PA0JTA        -09 -
-QSO:  7049 DG 2026-02-23 2010 PD2GSP        -03 -                OM1HG         -04 -
-QSO:  7049 DG 2026-02-23 2017 PD2GSP        -10 -                M0PAW         -09 -
-QSO:  7050 DG 2026-02-23 2019 PD2GSP        599 -                MW0MAU        599 -
-QSO:  7049 DG 2026-02-23 2022 PD2GSP        -05 -                YO9FDG        -04 -
-QSO:  7049 DG 2026-02-23 2024 PD2GSP        -17 -                IU3IIZ        -16 -
-QSO:  7049 DG 2026-02-23 2025 PD2GSP        -08 -                EI3ENB        +06 -
-QSO:  7049 DG 2026-02-23 2027 PD2GSP        -10 -                IN3OWY        +03 -
-QSO:  7049 DG 2026-02-23 2031 PD2GSP        -10 -                EI8KN         -09 -
-QSO:  7049 DG 2026-02-23 2046 PD2GSP        -18 -                M9IAN         +00 -
+QSO:  7049 FT4 2026-02-23 2000 PD2GSP        +15 -                G5KTX         +10 -
+QSO:  7049 FT4 2026-02-23 2004 PD2GSP        +10 -                I2XLF         +15 -
+QSO:  7049 FT4 2026-02-23 2005 PD2GSP        +12 -                OK2USM        +04 -
+QSO:  7049 FT4 2026-02-23 2006 PD2GSP        +04 -                F4JQH         +09 -
+QSO:  7049 FT4 2026-02-23 2009 PD2GSP        -13 -                PA0JTA        -09 -
+QSO:  7049 FT4 2026-02-23 2010 PD2GSP        -03 -                OM1HG         -04 -
+QSO:  7049 FT4 2026-02-23 2017 PD2GSP        -10 -                M0PAW         -09 -
+QSO:  7050 FT4 2026-02-23 2019 PD2GSP        599 -                MW0MAU        599 -
+QSO:  7049 FT4 2026-02-23 2022 PD2GSP        -05 -                YO9FDG        -04 -
+QSO:  7049 FT4 2026-02-23 2024 PD2GSP        -17 -                IU3IIZ        -16 -
+QSO:  7049 FT4 2026-02-23 2025 PD2GSP        -08 -                EI3ENB        +06 -
+QSO:  7049 FT4 2026-02-23 2027 PD2GSP        -10 -                IN3OWY        +03 -
+QSO:  7049 FT4 2026-02-23 2031 PD2GSP        -10 -                EI8KN         -09 -
+QSO:  7049 FT4 2026-02-23 2046 PD2GSP        -18 -                M9IAN         +00 -
 END-OF-LOG:

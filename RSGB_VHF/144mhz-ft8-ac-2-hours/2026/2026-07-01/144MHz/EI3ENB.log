@@ -10,13 +10,13 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260701&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=775; excluded rows=0.
-QSO:   144 DG 2026-07-01 1911 EI3ENB        +12 IO62             EI8KN         +00 IO62
-QSO:   144 DG 2026-07-01 1920 EI3ENB        -12 IO62             G0JCC         -17 IO82
-QSO:   144 DG 2026-07-01 1946 EI3ENB        -15 IO62             G7LRQ         -15 JO03
-QSO:   144 DG 2026-07-01 2004 EI3ENB        +08 IO62             G8SEI         -15 IO92
-QSO:   144 DG 2026-07-01 2010 EI3ENB        +00 IO62             G0XDI         -15 IO91
-QSO:   144 DG 2026-07-01 2013 EI3ENB        +00 IO62             M1EYP/P       -15 IO83
-QSO:   144 DG 2026-07-01 2037 EI3ENB        -18 IO62             G4HGI         -15 IO83
+QSO:   144 FT8 2026-07-01 1911 EI3ENB        +12 IO62             EI8KN         +00 IO62
+QSO:   144 FT8 2026-07-01 1920 EI3ENB        -12 IO62             G0JCC         -17 IO82
+QSO:   144 FT8 2026-07-01 1946 EI3ENB        -15 IO62             G7LRQ         -15 JO03
+QSO:   144 FT8 2026-07-01 2004 EI3ENB        +08 IO62             G8SEI         -15 IO92
+QSO:   144 FT8 2026-07-01 2010 EI3ENB        +00 IO62             G0XDI         -15 IO91
+QSO:   144 FT8 2026-07-01 2013 EI3ENB        +00 IO62             M1EYP/P       -15 IO83
+QSO:   144 FT8 2026-07-01 2037 EI3ENB        -18 IO62             G4HGI         -15 IO83
 END-OF-LOG:

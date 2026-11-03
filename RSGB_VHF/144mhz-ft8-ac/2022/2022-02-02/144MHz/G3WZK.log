@@ -10,38 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1903 G3WZK         -19 IO91             M7SPS         -06 IO92
-QSO:   144 DG 2022-02-02 1907 G3WZK         -19 IO91             GW4HDF        -17 IO81
-QSO:   144 DG 2022-02-02 1909 G3WZK         -05 IO91             G7RDX         -07 IO91
-QSO:   144 DG 2022-02-02 1911 G3WZK         -08 IO91             G8AOE/P       -10 IO94
-QSO:   144 DG 2022-02-02 1912 G3WZK         +19 IO91             G0GJV         +12 IO91
-QSO:   144 DG 2022-02-02 1914 G3WZK         +07 IO91             G3WAG/P       +00 IO82
-QSO:   144 DG 2022-02-02 1915 G3WZK         +21 IO91             2E0WYD        +11 IO91
-QSO:   144 DG 2022-02-02 1923 G3WZK         -19 IO91             G0JJG         -17 JO02
-QSO:   144 DG 2022-02-02 1924 G3WZK         +12 IO91             M0KIO         -03 IO91
-QSO:   144 DG 2022-02-02 1926 G3WZK         +05 IO91             2E0GKW        +12 IO91
-QSO:   144 DG 2022-02-02 1928 G3WZK         -14 IO91             G0LGS         -18 IO81
-QSO:   144 DG 2022-02-02 1929 G3WZK         -24 IO91             M7APV         -20 JO01
-QSO:   144 DG 2022-02-02 1931 G3WZK         -02 IO91             G3XBY         -03 IO92
-QSO:   144 DG 2022-02-02 1933 G3WZK         -02 IO91             M7REV         -10 IO82
-QSO:   144 DG 2022-02-02 1935 G3WZK         -15 IO91             G8VDP         -18 IO93
-QSO:   144 DG 2022-02-02 1941 G3WZK         -13 IO91             G8EEM         -18 IO93
-QSO:   144 DG 2022-02-02 1948 G3WZK         -17 IO91             MW3ASG        +03 IO81
-QSO:   144 DG 2022-02-02 1953 G3WZK         +10 IO91             M0XTY         -01 JO01
-QSO:   144 DG 2022-02-02 1955 G3WZK         -24 IO91             G4FFY         -15 JO01
-QSO:   144 DG 2022-02-02 1957 G3WZK         -24 IO91             M0KCV         -05 IO91
-QSO:   144 DG 2022-02-02 1959 G3WZK         -15 IO91             G0BIX         -14 JO01
-QSO:   144 DG 2022-02-02 2003 G3WZK         -14 IO91             G0FVI         -11 IO93
-QSO:   144 DG 2022-02-02 2008 G3WZK         +24 IO91             M0NVS         +15 IO91
-QSO:   144 DG 2022-02-02 2022 G3WZK         -13 IO91             G1VWC         -06 IO92
-QSO:   144 DG 2022-02-02 2028 G3WZK         -15 IO91             M1EYP/P       +13 IO83
-QSO:   144 DG 2022-02-02 2040 G3WZK         +16 IO91             G7WIR         +09 JO01
-QSO:   144 DG 2022-02-02 2043 G3WZK         +06 IO91             M0FXX         +03 IO91
-QSO:   144 DG 2022-02-02 2046 G3WZK         -10 IO91             G4NBS         +02 JO02
-QSO:   144 DG 2022-02-02 2047 G3WZK         +06 IO91             G8BXC         -04 JO01
-QSO:   144 DG 2022-02-02 2050 G3WZK         -10 IO91             G4APJ         -04 IO83
-QSO:   144 DG 2022-02-02 2057 G3WZK         -24 IO91             G0DJA         -10 IO93
-QSO:   144 DG 2022-02-02 2101 G3WZK         +06 IO91             M0JPU         -02 IO91
+QSO:   144 FT8 2022-02-02 1903 G3WZK         -19 IO91             M7SPS         -06 IO92
+QSO:   144 FT8 2022-02-02 1907 G3WZK         -19 IO91             GW4HDF        -17 IO81
+QSO:   144 FT8 2022-02-02 1909 G3WZK         -05 IO91             G7RDX         -07 IO91
+QSO:   144 FT8 2022-02-02 1911 G3WZK         -08 IO91             G8AOE/P       -10 IO94
+QSO:   144 FT8 2022-02-02 1912 G3WZK         +19 IO91             G0GJV         +12 IO91
+QSO:   144 FT8 2022-02-02 1914 G3WZK         +07 IO91             G3WAG/P       +00 IO82
+QSO:   144 FT8 2022-02-02 1915 G3WZK         +21 IO91             2E0WYD        +11 IO91
+QSO:   144 FT8 2022-02-02 1923 G3WZK         -19 IO91             G0JJG         -17 JO02
+QSO:   144 FT8 2022-02-02 1924 G3WZK         +12 IO91             M0KIO         -03 IO91
+QSO:   144 FT8 2022-02-02 1926 G3WZK         +05 IO91             2E0GKW        +12 IO91
+QSO:   144 FT8 2022-02-02 1928 G3WZK         -14 IO91             G0LGS         -18 IO81
+QSO:   144 FT8 2022-02-02 1929 G3WZK         -24 IO91             M7APV         -20 JO01
+QSO:   144 FT8 2022-02-02 1931 G3WZK         -02 IO91             G3XBY         -03 IO92
+QSO:   144 FT8 2022-02-02 1933 G3WZK         -02 IO91             M7REV         -10 IO82
+QSO:   144 FT8 2022-02-02 1935 G3WZK         -15 IO91             G8VDP         -18 IO93
+QSO:   144 FT8 2022-02-02 1941 G3WZK         -13 IO91             G8EEM         -18 IO93
+QSO:   144 FT8 2022-02-02 1948 G3WZK         -17 IO91             MW3ASG        +03 IO81
+QSO:   144 FT8 2022-02-02 1953 G3WZK         +10 IO91             M0XTY         -01 JO01
+QSO:   144 FT8 2022-02-02 1955 G3WZK         -24 IO91             G4FFY         -15 JO01
+QSO:   144 FT8 2022-02-02 1957 G3WZK         -24 IO91             M0KCV         -05 IO91
+QSO:   144 FT8 2022-02-02 1959 G3WZK         -15 IO91             G0BIX         -14 JO01
+QSO:   144 FT8 2022-02-02 2003 G3WZK         -14 IO91             G0FVI         -11 IO93
+QSO:   144 FT8 2022-02-02 2008 G3WZK         +24 IO91             M0NVS         +15 IO91
+QSO:   144 FT8 2022-02-02 2022 G3WZK         -13 IO91             G1VWC         -06 IO92
+QSO:   144 FT8 2022-02-02 2028 G3WZK         -15 IO91             M1EYP/P       +13 IO83
+QSO:   144 FT8 2022-02-02 2040 G3WZK         +16 IO91             G7WIR         +09 JO01
+QSO:   144 FT8 2022-02-02 2043 G3WZK         +06 IO91             M0FXX         +03 IO91
+QSO:   144 FT8 2022-02-02 2046 G3WZK         -10 IO91             G4NBS         +02 JO02
+QSO:   144 FT8 2022-02-02 2047 G3WZK         +06 IO91             G8BXC         -04 JO01
+QSO:   144 FT8 2022-02-02 2050 G3WZK         -10 IO91             G4APJ         -04 IO83
+QSO:   144 FT8 2022-02-02 2057 G3WZK         -24 IO91             G0DJA         -10 IO93
+QSO:   144 FT8 2022-02-02 2101 G3WZK         +06 IO91             M0JPU         -02 IO91
 END-OF-LOG:

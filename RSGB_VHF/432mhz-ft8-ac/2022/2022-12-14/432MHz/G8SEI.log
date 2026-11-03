@@ -10,39 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221214&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=482; excluded rows=0.
-QSO:   432 DG 2022-12-14 1908 G8SEI         +05 IO92             M7REV         +02 IO82
-QSO:   432 DG 2022-12-14 1909 G8SEI         -06 IO92             G3YDY         -14 JO01
-QSO:   432 DG 2022-12-14 1910 G8SEI         -08 IO92             G0BSX         -05 IO93
-QSO:   432 DG 2022-12-14 1912 G8SEI         -08 IO92             DD7DAC        -14 JO31
-QSO:   432 DG 2022-12-14 1914 G8SEI         -12 IO92             PH2M          -20 JO22
-QSO:   432 DG 2022-12-14 1916 G8SEI         +23 IO92             G4VPD         +31 IO92
-QSO:   432 DG 2022-12-14 1918 G8SEI         -01 IO92             DL1BFR        -01 JO32
-QSO:   432 DG 2022-12-14 1919 G8SEI         -18 IO92             PD7RON        -10 JO22
-QSO:   432 DG 2022-12-14 1920 G8SEI         -01 IO92             G4NBS         +04 JO02
-QSO:   432 DG 2022-12-14 1921 G8SEI         -14 IO92             PA3CWS        -10 JO22
-QSO:   432 DG 2022-12-14 1926 G8SEI         -03 IO92             PH2M          -13 JO22
-QSO:   432 DG 2022-12-14 1928 G8SEI         -10 IO92             G8VFP         -06 IO82
-QSO:   432 DG 2022-12-14 1929 G8SEI         -10 IO92             PE1FBC        -06 JO22
-QSO:   432 DG 2022-12-14 1931 G8SEI         -11 IO92             G4ZZL         -01 JO01
-QSO:   432 DG 2022-12-14 1935 G8SEI         -19 IO92             M7HLW         -10 IO92
-QSO:   432 DG 2022-12-14 1937 G8SEI         -09 IO92             M1TZR         +00 IO83
-QSO:   432 DG 2022-12-14 1943 G8SEI         -22 IO92             G8VFP         -15 IO82
-QSO:   432 DG 2022-12-14 1945 G8SEI         -05 IO92             G0DJA         -01 IO93
-QSO:   432 DG 2022-12-14 1956 G8SEI         -10 IO92             2E0DUE        +11 JO01
-QSO:   432 DG 2022-12-14 1958 G8SEI         -09 IO92             G0JJG         -01 JO02
-QSO:   432 DG 2022-12-14 2006 G8SEI         -17 IO92             M0LMK         -18 JO01
-QSO:   432 DG 2022-12-14 2007 G8SEI         -13 IO92             2E0JPO        -16 IO91
-QSO:   432 DG 2022-12-14 2010 G8SEI         +02 IO92             G8EEM         +13 IO93
-QSO:   432 DG 2022-12-14 2013 G8SEI         -18 IO92             EI8KN         +01 IO62
-QSO:   432 DG 2022-12-14 2016 G8SEI         -17 IO92             EI2FG         -05 IO61
-QSO:   432 DG 2022-12-14 2017 G8SEI         -11 IO92             G4EII         +05 IO83
-QSO:   432 DG 2022-12-14 2025 G8SEI         -06 IO92             DL5EBS        -09 JO31
-QSO:   432 DG 2022-12-14 2036 G8SEI         -17 IO92             G0ISX         -01 IO93
-QSO:   432 DG 2022-12-14 2042 G8SEI         +08 IO92             PA3EWP        -08 JO21
-QSO:   432 DG 2022-12-14 2045 G8SEI         +02 IO92             G3ZPB         -13 IO91
-QSO:   432 DG 2022-12-14 2048 G8SEI         -13 IO92             G4FFY         -06 JO01
-QSO:   432 DG 2022-12-14 2050 G8SEI         -06 IO92             G7WIR         -12 JO01
-QSO:   432 DG 2022-12-14 2052 G8SEI         -04 IO92             G4PDF         -07 IO93
+QSO:   432 FT8 2022-12-14 1908 G8SEI         +05 IO92             M7REV         +02 IO82
+QSO:   432 FT8 2022-12-14 1909 G8SEI         -06 IO92             G3YDY         -14 JO01
+QSO:   432 FT8 2022-12-14 1910 G8SEI         -08 IO92             G0BSX         -05 IO93
+QSO:   432 FT8 2022-12-14 1912 G8SEI         -08 IO92             DD7DAC        -14 JO31
+QSO:   432 FT8 2022-12-14 1914 G8SEI         -12 IO92             PH2M          -20 JO22
+QSO:   432 FT8 2022-12-14 1916 G8SEI         +23 IO92             G4VPD         +31 IO92
+QSO:   432 FT8 2022-12-14 1918 G8SEI         -01 IO92             DL1BFR        -01 JO32
+QSO:   432 FT8 2022-12-14 1919 G8SEI         -18 IO92             PD7RON        -10 JO22
+QSO:   432 FT8 2022-12-14 1920 G8SEI         -01 IO92             G4NBS         +04 JO02
+QSO:   432 FT8 2022-12-14 1921 G8SEI         -14 IO92             PA3CWS        -10 JO22
+QSO:   432 FT8 2022-12-14 1926 G8SEI         -03 IO92             PH2M          -13 JO22
+QSO:   432 FT8 2022-12-14 1928 G8SEI         -10 IO92             G8VFP         -06 IO82
+QSO:   432 FT8 2022-12-14 1929 G8SEI         -10 IO92             PE1FBC        -06 JO22
+QSO:   432 FT8 2022-12-14 1931 G8SEI         -11 IO92             G4ZZL         -01 JO01
+QSO:   432 FT8 2022-12-14 1935 G8SEI         -19 IO92             M7HLW         -10 IO92
+QSO:   432 FT8 2022-12-14 1937 G8SEI         -09 IO92             M1TZR         +00 IO83
+QSO:   432 FT8 2022-12-14 1943 G8SEI         -22 IO92             G8VFP         -15 IO82
+QSO:   432 FT8 2022-12-14 1945 G8SEI         -05 IO92             G0DJA         -01 IO93
+QSO:   432 FT8 2022-12-14 1956 G8SEI         -10 IO92             2E0DUE        +11 JO01
+QSO:   432 FT8 2022-12-14 1958 G8SEI         -09 IO92             G0JJG         -01 JO02
+QSO:   432 FT8 2022-12-14 2006 G8SEI         -17 IO92             M0LMK         -18 JO01
+QSO:   432 FT8 2022-12-14 2007 G8SEI         -13 IO92             2E0JPO        -16 IO91
+QSO:   432 FT8 2022-12-14 2010 G8SEI         +02 IO92             G8EEM         +13 IO93
+QSO:   432 FT8 2022-12-14 2013 G8SEI         -18 IO92             EI8KN         +01 IO62
+QSO:   432 FT8 2022-12-14 2016 G8SEI         -17 IO92             EI2FG         -05 IO61
+QSO:   432 FT8 2022-12-14 2017 G8SEI         -11 IO92             G4EII         +05 IO83
+QSO:   432 FT8 2022-12-14 2025 G8SEI         -06 IO92             DL5EBS        -09 JO31
+QSO:   432 FT8 2022-12-14 2036 G8SEI         -17 IO92             G0ISX         -01 IO93
+QSO:   432 FT8 2022-12-14 2042 G8SEI         +08 IO92             PA3EWP        -08 JO21
+QSO:   432 FT8 2022-12-14 2045 G8SEI         +02 IO92             G3ZPB         -13 IO91
+QSO:   432 FT8 2022-12-14 2048 G8SEI         -13 IO92             G4FFY         -06 JO01
+QSO:   432 FT8 2022-12-14 2050 G8SEI         -06 IO92             G7WIR         -12 JO01
+QSO:   432 FT8 2022-12-14 2052 G8SEI         -04 IO92             G4PDF         -07 IO93
 END-OF-LOG:

@@ -10,16 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220209&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=864; excluded rows=0.
-QSO:   432 DG 2022-02-09 1904 M0SEU         -02 JO01             G7WIR         -12 JO01
-QSO:   432 DG 2022-02-09 1908 M0SEU         -12 JO01             G0JJG         -13 JO02
-QSO:   432 DG 2022-02-09 1909 M0SEU         +22 JO01             G4ZZL         +21 JO01
-QSO:   432 DG 2022-02-09 1911 M0SEU         +04 JO01             2E0DUE        +00 JO01
-QSO:   432 DG 2022-02-09 1916 M0SEU         +25 JO01             G3YDY         +18 JO01
-QSO:   432 DG 2022-02-09 1934 M0SEU         +02 JO01             G0BIX         -18 JO01
-QSO:   432 DG 2022-02-09 2014 M0SEU         -02 JO01             G0MBL         -23 JO01
-QSO:   432 DG 2022-02-09 2037 M0SEU         -03 JO01             G4RHR         -17 JO02
-QSO:   432 DG 2022-02-09 2040 M0SEU         -02 JO01             G3MXH         -15 JO02
-QSO:   432 DG 2022-02-09 2051 M0SEU         +00 JO01             M0UGA         -22 IO92
+QSO:   432 FT8 2022-02-09 1904 M0SEU         -02 JO01             G7WIR         -12 JO01
+QSO:   432 FT8 2022-02-09 1908 M0SEU         -12 JO01             G0JJG         -13 JO02
+QSO:   432 FT8 2022-02-09 1909 M0SEU         +22 JO01             G4ZZL         +21 JO01
+QSO:   432 FT8 2022-02-09 1911 M0SEU         +04 JO01             2E0DUE        +00 JO01
+QSO:   432 FT8 2022-02-09 1916 M0SEU         +25 JO01             G3YDY         +18 JO01
+QSO:   432 FT8 2022-02-09 1934 M0SEU         +02 JO01             G0BIX         -18 JO01
+QSO:   432 FT8 2022-02-09 2014 M0SEU         -02 JO01             G0MBL         -23 JO01
+QSO:   432 FT8 2022-02-09 2037 M0SEU         -03 JO01             G4RHR         -17 JO02
+QSO:   432 FT8 2022-02-09 2040 M0SEU         -02 JO01             G3MXH         -15 JO02
+QSO:   432 FT8 2022-02-09 2051 M0SEU         +00 JO01             M0UGA         -22 IO92
 END-OF-LOG:

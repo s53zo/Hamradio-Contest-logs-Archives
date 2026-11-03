@@ -10,33 +10,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=260902&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=768; excluded rows=0.
-QSO:   144 DG 2026-09-02 1843 G4EFT         -06 IO91             G7LRQ         -13 JO03
-QSO:   144 DG 2026-09-02 1845 G4EFT         +09 IO91             G0GJV         +05 IO91
-QSO:   144 DG 2026-09-02 1846 G4EFT         -24 IO91             G7RAU         -13 IN79
-QSO:   144 DG 2026-09-02 1847 G4EFT         -06 IO91             M0PEL         -12 JO01
-QSO:   144 DG 2026-09-02 1849 G4EFT         -18 IO91             G0BIX         -03 JO01
-QSO:   144 DG 2026-09-02 1851 G4EFT         -17 IO91             ON8NT         -17 JO11
-QSO:   144 DG 2026-09-02 1857 G4EFT         -11 IO91             G4RFR         -15 IO90
-QSO:   144 DG 2026-09-02 1910 G4EFT         -07 IO91             2E0MRK        -09 IO91
-QSO:   144 DG 2026-09-02 1913 G4EFT         -09 IO91             G7ICV         -17 JO01
-QSO:   144 DG 2026-09-02 1917 G4EFT         -04 IO91             EI8KN         -12 IO62
-QSO:   144 DG 2026-09-02 1923 G4EFT         +23 IO91             G0XDI         +20 IO91
-QSO:   144 DG 2026-09-02 1931 G4EFT         +00 IO91             G7WIR         -08 JO01
-QSO:   144 DG 2026-09-02 1934 G4EFT         +07 IO91             G4TVR         -12 IO92
-QSO:   144 DG 2026-09-02 1936 G4EFT         -04 IO91             G8EEM         -09 IO93
-QSO:   144 DG 2026-09-02 1940 G4EFT         -03 IO91             G7ABT         -14 IO93
-QSO:   144 DG 2026-09-02 1954 G4EFT         -14 IO91             GM4JTJ        -17 IO86
-QSO:   144 DG 2026-09-02 1958 G4EFT         -10 IO91             G0JDL         -01 JO02
-QSO:   144 DG 2026-09-02 1959 G4EFT         -12 IO91             G4FLM         -06 IO94
-QSO:   144 DG 2026-09-02 2011 G4EFT         +11 IO91             G8BCG         +02 IO70
-QSO:   144 DG 2026-09-02 2013 G4EFT         -10 IO91             GE7RTI        +02 IO91
-QSO:   144 DG 2026-09-02 2018 G4EFT         -02 IO91             G4ZTR         -08 JO01
-QSO:   144 DG 2026-09-02 2018 G4EFT         -16 IO91             G4ZTR         -08 JO01
-QSO:   144 DG 2026-09-02 2020 G4EFT         -16 IO91             G7COU         -20 IO93
-QSO:   144 DG 2026-09-02 2033 G4EFT         -11 IO91             PE1OBL        -15 JO21
-QSO:   144 DG 2026-09-02 2035 G4EFT         -10 IO91             F1NQP         -07 JN19
-QSO:   144 DG 2026-09-02 2037 G4EFT         -09 IO91             G6HIE         -06 JO00
-QSO:   144 DG 2026-09-02 2051 G4EFT         -12 IO91             PH2M          -19 JO22
+QSO:   144 FT8 2026-09-02 1843 G4EFT         -06 IO91             G7LRQ         -13 JO03
+QSO:   144 FT8 2026-09-02 1845 G4EFT         +09 IO91             G0GJV         +05 IO91
+QSO:   144 FT8 2026-09-02 1846 G4EFT         -24 IO91             G7RAU         -13 IN79
+QSO:   144 FT8 2026-09-02 1847 G4EFT         -06 IO91             M0PEL         -12 JO01
+QSO:   144 FT8 2026-09-02 1849 G4EFT         -18 IO91             G0BIX         -03 JO01
+QSO:   144 FT8 2026-09-02 1851 G4EFT         -17 IO91             ON8NT         -17 JO11
+QSO:   144 FT8 2026-09-02 1857 G4EFT         -11 IO91             G4RFR         -15 IO90
+QSO:   144 FT8 2026-09-02 1910 G4EFT         -07 IO91             2E0MRK        -09 IO91
+QSO:   144 FT8 2026-09-02 1913 G4EFT         -09 IO91             G7ICV         -17 JO01
+QSO:   144 FT8 2026-09-02 1917 G4EFT         -04 IO91             EI8KN         -12 IO62
+QSO:   144 FT8 2026-09-02 1923 G4EFT         +23 IO91             G0XDI         +20 IO91
+QSO:   144 FT8 2026-09-02 1931 G4EFT         +00 IO91             G7WIR         -08 JO01
+QSO:   144 FT8 2026-09-02 1934 G4EFT         +07 IO91             G4TVR         -12 IO92
+QSO:   144 FT8 2026-09-02 1936 G4EFT         -04 IO91             G8EEM         -09 IO93
+QSO:   144 FT8 2026-09-02 1940 G4EFT         -03 IO91             G7ABT         -14 IO93
+QSO:   144 FT8 2026-09-02 1954 G4EFT         -14 IO91             GM4JTJ        -17 IO86
+QSO:   144 FT8 2026-09-02 1958 G4EFT         -10 IO91             G0JDL         -01 JO02
+QSO:   144 FT8 2026-09-02 1959 G4EFT         -12 IO91             G4FLM         -06 IO94
+QSO:   144 FT8 2026-09-02 2011 G4EFT         +11 IO91             G8BCG         +02 IO70
+QSO:   144 FT8 2026-09-02 2013 G4EFT         -10 IO91             GE7RTI        +02 IO91
+QSO:   144 FT8 2026-09-02 2018 G4EFT         -02 IO91             G4ZTR         -08 JO01
+QSO:   144 FT8 2026-09-02 2018 G4EFT         -16 IO91             G4ZTR         -08 JO01
+QSO:   144 FT8 2026-09-02 2020 G4EFT         -16 IO91             G7COU         -20 IO93
+QSO:   144 FT8 2026-09-02 2033 G4EFT         -11 IO91             PE1OBL        -15 JO21
+QSO:   144 FT8 2026-09-02 2035 G4EFT         -10 IO91             F1NQP         -07 JN19
+QSO:   144 FT8 2026-09-02 2037 G4EFT         -09 IO91             G6HIE         -06 JO00
+QSO:   144 FT8 2026-09-02 2051 G4EFT         -12 IO91             PH2M          -19 JO22
 END-OF-LOG:

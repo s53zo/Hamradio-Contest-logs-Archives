@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221012&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=675; excluded rows=0.
-QSO:   432 DG 2022-10-12 1903 G0ISX         -17 IO93             G4ISN         -08 IO92
-QSO:   432 DG 2022-10-12 1907 G0ISX         +07 IO93             G4NBS         +01 JO02
-QSO:   432 DG 2022-10-12 1908 G0ISX         +09 IO93             M0TMR         +12 IO93
-QSO:   432 DG 2022-10-12 1921 G0ISX         -02 IO93             M0AHN         -15 IO91
-QSO:   432 DG 2022-10-12 1926 G0ISX         +04 IO93             2E1FMS        -12 IO82
-QSO:   432 DG 2022-10-12 1941 G0ISX         -11 IO93             G4APJ         -15 IO83
-QSO:   432 DG 2022-10-12 1952 G0ISX         -04 IO93             G0XDI         -22 IO91
-QSO:   432 DG 2022-10-12 1954 G0ISX         -11 IO93             G6HIE         -24 JO00
-QSO:   432 DG 2022-10-12 1955 G0ISX         -10 IO93             2E0JPO        +01 IO91
-QSO:   432 DG 2022-10-12 1958 G0ISX         +05 IO93             G0XDI         -10 IO91
-QSO:   432 DG 2022-10-12 2004 G0ISX         +10 IO93             G7LRQ         -10 IO91
-QSO:   432 DG 2022-10-12 2008 G0ISX         -05 IO93             G4EII         -17 IO83
-QSO:   432 DG 2022-10-12 2028 G0ISX         -04 IO93             G4NBS         -09 JO02
-QSO:   432 DG 2022-10-12 2032 G0ISX         +02 IO93             G3ZPB         -13 IO91
-QSO:   432 DG 2022-10-12 2047 G0ISX         -11 IO93             G0BIX         -17 JO01
-QSO:   432 DG 2022-10-12 2055 G0ISX         +08 IO93             G4VPD         -17 IO92
+QSO:   432 FT8 2022-10-12 1903 G0ISX         -17 IO93             G4ISN         -08 IO92
+QSO:   432 FT8 2022-10-12 1907 G0ISX         +07 IO93             G4NBS         +01 JO02
+QSO:   432 FT8 2022-10-12 1908 G0ISX         +09 IO93             M0TMR         +12 IO93
+QSO:   432 FT8 2022-10-12 1921 G0ISX         -02 IO93             M0AHN         -15 IO91
+QSO:   432 FT8 2022-10-12 1926 G0ISX         +04 IO93             2E1FMS        -12 IO82
+QSO:   432 FT8 2022-10-12 1941 G0ISX         -11 IO93             G4APJ         -15 IO83
+QSO:   432 FT8 2022-10-12 1952 G0ISX         -04 IO93             G0XDI         -22 IO91
+QSO:   432 FT8 2022-10-12 1954 G0ISX         -11 IO93             G6HIE         -24 JO00
+QSO:   432 FT8 2022-10-12 1955 G0ISX         -10 IO93             2E0JPO        +01 IO91
+QSO:   432 FT8 2022-10-12 1958 G0ISX         +05 IO93             G0XDI         -10 IO91
+QSO:   432 FT8 2022-10-12 2004 G0ISX         +10 IO93             G7LRQ         -10 IO91
+QSO:   432 FT8 2022-10-12 2008 G0ISX         -05 IO93             G4EII         -17 IO83
+QSO:   432 FT8 2022-10-12 2028 G0ISX         -04 IO93             G4NBS         -09 JO02
+QSO:   432 FT8 2022-10-12 2032 G0ISX         +02 IO93             G3ZPB         -13 IO91
+QSO:   432 FT8 2022-10-12 2047 G0ISX         -11 IO93             G0BIX         -17 JO01
+QSO:   432 FT8 2022-10-12 2055 G0ISX         +08 IO93             G4VPD         -17 IO92
 END-OF-LOG:

@@ -10,44 +10,44 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220601&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=921; excluded rows=0.
-QSO:   144 DG 2022-06-01 1901 G1GEY         -05 IO94             2E0DUE        -08 JO01
-QSO:   144 DG 2022-06-01 1903 G1GEY         -17 IO94             F8DFO         -02 JO10
-QSO:   144 DG 2022-06-01 1904 G1GEY         +08 IO94             GQ7KHV        -09 IO93
-QSO:   144 DG 2022-06-01 1906 G1GEY         +12 IO94             G7COU         +00 IO93
-QSO:   144 DG 2022-06-01 1908 G1GEY         +00 IO94             G3YDY         -15 JO01
-QSO:   144 DG 2022-06-01 1910 G1GEY         +09 IO94             M0RTQ         +14 IO93
-QSO:   144 DG 2022-06-01 1915 G1GEY         +03 IO94             PD7RON        -09 JO22
-QSO:   144 DG 2022-06-01 1916 G1GEY         +14 IO94             GQ4NBS        +03 JO02
-QSO:   144 DG 2022-06-01 1918 G1GEY         -06 IO94             DG9BFE        -14 JO33
-QSO:   144 DG 2022-06-01 1920 G1GEY         -14 IO94             GQ7WIR        -19 JO01
-QSO:   144 DG 2022-06-01 1921 G1GEY         -06 IO94             G8CRB         -04 JO02
-QSO:   144 DG 2022-06-01 1924 G1GEY         -04 IO94             PE1KL         -12 JO21
-QSO:   144 DG 2022-06-01 1927 G1GEY         -02 IO94             GQ8IXK        +06 IO91
-QSO:   144 DG 2022-06-01 1932 G1GEY         -12 IO94             PE1NFT        -14 JO21
-QSO:   144 DG 2022-06-01 1937 G1GEY         -13 IO94             PA5PEK        -16 JO11
-QSO:   144 DG 2022-06-01 1940 G1GEY         -18 IO94             G7LRQ         -06 IO91
-QSO:   144 DG 2022-06-01 1941 G1GEY         -06 IO94             G0JJG         -15 JO02
-QSO:   144 DG 2022-06-01 1943 G1GEY         -20 IO94             2E0DBS        -20 JO02
-QSO:   144 DG 2022-06-01 1951 G1GEY         -13 IO94             PA7ML         -13 JO22
-QSO:   144 DG 2022-06-01 1954 G1GEY         -12 IO94             G6HIE         -13 JO00
-QSO:   144 DG 2022-06-01 1957 G1GEY         -01 IO94             M0IEP         +00 IO91
-QSO:   144 DG 2022-06-01 1959 G1GEY         +19 IO94             G8AOE/P       -10 IO94
-QSO:   144 DG 2022-06-01 2000 G1GEY         -15 IO94             G4OED         -09 IO91
-QSO:   144 DG 2022-06-01 2006 G1GEY         -17 IO94             G0MOH         +05 IO70
-QSO:   144 DG 2022-06-01 2011 G1GEY         -25 IO94             GM8MJV        -20 IO85
-QSO:   144 DG 2022-06-01 2013 G1GEY         -01 IO94             GI6ATZ        -01 IO74
-QSO:   144 DG 2022-06-01 2015 G1GEY         -01 IO94             MM0ABM        -07 IO75
-QSO:   144 DG 2022-06-01 2020 G1GEY         -20 IO94             G3ZGZ         -17 IO83
-QSO:   144 DG 2022-06-01 2027 G1GEY         -11 IO94             G3WZK         -20 IO91
-QSO:   144 DG 2022-06-01 2028 G1GEY         -19 IO94             M0SKT         -18 IO92
-QSO:   144 DG 2022-06-01 2031 G1GEY         -19 IO94             M7REV         -11 IO82
-QSO:   144 DG 2022-06-01 2036 G1GEY         -04 IO94             DK3BU         -17 JO33
-QSO:   144 DG 2022-06-01 2037 G1GEY         +00 IO94             DL6BF         +02 JO32
-QSO:   144 DG 2022-06-01 2040 G1GEY         -22 IO94             PD5MJF        -20 JO31
-QSO:   144 DG 2022-06-01 2045 G1GEY         -11 IO94             DL5EBS        -10 JO31
-QSO:   144 DG 2022-06-01 2047 G1GEY         -13 IO94             PA8KM         -17 JO32
-QSO:   144 DG 2022-06-01 2054 G1GEY         -20 IO94             G0JJG         -20 JO02
-QSO:   144 DG 2022-06-01 2058 G1GEY         -15 IO94             G3WAG/P       -08 IO82
+QSO:   144 FT8 2022-06-01 1901 G1GEY         -05 IO94             2E0DUE        -08 JO01
+QSO:   144 FT8 2022-06-01 1903 G1GEY         -17 IO94             F8DFO         -02 JO10
+QSO:   144 FT8 2022-06-01 1904 G1GEY         +08 IO94             GQ7KHV        -09 IO93
+QSO:   144 FT8 2022-06-01 1906 G1GEY         +12 IO94             G7COU         +00 IO93
+QSO:   144 FT8 2022-06-01 1908 G1GEY         +00 IO94             G3YDY         -15 JO01
+QSO:   144 FT8 2022-06-01 1910 G1GEY         +09 IO94             M0RTQ         +14 IO93
+QSO:   144 FT8 2022-06-01 1915 G1GEY         +03 IO94             PD7RON        -09 JO22
+QSO:   144 FT8 2022-06-01 1916 G1GEY         +14 IO94             GQ4NBS        +03 JO02
+QSO:   144 FT8 2022-06-01 1918 G1GEY         -06 IO94             DG9BFE        -14 JO33
+QSO:   144 FT8 2022-06-01 1920 G1GEY         -14 IO94             GQ7WIR        -19 JO01
+QSO:   144 FT8 2022-06-01 1921 G1GEY         -06 IO94             G8CRB         -04 JO02
+QSO:   144 FT8 2022-06-01 1924 G1GEY         -04 IO94             PE1KL         -12 JO21
+QSO:   144 FT8 2022-06-01 1927 G1GEY         -02 IO94             GQ8IXK        +06 IO91
+QSO:   144 FT8 2022-06-01 1932 G1GEY         -12 IO94             PE1NFT        -14 JO21
+QSO:   144 FT8 2022-06-01 1937 G1GEY         -13 IO94             PA5PEK        -16 JO11
+QSO:   144 FT8 2022-06-01 1940 G1GEY         -18 IO94             G7LRQ         -06 IO91
+QSO:   144 FT8 2022-06-01 1941 G1GEY         -06 IO94             G0JJG         -15 JO02
+QSO:   144 FT8 2022-06-01 1943 G1GEY         -20 IO94             2E0DBS        -20 JO02
+QSO:   144 FT8 2022-06-01 1951 G1GEY         -13 IO94             PA7ML         -13 JO22
+QSO:   144 FT8 2022-06-01 1954 G1GEY         -12 IO94             G6HIE         -13 JO00
+QSO:   144 FT8 2022-06-01 1957 G1GEY         -01 IO94             M0IEP         +00 IO91
+QSO:   144 FT8 2022-06-01 1959 G1GEY         +19 IO94             G8AOE/P       -10 IO94
+QSO:   144 FT8 2022-06-01 2000 G1GEY         -15 IO94             G4OED         -09 IO91
+QSO:   144 FT8 2022-06-01 2006 G1GEY         -17 IO94             G0MOH         +05 IO70
+QSO:   144 FT8 2022-06-01 2011 G1GEY         -25 IO94             GM8MJV        -20 IO85
+QSO:   144 FT8 2022-06-01 2013 G1GEY         -01 IO94             GI6ATZ        -01 IO74
+QSO:   144 FT8 2022-06-01 2015 G1GEY         -01 IO94             MM0ABM        -07 IO75
+QSO:   144 FT8 2022-06-01 2020 G1GEY         -20 IO94             G3ZGZ         -17 IO83
+QSO:   144 FT8 2022-06-01 2027 G1GEY         -11 IO94             G3WZK         -20 IO91
+QSO:   144 FT8 2022-06-01 2028 G1GEY         -19 IO94             M0SKT         -18 IO92
+QSO:   144 FT8 2022-06-01 2031 G1GEY         -19 IO94             M7REV         -11 IO82
+QSO:   144 FT8 2022-06-01 2036 G1GEY         -04 IO94             DK3BU         -17 JO33
+QSO:   144 FT8 2022-06-01 2037 G1GEY         +00 IO94             DL6BF         +02 JO32
+QSO:   144 FT8 2022-06-01 2040 G1GEY         -22 IO94             PD5MJF        -20 JO31
+QSO:   144 FT8 2022-06-01 2045 G1GEY         -11 IO94             DL5EBS        -10 JO31
+QSO:   144 FT8 2022-06-01 2047 G1GEY         -13 IO94             PA8KM         -17 JO32
+QSO:   144 FT8 2022-06-01 2054 G1GEY         -20 IO94             G0JJG         -20 JO02
+QSO:   144 FT8 2022-06-01 2058 G1GEY         -15 IO94             G3WAG/P       -08 IO82
 END-OF-LOG:

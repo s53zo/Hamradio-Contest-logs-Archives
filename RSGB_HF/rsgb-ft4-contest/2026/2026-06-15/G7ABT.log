@@ -10,37 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260615&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=8047; excluded rows=0.
-QSO: 28181 DG 2026-06-15 1901 G7ABT         +40 -                G7COU         +21 -
-QSO: 28181 DG 2026-06-15 1902 G7ABT         -05 -                SQ5N          -17 -
-QSO: 28181 DG 2026-06-15 1903 G7ABT         +06 -                SP5IDR        -01 -
-QSO: 28181 DG 2026-06-15 1905 G7ABT         +20 -                G6P           +20 -
-QSO: 21141 DG 2026-06-15 1916 G7ABT         -10 -                AC4O          +01 -
-QSO: 21140 DG 2026-06-15 1918 G7ABT         +20 -                G7COU         +16 -
-QSO: 21140 DG 2026-06-15 1919 G7ABT         -08 -                SQ5N          -21 -
-QSO: 21140 DG 2026-06-15 1920 G7ABT         -15 -                SP4MPH        -12 -
-QSO: 21140 DG 2026-06-15 1921 G7ABT         -17 -                DB7YI         -11 -
-QSO: 21140 DG 2026-06-15 1923 G7ABT         -05 -                HA9PP         -02 -
-QSO: 21141 DG 2026-06-15 1928 G7ABT         -07 -                DO3XR         -09 -
-QSO: 21141 DG 2026-06-15 1930 G7ABT         -17 -                IQ0VT         -14 -
-QSO: 21141 DG 2026-06-15 1935 G7ABT         +15 -                SP1MGM        +02 -
-QSO: 21141 DG 2026-06-15 1942 G7ABT         -11 -                N3KLJ         -15 -
-QSO: 14081 DG 2026-06-15 1949 G7ABT         +07 -                IQ5AAR        -01 -
-QSO: 14081 DG 2026-06-15 1950 G7ABT         +01 -                IQ4LH         -05 -
-QSO: 14081 DG 2026-06-15 1952 G7ABT         +01 -                IU2LZV        +11 -
-QSO:  7048 DG 2026-06-15 1959 G7ABT         -03 -                PA0GSP        +10 -
-QSO:  7048 DG 2026-06-15 2000 G7ABT         +14 -                G0AJH         +02 -
-QSO:  7048 DG 2026-06-15 2000 G7ABT         -02 -                M0JQT         +03 -
-QSO:  7050 DG 2026-06-15 2007 G7ABT         +14 -                GU0UVH        -02 -
-QSO:  3577 DG 2026-06-15 2013 G7ABT         +00 -                PA4GDR        -06 -
-QSO:  3577 DG 2026-06-15 2013 G7ABT         +12 -                G4PDF         -03 -
-QSO:  3577 DG 2026-06-15 2016 G7ABT         +02 -                GM4CXM        -02 -
-QSO:  3577 DG 2026-06-15 2018 G7ABT         -01 -                MW0MAU        - -
-QSO:  3577 DG 2026-06-15 2020 G7ABT         +06 -                OT8P          -02 -
-QSO: 21141 DG 2026-06-15 2028 G7ABT         +29 -                CR7BRV        -02 -
-QSO: 21141 DG 2026-06-15 2043 G7ABT         +21 -                IW9GSH        +01 -
-QSO: 21141 DG 2026-06-15 2044 G7ABT         -02 -                CO8LY         -09 -
-QSO: 21141 DG 2026-06-15 2046 G7ABT         -02 -                PU1JSV        -09 -
-QSO: 14081 DG 2026-06-15 2053 G7ABT         +07 -                S55X          -02 -
-QSO: 14081 DG 2026-06-15 2054 G7ABT         +05 -                TF3IG         +04 -
+QSO: 28181 FT4 2026-06-15 1901 G7ABT         +40 -                G7COU         +21 -
+QSO: 28181 FT4 2026-06-15 1902 G7ABT         -05 -                SQ5N          -17 -
+QSO: 28181 FT4 2026-06-15 1903 G7ABT         +06 -                SP5IDR        -01 -
+QSO: 28181 FT4 2026-06-15 1905 G7ABT         +20 -                G6P           +20 -
+QSO: 21141 FT4 2026-06-15 1916 G7ABT         -10 -                AC4O          +01 -
+QSO: 21140 FT4 2026-06-15 1918 G7ABT         +20 -                G7COU         +16 -
+QSO: 21140 FT4 2026-06-15 1919 G7ABT         -08 -                SQ5N          -21 -
+QSO: 21140 FT4 2026-06-15 1920 G7ABT         -15 -                SP4MPH        -12 -
+QSO: 21140 FT4 2026-06-15 1921 G7ABT         -17 -                DB7YI         -11 -
+QSO: 21140 FT4 2026-06-15 1923 G7ABT         -05 -                HA9PP         -02 -
+QSO: 21141 FT4 2026-06-15 1928 G7ABT         -07 -                DO3XR         -09 -
+QSO: 21141 FT4 2026-06-15 1930 G7ABT         -17 -                IQ0VT         -14 -
+QSO: 21141 FT4 2026-06-15 1935 G7ABT         +15 -                SP1MGM        +02 -
+QSO: 21141 FT4 2026-06-15 1942 G7ABT         -11 -                N3KLJ         -15 -
+QSO: 14081 FT4 2026-06-15 1949 G7ABT         +07 -                IQ5AAR        -01 -
+QSO: 14081 FT4 2026-06-15 1950 G7ABT         +01 -                IQ4LH         -05 -
+QSO: 14081 FT4 2026-06-15 1952 G7ABT         +01 -                IU2LZV        +11 -
+QSO:  7048 FT4 2026-06-15 1959 G7ABT         -03 -                PA0GSP        +10 -
+QSO:  7048 FT4 2026-06-15 2000 G7ABT         +14 -                G0AJH         +02 -
+QSO:  7048 FT4 2026-06-15 2000 G7ABT         -02 -                M0JQT         +03 -
+QSO:  7050 FT4 2026-06-15 2007 G7ABT         +14 -                GU0UVH        -02 -
+QSO:  3577 FT4 2026-06-15 2013 G7ABT         +00 -                PA4GDR        -06 -
+QSO:  3577 FT4 2026-06-15 2013 G7ABT         +12 -                G4PDF         -03 -
+QSO:  3577 FT4 2026-06-15 2016 G7ABT         +02 -                GM4CXM        -02 -
+QSO:  3577 FT4 2026-06-15 2018 G7ABT         -01 -                MW0MAU        - -
+QSO:  3577 FT4 2026-06-15 2020 G7ABT         +06 -                OT8P          -02 -
+QSO: 21141 FT4 2026-06-15 2028 G7ABT         +29 -                CR7BRV        -02 -
+QSO: 21141 FT4 2026-06-15 2043 G7ABT         +21 -                IW9GSH        +01 -
+QSO: 21141 FT4 2026-06-15 2044 G7ABT         -02 -                CO8LY         -09 -
+QSO: 21141 FT4 2026-06-15 2046 G7ABT         -02 -                PU1JSV        -09 -
+QSO: 14081 FT4 2026-06-15 2053 G7ABT         +07 -                S55X          -02 -
+QSO: 14081 FT4 2026-06-15 2054 G7ABT         +05 -                TF3IG         +04 -
 END-OF-LOG:

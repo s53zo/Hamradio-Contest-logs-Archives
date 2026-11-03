@@ -10,38 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO:  7049 DG 2026-02-23 2007 G4CJC         -11 -                G3WAG         -08 -
-QSO:  7049 DG 2026-02-23 2009 G4CJC         -14 -                YO9FDG        -09 -
-QSO:  7049 DG 2026-02-23 2012 G4CJC         -12 -                PD2GSP        -07 -
-QSO:  7049 DG 2026-02-23 2014 G4CJC         -15 -                OM1HG         -07 -
-QSO:  7049 DG 2026-02-23 2018 G4CJC         -03 -                DK2OY         +03 -
-QSO:  7049 DG 2026-02-23 2020 G4CJC         +07 -                I2XLF         +12 -
-QSO:  7049 DG 2026-02-23 2022 G4CJC         -11 -                IN3OWY        +05 -
-QSO:  7049 DG 2026-02-23 2025 G4CJC         -04 -                SQ7ADR        +09 -
-QSO:  7049 DG 2026-02-23 2027 G4CJC         +02 -                HB9AWS        -01 -
-QSO:  7049 DG 2026-02-23 2028 G4CJC         +15 -                AN46SE        +02 -
-QSO:  7049 DG 2026-02-23 2031 G4CJC         +07 -                II2WOG        +01 -
-QSO: 14081 DG 2026-02-23 2112 G4CJC         -07 -                M0MHX         -15 -
-QSO:  7049 DG 2026-02-23 2116 G4CJC         -03 -                CT1DUD        -08 -
-QSO:  7049 DG 2026-02-23 2119 G4CJC         -12 -                YO4CVV        +05 -
-QSO:  7049 DG 2026-02-23 2120 G4CJC         -06 -                IK4RVY        -11 -
-QSO:  7049 DG 2026-02-23 2121 G4CJC         -13 -                HG80EME       +00 -
-QSO:  7049 DG 2026-02-23 2122 G4CJC         -10 -                G4BYE         -08 -
-QSO:  7049 DG 2026-02-23 2124 G4CJC         -11 -                EA5IKP        +03 -
-QSO:  7049 DG 2026-02-23 2125 G4CJC         -14 -                IK2FTB        -01 -
-QSO:  7049 DG 2026-02-23 2126 G4CJC         -04 -                IT9HJQ        +06 -
-QSO:  7049 DG 2026-02-23 2129 G4CJC         -13 -                CT4KQ         +08 -
-QSO:  7049 DG 2026-02-23 2131 G4CJC         -14 -                I3LTT         -02 -
-QSO:  7049 DG 2026-02-23 2133 G4CJC         +02 -                LZ3PA         +02 -
-QSO:  7049 DG 2026-02-23 2136 G4CJC         -04 -                ZV5PR         -02 -
-QSO:  7049 DG 2026-02-23 2139 G4CJC         -13 -                K9OM          +02 -
-QSO:  7049 DG 2026-02-23 2140 G4CJC         -16 -                AN46AL        -03 -
-QSO:  7049 DG 2026-02-23 2145 G4CJC         -05 -                IT9JOB        +08 -
-QSO:  7049 DG 2026-02-23 2147 G4CJC         -02 -                LZ1JZ         -01 -
-QSO:  7049 DG 2026-02-23 2151 G4CJC         +00 -                SV3DCX        +02 -
-QSO:  7049 DG 2026-02-23 2153 G4CJC         -14 -                SP5EXA        -08 -
-QSO:  7049 DG 2026-02-23 2156 G4CJC         -06 -                K1RO          +01 -
-QSO:  7049 DG 2026-02-23 2158 G4CJC         -14 -                G3WJG         -15 -
-QSO:  7049 DG 2026-02-23 2159 G4CJC         -14 -                SP6ABD        -21 -
+QSO:  7049 FT4 2026-02-23 2007 G4CJC         -11 -                G3WAG         -08 -
+QSO:  7049 FT4 2026-02-23 2009 G4CJC         -14 -                YO9FDG        -09 -
+QSO:  7049 FT4 2026-02-23 2012 G4CJC         -12 -                PD2GSP        -07 -
+QSO:  7049 FT4 2026-02-23 2014 G4CJC         -15 -                OM1HG         -07 -
+QSO:  7049 FT4 2026-02-23 2018 G4CJC         -03 -                DK2OY         +03 -
+QSO:  7049 FT4 2026-02-23 2020 G4CJC         +07 -                I2XLF         +12 -
+QSO:  7049 FT4 2026-02-23 2022 G4CJC         -11 -                IN3OWY        +05 -
+QSO:  7049 FT4 2026-02-23 2025 G4CJC         -04 -                SQ7ADR        +09 -
+QSO:  7049 FT4 2026-02-23 2027 G4CJC         +02 -                HB9AWS        -01 -
+QSO:  7049 FT4 2026-02-23 2028 G4CJC         +15 -                AN46SE        +02 -
+QSO:  7049 FT4 2026-02-23 2031 G4CJC         +07 -                II2WOG        +01 -
+QSO: 14081 FT4 2026-02-23 2112 G4CJC         -07 -                M0MHX         -15 -
+QSO:  7049 FT4 2026-02-23 2116 G4CJC         -03 -                CT1DUD        -08 -
+QSO:  7049 FT4 2026-02-23 2119 G4CJC         -12 -                YO4CVV        +05 -
+QSO:  7049 FT4 2026-02-23 2120 G4CJC         -06 -                IK4RVY        -11 -
+QSO:  7049 FT4 2026-02-23 2121 G4CJC         -13 -                HG80EME       +00 -
+QSO:  7049 FT4 2026-02-23 2122 G4CJC         -10 -                G4BYE         -08 -
+QSO:  7049 FT4 2026-02-23 2124 G4CJC         -11 -                EA5IKP        +03 -
+QSO:  7049 FT4 2026-02-23 2125 G4CJC         -14 -                IK2FTB        -01 -
+QSO:  7049 FT4 2026-02-23 2126 G4CJC         -04 -                IT9HJQ        +06 -
+QSO:  7049 FT4 2026-02-23 2129 G4CJC         -13 -                CT4KQ         +08 -
+QSO:  7049 FT4 2026-02-23 2131 G4CJC         -14 -                I3LTT         -02 -
+QSO:  7049 FT4 2026-02-23 2133 G4CJC         +02 -                LZ3PA         +02 -
+QSO:  7049 FT4 2026-02-23 2136 G4CJC         -04 -                ZV5PR         -02 -
+QSO:  7049 FT4 2026-02-23 2139 G4CJC         -13 -                K9OM          +02 -
+QSO:  7049 FT4 2026-02-23 2140 G4CJC         -16 -                AN46AL        -03 -
+QSO:  7049 FT4 2026-02-23 2145 G4CJC         -05 -                IT9JOB        +08 -
+QSO:  7049 FT4 2026-02-23 2147 G4CJC         -02 -                LZ1JZ         -01 -
+QSO:  7049 FT4 2026-02-23 2151 G4CJC         +00 -                SV3DCX        +02 -
+QSO:  7049 FT4 2026-02-23 2153 G4CJC         -14 -                SP5EXA        -08 -
+QSO:  7049 FT4 2026-02-23 2156 G4CJC         -06 -                K1RO          +01 -
+QSO:  7049 FT4 2026-02-23 2158 G4CJC         -14 -                G3WJG         -15 -
+QSO:  7049 FT4 2026-02-23 2159 G4CJC         -14 -                SP6ABD        -21 -
 END-OF-LOG:

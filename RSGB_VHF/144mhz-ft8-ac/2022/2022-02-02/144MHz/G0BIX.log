@@ -10,40 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1912 G0BIX         -21 JO01             MW3ASG        -14 IO81
-QSO:   144 DG 2022-02-02 1913 G0BIX         -06 JO01             G0GLG         +03 IO91
-QSO:   144 DG 2022-02-02 1915 G0BIX         -20 JO01             EI8KN         -06 IO62
-QSO:   144 DG 2022-02-02 1919 G0BIX         -11 JO01             G4APJ         -09 IO83
-QSO:   144 DG 2022-02-02 1921 G0BIX         -14 JO01             G8EEM         -06 IO93
-QSO:   144 DG 2022-02-02 1923 G0BIX         -12 JO01             G8XYJ         -17 IO82
-QSO:   144 DG 2022-02-02 1930 G0BIX         -03 JO01             MM0CEZ        -11 IO75
-QSO:   144 DG 2022-02-02 1938 G0BIX         +09 JO01             G4VPD         +02 IO92
-QSO:   144 DG 2022-02-02 1941 G0BIX         -13 JO01             G0GEP         -16 IO92
-QSO:   144 DG 2022-02-02 1943 G0BIX         +08 JO01             M7SPS         +14 IO92
-QSO:   144 DG 2022-02-02 1945 G0BIX         -07 JO01             M0SEU         +06 JO01
-QSO:   144 DG 2022-02-02 1947 G0BIX         -18 JO01             G0FEH         -20 IO91
-QSO:   144 DG 2022-02-02 1954 G0BIX         -05 JO01             G8AOE/P       -08 IO94
-QSO:   144 DG 2022-02-02 1955 G0BIX         -13 JO01             M1EYP/P       -11 IO83
-QSO:   144 DG 2022-02-02 1958 G0BIX         -20 JO01             GD0TEP        -06 IO74
-QSO:   144 DG 2022-02-02 2000 G0BIX         -14 JO01             G3WZK         -15 IO91
-QSO:   144 DG 2022-02-02 2002 G0BIX         -03 JO01             G3XBY         -14 IO92
-QSO:   144 DG 2022-02-02 2006 G0BIX         -10 JO01             M7APV         -03 JO01
-QSO:   144 DG 2022-02-02 2008 G0BIX         -11 JO01             G8GNI         -04 IO91
-QSO:   144 DG 2022-02-02 2014 G0BIX         -12 JO01             GI6ATZ        -05 IO74
-QSO:   144 DG 2022-02-02 2017 G0BIX         -19 JO01             G0XBU         -06 IO83
-QSO:   144 DG 2022-02-02 2022 G0BIX         -17 JO01             M0KIO         -03 IO91
-QSO:   144 DG 2022-02-02 2023 G0BIX         +08 JO01             G4FFY         +10 JO01
-QSO:   144 DG 2022-02-02 2026 G0BIX         +06 JO01             G7LRQ         -15 IO91
-QSO:   144 DG 2022-02-02 2028 G0BIX         -12 JO01             PA5Y          -03 JO21
-QSO:   144 DG 2022-02-02 2038 G0BIX         -08 JO01             G8BXC         +02 JO01
-QSO:   144 DG 2022-02-02 2043 G0BIX         -11 JO01             MI0IHH        -15 IO74
-QSO:   144 DG 2022-02-02 2045 G0BIX         -08 JO01             G0DJA         -04 IO93
-QSO:   144 DG 2022-02-02 2048 G0BIX         -19 JO01             G1VWC         -02 IO92
-QSO:   144 DG 2022-02-02 2050 G0BIX         +05 JO01             G3YDY         -04 JO01
-QSO:   144 DG 2022-02-02 2051 G0BIX         +00 JO01             G4EII         -19 IO83
-QSO:   144 DG 2022-02-02 2053 G0BIX         -08 JO01             M0FXX         -08 IO91
-QSO:   144 DG 2022-02-02 2055 G0BIX         +01 JO01             G4NBS         +07 JO02
-QSO:   144 DG 2022-02-02 2059 G0BIX         -19 JO01             G0FVI         -15 IO93
+QSO:   144 FT8 2022-02-02 1912 G0BIX         -21 JO01             MW3ASG        -14 IO81
+QSO:   144 FT8 2022-02-02 1913 G0BIX         -06 JO01             G0GLG         +03 IO91
+QSO:   144 FT8 2022-02-02 1915 G0BIX         -20 JO01             EI8KN         -06 IO62
+QSO:   144 FT8 2022-02-02 1919 G0BIX         -11 JO01             G4APJ         -09 IO83
+QSO:   144 FT8 2022-02-02 1921 G0BIX         -14 JO01             G8EEM         -06 IO93
+QSO:   144 FT8 2022-02-02 1923 G0BIX         -12 JO01             G8XYJ         -17 IO82
+QSO:   144 FT8 2022-02-02 1930 G0BIX         -03 JO01             MM0CEZ        -11 IO75
+QSO:   144 FT8 2022-02-02 1938 G0BIX         +09 JO01             G4VPD         +02 IO92
+QSO:   144 FT8 2022-02-02 1941 G0BIX         -13 JO01             G0GEP         -16 IO92
+QSO:   144 FT8 2022-02-02 1943 G0BIX         +08 JO01             M7SPS         +14 IO92
+QSO:   144 FT8 2022-02-02 1945 G0BIX         -07 JO01             M0SEU         +06 JO01
+QSO:   144 FT8 2022-02-02 1947 G0BIX         -18 JO01             G0FEH         -20 IO91
+QSO:   144 FT8 2022-02-02 1954 G0BIX         -05 JO01             G8AOE/P       -08 IO94
+QSO:   144 FT8 2022-02-02 1955 G0BIX         -13 JO01             M1EYP/P       -11 IO83
+QSO:   144 FT8 2022-02-02 1958 G0BIX         -20 JO01             GD0TEP        -06 IO74
+QSO:   144 FT8 2022-02-02 2000 G0BIX         -14 JO01             G3WZK         -15 IO91
+QSO:   144 FT8 2022-02-02 2002 G0BIX         -03 JO01             G3XBY         -14 IO92
+QSO:   144 FT8 2022-02-02 2006 G0BIX         -10 JO01             M7APV         -03 JO01
+QSO:   144 FT8 2022-02-02 2008 G0BIX         -11 JO01             G8GNI         -04 IO91
+QSO:   144 FT8 2022-02-02 2014 G0BIX         -12 JO01             GI6ATZ        -05 IO74
+QSO:   144 FT8 2022-02-02 2017 G0BIX         -19 JO01             G0XBU         -06 IO83
+QSO:   144 FT8 2022-02-02 2022 G0BIX         -17 JO01             M0KIO         -03 IO91
+QSO:   144 FT8 2022-02-02 2023 G0BIX         +08 JO01             G4FFY         +10 JO01
+QSO:   144 FT8 2022-02-02 2026 G0BIX         +06 JO01             G7LRQ         -15 IO91
+QSO:   144 FT8 2022-02-02 2028 G0BIX         -12 JO01             PA5Y          -03 JO21
+QSO:   144 FT8 2022-02-02 2038 G0BIX         -08 JO01             G8BXC         +02 JO01
+QSO:   144 FT8 2022-02-02 2043 G0BIX         -11 JO01             MI0IHH        -15 IO74
+QSO:   144 FT8 2022-02-02 2045 G0BIX         -08 JO01             G0DJA         -04 IO93
+QSO:   144 FT8 2022-02-02 2048 G0BIX         -19 JO01             G1VWC         -02 IO92
+QSO:   144 FT8 2022-02-02 2050 G0BIX         +05 JO01             G3YDY         -04 JO01
+QSO:   144 FT8 2022-02-02 2051 G0BIX         +00 JO01             G4EII         -19 IO83
+QSO:   144 FT8 2022-02-02 2053 G0BIX         -08 JO01             M0FXX         -08 IO91
+QSO:   144 FT8 2022-02-02 2055 G0BIX         +01 JO01             G4NBS         +07 JO02
+QSO:   144 FT8 2022-02-02 2059 G0BIX         -19 JO01             G0FVI         -15 IO93
 END-OF-LOG:

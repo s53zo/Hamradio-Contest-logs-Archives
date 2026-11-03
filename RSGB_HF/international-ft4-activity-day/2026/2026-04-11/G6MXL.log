@@ -10,11 +10,12 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO:  7049 DG 2026-04-11 2206 G6MXL         -03 -                W1UE          -02 -
-QSO:  7049 DG 2026-04-11 2210 G6MXL         -05 -                PA5WK         -09 -
-QSO:  7049 DG 2026-04-11 2217 G6MXL         -08 -                K9OM          -19 -
-QSO: 14082 DG 2026-04-12 1003 G6MXL         +08 -                G4R           +14 -
-QSO: 14082 DG 2026-04-12 1009 G6MXL         -14 -                SM3ULU        +02 -
-QSO: 14082 DG 2026-04-12 1012 G6MXL         -11 -                IU4DTV        -05 -
+QSO:  7049 FT4 2026-04-11 2206 G6MXL         -03 -                W1UE          -02 -
+QSO:  7049 FT4 2026-04-11 2210 G6MXL         -05 -                PA5WK         -09 -
+QSO:  7049 FT4 2026-04-11 2217 G6MXL         -08 -                K9OM          -19 -
+QSO: 14082 FT4 2026-04-12 1003 G6MXL         +08 -                G4R           +14 -
+QSO: 14082 FT4 2026-04-12 1009 G6MXL         -14 -                SM3ULU        +02 -
+QSO: 14082 FT4 2026-04-12 1012 G6MXL         -11 -                IU4DTV        -05 -
 END-OF-LOG:

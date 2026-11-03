@@ -10,27 +10,28 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO: 14081 DG 2026-04-11 1323 WA3AFS        +05 -                LA1B          -04 -
-QSO: 14081 DG 2026-04-11 1335 WA3AFS        +05 -                TF4M          +04 -
-QSO: 14081 DG 2026-04-11 1343 WA3AFS        +12 -                G7M           -04 -
-QSO: 14081 DG 2026-04-11 1553 WA3AFS        +13 -                GM5G          -15 -
-QSO: 14081 DG 2026-04-11 1608 WA3AFS        +15 -                PA6AA         -15 -
-QSO: 14081 DG 2026-04-11 1636 WA3AFS        -07 -                G7RAU         -04 -
-QSO: 14081 DG 2026-04-11 1820 WA3AFS        +13 -                VO1AW         -02 -
-QSO: 14081 DG 2026-04-11 1822 WA3AFS        -03 -                S57AM         -14 -
-QSO: 14081 DG 2026-04-11 1825 WA3AFS        +18 -                RJ6D          -01 -
-QSO: 14081 DG 2026-04-11 1829 WA3AFS        +19 -                RJ6D          +00 -
-QSO: 14081 DG 2026-04-11 1942 WA3AFS        +04 -                A61BG         -08 -
-QSO: 14081 DG 2026-04-11 1956 WA3AFS        -06 -                RD3FY         -13 -
-QSO: 14081 DG 2026-04-11 2013 WA3AFS        -15 -                SP2DNI        -13 -
-QSO: 14081 DG 2026-04-11 2028 WA3AFS        -05 -                HG0NPJ        -09 -
-QSO: 14081 DG 2026-04-11 2041 WA3AFS        +09 -                9A4BL         -03 -
-QSO: 14081 DG 2026-04-11 2120 WA3AFS        +13 -                V4/SP9FIH     +03 -
-QSO: 14081 DG 2026-04-11 2147 WA3AFS        +00 -                DM2JJ         -11 -
-QSO: 14081 DG 2026-04-11 2148 WA3AFS        +05 -                W1AW/7        -10 -
-QSO:  7048 DG 2026-04-12 0208 WA3AFS        -04 -                G0HSP         -10 -
-QSO:  7048 DG 2026-04-12 0236 WA3AFS        -05 -                G3SWC         -09 -
-QSO:  7048 DG 2026-04-12 0301 WA3AFS        -03 -                F4GBW         -18 -
-QSO:  7048 DG 2026-04-12 0311 WA3AFS        +01 -                9A4AA         -15 -
+QSO: 14081 FT4 2026-04-11 1323 WA3AFS        +05 -                LA1B          -04 -
+QSO: 14081 FT4 2026-04-11 1335 WA3AFS        +05 -                TF4M          +04 -
+QSO: 14081 FT4 2026-04-11 1343 WA3AFS        +12 -                G7M           -04 -
+QSO: 14081 FT4 2026-04-11 1553 WA3AFS        +13 -                GM5G          -15 -
+QSO: 14081 FT4 2026-04-11 1608 WA3AFS        +15 -                PA6AA         -15 -
+QSO: 14081 FT4 2026-04-11 1636 WA3AFS        -07 -                G7RAU         -04 -
+QSO: 14081 FT4 2026-04-11 1820 WA3AFS        +13 -                VO1AW         -02 -
+QSO: 14081 FT4 2026-04-11 1822 WA3AFS        -03 -                S57AM         -14 -
+QSO: 14081 FT4 2026-04-11 1825 WA3AFS        +18 -                RJ6D          -01 -
+QSO: 14081 FT4 2026-04-11 1829 WA3AFS        +19 -                RJ6D          +00 -
+QSO: 14081 FT4 2026-04-11 1942 WA3AFS        +04 -                A61BG         -08 -
+QSO: 14081 FT4 2026-04-11 1956 WA3AFS        -06 -                RD3FY         -13 -
+QSO: 14081 FT4 2026-04-11 2013 WA3AFS        -15 -                SP2DNI        -13 -
+QSO: 14081 FT4 2026-04-11 2028 WA3AFS        -05 -                HG0NPJ        -09 -
+QSO: 14081 FT4 2026-04-11 2041 WA3AFS        +09 -                9A4BL         -03 -
+QSO: 14081 FT4 2026-04-11 2120 WA3AFS        +13 -                V4/SP9FIH     +03 -
+QSO: 14081 FT4 2026-04-11 2147 WA3AFS        +00 -                DM2JJ         -11 -
+QSO: 14081 FT4 2026-04-11 2148 WA3AFS        +05 -                W1AW/7        -10 -
+QSO:  7048 FT4 2026-04-12 0208 WA3AFS        -04 -                G0HSP         -10 -
+QSO:  7048 FT4 2026-04-12 0236 WA3AFS        -05 -                G3SWC         -09 -
+QSO:  7048 FT4 2026-04-12 0301 WA3AFS        -03 -                F4GBW         -18 -
+QSO:  7048 FT4 2026-04-12 0311 WA3AFS        +01 -                9A4AA         -15 -
 END-OF-LOG:

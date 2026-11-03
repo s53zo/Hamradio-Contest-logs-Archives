@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220105&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1458; excluded rows=0.
-QSO:   144 DG 2022-01-05 1901 G0CNN         -10 IO94             G8EEM         +04 IO93
-QSO:   144 DG 2022-01-05 1908 G0CNN         -16 IO94             GM4UYZ        -14 IO85
-QSO:   144 DG 2022-01-05 1911 G0CNN         -15 IO94             GM4FVM        -15 IO85
-QSO:   144 DG 2022-01-05 1929 G0CNN         +16 IO94             G8AOE/P       +19 IO94
-QSO:   144 DG 2022-01-05 1931 G0CNN         +02 IO94             GI6ATZ        -07 IO74
-QSO:   144 DG 2022-01-05 1939 G0CNN         -10 IO94             2E1SKY        +00 IO93
-QSO:   144 DG 2022-01-05 1947 G0CNN         -12 IO94             M7GZZ         -07 IO93
-QSO:   144 DG 2022-01-05 1956 G0CNN         -12 IO94             G4PDF         -07 IO93
-QSO:   144 DG 2022-01-05 1958 G0CNN         -07 IO94             G0UXC         -02 IO83
-QSO:   144 DG 2022-01-05 2003 G0CNN         -17 IO94             G7COU         -10 IO93
-QSO:   144 DG 2022-01-05 2015 G0CNN         -11 IO94             2E0FAU        -07 IO94
-QSO:   144 DG 2022-01-05 2021 G0CNN         -13 IO94             MC5WRG        -11 IO72
-QSO:   144 DG 2022-01-05 2024 G0CNN         -14 IO94             G0HDV         -13 IO93
-QSO:   144 DG 2022-01-05 2045 G0CNN         -15 IO94             G8PGO         -07 IO92
-QSO:   144 DG 2022-01-05 2052 G0CNN         -13 IO94             M1CAV         +09 IO93
-QSO:   144 DG 2022-01-05 2058 G0CNN         -14 IO94             GM4CXM        -17 IO75
+QSO:   144 FT8 2022-01-05 1901 G0CNN         -10 IO94             G8EEM         +04 IO93
+QSO:   144 FT8 2022-01-05 1908 G0CNN         -16 IO94             GM4UYZ        -14 IO85
+QSO:   144 FT8 2022-01-05 1911 G0CNN         -15 IO94             GM4FVM        -15 IO85
+QSO:   144 FT8 2022-01-05 1929 G0CNN         +16 IO94             G8AOE/P       +19 IO94
+QSO:   144 FT8 2022-01-05 1931 G0CNN         +02 IO94             GI6ATZ        -07 IO74
+QSO:   144 FT8 2022-01-05 1939 G0CNN         -10 IO94             2E1SKY        +00 IO93
+QSO:   144 FT8 2022-01-05 1947 G0CNN         -12 IO94             M7GZZ         -07 IO93
+QSO:   144 FT8 2022-01-05 1956 G0CNN         -12 IO94             G4PDF         -07 IO93
+QSO:   144 FT8 2022-01-05 1958 G0CNN         -07 IO94             G0UXC         -02 IO83
+QSO:   144 FT8 2022-01-05 2003 G0CNN         -17 IO94             G7COU         -10 IO93
+QSO:   144 FT8 2022-01-05 2015 G0CNN         -11 IO94             2E0FAU        -07 IO94
+QSO:   144 FT8 2022-01-05 2021 G0CNN         -13 IO94             MC5WRG        -11 IO72
+QSO:   144 FT8 2022-01-05 2024 G0CNN         -14 IO94             G0HDV         -13 IO93
+QSO:   144 FT8 2022-01-05 2045 G0CNN         -15 IO94             G8PGO         -07 IO92
+QSO:   144 FT8 2022-01-05 2052 G0CNN         -13 IO94             M1CAV         +09 IO93
+QSO:   144 FT8 2022-01-05 2058 G0CNN         -14 IO94             GM4CXM        -17 IO75
 END-OF-LOG:

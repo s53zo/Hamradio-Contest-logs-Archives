@@ -2,7 +2,7 @@ START-OF-LOG: 3.0
 CREATED-BY: RSGB-public-qso-downloader
 CONTEST: RSGB-RSGB-FT4-CONTEST
 CALLSIGN: SP1TJ
-CATEGORY-MODE: RTTY
+CATEGORY-MODE: DIGI
 CATEGORY-BAND: ALL
 CATEGORY-POWER: LOW
 CATEGORY: Non-UK 100W RESTRICTED
@@ -10,45 +10,46 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO: 14080 RY 2026-02-23 2010 SP1TJ         +07 -                AN46HU        +11 -
-QSO:  7047 RY 2026-02-23 2013 SP1TJ         -01 -                M0MHX         -03 -
-QSO:  7048 RY 2026-02-23 2015 SP1TJ         -05 -                2D0PEY        +01 -
-QSO:  7048 RY 2026-02-23 2016 SP1TJ         -06 -                G3WAG         +04 -
-QSO:  7048 RY 2026-02-23 2018 SP1TJ         +04 -                HG80EME       -10 -
-QSO:  7049 RY 2026-02-23 2020 SP1TJ         -03 -                G1WOV         -08 -
-QSO:  7048 RY 2026-02-23 2021 SP1TJ         +11 -                G4CXQ         +12 -
-QSO:  7049 RY 2026-02-23 2023 SP1TJ         -14 -                OK2USM        -09 -
-QSO:  7048 RY 2026-02-23 2025 SP1TJ         -16 -                IU1MJS        -01 -
-QSO:  7048 RY 2026-02-23 2027 SP1TJ         -02 -                G7NJX         +05 -
-QSO:  7049 RY 2026-02-23 2033 SP1TJ         -02 -                G5KTX         +05 -
-QSO:  3576 RY 2026-02-23 2037 SP1TJ         -10 -                M0KHR         -06 -
-QSO:  3576 RY 2026-02-23 2040 SP1TJ         +02 -                SK6QA         +10 -
-QSO:  3576 RY 2026-02-23 2037 SP1TJ         +06 -                DO1ARD        +07 -
-QSO:  3575 RY 2026-02-23 2044 SP1TJ         +04 -                DL7VTW        +15 -
-QSO:  3576 RY 2026-02-23 2050 SP1TJ         -11 -                F6KHM         +07 -
-QSO:  3576 RY 2026-02-23 2052 SP1TJ         -14 -                GW5P          -01 -
-QSO:  3576 RY 2026-02-23 2053 SP1TJ         -16 -                DB2GM         -03 -
-QSO:  3576 RY 2026-02-23 2051 SP1TJ         -03 -                HB9CRN        -09 -
-QSO:  3576 RY 2026-02-23 2056 SP1TJ         -05 -                DO8PAT        -12 -
-QSO:  3576 RY 2026-02-23 2057 SP1TJ         -13 -                PC2J          -05 -
-QSO:  3575 RY 2026-02-23 2109 SP1TJ         -11 -                G4PDF         -07 -
-QSO:  3576 RY 2026-02-23 2111 SP1TJ         -21 -                M7WYF         -08 -
-QSO:  3575 RY 2026-02-23 2121 SP1TJ         -08 -                PA5BS         -02 -
-QSO:  3575 RY 2026-02-23 2123 SP1TJ         -08 -                OK1FHI        -01 -
-QSO:  3576 RY 2026-02-23 2124 SP1TJ         -04 -                F6KHM         -04 -
-QSO:  3576 RY 2026-02-23 2125 SP1TJ         -06 -                PI4PD         +09 -
-QSO:  3575 RY 2026-02-23 2127 SP1TJ         -07 -                G4DBW         -05 -
-QSO:  3575 RY 2026-02-23 2129 SP1TJ         -09 -                DH1JAD        +01 -
-QSO:  3576 RY 2026-02-23 2134 SP1TJ         -05 -                HG0NPJ        +08 -
-QSO:  3575 RY 2026-02-23 2136 SP1TJ         -08 -                DO1ARD        +05 -
-QSO:  3577 RY 2026-02-23 2141 SP1TJ         -03 -                G4BYE         -09 -
-QSO:  3576 RY 2026-02-23 2142 SP1TJ         +04 -                SP5IDR        -05 -
-QSO:  3577 RY 2026-02-23 2142 SP1TJ         -10 -                G4CXQ         -11 -
-QSO:  3576 RY 2026-02-23 2144 SP1TJ         -06 -                SV1DZB        -13 -
-QSO:  3575 RY 2026-02-23 2146 SP1TJ         +11 -                PA8DC         +04 -
-QSO:  3576 RY 2026-02-23 2148 SP1TJ         +02 -                PE1FBC        -04 -
-QSO:  3576 RY 2026-02-23 2149 SP1TJ         +01 -                G1WOV         -12 -
-QSO:  3576 RY 2026-02-23 2155 SP1TJ         -07 -                G0CER         -03 -
-QSO:  3576 RY 2026-02-23 2156 SP1TJ         -08 -                GU0UVH        -02 -
+QSO: 14080 FT4 2026-02-23 2010 SP1TJ         +07 -                AN46HU        +11 -
+QSO:  7047 FT4 2026-02-23 2013 SP1TJ         -01 -                M0MHX         -03 -
+QSO:  7048 FT4 2026-02-23 2015 SP1TJ         -05 -                2D0PEY        +01 -
+QSO:  7048 FT4 2026-02-23 2016 SP1TJ         -06 -                G3WAG         +04 -
+QSO:  7048 FT4 2026-02-23 2018 SP1TJ         +04 -                HG80EME       -10 -
+QSO:  7049 FT4 2026-02-23 2020 SP1TJ         -03 -                G1WOV         -08 -
+QSO:  7048 FT4 2026-02-23 2021 SP1TJ         +11 -                G4CXQ         +12 -
+QSO:  7049 FT4 2026-02-23 2023 SP1TJ         -14 -                OK2USM        -09 -
+QSO:  7048 FT4 2026-02-23 2025 SP1TJ         -16 -                IU1MJS        -01 -
+QSO:  7048 FT4 2026-02-23 2027 SP1TJ         -02 -                G7NJX         +05 -
+QSO:  7049 FT4 2026-02-23 2033 SP1TJ         -02 -                G5KTX         +05 -
+QSO:  3576 FT4 2026-02-23 2037 SP1TJ         -10 -                M0KHR         -06 -
+QSO:  3576 FT4 2026-02-23 2040 SP1TJ         +02 -                SK6QA         +10 -
+QSO:  3576 FT4 2026-02-23 2037 SP1TJ         +06 -                DO1ARD        +07 -
+QSO:  3575 FT4 2026-02-23 2044 SP1TJ         +04 -                DL7VTW        +15 -
+QSO:  3576 FT4 2026-02-23 2050 SP1TJ         -11 -                F6KHM         +07 -
+QSO:  3576 FT4 2026-02-23 2052 SP1TJ         -14 -                GW5P          -01 -
+QSO:  3576 FT4 2026-02-23 2053 SP1TJ         -16 -                DB2GM         -03 -
+QSO:  3576 FT4 2026-02-23 2051 SP1TJ         -03 -                HB9CRN        -09 -
+QSO:  3576 FT4 2026-02-23 2056 SP1TJ         -05 -                DO8PAT        -12 -
+QSO:  3576 FT4 2026-02-23 2057 SP1TJ         -13 -                PC2J          -05 -
+QSO:  3575 FT4 2026-02-23 2109 SP1TJ         -11 -                G4PDF         -07 -
+QSO:  3576 FT4 2026-02-23 2111 SP1TJ         -21 -                M7WYF         -08 -
+QSO:  3575 FT4 2026-02-23 2121 SP1TJ         -08 -                PA5BS         -02 -
+QSO:  3575 FT4 2026-02-23 2123 SP1TJ         -08 -                OK1FHI        -01 -
+QSO:  3576 FT4 2026-02-23 2124 SP1TJ         -04 -                F6KHM         -04 -
+QSO:  3576 FT4 2026-02-23 2125 SP1TJ         -06 -                PI4PD         +09 -
+QSO:  3575 FT4 2026-02-23 2127 SP1TJ         -07 -                G4DBW         -05 -
+QSO:  3575 FT4 2026-02-23 2129 SP1TJ         -09 -                DH1JAD        +01 -
+QSO:  3576 FT4 2026-02-23 2134 SP1TJ         -05 -                HG0NPJ        +08 -
+QSO:  3575 FT4 2026-02-23 2136 SP1TJ         -08 -                DO1ARD        +05 -
+QSO:  3577 FT4 2026-02-23 2141 SP1TJ         -03 -                G4BYE         -09 -
+QSO:  3576 FT4 2026-02-23 2142 SP1TJ         +04 -                SP5IDR        -05 -
+QSO:  3577 FT4 2026-02-23 2142 SP1TJ         -10 -                G4CXQ         -11 -
+QSO:  3576 FT4 2026-02-23 2144 SP1TJ         -06 -                SV1DZB        -13 -
+QSO:  3575 FT4 2026-02-23 2146 SP1TJ         +11 -                PA8DC         +04 -
+QSO:  3576 FT4 2026-02-23 2148 SP1TJ         +02 -                PE1FBC        -04 -
+QSO:  3576 FT4 2026-02-23 2149 SP1TJ         +01 -                G1WOV         -12 -
+QSO:  3576 FT4 2026-02-23 2155 SP1TJ         -07 -                G0CER         -03 -
+QSO:  3576 FT4 2026-02-23 2156 SP1TJ         -08 -                GU0UVH        -02 -
 END-OF-LOG:

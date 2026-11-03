@@ -10,38 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1901 PH2M          -19 JO22             PE1EVX        -10 JO22
-QSO:   144 DG 2022-02-02 1904 PH2M          -07 JO22             PA1DDE        +11 JO21
-QSO:   144 DG 2022-02-02 1906 PH2M          -09 JO22             DL6ED         -07 JO31
-QSO:   144 DG 2022-02-02 1908 PH2M          -17 JO22             DL8DBU        -10 JO30
-QSO:   144 DG 2022-02-02 1910 PH2M          -19 JO22             DL5HF         -14 JO43
-QSO:   144 DG 2022-02-02 1912 PH2M          -01 JO22             PB5DX         +11 JO22
-QSO:   144 DG 2022-02-02 1915 PH2M          -17 JO22             DO5ABC        -22 JO31
-QSO:   144 DG 2022-02-02 1919 PH2M          -02 JO22             PA9MD         +05 JO21
-QSO:   144 DG 2022-02-02 1924 PH2M          -08 JO22             PA3CWS        -02 JO22
-QSO:   144 DG 2022-02-02 1927 PH2M          -16 JO22             DL2OAH        -20 JO31
-QSO:   144 DG 2022-02-02 1930 PH2M          -16 JO22             F5UMP         -14 JO10
-QSO:   144 DG 2022-02-02 1934 PH2M          -18 JO22             F5DYD         -13 JN03
-QSO:   144 DG 2022-02-02 1944 PH2M          -13 JO22             G0JUW         -01 JO01
-QSO:   144 DG 2022-02-02 1953 PH2M          -12 JO22             M0FXX         -20 IO91
-QSO:   144 DG 2022-02-02 1954 PH2M          -08 JO22             PD0RZA        +00 JO21
-QSO:   144 DG 2022-02-02 2003 PH2M          -12 JO22             PC3M          -12 JO22
-QSO:   144 DG 2022-02-02 2006 PH2M          -13 JO22             G7WIR         -17 JO01
-QSO:   144 DG 2022-02-02 2007 PH2M          -10 JO22             G3SED         -12 IO90
-QSO:   144 DG 2022-02-02 2009 PH2M          -01 JO22             G4VPD         -17 IO92
-QSO:   144 DG 2022-02-02 2011 PH2M          -06 JO22             G7LRQ         -08 IO91
-QSO:   144 DG 2022-02-02 2013 PH2M          -10 JO22             M0IEP         -08 IO91
-QSO:   144 DG 2022-02-02 2015 PH2M          -07 JO22             G3WAG/P       -21 IO82
-QSO:   144 DG 2022-02-02 2020 PH2M          -10 JO22             PA2F          -18 JO11
-QSO:   144 DG 2022-02-02 2023 PH2M          -11 JO22             ON1ANZ        +00 JO21
-QSO:   144 DG 2022-02-02 2028 PH2M          -03 JO22             G4LPP         -04 JO02
-QSO:   144 DG 2022-02-02 2031 PH2M          -06 JO22             G8EEM         -14 IO93
-QSO:   144 DG 2022-02-02 2034 PH2M          -05 JO22             ON4BCV        -04 JO21
-QSO:   144 DG 2022-02-02 2036 PH2M          -02 JO22             PA0RDY        +13 JO22
-QSO:   144 DG 2022-02-02 2049 PH2M          -24 JO22             DG9BFE        -18 JO33
-QSO:   144 DG 2022-02-02 2053 PH2M          -16 JO22             PA3EKM        -13 JO33
-QSO:   144 DG 2022-02-02 2055 PH2M          -03 JO22             PA2BTK        +15 JO22
-QSO:   144 DG 2022-02-02 2057 PH2M          -13 JO22             PA7ML         -19 JO22
+QSO:   144 FT8 2022-02-02 1901 PH2M          -19 JO22             PE1EVX        -10 JO22
+QSO:   144 FT8 2022-02-02 1904 PH2M          -07 JO22             PA1DDE        +11 JO21
+QSO:   144 FT8 2022-02-02 1906 PH2M          -09 JO22             DL6ED         -07 JO31
+QSO:   144 FT8 2022-02-02 1908 PH2M          -17 JO22             DL8DBU        -10 JO30
+QSO:   144 FT8 2022-02-02 1910 PH2M          -19 JO22             DL5HF         -14 JO43
+QSO:   144 FT8 2022-02-02 1912 PH2M          -01 JO22             PB5DX         +11 JO22
+QSO:   144 FT8 2022-02-02 1915 PH2M          -17 JO22             DO5ABC        -22 JO31
+QSO:   144 FT8 2022-02-02 1919 PH2M          -02 JO22             PA9MD         +05 JO21
+QSO:   144 FT8 2022-02-02 1924 PH2M          -08 JO22             PA3CWS        -02 JO22
+QSO:   144 FT8 2022-02-02 1927 PH2M          -16 JO22             DL2OAH        -20 JO31
+QSO:   144 FT8 2022-02-02 1930 PH2M          -16 JO22             F5UMP         -14 JO10
+QSO:   144 FT8 2022-02-02 1934 PH2M          -18 JO22             F5DYD         -13 JN03
+QSO:   144 FT8 2022-02-02 1944 PH2M          -13 JO22             G0JUW         -01 JO01
+QSO:   144 FT8 2022-02-02 1953 PH2M          -12 JO22             M0FXX         -20 IO91
+QSO:   144 FT8 2022-02-02 1954 PH2M          -08 JO22             PD0RZA        +00 JO21
+QSO:   144 FT8 2022-02-02 2003 PH2M          -12 JO22             PC3M          -12 JO22
+QSO:   144 FT8 2022-02-02 2006 PH2M          -13 JO22             G7WIR         -17 JO01
+QSO:   144 FT8 2022-02-02 2007 PH2M          -10 JO22             G3SED         -12 IO90
+QSO:   144 FT8 2022-02-02 2009 PH2M          -01 JO22             G4VPD         -17 IO92
+QSO:   144 FT8 2022-02-02 2011 PH2M          -06 JO22             G7LRQ         -08 IO91
+QSO:   144 FT8 2022-02-02 2013 PH2M          -10 JO22             M0IEP         -08 IO91
+QSO:   144 FT8 2022-02-02 2015 PH2M          -07 JO22             G3WAG/P       -21 IO82
+QSO:   144 FT8 2022-02-02 2020 PH2M          -10 JO22             PA2F          -18 JO11
+QSO:   144 FT8 2022-02-02 2023 PH2M          -11 JO22             ON1ANZ        +00 JO21
+QSO:   144 FT8 2022-02-02 2028 PH2M          -03 JO22             G4LPP         -04 JO02
+QSO:   144 FT8 2022-02-02 2031 PH2M          -06 JO22             G8EEM         -14 IO93
+QSO:   144 FT8 2022-02-02 2034 PH2M          -05 JO22             ON4BCV        -04 JO21
+QSO:   144 FT8 2022-02-02 2036 PH2M          -02 JO22             PA0RDY        +13 JO22
+QSO:   144 FT8 2022-02-02 2049 PH2M          -24 JO22             DG9BFE        -18 JO33
+QSO:   144 FT8 2022-02-02 2053 PH2M          -16 JO22             PA3EKM        -13 JO33
+QSO:   144 FT8 2022-02-02 2055 PH2M          -03 JO22             PA2BTK        +15 JO22
+QSO:   144 FT8 2022-02-02 2057 PH2M          -13 JO22             PA7ML         -19 JO22
 END-OF-LOG:

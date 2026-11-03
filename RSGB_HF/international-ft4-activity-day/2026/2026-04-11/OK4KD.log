@@ -10,29 +10,30 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO:  7048 DG 2026-04-11 1941 OK4KD         -06 -                OZ7DR         -05 -
-QSO:  7048 DG 2026-04-11 1943 OK4KD         -12 -                PD1GOL        -10 -
-QSO:  7048 DG 2026-04-11 1947 OK4KD         -02 -                M0XBY         -04 -
-QSO:  7048 DG 2026-04-11 1948 OK4KD         -07 -                G3SWC         -05 -
-QSO:  7048 DG 2026-04-11 1949 OK4KD         -06 -                PC2F          -01 -
-QSO:  7048 DG 2026-04-11 1951 OK4KD         +01 -                PA3EOU        +01 -
-QSO:  7048 DG 2026-04-11 1952 OK4KD         -05 -                M0PAW         -11 -
-QSO:  7048 DG 2026-04-11 1954 OK4KD         -09 -                R1AI          -13 -
-QSO:  7048 DG 2026-04-11 1955 OK4KD         -09 -                F4GBW         -19 -
-QSO:  7048 DG 2026-04-11 1957 OK4KD         -07 -                PE1LZZ        +02 -
-QSO:  7048 DG 2026-04-11 1958 OK4KD         +01 -                2E0UMK        -07 -
-QSO:  7048 DG 2026-04-11 2001 OK4KD         -15 -                G4ARI         -10 -
-QSO: 14081 DG 2026-04-11 2007 OK4KD         -01 -                SV5BYP        +03 -
-QSO: 14081 DG 2026-04-11 2009 OK4KD         -04 -                K9OM          +09 -
-QSO: 14081 DG 2026-04-11 2010 OK4KD         -04 -                EG1912T       -07 -
-QSO:  7048 DG 2026-04-11 2019 OK4KD         -01 -                PA6AA         -04 -
-QSO:  7048 DG 2026-04-11 2024 OK4KD         +04 -                G6P           -02 -
-QSO:  7048 DG 2026-04-12 0856 OK4KD         -13 -                PD1WS         -08 -
-QSO:  7048 DG 2026-04-12 0907 OK4KD         +02 -                PD2PKM        +05 -
-QSO:  7048 DG 2026-04-12 0907 OK4KD         +01 -                PD2PKM        +05 -
-QSO:  7048 DG 2026-04-12 0911 OK4KD         -15 -                DL4BHA        -13 -
-QSO:  7048 DG 2026-04-12 0912 OK4KD         -16 -                G3XWH         -08 -
-QSO:  7048 DG 2026-04-12 0913 OK4KD         -12 -                PD1ACS        -05 -
-QSO:  7048 DG 2026-04-12 0914 OK4KD         -08 -                ON1ANZ        -05 -
+QSO:  7048 FT4 2026-04-11 1941 OK4KD         -06 -                OZ7DR         -05 -
+QSO:  7048 FT4 2026-04-11 1943 OK4KD         -12 -                PD1GOL        -10 -
+QSO:  7048 FT4 2026-04-11 1947 OK4KD         -02 -                M0XBY         -04 -
+QSO:  7048 FT4 2026-04-11 1948 OK4KD         -07 -                G3SWC         -05 -
+QSO:  7048 FT4 2026-04-11 1949 OK4KD         -06 -                PC2F          -01 -
+QSO:  7048 FT4 2026-04-11 1951 OK4KD         +01 -                PA3EOU        +01 -
+QSO:  7048 FT4 2026-04-11 1952 OK4KD         -05 -                M0PAW         -11 -
+QSO:  7048 FT4 2026-04-11 1954 OK4KD         -09 -                R1AI          -13 -
+QSO:  7048 FT4 2026-04-11 1955 OK4KD         -09 -                F4GBW         -19 -
+QSO:  7048 FT4 2026-04-11 1957 OK4KD         -07 -                PE1LZZ        +02 -
+QSO:  7048 FT4 2026-04-11 1958 OK4KD         +01 -                2E0UMK        -07 -
+QSO:  7048 FT4 2026-04-11 2001 OK4KD         -15 -                G4ARI         -10 -
+QSO: 14081 FT4 2026-04-11 2007 OK4KD         -01 -                SV5BYP        +03 -
+QSO: 14081 FT4 2026-04-11 2009 OK4KD         -04 -                K9OM          +09 -
+QSO: 14081 FT4 2026-04-11 2010 OK4KD         -04 -                EG1912T       -07 -
+QSO:  7048 FT4 2026-04-11 2019 OK4KD         -01 -                PA6AA         -04 -
+QSO:  7048 FT4 2026-04-11 2024 OK4KD         +04 -                G6P           -02 -
+QSO:  7048 FT4 2026-04-12 0856 OK4KD         -13 -                PD1WS         -08 -
+QSO:  7048 FT4 2026-04-12 0907 OK4KD         +02 -                PD2PKM        +05 -
+QSO:  7048 FT4 2026-04-12 0907 OK4KD         +01 -                PD2PKM        +05 -
+QSO:  7048 FT4 2026-04-12 0911 OK4KD         -15 -                DL4BHA        -13 -
+QSO:  7048 FT4 2026-04-12 0912 OK4KD         -16 -                G3XWH         -08 -
+QSO:  7048 FT4 2026-04-12 0913 OK4KD         -12 -                PD1ACS        -05 -
+QSO:  7048 FT4 2026-04-12 0914 OK4KD         -08 -                ON1ANZ        -05 -
 END-OF-LOG:

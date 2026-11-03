@@ -10,29 +10,30 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260615&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=8047; excluded rows=0.
-QSO: 21141 DG 2026-06-15 2003 F4LYX         +07 -                W1UE          +05 -
-QSO: 14082 DG 2026-06-15 2008 F4LYX         +03 -                IQ5AAR        -03 -
-QSO: 14082 DG 2026-06-15 2009 F4LYX         +12 -                SP5EXA        -12 -
-QSO:  7049 DG 2026-06-15 2016 F4LYX         +09 -                G7ILZ         +00 -
-QSO:  7049 DG 2026-06-15 2017 F4LYX         +08 -                ON7IO         -03 -
-QSO:  7049 DG 2026-06-15 2017 F4LYX         +11 -                PD2PKM        -06 -
-QSO:  7049 DG 2026-06-15 2018 F4LYX         +03 -                IK2FTB        -04 -
-QSO:  7047 DG 2026-06-15 2020 F4LYX         +05 -                G4BTY         +00 -
-QSO: 14082 DG 2026-06-15 2030 F4LYX         +03 -                OM1HG         -08 -
-QSO: 14081 DG 2026-06-15 2032 F4LYX         +05 -                S55X          -12 -
-QSO:  7049 DG 2026-06-15 2037 F4LYX         +10 -                GW0ARK        -04 -
-QSO:  7049 DG 2026-06-15 2038 F4LYX         +11 -                M5MK          -07 -
-QSO:  7049 DG 2026-06-15 2039 F4LYX         -06 -                DL4ME         +04 -
-QSO:  7049 DG 2026-06-15 2042 F4LYX         -08 -                EI5HV         -02 -
-QSO:  7049 DG 2026-06-15 2042 F4LYX         +06 -                G6GN          -03 -
-QSO:  7049 DG 2026-06-15 2044 F4LYX         +05 -                GU0UVH        +01 -
-QSO:  3577 DG 2026-06-15 2051 F4LYX         +09 -                G4BYE         -02 -
-QSO:  3577 DG 2026-06-15 2052 F4LYX         +03 -                G6P           -05 -
-QSO:  3577 DG 2026-06-15 2053 F4LYX         +06 -                G3MXH         -05 -
-QSO:  3575 DG 2026-06-15 2055 F4LYX         +02 -                G6DXY         +12 -
-QSO:  3575 DG 2026-06-15 2056 F4LYX         +00 -                SP1TJ         -07 -
-QSO:  3575 DG 2026-06-15 2057 F4LYX         +10 -                G4DBW         +04 -
-QSO:  3575 DG 2026-06-15 2058 F4LYX         -12 -                G7COU         -10 -
-QSO:  3575 DG 2026-06-15 2059 F4LYX         +06 -                MW0MAU        - -
+QSO: 21141 FT4 2026-06-15 2003 F4LYX         +07 -                W1UE          +05 -
+QSO: 14082 FT4 2026-06-15 2008 F4LYX         +03 -                IQ5AAR        -03 -
+QSO: 14082 FT4 2026-06-15 2009 F4LYX         +12 -                SP5EXA        -12 -
+QSO:  7049 FT4 2026-06-15 2016 F4LYX         +09 -                G7ILZ         +00 -
+QSO:  7049 FT4 2026-06-15 2017 F4LYX         +08 -                ON7IO         -03 -
+QSO:  7049 FT4 2026-06-15 2017 F4LYX         +11 -                PD2PKM        -06 -
+QSO:  7049 FT4 2026-06-15 2018 F4LYX         +03 -                IK2FTB        -04 -
+QSO:  7047 FT4 2026-06-15 2020 F4LYX         +05 -                G4BTY         +00 -
+QSO: 14082 FT4 2026-06-15 2030 F4LYX         +03 -                OM1HG         -08 -
+QSO: 14081 FT4 2026-06-15 2032 F4LYX         +05 -                S55X          -12 -
+QSO:  7049 FT4 2026-06-15 2037 F4LYX         +10 -                GW0ARK        -04 -
+QSO:  7049 FT4 2026-06-15 2038 F4LYX         +11 -                M5MK          -07 -
+QSO:  7049 FT4 2026-06-15 2039 F4LYX         -06 -                DL4ME         +04 -
+QSO:  7049 FT4 2026-06-15 2042 F4LYX         -08 -                EI5HV         -02 -
+QSO:  7049 FT4 2026-06-15 2042 F4LYX         +06 -                G6GN          -03 -
+QSO:  7049 FT4 2026-06-15 2044 F4LYX         +05 -                GU0UVH        +01 -
+QSO:  3577 FT4 2026-06-15 2051 F4LYX         +09 -                G4BYE         -02 -
+QSO:  3577 FT4 2026-06-15 2052 F4LYX         +03 -                G6P           -05 -
+QSO:  3577 FT4 2026-06-15 2053 F4LYX         +06 -                G3MXH         -05 -
+QSO:  3575 FT4 2026-06-15 2055 F4LYX         +02 -                G6DXY         +12 -
+QSO:  3575 FT4 2026-06-15 2056 F4LYX         +00 -                SP1TJ         -07 -
+QSO:  3575 FT4 2026-06-15 2057 F4LYX         +10 -                G4DBW         +04 -
+QSO:  3575 FT4 2026-06-15 2058 F4LYX         -12 -                G7COU         -10 -
+QSO:  3575 FT4 2026-06-15 2059 F4LYX         +06 -                MW0MAU        - -
 END-OF-LOG:

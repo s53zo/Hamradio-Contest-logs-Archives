@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=221102&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=832; excluded rows=0.
-QSO:   144 DG 2022-11-02 1901 G3WAG         +06 IO82             G0LGS         +05 IO81
-QSO:   144 DG 2022-11-02 1907 G3WAG         -05 IO82             G0BIX         -08 JO01
-QSO:   144 DG 2022-11-02 1914 G3WAG         -14 IO82             M5DND         -04 IO82
-QSO:   144 DG 2022-11-02 1920 G3WAG         -10 IO82             EI8KN         -08 IO62
-QSO:   144 DG 2022-11-02 1921 G3WAG         +01 IO82             GI6ATZ        -01 IO74
-QSO:   144 DG 2022-11-02 1928 G3WAG         -04 IO82             G4HGI         -07 IO83
-QSO:   144 DG 2022-11-02 1930 G3WAG         -04 IO82             M7REV         -06 IO82
-QSO:   144 DG 2022-11-02 1933 G3WAG         -07 IO82             G4OED         -10 IO91
-QSO:   144 DG 2022-11-02 1954 G3WAG         -10 IO82             G7WIR         -13 JO01
-QSO:   144 DG 2022-11-02 1957 G3WAG         -15 IO82             F6ANO         -14 JN18
-QSO:   144 DG 2022-11-02 2004 G3WAG         -10 IO82             2E0DUE        -10 JO01
-QSO:   144 DG 2022-11-02 2042 G3WAG         -02 IO82             G1SDX         -20 IO80
-QSO:   144 DG 2022-11-02 2052 G3WAG         -07 IO82             2E1FMS        -15 IO82
+QSO:   144 FT8 2022-11-02 1901 G3WAG         +06 IO82             G0LGS         +05 IO81
+QSO:   144 FT8 2022-11-02 1907 G3WAG         -05 IO82             G0BIX         -08 JO01
+QSO:   144 FT8 2022-11-02 1914 G3WAG         -14 IO82             M5DND         -04 IO82
+QSO:   144 FT8 2022-11-02 1920 G3WAG         -10 IO82             EI8KN         -08 IO62
+QSO:   144 FT8 2022-11-02 1921 G3WAG         +01 IO82             GI6ATZ        -01 IO74
+QSO:   144 FT8 2022-11-02 1928 G3WAG         -04 IO82             G4HGI         -07 IO83
+QSO:   144 FT8 2022-11-02 1930 G3WAG         -04 IO82             M7REV         -06 IO82
+QSO:   144 FT8 2022-11-02 1933 G3WAG         -07 IO82             G4OED         -10 IO91
+QSO:   144 FT8 2022-11-02 1954 G3WAG         -10 IO82             G7WIR         -13 JO01
+QSO:   144 FT8 2022-11-02 1957 G3WAG         -15 IO82             F6ANO         -14 JN18
+QSO:   144 FT8 2022-11-02 2004 G3WAG         -10 IO82             2E0DUE        -10 JO01
+QSO:   144 FT8 2022-11-02 2042 G3WAG         -02 IO82             G1SDX         -20 IO80
+QSO:   144 FT8 2022-11-02 2052 G3WAG         -07 IO82             2E1FMS        -15 IO82
 END-OF-LOG:

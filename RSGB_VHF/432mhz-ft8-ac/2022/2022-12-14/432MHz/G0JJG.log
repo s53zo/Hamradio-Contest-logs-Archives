@@ -10,16 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221214&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=482; excluded rows=0.
-QSO:   432 DG 2022-12-14 1907 G0JJG         -07 JO02             G4ZZL         -19 JO01
-QSO:   432 DG 2022-12-14 1912 G0JJG         +04 JO02             G4VPD         -13 IO92
-QSO:   432 DG 2022-12-14 1914 G0JJG         +10 JO02             G7LRQ         -09 IO91
-QSO:   432 DG 2022-12-14 1917 G0JJG         -06 JO02             G7WIR         -11 JO01
-QSO:   432 DG 2022-12-14 1932 G0JJG         +00 JO02             G3YDY         -06 JO01
-QSO:   432 DG 2022-12-14 1955 G0JJG         +16 JO02             G4NBS         +08 JO02
-QSO:   432 DG 2022-12-14 2000 G0JJG         -01 JO02             G8SEI         -09 IO92
-QSO:   432 DG 2022-12-14 2030 G0JJG         -04 JO02             2E0JPO        -03 IO91
-QSO:   432 DG 2022-12-14 2045 G0JJG         -04 JO02             G0JDL         -08 JO02
-QSO:   432 DG 2022-12-14 2054 G0JJG         -21 JO02             M0IEP         -02 IO91
+QSO:   432 FT8 2022-12-14 1907 G0JJG         -07 JO02             G4ZZL         -19 JO01
+QSO:   432 FT8 2022-12-14 1912 G0JJG         +04 JO02             G4VPD         -13 IO92
+QSO:   432 FT8 2022-12-14 1914 G0JJG         +10 JO02             G7LRQ         -09 IO91
+QSO:   432 FT8 2022-12-14 1917 G0JJG         -06 JO02             G7WIR         -11 JO01
+QSO:   432 FT8 2022-12-14 1932 G0JJG         +00 JO02             G3YDY         -06 JO01
+QSO:   432 FT8 2022-12-14 1955 G0JJG         +16 JO02             G4NBS         +08 JO02
+QSO:   432 FT8 2022-12-14 2000 G0JJG         -01 JO02             G8SEI         -09 IO92
+QSO:   432 FT8 2022-12-14 2030 G0JJG         -04 JO02             2E0JPO        -03 IO91
+QSO:   432 FT8 2022-12-14 2045 G0JJG         -04 JO02             G0JDL         -08 JO02
+QSO:   432 FT8 2022-12-14 2054 G0JJG         -21 JO02             M0IEP         -02 IO91
 END-OF-LOG:

@@ -10,13 +10,13 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260506&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1140; excluded rows=1.
-QSO:   144 DG 2026-05-06 1903 MM0ULL        -06 IO77             GM8MJV        -15 IO85
-QSO:   144 DG 2026-05-06 1905 MM0ULL        -06 IO77             GM8IEM        -09 IO78
-QSO:   144 DG 2026-05-06 1919 MM0ULL        -10 IO77             GM7GAX        -16 IO86
-QSO:   144 DG 2026-05-06 1920 MM0ULL        -03 IO77             MI0IHH        -10 IO74
-QSO:   144 DG 2026-05-06 1923 MM0ULL        -06 IO77             GM4VVX        -02 IO78
-QSO:   144 DG 2026-05-06 2025 MM0ULL        -16 IO77             GM4OAS        -07 IO76
-QSO:   144 DG 2026-05-06 2043 MM0ULL        +10 IO77             GM0HTT        -01 IO89
+QSO:   144 FT8 2026-05-06 1903 MM0ULL        -06 IO77             GM8MJV        -15 IO85
+QSO:   144 FT8 2026-05-06 1905 MM0ULL        -06 IO77             GM8IEM        -09 IO78
+QSO:   144 FT8 2026-05-06 1919 MM0ULL        -10 IO77             GM7GAX        -16 IO86
+QSO:   144 FT8 2026-05-06 1920 MM0ULL        -03 IO77             MI0IHH        -10 IO74
+QSO:   144 FT8 2026-05-06 1923 MM0ULL        -06 IO77             GM4VVX        -02 IO78
+QSO:   144 FT8 2026-05-06 2025 MM0ULL        -16 IO77             GM4OAS        -07 IO76
+QSO:   144 FT8 2026-05-06 2043 MM0ULL        +10 IO77             GM0HTT        -01 IO89
 END-OF-LOG:

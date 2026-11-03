@@ -10,26 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO: 21140 DG 2026-08-17 1911 G4CJC         -08 -                W1UE          +05 -
-QSO: 21140 DG 2026-08-17 1912 G4CJC         -11 -                G7RDX         -08 -
-QSO: 21140 DG 2026-08-17 1914 G4CJC         -01 -                VP8LP         -15 -
-QSO: 21140 DG 2026-08-17 1918 G4CJC         +21 -                9A5ADR        +06 -
-QSO: 21140 DG 2026-08-17 1922 G4CJC         -07 -                VP8VK         -12 -
-QSO: 21141 DG 2026-08-17 1926 G4CJC         +10 -                OD5VB         -01 -
-QSO: 21141 DG 2026-08-17 1938 G4CJC         +03 -                M5BBB         -10 -
-QSO: 21141 DG 2026-08-17 1938 G4CJC         -14 -                K9OM          -11 -
-QSO: 21141 DG 2026-08-17 1939 G4CJC         +01 -                R6DHI         -01 -
-QSO: 21141 DG 2026-08-17 1940 G4CJC         -10 -                A65DF         -05 -
-QSO: 14081 DG 2026-08-17 1948 G4CJC         -14 -                VE3NKS        -05 -
-QSO: 14081 DG 2026-08-17 1952 G4CJC         +06 -                HA8RC         +06 -
-QSO: 14081 DG 2026-08-17 1955 G4CJC         -07 -                G7L           -20 -
-QSO: 14081 DG 2026-08-17 2045 G4CJC         -12 -                VA3PDC        -13 -
-QSO: 14081 DG 2026-08-17 2047 G4CJC         +02 -                K9OM          -01 -
-QSO: 14081 DG 2026-08-17 2050 G4CJC         +12 -                AO90A         +08 -
-QSO: 14081 DG 2026-08-17 2051 G4CJC         +07 -                CS8ABF        +04 -
-QSO: 14081 DG 2026-08-17 2054 G4CJC         +10 -                VE3ARF        -02 -
-QSO: 14081 DG 2026-08-17 2054 G4CJC         -03 -                YL3PD         -07 -
-QSO: 14081 DG 2026-08-17 2056 G4CJC         +05 -                EA7GRB        +05 -
-QSO: 14081 DG 2026-08-17 2057 G4CJC         -05 -                CT7AUT        -11 -
+QSO: 21140 FT4 2026-08-17 1911 G4CJC         -08 -                W1UE          +05 -
+QSO: 21140 FT4 2026-08-17 1912 G4CJC         -11 -                G7RDX         -08 -
+QSO: 21140 FT4 2026-08-17 1914 G4CJC         -01 -                VP8LP         -15 -
+QSO: 21140 FT4 2026-08-17 1918 G4CJC         +21 -                9A5ADR        +06 -
+QSO: 21140 FT4 2026-08-17 1922 G4CJC         -07 -                VP8VK         -12 -
+QSO: 21141 FT4 2026-08-17 1926 G4CJC         +10 -                OD5VB         -01 -
+QSO: 21141 FT4 2026-08-17 1938 G4CJC         +03 -                M5BBB         -10 -
+QSO: 21141 FT4 2026-08-17 1938 G4CJC         -14 -                K9OM          -11 -
+QSO: 21141 FT4 2026-08-17 1939 G4CJC         +01 -                R6DHI         -01 -
+QSO: 21141 FT4 2026-08-17 1940 G4CJC         -10 -                A65DF         -05 -
+QSO: 14081 FT4 2026-08-17 1948 G4CJC         -14 -                VE3NKS        -05 -
+QSO: 14081 FT4 2026-08-17 1952 G4CJC         +06 -                HA8RC         +06 -
+QSO: 14081 FT4 2026-08-17 1955 G4CJC         -07 -                G7L           -20 -
+QSO: 14081 FT4 2026-08-17 2045 G4CJC         -12 -                VA3PDC        -13 -
+QSO: 14081 FT4 2026-08-17 2047 G4CJC         +02 -                K9OM          -01 -
+QSO: 14081 FT4 2026-08-17 2050 G4CJC         +12 -                AO90A         +08 -
+QSO: 14081 FT4 2026-08-17 2051 G4CJC         +07 -                CS8ABF        +04 -
+QSO: 14081 FT4 2026-08-17 2054 G4CJC         +10 -                VE3ARF        -02 -
+QSO: 14081 FT4 2026-08-17 2054 G4CJC         -03 -                YL3PD         -07 -
+QSO: 14081 FT4 2026-08-17 2056 G4CJC         +05 -                EA7GRB        +05 -
+QSO: 14081 FT4 2026-08-17 2057 G4CJC         -05 -                CT7AUT        -11 -
 END-OF-LOG:

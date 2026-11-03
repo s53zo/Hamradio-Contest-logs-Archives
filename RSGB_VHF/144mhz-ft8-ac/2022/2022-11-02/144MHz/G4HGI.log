@@ -10,39 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=221102&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=832; excluded rows=0.
-QSO:   144 DG 2022-11-02 1903 G4HGI         +17 IO83             2E1FMS        -11 IO82
-QSO:   144 DG 2022-11-02 1907 G4HGI         -05 IO83             2E0HXM        -11 IO92
-QSO:   144 DG 2022-11-02 1909 G4HGI         -09 IO83             2E0DUE        -11 JO01
-QSO:   144 DG 2022-11-02 1914 G4HGI         -08 IO83             G4OED         -13 IO91
-QSO:   144 DG 2022-11-02 1916 G4HGI         -09 IO83             G4ZZL         -10 JO01
-QSO:   144 DG 2022-11-02 1918 G4HGI         -18 IO83             GW4HDF        -15 IO81
-QSO:   144 DG 2022-11-02 1920 G4HGI         -15 IO83             M5DND         -03 IO82
-QSO:   144 DG 2022-11-02 1923 G4HGI         -05 IO83             G3XBY         -24 IO92
-QSO:   144 DG 2022-11-02 1924 G4HGI         -14 IO83             G0SRC         -07 IO92
-QSO:   144 DG 2022-11-02 1926 G4HGI         -04 IO83             2E1DJN        +02 IO82
-QSO:   144 DG 2022-11-02 1927 G4HGI         -07 IO83             G3WAG         -04 IO82
-QSO:   144 DG 2022-11-02 1931 G4HGI         -09 IO83             G0ISX         +04 IO93
-QSO:   144 DG 2022-11-02 1933 G4HGI         -09 IO83             PA9R          -15 JO22
-QSO:   144 DG 2022-11-02 1935 G4HGI         -12 IO83             M0TLJ         -12 IO93
-QSO:   144 DG 2022-11-02 1942 G4HGI         -05 IO83             G4VPD         -01 IO92
-QSO:   144 DG 2022-11-02 1944 G4HGI         -11 IO83             G3WZK         -02 IO91
-QSO:   144 DG 2022-11-02 1948 G4HGI         -09 IO83             F6ANO         +04 JN18
-QSO:   144 DG 2022-11-02 1951 G4HGI         -05 IO83             G7WIR         -16 JO01
-QSO:   144 DG 2022-11-02 1953 G4HGI         -11 IO83             G7LRQ         -13 IO91
-QSO:   144 DG 2022-11-02 1956 G4HGI         -17 IO83             2E0DBS        -15 JO02
-QSO:   144 DG 2022-11-02 1959 G4HGI         +05 IO83             G3YDY         -02 JO01
-QSO:   144 DG 2022-11-02 2005 G4HGI         -09 IO83             EI8KN         -06 IO62
-QSO:   144 DG 2022-11-02 2006 G4HGI         -16 IO83             DL5EBS        -14 JO31
-QSO:   144 DG 2022-11-02 2009 G4HGI         -08 IO83             G8IXK         +14 IO91
-QSO:   144 DG 2022-11-02 2012 G4HGI         -05 IO83             G7RDX         -11 IO91
-QSO:   144 DG 2022-11-02 2016 G4HGI         -07 IO83             M7REV         -03 IO82
-QSO:   144 DG 2022-11-02 2018 G4HGI         +02 IO83             G3TCG         -01 JO00
-QSO:   144 DG 2022-11-02 2020 G4HGI         +10 IO83             G0XDI         +07 IO91
-QSO:   144 DG 2022-11-02 2025 G4HGI         -15 IO83             M1DDD         -02 IO93
-QSO:   144 DG 2022-11-02 2026 G4HGI         -06 IO83             M0NVS         -06 IO91
-QSO:   144 DG 2022-11-02 2029 G4HGI         -08 IO83             M0LMK         -07 JO01
-QSO:   144 DG 2022-11-02 2030 G4HGI         -23 IO83             MM0ZBH        -15 IO86
-QSO:   144 DG 2022-11-02 2034 G4HGI         -04 IO83             GM0HTT        -05 IO89
+QSO:   144 FT8 2022-11-02 1903 G4HGI         +17 IO83             2E1FMS        -11 IO82
+QSO:   144 FT8 2022-11-02 1907 G4HGI         -05 IO83             2E0HXM        -11 IO92
+QSO:   144 FT8 2022-11-02 1909 G4HGI         -09 IO83             2E0DUE        -11 JO01
+QSO:   144 FT8 2022-11-02 1914 G4HGI         -08 IO83             G4OED         -13 IO91
+QSO:   144 FT8 2022-11-02 1916 G4HGI         -09 IO83             G4ZZL         -10 JO01
+QSO:   144 FT8 2022-11-02 1918 G4HGI         -18 IO83             GW4HDF        -15 IO81
+QSO:   144 FT8 2022-11-02 1920 G4HGI         -15 IO83             M5DND         -03 IO82
+QSO:   144 FT8 2022-11-02 1923 G4HGI         -05 IO83             G3XBY         -24 IO92
+QSO:   144 FT8 2022-11-02 1924 G4HGI         -14 IO83             G0SRC         -07 IO92
+QSO:   144 FT8 2022-11-02 1926 G4HGI         -04 IO83             2E1DJN        +02 IO82
+QSO:   144 FT8 2022-11-02 1927 G4HGI         -07 IO83             G3WAG         -04 IO82
+QSO:   144 FT8 2022-11-02 1931 G4HGI         -09 IO83             G0ISX         +04 IO93
+QSO:   144 FT8 2022-11-02 1933 G4HGI         -09 IO83             PA9R          -15 JO22
+QSO:   144 FT8 2022-11-02 1935 G4HGI         -12 IO83             M0TLJ         -12 IO93
+QSO:   144 FT8 2022-11-02 1942 G4HGI         -05 IO83             G4VPD         -01 IO92
+QSO:   144 FT8 2022-11-02 1944 G4HGI         -11 IO83             G3WZK         -02 IO91
+QSO:   144 FT8 2022-11-02 1948 G4HGI         -09 IO83             F6ANO         +04 JN18
+QSO:   144 FT8 2022-11-02 1951 G4HGI         -05 IO83             G7WIR         -16 JO01
+QSO:   144 FT8 2022-11-02 1953 G4HGI         -11 IO83             G7LRQ         -13 IO91
+QSO:   144 FT8 2022-11-02 1956 G4HGI         -17 IO83             2E0DBS        -15 JO02
+QSO:   144 FT8 2022-11-02 1959 G4HGI         +05 IO83             G3YDY         -02 JO01
+QSO:   144 FT8 2022-11-02 2005 G4HGI         -09 IO83             EI8KN         -06 IO62
+QSO:   144 FT8 2022-11-02 2006 G4HGI         -16 IO83             DL5EBS        -14 JO31
+QSO:   144 FT8 2022-11-02 2009 G4HGI         -08 IO83             G8IXK         +14 IO91
+QSO:   144 FT8 2022-11-02 2012 G4HGI         -05 IO83             G7RDX         -11 IO91
+QSO:   144 FT8 2022-11-02 2016 G4HGI         -07 IO83             M7REV         -03 IO82
+QSO:   144 FT8 2022-11-02 2018 G4HGI         +02 IO83             G3TCG         -01 JO00
+QSO:   144 FT8 2022-11-02 2020 G4HGI         +10 IO83             G0XDI         +07 IO91
+QSO:   144 FT8 2022-11-02 2025 G4HGI         -15 IO83             M1DDD         -02 IO93
+QSO:   144 FT8 2022-11-02 2026 G4HGI         -06 IO83             M0NVS         -06 IO91
+QSO:   144 FT8 2022-11-02 2029 G4HGI         -08 IO83             M0LMK         -07 JO01
+QSO:   144 FT8 2022-11-02 2030 G4HGI         -23 IO83             MM0ZBH        -15 IO86
+QSO:   144 FT8 2022-11-02 2034 G4HGI         -04 IO83             GM0HTT        -05 IO89
 END-OF-LOG:

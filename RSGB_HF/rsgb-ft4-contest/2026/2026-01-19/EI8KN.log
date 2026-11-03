@@ -10,17 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO: 14082 DG 2026-01-19 2008 EI8KN         +14 -                CS7AXM        -11 -
-QSO:  7049 DG 2026-01-19 2020 EI8KN         -02 -                LZ0WWA        +03 -
-QSO:  3578 DG 2026-01-19 2035 EI8KN         -01 -                PE1PIX        -08 -
-QSO:  3578 DG 2026-01-19 2040 EI8KN         +08 -                G7NJX         +05 -
-QSO:  3577 DG 2026-01-19 2041 EI8KN         -01 -                DK2OY         -06 -
-QSO:  3577 DG 2026-01-19 2042 EI8KN         -04 -                M8M           -07 -
-QSO:  3577 DG 2026-01-19 2043 EI8KN         +03 -                ON6NL         +01 -
-QSO:  3577 DG 2026-01-19 2043 EI8KN         +03 -                ON6NL         +01 -
-QSO:  3578 DG 2026-01-19 2044 EI8KN         +06 -                ON6NL         +01 -
-QSO:  3578 DG 2026-01-19 2046 EI8KN         -06 -                G7COU         -03 -
-QSO:  3577 DG 2026-01-19 2049 EI8KN         -03 -                DK2OY         -06 -
-QSO:  7049 DG 2026-01-19 2109 EI8KN         +05 -                CT2KCK        +01 -
+QSO: 14082 FT4 2026-01-19 2008 EI8KN         +14 -                CS7AXM        -11 -
+QSO:  7049 FT4 2026-01-19 2020 EI8KN         -02 -                LZ0WWA        +03 -
+QSO:  3578 FT4 2026-01-19 2035 EI8KN         -01 -                PE1PIX        -08 -
+QSO:  3578 FT4 2026-01-19 2040 EI8KN         +08 -                G7NJX         +05 -
+QSO:  3577 FT4 2026-01-19 2041 EI8KN         -01 -                DK2OY         -06 -
+QSO:  3577 FT4 2026-01-19 2042 EI8KN         -04 -                M8M           -07 -
+QSO:  3577 FT4 2026-01-19 2043 EI8KN         +03 -                ON6NL         +01 -
+QSO:  3577 FT4 2026-01-19 2043 EI8KN         +03 -                ON6NL         +01 -
+QSO:  3578 FT4 2026-01-19 2044 EI8KN         +06 -                ON6NL         +01 -
+QSO:  3578 FT4 2026-01-19 2046 EI8KN         -06 -                G7COU         -03 -
+QSO:  3577 FT4 2026-01-19 2049 EI8KN         -03 -                DK2OY         -06 -
+QSO:  7049 FT4 2026-01-19 2109 EI8KN         +05 -                CT2KCK        +01 -
 END-OF-LOG:

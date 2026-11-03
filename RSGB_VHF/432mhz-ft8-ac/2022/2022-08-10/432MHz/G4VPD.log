@@ -10,40 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220810&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=947; excluded rows=0.
-QSO:   432 DG 2022-08-10 1905 G4VPD         -07 IO92             G3YKI         -17 IO82
-QSO:   432 DG 2022-08-10 1913 G4VPD         +03 IO92             OV3T          -08 JO46
-QSO:   432 DG 2022-08-10 1917 G4VPD         -06 IO92             GM8MJV        +14 IO85
-QSO:   432 DG 2022-08-10 1918 G4VPD         +04 IO92             G8DVR         -06 IO83
-QSO:   432 DG 2022-08-10 1921 G4VPD         +11 IO92             G0ISX         +12 IO93
-QSO:   432 DG 2022-08-10 1922 G4VPD         -14 IO92             M1CFK         +02 IO92
-QSO:   432 DG 2022-08-10 1922 G4VPD         +00 IO92             M7REV         -15 IO82
-QSO:   432 DG 2022-08-10 1924 G4VPD         +17 IO92             G0RMG         +16 IO92
-QSO:   432 DG 2022-08-10 1927 G4VPD         -07 IO92             PE1NYQ        -08 JO21
-QSO:   432 DG 2022-08-10 1936 G4VPD         -17 IO92             DF2VJ         -21 JN39
-QSO:   432 DG 2022-08-10 1937 G4VPD         -11 IO92             G0BIX         -15 JO01
-QSO:   432 DG 2022-08-10 1938 G4VPD         +00 IO92             G0MBL         -08 JO01
-QSO:   432 DG 2022-08-10 1940 G4VPD         -11 IO92             G0BIX         -15 JO01
-QSO:   432 DG 2022-08-10 1942 G4VPD         -08 IO92             2E0DUE        -14 JO01
-QSO:   432 DG 2022-08-10 1943 G4VPD         +27 IO92             G4NBS         -03 JO02
-QSO:   432 DG 2022-08-10 1944 G4VPD         -09 IO92             PA5Y          -14 JO21
-QSO:   432 DG 2022-08-10 1945 G4VPD         -16 IO92             ON8NT         -09 JO11
-QSO:   432 DG 2022-08-10 1947 G4VPD         +03 IO92             M0LMK         -02 JO01
-QSO:   432 DG 2022-08-10 1951 G4VPD         +15 IO92             M0FXX         +04 IO91
-QSO:   432 DG 2022-08-10 1954 G4VPD         -14 IO92             M7ICL         -17 JO02
-QSO:   432 DG 2022-08-10 1955 G4VPD         +37 IO92             G8VHI         +24 IO92
-QSO:   432 DG 2022-08-10 1958 G4VPD         -16 IO92             G8CRB         -18 JO02
-QSO:   432 DG 2022-08-10 2007 G4VPD         -04 IO92             G3YDY         +01 JO01
-QSO:   432 DG 2022-08-10 2009 G4VPD         -05 IO92             G4YTD         -06 IO84
-QSO:   432 DG 2022-08-10 2014 G4VPD         +00 IO92             2E1FMS        -12 IO82
-QSO:   432 DG 2022-08-10 2016 G4VPD         +04 IO92             G8EEM         +04 IO93
-QSO:   432 DG 2022-08-10 2022 G4VPD         +09 IO92             EI8KN         +04 IO62
-QSO:   432 DG 2022-08-10 2024 G4VPD         -13 IO92             M0XLH         -12 IO93
-QSO:   432 DG 2022-08-10 2025 G4VPD         -02 IO92             G4EII         -12 IO83
-QSO:   432 DG 2022-08-10 2029 G4VPD         -11 IO92             G0LGS         -14 IO81
-QSO:   432 DG 2022-08-10 2037 G4VPD         -13 IO92             PE1HWO        -12 JO21
-QSO:   432 DG 2022-08-10 2043 G4VPD         +20 IO92             2E0JPO        +22 IO91
-QSO:   432 DG 2022-08-10 2051 G4VPD         -10 IO92             G3WZK         -09 IO91
-QSO:   432 DG 2022-08-10 2057 G4VPD         +01 IO92             G4KUX         -11 IO94
+QSO:   432 FT8 2022-08-10 1905 G4VPD         -07 IO92             G3YKI         -17 IO82
+QSO:   432 FT8 2022-08-10 1913 G4VPD         +03 IO92             OV3T          -08 JO46
+QSO:   432 FT8 2022-08-10 1917 G4VPD         -06 IO92             GM8MJV        +14 IO85
+QSO:   432 FT8 2022-08-10 1918 G4VPD         +04 IO92             G8DVR         -06 IO83
+QSO:   432 FT8 2022-08-10 1921 G4VPD         +11 IO92             G0ISX         +12 IO93
+QSO:   432 FT8 2022-08-10 1922 G4VPD         -14 IO92             M1CFK         +02 IO92
+QSO:   432 FT8 2022-08-10 1922 G4VPD         +00 IO92             M7REV         -15 IO82
+QSO:   432 FT8 2022-08-10 1924 G4VPD         +17 IO92             G0RMG         +16 IO92
+QSO:   432 FT8 2022-08-10 1927 G4VPD         -07 IO92             PE1NYQ        -08 JO21
+QSO:   432 FT8 2022-08-10 1936 G4VPD         -17 IO92             DF2VJ         -21 JN39
+QSO:   432 FT8 2022-08-10 1937 G4VPD         -11 IO92             G0BIX         -15 JO01
+QSO:   432 FT8 2022-08-10 1938 G4VPD         +00 IO92             G0MBL         -08 JO01
+QSO:   432 FT8 2022-08-10 1940 G4VPD         -11 IO92             G0BIX         -15 JO01
+QSO:   432 FT8 2022-08-10 1942 G4VPD         -08 IO92             2E0DUE        -14 JO01
+QSO:   432 FT8 2022-08-10 1943 G4VPD         +27 IO92             G4NBS         -03 JO02
+QSO:   432 FT8 2022-08-10 1944 G4VPD         -09 IO92             PA5Y          -14 JO21
+QSO:   432 FT8 2022-08-10 1945 G4VPD         -16 IO92             ON8NT         -09 JO11
+QSO:   432 FT8 2022-08-10 1947 G4VPD         +03 IO92             M0LMK         -02 JO01
+QSO:   432 FT8 2022-08-10 1951 G4VPD         +15 IO92             M0FXX         +04 IO91
+QSO:   432 FT8 2022-08-10 1954 G4VPD         -14 IO92             M7ICL         -17 JO02
+QSO:   432 FT8 2022-08-10 1955 G4VPD         +37 IO92             G8VHI         +24 IO92
+QSO:   432 FT8 2022-08-10 1958 G4VPD         -16 IO92             G8CRB         -18 JO02
+QSO:   432 FT8 2022-08-10 2007 G4VPD         -04 IO92             G3YDY         +01 JO01
+QSO:   432 FT8 2022-08-10 2009 G4VPD         -05 IO92             G4YTD         -06 IO84
+QSO:   432 FT8 2022-08-10 2014 G4VPD         +00 IO92             2E1FMS        -12 IO82
+QSO:   432 FT8 2022-08-10 2016 G4VPD         +04 IO92             G8EEM         +04 IO93
+QSO:   432 FT8 2022-08-10 2022 G4VPD         +09 IO92             EI8KN         +04 IO62
+QSO:   432 FT8 2022-08-10 2024 G4VPD         -13 IO92             M0XLH         -12 IO93
+QSO:   432 FT8 2022-08-10 2025 G4VPD         -02 IO92             G4EII         -12 IO83
+QSO:   432 FT8 2022-08-10 2029 G4VPD         -11 IO92             G0LGS         -14 IO81
+QSO:   432 FT8 2022-08-10 2037 G4VPD         -13 IO92             PE1HWO        -12 JO21
+QSO:   432 FT8 2022-08-10 2043 G4VPD         +20 IO92             2E0JPO        +22 IO91
+QSO:   432 FT8 2022-08-10 2051 G4VPD         -10 IO92             G3WZK         -09 IO91
+QSO:   432 FT8 2022-08-10 2057 G4VPD         +01 IO92             G4KUX         -11 IO94
 END-OF-LOG:

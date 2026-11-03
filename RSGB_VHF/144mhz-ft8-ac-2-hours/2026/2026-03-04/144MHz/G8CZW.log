@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260304&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1043; excluded rows=1.
-QSO:   144 DG 2026-03-04 1903 G8CZW         +19 IO83             G4HGI         +24 IO83
-QSO:   144 DG 2026-03-04 1910 G8CZW         +13 IO83             G8LIY         +09 IO83
-QSO:   144 DG 2026-03-04 1932 G8CZW         -11 IO83             GM8MJV        -02 IO85
-QSO:   144 DG 2026-03-04 1938 G8CZW         +22 IO83             M1EYP/P       +19 IO83
-QSO:   144 DG 2026-03-04 1941 G8CZW         +14 IO83             M1TZR         +03 IO83
-QSO:   144 DG 2026-03-04 1944 G8CZW         +09 IO83             G8SEI         -09 IO92
-QSO:   144 DG 2026-03-04 2007 G8CZW         -07 IO83             G7LRQ         -24 JO03
-QSO:   144 DG 2026-03-04 2016 G8CZW         +01 IO83             G7ADF         +01 IO83
-QSO:   144 DG 2026-03-04 2023 G8CZW         -23 IO83             G4BEE         -18 IO83
-QSO:   144 DG 2026-03-04 2025 G8CZW         -12 IO83             M0MIK         -06 IO93
-QSO:   144 DG 2026-03-04 2034 G8CZW         -06 IO83             GM0HTT        -04 IO89
-QSO:   144 DG 2026-03-04 2038 G8CZW         -05 IO83             M7FRP         -14 IO83
-QSO:   144 DG 2026-03-04 2040 G8CZW         +07 IO83             G3YDY         -17 JO01
-QSO:   144 DG 2026-03-04 2051 G8CZW         +13 IO83             G6DDN         -12 IO93
-QSO:   144 DG 2026-03-04 2054 G8CZW         -01 IO83             M1EAS         -05 IO83
-QSO:   144 DG 2026-03-04 2057 G8CZW         +10 IO83             EI8KN         -02 IO62
+QSO:   144 FT8 2026-03-04 1903 G8CZW         +19 IO83             G4HGI         +24 IO83
+QSO:   144 FT8 2026-03-04 1910 G8CZW         +13 IO83             G8LIY         +09 IO83
+QSO:   144 FT8 2026-03-04 1932 G8CZW         -11 IO83             GM8MJV        -02 IO85
+QSO:   144 FT8 2026-03-04 1938 G8CZW         +22 IO83             M1EYP/P       +19 IO83
+QSO:   144 FT8 2026-03-04 1941 G8CZW         +14 IO83             M1TZR         +03 IO83
+QSO:   144 FT8 2026-03-04 1944 G8CZW         +09 IO83             G8SEI         -09 IO92
+QSO:   144 FT8 2026-03-04 2007 G8CZW         -07 IO83             G7LRQ         -24 JO03
+QSO:   144 FT8 2026-03-04 2016 G8CZW         +01 IO83             G7ADF         +01 IO83
+QSO:   144 FT8 2026-03-04 2023 G8CZW         -23 IO83             G4BEE         -18 IO83
+QSO:   144 FT8 2026-03-04 2025 G8CZW         -12 IO83             M0MIK         -06 IO93
+QSO:   144 FT8 2026-03-04 2034 G8CZW         -06 IO83             GM0HTT        -04 IO89
+QSO:   144 FT8 2026-03-04 2038 G8CZW         -05 IO83             M7FRP         -14 IO83
+QSO:   144 FT8 2026-03-04 2040 G8CZW         +07 IO83             G3YDY         -17 JO01
+QSO:   144 FT8 2026-03-04 2051 G8CZW         +13 IO83             G6DDN         -12 IO93
+QSO:   144 FT8 2026-03-04 2054 G8CZW         -01 IO83             M1EAS         -05 IO83
+QSO:   144 FT8 2026-03-04 2057 G8CZW         +10 IO83             EI8KN         -02 IO62
 END-OF-LOG:

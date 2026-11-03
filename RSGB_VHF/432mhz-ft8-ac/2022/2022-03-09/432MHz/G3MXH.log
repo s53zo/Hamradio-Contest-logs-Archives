@@ -10,32 +10,32 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220309&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=880; excluded rows=0.
-QSO:   432 DG 2022-03-09 1901 G3MXH         +13 JO02             G0XDI         -05 IO91
-QSO:   432 DG 2022-03-09 1904 G3MXH         -11 JO02             G4ZZL         -08 JO01
-QSO:   432 DG 2022-03-09 1906 G3MXH         -16 JO02             M0SEU         -05 JO01
-QSO:   432 DG 2022-03-09 1908 G3MXH         +06 JO02             G4VPD         +05 IO92
-QSO:   432 DG 2022-03-09 1909 G3MXH         -07 JO02             G8CRB         -10 JO02
-QSO:   432 DG 2022-03-09 1912 G3MXH         -04 JO02             PA5PEK        +01 JO11
-QSO:   432 DG 2022-03-09 1924 G3MXH         -07 JO02             PH0TV         -15 JO32
-QSO:   432 DG 2022-03-09 1929 G3MXH         -12 JO02             PA7ML         -17 JO22
-QSO:   432 DG 2022-03-09 1932 G3MXH         -13 JO02             DL6ZG         -09 JO31
-QSO:   432 DG 2022-03-09 1941 G3MXH         +06 JO02             G0GJV         -03 IO91
-QSO:   432 DG 2022-03-09 1943 G3MXH         +00 JO02             G7WIR         +04 JO01
-QSO:   432 DG 2022-03-09 1944 G3MXH         -19 JO02             G0JJG         +20 JO02
-QSO:   432 DG 2022-03-09 1949 G3MXH         -14 JO02             G3WZK         -15 IO91
-QSO:   432 DG 2022-03-09 2007 G3MXH         +03 JO02             G8SEI         -05 IO92
-QSO:   432 DG 2022-03-09 2009 G3MXH         -03 JO02             G4EII         -13 IO83
-QSO:   432 DG 2022-03-09 2016 G3MXH         -02 JO02             G8OO          +03 JO02
-QSO:   432 DG 2022-03-09 2020 G3MXH         -05 JO02             2E0JPO        +01 IO91
-QSO:   432 DG 2022-03-09 2021 G3MXH         -11 JO02             MW0MZM        -14 IO81
-QSO:   432 DG 2022-03-09 2028 G3MXH         -06 JO02             G4RQI         -10 IO93
-QSO:   432 DG 2022-03-09 2035 G3MXH         +09 JO02             G3YDY         +07 JO01
-QSO:   432 DG 2022-03-09 2036 G3MXH         -14 JO02             G0BIX         +04 JO01
-QSO:   432 DG 2022-03-09 2042 G3MXH         -07 JO02             G3SED         -15 IO90
-QSO:   432 DG 2022-03-09 2044 G3MXH         +07 JO02             M0IEP         +09 IO91
-QSO:   432 DG 2022-03-09 2051 G3MXH         -11 JO02             GI4SNA        -10 IO64
-QSO:   432 DG 2022-03-09 2057 G3MXH         -02 JO02             DL1KDA        -10 JO30
-QSO:   432 DG 2022-03-09 2058 G3MXH         +11 JO02             G4NBS         +02 JO02
+QSO:   432 FT8 2022-03-09 1901 G3MXH         +13 JO02             G0XDI         -05 IO91
+QSO:   432 FT8 2022-03-09 1904 G3MXH         -11 JO02             G4ZZL         -08 JO01
+QSO:   432 FT8 2022-03-09 1906 G3MXH         -16 JO02             M0SEU         -05 JO01
+QSO:   432 FT8 2022-03-09 1908 G3MXH         +06 JO02             G4VPD         +05 IO92
+QSO:   432 FT8 2022-03-09 1909 G3MXH         -07 JO02             G8CRB         -10 JO02
+QSO:   432 FT8 2022-03-09 1912 G3MXH         -04 JO02             PA5PEK        +01 JO11
+QSO:   432 FT8 2022-03-09 1924 G3MXH         -07 JO02             PH0TV         -15 JO32
+QSO:   432 FT8 2022-03-09 1929 G3MXH         -12 JO02             PA7ML         -17 JO22
+QSO:   432 FT8 2022-03-09 1932 G3MXH         -13 JO02             DL6ZG         -09 JO31
+QSO:   432 FT8 2022-03-09 1941 G3MXH         +06 JO02             G0GJV         -03 IO91
+QSO:   432 FT8 2022-03-09 1943 G3MXH         +00 JO02             G7WIR         +04 JO01
+QSO:   432 FT8 2022-03-09 1944 G3MXH         -19 JO02             G0JJG         +20 JO02
+QSO:   432 FT8 2022-03-09 1949 G3MXH         -14 JO02             G3WZK         -15 IO91
+QSO:   432 FT8 2022-03-09 2007 G3MXH         +03 JO02             G8SEI         -05 IO92
+QSO:   432 FT8 2022-03-09 2009 G3MXH         -03 JO02             G4EII         -13 IO83
+QSO:   432 FT8 2022-03-09 2016 G3MXH         -02 JO02             G8OO          +03 JO02
+QSO:   432 FT8 2022-03-09 2020 G3MXH         -05 JO02             2E0JPO        +01 IO91
+QSO:   432 FT8 2022-03-09 2021 G3MXH         -11 JO02             MW0MZM        -14 IO81
+QSO:   432 FT8 2022-03-09 2028 G3MXH         -06 JO02             G4RQI         -10 IO93
+QSO:   432 FT8 2022-03-09 2035 G3MXH         +09 JO02             G3YDY         +07 JO01
+QSO:   432 FT8 2022-03-09 2036 G3MXH         -14 JO02             G0BIX         +04 JO01
+QSO:   432 FT8 2022-03-09 2042 G3MXH         -07 JO02             G3SED         -15 IO90
+QSO:   432 FT8 2022-03-09 2044 G3MXH         +07 JO02             M0IEP         +09 IO91
+QSO:   432 FT8 2022-03-09 2051 G3MXH         -11 JO02             GI4SNA        -10 IO64
+QSO:   432 FT8 2022-03-09 2057 G3MXH         -02 JO02             DL1KDA        -10 JO30
+QSO:   432 FT8 2022-03-09 2058 G3MXH         +11 JO02             G4NBS         +02 JO02
 END-OF-LOG:

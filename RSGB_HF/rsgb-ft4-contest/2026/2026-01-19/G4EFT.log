@@ -10,35 +10,36 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO: 28181 DG 2026-01-19 2001 G4EFT         +19 -                G4CTP         +03 -
-QSO: 21141 DG 2026-01-19 2003 G4EFT         +18 -                G4CTP         -02 -
-QSO: 14081 DG 2026-01-19 2005 G4EFT         +15 -                G4CTP         +11 -
-QSO:  7049 DG 2026-01-19 2009 G4EFT         +17 -                G4CTP         +07 -
-QSO:  7049 DG 2026-01-19 2012 G4EFT         +03 -                M5N           -01 -
-QSO:  7049 DG 2026-01-19 2018 G4EFT         +01 -                EA7BF         +00 -
-QSO:  3577 DG 2026-01-19 2028 G4EFT         -06 -                IN3OWY        -11 -
-QSO:  3577 DG 2026-01-19 2032 G4EFT         +02 -                SQ5N          -14 -
-QSO:  3577 DG 2026-01-19 2033 G4EFT         -06 -                DL5LS         -02 -
-QSO:  3577 DG 2026-01-19 2035 G4EFT         -04 -                M7WLT         +09 -
-QSO:  3577 DG 2026-01-19 2036 G4EFT         +20 -                M2X           -01 -
-QSO:  3577 DG 2026-01-19 2041 G4EFT         +07 -                G0ORE         -06 -
-QSO:  3577 DG 2026-01-19 2042 G4EFT         -04 -                DO1NJN        -14 -
-QSO:  3577 DG 2026-01-19 2044 G4EFT         +13 -                MW3L          -06 -
-QSO:  3577 DG 2026-01-19 2047 G4EFT         +01 -                HB9AWS        -01 -
-QSO:  3577 DG 2026-01-19 2050 G4EFT         +14 -                G4CTP         +11 -
-QSO:  3577 DG 2026-01-19 2059 G4EFT         -04 -                PE1PIX        -07 -
-QSO:  3577 DG 2026-01-19 2105 G4EFT         +02 -                OK2USM        -08 -
-QSO:  3577 DG 2026-01-19 2108 G4EFT         -06 -                DO1ARD        -09 -
-QSO:  3577 DG 2026-01-19 2109 G4EFT         -10 -                SP2EWQ        -10 -
-QSO: 14081 DG 2026-01-19 2114 G4EFT         -04 -                G7WIR         -15 -
-QSO: 14081 DG 2026-01-19 2118 G4EFT         +05 -                EA8CHF        +00 -
-QSO:  7049 DG 2026-01-19 2137 G4EFT         +08 -                GW0ARK        -05 -
-QSO:  7049 DG 2026-01-19 2141 G4EFT         +01 -                MW0CVT        +01 -
-QSO:  7048 DG 2026-01-19 2147 G4EFT         +21 -                ON6NL         +08 -
-QSO:  7048 DG 2026-01-19 2149 G4EFT         +01 -                OK2USM        -06 -
-QSO:  7048 DG 2026-01-19 2150 G4EFT         -01 -                M7SEY         +05 -
-QSO:  7048 DG 2026-01-19 2152 G4EFT         -06 -                HB9AWS        +10 -
-QSO:  7048 DG 2026-01-19 2154 G4EFT         -05 -                PA5BS         +04 -
-QSO:  7048 DG 2026-01-19 2158 G4EFT         -07 -                SQ5N          -01 -
+QSO: 28181 FT4 2026-01-19 2001 G4EFT         +19 -                G4CTP         +03 -
+QSO: 21141 FT4 2026-01-19 2003 G4EFT         +18 -                G4CTP         -02 -
+QSO: 14081 FT4 2026-01-19 2005 G4EFT         +15 -                G4CTP         +11 -
+QSO:  7049 FT4 2026-01-19 2009 G4EFT         +17 -                G4CTP         +07 -
+QSO:  7049 FT4 2026-01-19 2012 G4EFT         +03 -                M5N           -01 -
+QSO:  7049 FT4 2026-01-19 2018 G4EFT         +01 -                EA7BF         +00 -
+QSO:  3577 FT4 2026-01-19 2028 G4EFT         -06 -                IN3OWY        -11 -
+QSO:  3577 FT4 2026-01-19 2032 G4EFT         +02 -                SQ5N          -14 -
+QSO:  3577 FT4 2026-01-19 2033 G4EFT         -06 -                DL5LS         -02 -
+QSO:  3577 FT4 2026-01-19 2035 G4EFT         -04 -                M7WLT         +09 -
+QSO:  3577 FT4 2026-01-19 2036 G4EFT         +20 -                M2X           -01 -
+QSO:  3577 FT4 2026-01-19 2041 G4EFT         +07 -                G0ORE         -06 -
+QSO:  3577 FT4 2026-01-19 2042 G4EFT         -04 -                DO1NJN        -14 -
+QSO:  3577 FT4 2026-01-19 2044 G4EFT         +13 -                MW3L          -06 -
+QSO:  3577 FT4 2026-01-19 2047 G4EFT         +01 -                HB9AWS        -01 -
+QSO:  3577 FT4 2026-01-19 2050 G4EFT         +14 -                G4CTP         +11 -
+QSO:  3577 FT4 2026-01-19 2059 G4EFT         -04 -                PE1PIX        -07 -
+QSO:  3577 FT4 2026-01-19 2105 G4EFT         +02 -                OK2USM        -08 -
+QSO:  3577 FT4 2026-01-19 2108 G4EFT         -06 -                DO1ARD        -09 -
+QSO:  3577 FT4 2026-01-19 2109 G4EFT         -10 -                SP2EWQ        -10 -
+QSO: 14081 FT4 2026-01-19 2114 G4EFT         -04 -                G7WIR         -15 -
+QSO: 14081 FT4 2026-01-19 2118 G4EFT         +05 -                EA8CHF        +00 -
+QSO:  7049 FT4 2026-01-19 2137 G4EFT         +08 -                GW0ARK        -05 -
+QSO:  7049 FT4 2026-01-19 2141 G4EFT         +01 -                MW0CVT        +01 -
+QSO:  7048 FT4 2026-01-19 2147 G4EFT         +21 -                ON6NL         +08 -
+QSO:  7048 FT4 2026-01-19 2149 G4EFT         +01 -                OK2USM        -06 -
+QSO:  7048 FT4 2026-01-19 2150 G4EFT         -01 -                M7SEY         +05 -
+QSO:  7048 FT4 2026-01-19 2152 G4EFT         -06 -                HB9AWS        +10 -
+QSO:  7048 FT4 2026-01-19 2154 G4EFT         -05 -                PA5BS         +04 -
+QSO:  7048 FT4 2026-01-19 2158 G4EFT         -07 -                SQ5N          -01 -
 END-OF-LOG:

@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221109&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=724; excluded rows=0.
-QSO:   432 DG 2022-11-09 1911 G0VDZ         +20 IO91             G7WIR         +13 JO01
-QSO:   432 DG 2022-11-09 1914 G0VDZ         +19 IO91             G3ZPB         -02 IO91
-QSO:   432 DG 2022-11-09 1919 G0VDZ         -23 IO91             G7LRQ         -11 IO91
-QSO:   432 DG 2022-11-09 1925 G0VDZ         +19 IO91             M0XXJ         +16 IO91
-QSO:   432 DG 2022-11-09 1937 G0VDZ         -16 IO91             G0JJG         -13 JO02
-QSO:   432 DG 2022-11-09 1939 G0VDZ         +11 IO91             2E0GKW        -13 IO91
-QSO:   432 DG 2022-11-09 1941 G0VDZ         -04 IO91             G3WZK         +00 IO91
-QSO:   432 DG 2022-11-09 1944 G0VDZ         -22 IO91             G6HIE         -10 JO00
-QSO:   432 DG 2022-11-09 1949 G0VDZ         +02 IO91             G0XDI         -13 IO91
-QSO:   432 DG 2022-11-09 1952 G0VDZ         -14 IO91             M0LKW         -01 JO01
-QSO:   432 DG 2022-11-09 2013 G0VDZ         +02 IO91             2E0DUE        -09 JO01
-QSO:   432 DG 2022-11-09 2022 G0VDZ         -15 IO91             M0IEP         -17 IO91
-QSO:   432 DG 2022-11-09 2025 G0VDZ         +01 IO91             PA9R          -13 JO22
-QSO:   432 DG 2022-11-09 2028 G0VDZ         -07 IO91             G4NBS         -09 JO02
-QSO:   432 DG 2022-11-09 2030 G0VDZ         -16 IO91             M0LMK         -05 JO01
-QSO:   432 DG 2022-11-09 2034 G0VDZ         -03 IO91             ON4QJ         -08 JO20
+QSO:   432 FT8 2022-11-09 1911 G0VDZ         +20 IO91             G7WIR         +13 JO01
+QSO:   432 FT8 2022-11-09 1914 G0VDZ         +19 IO91             G3ZPB         -02 IO91
+QSO:   432 FT8 2022-11-09 1919 G0VDZ         -23 IO91             G7LRQ         -11 IO91
+QSO:   432 FT8 2022-11-09 1925 G0VDZ         +19 IO91             M0XXJ         +16 IO91
+QSO:   432 FT8 2022-11-09 1937 G0VDZ         -16 IO91             G0JJG         -13 JO02
+QSO:   432 FT8 2022-11-09 1939 G0VDZ         +11 IO91             2E0GKW        -13 IO91
+QSO:   432 FT8 2022-11-09 1941 G0VDZ         -04 IO91             G3WZK         +00 IO91
+QSO:   432 FT8 2022-11-09 1944 G0VDZ         -22 IO91             G6HIE         -10 JO00
+QSO:   432 FT8 2022-11-09 1949 G0VDZ         +02 IO91             G0XDI         -13 IO91
+QSO:   432 FT8 2022-11-09 1952 G0VDZ         -14 IO91             M0LKW         -01 JO01
+QSO:   432 FT8 2022-11-09 2013 G0VDZ         +02 IO91             2E0DUE        -09 JO01
+QSO:   432 FT8 2022-11-09 2022 G0VDZ         -15 IO91             M0IEP         -17 IO91
+QSO:   432 FT8 2022-11-09 2025 G0VDZ         +01 IO91             PA9R          -13 JO22
+QSO:   432 FT8 2022-11-09 2028 G0VDZ         -07 IO91             G4NBS         -09 JO02
+QSO:   432 FT8 2022-11-09 2030 G0VDZ         -16 IO91             M0LMK         -05 JO01
+QSO:   432 FT8 2022-11-09 2034 G0VDZ         -03 IO91             ON4QJ         -08 JO20
 END-OF-LOG:

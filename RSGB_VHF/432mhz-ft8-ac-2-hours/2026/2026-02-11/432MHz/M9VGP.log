@@ -10,23 +10,23 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260211&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=449; excluded rows=0.
-QSO:   432 DG 2026-02-11 1909 M9VGP         -14 IO91             G0GJV         -11 IO91
-QSO:   432 DG 2026-02-11 1920 M9VGP         -18 IO91             EI2FG         -15 IO61
-QSO:   432 DG 2026-02-11 1924 M9VGP         -07 IO91             EI8KN         -21 IO62
-QSO:   432 DG 2026-02-11 1931 M9VGP         +00 IO91             G7LRQ         -07 JO03
-QSO:   432 DG 2026-02-11 1939 M9VGP         +07 IO91             G4ZTR         +08 JO01
-QSO:   432 DG 2026-02-11 1951 M9VGP         -13 IO91             PH2M          -16 JO22
-QSO:   432 DG 2026-02-11 1955 M9VGP         -08 IO91             G0LGS         -19 IO81
-QSO:   432 DG 2026-02-11 2006 M9VGP         -19 IO91             2E0MRK        -24 IO91
-QSO:   432 DG 2026-02-11 2008 M9VGP         -09 IO91             G0BIX         -12 JO01
-QSO:   432 DG 2026-02-11 2009 M9VGP         -09 IO91             G0JDL         -20 JO02
-QSO:   432 DG 2026-02-11 2015 M9VGP         -13 IO91             PI4VPO        -14 JO21
-QSO:   432 DG 2026-02-11 2022 M9VGP         -15 IO91             G3YDY         -16 JO01
-QSO:   432 DG 2026-02-11 2031 M9VGP         -18 IO91             G4FFY         -17 JO01
-QSO:   432 DG 2026-02-11 2032 M9VGP         -18 IO91             F1NQP         -17 JN19
-QSO:   432 DG 2026-02-11 2048 M9VGP         -10 IO91             G8IXK         -15 IO91
-QSO:   432 DG 2026-02-11 2053 M9VGP         -14 IO91             G0RMG         -14 IO92
-QSO:   432 DG 2026-02-11 2055 M9VGP         +00 IO91             GM8MJV        -04 IO85
+QSO:   432 FT8 2026-02-11 1909 M9VGP         -14 IO91             G0GJV         -11 IO91
+QSO:   432 FT8 2026-02-11 1920 M9VGP         -18 IO91             EI2FG         -15 IO61
+QSO:   432 FT8 2026-02-11 1924 M9VGP         -07 IO91             EI8KN         -21 IO62
+QSO:   432 FT8 2026-02-11 1931 M9VGP         +00 IO91             G7LRQ         -07 JO03
+QSO:   432 FT8 2026-02-11 1939 M9VGP         +07 IO91             G4ZTR         +08 JO01
+QSO:   432 FT8 2026-02-11 1951 M9VGP         -13 IO91             PH2M          -16 JO22
+QSO:   432 FT8 2026-02-11 1955 M9VGP         -08 IO91             G0LGS         -19 IO81
+QSO:   432 FT8 2026-02-11 2006 M9VGP         -19 IO91             2E0MRK        -24 IO91
+QSO:   432 FT8 2026-02-11 2008 M9VGP         -09 IO91             G0BIX         -12 JO01
+QSO:   432 FT8 2026-02-11 2009 M9VGP         -09 IO91             G0JDL         -20 JO02
+QSO:   432 FT8 2026-02-11 2015 M9VGP         -13 IO91             PI4VPO        -14 JO21
+QSO:   432 FT8 2026-02-11 2022 M9VGP         -15 IO91             G3YDY         -16 JO01
+QSO:   432 FT8 2026-02-11 2031 M9VGP         -18 IO91             G4FFY         -17 JO01
+QSO:   432 FT8 2026-02-11 2032 M9VGP         -18 IO91             F1NQP         -17 JN19
+QSO:   432 FT8 2026-02-11 2048 M9VGP         -10 IO91             G8IXK         -15 IO91
+QSO:   432 FT8 2026-02-11 2053 M9VGP         -14 IO91             G0RMG         -14 IO92
+QSO:   432 FT8 2026-02-11 2055 M9VGP         +00 IO91             GM8MJV        -04 IO85
 END-OF-LOG:

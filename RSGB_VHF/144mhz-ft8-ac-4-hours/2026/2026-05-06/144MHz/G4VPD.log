@@ -10,20 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=260506&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=795; excluded rows=1.
-QSO:   144 DG 2026-05-06 1756 G4VPD         -15 IO92             2E0MRK        -02 IO91
-QSO:   144 DG 2026-05-06 1757 G4VPD         +06 IO92             G0BIX         +02 JO01
-QSO:   144 DG 2026-05-06 1758 G4VPD         -14 IO92             G5CTH         -05 IO91
-QSO:   144 DG 2026-05-06 1801 G4VPD         -07 IO92             M0XAL         +06 IO92
-QSO:   144 DG 2026-05-06 1802 G4VPD         -07 IO92             G0XDI         -16 IO91
-QSO:   144 DG 2026-05-06 1804 G4VPD         -05 IO92             G0GJV         +04 IO91
-QSO:   144 DG 2026-05-06 1805 G4VPD         +04 IO92             G7WIR         +08 JO01
-QSO:   144 DG 2026-05-06 1807 G4VPD         -05 IO92             G7LRQ         -13 JO03
-QSO:   144 DG 2026-05-06 1809 G4VPD         +01 IO92             G6HIE         +05 JO00
-QSO:   144 DG 2026-05-06 1827 G4VPD         +02 IO92             G8EEM         +08 IO93
-QSO:   144 DG 2026-05-06 1837 G4VPD         -13 IO92             G0HSP         -19 IO90
-QSO:   144 DG 2026-05-06 1913 G4VPD         +00 IO92             TM8DW         -05 JO00
-QSO:   144 DG 2026-05-06 1915 G4VPD         -09 IO92             F1NQP         -02 JN19
-QSO:   144 DG 2026-05-06 1932 G4VPD         -04 IO92             G3WAG/P       +12 IO82
+QSO:   144 FT8 2026-05-06 1756 G4VPD         -15 IO92             2E0MRK        -02 IO91
+QSO:   144 FT8 2026-05-06 1757 G4VPD         +06 IO92             G0BIX         +02 JO01
+QSO:   144 FT8 2026-05-06 1758 G4VPD         -14 IO92             G5CTH         -05 IO91
+QSO:   144 FT8 2026-05-06 1801 G4VPD         -07 IO92             M0XAL         +06 IO92
+QSO:   144 FT8 2026-05-06 1802 G4VPD         -07 IO92             G0XDI         -16 IO91
+QSO:   144 FT8 2026-05-06 1804 G4VPD         -05 IO92             G0GJV         +04 IO91
+QSO:   144 FT8 2026-05-06 1805 G4VPD         +04 IO92             G7WIR         +08 JO01
+QSO:   144 FT8 2026-05-06 1807 G4VPD         -05 IO92             G7LRQ         -13 JO03
+QSO:   144 FT8 2026-05-06 1809 G4VPD         +01 IO92             G6HIE         +05 JO00
+QSO:   144 FT8 2026-05-06 1827 G4VPD         +02 IO92             G8EEM         +08 IO93
+QSO:   144 FT8 2026-05-06 1837 G4VPD         -13 IO92             G0HSP         -19 IO90
+QSO:   144 FT8 2026-05-06 1913 G4VPD         +00 IO92             TM8DW         -05 JO00
+QSO:   144 FT8 2026-05-06 1915 G4VPD         -09 IO92             F1NQP         -02 JN19
+QSO:   144 FT8 2026-05-06 1932 G4VPD         -04 IO92             G3WAG/P       +12 IO82
 END-OF-LOG:

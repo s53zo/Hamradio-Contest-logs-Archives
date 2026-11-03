@@ -10,30 +10,31 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO: 14082 DG 2026-04-11 1221 JM7GTK        -16 -                R9SH          -13 -
-QSO: 14082 DG 2026-04-11 2145 JM7GTK        -12 -                TN8GD         -12 -
-QSO: 21141 DG 2026-04-12 0026 JM7GTK        -12 -                BX6ABC        -02 -
-QSO: 14081 DG 2026-04-12 0032 JM7GTK        -02 -                R9YM          -09 -
-QSO: 14082 DG 2026-04-12 0135 JM7GTK        -09 -                JA8DKJ        -18 -
-QSO: 21142 DG 2026-04-12 0324 JM7GTK        -06 -                VK2IO         -18 -
-QSO: 14082 DG 2026-04-12 0429 JM7GTK        -14 -                R0ADK         +02 -
-QSO: 21142 DG 2026-04-12 0913 JM7GTK        -07 -                M7W           -04 -
-QSO: 21142 DG 2026-04-12 0915 JM7GTK        -13 -                F4FTV         -06 -
-QSO: 21142 DG 2026-04-12 0915 JM7GTK        -06 -                GM5G          -14 -
-QSO: 21142 DG 2026-04-12 0918 JM7GTK        -10 -                G6RST         -10 -
-QSO: 21142 DG 2026-04-12 0919 JM7GTK        -21 -                SM3ULU        -14 -
-QSO: 21142 DG 2026-04-12 0921 JM7GTK        -16 -                UB0AMN        -18 -
-QSO: 21142 DG 2026-04-12 0922 JM7GTK        -02 -                BI6NGS        -17 -
-QSO: 21142 DG 2026-04-12 0925 JM7GTK        -09 -                R6AS          -11 -
-QSO: 21142 DG 2026-04-12 0930 JM7GTK        -21 -                R8CCF         -16 -
-QSO: 21142 DG 2026-04-12 0941 JM7GTK        -05 -                G6P           +00 -
-QSO: 21142 DG 2026-04-12 0943 JM7GTK        -15 -                RO9Y          -09 -
-QSO: 14082 DG 2026-04-12 1137 JM7GTK        -10 -                6K5EKI        -14 -
-QSO: 21142 DG 2026-04-12 1143 JM7GTK        -09 -                HB9TIH        -09 -
-QSO: 21142 DG 2026-04-12 1147 JM7GTK        -02 -                OE6MDF        -06 -
-QSO: 21142 DG 2026-04-12 1148 JM7GTK        -15 -                CT1DIZ        -12 -
-QSO: 21142 DG 2026-04-12 1150 JM7GTK        -06 -                SP1TJ         -12 -
-QSO: 21142 DG 2026-04-12 1154 JM7GTK        -06 -                SE6K          -10 -
-QSO: 21142 DG 2026-04-12 1155 JM7GTK        -05 -                F8DBF         -13 -
+QSO: 14082 FT4 2026-04-11 1221 JM7GTK        -16 -                R9SH          -13 -
+QSO: 14082 FT4 2026-04-11 2145 JM7GTK        -12 -                TN8GD         -12 -
+QSO: 21141 FT4 2026-04-12 0026 JM7GTK        -12 -                BX6ABC        -02 -
+QSO: 14081 FT4 2026-04-12 0032 JM7GTK        -02 -                R9YM          -09 -
+QSO: 14082 FT4 2026-04-12 0135 JM7GTK        -09 -                JA8DKJ        -18 -
+QSO: 21142 FT4 2026-04-12 0324 JM7GTK        -06 -                VK2IO         -18 -
+QSO: 14082 FT4 2026-04-12 0429 JM7GTK        -14 -                R0ADK         +02 -
+QSO: 21142 FT4 2026-04-12 0913 JM7GTK        -07 -                M7W           -04 -
+QSO: 21142 FT4 2026-04-12 0915 JM7GTK        -13 -                F4FTV         -06 -
+QSO: 21142 FT4 2026-04-12 0915 JM7GTK        -06 -                GM5G          -14 -
+QSO: 21142 FT4 2026-04-12 0918 JM7GTK        -10 -                G6RST         -10 -
+QSO: 21142 FT4 2026-04-12 0919 JM7GTK        -21 -                SM3ULU        -14 -
+QSO: 21142 FT4 2026-04-12 0921 JM7GTK        -16 -                UB0AMN        -18 -
+QSO: 21142 FT4 2026-04-12 0922 JM7GTK        -02 -                BI6NGS        -17 -
+QSO: 21142 FT4 2026-04-12 0925 JM7GTK        -09 -                R6AS          -11 -
+QSO: 21142 FT4 2026-04-12 0930 JM7GTK        -21 -                R8CCF         -16 -
+QSO: 21142 FT4 2026-04-12 0941 JM7GTK        -05 -                G6P           +00 -
+QSO: 21142 FT4 2026-04-12 0943 JM7GTK        -15 -                RO9Y          -09 -
+QSO: 14082 FT4 2026-04-12 1137 JM7GTK        -10 -                6K5EKI        -14 -
+QSO: 21142 FT4 2026-04-12 1143 JM7GTK        -09 -                HB9TIH        -09 -
+QSO: 21142 FT4 2026-04-12 1147 JM7GTK        -02 -                OE6MDF        -06 -
+QSO: 21142 FT4 2026-04-12 1148 JM7GTK        -15 -                CT1DIZ        -12 -
+QSO: 21142 FT4 2026-04-12 1150 JM7GTK        -06 -                SP1TJ         -12 -
+QSO: 21142 FT4 2026-04-12 1154 JM7GTK        -06 -                SE6K          -10 -
+QSO: 21142 FT4 2026-04-12 1155 JM7GTK        -05 -                F8DBF         -13 -
 END-OF-LOG:

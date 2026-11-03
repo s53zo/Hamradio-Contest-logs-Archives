@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220105&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1458; excluded rows=0.
-QSO:   144 DG 2022-01-05 1902 M0SEU         +12 JO01             G7WIR         +01 JO01
-QSO:   144 DG 2022-01-05 1910 M0SEU         -10 JO01             G0JJG         -21 JO02
-QSO:   144 DG 2022-01-05 1914 M0SEU         +33 JO01             G4ZZL         +26 JO01
-QSO:   144 DG 2022-01-05 1930 M0SEU         +21 JO01             G7WIR         -10 JO01
-QSO:   144 DG 2022-01-05 1936 M0SEU         +18 JO01             G3YDY         -11 JO01
-QSO:   144 DG 2022-01-05 1940 M0SEU         +02 JO01             G0BIX         -23 JO01
-QSO:   144 DG 2022-01-05 1948 M0SEU         +02 JO01             2E0DUE        -15 JO01
-QSO:   144 DG 2022-01-05 2013 M0SEU         -09 JO01             2E0DBS        -25 JO02
-QSO:   144 DG 2022-01-05 2015 M0SEU         -05 JO01             M7APV         -10 JO01
-QSO:   144 DG 2022-01-05 2036 M0SEU         -12 JO01             M0NVS         -18 IO91
-QSO:   144 DG 2022-01-05 2038 M0SEU         -10 JO01             M0NVS         -18 IO91
-QSO:   144 DG 2022-01-05 2100 M0SEU         -13 JO01             M0IEP         -25 IO91
+QSO:   144 FT8 2022-01-05 1902 M0SEU         +12 JO01             G7WIR         +01 JO01
+QSO:   144 FT8 2022-01-05 1910 M0SEU         -10 JO01             G0JJG         -21 JO02
+QSO:   144 FT8 2022-01-05 1914 M0SEU         +33 JO01             G4ZZL         +26 JO01
+QSO:   144 FT8 2022-01-05 1930 M0SEU         +21 JO01             G7WIR         -10 JO01
+QSO:   144 FT8 2022-01-05 1936 M0SEU         +18 JO01             G3YDY         -11 JO01
+QSO:   144 FT8 2022-01-05 1940 M0SEU         +02 JO01             G0BIX         -23 JO01
+QSO:   144 FT8 2022-01-05 1948 M0SEU         +02 JO01             2E0DUE        -15 JO01
+QSO:   144 FT8 2022-01-05 2013 M0SEU         -09 JO01             2E0DBS        -25 JO02
+QSO:   144 FT8 2022-01-05 2015 M0SEU         -05 JO01             M7APV         -10 JO01
+QSO:   144 FT8 2022-01-05 2036 M0SEU         -12 JO01             M0NVS         -18 IO91
+QSO:   144 FT8 2022-01-05 2038 M0SEU         -10 JO01             M0NVS         -18 IO91
+QSO:   144 FT8 2022-01-05 2100 M0SEU         -13 JO01             M0IEP         -25 IO91
 END-OF-LOG:

@@ -10,26 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260518&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7313; excluded rows=0.
-QSO: 14082 DG 2026-05-18 1902 VE2GT         +11 -                NE4S          +07 -
-QSO: 14082 DG 2026-05-18 1902 VE2GT         -15 -                N8CQD         -05 -
-QSO: 14080 DG 2026-05-18 1905 VE2GT         -16 -                KB8PKC        +00 -
-QSO: 14080 DG 2026-05-18 1907 VE2GT         -10 -                KD4CM         -01 -
-QSO: 21142 DG 2026-05-18 1915 VE2GT         -08 -                NA5M          -13 -
-QSO: 14080 DG 2026-05-18 1925 VE2GT         +07 -                VE3PFW        -12 -
-QSO: 14080 DG 2026-05-18 1926 VE2GT         +04 -                NE4S          -03 -
-QSO: 14082 DG 2026-05-18 1934 VE2GT         +08 -                WA8OMR        -08 -
-QSO: 14082 DG 2026-05-18 1948 VE2GT         +04 -                VE3TXI        +11 -
-QSO: 14080 DG 2026-05-18 1953 VE2GT         +06 -                VE3RRH        +02 -
-QSO: 14080 DG 2026-05-18 1958 VE2GT         -03 -                KW9Q          -04 -
-QSO: 14080 DG 2026-05-18 1959 VE2GT         +02 -                KU4ET         +10 -
-QSO: 14080 DG 2026-05-18 2001 VE2GT         +01 -                KC8HI         +05 -
-QSO: 14080 DG 2026-05-18 2002 VE2GT         +08 -                W9RJC         -04 -
-QSO: 14080 DG 2026-05-18 2003 VE2GT         -02 -                KD4EBL        -04 -
-QSO: 14080 DG 2026-05-18 2004 VE2GT         -09 -                AE5DS         -02 -
-QSO: 14080 DG 2026-05-18 2004 VE2GT         -02 -                NA5M          -03 -
-QSO: 14080 DG 2026-05-18 2005 VE2GT         -03 -                VE3HZ         -09 -
-QSO: 14080 DG 2026-05-18 2006 VE2GT         -13 -                WO3U          -18 -
-QSO: 14080 DG 2026-05-18 2028 VE2GT         -06 -                KX4NX         +15 -
-QSO: 14080 DG 2026-05-18 2029 VE2GT         +05 -                N0BTN         -06 -
+QSO: 14082 FT4 2026-05-18 1902 VE2GT         +11 -                NE4S          +07 -
+QSO: 14082 FT4 2026-05-18 1902 VE2GT         -15 -                N8CQD         -05 -
+QSO: 14080 FT4 2026-05-18 1905 VE2GT         -16 -                KB8PKC        +00 -
+QSO: 14080 FT4 2026-05-18 1907 VE2GT         -10 -                KD4CM         -01 -
+QSO: 21142 FT4 2026-05-18 1915 VE2GT         -08 -                NA5M          -13 -
+QSO: 14080 FT4 2026-05-18 1925 VE2GT         +07 -                VE3PFW        -12 -
+QSO: 14080 FT4 2026-05-18 1926 VE2GT         +04 -                NE4S          -03 -
+QSO: 14082 FT4 2026-05-18 1934 VE2GT         +08 -                WA8OMR        -08 -
+QSO: 14082 FT4 2026-05-18 1948 VE2GT         +04 -                VE3TXI        +11 -
+QSO: 14080 FT4 2026-05-18 1953 VE2GT         +06 -                VE3RRH        +02 -
+QSO: 14080 FT4 2026-05-18 1958 VE2GT         -03 -                KW9Q          -04 -
+QSO: 14080 FT4 2026-05-18 1959 VE2GT         +02 -                KU4ET         +10 -
+QSO: 14080 FT4 2026-05-18 2001 VE2GT         +01 -                KC8HI         +05 -
+QSO: 14080 FT4 2026-05-18 2002 VE2GT         +08 -                W9RJC         -04 -
+QSO: 14080 FT4 2026-05-18 2003 VE2GT         -02 -                KD4EBL        -04 -
+QSO: 14080 FT4 2026-05-18 2004 VE2GT         -09 -                AE5DS         -02 -
+QSO: 14080 FT4 2026-05-18 2004 VE2GT         -02 -                NA5M          -03 -
+QSO: 14080 FT4 2026-05-18 2005 VE2GT         -03 -                VE3HZ         -09 -
+QSO: 14080 FT4 2026-05-18 2006 VE2GT         -13 -                WO3U          -18 -
+QSO: 14080 FT4 2026-05-18 2028 VE2GT         -06 -                KX4NX         +15 -
+QSO: 14080 FT4 2026-05-18 2029 VE2GT         +05 -                N0BTN         -06 -
 END-OF-LOG:

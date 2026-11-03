@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1925 2E0YRT        -07 IO82             G7RHF         -02 IO82
-QSO:   144 DG 2022-02-02 1931 2E0YRT        -07 IO82             M1AEC         -25 IO82
-QSO:   144 DG 2022-02-02 1940 2E0YRT        -06 IO82             G8GNI         -13 IO91
-QSO:   144 DG 2022-02-02 1945 2E0YRT        -09 IO82             G8DER         -17 IO81
-QSO:   144 DG 2022-02-02 1951 2E0YRT        +11 IO82             GW4HDF        +05 IO81
-QSO:   144 DG 2022-02-02 2002 2E0YRT        -14 IO82             M1CFK         -15 IO92
-QSO:   144 DG 2022-02-02 2008 2E0YRT        -08 IO82             G0RMG         -18 IO92
-QSO:   144 DG 2022-02-02 2012 2E0YRT        +16 IO82             G3WAG/P       +09 IO82
-QSO:   144 DG 2022-02-02 2027 2E0YRT        -03 IO82             GI6ATZ        -16 IO74
-QSO:   144 DG 2022-02-02 2032 2E0YRT        +02 IO82             MM0CEZ        -04 IO75
-QSO:   144 DG 2022-02-02 2038 2E0YRT        -12 IO82             G8XYJ         -19 IO82
-QSO:   144 DG 2022-02-02 2043 2E0YRT        -03 IO82             EI8KN         -13 IO62
-QSO:   144 DG 2022-02-02 2046 2E0YRT        -08 IO82             G3YKI         -15 IO82
+QSO:   144 FT8 2022-02-02 1925 2E0YRT        -07 IO82             G7RHF         -02 IO82
+QSO:   144 FT8 2022-02-02 1931 2E0YRT        -07 IO82             M1AEC         -25 IO82
+QSO:   144 FT8 2022-02-02 1940 2E0YRT        -06 IO82             G8GNI         -13 IO91
+QSO:   144 FT8 2022-02-02 1945 2E0YRT        -09 IO82             G8DER         -17 IO81
+QSO:   144 FT8 2022-02-02 1951 2E0YRT        +11 IO82             GW4HDF        +05 IO81
+QSO:   144 FT8 2022-02-02 2002 2E0YRT        -14 IO82             M1CFK         -15 IO92
+QSO:   144 FT8 2022-02-02 2008 2E0YRT        -08 IO82             G0RMG         -18 IO92
+QSO:   144 FT8 2022-02-02 2012 2E0YRT        +16 IO82             G3WAG/P       +09 IO82
+QSO:   144 FT8 2022-02-02 2027 2E0YRT        -03 IO82             GI6ATZ        -16 IO74
+QSO:   144 FT8 2022-02-02 2032 2E0YRT        +02 IO82             MM0CEZ        -04 IO75
+QSO:   144 FT8 2022-02-02 2038 2E0YRT        -12 IO82             G8XYJ         -19 IO82
+QSO:   144 FT8 2022-02-02 2043 2E0YRT        -03 IO82             EI8KN         -13 IO62
+QSO:   144 FT8 2022-02-02 2046 2E0YRT        -08 IO82             G3YKI         -15 IO82
 END-OF-LOG:

@@ -10,31 +10,31 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220413&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=794; excluded rows=0.
-QSO:   432 DG 2022-04-13 1902 G3YKI         +02 IO82             G0RMG         -03 IO92
-QSO:   432 DG 2022-04-13 1904 G3YKI         +12 IO82             EI8KN         +08 IO62
-QSO:   432 DG 2022-04-13 1906 G3YKI         -01 IO82             M7REV         -04 IO82
-QSO:   432 DG 2022-04-13 1907 G3YKI         -01 IO82             M7REV         -04 IO82
-QSO:   432 DG 2022-04-13 1909 G3YKI         +14 IO82             G4EII         +09 IO83
-QSO:   432 DG 2022-04-13 1913 G3YKI         +12 IO82             GM8MJV        -07 IO85
-QSO:   432 DG 2022-04-13 1919 G3YKI         -03 IO82             G4VPD         -12 IO92
-QSO:   432 DG 2022-04-13 1922 G3YKI         +16 IO82             G7RHF         +03 IO82
-QSO:   432 DG 2022-04-13 1925 G3YKI         -10 IO82             G0FVI         -15 IO93
-QSO:   432 DG 2022-04-13 1926 G3YKI         -02 IO82             M3THN         -03 IO92
-QSO:   432 DG 2022-04-13 1928 G3YKI         -09 IO82             G0LGS         -18 IO81
-QSO:   432 DG 2022-04-13 1930 G3YKI         -07 IO82             EI3KD         -21 IO51
-QSO:   432 DG 2022-04-13 1932 G3YKI         -18 IO82             MI0IHH        -05 IO74
-QSO:   432 DG 2022-04-13 1936 G3YKI         +00 IO82             G1RAG         -14 IO92
-QSO:   432 DG 2022-04-13 1951 G3YKI         -21 IO82             MM0ABM        -16 IO75
-QSO:   432 DG 2022-04-13 1956 G3YKI         -14 IO82             M1CFK         -10 IO92
-QSO:   432 DG 2022-04-13 1958 G3YKI         -06 IO82             G0ORE         -08 IO92
-QSO:   432 DG 2022-04-13 2001 G3YKI         +02 IO82             G0TFD         -10 IO82
-QSO:   432 DG 2022-04-13 2009 G3YKI         -08 IO82             M0AHN         -12 IO91
-QSO:   432 DG 2022-04-13 2014 G3YKI         -03 IO82             M1CFK         -13 IO92
-QSO:   432 DG 2022-04-13 2023 G3YKI         -12 IO82             M1CFK         -12 IO92
-QSO:   432 DG 2022-04-13 2039 G3YKI         -09 IO82             GM0HBK        -05 IO77
-QSO:   432 DG 2022-04-13 2043 G3YKI         +00 IO82             GM8MJV        -13 IO85
-QSO:   432 DG 2022-04-13 2053 G3YKI         +11 IO82             GD6ICR        +01 IO74
-QSO:   432 DG 2022-04-13 2055 G3YKI         +01 IO82             GD6ICR        -03 IO74
+QSO:   432 FT8 2022-04-13 1902 G3YKI         +02 IO82             G0RMG         -03 IO92
+QSO:   432 FT8 2022-04-13 1904 G3YKI         +12 IO82             EI8KN         +08 IO62
+QSO:   432 FT8 2022-04-13 1906 G3YKI         -01 IO82             M7REV         -04 IO82
+QSO:   432 FT8 2022-04-13 1907 G3YKI         -01 IO82             M7REV         -04 IO82
+QSO:   432 FT8 2022-04-13 1909 G3YKI         +14 IO82             G4EII         +09 IO83
+QSO:   432 FT8 2022-04-13 1913 G3YKI         +12 IO82             GM8MJV        -07 IO85
+QSO:   432 FT8 2022-04-13 1919 G3YKI         -03 IO82             G4VPD         -12 IO92
+QSO:   432 FT8 2022-04-13 1922 G3YKI         +16 IO82             G7RHF         +03 IO82
+QSO:   432 FT8 2022-04-13 1925 G3YKI         -10 IO82             G0FVI         -15 IO93
+QSO:   432 FT8 2022-04-13 1926 G3YKI         -02 IO82             M3THN         -03 IO92
+QSO:   432 FT8 2022-04-13 1928 G3YKI         -09 IO82             G0LGS         -18 IO81
+QSO:   432 FT8 2022-04-13 1930 G3YKI         -07 IO82             EI3KD         -21 IO51
+QSO:   432 FT8 2022-04-13 1932 G3YKI         -18 IO82             MI0IHH        -05 IO74
+QSO:   432 FT8 2022-04-13 1936 G3YKI         +00 IO82             G1RAG         -14 IO92
+QSO:   432 FT8 2022-04-13 1951 G3YKI         -21 IO82             MM0ABM        -16 IO75
+QSO:   432 FT8 2022-04-13 1956 G3YKI         -14 IO82             M1CFK         -10 IO92
+QSO:   432 FT8 2022-04-13 1958 G3YKI         -06 IO82             G0ORE         -08 IO92
+QSO:   432 FT8 2022-04-13 2001 G3YKI         +02 IO82             G0TFD         -10 IO82
+QSO:   432 FT8 2022-04-13 2009 G3YKI         -08 IO82             M0AHN         -12 IO91
+QSO:   432 FT8 2022-04-13 2014 G3YKI         -03 IO82             M1CFK         -13 IO92
+QSO:   432 FT8 2022-04-13 2023 G3YKI         -12 IO82             M1CFK         -12 IO92
+QSO:   432 FT8 2022-04-13 2039 G3YKI         -09 IO82             GM0HBK        -05 IO77
+QSO:   432 FT8 2022-04-13 2043 G3YKI         +00 IO82             GM8MJV        -13 IO85
+QSO:   432 FT8 2022-04-13 2053 G3YKI         +11 IO82             GD6ICR        +01 IO74
+QSO:   432 FT8 2022-04-13 2055 G3YKI         +01 IO82             GD6ICR        -03 IO74
 END-OF-LOG:

@@ -10,28 +10,29 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260518&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7313; excluded rows=0.
-QSO: 14082 DG 2026-05-18 1920 G8NFZ         -01 -                UT5NM         -10 -
-QSO: 14081 DG 2026-05-18 1928 G8NFZ         +03 -                AO5RKB        -03 -
-QSO: 14081 DG 2026-05-18 1930 G8NFZ         -06 -                YO3RU         -07 -
-QSO: 14080 DG 2026-05-18 1939 G8NFZ         -02 -                SP4MPH        -08 -
-QSO: 14080 DG 2026-05-18 1943 G8NFZ         -01 -                EA8W          -06 -
-QSO: 14080 DG 2026-05-18 1944 G8NFZ         -05 -                SQ8LSB        +06 -
-QSO: 14080 DG 2026-05-18 1946 G8NFZ         +08 -                IZ0MIT        -07 -
-QSO: 14080 DG 2026-05-18 1950 G8NFZ         -05 -                JI4POR        -12 -
-QSO: 14080 DG 2026-05-18 1952 G8NFZ         +14 -                SP5IDR        +13 -
-QSO: 14080 DG 2026-05-18 1953 G8NFZ         -01 -                R4HHN         -12 -
-QSO: 14080 DG 2026-05-18 1958 G8NFZ         -04 -                K9OM          -09 -
-QSO: 14080 DG 2026-05-18 2007 G8NFZ         -07 -                YT1XN         +02 -
-QSO: 14080 DG 2026-05-18 2008 G8NFZ         -18 -                TF3IG         +09 -
-QSO: 14080 DG 2026-05-18 2015 G8NFZ         -01 -                E77TH         -07 -
-QSO: 14080 DG 2026-05-18 2016 G8NFZ         +03 -                YL3QZ         -01 -
-QSO: 14080 DG 2026-05-18 2021 G8NFZ         -16 -                LA/G3SWC      -11 -
-QSO: 14080 DG 2026-05-18 2024 G8NFZ         -09 -                LZ1ZF         -01 -
-QSO: 14080 DG 2026-05-18 2029 G8NFZ         -02 -                LY5J          -06 -
-QSO: 14080 DG 2026-05-18 2034 G8NFZ         -05 -                SV1DKR        -10 -
-QSO: 14082 DG 2026-05-18 2043 G8NFZ         -07 -                SV1DZB        -17 -
-QSO: 14082 DG 2026-05-18 2053 G8NFZ         +08 -                CQ70P         +06 -
-QSO: 14082 DG 2026-05-18 2055 G8NFZ         -07 -                VE3WUE        -07 -
-QSO: 14082 DG 2026-05-18 2056 G8NFZ         +07 -                CT7AUT        +04 -
+QSO: 14082 FT4 2026-05-18 1920 G8NFZ         -01 -                UT5NM         -10 -
+QSO: 14081 FT4 2026-05-18 1928 G8NFZ         +03 -                AO5RKB        -03 -
+QSO: 14081 FT4 2026-05-18 1930 G8NFZ         -06 -                YO3RU         -07 -
+QSO: 14080 FT4 2026-05-18 1939 G8NFZ         -02 -                SP4MPH        -08 -
+QSO: 14080 FT4 2026-05-18 1943 G8NFZ         -01 -                EA8W          -06 -
+QSO: 14080 FT4 2026-05-18 1944 G8NFZ         -05 -                SQ8LSB        +06 -
+QSO: 14080 FT4 2026-05-18 1946 G8NFZ         +08 -                IZ0MIT        -07 -
+QSO: 14080 FT4 2026-05-18 1950 G8NFZ         -05 -                JI4POR        -12 -
+QSO: 14080 FT4 2026-05-18 1952 G8NFZ         +14 -                SP5IDR        +13 -
+QSO: 14080 FT4 2026-05-18 1953 G8NFZ         -01 -                R4HHN         -12 -
+QSO: 14080 FT4 2026-05-18 1958 G8NFZ         -04 -                K9OM          -09 -
+QSO: 14080 FT4 2026-05-18 2007 G8NFZ         -07 -                YT1XN         +02 -
+QSO: 14080 FT4 2026-05-18 2008 G8NFZ         -18 -                TF3IG         +09 -
+QSO: 14080 FT4 2026-05-18 2015 G8NFZ         -01 -                E77TH         -07 -
+QSO: 14080 FT4 2026-05-18 2016 G8NFZ         +03 -                YL3QZ         -01 -
+QSO: 14080 FT4 2026-05-18 2021 G8NFZ         -16 -                LA/G3SWC      -11 -
+QSO: 14080 FT4 2026-05-18 2024 G8NFZ         -09 -                LZ1ZF         -01 -
+QSO: 14080 FT4 2026-05-18 2029 G8NFZ         -02 -                LY5J          -06 -
+QSO: 14080 FT4 2026-05-18 2034 G8NFZ         -05 -                SV1DKR        -10 -
+QSO: 14082 FT4 2026-05-18 2043 G8NFZ         -07 -                SV1DZB        -17 -
+QSO: 14082 FT4 2026-05-18 2053 G8NFZ         +08 -                CQ70P         +06 -
+QSO: 14082 FT4 2026-05-18 2055 G8NFZ         -07 -                VE3WUE        -07 -
+QSO: 14082 FT4 2026-05-18 2056 G8NFZ         +07 -                CT7AUT        +04 -
 END-OF-LOG:

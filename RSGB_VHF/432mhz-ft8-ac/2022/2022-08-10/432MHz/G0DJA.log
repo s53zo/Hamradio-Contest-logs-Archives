@@ -10,25 +10,25 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220810&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=947; excluded rows=0.
-QSO:   432 DG 2022-08-10 1915 G0DJA         -08 IO93             PA3CWS        -15 JO22
-QSO:   432 DG 2022-08-10 1918 G0DJA         -14 IO93             G0JJG         -10 JO02
-QSO:   432 DG 2022-08-10 1932 G0DJA         -09 IO93             M7ICL         -03 JO02
-QSO:   432 DG 2022-08-10 1935 G0DJA         +03 IO93             PE1FBC        -07 JO22
-QSO:   432 DG 2022-08-10 1937 G0DJA         +05 IO93             PE1NYQ        -03 JO21
-QSO:   432 DG 2022-08-10 1940 G0DJA         +00 IO93             G4EII         -13 IO83
-QSO:   432 DG 2022-08-10 1941 G0DJA         -14 IO93             G3YKI         -10 IO82
-QSO:   432 DG 2022-08-10 1952 G0DJA         -03 IO93             G4PDF         -09 IO93
-QSO:   432 DG 2022-08-10 2002 G0DJA         -01 IO93             OV3T          -03 JO46
-QSO:   432 DG 2022-08-10 2010 G0DJA         -16 IO93             PE1NPS        -18 JO22
-QSO:   432 DG 2022-08-10 2012 G0DJA         -18 IO93             M0LMK         -24 JO01
-QSO:   432 DG 2022-08-10 2018 G0DJA         -14 IO93             2E0JPO        -11 IO91
-QSO:   432 DG 2022-08-10 2023 G0DJA         -11 IO93             2E1FMS        -16 IO82
-QSO:   432 DG 2022-08-10 2027 G0DJA         +00 IO93             TM62YT        -07 JN18
-QSO:   432 DG 2022-08-10 2033 G0DJA         -03 IO93             G0BIX         -19 JO01
-QSO:   432 DG 2022-08-10 2039 G0DJA         +01 IO93             PA3GDY        -05 JO21
-QSO:   432 DG 2022-08-10 2042 G0DJA         -08 IO93             PA5Y          -05 JO21
-QSO:   432 DG 2022-08-10 2044 G0DJA         -15 IO93             DG9BFE        -16 JO33
-QSO:   432 DG 2022-08-10 2054 G0DJA         -08 IO93             GI4SNA        -07 IO64
+QSO:   432 FT8 2022-08-10 1915 G0DJA         -08 IO93             PA3CWS        -15 JO22
+QSO:   432 FT8 2022-08-10 1918 G0DJA         -14 IO93             G0JJG         -10 JO02
+QSO:   432 FT8 2022-08-10 1932 G0DJA         -09 IO93             M7ICL         -03 JO02
+QSO:   432 FT8 2022-08-10 1935 G0DJA         +03 IO93             PE1FBC        -07 JO22
+QSO:   432 FT8 2022-08-10 1937 G0DJA         +05 IO93             PE1NYQ        -03 JO21
+QSO:   432 FT8 2022-08-10 1940 G0DJA         +00 IO93             G4EII         -13 IO83
+QSO:   432 FT8 2022-08-10 1941 G0DJA         -14 IO93             G3YKI         -10 IO82
+QSO:   432 FT8 2022-08-10 1952 G0DJA         -03 IO93             G4PDF         -09 IO93
+QSO:   432 FT8 2022-08-10 2002 G0DJA         -01 IO93             OV3T          -03 JO46
+QSO:   432 FT8 2022-08-10 2010 G0DJA         -16 IO93             PE1NPS        -18 JO22
+QSO:   432 FT8 2022-08-10 2012 G0DJA         -18 IO93             M0LMK         -24 JO01
+QSO:   432 FT8 2022-08-10 2018 G0DJA         -14 IO93             2E0JPO        -11 IO91
+QSO:   432 FT8 2022-08-10 2023 G0DJA         -11 IO93             2E1FMS        -16 IO82
+QSO:   432 FT8 2022-08-10 2027 G0DJA         +00 IO93             TM62YT        -07 JN18
+QSO:   432 FT8 2022-08-10 2033 G0DJA         -03 IO93             G0BIX         -19 JO01
+QSO:   432 FT8 2022-08-10 2039 G0DJA         +01 IO93             PA3GDY        -05 JO21
+QSO:   432 FT8 2022-08-10 2042 G0DJA         -08 IO93             PA5Y          -05 JO21
+QSO:   432 FT8 2022-08-10 2044 G0DJA         -15 IO93             DG9BFE        -16 JO33
+QSO:   432 FT8 2022-08-10 2054 G0DJA         -08 IO93             GI4SNA        -07 IO64
 END-OF-LOG:

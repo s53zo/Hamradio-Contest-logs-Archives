@@ -9,12 +9,13 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO:  7049 DG 2026-02-23 2003 G0PPP         +02 -                AO5CU         +02 -
-QSO:  7049 DG 2026-02-23 2020 G0PPP         -03 -                OK1CT         -16 -
-QSO:  7049 DG 2026-02-23 2020 G0PPP         +01 -                DC3CD         -02 -
-QSO:  7049 DG 2026-02-23 2027 G0PPP         -02 -                I2XLF         -05 -
-QSO: 14081 DG 2026-02-23 2046 G0PPP         +02 -                F4VVJ         -16 -
-QSO: 14081 DG 2026-02-23 2052 G0PPP         +06 -                S51DX         -06 -
-QSO:  7049 DG 2026-02-23 2139 G0PPP         -16 -                YO4CVV        -08 -
+QSO:  7049 FT4 2026-02-23 2003 G0PPP         +02 -                AO5CU         +02 -
+QSO:  7049 FT4 2026-02-23 2020 G0PPP         -03 -                OK1CT         -16 -
+QSO:  7049 FT4 2026-02-23 2020 G0PPP         +01 -                DC3CD         -02 -
+QSO:  7049 FT4 2026-02-23 2027 G0PPP         -02 -                I2XLF         -05 -
+QSO: 14081 FT4 2026-02-23 2046 G0PPP         +02 -                F4VVJ         -16 -
+QSO: 14081 FT4 2026-02-23 2052 G0PPP         +06 -                S51DX         -06 -
+QSO:  7049 FT4 2026-02-23 2139 G0PPP         -16 -                YO4CVV        -08 -
 END-OF-LOG:

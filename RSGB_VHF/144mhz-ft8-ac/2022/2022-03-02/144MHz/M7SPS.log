@@ -10,25 +10,25 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1303; excluded rows=0.
-QSO:   144 DG 2022-03-02 1906 M7SPS         -09 IO92             M0GXZ         -10 IO92
-QSO:   144 DG 2022-03-02 1907 M7SPS         -09 IO92             G3WZK         -07 IO91
-QSO:   144 DG 2022-03-02 1911 M7SPS         -17 IO92             G8GNI         -02 IO91
-QSO:   144 DG 2022-03-02 1913 M7SPS         -11 IO92             G7HJX         -12 IO92
-QSO:   144 DG 2022-03-02 1917 M7SPS         -18 IO92             PA0JQD        -19 JO21
-QSO:   144 DG 2022-03-02 1923 M7SPS         -10 IO92             G0FVI         -18 IO93
-QSO:   144 DG 2022-03-02 1928 M7SPS         -09 IO92             M7REV         -13 IO82
-QSO:   144 DG 2022-03-02 1935 M7SPS         -07 IO92             MI0IHH        -11 IO74
-QSO:   144 DG 2022-03-02 1939 M7SPS         -12 IO92             G8CRB         -14 JO02
-QSO:   144 DG 2022-03-02 2002 M7SPS         -14 IO92             G8AOE/P       -19 IO94
-QSO:   144 DG 2022-03-02 2023 M7SPS         +07 IO92             G0XDI         -04 IO91
-QSO:   144 DG 2022-03-02 2026 M7SPS         -12 IO92             G4PDF         -14 IO93
-QSO:   144 DG 2022-03-02 2032 M7SPS         +14 IO92             G4TUH         +11 IO92
-QSO:   144 DG 2022-03-02 2033 M7SPS         +00 IO92             G4VPD         -08 IO92
-QSO:   144 DG 2022-03-02 2034 M7SPS         -12 IO92             G3XBY         -23 IO92
-QSO:   144 DG 2022-03-02 2038 M7SPS         -12 IO92             G0FEH         -19 IO92
-QSO:   144 DG 2022-03-02 2042 M7SPS         -14 IO92             2E0DUE        -17 JO01
-QSO:   144 DG 2022-03-02 2046 M7SPS         -09 IO92             GI6ATZ        -14 IO74
-QSO:   144 DG 2022-03-02 2058 M7SPS         -05 IO92             G3SED         -07 IO90
+QSO:   144 FT8 2022-03-02 1906 M7SPS         -09 IO92             M0GXZ         -10 IO92
+QSO:   144 FT8 2022-03-02 1907 M7SPS         -09 IO92             G3WZK         -07 IO91
+QSO:   144 FT8 2022-03-02 1911 M7SPS         -17 IO92             G8GNI         -02 IO91
+QSO:   144 FT8 2022-03-02 1913 M7SPS         -11 IO92             G7HJX         -12 IO92
+QSO:   144 FT8 2022-03-02 1917 M7SPS         -18 IO92             PA0JQD        -19 JO21
+QSO:   144 FT8 2022-03-02 1923 M7SPS         -10 IO92             G0FVI         -18 IO93
+QSO:   144 FT8 2022-03-02 1928 M7SPS         -09 IO92             M7REV         -13 IO82
+QSO:   144 FT8 2022-03-02 1935 M7SPS         -07 IO92             MI0IHH        -11 IO74
+QSO:   144 FT8 2022-03-02 1939 M7SPS         -12 IO92             G8CRB         -14 JO02
+QSO:   144 FT8 2022-03-02 2002 M7SPS         -14 IO92             G8AOE/P       -19 IO94
+QSO:   144 FT8 2022-03-02 2023 M7SPS         +07 IO92             G0XDI         -04 IO91
+QSO:   144 FT8 2022-03-02 2026 M7SPS         -12 IO92             G4PDF         -14 IO93
+QSO:   144 FT8 2022-03-02 2032 M7SPS         +14 IO92             G4TUH         +11 IO92
+QSO:   144 FT8 2022-03-02 2033 M7SPS         +00 IO92             G4VPD         -08 IO92
+QSO:   144 FT8 2022-03-02 2034 M7SPS         -12 IO92             G3XBY         -23 IO92
+QSO:   144 FT8 2022-03-02 2038 M7SPS         -12 IO92             G0FEH         -19 IO92
+QSO:   144 FT8 2022-03-02 2042 M7SPS         -14 IO92             2E0DUE        -17 JO01
+QSO:   144 FT8 2022-03-02 2046 M7SPS         -09 IO92             GI6ATZ        -14 IO74
+QSO:   144 FT8 2022-03-02 2058 M7SPS         -05 IO92             G3SED         -07 IO90
 END-OF-LOG:

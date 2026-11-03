@@ -10,30 +10,30 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260304&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1043; excluded rows=1.
-QSO:   144 DG 2026-03-04 1901 G4FLM         +14 IO94             G7LRQ         +03 JO03
-QSO:   144 DG 2026-03-04 1908 G4FLM         -12 IO94             G6DDN         -11 IO93
-QSO:   144 DG 2026-03-04 1920 G4FLM         +28 IO94             G0XDI         -24 IO91
-QSO:   144 DG 2026-03-04 1921 G4FLM         -05 IO94             PI4VPO        -10 JO21
-QSO:   144 DG 2026-03-04 1923 G4FLM         -12 IO94             PD2DNS        -14 JO33
-QSO:   144 DG 2026-03-04 1925 G4FLM         -07 IO94             G0ODR         +02 JO02
-QSO:   144 DG 2026-03-04 1928 G4FLM         +08 IO94             F1NQP         -07 JN19
-QSO:   144 DG 2026-03-04 1933 G4FLM         -03 IO94             M9DJN         +04 IO82
-QSO:   144 DG 2026-03-04 1935 G4FLM         +12 IO94             G8LIY         -08 IO83
-QSO:   144 DG 2026-03-04 1938 G4FLM         -12 IO94             GM8MJV        -17 IO85
-QSO:   144 DG 2026-03-04 1949 G4FLM         -15 IO94             G4BAO         -15 JO02
-QSO:   144 DG 2026-03-04 1956 G4FLM         -16 IO94             G6HIE         -12 JO00
-QSO:   144 DG 2026-03-04 1958 G4FLM         -19 IO94             G3LNM         -16 JO02
-QSO:   144 DG 2026-03-04 2006 G4FLM         +08 IO94             M1EYP/P       +23 IO83
-QSO:   144 DG 2026-03-04 2008 G4FLM         -11 IO94             M1DYU         +16 IO83
-QSO:   144 DG 2026-03-04 2009 G4FLM         -22 IO94             M1TZR         -15 IO83
-QSO:   144 DG 2026-03-04 2010 G4FLM         +09 IO94             G4HGI         +03 IO83
-QSO:   144 DG 2026-03-04 2023 G4FLM         -06 IO94             PH2M          -13 JO22
-QSO:   144 DG 2026-03-04 2026 G4FLM         -05 IO94             DL5EBS        -16 JO22
-QSO:   144 DG 2026-03-04 2030 G4FLM         -12 IO94             DL1OBF        -10 JO42
-QSO:   144 DG 2026-03-04 2040 G4FLM         -06 IO94             PA3N          -12 JO22
-QSO:   144 DG 2026-03-04 2041 G4FLM         +07 IO94             G0JDL         +16 JO02
-QSO:   144 DG 2026-03-04 2052 G4FLM         +06 IO94             G0JJG         -04 JO02
-QSO:   144 DG 2026-03-04 2100 G4FLM         -11 IO94             DD7DAC        -05 JO31
+QSO:   144 FT8 2026-03-04 1901 G4FLM         +14 IO94             G7LRQ         +03 JO03
+QSO:   144 FT8 2026-03-04 1908 G4FLM         -12 IO94             G6DDN         -11 IO93
+QSO:   144 FT8 2026-03-04 1920 G4FLM         +28 IO94             G0XDI         -24 IO91
+QSO:   144 FT8 2026-03-04 1921 G4FLM         -05 IO94             PI4VPO        -10 JO21
+QSO:   144 FT8 2026-03-04 1923 G4FLM         -12 IO94             PD2DNS        -14 JO33
+QSO:   144 FT8 2026-03-04 1925 G4FLM         -07 IO94             G0ODR         +02 JO02
+QSO:   144 FT8 2026-03-04 1928 G4FLM         +08 IO94             F1NQP         -07 JN19
+QSO:   144 FT8 2026-03-04 1933 G4FLM         -03 IO94             M9DJN         +04 IO82
+QSO:   144 FT8 2026-03-04 1935 G4FLM         +12 IO94             G8LIY         -08 IO83
+QSO:   144 FT8 2026-03-04 1938 G4FLM         -12 IO94             GM8MJV        -17 IO85
+QSO:   144 FT8 2026-03-04 1949 G4FLM         -15 IO94             G4BAO         -15 JO02
+QSO:   144 FT8 2026-03-04 1956 G4FLM         -16 IO94             G6HIE         -12 JO00
+QSO:   144 FT8 2026-03-04 1958 G4FLM         -19 IO94             G3LNM         -16 JO02
+QSO:   144 FT8 2026-03-04 2006 G4FLM         +08 IO94             M1EYP/P       +23 IO83
+QSO:   144 FT8 2026-03-04 2008 G4FLM         -11 IO94             M1DYU         +16 IO83
+QSO:   144 FT8 2026-03-04 2009 G4FLM         -22 IO94             M1TZR         -15 IO83
+QSO:   144 FT8 2026-03-04 2010 G4FLM         +09 IO94             G4HGI         +03 IO83
+QSO:   144 FT8 2026-03-04 2023 G4FLM         -06 IO94             PH2M          -13 JO22
+QSO:   144 FT8 2026-03-04 2026 G4FLM         -05 IO94             DL5EBS        -16 JO22
+QSO:   144 FT8 2026-03-04 2030 G4FLM         -12 IO94             DL1OBF        -10 JO42
+QSO:   144 FT8 2026-03-04 2040 G4FLM         -06 IO94             PA3N          -12 JO22
+QSO:   144 FT8 2026-03-04 2041 G4FLM         +07 IO94             G0JDL         +16 JO02
+QSO:   144 FT8 2026-03-04 2052 G4FLM         +06 IO94             G0JJG         -04 JO02
+QSO:   144 FT8 2026-03-04 2100 G4FLM         -11 IO94             DD7DAC        -05 JO31
 END-OF-LOG:

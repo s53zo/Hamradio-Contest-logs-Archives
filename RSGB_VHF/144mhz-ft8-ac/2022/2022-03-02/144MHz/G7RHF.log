@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1303; excluded rows=0.
-QSO:   144 DG 2022-03-02 1902 G7RHF         +10 IO82             G4EII         +04 IO83
-QSO:   144 DG 2022-03-02 1907 G7RHF         -12 IO82             M0BKV         -15 IO70
-QSO:   144 DG 2022-03-02 1913 G7RHF         -12 IO82             M1CFK         -24 IO92
-QSO:   144 DG 2022-03-02 1914 G7RHF         +13 IO82             G3YKI         +12 IO82
-QSO:   144 DG 2022-03-02 1917 G7RHF         -05 IO82             G0RMG         -16 IO92
-QSO:   144 DG 2022-03-02 1933 G7RHF         -05 IO82             G0XBU         -14 IO83
-QSO:   144 DG 2022-03-02 1938 G7RHF         -08 IO82             M7REV         -14 IO82
-QSO:   144 DG 2022-03-02 1949 G7RHF         -11 IO82             G4OED         -18 IO91
-QSO:   144 DG 2022-03-02 1954 G7RHF         +07 IO82             2E0YRT        +13 IO82
-QSO:   144 DG 2022-03-02 2009 G7RHF         -14 IO82             EI8KN         +00 IO62
-QSO:   144 DG 2022-03-02 2039 G7RHF         -12 IO82             M1CFK         -19 IO92
+QSO:   144 FT8 2022-03-02 1902 G7RHF         +10 IO82             G4EII         +04 IO83
+QSO:   144 FT8 2022-03-02 1907 G7RHF         -12 IO82             M0BKV         -15 IO70
+QSO:   144 FT8 2022-03-02 1913 G7RHF         -12 IO82             M1CFK         -24 IO92
+QSO:   144 FT8 2022-03-02 1914 G7RHF         +13 IO82             G3YKI         +12 IO82
+QSO:   144 FT8 2022-03-02 1917 G7RHF         -05 IO82             G0RMG         -16 IO92
+QSO:   144 FT8 2022-03-02 1933 G7RHF         -05 IO82             G0XBU         -14 IO83
+QSO:   144 FT8 2022-03-02 1938 G7RHF         -08 IO82             M7REV         -14 IO82
+QSO:   144 FT8 2022-03-02 1949 G7RHF         -11 IO82             G4OED         -18 IO91
+QSO:   144 FT8 2022-03-02 1954 G7RHF         +07 IO82             2E0YRT        +13 IO82
+QSO:   144 FT8 2022-03-02 2009 G7RHF         -14 IO82             EI8KN         +00 IO62
+QSO:   144 FT8 2022-03-02 2039 G7RHF         -12 IO82             M1CFK         -19 IO92
 END-OF-LOG:

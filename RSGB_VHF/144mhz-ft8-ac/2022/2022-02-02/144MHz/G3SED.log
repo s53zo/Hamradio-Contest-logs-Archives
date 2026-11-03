@@ -10,39 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1936 G3SED         -17 IO90             F6HTJ         -11 JN12
-QSO:   144 DG 2022-02-02 1937 G3SED         -11 IO90             2E0SNB        -05 IO91
-QSO:   144 DG 2022-02-02 1939 G3SED         +01 IO90             G7LRQ         -01 IO91
-QSO:   144 DG 2022-02-02 1940 G3SED         -15 IO90             EI8KN         +03 IO62
-QSO:   144 DG 2022-02-02 1943 G3SED         -04 IO90             EA1HRR        +01 IN83
-QSO:   144 DG 2022-02-02 1945 G3SED         +02 IO90             F4FMB         +10 IN96
-QSO:   144 DG 2022-02-02 1951 G3SED         -07 IO90             F0GOW         +09 IN96
-QSO:   144 DG 2022-02-02 1955 G3SED         -19 IO90             GD0TEP        -06 IO74
-QSO:   144 DG 2022-02-02 1957 G3SED         -14 IO90             G8XYJ         -02 IO82
-QSO:   144 DG 2022-02-02 1958 G3SED         -10 IO90             GI6ATZ        -02 IO74
-QSO:   144 DG 2022-02-02 2000 G3SED         -18 IO90             EI9KP         -06 IO54
-QSO:   144 DG 2022-02-02 2002 G3SED         -01 IO90             G4VPD         +08 IO92
-QSO:   144 DG 2022-02-02 2004 G3SED         -04 IO90             G4OED         -08 IO91
-QSO:   144 DG 2022-02-02 2007 G3SED         -12 IO90             PH2M          -10 JO22HC
-QSO:   144 DG 2022-02-02 2010 G3SED         -08 IO90             PA5Y          +02 JO21
-QSO:   144 DG 2022-02-02 2012 G3SED         -06 IO90             2E0GKW        -03 IO91
-QSO:   144 DG 2022-02-02 2006 G3SED         -06 IO90             M0NVS         -07 IO91
-QSO:   144 DG 2022-02-02 2015 G3SED         -08 IO90             G0XDI         -06 IO91
-QSO:   144 DG 2022-02-02 2016 G3SED         -14 IO90             G0JJG         +09 JO02
-QSO:   144 DG 2022-02-02 2019 G3SED         +02 IO90             MW3ASG        +29 IO81
-QSO:   144 DG 2022-02-02 2022 G3SED         -05 IO90             G8SEI         +21 IO92
-QSO:   144 DG 2022-02-02 2026 G3SED         -01 IO90             EA2XR         +06 IN83
-QSO:   144 DG 2022-02-02 2033 G3SED         -13 IO90             MM0CEZ        +00 IO75
-QSO:   144 DG 2022-02-02 2035 G3SED         -14 IO90             G4LPP         -19 JO02
-QSO:   144 DG 2022-02-02 2036 G3SED         -13 IO90             G8IXK         +23 IO91
-QSO:   144 DG 2022-02-02 2037 G3SED         -14 IO90             DL5EBS        -11 JO31
-QSO:   144 DG 2022-02-02 2041 G3SED         -12 IO90             PA8KM         +02 JO32
-QSO:   144 DG 2022-02-02 2042 G3SED         -01 IO90             M0XTY         +07 JO01
-QSO:   144 DG 2022-02-02 2047 G3SED         -20 IO90             G4JIX         -08 IO94
-QSO:   144 DG 2022-02-02 2047 G3SED         -12 IO90             G0XBU         -12 IO83
-QSO:   144 DG 2022-02-02 2049 G3SED         -06 IO90             G4NBS         +02 JO02
-QSO:   144 DG 2022-02-02 2051 G3SED         -12 IO90             M0RTQ         -03 IO93
-QSO:   144 DG 2022-02-02 2052 G3SED         +03 IO90             G0JCC         +24 IO82
+QSO:   144 FT8 2022-02-02 1936 G3SED         -17 IO90             F6HTJ         -11 JN12
+QSO:   144 FT8 2022-02-02 1937 G3SED         -11 IO90             2E0SNB        -05 IO91
+QSO:   144 FT8 2022-02-02 1939 G3SED         +01 IO90             G7LRQ         -01 IO91
+QSO:   144 FT8 2022-02-02 1940 G3SED         -15 IO90             EI8KN         +03 IO62
+QSO:   144 FT8 2022-02-02 1943 G3SED         -04 IO90             EA1HRR        +01 IN83
+QSO:   144 FT8 2022-02-02 1945 G3SED         +02 IO90             F4FMB         +10 IN96
+QSO:   144 FT8 2022-02-02 1951 G3SED         -07 IO90             F0GOW         +09 IN96
+QSO:   144 FT8 2022-02-02 1955 G3SED         -19 IO90             GD0TEP        -06 IO74
+QSO:   144 FT8 2022-02-02 1957 G3SED         -14 IO90             G8XYJ         -02 IO82
+QSO:   144 FT8 2022-02-02 1958 G3SED         -10 IO90             GI6ATZ        -02 IO74
+QSO:   144 FT8 2022-02-02 2000 G3SED         -18 IO90             EI9KP         -06 IO54
+QSO:   144 FT8 2022-02-02 2002 G3SED         -01 IO90             G4VPD         +08 IO92
+QSO:   144 FT8 2022-02-02 2004 G3SED         -04 IO90             G4OED         -08 IO91
+QSO:   144 FT8 2022-02-02 2007 G3SED         -12 IO90             PH2M          -10 JO22HC
+QSO:   144 FT8 2022-02-02 2010 G3SED         -08 IO90             PA5Y          +02 JO21
+QSO:   144 FT8 2022-02-02 2012 G3SED         -06 IO90             2E0GKW        -03 IO91
+QSO:   144 FT8 2022-02-02 2006 G3SED         -06 IO90             M0NVS         -07 IO91
+QSO:   144 FT8 2022-02-02 2015 G3SED         -08 IO90             G0XDI         -06 IO91
+QSO:   144 FT8 2022-02-02 2016 G3SED         -14 IO90             G0JJG         +09 JO02
+QSO:   144 FT8 2022-02-02 2019 G3SED         +02 IO90             MW3ASG        +29 IO81
+QSO:   144 FT8 2022-02-02 2022 G3SED         -05 IO90             G8SEI         +21 IO92
+QSO:   144 FT8 2022-02-02 2026 G3SED         -01 IO90             EA2XR         +06 IN83
+QSO:   144 FT8 2022-02-02 2033 G3SED         -13 IO90             MM0CEZ        +00 IO75
+QSO:   144 FT8 2022-02-02 2035 G3SED         -14 IO90             G4LPP         -19 JO02
+QSO:   144 FT8 2022-02-02 2036 G3SED         -13 IO90             G8IXK         +23 IO91
+QSO:   144 FT8 2022-02-02 2037 G3SED         -14 IO90             DL5EBS        -11 JO31
+QSO:   144 FT8 2022-02-02 2041 G3SED         -12 IO90             PA8KM         +02 JO32
+QSO:   144 FT8 2022-02-02 2042 G3SED         -01 IO90             M0XTY         +07 JO01
+QSO:   144 FT8 2022-02-02 2047 G3SED         -20 IO90             G4JIX         -08 IO94
+QSO:   144 FT8 2022-02-02 2047 G3SED         -12 IO90             G0XBU         -12 IO83
+QSO:   144 FT8 2022-02-02 2049 G3SED         -06 IO90             G4NBS         +02 JO02
+QSO:   144 FT8 2022-02-02 2051 G3SED         -12 IO90             M0RTQ         -03 IO93
+QSO:   144 FT8 2022-02-02 2052 G3SED         +03 IO90             G0JCC         +24 IO82
 END-OF-LOG:

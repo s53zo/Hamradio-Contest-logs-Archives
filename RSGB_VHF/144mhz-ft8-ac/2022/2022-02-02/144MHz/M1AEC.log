@@ -10,38 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1904 M1AEC         +17 IO82             G4JFK         -01 IO81
-QSO:   144 DG 2022-02-02 1905 M1AEC         -25 IO82             M7ICL         -07 JO02
-QSO:   144 DG 2022-02-02 1907 M1AEC         -20 IO82             M7APV         -16 JO01
-QSO:   144 DG 2022-02-02 1909 M1AEC         -08 IO82             G4UJS         -05 -
-QSO:   144 DG 2022-02-02 1911 M1AEC         -07 IO82             G4AWA         +05 IO90
-QSO:   144 DG 2022-02-02 1912 M1AEC         -19 IO82             G4FFY         -09 JO01
-QSO:   144 DG 2022-02-02 1917 M1AEC         +03 IO82             M0IEP         +17 IO91
-QSO:   144 DG 2022-02-02 1918 M1AEC         -21 IO82             EA1U          -02 IN83
-QSO:   144 DG 2022-02-02 1923 M1AEC         -08 IO82             G4PDF         -03 IO93
-QSO:   144 DG 2022-02-02 1927 M1AEC         +06 IO82             M1CFK         +20 IO92
-QSO:   144 DG 2022-02-02 1930 M1AEC         -25 IO82             2E0YRT        -07 IO82
-QSO:   144 DG 2022-02-02 1933 M1AEC         -14 IO82             MI0IHH        -14 IO74
-QSO:   144 DG 2022-02-02 1935 M1AEC         -13 IO82             G0FVI         -10 IO93
-QSO:   144 DG 2022-02-02 1938 M1AEC         -18 IO82             F5LMG         -06 IN88
-QSO:   144 DG 2022-02-02 1946 M1AEC         -18 IO82             M0BKV         -09 IO70
-QSO:   144 DG 2022-02-02 1950 M1AEC         -16 IO82             G7WIR         -10 JO01
-QSO:   144 DG 2022-02-02 1951 M1AEC         -09 IO82             G0FEH         -07 IO92
-QSO:   144 DG 2022-02-02 1955 M1AEC         -07 IO82             G4OED         +01 IO91
-QSO:   144 DG 2022-02-02 1957 M1AEC         -17 IO82             F8DHA         +00 IN95
-QSO:   144 DG 2022-02-02 2000 M1AEC         -17 IO82             M0FXX         -12 IO91
-QSO:   144 DG 2022-02-02 2003 M1AEC         -21 IO82             M0LMX         -06 IO81
-QSO:   144 DG 2022-02-02 2006 M1AEC         +05 IO82             G0RMG         -06 IO92
-QSO:   144 DG 2022-02-02 2007 M1AEC         -15 IO82             M0NYY         +04 IO91
-QSO:   144 DG 2022-02-02 2010 M1AEC         +06 IO82             G0XDI         +10 IO91
-QSO:   144 DG 2022-02-02 2014 M1AEC         -15 IO82             G8IXK         +09 IO91
-QSO:   144 DG 2022-02-02 2016 M1AEC         -04 IO82             2E0IEI        -04 IO81
-QSO:   144 DG 2022-02-02 2029 M1AEC         -05 IO82             G4APJ         -10 IO83
-QSO:   144 DG 2022-02-02 2036 M1AEC         -15 IO82             F6HRO         +11 IN88
-QSO:   144 DG 2022-02-02 2041 M1AEC         -18 IO82             M1NMG         -01 IO82
-QSO:   144 DG 2022-02-02 2047 M1AEC         -16 IO82             G4VPD         -03 IO92
-QSO:   144 DG 2022-02-02 2052 M1AEC         -21 IO82             G0GRI         +06 IO80
-QSO:   144 DG 2022-02-02 2054 M1AEC         -20 IO82             EI8KN         +00 IO62
+QSO:   144 FT8 2022-02-02 1904 M1AEC         +17 IO82             G4JFK         -01 IO81
+QSO:   144 FT8 2022-02-02 1905 M1AEC         -25 IO82             M7ICL         -07 JO02
+QSO:   144 FT8 2022-02-02 1907 M1AEC         -20 IO82             M7APV         -16 JO01
+QSO:   144 FT8 2022-02-02 1909 M1AEC         -08 IO82             G4UJS         -05 -
+QSO:   144 FT8 2022-02-02 1911 M1AEC         -07 IO82             G4AWA         +05 IO90
+QSO:   144 FT8 2022-02-02 1912 M1AEC         -19 IO82             G4FFY         -09 JO01
+QSO:   144 FT8 2022-02-02 1917 M1AEC         +03 IO82             M0IEP         +17 IO91
+QSO:   144 FT8 2022-02-02 1918 M1AEC         -21 IO82             EA1U          -02 IN83
+QSO:   144 FT8 2022-02-02 1923 M1AEC         -08 IO82             G4PDF         -03 IO93
+QSO:   144 FT8 2022-02-02 1927 M1AEC         +06 IO82             M1CFK         +20 IO92
+QSO:   144 FT8 2022-02-02 1930 M1AEC         -25 IO82             2E0YRT        -07 IO82
+QSO:   144 FT8 2022-02-02 1933 M1AEC         -14 IO82             MI0IHH        -14 IO74
+QSO:   144 FT8 2022-02-02 1935 M1AEC         -13 IO82             G0FVI         -10 IO93
+QSO:   144 FT8 2022-02-02 1938 M1AEC         -18 IO82             F5LMG         -06 IN88
+QSO:   144 FT8 2022-02-02 1946 M1AEC         -18 IO82             M0BKV         -09 IO70
+QSO:   144 FT8 2022-02-02 1950 M1AEC         -16 IO82             G7WIR         -10 JO01
+QSO:   144 FT8 2022-02-02 1951 M1AEC         -09 IO82             G0FEH         -07 IO92
+QSO:   144 FT8 2022-02-02 1955 M1AEC         -07 IO82             G4OED         +01 IO91
+QSO:   144 FT8 2022-02-02 1957 M1AEC         -17 IO82             F8DHA         +00 IN95
+QSO:   144 FT8 2022-02-02 2000 M1AEC         -17 IO82             M0FXX         -12 IO91
+QSO:   144 FT8 2022-02-02 2003 M1AEC         -21 IO82             M0LMX         -06 IO81
+QSO:   144 FT8 2022-02-02 2006 M1AEC         +05 IO82             G0RMG         -06 IO92
+QSO:   144 FT8 2022-02-02 2007 M1AEC         -15 IO82             M0NYY         +04 IO91
+QSO:   144 FT8 2022-02-02 2010 M1AEC         +06 IO82             G0XDI         +10 IO91
+QSO:   144 FT8 2022-02-02 2014 M1AEC         -15 IO82             G8IXK         +09 IO91
+QSO:   144 FT8 2022-02-02 2016 M1AEC         -04 IO82             2E0IEI        -04 IO81
+QSO:   144 FT8 2022-02-02 2029 M1AEC         -05 IO82             G4APJ         -10 IO83
+QSO:   144 FT8 2022-02-02 2036 M1AEC         -15 IO82             F6HRO         +11 IN88
+QSO:   144 FT8 2022-02-02 2041 M1AEC         -18 IO82             M1NMG         -01 IO82
+QSO:   144 FT8 2022-02-02 2047 M1AEC         -16 IO82             G4VPD         -03 IO92
+QSO:   144 FT8 2022-02-02 2052 M1AEC         -21 IO82             G0GRI         +06 IO80
+QSO:   144 FT8 2022-02-02 2054 M1AEC         -20 IO82             EI8KN         +00 IO62
 END-OF-LOG:

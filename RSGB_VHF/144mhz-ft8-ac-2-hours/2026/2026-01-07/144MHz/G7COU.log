@@ -10,38 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260107&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=763; excluded rows=0.
-QSO:   144 DG 2026-01-07 1903 G7COU         -12 IO93             G7LRQ         -12 JO03
-QSO:   144 DG 2026-01-07 1904 G7COU         -03 IO93             G4ZTR         +01 JO01
-QSO:   144 DG 2026-01-07 1906 G7COU         -09 IO93             G8YPE         -14 IO92
-QSO:   144 DG 2026-01-07 1912 G7COU         -25 IO93             G4RFR         -12 IO90
-QSO:   144 DG 2026-01-07 1916 G7COU         -16 IO93             F1NQP         -20 JN19
-QSO:   144 DG 2026-01-07 1922 G7COU         -25 IO93             PE1OBL        -11 JO21
-QSO:   144 DG 2026-01-07 1924 G7COU         -05 IO93             OV3T          -04 JO46
-QSO:   144 DG 2026-01-07 1926 G7COU         -16 IO93             G7WIR         -24 JO01
-QSO:   144 DG 2026-01-07 1929 G7COU         -15 IO93             G3WZK         -14 IO91
-QSO:   144 DG 2026-01-07 1937 G7COU         -18 IO93             GM4VYQ        -14 IO76
-QSO:   144 DG 2026-01-07 1941 G7COU         -01 IO93             G0JEI         -02 IO93
-QSO:   144 DG 2026-01-07 1943 G7COU         -20 IO93             EI4ACB        -17 IO62
-QSO:   144 DG 2026-01-07 1945 G7COU         -17 IO93             G8LIY         -14 IO83
-QSO:   144 DG 2026-01-07 1946 G7COU         -10 IO93             G0XDI         -10 IO91
-QSO:   144 DG 2026-01-07 1952 G7COU         -12 IO93             M9DJN         -10 IO82
-QSO:   144 DG 2026-01-07 1955 G7COU         -12 IO93             MM0CEZ        -15 IO75
-QSO:   144 DG 2026-01-07 1958 G7COU         -19 IO93             PH2M          -21 JO22
-QSO:   144 DG 2026-01-07 2001 G7COU         -09 IO93             G0JCC         -08 IO82
-QSO:   144 DG 2026-01-07 2006 G7COU         -24 IO93             DL5EBS        -24 JO31
-QSO:   144 DG 2026-01-07 2010 G7COU         -09 IO93             EI8KN         -16 IO62
-QSO:   144 DG 2026-01-07 2014 G7COU         -19 IO93             DO3HTV        -16 JO32
-QSO:   144 DG 2026-01-07 2015 G7COU         -13 IO93             GM8MJV        -25 IO85
-QSO:   144 DG 2026-01-07 2018 G7COU         -10 IO93             G0JDL         -02 JO02
-QSO:   144 DG 2026-01-07 2022 G7COU         -19 IO93             GM4WJA        -08 IO87
-QSO:   144 DG 2026-01-07 2024 G7COU         -02 IO93             G0JJG         -14 JO02
-QSO:   144 DG 2026-01-07 2026 G7COU         +00 IO93             G0WUU         +19 IO93
-QSO:   144 DG 2026-01-07 2029 G7COU         -01 IO93             M0AAM         +12 IO93
-QSO:   144 DG 2026-01-07 2036 G7COU         +03 IO93             G4PDF         +01 IO93
-QSO:   144 DG 2026-01-07 2043 G7COU         -17 IO93             G8IXK         -03 IO91
-QSO:   144 DG 2026-01-07 2049 G7COU         -17 IO93             2E0PYG        -01 IO93
-QSO:   144 DG 2026-01-07 2054 G7COU         -08 IO93             G8SEI         -06 IO92
-QSO:   144 DG 2026-01-07 2057 G7COU         +00 IO93             M7LYG         +09 IO93
+QSO:   144 FT8 2026-01-07 1903 G7COU         -12 IO93             G7LRQ         -12 JO03
+QSO:   144 FT8 2026-01-07 1904 G7COU         -03 IO93             G4ZTR         +01 JO01
+QSO:   144 FT8 2026-01-07 1906 G7COU         -09 IO93             G8YPE         -14 IO92
+QSO:   144 FT8 2026-01-07 1912 G7COU         -25 IO93             G4RFR         -12 IO90
+QSO:   144 FT8 2026-01-07 1916 G7COU         -16 IO93             F1NQP         -20 JN19
+QSO:   144 FT8 2026-01-07 1922 G7COU         -25 IO93             PE1OBL        -11 JO21
+QSO:   144 FT8 2026-01-07 1924 G7COU         -05 IO93             OV3T          -04 JO46
+QSO:   144 FT8 2026-01-07 1926 G7COU         -16 IO93             G7WIR         -24 JO01
+QSO:   144 FT8 2026-01-07 1929 G7COU         -15 IO93             G3WZK         -14 IO91
+QSO:   144 FT8 2026-01-07 1937 G7COU         -18 IO93             GM4VYQ        -14 IO76
+QSO:   144 FT8 2026-01-07 1941 G7COU         -01 IO93             G0JEI         -02 IO93
+QSO:   144 FT8 2026-01-07 1943 G7COU         -20 IO93             EI4ACB        -17 IO62
+QSO:   144 FT8 2026-01-07 1945 G7COU         -17 IO93             G8LIY         -14 IO83
+QSO:   144 FT8 2026-01-07 1946 G7COU         -10 IO93             G0XDI         -10 IO91
+QSO:   144 FT8 2026-01-07 1952 G7COU         -12 IO93             M9DJN         -10 IO82
+QSO:   144 FT8 2026-01-07 1955 G7COU         -12 IO93             MM0CEZ        -15 IO75
+QSO:   144 FT8 2026-01-07 1958 G7COU         -19 IO93             PH2M          -21 JO22
+QSO:   144 FT8 2026-01-07 2001 G7COU         -09 IO93             G0JCC         -08 IO82
+QSO:   144 FT8 2026-01-07 2006 G7COU         -24 IO93             DL5EBS        -24 JO31
+QSO:   144 FT8 2026-01-07 2010 G7COU         -09 IO93             EI8KN         -16 IO62
+QSO:   144 FT8 2026-01-07 2014 G7COU         -19 IO93             DO3HTV        -16 JO32
+QSO:   144 FT8 2026-01-07 2015 G7COU         -13 IO93             GM8MJV        -25 IO85
+QSO:   144 FT8 2026-01-07 2018 G7COU         -10 IO93             G0JDL         -02 JO02
+QSO:   144 FT8 2026-01-07 2022 G7COU         -19 IO93             GM4WJA        -08 IO87
+QSO:   144 FT8 2026-01-07 2024 G7COU         -02 IO93             G0JJG         -14 JO02
+QSO:   144 FT8 2026-01-07 2026 G7COU         +00 IO93             G0WUU         +19 IO93
+QSO:   144 FT8 2026-01-07 2029 G7COU         -01 IO93             M0AAM         +12 IO93
+QSO:   144 FT8 2026-01-07 2036 G7COU         +03 IO93             G4PDF         +01 IO93
+QSO:   144 FT8 2026-01-07 2043 G7COU         -17 IO93             G8IXK         -03 IO91
+QSO:   144 FT8 2026-01-07 2049 G7COU         -17 IO93             2E0PYG        -01 IO93
+QSO:   144 FT8 2026-01-07 2054 G7COU         -08 IO93             G8SEI         -06 IO92
+QSO:   144 FT8 2026-01-07 2057 G7COU         +00 IO93             M7LYG         +09 IO93
 END-OF-LOG:

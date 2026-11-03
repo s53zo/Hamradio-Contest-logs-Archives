@@ -10,20 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260304&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1043; excluded rows=1.
-QSO:   144 DG 2026-03-04 1947 G4FFY         -09 JO01             F1NQP         -06 JN19
-QSO:   144 DG 2026-03-04 1952 G4FFY         +05 JO01             M0MHX         -15 JO01
-QSO:   144 DG 2026-03-04 2001 G4FFY         -05 JO01             G8SEI         -10 IO92
-QSO:   144 DG 2026-03-04 2003 G4FFY         -17 JO01             2E0MRK        -20 IO91
-QSO:   144 DG 2026-03-04 2004 G4FFY         -01 JO01             G7WIR         -07 JO01
-QSO:   144 DG 2026-03-04 2008 G4FFY         -08 JO01             M0CRX         -15 IO91
-QSO:   144 DG 2026-03-04 2009 G4FFY         -11 JO01             G0BIX         -14 JO01
-QSO:   144 DG 2026-03-04 2011 G4FFY         -11 JO01             G7FPE         -17 JO01
-QSO:   144 DG 2026-03-04 2013 G4FFY         +21 JO01             G0XDI         -01 IO91
-QSO:   144 DG 2026-03-04 2016 G4FFY         -05 JO01             2E0JHJ        -13 IO91
-QSO:   144 DG 2026-03-04 2023 G4FFY         +13 JO01             G7RDX         +00 IO91
-QSO:   144 DG 2026-03-04 2030 G4FFY         -12 JO01             G1HJW         -16 JO01
-QSO:   144 DG 2026-03-04 2032 G4FFY         -08 JO01             G3WZK         -07 IO91
-QSO:   144 DG 2026-03-04 2040 G4FFY         -17 JO01             DD7DAC        -19 JO31
+QSO:   144 FT8 2026-03-04 1947 G4FFY         -09 JO01             F1NQP         -06 JN19
+QSO:   144 FT8 2026-03-04 1952 G4FFY         +05 JO01             M0MHX         -15 JO01
+QSO:   144 FT8 2026-03-04 2001 G4FFY         -05 JO01             G8SEI         -10 IO92
+QSO:   144 FT8 2026-03-04 2003 G4FFY         -17 JO01             2E0MRK        -20 IO91
+QSO:   144 FT8 2026-03-04 2004 G4FFY         -01 JO01             G7WIR         -07 JO01
+QSO:   144 FT8 2026-03-04 2008 G4FFY         -08 JO01             M0CRX         -15 IO91
+QSO:   144 FT8 2026-03-04 2009 G4FFY         -11 JO01             G0BIX         -14 JO01
+QSO:   144 FT8 2026-03-04 2011 G4FFY         -11 JO01             G7FPE         -17 JO01
+QSO:   144 FT8 2026-03-04 2013 G4FFY         +21 JO01             G0XDI         -01 IO91
+QSO:   144 FT8 2026-03-04 2016 G4FFY         -05 JO01             2E0JHJ        -13 IO91
+QSO:   144 FT8 2026-03-04 2023 G4FFY         +13 JO01             G7RDX         +00 IO91
+QSO:   144 FT8 2026-03-04 2030 G4FFY         -12 JO01             G1HJW         -16 JO01
+QSO:   144 FT8 2026-03-04 2032 G4FFY         -08 JO01             G3WZK         -07 IO91
+QSO:   144 FT8 2026-03-04 2040 G4FFY         -17 JO01             DD7DAC        -19 JO31
 END-OF-LOG:

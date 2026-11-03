@@ -10,27 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220105&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1458; excluded rows=0.
-QSO:   144 DG 2022-01-05 1901 M0XTY         -04 JO01             M7APV         +02 JO01
-QSO:   144 DG 2022-01-05 1902 M0XTY         +01 JO01             G4DCV         +04 IO91
-QSO:   144 DG 2022-01-05 1904 M0XTY         -03 JO01             G4PMZ         -04 IO91
-QSO:   144 DG 2022-01-05 1905 M0XTY         -03 JO01             M0MFX         +10 IO91
-QSO:   144 DG 2022-01-05 1908 M0XTY         +03 JO01             2E0GKW        +04 IO91
-QSO:   144 DG 2022-01-05 1909 M0XTY         -15 JO01             G4CTP         -16 IO91
-QSO:   144 DG 2022-01-05 1915 M0XTY         -08 JO01             G0GLG         -10 IO91
-QSO:   144 DG 2022-01-05 1919 M0XTY         +03 JO01             2E1IDC        +00 IO91
-QSO:   144 DG 2022-01-05 1922 M0XTY         +24 JO01             G7WIR         +22 JO01
-QSO:   144 DG 2022-01-05 1923 M0XTY         -12 JO01             G3WZK         +12 IO91
-QSO:   144 DG 2022-01-05 1928 M0XTY         -13 JO01             G4FFY         +07 JO01
-QSO:   144 DG 2022-01-05 1933 M0XTY         -24 JO01             M7ROT         -15 IO91
-QSO:   144 DG 2022-01-05 1936 M0XTY         -24 JO01             2E0DBS        -14 JO02
-QSO:   144 DG 2022-01-05 1938 M0XTY         -11 JO01             G0BIX         -14 JO01
-QSO:   144 DG 2022-01-05 1955 M0XTY         -04 JO01             M0FXX         -13 IO91
-QSO:   144 DG 2022-01-05 2008 M0XTY         -20 JO01             G0GRI         -08 IO80
-QSO:   144 DG 2022-01-05 2011 M0XTY         -24 JO01             M0NVS         -16 IO91
-QSO:   144 DG 2022-01-05 2018 M0XTY         +00 JO01             M0UHF         +00 IO91
-QSO:   144 DG 2022-01-05 2024 M0XTY         +04 JO01             G0XDI         -10 IO91
-QSO:   144 DG 2022-01-05 2033 M0XTY         -18 JO01             G3YDY         -10 JO01
-QSO:   144 DG 2022-01-05 2042 M0XTY         -24 JO01             M5GDK         -19 IO92
+QSO:   144 FT8 2022-01-05 1901 M0XTY         -04 JO01             M7APV         +02 JO01
+QSO:   144 FT8 2022-01-05 1902 M0XTY         +01 JO01             G4DCV         +04 IO91
+QSO:   144 FT8 2022-01-05 1904 M0XTY         -03 JO01             G4PMZ         -04 IO91
+QSO:   144 FT8 2022-01-05 1905 M0XTY         -03 JO01             M0MFX         +10 IO91
+QSO:   144 FT8 2022-01-05 1908 M0XTY         +03 JO01             2E0GKW        +04 IO91
+QSO:   144 FT8 2022-01-05 1909 M0XTY         -15 JO01             G4CTP         -16 IO91
+QSO:   144 FT8 2022-01-05 1915 M0XTY         -08 JO01             G0GLG         -10 IO91
+QSO:   144 FT8 2022-01-05 1919 M0XTY         +03 JO01             2E1IDC        +00 IO91
+QSO:   144 FT8 2022-01-05 1922 M0XTY         +24 JO01             G7WIR         +22 JO01
+QSO:   144 FT8 2022-01-05 1923 M0XTY         -12 JO01             G3WZK         +12 IO91
+QSO:   144 FT8 2022-01-05 1928 M0XTY         -13 JO01             G4FFY         +07 JO01
+QSO:   144 FT8 2022-01-05 1933 M0XTY         -24 JO01             M7ROT         -15 IO91
+QSO:   144 FT8 2022-01-05 1936 M0XTY         -24 JO01             2E0DBS        -14 JO02
+QSO:   144 FT8 2022-01-05 1938 M0XTY         -11 JO01             G0BIX         -14 JO01
+QSO:   144 FT8 2022-01-05 1955 M0XTY         -04 JO01             M0FXX         -13 IO91
+QSO:   144 FT8 2022-01-05 2008 M0XTY         -20 JO01             G0GRI         -08 IO80
+QSO:   144 FT8 2022-01-05 2011 M0XTY         -24 JO01             M0NVS         -16 IO91
+QSO:   144 FT8 2022-01-05 2018 M0XTY         +00 JO01             M0UHF         +00 IO91
+QSO:   144 FT8 2022-01-05 2024 M0XTY         +04 JO01             G0XDI         -10 IO91
+QSO:   144 FT8 2022-01-05 2033 M0XTY         -18 JO01             G3YDY         -10 JO01
+QSO:   144 FT8 2022-01-05 2042 M0XTY         -24 JO01             M5GDK         -19 IO92
 END-OF-LOG:

@@ -10,21 +10,21 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260812&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=565; excluded rows=0.
-QSO:   432 DG 2026-08-12 1908 EI8KN         -16 IO62             G4ZFJ         -03 JO01
-QSO:   432 DG 2026-08-12 1921 EI8KN         -11 IO62             EI3ENB        +25 IO62
-QSO:   432 DG 2026-08-12 1924 EI8KN         -21 IO62             G8SEI         -12 IO92
-QSO:   432 DG 2026-08-12 1926 EI8KN         -08 IO62             2E0JPO        -10 IO91
-QSO:   432 DG 2026-08-12 1929 EI8KN         -15 IO62             G7RDX         -11 IO91
-QSO:   432 DG 2026-08-12 1934 EI8KN         -10 IO62             G7LRQ         -24 JO03
-QSO:   432 DG 2026-08-12 1938 EI8KN         -14 IO62             G4HGI         -07 IO83
-QSO:   432 DG 2026-08-12 1941 EI8KN         -12 IO62             GW8CZW        -07 IO73
-QSO:   432 DG 2026-08-12 1955 EI8KN         -15 IO62             G4ZTR         -13 JO01
-QSO:   432 DG 2026-08-12 1957 EI8KN         -13 IO62             G0GJV         -01 IO91
-QSO:   432 DG 2026-08-12 2001 EI8KN         -08 IO62             G3YDY         -12 JO01
-QSO:   432 DG 2026-08-12 2003 EI8KN         -12 IO62             G0JJG         -13 JO02
-QSO:   432 DG 2026-08-12 2006 EI8KN         -06 IO62             EI5IN         +13 IO63
-QSO:   432 DG 2026-08-12 2010 EI8KN         -18 IO62             GM8MJV        -11 IO85
-QSO:   432 DG 2026-08-12 2026 EI8KN         -19 IO62             GU6EFB        -07 IN89
+QSO:   432 FT8 2026-08-12 1908 EI8KN         -16 IO62             G4ZFJ         -03 JO01
+QSO:   432 FT8 2026-08-12 1921 EI8KN         -11 IO62             EI3ENB        +25 IO62
+QSO:   432 FT8 2026-08-12 1924 EI8KN         -21 IO62             G8SEI         -12 IO92
+QSO:   432 FT8 2026-08-12 1926 EI8KN         -08 IO62             2E0JPO        -10 IO91
+QSO:   432 FT8 2026-08-12 1929 EI8KN         -15 IO62             G7RDX         -11 IO91
+QSO:   432 FT8 2026-08-12 1934 EI8KN         -10 IO62             G7LRQ         -24 JO03
+QSO:   432 FT8 2026-08-12 1938 EI8KN         -14 IO62             G4HGI         -07 IO83
+QSO:   432 FT8 2026-08-12 1941 EI8KN         -12 IO62             GW8CZW        -07 IO73
+QSO:   432 FT8 2026-08-12 1955 EI8KN         -15 IO62             G4ZTR         -13 JO01
+QSO:   432 FT8 2026-08-12 1957 EI8KN         -13 IO62             G0GJV         -01 IO91
+QSO:   432 FT8 2026-08-12 2001 EI8KN         -08 IO62             G3YDY         -12 JO01
+QSO:   432 FT8 2026-08-12 2003 EI8KN         -12 IO62             G0JJG         -13 JO02
+QSO:   432 FT8 2026-08-12 2006 EI8KN         -06 IO62             EI5IN         +13 IO63
+QSO:   432 FT8 2026-08-12 2010 EI8KN         -18 IO62             GM8MJV        -11 IO85
+QSO:   432 FT8 2026-08-12 2026 EI8KN         -19 IO62             GU6EFB        -07 IN89
 END-OF-LOG:

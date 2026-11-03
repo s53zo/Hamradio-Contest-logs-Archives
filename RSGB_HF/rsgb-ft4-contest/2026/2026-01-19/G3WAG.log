@@ -10,15 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO:  7049 DG 2026-01-19 2005 G3WAG         +10 -                M2X           +09 -
-QSO:  7049 DG 2026-01-19 2013 G3WAG         -11 -                MW3L          -21 -
-QSO:  7047 DG 2026-01-19 2021 G3WAG         +13 -                CQ7WWA        +03 -
-QSO:  7048 DG 2026-01-19 2030 G3WAG         -07 -                LZ1JZ         -11 -
-QSO:  7049 DG 2026-01-19 2036 G3WAG         -04 -                GW5JJV        +08 -
-QSO:  7049 DG 2026-01-19 2037 G3WAG         -02 -                YO3RU         +00 -
-QSO:  7049 DG 2026-01-19 2038 G3WAG         -01 -                G6DXY         +09 -
-QSO:  7049 DG 2026-01-19 2039 G3WAG         -02 -                G4CJC         -02 -
-QSO:  7048 DG 2026-01-19 2044 G3WAG         -08 -                2D0PEY        -02 -
-QSO:  7047 DG 2026-01-19 2101 G3WAG         +01 -                OZ1AXG        -07 -
+QSO:  7049 FT4 2026-01-19 2005 G3WAG         +10 -                M2X           +09 -
+QSO:  7049 FT4 2026-01-19 2013 G3WAG         -11 -                MW3L          -21 -
+QSO:  7047 FT4 2026-01-19 2021 G3WAG         +13 -                CQ7WWA        +03 -
+QSO:  7048 FT4 2026-01-19 2030 G3WAG         -07 -                LZ1JZ         -11 -
+QSO:  7049 FT4 2026-01-19 2036 G3WAG         -04 -                GW5JJV        +08 -
+QSO:  7049 FT4 2026-01-19 2037 G3WAG         -02 -                YO3RU         +00 -
+QSO:  7049 FT4 2026-01-19 2038 G3WAG         -01 -                G6DXY         +09 -
+QSO:  7049 FT4 2026-01-19 2039 G3WAG         -02 -                G4CJC         -02 -
+QSO:  7048 FT4 2026-01-19 2044 G3WAG         -08 -                2D0PEY        -02 -
+QSO:  7047 FT4 2026-01-19 2101 G3WAG         +01 -                OZ1AXG        -07 -
 END-OF-LOG:

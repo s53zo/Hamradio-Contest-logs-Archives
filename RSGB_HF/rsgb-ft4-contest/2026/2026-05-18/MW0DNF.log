@@ -10,39 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260518&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7313; excluded rows=0.
-QSO:  3576 DG 2026-05-18 1910 MW0DNF        +29 -                G3YJQ         -05 -
-QSO: 14082 DG 2026-05-18 1916 MW0DNF        +25 -                MW0CVT        -12 -
-QSO: 14082 DG 2026-05-18 1920 MW0DNF        +14 -                OM1HG         -13 -
-QSO: 14081 DG 2026-05-18 1921 MW0DNF        +13 -                OM1HG         -01 -
-QSO:  7048 DG 2026-05-18 1928 MW0DNF        +09 -                PH3T          -08 -
-QSO:  7049 DG 2026-05-18 1932 MW0DNF        +11 -                LA/G3SWC      +03 -
-QSO:  7049 DG 2026-05-18 1935 MW0DNF        +16 -                G0AJH         +02 -
-QSO:  7049 DG 2026-05-18 1936 MW0DNF        +10 -                PD2GSP        +04 -
-QSO:  7049 DG 2026-05-18 1938 MW0DNF        +22 -                DK2OY         +04 -
-QSO:  7049 DG 2026-05-18 1939 MW0DNF        -07 -                MW0CVT        +08 -
-QSO:  7049 DG 2026-05-18 1939 MW0DNF        +08 -                GU0UVH        +02 -
-QSO:  7049 DG 2026-05-18 1941 MW0DNF        +03 -                F4SNF         -01 -
-QSO:  7049 DG 2026-05-18 1942 MW0DNF        -07 -                GM4YTD        +09 -
-QSO:  7049 DG 2026-05-18 1942 MW0DNF        -09 -                HB9AWS        -03 -
-QSO:  7049 DG 2026-05-18 1944 MW0DNF        +06 -                ON4UZ         -14 -
-QSO:  7049 DG 2026-05-18 1947 MW0DNF        -06 -                PE2K          -08 -
-QSO:  7049 DG 2026-05-18 1948 MW0DNF        +01 -                EA2EED        -06 -
-QSO:  7049 DG 2026-05-18 1948 MW0DNF        +24 -                GW5P          +07 -
-QSO:  7049 DG 2026-05-18 1951 MW0DNF        +06 -                EA8W          +07 -
-QSO:  7049 DG 2026-05-18 1951 MW0DNF        +14 -                M7EJN         +02 -
-QSO:  7049 DG 2026-05-18 1952 MW0DNF        +08 -                G4OZG         +03 -
-QSO: 14081 DG 2026-05-18 1955 MW0DNF        +15 -                SP4MPH        -02 -
-QSO: 14081 DG 2026-05-18 1956 MW0DNF        +25 -                OK2VCR        +03 -
-QSO:  7049 DG 2026-05-18 2004 MW0DNF        +00 -                SE5L          -05 -
-QSO: 14081 DG 2026-05-18 2011 MW0DNF        -02 -                YT1XN         +12 -
-QSO: 14081 DG 2026-05-18 2013 MW0DNF        +18 -                HA7TM         +04 -
-QSO: 14081 DG 2026-05-18 2014 MW0DNF        +16 -                9A3AUH        +00 -
-QSO: 14081 DG 2026-05-18 2015 MW0DNF        +01 -                E77TH         -05 -
-QSO:  3576 DG 2026-05-18 2019 MW0DNF        +21 -                MW0CVT        +14 -
-QSO:  7049 DG 2026-05-18 2022 MW0DNF        +19 -                G7L           +04 -
-QSO:  7049 DG 2026-05-18 2023 MW0DNF        +07 -                G4ARI         -04 -
-QSO:  7049 DG 2026-05-18 2023 MW0DNF        +07 -                MW0MAU        -04 -
-QSO:  7049 DG 2026-05-18 2028 MW0DNF        +06 -                G0PPP         +02 -
-QSO:  7049 DG 2026-05-18 2029 MW0DNF        +13 -                ON7VZ         -04 -
+QSO:  3576 FT4 2026-05-18 1910 MW0DNF        +29 -                G3YJQ         -05 -
+QSO: 14082 FT4 2026-05-18 1916 MW0DNF        +25 -                MW0CVT        -12 -
+QSO: 14082 FT4 2026-05-18 1920 MW0DNF        +14 -                OM1HG         -13 -
+QSO: 14081 FT4 2026-05-18 1921 MW0DNF        +13 -                OM1HG         -01 -
+QSO:  7048 FT4 2026-05-18 1928 MW0DNF        +09 -                PH3T          -08 -
+QSO:  7049 FT4 2026-05-18 1932 MW0DNF        +11 -                LA/G3SWC      +03 -
+QSO:  7049 FT4 2026-05-18 1935 MW0DNF        +16 -                G0AJH         +02 -
+QSO:  7049 FT4 2026-05-18 1936 MW0DNF        +10 -                PD2GSP        +04 -
+QSO:  7049 FT4 2026-05-18 1938 MW0DNF        +22 -                DK2OY         +04 -
+QSO:  7049 FT4 2026-05-18 1939 MW0DNF        -07 -                MW0CVT        +08 -
+QSO:  7049 FT4 2026-05-18 1939 MW0DNF        +08 -                GU0UVH        +02 -
+QSO:  7049 FT4 2026-05-18 1941 MW0DNF        +03 -                F4SNF         -01 -
+QSO:  7049 FT4 2026-05-18 1942 MW0DNF        -07 -                GM4YTD        +09 -
+QSO:  7049 FT4 2026-05-18 1942 MW0DNF        -09 -                HB9AWS        -03 -
+QSO:  7049 FT4 2026-05-18 1944 MW0DNF        +06 -                ON4UZ         -14 -
+QSO:  7049 FT4 2026-05-18 1947 MW0DNF        -06 -                PE2K          -08 -
+QSO:  7049 FT4 2026-05-18 1948 MW0DNF        +01 -                EA2EED        -06 -
+QSO:  7049 FT4 2026-05-18 1948 MW0DNF        +24 -                GW5P          +07 -
+QSO:  7049 FT4 2026-05-18 1951 MW0DNF        +06 -                EA8W          +07 -
+QSO:  7049 FT4 2026-05-18 1951 MW0DNF        +14 -                M7EJN         +02 -
+QSO:  7049 FT4 2026-05-18 1952 MW0DNF        +08 -                G4OZG         +03 -
+QSO: 14081 FT4 2026-05-18 1955 MW0DNF        +15 -                SP4MPH        -02 -
+QSO: 14081 FT4 2026-05-18 1956 MW0DNF        +25 -                OK2VCR        +03 -
+QSO:  7049 FT4 2026-05-18 2004 MW0DNF        +00 -                SE5L          -05 -
+QSO: 14081 FT4 2026-05-18 2011 MW0DNF        -02 -                YT1XN         +12 -
+QSO: 14081 FT4 2026-05-18 2013 MW0DNF        +18 -                HA7TM         +04 -
+QSO: 14081 FT4 2026-05-18 2014 MW0DNF        +16 -                9A3AUH        +00 -
+QSO: 14081 FT4 2026-05-18 2015 MW0DNF        +01 -                E77TH         -05 -
+QSO:  3576 FT4 2026-05-18 2019 MW0DNF        +21 -                MW0CVT        +14 -
+QSO:  7049 FT4 2026-05-18 2022 MW0DNF        +19 -                G7L           +04 -
+QSO:  7049 FT4 2026-05-18 2023 MW0DNF        +07 -                G4ARI         -04 -
+QSO:  7049 FT4 2026-05-18 2023 MW0DNF        +07 -                MW0MAU        -04 -
+QSO:  7049 FT4 2026-05-18 2028 MW0DNF        +06 -                G0PPP         +02 -
+QSO:  7049 FT4 2026-05-18 2029 MW0DNF        +13 -                ON7VZ         -04 -
 END-OF-LOG:

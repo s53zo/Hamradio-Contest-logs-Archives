@@ -10,24 +10,24 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1901 M7SPS         -20 IO92             G7IGC         -16 IO92EO
-QSO:   432 DG 2022-01-12 1904 M7SPS         +06 IO92             G8PGO         +13 IO92IM
-QSO:   432 DG 2022-01-12 1907 M7SPS         -19 IO92             GI6ATZ        -12 IO74AJ
-QSO:   432 DG 2022-01-12 1917 M7SPS         -17 IO92             2E0DUE        -17 JO01QJ
-QSO:   432 DG 2022-01-12 1919 M7SPS         -18 IO92             G7WIR         -22 JO01BJ
-QSO:   432 DG 2022-01-12 1920 M7SPS         -22 IO92             M7ICL         -12 JO02BR
-QSO:   432 DG 2022-01-12 1922 M7SPS         -08 IO92             G4VPD         -16 IO92BJ
-QSO:   432 DG 2022-01-12 1945 M7SPS         -02 IO92             G0LGS         -04 IO81WV
-QSO:   432 DG 2022-01-12 1949 M7SPS         +07 IO92             G7LRQ         -02 IO91TQ
-QSO:   432 DG 2022-01-12 1950 M7SPS         -13 IO92             G7PHN         -08 IO82XO
-QSO:   432 DG 2022-01-12 1951 M7SPS         +07 IO92             G8SEI         -13 IO92FO
-QSO:   432 DG 2022-01-12 1954 M7SPS         -15 IO92             G8GNI         -06 IO91JV
-QSO:   432 DG 2022-01-12 2005 M7SPS         -11 IO92             G3ZPB         -18 IO91WH
-QSO:   432 DG 2022-01-12 2016 M7SPS         -19 IO92             G0GRI         -18 IO80SX
-QSO:   432 DG 2022-01-12 2018 M7SPS         -19 IO92             G8XYJ         -12 IO82RO
-QSO:   432 DG 2022-01-12 2031 M7SPS         -12 IO92             M1AEC         -14 IO82VE
-QSO:   432 DG 2022-01-12 2038 M7SPS         -20 IO92             G3YKI         -12 IO82QL
-QSO:   432 DG 2022-01-12 2042 M7SPS         -13 IO92             G0BIX         -12 JO01GI
+QSO:   432 FT8 2022-01-12 1901 M7SPS         -20 IO92             G7IGC         -16 IO92EO
+QSO:   432 FT8 2022-01-12 1904 M7SPS         +06 IO92             G8PGO         +13 IO92IM
+QSO:   432 FT8 2022-01-12 1907 M7SPS         -19 IO92             GI6ATZ        -12 IO74AJ
+QSO:   432 FT8 2022-01-12 1917 M7SPS         -17 IO92             2E0DUE        -17 JO01QJ
+QSO:   432 FT8 2022-01-12 1919 M7SPS         -18 IO92             G7WIR         -22 JO01BJ
+QSO:   432 FT8 2022-01-12 1920 M7SPS         -22 IO92             M7ICL         -12 JO02BR
+QSO:   432 FT8 2022-01-12 1922 M7SPS         -08 IO92             G4VPD         -16 IO92BJ
+QSO:   432 FT8 2022-01-12 1945 M7SPS         -02 IO92             G0LGS         -04 IO81WV
+QSO:   432 FT8 2022-01-12 1949 M7SPS         +07 IO92             G7LRQ         -02 IO91TQ
+QSO:   432 FT8 2022-01-12 1950 M7SPS         -13 IO92             G7PHN         -08 IO82XO
+QSO:   432 FT8 2022-01-12 1951 M7SPS         +07 IO92             G8SEI         -13 IO92FO
+QSO:   432 FT8 2022-01-12 1954 M7SPS         -15 IO92             G8GNI         -06 IO91JV
+QSO:   432 FT8 2022-01-12 2005 M7SPS         -11 IO92             G3ZPB         -18 IO91WH
+QSO:   432 FT8 2022-01-12 2016 M7SPS         -19 IO92             G0GRI         -18 IO80SX
+QSO:   432 FT8 2022-01-12 2018 M7SPS         -19 IO92             G8XYJ         -12 IO82RO
+QSO:   432 FT8 2022-01-12 2031 M7SPS         -12 IO92             M1AEC         -14 IO82VE
+QSO:   432 FT8 2022-01-12 2038 M7SPS         -20 IO92             G3YKI         -12 IO82QL
+QSO:   432 FT8 2022-01-12 2042 M7SPS         -13 IO92             G0BIX         -12 JO01GI
 END-OF-LOG:

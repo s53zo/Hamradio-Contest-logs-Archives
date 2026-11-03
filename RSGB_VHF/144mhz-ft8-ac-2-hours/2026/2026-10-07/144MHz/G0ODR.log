@@ -10,27 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=261007&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=751; excluded rows=0.
-QSO:   144 DG 2026-10-07 1904 G0ODR         +11 JO02             DL6BF         -02 JO32
-QSO:   144 DG 2026-10-07 1907 G0ODR         +14 JO02             M5BFL         +13 JO02
-QSO:   144 DG 2026-10-07 1917 G0ODR         +09 JO02             G4NBS         -04 JO02
-QSO:   144 DG 2026-10-07 1926 G0ODR         +04 JO02             G4FLM         -07 IO94
-QSO:   144 DG 2026-10-07 1936 G0ODR         +02 JO02             G8EEM         -08 IO93
-QSO:   144 DG 2026-10-07 1941 G0ODR         +11 JO02             G0GJV         -13 IO91
-QSO:   144 DG 2026-10-07 1943 G0ODR         -15 JO02             G0HSP         -14 IO90
-QSO:   144 DG 2026-10-07 1945 G0ODR         +17 JO02             G0JJG         -06 JO02
-QSO:   144 DG 2026-10-07 1947 G0ODR         +05 JO02             GW7SMV        -13 IO81
-QSO:   144 DG 2026-10-07 1959 G0ODR         -11 JO02             ON8NT         -18 JO11
-QSO:   144 DG 2026-10-07 2003 G0ODR         -03 JO02             PD1ADA        -07 JO21
-QSO:   144 DG 2026-10-07 2016 G0ODR         -02 JO02             G8VJU         -21 JO01
-QSO:   144 DG 2026-10-07 2019 G0ODR         -01 JO02             F4AMF         -12 JN19
-QSO:   144 DG 2026-10-07 2021 G0ODR         +00 JO02             M0SKT         -06 IO92
-QSO:   144 DG 2026-10-07 2025 G0ODR         +00 JO02             G4ZTR         -11 JO01
-QSO:   144 DG 2026-10-07 2033 G0ODR         +01 JO02             G4EFT         -12 IO91
-QSO:   144 DG 2026-10-07 2038 G0ODR         +00 JO02             G7COU         -14 IO93
-QSO:   144 DG 2026-10-07 2039 G0ODR         +31 JO02             G7LRQ         +15 JO03
-QSO:   144 DG 2026-10-07 2047 G0ODR         +10 JO02             G8SEI         -15 IO92
-QSO:   144 DG 2026-10-07 2052 G0ODR         +05 JO02             G7WIR         -22 JO01
-QSO:   144 DG 2026-10-07 2059 G0ODR         -08 JO02             G3YDY         -19 JO01
+QSO:   144 FT8 2026-10-07 1904 G0ODR         +11 JO02             DL6BF         -02 JO32
+QSO:   144 FT8 2026-10-07 1907 G0ODR         +14 JO02             M5BFL         +13 JO02
+QSO:   144 FT8 2026-10-07 1917 G0ODR         +09 JO02             G4NBS         -04 JO02
+QSO:   144 FT8 2026-10-07 1926 G0ODR         +04 JO02             G4FLM         -07 IO94
+QSO:   144 FT8 2026-10-07 1936 G0ODR         +02 JO02             G8EEM         -08 IO93
+QSO:   144 FT8 2026-10-07 1941 G0ODR         +11 JO02             G0GJV         -13 IO91
+QSO:   144 FT8 2026-10-07 1943 G0ODR         -15 JO02             G0HSP         -14 IO90
+QSO:   144 FT8 2026-10-07 1945 G0ODR         +17 JO02             G0JJG         -06 JO02
+QSO:   144 FT8 2026-10-07 1947 G0ODR         +05 JO02             GW7SMV        -13 IO81
+QSO:   144 FT8 2026-10-07 1959 G0ODR         -11 JO02             ON8NT         -18 JO11
+QSO:   144 FT8 2026-10-07 2003 G0ODR         -03 JO02             PD1ADA        -07 JO21
+QSO:   144 FT8 2026-10-07 2016 G0ODR         -02 JO02             G8VJU         -21 JO01
+QSO:   144 FT8 2026-10-07 2019 G0ODR         -01 JO02             F4AMF         -12 JN19
+QSO:   144 FT8 2026-10-07 2021 G0ODR         +00 JO02             M0SKT         -06 IO92
+QSO:   144 FT8 2026-10-07 2025 G0ODR         +00 JO02             G4ZTR         -11 JO01
+QSO:   144 FT8 2026-10-07 2033 G0ODR         +01 JO02             G4EFT         -12 IO91
+QSO:   144 FT8 2026-10-07 2038 G0ODR         +00 JO02             G7COU         -14 IO93
+QSO:   144 FT8 2026-10-07 2039 G0ODR         +31 JO02             G7LRQ         +15 JO03
+QSO:   144 FT8 2026-10-07 2047 G0ODR         +10 JO02             G8SEI         -15 IO92
+QSO:   144 FT8 2026-10-07 2052 G0ODR         +05 JO02             G7WIR         -22 JO01
+QSO:   144 FT8 2026-10-07 2059 G0ODR         -08 JO02             G3YDY         -19 JO01
 END-OF-LOG:

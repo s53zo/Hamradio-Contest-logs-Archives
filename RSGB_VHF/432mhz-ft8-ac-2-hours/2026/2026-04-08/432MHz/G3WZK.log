@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260408&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=518; excluded rows=0.
-QSO:   432 DG 2026-04-08 1903 G3WZK         +01 IO91             G7WIR         -07 JO01
-QSO:   432 DG 2026-04-08 1904 G3WZK         -14 IO91             G0GJV         -19 IO91
-QSO:   432 DG 2026-04-08 1906 G3WZK         -05 IO91             G3YDY         -14 JO01
-QSO:   432 DG 2026-04-08 1908 G3WZK         +11 IO91             G0JJG         -01 JO02
-QSO:   432 DG 2026-04-08 1910 G3WZK         -08 IO91             2E0MRK        -11 IO91
-QSO:   432 DG 2026-04-08 1911 G3WZK         -08 IO91             2E0MRK        -11 IO91
-QSO:   432 DG 2026-04-08 1914 G3WZK         +27 IO91             G7RDX         +04 IO91
-QSO:   432 DG 2026-04-08 1916 G3WZK         -18 IO91             G4EFT         -09 IO91
-QSO:   432 DG 2026-04-08 1930 G3WZK         +05 IO91             G0BIX         -02 JO01
-QSO:   432 DG 2026-04-08 1935 G3WZK         -02 IO91             G4ZTR         +00 JO01
-QSO:   432 DG 2026-04-08 1945 G3WZK         +28 IO91             G0XDI         +22 IO91
-QSO:   432 DG 2026-04-08 2016 G3WZK         -08 IO91             G8IXK         -13 IO91
-QSO:   432 DG 2026-04-08 2018 G3WZK         +17 IO91             G7FPE         +04 JO01
-QSO:   432 DG 2026-04-08 2033 G3WZK         -04 IO91             G0JDL         -08 JO02
-QSO:   432 DG 2026-04-08 2050 G3WZK         -07 IO91             G7HMV         -13 IO91
-QSO:   432 DG 2026-04-08 2052 G3WZK         +03 IO91             G4FFY         +05 JO01
+QSO:   432 FT8 2026-04-08 1903 G3WZK         +01 IO91             G7WIR         -07 JO01
+QSO:   432 FT8 2026-04-08 1904 G3WZK         -14 IO91             G0GJV         -19 IO91
+QSO:   432 FT8 2026-04-08 1906 G3WZK         -05 IO91             G3YDY         -14 JO01
+QSO:   432 FT8 2026-04-08 1908 G3WZK         +11 IO91             G0JJG         -01 JO02
+QSO:   432 FT8 2026-04-08 1910 G3WZK         -08 IO91             2E0MRK        -11 IO91
+QSO:   432 FT8 2026-04-08 1911 G3WZK         -08 IO91             2E0MRK        -11 IO91
+QSO:   432 FT8 2026-04-08 1914 G3WZK         +27 IO91             G7RDX         +04 IO91
+QSO:   432 FT8 2026-04-08 1916 G3WZK         -18 IO91             G4EFT         -09 IO91
+QSO:   432 FT8 2026-04-08 1930 G3WZK         +05 IO91             G0BIX         -02 JO01
+QSO:   432 FT8 2026-04-08 1935 G3WZK         -02 IO91             G4ZTR         +00 JO01
+QSO:   432 FT8 2026-04-08 1945 G3WZK         +28 IO91             G0XDI         +22 IO91
+QSO:   432 FT8 2026-04-08 2016 G3WZK         -08 IO91             G8IXK         -13 IO91
+QSO:   432 FT8 2026-04-08 2018 G3WZK         +17 IO91             G7FPE         +04 JO01
+QSO:   432 FT8 2026-04-08 2033 G3WZK         -04 IO91             G0JDL         -08 JO02
+QSO:   432 FT8 2026-04-08 2050 G3WZK         -07 IO91             G7HMV         -13 IO91
+QSO:   432 FT8 2026-04-08 2052 G3WZK         +03 IO91             G4FFY         +05 JO01
 END-OF-LOG:

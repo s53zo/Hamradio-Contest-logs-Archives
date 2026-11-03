@@ -10,37 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO:  7049 DG 2026-01-19 1942 2D0PEY        -11 -                IW9FRA        -07 -
-QSO:  7049 DG 2026-01-19 1945 2D0PEY        -13 -                CS8ABF        -04 -
-QSO:  7048 DG 2026-01-19 2013 2D0PEY        -02 -                EA7IM         -13 -
-QSO:  7048 DG 2026-01-19 2024 2D0PEY        -03 -                LZ1JZ         -02 -
-QSO:  7048 DG 2026-01-19 2027 2D0PEY        -09 -                OZ1AXG        -10 -
-QSO:  7048 DG 2026-01-19 2031 2D0PEY        -21 -                G8RZ          -11 -
-QSO:  7048 DG 2026-01-19 2033 2D0PEY        -09 -                LZ2EW         -06 -
-QSO:  7048 DG 2026-01-19 2035 2D0PEY        -08 -                GW0ARK        -09 -
-QSO:  7048 DG 2026-01-19 2043 2D0PEY        -02 -                G3WAG         -08 -
-QSO:  7048 DG 2026-01-19 2046 2D0PEY        -04 -                M0PAW         -11 -
-QSO:  7048 DG 2026-01-19 2055 2D0PEY        -03 -                OZ6HR         +00 -
-QSO:  7048 DG 2026-01-19 2103 2D0PEY        -06 -                GW5P          -01 -
-QSO:  7048 DG 2026-01-19 2105 2D0PEY        -03 -                M0PBG         -06 -
-QSO:  7048 DG 2026-01-19 2107 2D0PEY        +09 -                DF8QB         +03 -
-QSO:  7048 DG 2026-01-19 2108 2D0PEY        -11 -                CT1DIZ        -06 -
-QSO:  7048 DG 2026-01-19 2111 2D0PEY        +05 -                DH6BH         -04 -
-QSO:  7048 DG 2026-01-19 2112 2D0PEY        -08 -                SP3NYI        -03 -
-QSO:  7048 DG 2026-01-19 2113 2D0PEY        -08 -                SQ5N          -07 -
-QSO:  7048 DG 2026-01-19 2117 2D0PEY        +03 -                G4CJC         +01 -
-QSO:  7048 DG 2026-01-19 2118 2D0PEY        -09 -                ON7VZ         -03 -
-QSO:  7048 DG 2026-01-19 2120 2D0PEY        -09 -                G7NJX         +00 -
-QSO:  7048 DG 2026-01-19 2121 2D0PEY        +01 -                M7WLT         +20 -
-QSO:  7048 DG 2026-01-19 2122 2D0PEY        -11 -                M5N           +11 -
-QSO:  7048 DG 2026-01-19 2125 2D0PEY        -04 -                DJ2KP         -03 -
-QSO:  7048 DG 2026-01-19 2125 2D0PEY        +01 -                G6P           +00 -
-QSO:  7048 DG 2026-01-19 2126 2D0PEY        -04 -                M8M           -05 -
-QSO:  7048 DG 2026-01-19 2127 2D0PEY        -06 -                PE2K          -02 -
-QSO:  7048 DG 2026-01-19 2128 2D0PEY        -10 -                G5KTX         -07 -
-QSO:  7048 DG 2026-01-19 2135 2D0PEY        -16 -                G7WIR         -11 -
-QSO:  7048 DG 2026-01-19 2137 2D0PEY        -12 -                G4FFY         -12 -
-QSO:  7048 DG 2026-01-19 2154 2D0PEY        +04 -                G5KTX         +08 -
-QSO:  7048 DG 2026-01-19 2158 2D0PEY        -17 -                PB2A          -07 -
+QSO:  7049 FT4 2026-01-19 1942 2D0PEY        -11 -                IW9FRA        -07 -
+QSO:  7049 FT4 2026-01-19 1945 2D0PEY        -13 -                CS8ABF        -04 -
+QSO:  7048 FT4 2026-01-19 2013 2D0PEY        -02 -                EA7IM         -13 -
+QSO:  7048 FT4 2026-01-19 2024 2D0PEY        -03 -                LZ1JZ         -02 -
+QSO:  7048 FT4 2026-01-19 2027 2D0PEY        -09 -                OZ1AXG        -10 -
+QSO:  7048 FT4 2026-01-19 2031 2D0PEY        -21 -                G8RZ          -11 -
+QSO:  7048 FT4 2026-01-19 2033 2D0PEY        -09 -                LZ2EW         -06 -
+QSO:  7048 FT4 2026-01-19 2035 2D0PEY        -08 -                GW0ARK        -09 -
+QSO:  7048 FT4 2026-01-19 2043 2D0PEY        -02 -                G3WAG         -08 -
+QSO:  7048 FT4 2026-01-19 2046 2D0PEY        -04 -                M0PAW         -11 -
+QSO:  7048 FT4 2026-01-19 2055 2D0PEY        -03 -                OZ6HR         +00 -
+QSO:  7048 FT4 2026-01-19 2103 2D0PEY        -06 -                GW5P          -01 -
+QSO:  7048 FT4 2026-01-19 2105 2D0PEY        -03 -                M0PBG         -06 -
+QSO:  7048 FT4 2026-01-19 2107 2D0PEY        +09 -                DF8QB         +03 -
+QSO:  7048 FT4 2026-01-19 2108 2D0PEY        -11 -                CT1DIZ        -06 -
+QSO:  7048 FT4 2026-01-19 2111 2D0PEY        +05 -                DH6BH         -04 -
+QSO:  7048 FT4 2026-01-19 2112 2D0PEY        -08 -                SP3NYI        -03 -
+QSO:  7048 FT4 2026-01-19 2113 2D0PEY        -08 -                SQ5N          -07 -
+QSO:  7048 FT4 2026-01-19 2117 2D0PEY        +03 -                G4CJC         +01 -
+QSO:  7048 FT4 2026-01-19 2118 2D0PEY        -09 -                ON7VZ         -03 -
+QSO:  7048 FT4 2026-01-19 2120 2D0PEY        -09 -                G7NJX         +00 -
+QSO:  7048 FT4 2026-01-19 2121 2D0PEY        +01 -                M7WLT         +20 -
+QSO:  7048 FT4 2026-01-19 2122 2D0PEY        -11 -                M5N           +11 -
+QSO:  7048 FT4 2026-01-19 2125 2D0PEY        -04 -                DJ2KP         -03 -
+QSO:  7048 FT4 2026-01-19 2125 2D0PEY        +01 -                G6P           +00 -
+QSO:  7048 FT4 2026-01-19 2126 2D0PEY        -04 -                M8M           -05 -
+QSO:  7048 FT4 2026-01-19 2127 2D0PEY        -06 -                PE2K          -02 -
+QSO:  7048 FT4 2026-01-19 2128 2D0PEY        -10 -                G5KTX         -07 -
+QSO:  7048 FT4 2026-01-19 2135 2D0PEY        -16 -                G7WIR         -11 -
+QSO:  7048 FT4 2026-01-19 2137 2D0PEY        -12 -                G4FFY         -12 -
+QSO:  7048 FT4 2026-01-19 2154 2D0PEY        +04 -                G5KTX         +08 -
+QSO:  7048 FT4 2026-01-19 2158 2D0PEY        -17 -                PB2A          -07 -
 END-OF-LOG:

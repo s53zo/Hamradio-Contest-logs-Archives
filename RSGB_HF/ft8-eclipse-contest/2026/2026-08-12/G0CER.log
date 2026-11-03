@@ -9,38 +9,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT8+Eclipse+Contest&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1873; excluded rows=0.
-QSO:  7076 DG 2026-08-12 1631 G0CER         -19 -                GU0UVH        -03 -
-QSO:  7076 DG 2026-08-12 1633 G0CER         -07 -                M0VCP         -01 -
-QSO:  7076 DG 2026-08-12 1638 G0CER         -03 -                G4DBW         +01 -
-QSO:  7076 DG 2026-08-12 1641 G0CER         -16 -                PA1PAT        +01 -
-QSO:  7076 DG 2026-08-12 1642 G0CER         -10 -                M9KER/A       +03 -
-QSO:  7076 DG 2026-08-12 1645 G0CER         -17 -                GM0VGI        -02 -
-QSO:  7076 DG 2026-08-12 1647 G0CER         -15 -                DK7TM         -23 -
-QSO:  7076 DG 2026-08-12 1650 G0CER         -18 -                GM4YTD        -09 -
-QSO:  7076 DG 2026-08-12 1654 G0CER         -05 -                DL6BEN        -17 -
-QSO:  7076 DG 2026-08-12 1702 G0CER         -02 -                ON5RZ         -10 -
-QSO:  7076 DG 2026-08-12 1715 G0CER         -21 -                R9RA          -15 -
-QSO:  7076 DG 2026-08-12 1717 G0CER         +00 -                G4AWA         +20 -
-QSO:  7076 DG 2026-08-12 1725 G0CER         -02 -                G0HSP         +10 -
-QSO:  7076 DG 2026-08-12 1733 G0CER         -06 -                DA2DA         -03 -
-QSO:  7076 DG 2026-08-12 1736 G0CER         -07 -                DL1EMA        -07 -
-QSO:  7076 DG 2026-08-12 1740 G0CER         -14 -                SP3SX         -14 -
-QSO:  7076 DG 2026-08-12 1749 G0CER         -17 -                DA1HM/P       -14 -
-QSO:  7076 DG 2026-08-12 1751 G0CER         -14 -                OH3CD         -10 -
-QSO:  7076 DG 2026-08-12 1753 G0CER         -13 -                DL1ESZ        -15 -
-QSO:  7076 DG 2026-08-12 1755 G0CER         -10 -                SM7JKW        -11 -
-QSO:  7076 DG 2026-08-12 1758 G0CER         -12 -                PA2IP         -12 -
-QSO:  7076 DG 2026-08-12 1808 G0CER         -08 -                PI4VPO        -06 -
-QSO:  7076 DG 2026-08-12 1823 G0CER         -11 -                LB5WB         +16 -
-QSO:  7075 DG 2026-08-12 1832 G0CER         -09 -                F5RRS         -10 -
-QSO:  7075 DG 2026-08-12 1835 G0CER         -13 -                PD2MV         -12 -
-QSO:  7075 DG 2026-08-12 1838 G0CER         +02 -                PC4H          -11 -
-QSO:  7076 DG 2026-08-12 1848 G0CER         -07 -                LY3I          -03 -
-QSO:  7076 DG 2026-08-12 1852 G0CER         -20 -                LB5CK         -03 -
-QSO:  7076 DG 2026-08-12 1856 G0CER         -10 -                RW6HPS        -14 -
-QSO:  7076 DG 2026-08-12 1859 G0CER         -13 -                DA2DA         -08 -
-QSO:  7076 DG 2026-08-12 1904 G0CER         -11 -                RX3ASQ        -10 -
-QSO:  7075 DG 2026-08-12 1908 G0CER         -12 -                YO4GIY        -20 -
-QSO:  7075 DG 2026-08-12 1909 G0CER         -18 -                DB3MB         -16 -
+QSO:  7076 FT8 2026-08-12 1631 G0CER         -19 -                GU0UVH        -03 -
+QSO:  7076 FT8 2026-08-12 1633 G0CER         -07 -                M0VCP         -01 -
+QSO:  7076 FT8 2026-08-12 1638 G0CER         -03 -                G4DBW         +01 -
+QSO:  7076 FT8 2026-08-12 1641 G0CER         -16 -                PA1PAT        +01 -
+QSO:  7076 FT8 2026-08-12 1642 G0CER         -10 -                M9KER/A       +03 -
+QSO:  7076 FT8 2026-08-12 1645 G0CER         -17 -                GM0VGI        -02 -
+QSO:  7076 FT8 2026-08-12 1647 G0CER         -15 -                DK7TM         -23 -
+QSO:  7076 FT8 2026-08-12 1650 G0CER         -18 -                GM4YTD        -09 -
+QSO:  7076 FT8 2026-08-12 1654 G0CER         -05 -                DL6BEN        -17 -
+QSO:  7076 FT8 2026-08-12 1702 G0CER         -02 -                ON5RZ         -10 -
+QSO:  7076 FT8 2026-08-12 1715 G0CER         -21 -                R9RA          -15 -
+QSO:  7076 FT8 2026-08-12 1717 G0CER         +00 -                G4AWA         +20 -
+QSO:  7076 FT8 2026-08-12 1725 G0CER         -02 -                G0HSP         +10 -
+QSO:  7076 FT8 2026-08-12 1733 G0CER         -06 -                DA2DA         -03 -
+QSO:  7076 FT8 2026-08-12 1736 G0CER         -07 -                DL1EMA        -07 -
+QSO:  7076 FT8 2026-08-12 1740 G0CER         -14 -                SP3SX         -14 -
+QSO:  7076 FT8 2026-08-12 1749 G0CER         -17 -                DA1HM/P       -14 -
+QSO:  7076 FT8 2026-08-12 1751 G0CER         -14 -                OH3CD         -10 -
+QSO:  7076 FT8 2026-08-12 1753 G0CER         -13 -                DL1ESZ        -15 -
+QSO:  7076 FT8 2026-08-12 1755 G0CER         -10 -                SM7JKW        -11 -
+QSO:  7076 FT8 2026-08-12 1758 G0CER         -12 -                PA2IP         -12 -
+QSO:  7076 FT8 2026-08-12 1808 G0CER         -08 -                PI4VPO        -06 -
+QSO:  7076 FT8 2026-08-12 1823 G0CER         -11 -                LB5WB         +16 -
+QSO:  7075 FT8 2026-08-12 1832 G0CER         -09 -                F5RRS         -10 -
+QSO:  7075 FT8 2026-08-12 1835 G0CER         -13 -                PD2MV         -12 -
+QSO:  7075 FT8 2026-08-12 1838 G0CER         +02 -                PC4H          -11 -
+QSO:  7076 FT8 2026-08-12 1848 G0CER         -07 -                LY3I          -03 -
+QSO:  7076 FT8 2026-08-12 1852 G0CER         -20 -                LB5CK         -03 -
+QSO:  7076 FT8 2026-08-12 1856 G0CER         -10 -                RW6HPS        -14 -
+QSO:  7076 FT8 2026-08-12 1859 G0CER         -13 -                DA2DA         -08 -
+QSO:  7076 FT8 2026-08-12 1904 G0CER         -11 -                RX3ASQ        -10 -
+QSO:  7075 FT8 2026-08-12 1908 G0CER         -12 -                YO4GIY        -20 -
+QSO:  7075 FT8 2026-08-12 1909 G0CER         -18 -                DB3MB         -16 -
 END-OF-LOG:

@@ -9,17 +9,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT8+Eclipse+Contest&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1873; excluded rows=0.
-QSO:  7074 DG 2026-08-12 1831 DH1LL         +13 -                DD7EE         -03 -
-QSO:  7074 DG 2026-08-12 1820 DH1LL         +17 -                M0CTP         +02 -
-QSO:  7074 DG 2026-08-12 1810 DH1LL         +0 -                 M0CET         -11 -
-QSO:  7074 DG 2026-08-12 1740 DH1LL         +16 -                G6P           -04 -
-QSO:  7074 DG 2026-08-12 1737 DH1LL         +10 -                GW8DX         -04 -
-QSO:  7074 DG 2026-08-12 1734 DH1LL         +17 -                DL4ME         -08 -
-QSO:  7074 DG 2026-08-12 1731 DH1LL         +20 -                PA3EOU        -07 -
-QSO:  7074 DG 2026-08-12 1727 DH1LL         +6 -                 SP7SZJ        -13 -
-QSO:  7074 DG 2026-08-12 1724 DH1LL         +7 -                 G4RJS         -16 -
-QSO:  7074 DG 2026-08-12 1704 DH1LL         +8 -                 PC4H          +9 -
-QSO:  7074 DG 2026-08-12 1657 DH1LL         +8 -                 PA2IP         -09 -
-QSO:  7074 DG 2026-08-12 1630 DH1LL         -24 -                HB9MZI        -24 -
+QSO:  7074 FT8 2026-08-12 1831 DH1LL         +13 -                DD7EE         -03 -
+QSO:  7074 FT8 2026-08-12 1820 DH1LL         +17 -                M0CTP         +02 -
+QSO:  7074 FT8 2026-08-12 1810 DH1LL         +0 -                 M0CET         -11 -
+QSO:  7074 FT8 2026-08-12 1740 DH1LL         +16 -                G6P           -04 -
+QSO:  7074 FT8 2026-08-12 1737 DH1LL         +10 -                GW8DX         -04 -
+QSO:  7074 FT8 2026-08-12 1734 DH1LL         +17 -                DL4ME         -08 -
+QSO:  7074 FT8 2026-08-12 1731 DH1LL         +20 -                PA3EOU        -07 -
+QSO:  7074 FT8 2026-08-12 1727 DH1LL         +6 -                 SP7SZJ        -13 -
+QSO:  7074 FT8 2026-08-12 1724 DH1LL         +7 -                 G4RJS         -16 -
+QSO:  7074 FT8 2026-08-12 1704 DH1LL         +8 -                 PC4H          +9 -
+QSO:  7074 FT8 2026-08-12 1657 DH1LL         +8 -                 PA2IP         -09 -
+QSO:  7074 FT8 2026-08-12 1630 DH1LL         -24 -                HB9MZI        -24 -
 END-OF-LOG:

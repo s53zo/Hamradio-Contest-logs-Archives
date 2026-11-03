@@ -10,14 +10,14 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260304&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1043; excluded rows=1.
-QSO:   144 DG 2026-03-04 1908 M1TZR         +20 IO83             M1EYP/P       +23 IO83
-QSO:   144 DG 2026-03-04 1911 M1TZR         +22 IO83             G8LIY         +11 IO83
-QSO:   144 DG 2026-03-04 1919 M1TZR         -24 IO83             M0TMR         -19 IO93
-QSO:   144 DG 2026-03-04 1934 M1TZR         +18 IO83             G6DDN         +00 IO93
-QSO:   144 DG 2026-03-04 1941 M1TZR         +03 IO83             G8CZW         +14 IO83
-QSO:   144 DG 2026-03-04 2013 M1TZR         -07 IO83             G4PDF         -18 IO93
-QSO:   144 DG 2026-03-04 2015 M1TZR         -17 IO83             M8FQT         -18 IO93
-QSO:   144 DG 2026-03-04 2033 M1TZR         -09 IO83             G4BEE         -14 IO83
+QSO:   144 FT8 2026-03-04 1908 M1TZR         +20 IO83             M1EYP/P       +23 IO83
+QSO:   144 FT8 2026-03-04 1911 M1TZR         +22 IO83             G8LIY         +11 IO83
+QSO:   144 FT8 2026-03-04 1919 M1TZR         -24 IO83             M0TMR         -19 IO93
+QSO:   144 FT8 2026-03-04 1934 M1TZR         +18 IO83             G6DDN         +00 IO93
+QSO:   144 FT8 2026-03-04 1941 M1TZR         +03 IO83             G8CZW         +14 IO83
+QSO:   144 FT8 2026-03-04 2013 M1TZR         -07 IO83             G4PDF         -18 IO93
+QSO:   144 FT8 2026-03-04 2015 M1TZR         -17 IO83             M8FQT         -18 IO93
+QSO:   144 FT8 2026-03-04 2033 M1TZR         -09 IO83             G4BEE         -14 IO83
 END-OF-LOG:

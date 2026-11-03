@@ -10,44 +10,44 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1900 GI6ATZ        -04 IO74             PA3EWP        -11 JO21
-QSO:   432 DG 2022-01-12 1902 GI6ATZ        +07 IO74             GM8MJV        +00 IO85
-QSO:   432 DG 2022-01-12 1904 GI6ATZ        -03 IO74             PA5Y          -11 JO21
-QSO:   432 DG 2022-01-12 1905 GI6ATZ        +15 IO74             G4HGI         +12 IO83
-QSO:   432 DG 2022-01-12 1907 GI6ATZ        -12 IO74             M7SPS         -19 IO92
-QSO:   432 DG 2022-01-12 1908 GI6ATZ        -15 IO74             G0LGS         -07 IO81
-QSO:   432 DG 2022-01-12 1911 GI6ATZ        -13 IO74             G7WIR         -18 JO01
-QSO:   432 DG 2022-01-12 1915 GI6ATZ        +17 IO74             GM0HBK        -08 IO77
-QSO:   432 DG 2022-01-12 1916 GI6ATZ        -09 IO74             GM7PKT        +03 IO76
-QSO:   432 DG 2022-01-12 1917 GI6ATZ        +13 IO74             GM4CXM        -12 IO75
-QSO:   432 DG 2022-01-12 1921 GI6ATZ        -09 IO74             G7LRQ         -04 IO91
-QSO:   432 DG 2022-01-12 1923 GI6ATZ        +02 IO74             G0UXC         +12 IO83
-QSO:   432 DG 2022-01-12 1925 GI6ATZ        +01 IO74             G4APJ         +00 IO83
-QSO:   432 DG 2022-01-12 1927 GI6ATZ        -15 IO74             G3YDY         -06 JO01
-QSO:   432 DG 2022-01-12 1928 GI6ATZ        -11 IO74             G4MKF         -14 IO91
-QSO:   432 DG 2022-01-12 1934 GI6ATZ        +13 IO74             EI8KN         +08 IO62
-QSO:   432 DG 2022-01-12 1936 GI6ATZ        -16 IO74             G3YKI         -08 IO82
-QSO:   432 DG 2022-01-12 1937 GI6ATZ        -20 IO74             G0MBL         -16 JO01
-QSO:   432 DG 2022-01-12 1940 GI6ATZ        -11 IO74             M1EYP/P       +07 IO83
-QSO:   432 DG 2022-01-12 1941 GI6ATZ        +21 IO74             G8SEI         +18 IO92
-QSO:   432 DG 2022-01-12 1942 GI6ATZ        +36 IO74             GD6ICR        +18 IO74
-QSO:   432 DG 2022-01-12 1943 GI6ATZ        -19 IO74             M0IEP         -15 IO91
-QSO:   432 DG 2022-01-12 1945 GI6ATZ        -06 IO74             G0RMG         -04 IO92
-QSO:   432 DG 2022-01-12 1948 GI6ATZ        -11 IO74             M0HHF         -14 IO93
-QSO:   432 DG 2022-01-12 1953 GI6ATZ        -17 IO74             PA9R          -21 JO22
-QSO:   432 DG 2022-01-12 1958 GI6ATZ        +12 IO74             G4NBS         +12 JO02
-QSO:   432 DG 2022-01-12 1959 GI6ATZ        +28 IO74             GI4SNA        +12 IO64
-QSO:   432 DG 2022-01-12 2001 GI6ATZ        -07 IO74             G4VPD         -11 IO92
-QSO:   432 DG 2022-01-12 2004 GI6ATZ        +09 IO74             MI0IHH        +07 IO74
-QSO:   432 DG 2022-01-12 2005 GI6ATZ        +05 IO74             G0XDI         -14 IO91
-QSO:   432 DG 2022-01-12 2011 GI6ATZ        -15 IO74             F5APQ         -12 JO00
-QSO:   432 DG 2022-01-12 2017 GI6ATZ        -08 IO74             EI3KD         -15 IO51
-QSO:   432 DG 2022-01-12 2026 GI6ATZ        -16 IO74             G0DJA         -13 IO93
-QSO:   432 DG 2022-01-12 2030 GI6ATZ        -10 IO74             M0RTQ         -20 IO93
-QSO:   432 DG 2022-01-12 2034 GI6ATZ        -12 IO74             G0CNN         -13 IO94
-QSO:   432 DG 2022-01-12 2039 GI6ATZ        -21 IO74             M0RTQ         -13 IO93
-QSO:   432 DG 2022-01-12 2045 GI6ATZ        -16 IO74             M0AHN         -03 IO91
-QSO:   432 DG 2022-01-12 2059 GI6ATZ        -16 IO74             PA1BVM        -19 JO21
+QSO:   432 FT8 2022-01-12 1900 GI6ATZ        -04 IO74             PA3EWP        -11 JO21
+QSO:   432 FT8 2022-01-12 1902 GI6ATZ        +07 IO74             GM8MJV        +00 IO85
+QSO:   432 FT8 2022-01-12 1904 GI6ATZ        -03 IO74             PA5Y          -11 JO21
+QSO:   432 FT8 2022-01-12 1905 GI6ATZ        +15 IO74             G4HGI         +12 IO83
+QSO:   432 FT8 2022-01-12 1907 GI6ATZ        -12 IO74             M7SPS         -19 IO92
+QSO:   432 FT8 2022-01-12 1908 GI6ATZ        -15 IO74             G0LGS         -07 IO81
+QSO:   432 FT8 2022-01-12 1911 GI6ATZ        -13 IO74             G7WIR         -18 JO01
+QSO:   432 FT8 2022-01-12 1915 GI6ATZ        +17 IO74             GM0HBK        -08 IO77
+QSO:   432 FT8 2022-01-12 1916 GI6ATZ        -09 IO74             GM7PKT        +03 IO76
+QSO:   432 FT8 2022-01-12 1917 GI6ATZ        +13 IO74             GM4CXM        -12 IO75
+QSO:   432 FT8 2022-01-12 1921 GI6ATZ        -09 IO74             G7LRQ         -04 IO91
+QSO:   432 FT8 2022-01-12 1923 GI6ATZ        +02 IO74             G0UXC         +12 IO83
+QSO:   432 FT8 2022-01-12 1925 GI6ATZ        +01 IO74             G4APJ         +00 IO83
+QSO:   432 FT8 2022-01-12 1927 GI6ATZ        -15 IO74             G3YDY         -06 JO01
+QSO:   432 FT8 2022-01-12 1928 GI6ATZ        -11 IO74             G4MKF         -14 IO91
+QSO:   432 FT8 2022-01-12 1934 GI6ATZ        +13 IO74             EI8KN         +08 IO62
+QSO:   432 FT8 2022-01-12 1936 GI6ATZ        -16 IO74             G3YKI         -08 IO82
+QSO:   432 FT8 2022-01-12 1937 GI6ATZ        -20 IO74             G0MBL         -16 JO01
+QSO:   432 FT8 2022-01-12 1940 GI6ATZ        -11 IO74             M1EYP/P       +07 IO83
+QSO:   432 FT8 2022-01-12 1941 GI6ATZ        +21 IO74             G8SEI         +18 IO92
+QSO:   432 FT8 2022-01-12 1942 GI6ATZ        +36 IO74             GD6ICR        +18 IO74
+QSO:   432 FT8 2022-01-12 1943 GI6ATZ        -19 IO74             M0IEP         -15 IO91
+QSO:   432 FT8 2022-01-12 1945 GI6ATZ        -06 IO74             G0RMG         -04 IO92
+QSO:   432 FT8 2022-01-12 1948 GI6ATZ        -11 IO74             M0HHF         -14 IO93
+QSO:   432 FT8 2022-01-12 1953 GI6ATZ        -17 IO74             PA9R          -21 JO22
+QSO:   432 FT8 2022-01-12 1958 GI6ATZ        +12 IO74             G4NBS         +12 JO02
+QSO:   432 FT8 2022-01-12 1959 GI6ATZ        +28 IO74             GI4SNA        +12 IO64
+QSO:   432 FT8 2022-01-12 2001 GI6ATZ        -07 IO74             G4VPD         -11 IO92
+QSO:   432 FT8 2022-01-12 2004 GI6ATZ        +09 IO74             MI0IHH        +07 IO74
+QSO:   432 FT8 2022-01-12 2005 GI6ATZ        +05 IO74             G0XDI         -14 IO91
+QSO:   432 FT8 2022-01-12 2011 GI6ATZ        -15 IO74             F5APQ         -12 JO00
+QSO:   432 FT8 2022-01-12 2017 GI6ATZ        -08 IO74             EI3KD         -15 IO51
+QSO:   432 FT8 2022-01-12 2026 GI6ATZ        -16 IO74             G0DJA         -13 IO93
+QSO:   432 FT8 2022-01-12 2030 GI6ATZ        -10 IO74             M0RTQ         -20 IO93
+QSO:   432 FT8 2022-01-12 2034 GI6ATZ        -12 IO74             G0CNN         -13 IO94
+QSO:   432 FT8 2022-01-12 2039 GI6ATZ        -21 IO74             M0RTQ         -13 IO93
+QSO:   432 FT8 2022-01-12 2045 GI6ATZ        -16 IO74             M0AHN         -03 IO91
+QSO:   432 FT8 2022-01-12 2059 GI6ATZ        -16 IO74             PA1BVM        -19 JO21
 END-OF-LOG:

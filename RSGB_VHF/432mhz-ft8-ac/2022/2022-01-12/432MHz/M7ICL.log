@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1907 M7ICL         +19 JO02             G4NBS         +09 JO02
-QSO:   432 DG 2022-01-12 1909 M7ICL         -06 JO02             2E1SKY        -17 IO93
-QSO:   432 DG 2022-01-12 1910 M7ICL         -11 JO02             2E0DUE        -11 JO01
-QSO:   432 DG 2022-01-12 1919 M7ICL         -04 JO02             G8GNI         -03 IO91
-QSO:   432 DG 2022-01-12 1921 M7ICL         -12 JO02             M7SPS         -22 IO92
-QSO:   432 DG 2022-01-12 1929 M7ICL         -05 JO02             M0IEP         -12 IO91
-QSO:   432 DG 2022-01-12 1934 M7ICL         -07 JO02             G3YDY         -08 JO01
-QSO:   432 DG 2022-01-12 1958 M7ICL         -17 JO02             G0BIX         -22 JO01
-QSO:   432 DG 2022-01-12 2004 M7ICL         +13 JO02             G8SEI         +00 IO92
-QSO:   432 DG 2022-01-12 2013 M7ICL         -15 JO02             G4OED         -18 IO91
-QSO:   432 DG 2022-01-12 2015 M7ICL         -03 JO02             G7WIR         -15 JO01
-QSO:   432 DG 2022-01-12 2031 M7ICL         -11 JO02             M1AEC         -15 IO82
-QSO:   432 DG 2022-01-12 2033 M7ICL         -09 JO02             G8CRB         -14 JO02
+QSO:   432 FT8 2022-01-12 1907 M7ICL         +19 JO02             G4NBS         +09 JO02
+QSO:   432 FT8 2022-01-12 1909 M7ICL         -06 JO02             2E1SKY        -17 IO93
+QSO:   432 FT8 2022-01-12 1910 M7ICL         -11 JO02             2E0DUE        -11 JO01
+QSO:   432 FT8 2022-01-12 1919 M7ICL         -04 JO02             G8GNI         -03 IO91
+QSO:   432 FT8 2022-01-12 1921 M7ICL         -12 JO02             M7SPS         -22 IO92
+QSO:   432 FT8 2022-01-12 1929 M7ICL         -05 JO02             M0IEP         -12 IO91
+QSO:   432 FT8 2022-01-12 1934 M7ICL         -07 JO02             G3YDY         -08 JO01
+QSO:   432 FT8 2022-01-12 1958 M7ICL         -17 JO02             G0BIX         -22 JO01
+QSO:   432 FT8 2022-01-12 2004 M7ICL         +13 JO02             G8SEI         +00 IO92
+QSO:   432 FT8 2022-01-12 2013 M7ICL         -15 JO02             G4OED         -18 IO91
+QSO:   432 FT8 2022-01-12 2015 M7ICL         -03 JO02             G7WIR         -15 JO01
+QSO:   432 FT8 2022-01-12 2031 M7ICL         -11 JO02             M1AEC         -15 IO82
+QSO:   432 FT8 2022-01-12 2033 M7ICL         -09 JO02             G8CRB         -14 JO02
 END-OF-LOG:

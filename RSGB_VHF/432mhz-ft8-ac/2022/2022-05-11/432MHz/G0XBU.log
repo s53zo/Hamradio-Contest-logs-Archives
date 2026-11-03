@@ -10,20 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220511&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=885; excluded rows=0.
-QSO:   432 DG 2022-05-11 1941 G0XBU         -05 IO83             G3YKI         +06 IO82
-QSO:   432 DG 2022-05-11 1944 G0XBU         -06 IO83             MM0CEZ        -04 IO75
-QSO:   432 DG 2022-05-11 1947 G0XBU         +25 IO83             G4EII         +22 IO83
-QSO:   432 DG 2022-05-11 1951 G0XBU         -14 IO83             MM0ABM        -16 IO75
-QSO:   432 DG 2022-05-11 1953 G0XBU         -06 IO83             GI4SNA        -16 IO64
-QSO:   432 DG 2022-05-11 1955 G0XBU         -09 IO83             GM8MJV        -09 IO85
-QSO:   432 DG 2022-05-11 2003 G0XBU         -17 IO83             EI9KP         -12 IO54
-QSO:   432 DG 2022-05-11 2005 G0XBU         -03 IO83             G4BRK         -13 IO91
-QSO:   432 DG 2022-05-11 2007 G0XBU         -10 IO83             G7LRQ         -14 IO91
-QSO:   432 DG 2022-05-11 2027 G0XBU         -04 IO83             GD6ICR        -08 IO74
-QSO:   432 DG 2022-05-11 2032 G0XBU         -17 IO83             M7REV         -21 IO82
-QSO:   432 DG 2022-05-11 2038 G0XBU         -02 IO83             G4NBS         -05 JO02
-QSO:   432 DG 2022-05-11 2054 G0XBU         +12 IO83             GI6ATZ        +06 IO74
-QSO:   432 DG 2022-05-11 2059 G0XBU         +00 IO83             G8EEM         +15 IO93
+QSO:   432 FT8 2022-05-11 1941 G0XBU         -05 IO83             G3YKI         +06 IO82
+QSO:   432 FT8 2022-05-11 1944 G0XBU         -06 IO83             MM0CEZ        -04 IO75
+QSO:   432 FT8 2022-05-11 1947 G0XBU         +25 IO83             G4EII         +22 IO83
+QSO:   432 FT8 2022-05-11 1951 G0XBU         -14 IO83             MM0ABM        -16 IO75
+QSO:   432 FT8 2022-05-11 1953 G0XBU         -06 IO83             GI4SNA        -16 IO64
+QSO:   432 FT8 2022-05-11 1955 G0XBU         -09 IO83             GM8MJV        -09 IO85
+QSO:   432 FT8 2022-05-11 2003 G0XBU         -17 IO83             EI9KP         -12 IO54
+QSO:   432 FT8 2022-05-11 2005 G0XBU         -03 IO83             G4BRK         -13 IO91
+QSO:   432 FT8 2022-05-11 2007 G0XBU         -10 IO83             G7LRQ         -14 IO91
+QSO:   432 FT8 2022-05-11 2027 G0XBU         -04 IO83             GD6ICR        -08 IO74
+QSO:   432 FT8 2022-05-11 2032 G0XBU         -17 IO83             M7REV         -21 IO82
+QSO:   432 FT8 2022-05-11 2038 G0XBU         -02 IO83             G4NBS         -05 JO02
+QSO:   432 FT8 2022-05-11 2054 G0XBU         +12 IO83             GI6ATZ        +06 IO74
+QSO:   432 FT8 2022-05-11 2059 G0XBU         +00 IO83             G8EEM         +15 IO93
 END-OF-LOG:

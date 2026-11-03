@@ -10,13 +10,13 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=221109&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=724; excluded rows=0.
-QSO:   432 DG 2022-11-09 1933 2E0GKW        -19 IO91             G0XDI         -07 IO91
-QSO:   432 DG 2022-11-09 1935 2E0GKW        -21 IO91             G7WIR         -03 JO01
-QSO:   432 DG 2022-11-09 1936 2E0GKW        -08 IO91             G3ZPB         -02 IO91
-QSO:   432 DG 2022-11-09 1939 2E0GKW        -13 IO91             G0VDZ         +11 IO91
-QSO:   432 DG 2022-11-09 1942 2E0GKW        -21 IO91             G7LRQ         -13 IO91
-QSO:   432 DG 2022-11-09 1950 2E0GKW        -07 IO91             G3WZK         -06 IO91
-QSO:   432 DG 2022-11-09 1951 2E0GKW        +10 IO91             M0XXJ         +12 IO91
+QSO:   432 FT8 2022-11-09 1933 2E0GKW        -19 IO91             G0XDI         -07 IO91
+QSO:   432 FT8 2022-11-09 1935 2E0GKW        -21 IO91             G7WIR         -03 JO01
+QSO:   432 FT8 2022-11-09 1936 2E0GKW        -08 IO91             G3ZPB         -02 IO91
+QSO:   432 FT8 2022-11-09 1939 2E0GKW        -13 IO91             G0VDZ         +11 IO91
+QSO:   432 FT8 2022-11-09 1942 2E0GKW        -21 IO91             G7LRQ         -13 IO91
+QSO:   432 FT8 2022-11-09 1950 2E0GKW        -07 IO91             G3WZK         -06 IO91
+QSO:   432 FT8 2022-11-09 1951 2E0GKW        +10 IO91             M0XXJ         +12 IO91
 END-OF-LOG:

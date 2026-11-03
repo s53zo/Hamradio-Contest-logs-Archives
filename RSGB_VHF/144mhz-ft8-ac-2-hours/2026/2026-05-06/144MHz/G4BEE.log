@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260506&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1140; excluded rows=1.
-QSO:   144 DG 2026-05-06 1918 G4BEE         -08 IO83             M1EYP/P       +15 IO83
-QSO:   144 DG 2026-05-06 1921 G4BEE         -17 IO83             G8EEM         -03 IO93
-QSO:   144 DG 2026-05-06 1925 G4BEE         +01 IO83             G7ABT         +11 IO93
-QSO:   144 DG 2026-05-06 1930 G4BEE         -17 IO83             MM0CEZ        -16 IO75
-QSO:   144 DG 2026-05-06 1942 G4BEE         -20 IO83             G4ZTR         -15 JO01
-QSO:   144 DG 2026-05-06 1948 G4BEE         -07 IO83             G3YDY         -01 JO01
-QSO:   144 DG 2026-05-06 1949 G4BEE         -16 IO83             G8CZW         -12 IO83
-QSO:   144 DG 2026-05-06 1953 G4BEE         +01 IO83             G7LRQ         -11 JO03
-QSO:   144 DG 2026-05-06 2015 G4BEE         +09 IO83             GM8MJV        +15 IO85
-QSO:   144 DG 2026-05-06 2031 G4BEE         -13 IO83             GI4SNA        -11 IO64
-QSO:   144 DG 2026-05-06 2033 G4BEE         -20 IO83             G7GEE         -06 IO83
-QSO:   144 DG 2026-05-06 2035 G4BEE         +17 IO83             G4HGI         +16 IO83
-QSO:   144 DG 2026-05-06 2040 G4BEE         -01 IO83             M0JNA         +00 IO83
-QSO:   144 DG 2026-05-06 2050 G4BEE         -10 IO83             G3MXH         -05 JO02
-QSO:   144 DG 2026-05-06 2051 G4BEE         -12 IO83             MI0IHH        -09 IO74
-QSO:   144 DG 2026-05-06 2054 G4BEE         -15 IO83             M0SKT         -13 IO92
+QSO:   144 FT8 2026-05-06 1918 G4BEE         -08 IO83             M1EYP/P       +15 IO83
+QSO:   144 FT8 2026-05-06 1921 G4BEE         -17 IO83             G8EEM         -03 IO93
+QSO:   144 FT8 2026-05-06 1925 G4BEE         +01 IO83             G7ABT         +11 IO93
+QSO:   144 FT8 2026-05-06 1930 G4BEE         -17 IO83             MM0CEZ        -16 IO75
+QSO:   144 FT8 2026-05-06 1942 G4BEE         -20 IO83             G4ZTR         -15 JO01
+QSO:   144 FT8 2026-05-06 1948 G4BEE         -07 IO83             G3YDY         -01 JO01
+QSO:   144 FT8 2026-05-06 1949 G4BEE         -16 IO83             G8CZW         -12 IO83
+QSO:   144 FT8 2026-05-06 1953 G4BEE         +01 IO83             G7LRQ         -11 JO03
+QSO:   144 FT8 2026-05-06 2015 G4BEE         +09 IO83             GM8MJV        +15 IO85
+QSO:   144 FT8 2026-05-06 2031 G4BEE         -13 IO83             GI4SNA        -11 IO64
+QSO:   144 FT8 2026-05-06 2033 G4BEE         -20 IO83             G7GEE         -06 IO83
+QSO:   144 FT8 2026-05-06 2035 G4BEE         +17 IO83             G4HGI         +16 IO83
+QSO:   144 FT8 2026-05-06 2040 G4BEE         -01 IO83             M0JNA         +00 IO83
+QSO:   144 FT8 2026-05-06 2050 G4BEE         -10 IO83             G3MXH         -05 JO02
+QSO:   144 FT8 2026-05-06 2051 G4BEE         -12 IO83             MI0IHH        -09 IO74
+QSO:   144 FT8 2026-05-06 2054 G4BEE         -15 IO83             M0SKT         -13 IO92
 END-OF-LOG:

@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220209&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=864; excluded rows=0.
-QSO:   432 DG 2022-02-09 1939 G0MBL         -18 JO01             G4OED         -17 IO91
-QSO:   432 DG 2022-02-09 1929 G0MBL         -07 JO01             M7APR         +04 IO91
-QSO:   432 DG 2022-02-09 1948 G0MBL         -12 JO01             G4FFY         -09 JO01
-QSO:   432 DG 2022-02-09 1957 G0MBL         -07 JO01             G4EII         -09 IO83
-QSO:   432 DG 2022-02-09 1958 G0MBL         -07 JO01             G8CRB         -07 JO02
-QSO:   432 DG 2022-02-09 2021 G0MBL         -08 JO01             M0IEP         -11 IO91
-QSO:   432 DG 2022-02-09 2025 G0MBL         -02 JO01             G3ZPB         -15 IO91
-QSO:   432 DG 2022-02-09 2037 G0MBL         -15 JO01             M0UGA         -24 IO91
-QSO:   432 DG 2022-02-09 2047 G0MBL         -16 JO01             EI8KN         -18 IO62
-QSO:   432 DG 2022-02-09 2053 G0MBL         -15 JO01             PE4A          -16 JO22
-QSO:   432 DG 2022-02-09 2058 G0MBL         +06 JO01             G4NBS         +02 JO02
+QSO:   432 FT8 2022-02-09 1939 G0MBL         -18 JO01             G4OED         -17 IO91
+QSO:   432 FT8 2022-02-09 1929 G0MBL         -07 JO01             M7APR         +04 IO91
+QSO:   432 FT8 2022-02-09 1948 G0MBL         -12 JO01             G4FFY         -09 JO01
+QSO:   432 FT8 2022-02-09 1957 G0MBL         -07 JO01             G4EII         -09 IO83
+QSO:   432 FT8 2022-02-09 1958 G0MBL         -07 JO01             G8CRB         -07 JO02
+QSO:   432 FT8 2022-02-09 2021 G0MBL         -08 JO01             M0IEP         -11 IO91
+QSO:   432 FT8 2022-02-09 2025 G0MBL         -02 JO01             G3ZPB         -15 IO91
+QSO:   432 FT8 2022-02-09 2037 G0MBL         -15 JO01             M0UGA         -24 IO91
+QSO:   432 FT8 2022-02-09 2047 G0MBL         -16 JO01             EI8KN         -18 IO62
+QSO:   432 FT8 2022-02-09 2053 G0MBL         -15 JO01             PE4A          -16 JO22
+QSO:   432 FT8 2022-02-09 2058 G0MBL         +06 JO01             G4NBS         +02 JO02
 END-OF-LOG:

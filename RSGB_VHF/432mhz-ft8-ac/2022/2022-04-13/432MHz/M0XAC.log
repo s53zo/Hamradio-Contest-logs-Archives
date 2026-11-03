@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220413&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=794; excluded rows=0.
-QSO:   432 DG 2022-04-13 1923 M0XAC         +06 IO81             G4EII         +00 IO83
-QSO:   432 DG 2022-04-13 1929 M0XAC         -06 IO81             M7REV         -11 IO82
-QSO:   432 DG 2022-04-13 1931 M0XAC         +28 IO81             G0LGS         +28 IO81
-QSO:   432 DG 2022-04-13 1933 M0XAC         +15 IO81             G0RMG         +08 IO92
-QSO:   432 DG 2022-04-13 1941 M0XAC         +00 IO81             M0IEP         -01 IO91
-QSO:   432 DG 2022-04-13 1950 M0XAC         -02 IO81             EI8KN         -05 IO62
-QSO:   432 DG 2022-04-13 2001 M0XAC         +16 IO81             G4NBS         -04 JO02
-QSO:   432 DG 2022-04-13 2021 M0XAC         -12 IO81             M0KHR         -13 IO91
-QSO:   432 DG 2022-04-13 2048 M0XAC         -01 IO81             G0MBL         -14 JO01
-QSO:   432 DG 2022-04-13 2050 M0XAC         +11 IO81             M0AHN         +11 IO91
-QSO:   432 DG 2022-04-13 2056 M0XAC         -09 IO81             G1RAG         -15 IO92
+QSO:   432 FT8 2022-04-13 1923 M0XAC         +06 IO81             G4EII         +00 IO83
+QSO:   432 FT8 2022-04-13 1929 M0XAC         -06 IO81             M7REV         -11 IO82
+QSO:   432 FT8 2022-04-13 1931 M0XAC         +28 IO81             G0LGS         +28 IO81
+QSO:   432 FT8 2022-04-13 1933 M0XAC         +15 IO81             G0RMG         +08 IO92
+QSO:   432 FT8 2022-04-13 1941 M0XAC         +00 IO81             M0IEP         -01 IO91
+QSO:   432 FT8 2022-04-13 1950 M0XAC         -02 IO81             EI8KN         -05 IO62
+QSO:   432 FT8 2022-04-13 2001 M0XAC         +16 IO81             G4NBS         -04 JO02
+QSO:   432 FT8 2022-04-13 2021 M0XAC         -12 IO81             M0KHR         -13 IO91
+QSO:   432 FT8 2022-04-13 2048 M0XAC         -01 IO81             G0MBL         -14 JO01
+QSO:   432 FT8 2022-04-13 2050 M0XAC         +11 IO81             M0AHN         +11 IO91
+QSO:   432 FT8 2022-04-13 2056 M0XAC         -09 IO81             G1RAG         -15 IO92
 END-OF-LOG:

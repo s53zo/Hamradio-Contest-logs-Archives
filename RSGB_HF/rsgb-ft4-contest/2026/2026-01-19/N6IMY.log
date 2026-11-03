@@ -10,16 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO: 14081 DG 2026-01-19 2056 N6IMY         -12 -                N0OII         -01 -
-QSO: 14081 DG 2026-01-19 2059 N6IMY         +12 -                AK6IM         +28 -
-QSO: 14081 DG 2026-01-19 2109 N6IMY         -03 -                KV0I          -11 -
-QSO: 14081 DG 2026-01-19 2111 N6IMY         -08 -                WF1B          -12 -
-QSO: 14081 DG 2026-01-19 2115 N6IMY         -19 -                KE5YYC        -05 -
-QSO: 14081 DG 2026-01-19 2117 N6IMY         -14 -                W1AW/4        -12 -
-QSO: 14081 DG 2026-01-19 2128 N6IMY         -11 -                KA0AZS        -20 -
-QSO: 14081 DG 2026-01-19 2133 N6IMY         -11 -                AA0HJ         -08 -
-QSO: 14081 DG 2026-01-19 2204 N6IMY         -10 -                KN4RNO        +09 -
-QSO: 14081 DG 2026-01-19 2205 N6IMY         -16 -                VE7CIT        -03 -
-QSO: 14081 DG 2026-01-19 2216 N6IMY         -10 -                KF0DX         -09 -
+QSO: 14081 FT4 2026-01-19 2056 N6IMY         -12 -                N0OII         -01 -
+QSO: 14081 FT4 2026-01-19 2059 N6IMY         +12 -                AK6IM         +28 -
+QSO: 14081 FT4 2026-01-19 2109 N6IMY         -03 -                KV0I          -11 -
+QSO: 14081 FT4 2026-01-19 2111 N6IMY         -08 -                WF1B          -12 -
+QSO: 14081 FT4 2026-01-19 2115 N6IMY         -19 -                KE5YYC        -05 -
+QSO: 14081 FT4 2026-01-19 2117 N6IMY         -14 -                W1AW/4        -12 -
+QSO: 14081 FT4 2026-01-19 2128 N6IMY         -11 -                KA0AZS        -20 -
+QSO: 14081 FT4 2026-01-19 2133 N6IMY         -11 -                AA0HJ         -08 -
+QSO: 14081 FT4 2026-01-19 2204 N6IMY         -10 -                KN4RNO        +09 -
+QSO: 14081 FT4 2026-01-19 2205 N6IMY         -16 -                VE7CIT        -03 -
+QSO: 14081 FT4 2026-01-19 2216 N6IMY         -10 -                KF0DX         -09 -
 END-OF-LOG:

@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260909&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=322; excluded rows=0.
-QSO:   432 DG 2026-09-09 1908 G7ICV         +26 JO01             G3YDY         +00 JO01
-QSO:   432 DG 2026-09-09 1918 G7ICV         +12 JO01             G4ZTR         -05 JO01
-QSO:   432 DG 2026-09-09 1921 G7ICV         -11 JO01             PA3DRK        -14 JO21
-QSO:   432 DG 2026-09-09 1923 G7ICV         -06 JO01             DF2VF         -17 JN39
-QSO:   432 DG 2026-09-09 1925 G7ICV         -03 JO01             DF4IAE        -14 JN49
-QSO:   432 DG 2026-09-09 1938 G7ICV         -07 JO01             PA3CWS        -21 JO22
-QSO:   432 DG 2026-09-09 1947 G7ICV         -04 JO01             G0MBL         +04 JO01
-QSO:   432 DG 2026-09-09 1954 G7ICV         +36 JO01             G0BIX         +21 JO01
-QSO:   432 DG 2026-09-09 1957 G7ICV         +21 JO01             G0XDI         -01 IO91
-QSO:   432 DG 2026-09-09 2004 G7ICV         +29 JO01             G1HJW         +06 JO01
-QSO:   432 DG 2026-09-09 2010 G7ICV         -01 JO01             G8SEI         -17 IO92
+QSO:   432 FT8 2026-09-09 1908 G7ICV         +26 JO01             G3YDY         +00 JO01
+QSO:   432 FT8 2026-09-09 1918 G7ICV         +12 JO01             G4ZTR         -05 JO01
+QSO:   432 FT8 2026-09-09 1921 G7ICV         -11 JO01             PA3DRK        -14 JO21
+QSO:   432 FT8 2026-09-09 1923 G7ICV         -06 JO01             DF2VF         -17 JN39
+QSO:   432 FT8 2026-09-09 1925 G7ICV         -03 JO01             DF4IAE        -14 JN49
+QSO:   432 FT8 2026-09-09 1938 G7ICV         -07 JO01             PA3CWS        -21 JO22
+QSO:   432 FT8 2026-09-09 1947 G7ICV         -04 JO01             G0MBL         +04 JO01
+QSO:   432 FT8 2026-09-09 1954 G7ICV         +36 JO01             G0BIX         +21 JO01
+QSO:   432 FT8 2026-09-09 1957 G7ICV         +21 JO01             G0XDI         -01 IO91
+QSO:   432 FT8 2026-09-09 2004 G7ICV         +29 JO01             G1HJW         +06 JO01
+QSO:   432 FT8 2026-09-09 2010 G7ICV         -01 JO01             G8SEI         -17 IO92
 END-OF-LOG:

@@ -10,36 +10,37 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO: 14080 DG 2026-03-16 2005 M9DJN         -04 -                5Z4VJ         -19 -
-QSO: 14080 DG 2026-03-16 2007 M9DJN         -10 -                KE2UK         -10 -
-QSO:  7048 DG 2026-03-16 2012 M9DJN         +03 -                DL7ZO         -04 -
-QSO:  7049 DG 2026-03-16 2018 M9DJN         +00 -                DK2OY         -03 -
-QSO:  7047 DG 2026-03-16 2025 M9DJN         +03 -                EA5ET         -10 -
-QSO: 14080 DG 2026-03-16 2035 M9DJN         -08 -                K1RO          -19 -
-QSO: 14081 DG 2026-03-16 2037 M9DJN         +02 -                KP4VET        -10 -
-QSO: 14080 DG 2026-03-16 2039 M9DJN         +03 -                P4/WE9V       -09 -
-QSO:  3578 DG 2026-03-16 2047 M9DJN         -01 -                PH3T          -08 -
-QSO:  3577 DG 2026-03-16 2049 M9DJN         +00 -                G0HSP         -13 -
-QSO:  3578 DG 2026-03-16 2054 M9DJN         -06 -                G6DXY         -04 -
-QSO:  3578 DG 2026-03-16 2054 M9DJN         -14 -                G0AJH         -16 -
-QSO:  3577 DG 2026-03-16 2055 M9DJN         +06 -                DJ9MH         -12 -
-QSO:  3578 DG 2026-03-16 2056 M9DJN         +00 -                OK2USM        -19 -
-QSO:  3578 DG 2026-03-16 2057 M9DJN         +01 -                PA3EOZ        -14 -
-QSO:  3576 DG 2026-03-16 2059 M9DJN         +04 -                GW0ARK        +03 -
-QSO:  3578 DG 2026-03-16 2102 M9DJN         +05 -                G2M           -07 -
-QSO:  3578 DG 2026-03-16 2103 M9DJN         -12 -                IN3OWY        -18 -
-QSO:  3578 DG 2026-03-16 2106 M9DJN         -03 -                SG5Z          -08 -
-QSO:  3578 DG 2026-03-16 2107 M9DJN         +01 -                M8M           -06 -
-QSO:  3578 DG 2026-03-16 2108 M9DJN         -02 -                DO1NJN        +02 -
-QSO:  3577 DG 2026-03-16 2110 M9DJN         -08 -                MW7RHR        -03 -
-QSO:  3576 DG 2026-03-16 2112 M9DJN         -02 -                HB9TIH        - -
-QSO:  3578 DG 2026-03-16 2119 M9DJN         -04 -                GW5JJV        -03 -
-QSO: 14080 DG 2026-03-16 2126 M9DJN         -07 -                W1UE          -04 -
-QSO:  3575 DG 2026-03-16 2135 M9DJN         +01 -                ON3RV         -13 -
-QSO:  3576 DG 2026-03-16 2138 M9DJN         +07 -                G3MXH         -16 -
-QSO:  3577 DG 2026-03-16 2139 M9DJN         +06 -                DF3QK         -06 -
-QSO:  3576 DG 2026-03-16 2143 M9DJN         +08 -                G4OZG         +00 -
-QSO:  3576 DG 2026-03-16 2144 M9DJN         -07 -                DO8PAT        -16 -
-QSO:  3575 DG 2026-03-16 2147 M9DJN         -06 -                M7OFM         -08 -
+QSO: 14080 FT4 2026-03-16 2005 M9DJN         -04 -                5Z4VJ         -19 -
+QSO: 14080 FT4 2026-03-16 2007 M9DJN         -10 -                KE2UK         -10 -
+QSO:  7048 FT4 2026-03-16 2012 M9DJN         +03 -                DL7ZO         -04 -
+QSO:  7049 FT4 2026-03-16 2018 M9DJN         +00 -                DK2OY         -03 -
+QSO:  7047 FT4 2026-03-16 2025 M9DJN         +03 -                EA5ET         -10 -
+QSO: 14080 FT4 2026-03-16 2035 M9DJN         -08 -                K1RO          -19 -
+QSO: 14081 FT4 2026-03-16 2037 M9DJN         +02 -                KP4VET        -10 -
+QSO: 14080 FT4 2026-03-16 2039 M9DJN         +03 -                P4/WE9V       -09 -
+QSO:  3578 FT4 2026-03-16 2047 M9DJN         -01 -                PH3T          -08 -
+QSO:  3577 FT4 2026-03-16 2049 M9DJN         +00 -                G0HSP         -13 -
+QSO:  3578 FT4 2026-03-16 2054 M9DJN         -06 -                G6DXY         -04 -
+QSO:  3578 FT4 2026-03-16 2054 M9DJN         -14 -                G0AJH         -16 -
+QSO:  3577 FT4 2026-03-16 2055 M9DJN         +06 -                DJ9MH         -12 -
+QSO:  3578 FT4 2026-03-16 2056 M9DJN         +00 -                OK2USM        -19 -
+QSO:  3578 FT4 2026-03-16 2057 M9DJN         +01 -                PA3EOZ        -14 -
+QSO:  3576 FT4 2026-03-16 2059 M9DJN         +04 -                GW0ARK        +03 -
+QSO:  3578 FT4 2026-03-16 2102 M9DJN         +05 -                G2M           -07 -
+QSO:  3578 FT4 2026-03-16 2103 M9DJN         -12 -                IN3OWY        -18 -
+QSO:  3578 FT4 2026-03-16 2106 M9DJN         -03 -                SG5Z          -08 -
+QSO:  3578 FT4 2026-03-16 2107 M9DJN         +01 -                M8M           -06 -
+QSO:  3578 FT4 2026-03-16 2108 M9DJN         -02 -                DO1NJN        +02 -
+QSO:  3577 FT4 2026-03-16 2110 M9DJN         -08 -                MW7RHR        -03 -
+QSO:  3576 FT4 2026-03-16 2112 M9DJN         -02 -                HB9TIH        - -
+QSO:  3578 FT4 2026-03-16 2119 M9DJN         -04 -                GW5JJV        -03 -
+QSO: 14080 FT4 2026-03-16 2126 M9DJN         -07 -                W1UE          -04 -
+QSO:  3575 FT4 2026-03-16 2135 M9DJN         +01 -                ON3RV         -13 -
+QSO:  3576 FT4 2026-03-16 2138 M9DJN         +07 -                G3MXH         -16 -
+QSO:  3577 FT4 2026-03-16 2139 M9DJN         +06 -                DF3QK         -06 -
+QSO:  3576 FT4 2026-03-16 2143 M9DJN         +08 -                G4OZG         +00 -
+QSO:  3576 FT4 2026-03-16 2144 M9DJN         -07 -                DO8PAT        -16 -
+QSO:  3575 FT4 2026-03-16 2147 M9DJN         -06 -                M7OFM         -08 -
 END-OF-LOG:

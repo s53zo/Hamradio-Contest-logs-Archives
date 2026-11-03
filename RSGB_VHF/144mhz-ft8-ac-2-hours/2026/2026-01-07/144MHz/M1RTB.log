@@ -10,16 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260107&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=763; excluded rows=0.
-QSO:   144 DG 2026-01-07 1904 M1RTB         -03 IO83             G8CZW         -17 IO83
-QSO:   144 DG 2026-01-07 1914 M1RTB         -01 IO83             G8CZW         -16 IO83
-QSO:   144 DG 2026-01-07 1917 M1RTB         -07 IO83             M0TMR         -15 IO93
-QSO:   144 DG 2026-01-07 1953 M1RTB         -07 IO83             G8LIY         -18 IO83
-QSO:   144 DG 2026-01-07 1958 M1RTB         -04 IO83             M1EYP/P       +02 IO83
-QSO:   144 DG 2026-01-07 2000 M1RTB         +10 IO83             M5GAV         +06 IO83
-QSO:   144 DG 2026-01-07 2012 M1RTB         -01 IO83             M1TZR         -02 IO83
-QSO:   144 DG 2026-01-07 2020 M1RTB         -04 IO83             G0JEI         -12 IO93
-QSO:   144 DG 2026-01-07 2048 M1RTB         -12 IO83             M9DJN         -08 IO82
-QSO:   144 DG 2026-01-07 2056 M1RTB         -16 IO83             M0AAM         -24 IO93
+QSO:   144 FT8 2026-01-07 1904 M1RTB         -03 IO83             G8CZW         -17 IO83
+QSO:   144 FT8 2026-01-07 1914 M1RTB         -01 IO83             G8CZW         -16 IO83
+QSO:   144 FT8 2026-01-07 1917 M1RTB         -07 IO83             M0TMR         -15 IO93
+QSO:   144 FT8 2026-01-07 1953 M1RTB         -07 IO83             G8LIY         -18 IO83
+QSO:   144 FT8 2026-01-07 1958 M1RTB         -04 IO83             M1EYP/P       +02 IO83
+QSO:   144 FT8 2026-01-07 2000 M1RTB         +10 IO83             M5GAV         +06 IO83
+QSO:   144 FT8 2026-01-07 2012 M1RTB         -01 IO83             M1TZR         -02 IO83
+QSO:   144 FT8 2026-01-07 2020 M1RTB         -04 IO83             G0JEI         -12 IO93
+QSO:   144 FT8 2026-01-07 2048 M1RTB         -12 IO83             M9DJN         -08 IO82
+QSO:   144 FT8 2026-01-07 2056 M1RTB         -16 IO83             M0AAM         -24 IO93
 END-OF-LOG:

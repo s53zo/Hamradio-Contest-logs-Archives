@@ -10,39 +10,40 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260223&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5694; excluded rows=2.
-QSO:  7049 DG 2026-02-23 2004 M0MHX         +01 -                IK4RVY        -02 -
-QSO:  7047 DG 2026-02-23 2005 M0MHX         -16 -                MM5DWW        -01 -
-QSO:  7047 DG 2026-02-23 2009 M0MHX         +14 -                G0AJH         +12 -
-QSO:  7047 DG 2026-02-23 2010 M0MHX         +06 -                DB2GM         +09 -
-QSO:  7047 DG 2026-02-23 2011 M0MHX         -01 -                IZ4JMA        +02 -
-QSO:  7047 DG 2026-02-23 2012 M0MHX         -04 -                OK2USM        -03 -
-QSO:  7047 DG 2026-02-23 2014 M0MHX         -03 -                SP1TJ         -01 -
-QSO:  7047 DG 2026-02-23 2015 M0MHX         -06 -                SP9VEY        -07 -
-QSO:  7049 DG 2026-02-23 2020 M0MHX         +00 -                HA6NL         -07 -
-QSO:  7049 DG 2026-02-23 2021 M0MHX         -09 -                F4SNF         -04 -
-QSO:  7048 DG 2026-02-23 2024 M0MHX         -11 -                OM1HG         -05 -
-QSO:  7048 DG 2026-02-23 2028 M0MHX         -06 -                IW3IEA        +02 -
-QSO:  7049 DG 2026-02-23 2039 M0MHX         +01 -                F5RRS         -04 -
-QSO:  7049 DG 2026-02-23 2041 M0MHX         -17 -                SP4DC         -08 -
-QSO:  7049 DG 2026-02-23 2046 M0MHX         -08 -                YO4CVV        -14 -
-QSO:  7049 DG 2026-02-23 2047 M0MHX         -03 -                YO9FDG        -03 -
-QSO:  7050 DG 2026-02-23 2059 M0MHX         -01 -                HG80EME       +00 -
-QSO:  7049 DG 2026-02-23 2100 M0MHX         -17 -                IK2FTB        +05 -
-QSO:  7049 DG 2026-02-23 2101 M0MHX         -09 -                CT4KQ         -12 -
-QSO:  7050 DG 2026-02-23 2104 M0MHX         +05 -                I3LTT         +12 -
-QSO: 14081 DG 2026-02-23 2112 M0MHX         -15 -                G4CJC         -07 -
-QSO:  3577 DG 2026-02-23 2117 M0MHX         -02 -                G6DXY         +00 -
-QSO:  3578 DG 2026-02-23 2121 M0MHX         +04 -                G0HSP         +09 -
-QSO:  3578 DG 2026-02-23 2122 M0MHX         +01 -                G4OZG         +00 -
-QSO:  3578 DG 2026-02-23 2125 M0MHX         -02 -                PA5BS         -09 -
-QSO:  3578 DG 2026-02-23 2125 M0MHX         +06 -                G4CXQ         +03 -
-QSO:  3578 DG 2026-02-23 2127 M0MHX         +05 -                DM3CH         -01 -
-QSO:  3576 DG 2026-02-23 2133 M0MHX         -02 -                PI4PD         +02 -
-QSO: 14081 DG 2026-02-23 2135 M0MHX         -16 -                IK4LZH        -10 -
-QSO:  7048 DG 2026-02-23 2144 M0MHX         -14 -                AN46AL        -14 -
-QSO:  7048 DG 2026-02-23 2145 M0MHX         -12 -                IW0RLC        -11 -
-QSO:  7048 DG 2026-02-23 2146 M0MHX         -10 -                LZ1JZ         +03 -
-QSO:  7049 DG 2026-02-23 2157 M0MHX         -12 -                K9OM          -05 -
-QSO:  7049 DG 2026-02-23 2159 M0MHX         -21 -                SP6ABD        -07 -
+QSO:  7049 FT4 2026-02-23 2004 M0MHX         +01 -                IK4RVY        -02 -
+QSO:  7047 FT4 2026-02-23 2005 M0MHX         -16 -                MM5DWW        -01 -
+QSO:  7047 FT4 2026-02-23 2009 M0MHX         +14 -                G0AJH         +12 -
+QSO:  7047 FT4 2026-02-23 2010 M0MHX         +06 -                DB2GM         +09 -
+QSO:  7047 FT4 2026-02-23 2011 M0MHX         -01 -                IZ4JMA        +02 -
+QSO:  7047 FT4 2026-02-23 2012 M0MHX         -04 -                OK2USM        -03 -
+QSO:  7047 FT4 2026-02-23 2014 M0MHX         -03 -                SP1TJ         -01 -
+QSO:  7047 FT4 2026-02-23 2015 M0MHX         -06 -                SP9VEY        -07 -
+QSO:  7049 FT4 2026-02-23 2020 M0MHX         +00 -                HA6NL         -07 -
+QSO:  7049 FT4 2026-02-23 2021 M0MHX         -09 -                F4SNF         -04 -
+QSO:  7048 FT4 2026-02-23 2024 M0MHX         -11 -                OM1HG         -05 -
+QSO:  7048 FT4 2026-02-23 2028 M0MHX         -06 -                IW3IEA        +02 -
+QSO:  7049 FT4 2026-02-23 2039 M0MHX         +01 -                F5RRS         -04 -
+QSO:  7049 FT4 2026-02-23 2041 M0MHX         -17 -                SP4DC         -08 -
+QSO:  7049 FT4 2026-02-23 2046 M0MHX         -08 -                YO4CVV        -14 -
+QSO:  7049 FT4 2026-02-23 2047 M0MHX         -03 -                YO9FDG        -03 -
+QSO:  7050 FT4 2026-02-23 2059 M0MHX         -01 -                HG80EME       +00 -
+QSO:  7049 FT4 2026-02-23 2100 M0MHX         -17 -                IK2FTB        +05 -
+QSO:  7049 FT4 2026-02-23 2101 M0MHX         -09 -                CT4KQ         -12 -
+QSO:  7050 FT4 2026-02-23 2104 M0MHX         +05 -                I3LTT         +12 -
+QSO: 14081 FT4 2026-02-23 2112 M0MHX         -15 -                G4CJC         -07 -
+QSO:  3577 FT4 2026-02-23 2117 M0MHX         -02 -                G6DXY         +00 -
+QSO:  3578 FT4 2026-02-23 2121 M0MHX         +04 -                G0HSP         +09 -
+QSO:  3578 FT4 2026-02-23 2122 M0MHX         +01 -                G4OZG         +00 -
+QSO:  3578 FT4 2026-02-23 2125 M0MHX         -02 -                PA5BS         -09 -
+QSO:  3578 FT4 2026-02-23 2125 M0MHX         +06 -                G4CXQ         +03 -
+QSO:  3578 FT4 2026-02-23 2127 M0MHX         +05 -                DM3CH         -01 -
+QSO:  3576 FT4 2026-02-23 2133 M0MHX         -02 -                PI4PD         +02 -
+QSO: 14081 FT4 2026-02-23 2135 M0MHX         -16 -                IK4LZH        -10 -
+QSO:  7048 FT4 2026-02-23 2144 M0MHX         -14 -                AN46AL        -14 -
+QSO:  7048 FT4 2026-02-23 2145 M0MHX         -12 -                IW0RLC        -11 -
+QSO:  7048 FT4 2026-02-23 2146 M0MHX         -10 -                LZ1JZ         +03 -
+QSO:  7049 FT4 2026-02-23 2157 M0MHX         -12 -                K9OM          -05 -
+QSO:  7049 FT4 2026-02-23 2159 M0MHX         -21 -                SP6ABD        -07 -
 END-OF-LOG:

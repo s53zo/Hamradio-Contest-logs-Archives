@@ -9,12 +9,13 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT8+Eclipse+Contest&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1873; excluded rows=0.
-QSO:  7074 DG 2026-08-12 1727 M8DEF         -16 -                EA4GA         -14 -
-QSO:  7075 DG 2026-08-12 1743 M8DEF         -06 -                PA3EOU        -11 -
-QSO:  7075 DG 2026-08-12 1751 M8DEF         -07 -                PA4ZON        -19 -
-QSO:  7075 DG 2026-08-12 1753 M8DEF         -16 -                DK5FN         -09 -
-QSO:  7074 DG 2026-08-12 1807 M8DEF         -15 -                SM7JKW        -17 -
-QSO:  7074 DG 2026-08-12 1809 M8DEF         -14 -                TF8KW         -10 -
-QSO:  7074 DG 2026-08-12 1842 M8DEF         -02 -                DG3DAF        -07 -
+QSO:  7074 FT8 2026-08-12 1727 M8DEF         -16 -                EA4GA         -14 -
+QSO:  7075 FT8 2026-08-12 1743 M8DEF         -06 -                PA3EOU        -11 -
+QSO:  7075 FT8 2026-08-12 1751 M8DEF         -07 -                PA4ZON        -19 -
+QSO:  7075 FT8 2026-08-12 1753 M8DEF         -16 -                DK5FN         -09 -
+QSO:  7074 FT8 2026-08-12 1807 M8DEF         -15 -                SM7JKW        -17 -
+QSO:  7074 FT8 2026-08-12 1809 M8DEF         -14 -                TF8KW         -10 -
+QSO:  7074 FT8 2026-08-12 1842 M8DEF         -02 -                DG3DAF        -07 -
 END-OF-LOG:

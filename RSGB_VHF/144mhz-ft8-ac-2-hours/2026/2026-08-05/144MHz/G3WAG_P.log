@@ -10,38 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260805&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=829; excluded rows=0.
-QSO:   144 DG 2026-08-05 1911 G3WAG/P       -17 IO82             M1DYU         +17 IO83
-QSO:   144 DG 2026-08-05 1915 G3WAG/P       +37 IO82             G0JCC         +28 IO82
-QSO:   144 DG 2026-08-05 1916 G3WAG/P       -07 IO82             M9VGP         +15 IO91
-QSO:   144 DG 2026-08-05 1919 G3WAG/P       -17 IO82             2E0MRK        -11 IO91
-QSO:   144 DG 2026-08-05 1920 G3WAG/P       -11 IO82             F1NQP         -13 JN19
-QSO:   144 DG 2026-08-05 1929 G3WAG/P       -14 IO82             EI4ACB        +08 IO62
-QSO:   144 DG 2026-08-05 1931 G3WAG/P       -16 IO82             M1EYP         -06 IO83
-QSO:   144 DG 2026-08-05 1932 G3WAG/P       -08 IO82             M9DJN         +03 IO82
-QSO:   144 DG 2026-08-05 1936 G3WAG/P       -18 IO82             G8CZW         -05 IO83
-QSO:   144 DG 2026-08-05 1938 G3WAG/P       +01 IO82             G8EEM         -05 IO93
-QSO:   144 DG 2026-08-05 1941 G3WAG/P       -04 IO82             G0BIX         +02 JO01
-QSO:   144 DG 2026-08-05 1944 G3WAG/P       -08 IO82             G7WIR         -10 JO01
-QSO:   144 DG 2026-08-05 1946 G3WAG/P       +11 IO82             G0XDI         +09 IO91
-QSO:   144 DG 2026-08-05 1950 G3WAG/P       -14 IO82             PH2M          -26 JO22
-QSO:   144 DG 2026-08-05 1957 G3WAG/P       -16 IO82             G4FLM         -15 IO94
-QSO:   144 DG 2026-08-05 1959 G3WAG/P       +00 IO82             G0JJG         -10 JO02
-QSO:   144 DG 2026-08-05 2000 G3WAG/P       -06 IO82             G4HGI         +22 IO83
-QSO:   144 DG 2026-08-05 2004 G3WAG/P       -09 IO82             G6HIE         -03 JO00
-QSO:   144 DG 2026-08-05 2010 G3WAG/P       +09 IO82             G8CZW         +11 IO83
-QSO:   144 DG 2026-08-05 2011 G3WAG/P       -06 IO82             GM8MJV        -06 IO85
-QSO:   144 DG 2026-08-05 2013 G3WAG/P       -14 IO82             GM8MJV        -06 IO85
-QSO:   144 DG 2026-08-05 2015 G3WAG/P       -12 IO82             GM4FVM        -05 IO85
-QSO:   144 DG 2026-08-05 2018 G3WAG/P       -14 IO82             G0JDL         -01 JO02
-QSO:   144 DG 2026-08-05 2021 G3WAG/P       -14 IO82             DL5EBS        -18 JO31
-QSO:   144 DG 2026-08-05 2027 G3WAG/P       -20 IO82             EI3ENB        -04 IO62
-QSO:   144 DG 2026-08-05 2031 G3WAG/P       -05 IO82             G8YPE         -05 IO92
-QSO:   144 DG 2026-08-05 2037 G3WAG/P       -15 IO82             F8BON         -03 IN86
-QSO:   144 DG 2026-08-05 2042 G3WAG/P       +10 IO82             G7LRQ         +07 JO03
-QSO:   144 DG 2026-08-05 2045 G3WAG/P       -17 IO82             MM0CEZ        -06 IO75
-QSO:   144 DG 2026-08-05 2048 G3WAG/P       +16 IO82             EI8KN         -12 IO62
-QSO:   144 DG 2026-08-05 2050 G3WAG/P       -13 IO82             G3YDY         -01 JO01
-QSO:   144 DG 2026-08-05 2053 G3WAG/P       +05 IO82             G6DDX         -03 IO92
+QSO:   144 FT8 2026-08-05 1911 G3WAG/P       -17 IO82             M1DYU         +17 IO83
+QSO:   144 FT8 2026-08-05 1915 G3WAG/P       +37 IO82             G0JCC         +28 IO82
+QSO:   144 FT8 2026-08-05 1916 G3WAG/P       -07 IO82             M9VGP         +15 IO91
+QSO:   144 FT8 2026-08-05 1919 G3WAG/P       -17 IO82             2E0MRK        -11 IO91
+QSO:   144 FT8 2026-08-05 1920 G3WAG/P       -11 IO82             F1NQP         -13 JN19
+QSO:   144 FT8 2026-08-05 1929 G3WAG/P       -14 IO82             EI4ACB        +08 IO62
+QSO:   144 FT8 2026-08-05 1931 G3WAG/P       -16 IO82             M1EYP         -06 IO83
+QSO:   144 FT8 2026-08-05 1932 G3WAG/P       -08 IO82             M9DJN         +03 IO82
+QSO:   144 FT8 2026-08-05 1936 G3WAG/P       -18 IO82             G8CZW         -05 IO83
+QSO:   144 FT8 2026-08-05 1938 G3WAG/P       +01 IO82             G8EEM         -05 IO93
+QSO:   144 FT8 2026-08-05 1941 G3WAG/P       -04 IO82             G0BIX         +02 JO01
+QSO:   144 FT8 2026-08-05 1944 G3WAG/P       -08 IO82             G7WIR         -10 JO01
+QSO:   144 FT8 2026-08-05 1946 G3WAG/P       +11 IO82             G0XDI         +09 IO91
+QSO:   144 FT8 2026-08-05 1950 G3WAG/P       -14 IO82             PH2M          -26 JO22
+QSO:   144 FT8 2026-08-05 1957 G3WAG/P       -16 IO82             G4FLM         -15 IO94
+QSO:   144 FT8 2026-08-05 1959 G3WAG/P       +00 IO82             G0JJG         -10 JO02
+QSO:   144 FT8 2026-08-05 2000 G3WAG/P       -06 IO82             G4HGI         +22 IO83
+QSO:   144 FT8 2026-08-05 2004 G3WAG/P       -09 IO82             G6HIE         -03 JO00
+QSO:   144 FT8 2026-08-05 2010 G3WAG/P       +09 IO82             G8CZW         +11 IO83
+QSO:   144 FT8 2026-08-05 2011 G3WAG/P       -06 IO82             GM8MJV        -06 IO85
+QSO:   144 FT8 2026-08-05 2013 G3WAG/P       -14 IO82             GM8MJV        -06 IO85
+QSO:   144 FT8 2026-08-05 2015 G3WAG/P       -12 IO82             GM4FVM        -05 IO85
+QSO:   144 FT8 2026-08-05 2018 G3WAG/P       -14 IO82             G0JDL         -01 JO02
+QSO:   144 FT8 2026-08-05 2021 G3WAG/P       -14 IO82             DL5EBS        -18 JO31
+QSO:   144 FT8 2026-08-05 2027 G3WAG/P       -20 IO82             EI3ENB        -04 IO62
+QSO:   144 FT8 2026-08-05 2031 G3WAG/P       -05 IO82             G8YPE         -05 IO92
+QSO:   144 FT8 2026-08-05 2037 G3WAG/P       -15 IO82             F8BON         -03 IN86
+QSO:   144 FT8 2026-08-05 2042 G3WAG/P       +10 IO82             G7LRQ         +07 JO03
+QSO:   144 FT8 2026-08-05 2045 G3WAG/P       -17 IO82             MM0CEZ        -06 IO75
+QSO:   144 FT8 2026-08-05 2048 G3WAG/P       +16 IO82             EI8KN         -12 IO62
+QSO:   144 FT8 2026-08-05 2050 G3WAG/P       -13 IO82             G3YDY         -01 JO01
+QSO:   144 FT8 2026-08-05 2053 G3WAG/P       +05 IO82             G6DDX         -03 IO92
 END-OF-LOG:

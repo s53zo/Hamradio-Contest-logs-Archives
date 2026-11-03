@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220608&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=677; excluded rows=0.
-QSO:   432 DG 2022-06-08 1903 MM0ABM        -08 IO75             GM0HBK        +00 IO77
-QSO:   432 DG 2022-06-08 1908 MM0ABM        -06 IO75             GM8MJV        +00 IO85
-QSO:   432 DG 2022-06-08 1909 MM0ABM        -16 IO75             GD6ICR        -13 IO74
-QSO:   432 DG 2022-06-08 1916 MM0ABM        -18 IO75             G3ZPB         -19 IO91
-QSO:   432 DG 2022-06-08 1924 MM0ABM        -05 IO75             G3SED         -12 IO90
-QSO:   432 DG 2022-06-08 1926 MM0ABM        -13 IO75             2Q0IEI        -24 IO81
-QSO:   432 DG 2022-06-08 1930 MM0ABM        -18 IO75             GM4GUF        -19 IO85
-QSO:   432 DG 2022-06-08 1934 MM0ABM        -17 IO75             G8EEM         -11 IO93
-QSO:   432 DG 2022-06-08 1937 MM0ABM        -16 IO75             2E0DUE        -22 JO01
-QSO:   432 DG 2022-06-08 1943 MM0ABM        -10 IO75             GQ4NBS        -10 JO02
-QSO:   432 DG 2022-06-08 1946 MM0ABM        -19 IO75             G3YKI         -14 IO82
-QSO:   432 DG 2022-06-08 2004 MM0ABM        -14 IO75             G3YDY         -15 JO01
-QSO:   432 DG 2022-06-08 2008 MM0ABM        -17 IO75             GM0EWX        -17 IO67
-QSO:   432 DG 2022-06-08 2016 MM0ABM        -13 IO75             2Q0JPO        -06 IO91
-QSO:   432 DG 2022-06-08 2035 MM0ABM        -06 IO75             GI4SNA        -07 IO64
-QSO:   432 DG 2022-06-08 2038 MM0ABM        -18 IO75             M0AHN         -08 IO91
+QSO:   432 FT8 2022-06-08 1903 MM0ABM        -08 IO75             GM0HBK        +00 IO77
+QSO:   432 FT8 2022-06-08 1908 MM0ABM        -06 IO75             GM8MJV        +00 IO85
+QSO:   432 FT8 2022-06-08 1909 MM0ABM        -16 IO75             GD6ICR        -13 IO74
+QSO:   432 FT8 2022-06-08 1916 MM0ABM        -18 IO75             G3ZPB         -19 IO91
+QSO:   432 FT8 2022-06-08 1924 MM0ABM        -05 IO75             G3SED         -12 IO90
+QSO:   432 FT8 2022-06-08 1926 MM0ABM        -13 IO75             2Q0IEI        -24 IO81
+QSO:   432 FT8 2022-06-08 1930 MM0ABM        -18 IO75             GM4GUF        -19 IO85
+QSO:   432 FT8 2022-06-08 1934 MM0ABM        -17 IO75             G8EEM         -11 IO93
+QSO:   432 FT8 2022-06-08 1937 MM0ABM        -16 IO75             2E0DUE        -22 JO01
+QSO:   432 FT8 2022-06-08 1943 MM0ABM        -10 IO75             GQ4NBS        -10 JO02
+QSO:   432 FT8 2022-06-08 1946 MM0ABM        -19 IO75             G3YKI         -14 IO82
+QSO:   432 FT8 2022-06-08 2004 MM0ABM        -14 IO75             G3YDY         -15 JO01
+QSO:   432 FT8 2022-06-08 2008 MM0ABM        -17 IO75             GM0EWX        -17 IO67
+QSO:   432 FT8 2022-06-08 2016 MM0ABM        -13 IO75             2Q0JPO        -06 IO91
+QSO:   432 FT8 2022-06-08 2035 MM0ABM        -06 IO75             GI4SNA        -07 IO64
+QSO:   432 FT8 2022-06-08 2038 MM0ABM        -18 IO75             M0AHN         -08 IO91
 END-OF-LOG:

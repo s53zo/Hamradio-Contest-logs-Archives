@@ -10,34 +10,34 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260701&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=775; excluded rows=0.
-QSO:   144 DG 2026-07-01 1909 M1EYP/P       1 IO83               M1TZR         15 IO83
-QSO:   144 DG 2026-07-01 1910 M1EYP/P       21 IO83              G8LIY         2 IO83
-QSO:   144 DG 2026-07-01 1912 M1EYP/P       27 IO83              G8CZW         27 IO83
-QSO:   144 DG 2026-07-01 1914 M1EYP/P       26 IO83              GW4SHF        31 IO82
-QSO:   144 DG 2026-07-01 1915 M1EYP/P       6 IO83               M9DJN         -8 IO82
-QSO:   144 DG 2026-07-01 1919 M1EYP/P       18 IO83              G8EEM         10 IO93
-QSO:   144 DG 2026-07-01 1920 M1EYP/P       23 IO83              G6DDN         -6 IO93
-QSO:   144 DG 2026-07-01 1925 M1EYP/P       20 IO83              G4HGI         28 IO83
-QSO:   144 DG 2026-07-01 1926 M1EYP/P       -22 IO83             G4FLM         -24 IO94
-QSO:   144 DG 2026-07-01 1927 M1EYP/P       25 IO83              G7LRQ         10 JO03
-QSO:   144 DG 2026-07-01 1932 M1EYP/P       -8 IO83              G0XDI         1 IO91
-QSO:   144 DG 2026-07-01 1933 M1EYP/P       9 IO83               G4ZTR         -2 JO01
-QSO:   144 DG 2026-07-01 1934 M1EYP/P       4 IO83               G6HIE         0 JO00
-QSO:   144 DG 2026-07-01 1940 M1EYP/P       3 IO83               G8SEI         -4 IO92
-QSO:   144 DG 2026-07-01 1943 M1EYP/P       10 IO83              GM8MJV        4 IO85
-QSO:   144 DG 2026-07-01 1946 M1EYP/P       -5 IO83              G3WZK         -14 IO91
-QSO:   144 DG 2026-07-01 1949 M1EYP/P       13 IO83              F1NQP         -14 JN19
-QSO:   144 DG 2026-07-01 1958 M1EYP/P       12 IO83              G7WIR         -16 JO01
-QSO:   144 DG 2026-07-01 2007 M1EYP/P       6 IO83               G0JJG         -19 JO02
-QSO:   144 DG 2026-07-01 2013 M1EYP/P       -15 IO83             EI3ENB        0 IO62
-QSO:   144 DG 2026-07-01 2019 M1EYP/P       -24 IO83             EI4GNB        -10 IO63
-QSO:   144 DG 2026-07-01 2022 M1EYP/P       20 IO83              EI8KN         -13 IO62
-QSO:   144 DG 2026-07-01 2024 M1EYP/P       26 IO83              M1DYU         -13 IO83
-QSO:   144 DG 2026-07-01 2030 M1EYP/P       22 IO83              GI4SNA        -6 IO64
-QSO:   144 DG 2026-07-01 2046 M1EYP/P       10 IO83              G3YDY         -12 JO01
-QSO:   144 DG 2026-07-01 2051 M1EYP/P       15 IO83              G4NBS         -9 JO02
-QSO:   144 DG 2026-07-01 2057 M1EYP/P       7 IO83               G0BIX         -9 JO01
-QSO:   144 DG 2026-07-01 2058 M1EYP/P       3 IO83               G8IXK         -9 IO91
+QSO:   144 FT8 2026-07-01 1909 M1EYP/P       1 IO83               M1TZR         15 IO83
+QSO:   144 FT8 2026-07-01 1910 M1EYP/P       21 IO83              G8LIY         2 IO83
+QSO:   144 FT8 2026-07-01 1912 M1EYP/P       27 IO83              G8CZW         27 IO83
+QSO:   144 FT8 2026-07-01 1914 M1EYP/P       26 IO83              GW4SHF        31 IO82
+QSO:   144 FT8 2026-07-01 1915 M1EYP/P       6 IO83               M9DJN         -8 IO82
+QSO:   144 FT8 2026-07-01 1919 M1EYP/P       18 IO83              G8EEM         10 IO93
+QSO:   144 FT8 2026-07-01 1920 M1EYP/P       23 IO83              G6DDN         -6 IO93
+QSO:   144 FT8 2026-07-01 1925 M1EYP/P       20 IO83              G4HGI         28 IO83
+QSO:   144 FT8 2026-07-01 1926 M1EYP/P       -22 IO83             G4FLM         -24 IO94
+QSO:   144 FT8 2026-07-01 1927 M1EYP/P       25 IO83              G7LRQ         10 JO03
+QSO:   144 FT8 2026-07-01 1932 M1EYP/P       -8 IO83              G0XDI         1 IO91
+QSO:   144 FT8 2026-07-01 1933 M1EYP/P       9 IO83               G4ZTR         -2 JO01
+QSO:   144 FT8 2026-07-01 1934 M1EYP/P       4 IO83               G6HIE         0 JO00
+QSO:   144 FT8 2026-07-01 1940 M1EYP/P       3 IO83               G8SEI         -4 IO92
+QSO:   144 FT8 2026-07-01 1943 M1EYP/P       10 IO83              GM8MJV        4 IO85
+QSO:   144 FT8 2026-07-01 1946 M1EYP/P       -5 IO83              G3WZK         -14 IO91
+QSO:   144 FT8 2026-07-01 1949 M1EYP/P       13 IO83              F1NQP         -14 JN19
+QSO:   144 FT8 2026-07-01 1958 M1EYP/P       12 IO83              G7WIR         -16 JO01
+QSO:   144 FT8 2026-07-01 2007 M1EYP/P       6 IO83               G0JJG         -19 JO02
+QSO:   144 FT8 2026-07-01 2013 M1EYP/P       -15 IO83             EI3ENB        0 IO62
+QSO:   144 FT8 2026-07-01 2019 M1EYP/P       -24 IO83             EI4GNB        -10 IO63
+QSO:   144 FT8 2026-07-01 2022 M1EYP/P       20 IO83              EI8KN         -13 IO62
+QSO:   144 FT8 2026-07-01 2024 M1EYP/P       26 IO83              M1DYU         -13 IO83
+QSO:   144 FT8 2026-07-01 2030 M1EYP/P       22 IO83              GI4SNA        -6 IO64
+QSO:   144 FT8 2026-07-01 2046 M1EYP/P       10 IO83              G3YDY         -12 JO01
+QSO:   144 FT8 2026-07-01 2051 M1EYP/P       15 IO83              G4NBS         -9 JO02
+QSO:   144 FT8 2026-07-01 2057 M1EYP/P       7 IO83               G0BIX         -9 JO01
+QSO:   144 FT8 2026-07-01 2058 M1EYP/P       3 IO83               G8IXK         -9 IO91
 END-OF-LOG:

@@ -2,7 +2,7 @@ START-OF-LOG: 3.0
 CREATED-BY: RSGB-public-qso-downloader
 CONTEST: RSGB-RSGB-FT4-CONTEST
 CALLSIGN: DL7VTW
-CATEGORY-MODE: RTTY
+CATEGORY-MODE: DIGI
 CATEGORY-BAND: ALL
 CATEGORY-POWER: LOW
 CATEGORY: Non-UK 100W RESTRICTED
@@ -10,71 +10,72 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260615&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=8047; excluded rows=0.
-QSO:  7000 RY 2026-06-15 1900 DL7VTW        +04 -                G7M           +06 -
-QSO:  7000 RY 2026-06-15 1901 DL7VTW        +03 -                DK2OY         +13 -
-QSO:  7000 RY 2026-06-15 1902 DL7VTW        +03 -                IN3OWY        +06 -
-QSO:  7000 RY 2026-06-15 1903 DL7VTW        +01 -                IT9VCE        -05 -
-QSO:  7000 RY 2026-06-15 1906 DL7VTW        -07 -                G3SWC         -06 -
-QSO:  7000 RY 2026-06-15 1906 DL7VTW        -05 -                SP9ZR         -01 -
-QSO:  7000 RY 2026-06-15 1907 DL7VTW        -14 -                F4JQH         +02 -
-QSO:  7000 RY 2026-06-15 1909 DL7VTW        -11 -                PC1TG         +05 -
-QSO:  7000 RY 2026-06-15 1910 DL7VTW        +08 -                SE6K          +18 -
-QSO:  7000 RY 2026-06-15 1911 DL7VTW        +11 -                DA1ST         +16 -
-QSO:  7000 RY 2026-06-15 1913 DL7VTW        -13 -                OE7LVI        -07 -
-QSO: 14000 RY 2026-06-15 1915 DL7VTW        -03 -                MW0MAU        -07 -
-QSO: 14000 RY 2026-06-15 1916 DL7VTW        +00 -                OK2USM        -02 -
-QSO: 14000 RY 2026-06-15 1917 DL7VTW        -04 -                G5KTX         +14 -
-QSO: 14000 RY 2026-06-15 1919 DL7VTW        -08 -                IK8IFV        -13 -
-QSO: 14000 RY 2026-06-15 1923 DL7VTW        -17 -                VA3TIC        -07 -
-QSO: 14000 RY 2026-06-15 1923 DL7VTW        +07 -                CT7AUT        +00 -
-QSO: 14000 RY 2026-06-15 1924 DL7VTW        +03 -                G4BRK         -02 -
-QSO: 14000 RY 2026-06-15 1928 DL7VTW        -06 -                LX1RFJ        -08 -
-QSO: 14000 RY 2026-06-15 1929 DL7VTW        +00 -                IR0RCAG       +07 -
-QSO: 14000 RY 2026-06-15 1931 DL7VTW        -13 -                ON7PM         -02 -
-QSO: 14000 RY 2026-06-15 1942 DL7VTW        +02 -                HA9MDP        +10 -
-QSO: 14000 RY 2026-06-15 1945 DL7VTW        +11 -                TM150BEL      +08 -
-QSO: 14000 RY 2026-06-15 1947 DL7VTW        -04 -                OT8P          -07 -
-QSO: 14000 RY 2026-06-15 1949 DL7VTW        +00 -                IQ5AAR        +04 -
-QSO: 14000 RY 2026-06-15 1951 DL7VTW        -03 -                SV5AZK        +03 -
-QSO: 14000 RY 2026-06-15 1953 DL7VTW        -08 -                RD5Q          -11 -
-QSO: 14000 RY 2026-06-15 1955 DL7VTW        +03 -                GM4VYQ        -05 -
-QSO: 14000 RY 2026-06-15 1956 DL7VTW        -15 -                OS4K          +00 -
-QSO: 14000 RY 2026-06-15 1956 DL7VTW        -07 -                BD4VOJ        -13 -
-QSO: 14000 RY 2026-06-15 1959 DL7VTW        -11 -                C31KC         -13 -
-QSO: 14000 RY 2026-06-15 2000 DL7VTW        +03 -                G4DBW         +11 -
-QSO: 14000 RY 2026-06-15 2002 DL7VTW        -12 -                IQ0OS         -07 -
-QSO: 14000 RY 2026-06-15 2004 DL7VTW        -13 -                VE2BJG        -09 -
-QSO: 14000 RY 2026-06-15 2005 DL7VTW        +01 -                IT9VCE        -01 -
-QSO: 14000 RY 2026-06-15 2006 DL7VTW        -07 -                M8KKH         +11 -
-QSO: 14000 RY 2026-06-15 2008 DL7VTW        -01 -                IQ7KM         -02 -
-QSO:  7000 RY 2026-06-15 2011 DL7VTW        -03 -                DL5LS         +05 -
-QSO:  7000 RY 2026-06-15 2013 DL7VTW        -08 -                EI5HV         -09 -
-QSO:  7000 RY 2026-06-15 2014 DL7VTW        +03 -                DK1XAM        +21 -
-QSO:  7000 RY 2026-06-15 2015 DL7VTW        +00 -                PE1AVG        +08 -
-QSO:  7000 RY 2026-06-15 2015 DL7VTW        -11 -                GU7DAI        -12 -
-QSO:  7000 RY 2026-06-15 2017 DL7VTW        +05 -                SQ2BXI        +12 -
-QSO:  7000 RY 2026-06-15 2018 DL7VTW        -01 -                5A1AL         -15 -
-QSO:  7000 RY 2026-06-15 2021 DL7VTW        -03 -                IQ3UCY        +00 -
-QSO:  7000 RY 2026-06-15 2025 DL7VTW        +05 -                DB2GM         +09 -
-QSO:  7000 RY 2026-06-15 2025 DL7VTW        +03 -                PA3EOZ        -02 -
-QSO:  7000 RY 2026-06-15 2026 DL7VTW        +02 -                ON7VZ         +09 -
-QSO:  7000 RY 2026-06-15 2027 DL7VTW        +16 -                DF8QB         +01 -
-QSO:  7000 RY 2026-06-15 2028 DL7VTW        -08 -                G7NJX         -11 -
-QSO:  7000 RY 2026-06-15 2030 DL7VTW        +06 -                DL4ME         +11 -
-QSO:  7000 RY 2026-06-15 2030 DL7VTW        +00 -                IR2RAOR       +10 -
-QSO:  7000 RY 2026-06-15 2033 DL7VTW        +02 -                9A3AUH        +07 -
-QSO:  7000 RY 2026-06-15 2035 DL7VTW        -07 -                ON6SAT        +07 -
-QSO:  7000 RY 2026-06-15 2037 DL7VTW        +04 -                GW4JBQ        +02 -
-QSO:  7000 RY 2026-06-15 2042 DL7VTW        -05 -                IV3DXW        -04 -
-QSO:  7000 RY 2026-06-15 2044 DL7VTW        -14 -                M8DEF         -08 -
-QSO:  7000 RY 2026-06-15 2044 DL7VTW        +04 -                DH4BM         +06 -
-QSO:  7000 RY 2026-06-15 2047 DL7VTW        +07 -                OZ5AGJ        +07 -
-QSO:  7000 RY 2026-06-15 2048 DL7VTW        -05 -                UX2QX         -08 -
-QSO:  7000 RY 2026-06-15 2050 DL7VTW        -01 -                IQ4LH         +02 -
-QSO:  7000 RY 2026-06-15 2053 DL7VTW        -02 -                PI4APD        +06 -
-QSO:  7000 RY 2026-06-15 2054 DL7VTW        -03 -                IW3FVQ        +05 -
-QSO:  7000 RY 2026-06-15 2055 DL7VTW        -06 -                SQ6PLE        -04 -
-QSO:  7000 RY 2026-06-15 2058 DL7VTW        +05 -                DJ8EW         +00 -
-QSO:  7000 RY 2026-06-15 2100 DL7VTW        -06 -                CT4VB         -12 -
+QSO:  7000 FT4 2026-06-15 1900 DL7VTW        +04 -                G7M           +06 -
+QSO:  7000 FT4 2026-06-15 1901 DL7VTW        +03 -                DK2OY         +13 -
+QSO:  7000 FT4 2026-06-15 1902 DL7VTW        +03 -                IN3OWY        +06 -
+QSO:  7000 FT4 2026-06-15 1903 DL7VTW        +01 -                IT9VCE        -05 -
+QSO:  7000 FT4 2026-06-15 1906 DL7VTW        -07 -                G3SWC         -06 -
+QSO:  7000 FT4 2026-06-15 1906 DL7VTW        -05 -                SP9ZR         -01 -
+QSO:  7000 FT4 2026-06-15 1907 DL7VTW        -14 -                F4JQH         +02 -
+QSO:  7000 FT4 2026-06-15 1909 DL7VTW        -11 -                PC1TG         +05 -
+QSO:  7000 FT4 2026-06-15 1910 DL7VTW        +08 -                SE6K          +18 -
+QSO:  7000 FT4 2026-06-15 1911 DL7VTW        +11 -                DA1ST         +16 -
+QSO:  7000 FT4 2026-06-15 1913 DL7VTW        -13 -                OE7LVI        -07 -
+QSO: 14000 FT4 2026-06-15 1915 DL7VTW        -03 -                MW0MAU        -07 -
+QSO: 14000 FT4 2026-06-15 1916 DL7VTW        +00 -                OK2USM        -02 -
+QSO: 14000 FT4 2026-06-15 1917 DL7VTW        -04 -                G5KTX         +14 -
+QSO: 14000 FT4 2026-06-15 1919 DL7VTW        -08 -                IK8IFV        -13 -
+QSO: 14000 FT4 2026-06-15 1923 DL7VTW        -17 -                VA3TIC        -07 -
+QSO: 14000 FT4 2026-06-15 1923 DL7VTW        +07 -                CT7AUT        +00 -
+QSO: 14000 FT4 2026-06-15 1924 DL7VTW        +03 -                G4BRK         -02 -
+QSO: 14000 FT4 2026-06-15 1928 DL7VTW        -06 -                LX1RFJ        -08 -
+QSO: 14000 FT4 2026-06-15 1929 DL7VTW        +00 -                IR0RCAG       +07 -
+QSO: 14000 FT4 2026-06-15 1931 DL7VTW        -13 -                ON7PM         -02 -
+QSO: 14000 FT4 2026-06-15 1942 DL7VTW        +02 -                HA9MDP        +10 -
+QSO: 14000 FT4 2026-06-15 1945 DL7VTW        +11 -                TM150BEL      +08 -
+QSO: 14000 FT4 2026-06-15 1947 DL7VTW        -04 -                OT8P          -07 -
+QSO: 14000 FT4 2026-06-15 1949 DL7VTW        +00 -                IQ5AAR        +04 -
+QSO: 14000 FT4 2026-06-15 1951 DL7VTW        -03 -                SV5AZK        +03 -
+QSO: 14000 FT4 2026-06-15 1953 DL7VTW        -08 -                RD5Q          -11 -
+QSO: 14000 FT4 2026-06-15 1955 DL7VTW        +03 -                GM4VYQ        -05 -
+QSO: 14000 FT4 2026-06-15 1956 DL7VTW        -15 -                OS4K          +00 -
+QSO: 14000 FT4 2026-06-15 1956 DL7VTW        -07 -                BD4VOJ        -13 -
+QSO: 14000 FT4 2026-06-15 1959 DL7VTW        -11 -                C31KC         -13 -
+QSO: 14000 FT4 2026-06-15 2000 DL7VTW        +03 -                G4DBW         +11 -
+QSO: 14000 FT4 2026-06-15 2002 DL7VTW        -12 -                IQ0OS         -07 -
+QSO: 14000 FT4 2026-06-15 2004 DL7VTW        -13 -                VE2BJG        -09 -
+QSO: 14000 FT4 2026-06-15 2005 DL7VTW        +01 -                IT9VCE        -01 -
+QSO: 14000 FT4 2026-06-15 2006 DL7VTW        -07 -                M8KKH         +11 -
+QSO: 14000 FT4 2026-06-15 2008 DL7VTW        -01 -                IQ7KM         -02 -
+QSO:  7000 FT4 2026-06-15 2011 DL7VTW        -03 -                DL5LS         +05 -
+QSO:  7000 FT4 2026-06-15 2013 DL7VTW        -08 -                EI5HV         -09 -
+QSO:  7000 FT4 2026-06-15 2014 DL7VTW        +03 -                DK1XAM        +21 -
+QSO:  7000 FT4 2026-06-15 2015 DL7VTW        +00 -                PE1AVG        +08 -
+QSO:  7000 FT4 2026-06-15 2015 DL7VTW        -11 -                GU7DAI        -12 -
+QSO:  7000 FT4 2026-06-15 2017 DL7VTW        +05 -                SQ2BXI        +12 -
+QSO:  7000 FT4 2026-06-15 2018 DL7VTW        -01 -                5A1AL         -15 -
+QSO:  7000 FT4 2026-06-15 2021 DL7VTW        -03 -                IQ3UCY        +00 -
+QSO:  7000 FT4 2026-06-15 2025 DL7VTW        +05 -                DB2GM         +09 -
+QSO:  7000 FT4 2026-06-15 2025 DL7VTW        +03 -                PA3EOZ        -02 -
+QSO:  7000 FT4 2026-06-15 2026 DL7VTW        +02 -                ON7VZ         +09 -
+QSO:  7000 FT4 2026-06-15 2027 DL7VTW        +16 -                DF8QB         +01 -
+QSO:  7000 FT4 2026-06-15 2028 DL7VTW        -08 -                G7NJX         -11 -
+QSO:  7000 FT4 2026-06-15 2030 DL7VTW        +06 -                DL4ME         +11 -
+QSO:  7000 FT4 2026-06-15 2030 DL7VTW        +00 -                IR2RAOR       +10 -
+QSO:  7000 FT4 2026-06-15 2033 DL7VTW        +02 -                9A3AUH        +07 -
+QSO:  7000 FT4 2026-06-15 2035 DL7VTW        -07 -                ON6SAT        +07 -
+QSO:  7000 FT4 2026-06-15 2037 DL7VTW        +04 -                GW4JBQ        +02 -
+QSO:  7000 FT4 2026-06-15 2042 DL7VTW        -05 -                IV3DXW        -04 -
+QSO:  7000 FT4 2026-06-15 2044 DL7VTW        -14 -                M8DEF         -08 -
+QSO:  7000 FT4 2026-06-15 2044 DL7VTW        +04 -                DH4BM         +06 -
+QSO:  7000 FT4 2026-06-15 2047 DL7VTW        +07 -                OZ5AGJ        +07 -
+QSO:  7000 FT4 2026-06-15 2048 DL7VTW        -05 -                UX2QX         -08 -
+QSO:  7000 FT4 2026-06-15 2050 DL7VTW        -01 -                IQ4LH         +02 -
+QSO:  7000 FT4 2026-06-15 2053 DL7VTW        -02 -                PI4APD        +06 -
+QSO:  7000 FT4 2026-06-15 2054 DL7VTW        -03 -                IW3FVQ        +05 -
+QSO:  7000 FT4 2026-06-15 2055 DL7VTW        -06 -                SQ6PLE        -04 -
+QSO:  7000 FT4 2026-06-15 2058 DL7VTW        +05 -                DJ8EW         +00 -
+QSO:  7000 FT4 2026-06-15 2100 DL7VTW        -06 -                CT4VB         -12 -
 END-OF-LOG:

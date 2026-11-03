@@ -10,26 +10,26 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1303; excluded rows=0.
-QSO:   144 DG 2022-03-02 1901 M1CFK         -20 IO92             GB0SD         -10 IO92
-QSO:   144 DG 2022-03-02 1912 M1CFK         -24 IO92             G7RHF         -12 IO82
-QSO:   144 DG 2022-03-02 1914 M1CFK         +02 IO92             M7EMH         +11 IO81
-QSO:   144 DG 2022-03-02 1916 M1CFK         +20 IO92             G4VPD         +18 IO92
-QSO:   144 DG 2022-03-02 1917 M1CFK         -19 IO92             G4HGV         +00 IO91
-QSO:   144 DG 2022-03-02 1919 M1CFK         -06 IO92             G0FEH         -07 IO92
-QSO:   144 DG 2022-03-02 1920 M1CFK         -07 IO92             G3YKI         -10 IO82
-QSO:   144 DG 2022-03-02 1924 M1CFK         -15 IO92             M0HKV         -21 IO81
-QSO:   144 DG 2022-03-02 1941 M1CFK         +22 IO92             G3WAG/P       +30 IO82
-QSO:   144 DG 2022-03-02 1947 M1CFK         +03 IO92             M7REV         -14 IO82
-QSO:   144 DG 2022-03-02 1952 M1CFK         +11 IO92             G0GFC         +02 IO92
-QSO:   144 DG 2022-03-02 1957 M1CFK         -18 IO92             M1EYP/P       -08 IO83
-QSO:   144 DG 2022-03-02 2010 M1CFK         +26 IO92             G0RMG         +25 IO92
-QSO:   144 DG 2022-03-02 2011 M1CFK         +25 IO92             G0ORE         +15 IO92
-QSO:   144 DG 2022-03-02 2014 M1CFK         +25 IO92             GI6ATZ        -04 IO74
-QSO:   144 DG 2022-03-02 2029 M1CFK         -19 IO92             G8YPE         -09 IO92
-QSO:   144 DG 2022-03-02 2030 M1CFK         +25 IO92             G1RAG         +14 IO92
-QSO:   144 DG 2022-03-02 2033 M1CFK         -17 IO92             G8GNI         -11 IO91
-QSO:   144 DG 2022-03-02 2039 M1CFK         -19 IO92             G7RHF         -11 IO82
-QSO:   144 DG 2022-03-02 2055 M1CFK         -03 IO92             G3XBY         +02 IO92
+QSO:   144 FT8 2022-03-02 1901 M1CFK         -20 IO92             GB0SD         -10 IO92
+QSO:   144 FT8 2022-03-02 1912 M1CFK         -24 IO92             G7RHF         -12 IO82
+QSO:   144 FT8 2022-03-02 1914 M1CFK         +02 IO92             M7EMH         +11 IO81
+QSO:   144 FT8 2022-03-02 1916 M1CFK         +20 IO92             G4VPD         +18 IO92
+QSO:   144 FT8 2022-03-02 1917 M1CFK         -19 IO92             G4HGV         +00 IO91
+QSO:   144 FT8 2022-03-02 1919 M1CFK         -06 IO92             G0FEH         -07 IO92
+QSO:   144 FT8 2022-03-02 1920 M1CFK         -07 IO92             G3YKI         -10 IO82
+QSO:   144 FT8 2022-03-02 1924 M1CFK         -15 IO92             M0HKV         -21 IO81
+QSO:   144 FT8 2022-03-02 1941 M1CFK         +22 IO92             G3WAG/P       +30 IO82
+QSO:   144 FT8 2022-03-02 1947 M1CFK         +03 IO92             M7REV         -14 IO82
+QSO:   144 FT8 2022-03-02 1952 M1CFK         +11 IO92             G0GFC         +02 IO92
+QSO:   144 FT8 2022-03-02 1957 M1CFK         -18 IO92             M1EYP/P       -08 IO83
+QSO:   144 FT8 2022-03-02 2010 M1CFK         +26 IO92             G0RMG         +25 IO92
+QSO:   144 FT8 2022-03-02 2011 M1CFK         +25 IO92             G0ORE         +15 IO92
+QSO:   144 FT8 2022-03-02 2014 M1CFK         +25 IO92             GI6ATZ        -04 IO74
+QSO:   144 FT8 2022-03-02 2029 M1CFK         -19 IO92             G8YPE         -09 IO92
+QSO:   144 FT8 2022-03-02 2030 M1CFK         +25 IO92             G1RAG         +14 IO92
+QSO:   144 FT8 2022-03-02 2033 M1CFK         -17 IO92             G8GNI         -11 IO91
+QSO:   144 FT8 2022-03-02 2039 M1CFK         -19 IO92             G7RHF         -11 IO82
+QSO:   144 FT8 2022-03-02 2055 M1CFK         -03 IO92             G3XBY         +02 IO92
 END-OF-LOG:

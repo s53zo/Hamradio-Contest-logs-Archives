@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220608&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=677; excluded rows=0.
-QSO:   432 DG 2022-06-08 1901 G3WZK         +17 IO91             MQ0XTY        +06 JO01
-QSO:   432 DG 2022-06-08 1905 G3WZK         -18 IO91             M0AHN         -09 IO91
-QSO:   432 DG 2022-06-08 1909 G3WZK         +03 IO91             G0BIX         -12 JO01
-QSO:   432 DG 2022-06-08 1912 G3WZK         +17 IO91             GQ7WIR        +02 JO01
-QSO:   432 DG 2022-06-08 1929 G3WZK         +24 IO91             G0XDI         +21 IO91
-QSO:   432 DG 2022-06-08 1935 G3WZK         +27 IO91             G3ZPB         +02 IO91
-QSO:   432 DG 2022-06-08 1937 G3WZK         -07 IO91             G7LRQ         -02 IO91
-QSO:   432 DG 2022-06-08 1947 G3WZK         -07 IO91             G0BSX         -13 IO93
-QSO:   432 DG 2022-06-08 1954 G3WZK         -09 IO91             2Q0JPO        +08 IO91
-QSO:   432 DG 2022-06-08 2013 G3WZK         -16 IO91             G4FFY         -22 JO01
-QSO:   432 DG 2022-06-08 2043 G3WZK         -10 IO91             G3YDY         -10 JO01
+QSO:   432 FT8 2022-06-08 1901 G3WZK         +17 IO91             MQ0XTY        +06 JO01
+QSO:   432 FT8 2022-06-08 1905 G3WZK         -18 IO91             M0AHN         -09 IO91
+QSO:   432 FT8 2022-06-08 1909 G3WZK         +03 IO91             G0BIX         -12 JO01
+QSO:   432 FT8 2022-06-08 1912 G3WZK         +17 IO91             GQ7WIR        +02 JO01
+QSO:   432 FT8 2022-06-08 1929 G3WZK         +24 IO91             G0XDI         +21 IO91
+QSO:   432 FT8 2022-06-08 1935 G3WZK         +27 IO91             G3ZPB         +02 IO91
+QSO:   432 FT8 2022-06-08 1937 G3WZK         -07 IO91             G7LRQ         -02 IO91
+QSO:   432 FT8 2022-06-08 1947 G3WZK         -07 IO91             G0BSX         -13 IO93
+QSO:   432 FT8 2022-06-08 1954 G3WZK         -09 IO91             2Q0JPO        +08 IO91
+QSO:   432 FT8 2022-06-08 2013 G3WZK         -16 IO91             G4FFY         -22 JO01
+QSO:   432 FT8 2022-06-08 2043 G3WZK         -10 IO91             G3YDY         -10 JO01
 END-OF-LOG:

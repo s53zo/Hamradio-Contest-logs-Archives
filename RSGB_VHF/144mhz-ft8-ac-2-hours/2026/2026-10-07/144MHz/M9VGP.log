@@ -10,32 +10,32 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=261007&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=751; excluded rows=0.
-QSO:   144 DG 2026-10-07 1902 M9VGP         -12 IO91             G0XDI         -16 IO91
-QSO:   144 DG 2026-10-07 1909 M9VGP         -08 IO91             M5BFL         -11 JO02
-QSO:   144 DG 2026-10-07 1913 M9VGP         -06 IO91             2E0MRK        -06 IO91
-QSO:   144 DG 2026-10-07 1915 M9VGP         +02 IO91             PA3EWP        -19 JO21
-QSO:   144 DG 2026-10-07 1925 M9VGP         +12 IO91             G0JJG         -13 JO02ME
-QSO:   144 DG 2026-10-07 1927 M9VGP         -12 IO91             G3YDY         -22 JO01FQ
-QSO:   144 DG 2026-10-07 1935 M9VGP         +07 IO91             G4TVR         +04 IO92
-QSO:   144 DG 2026-10-07 1938 M9VGP         -15 IO91             G5USH         -11 IO93
-QSO:   144 DG 2026-10-07 1941 M9VGP         +00 IO91             G0ORE         -03 IO92AG
-QSO:   144 DG 2026-10-07 1946 M9VGP         -01 IO91             G0KOI         -08 IO92
-QSO:   144 DG 2026-10-07 1951 M9VGP         +00 IO91             G0GJV         -01 IO91
-QSO:   144 DG 2026-10-07 1953 M9VGP         +03 IO91             F1NQP         -08 JN19GL
-QSO:   144 DG 2026-10-07 1955 M9VGP         +15 IO91             GW7SMV        +06 IO81LO
-QSO:   144 DG 2026-10-07 1958 M9VGP         -07 IO91             M1EYP/P       -10 IO83
-QSO:   144 DG 2026-10-07 2004 M9VGP         +08 IO91             G4ZTR         -07 JO01KW
-QSO:   144 DG 2026-10-07 2007 M9VGP         +07 IO91             G4NBS         -02 JO02AF
-QSO:   144 DG 2026-10-07 2014 M9VGP         -13 IO91             G0RAS         -09 IO91
-QSO:   144 DG 2026-10-07 2016 M9VGP         -08 IO91             EI3KD         -16 IO51VW
-QSO:   144 DG 2026-10-07 2018 M9VGP         -10 IO91             G7LRQ         -17 JO03
-QSO:   144 DG 2026-10-07 2021 M9VGP         -08 IO91             G7COU         -15 IO93ON
-QSO:   144 DG 2026-10-07 2022 M9VGP         +02 IO91             G8SEI         -14 IO92
-QSO:   144 DG 2026-10-07 2025 M9VGP         -11 IO91             G7ABT         -22 IO93OM
-QSO:   144 DG 2026-10-07 2038 M9VGP         -08 IO91             G7WIR         -25 JO01BJ
-QSO:   144 DG 2026-10-07 2045 M9VGP         -02 IO91             M0SKT         -22 IO92
-QSO:   144 DG 2026-10-07 2048 M9VGP         -02 IO91             M0MHX         -24 JO01CN
-QSO:   144 DG 2026-10-07 2057 M9VGP         -13 IO91             M7MFS         -14 IO80
+QSO:   144 FT8 2026-10-07 1902 M9VGP         -12 IO91             G0XDI         -16 IO91
+QSO:   144 FT8 2026-10-07 1909 M9VGP         -08 IO91             M5BFL         -11 JO02
+QSO:   144 FT8 2026-10-07 1913 M9VGP         -06 IO91             2E0MRK        -06 IO91
+QSO:   144 FT8 2026-10-07 1915 M9VGP         +02 IO91             PA3EWP        -19 JO21
+QSO:   144 FT8 2026-10-07 1925 M9VGP         +12 IO91             G0JJG         -13 JO02ME
+QSO:   144 FT8 2026-10-07 1927 M9VGP         -12 IO91             G3YDY         -22 JO01FQ
+QSO:   144 FT8 2026-10-07 1935 M9VGP         +07 IO91             G4TVR         +04 IO92
+QSO:   144 FT8 2026-10-07 1938 M9VGP         -15 IO91             G5USH         -11 IO93
+QSO:   144 FT8 2026-10-07 1941 M9VGP         +00 IO91             G0ORE         -03 IO92AG
+QSO:   144 FT8 2026-10-07 1946 M9VGP         -01 IO91             G0KOI         -08 IO92
+QSO:   144 FT8 2026-10-07 1951 M9VGP         +00 IO91             G0GJV         -01 IO91
+QSO:   144 FT8 2026-10-07 1953 M9VGP         +03 IO91             F1NQP         -08 JN19GL
+QSO:   144 FT8 2026-10-07 1955 M9VGP         +15 IO91             GW7SMV        +06 IO81LO
+QSO:   144 FT8 2026-10-07 1958 M9VGP         -07 IO91             M1EYP/P       -10 IO83
+QSO:   144 FT8 2026-10-07 2004 M9VGP         +08 IO91             G4ZTR         -07 JO01KW
+QSO:   144 FT8 2026-10-07 2007 M9VGP         +07 IO91             G4NBS         -02 JO02AF
+QSO:   144 FT8 2026-10-07 2014 M9VGP         -13 IO91             G0RAS         -09 IO91
+QSO:   144 FT8 2026-10-07 2016 M9VGP         -08 IO91             EI3KD         -16 IO51VW
+QSO:   144 FT8 2026-10-07 2018 M9VGP         -10 IO91             G7LRQ         -17 JO03
+QSO:   144 FT8 2026-10-07 2021 M9VGP         -08 IO91             G7COU         -15 IO93ON
+QSO:   144 FT8 2026-10-07 2022 M9VGP         +02 IO91             G8SEI         -14 IO92
+QSO:   144 FT8 2026-10-07 2025 M9VGP         -11 IO91             G7ABT         -22 IO93OM
+QSO:   144 FT8 2026-10-07 2038 M9VGP         -08 IO91             G7WIR         -25 JO01BJ
+QSO:   144 FT8 2026-10-07 2045 M9VGP         -02 IO91             M0SKT         -22 IO92
+QSO:   144 FT8 2026-10-07 2048 M9VGP         -02 IO91             M0MHX         -24 JO01CN
+QSO:   144 FT8 2026-10-07 2057 M9VGP         -13 IO91             M7MFS         -14 IO80
 END-OF-LOG:

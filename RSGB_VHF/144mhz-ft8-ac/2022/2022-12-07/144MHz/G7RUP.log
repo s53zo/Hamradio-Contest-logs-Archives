@@ -10,16 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=221207&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1030; excluded rows=0.
-QSO:   144 DG 2022-12-07 1902 G7RUP         +16 IO93             G4PDF         +02 IO93
-QSO:   144 DG 2022-12-07 1914 G7RUP         +00 IO93             2E0VOE        -09 IO93
-QSO:   144 DG 2022-12-07 1922 G7RUP         +02 IO93             M6UKZ         -09 IO82
-QSO:   144 DG 2022-12-07 1934 G7RUP         -17 IO93             G8GXP         -22 IO93
-QSO:   144 DG 2022-12-07 1942 G7RUP         -11 IO93             G7COU         -18 IO93
-QSO:   144 DG 2022-12-07 2000 G7RUP         +15 IO93             G0BSX         -01 IO93
-QSO:   144 DG 2022-12-07 2002 G7RUP         -15 IO93             G0CNN         -19 IO94
-QSO:   144 DG 2022-12-07 2030 G7RUP         -06 IO93             G0DJA         -17 IO93
-QSO:   144 DG 2022-12-07 2035 G7RUP         -03 IO93             G4ISN         -09 IO92
-QSO:   144 DG 2022-12-07 2038 G7RUP         -05 IO93             M0XLH         -06 IO93
+QSO:   144 FT8 2022-12-07 1902 G7RUP         +16 IO93             G4PDF         +02 IO93
+QSO:   144 FT8 2022-12-07 1914 G7RUP         +00 IO93             2E0VOE        -09 IO93
+QSO:   144 FT8 2022-12-07 1922 G7RUP         +02 IO93             M6UKZ         -09 IO82
+QSO:   144 FT8 2022-12-07 1934 G7RUP         -17 IO93             G8GXP         -22 IO93
+QSO:   144 FT8 2022-12-07 1942 G7RUP         -11 IO93             G7COU         -18 IO93
+QSO:   144 FT8 2022-12-07 2000 G7RUP         +15 IO93             G0BSX         -01 IO93
+QSO:   144 FT8 2022-12-07 2002 G7RUP         -15 IO93             G0CNN         -19 IO94
+QSO:   144 FT8 2022-12-07 2030 G7RUP         -06 IO93             G0DJA         -17 IO93
+QSO:   144 FT8 2022-12-07 2035 G7RUP         -03 IO93             G4ISN         -09 IO92
+QSO:   144 FT8 2022-12-07 2038 G7RUP         -05 IO93             M0XLH         -06 IO93
 END-OF-LOG:

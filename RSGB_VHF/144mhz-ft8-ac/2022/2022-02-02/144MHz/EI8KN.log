@@ -10,44 +10,44 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1902 EI8KN         -13 IO62             G0MOH         -03 IO70
-QSO:   144 DG 2022-02-02 1904 EI8KN         -18 IO62             F6HTJ         -09 JN12
-QSO:   144 DG 2022-02-02 1906 EI8KN         -06 IO62             F1NZC         -06 JN15
-QSO:   144 DG 2022-02-02 1908 EI8KN         +10 IO62             F6DBI         +00 IN88
-QSO:   144 DG 2022-02-02 1913 EI8KN         -19 IO62             G0MOH         -04 IO70
-QSO:   144 DG 2022-02-02 1915 EI8KN         -06 IO62             G0BIX         -20 JO01
-QSO:   144 DG 2022-02-02 1916 EI8KN         -16 IO62             G8XYJ         -18 IO82
-QSO:   144 DG 2022-02-02 1919 EI8KN         -03 IO62             F6BYJ         +00 JN05
-QSO:   144 DG 2022-02-02 1922 EI8KN         +00 IO62             2E0IEI        -03 IO81
-QSO:   144 DG 2022-02-02 1924 EI8KN         -08 IO62             GD0TEP        -12 IO74
-QSO:   144 DG 2022-02-02 1927 EI8KN         -19 IO62             GM8MJV        -21 IO85
-QSO:   144 DG 2022-02-02 1929 EI8KN         +12 IO62             GI6ATZ        +08 IO74
-QSO:   144 DG 2022-02-02 1932 EI8KN         -02 IO62             G3YKI         -06 IO82
-QSO:   144 DG 2022-02-02 1936 EI8KN         -12 IO62             M0IEP         -10 IO91
-QSO:   144 DG 2022-02-02 1937 EI8KN         +12 IO62             GW0KZG        +15 IO71
-QSO:   144 DG 2022-02-02 1942 EI8KN         +09 IO62             G0LGS         +01 IO81
-QSO:   144 DG 2022-02-02 1942 EI8KN         +03 IO62             G3SED         -15 IO90
-QSO:   144 DG 2022-02-02 1944 EI8KN         -02 IO62             G4NBS         -02 JO02
-QSO:   144 DG 2022-02-02 1953 EI8KN         -13 IO62             PA5Y          -15 JO21
-QSO:   144 DG 2022-02-02 2000 EI8KN         -15 IO62             EA1HRR        -12 IN83
-QSO:   144 DG 2022-02-02 2002 EI8KN         +08 IO62             EA2XR         -04 IN83
-QSO:   144 DG 2022-02-02 2004 EI8KN         -12 IO62             G4PEM         +23 IO70
-QSO:   144 DG 2022-02-02 2013 EI8KN         -10 IO62             G3YDY         -13 JO01
-QSO:   144 DG 2022-02-02 2014 EI8KN         -03 IO62             G3XBY         -10 IO92
-QSO:   144 DG 2022-02-02 2019 EI8KN         -04 IO62             G4VPD         -05 IO92
-QSO:   144 DG 2022-02-02 2023 EI8KN         -07 IO62             G7WIR         -13 JO01
-QSO:   144 DG 2022-02-02 2025 EI8KN         +05 IO62             M0FXX         +01 IO91
-QSO:   144 DG 2022-02-02 2028 EI8KN         -08 IO62             F4FRG         -08 IN98
-QSO:   144 DG 2022-02-02 2033 EI8KN         -14 IO62             G4OED         -12 IO91
-QSO:   144 DG 2022-02-02 2038 EI8KN         +06 IO62             G7LRQ         -13 IO91
-QSO:   144 DG 2022-02-02 2041 EI8KN         +10 IO62             G0JCC         -14 IO82
-QSO:   144 DG 2022-02-02 2043 EI8KN         -13 IO62             2E0YRT        -03 IO82
-QSO:   144 DG 2022-02-02 2045 EI8KN         -17 IO62             G7RDX         -16 IO91
-QSO:   144 DG 2022-02-02 2049 EI8KN         +05 IO62             G0XDI         -08 IO91
-QSO:   144 DG 2022-02-02 2052 EI8KN         -09 IO62             G8EEM         -15 IO93
-QSO:   144 DG 2022-02-02 2054 EI8KN         +00 IO62             G8AOE/P       +11 IO94
-QSO:   144 DG 2022-02-02 2054 EI8KN         +00 IO62             M1AEC         -20 IO82
-QSO:   144 DG 2022-02-02 2059 EI8KN         -13 IO62             G0JJG         -14 JO02
+QSO:   144 FT8 2022-02-02 1902 EI8KN         -13 IO62             G0MOH         -03 IO70
+QSO:   144 FT8 2022-02-02 1904 EI8KN         -18 IO62             F6HTJ         -09 JN12
+QSO:   144 FT8 2022-02-02 1906 EI8KN         -06 IO62             F1NZC         -06 JN15
+QSO:   144 FT8 2022-02-02 1908 EI8KN         +10 IO62             F6DBI         +00 IN88
+QSO:   144 FT8 2022-02-02 1913 EI8KN         -19 IO62             G0MOH         -04 IO70
+QSO:   144 FT8 2022-02-02 1915 EI8KN         -06 IO62             G0BIX         -20 JO01
+QSO:   144 FT8 2022-02-02 1916 EI8KN         -16 IO62             G8XYJ         -18 IO82
+QSO:   144 FT8 2022-02-02 1919 EI8KN         -03 IO62             F6BYJ         +00 JN05
+QSO:   144 FT8 2022-02-02 1922 EI8KN         +00 IO62             2E0IEI        -03 IO81
+QSO:   144 FT8 2022-02-02 1924 EI8KN         -08 IO62             GD0TEP        -12 IO74
+QSO:   144 FT8 2022-02-02 1927 EI8KN         -19 IO62             GM8MJV        -21 IO85
+QSO:   144 FT8 2022-02-02 1929 EI8KN         +12 IO62             GI6ATZ        +08 IO74
+QSO:   144 FT8 2022-02-02 1932 EI8KN         -02 IO62             G3YKI         -06 IO82
+QSO:   144 FT8 2022-02-02 1936 EI8KN         -12 IO62             M0IEP         -10 IO91
+QSO:   144 FT8 2022-02-02 1937 EI8KN         +12 IO62             GW0KZG        +15 IO71
+QSO:   144 FT8 2022-02-02 1942 EI8KN         +09 IO62             G0LGS         +01 IO81
+QSO:   144 FT8 2022-02-02 1942 EI8KN         +03 IO62             G3SED         -15 IO90
+QSO:   144 FT8 2022-02-02 1944 EI8KN         -02 IO62             G4NBS         -02 JO02
+QSO:   144 FT8 2022-02-02 1953 EI8KN         -13 IO62             PA5Y          -15 JO21
+QSO:   144 FT8 2022-02-02 2000 EI8KN         -15 IO62             EA1HRR        -12 IN83
+QSO:   144 FT8 2022-02-02 2002 EI8KN         +08 IO62             EA2XR         -04 IN83
+QSO:   144 FT8 2022-02-02 2004 EI8KN         -12 IO62             G4PEM         +23 IO70
+QSO:   144 FT8 2022-02-02 2013 EI8KN         -10 IO62             G3YDY         -13 JO01
+QSO:   144 FT8 2022-02-02 2014 EI8KN         -03 IO62             G3XBY         -10 IO92
+QSO:   144 FT8 2022-02-02 2019 EI8KN         -04 IO62             G4VPD         -05 IO92
+QSO:   144 FT8 2022-02-02 2023 EI8KN         -07 IO62             G7WIR         -13 JO01
+QSO:   144 FT8 2022-02-02 2025 EI8KN         +05 IO62             M0FXX         +01 IO91
+QSO:   144 FT8 2022-02-02 2028 EI8KN         -08 IO62             F4FRG         -08 IN98
+QSO:   144 FT8 2022-02-02 2033 EI8KN         -14 IO62             G4OED         -12 IO91
+QSO:   144 FT8 2022-02-02 2038 EI8KN         +06 IO62             G7LRQ         -13 IO91
+QSO:   144 FT8 2022-02-02 2041 EI8KN         +10 IO62             G0JCC         -14 IO82
+QSO:   144 FT8 2022-02-02 2043 EI8KN         -13 IO62             2E0YRT        -03 IO82
+QSO:   144 FT8 2022-02-02 2045 EI8KN         -17 IO62             G7RDX         -16 IO91
+QSO:   144 FT8 2022-02-02 2049 EI8KN         +05 IO62             G0XDI         -08 IO91
+QSO:   144 FT8 2022-02-02 2052 EI8KN         -09 IO62             G8EEM         -15 IO93
+QSO:   144 FT8 2022-02-02 2054 EI8KN         +00 IO62             G8AOE/P       +11 IO94
+QSO:   144 FT8 2022-02-02 2054 EI8KN         +00 IO62             M1AEC         -20 IO82
+QSO:   144 FT8 2022-02-02 2059 EI8KN         -13 IO62             G0JJG         -14 JO02
 END-OF-LOG:

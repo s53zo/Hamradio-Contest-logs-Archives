@@ -10,38 +10,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260506&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1140; excluded rows=1.
-QSO:   144 DG 2026-05-06 1902 M0SKT         -14 IO92             G8SEI         -24 IO92
-QSO:   144 DG 2026-05-06 1907 M0SKT         -19 IO92             M7APV         -14 JO01
-QSO:   144 DG 2026-05-06 1913 M0SKT         -11 IO92             PI50VPO       -07 JO21
-QSO:   144 DG 2026-05-06 1916 M0SKT         -09 IO92             PA4Y          +10 JO21
-QSO:   144 DG 2026-05-06 1920 M0SKT         -16 IO92             PH2M          -19 JO22
-QSO:   144 DG 2026-05-06 1926 M0SKT         -12 IO92             G4FBA         -07 IO93
-QSO:   144 DG 2026-05-06 1933 M0SKT         -03 IO92             G8EEM         +05 IO93
-QSO:   144 DG 2026-05-06 1936 M0SKT         -13 IO92             G3MXH         -09 JO02
-QSO:   144 DG 2026-05-06 1938 M0SKT         -03 IO92             G0JJG         -06 JO02
-QSO:   144 DG 2026-05-06 1939 M0SKT         -10 IO92             PA6I          -21 JO32
-QSO:   144 DG 2026-05-06 1940 M0SKT         +00 IO92             G4NBS         +05 JO02
-QSO:   144 DG 2026-05-06 1945 M0SKT         -14 IO92             DF9QT         -19 JO30
-QSO:   144 DG 2026-05-06 1946 M0SKT         -19 IO92             ON8NT         -13 JO11
-QSO:   144 DG 2026-05-06 1947 M0SKT         -08 IO92             G4ZTR         -18 JO01
-QSO:   144 DG 2026-05-06 1948 M0SKT         -15 IO92             G4ZTR         -18 JO01
-QSO:   144 DG 2026-05-06 1949 M0SKT         -13 IO92             G3YDY         +00 JO01
-QSO:   144 DG 2026-05-06 1953 M0SKT         -18 IO92             2E0MRK        -06 IO91
-QSO:   144 DG 2026-05-06 2004 M0SKT         -06 IO92             M1EYP/P       +03 IO83
-QSO:   144 DG 2026-05-06 2006 M0SKT         -13 IO92             G0JDL         -05 JO02
-QSO:   144 DG 2026-05-06 2008 M0SKT         -21 IO92             G7FPE         -25 JO01
-QSO:   144 DG 2026-05-06 2009 M0SKT         -11 IO92             G3WAG/P       -04 IO82
-QSO:   144 DG 2026-05-06 2015 M0SKT         -30 IO92             MM0CEZ        -19 IO75
-QSO:   144 DG 2026-05-06 2021 M0SKT         -13 IO92             EI8KN         -10 IO62
-QSO:   144 DG 2026-05-06 2028 M0SKT         -14 IO92             F1NQP         -10 JN19
-QSO:   144 DG 2026-05-06 2030 M0SKT         -12 IO92             F8BON         -05 IN86
-QSO:   144 DG 2026-05-06 2033 M0SKT         -13 IO92             G8IXK         -07 IO91
-QSO:   144 DG 2026-05-06 2039 M0SKT         -12 IO92             G7WIR         -13 JO01
-QSO:   144 DG 2026-05-06 2040 M0SKT         -01 IO92             G4FLM         -06 IO94
-QSO:   144 DG 2026-05-06 2044 M0SKT         -08 IO92             G0ODR         +02 JO02
-QSO:   144 DG 2026-05-06 2048 M0SKT         -16 IO92             G0BIX         -21 JO01
-QSO:   144 DG 2026-05-06 2051 M0SKT         -07 IO92             PE1OBL        -02 JO21
-QSO:   144 DG 2026-05-06 2059 M0SKT         -10 IO92             G4HGI         -15 IO83
+QSO:   144 FT8 2026-05-06 1902 M0SKT         -14 IO92             G8SEI         -24 IO92
+QSO:   144 FT8 2026-05-06 1907 M0SKT         -19 IO92             M7APV         -14 JO01
+QSO:   144 FT8 2026-05-06 1913 M0SKT         -11 IO92             PI50VPO       -07 JO21
+QSO:   144 FT8 2026-05-06 1916 M0SKT         -09 IO92             PA4Y          +10 JO21
+QSO:   144 FT8 2026-05-06 1920 M0SKT         -16 IO92             PH2M          -19 JO22
+QSO:   144 FT8 2026-05-06 1926 M0SKT         -12 IO92             G4FBA         -07 IO93
+QSO:   144 FT8 2026-05-06 1933 M0SKT         -03 IO92             G8EEM         +05 IO93
+QSO:   144 FT8 2026-05-06 1936 M0SKT         -13 IO92             G3MXH         -09 JO02
+QSO:   144 FT8 2026-05-06 1938 M0SKT         -03 IO92             G0JJG         -06 JO02
+QSO:   144 FT8 2026-05-06 1939 M0SKT         -10 IO92             PA6I          -21 JO32
+QSO:   144 FT8 2026-05-06 1940 M0SKT         +00 IO92             G4NBS         +05 JO02
+QSO:   144 FT8 2026-05-06 1945 M0SKT         -14 IO92             DF9QT         -19 JO30
+QSO:   144 FT8 2026-05-06 1946 M0SKT         -19 IO92             ON8NT         -13 JO11
+QSO:   144 FT8 2026-05-06 1947 M0SKT         -08 IO92             G4ZTR         -18 JO01
+QSO:   144 FT8 2026-05-06 1948 M0SKT         -15 IO92             G4ZTR         -18 JO01
+QSO:   144 FT8 2026-05-06 1949 M0SKT         -13 IO92             G3YDY         +00 JO01
+QSO:   144 FT8 2026-05-06 1953 M0SKT         -18 IO92             2E0MRK        -06 IO91
+QSO:   144 FT8 2026-05-06 2004 M0SKT         -06 IO92             M1EYP/P       +03 IO83
+QSO:   144 FT8 2026-05-06 2006 M0SKT         -13 IO92             G0JDL         -05 JO02
+QSO:   144 FT8 2026-05-06 2008 M0SKT         -21 IO92             G7FPE         -25 JO01
+QSO:   144 FT8 2026-05-06 2009 M0SKT         -11 IO92             G3WAG/P       -04 IO82
+QSO:   144 FT8 2026-05-06 2015 M0SKT         -30 IO92             MM0CEZ        -19 IO75
+QSO:   144 FT8 2026-05-06 2021 M0SKT         -13 IO92             EI8KN         -10 IO62
+QSO:   144 FT8 2026-05-06 2028 M0SKT         -14 IO92             F1NQP         -10 JN19
+QSO:   144 FT8 2026-05-06 2030 M0SKT         -12 IO92             F8BON         -05 IN86
+QSO:   144 FT8 2026-05-06 2033 M0SKT         -13 IO92             G8IXK         -07 IO91
+QSO:   144 FT8 2026-05-06 2039 M0SKT         -12 IO92             G7WIR         -13 JO01
+QSO:   144 FT8 2026-05-06 2040 M0SKT         -01 IO92             G4FLM         -06 IO94
+QSO:   144 FT8 2026-05-06 2044 M0SKT         -08 IO92             G0ODR         +02 JO02
+QSO:   144 FT8 2026-05-06 2048 M0SKT         -16 IO92             G0BIX         -21 JO01
+QSO:   144 FT8 2026-05-06 2051 M0SKT         -07 IO92             PE1OBL        -02 JO21
+QSO:   144 FT8 2026-05-06 2059 M0SKT         -10 IO92             G4HGI         -15 IO83
 END-OF-LOG:

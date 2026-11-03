@@ -10,29 +10,29 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260401&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=976; excluded rows=0.
-QSO:   144 DG 2026-04-01 1901 G8IXK         -14 IO91             F1OIL         -19 JO00
-QSO:   144 DG 2026-04-01 1905 G8IXK         -13 IO91             F1NQP         -19 JN19
-QSO:   144 DG 2026-04-01 1909 G8IXK         -01 IO91             G4EFT         +03 IO91
-QSO:   144 DG 2026-04-01 1918 G8IXK         -06 IO91             G7COU         -15 IO93
-QSO:   144 DG 2026-04-01 1930 G8IXK         -04 IO91             G6GCM         -10 IO92
-QSO:   144 DG 2026-04-01 1936 G8IXK         -24 IO91             GI4SNA        -04 IO64
-QSO:   144 DG 2026-04-01 1939 G8IXK         -15 IO91             G3WAG         -20 IO82
-QSO:   144 DG 2026-04-01 1942 G8IXK         +01 IO91             G7RDX         -02 IO91
-QSO:   144 DG 2026-04-01 1950 G8IXK         -13 IO91             PI4VPO        -16 JO21
-QSO:   144 DG 2026-04-01 2001 G8IXK         -07 IO91             G0JJG         -17 JO02
-QSO:   144 DG 2026-04-01 2004 G8IXK         -17 IO91             G3UQW         -11 IO90
-QSO:   144 DG 2026-04-01 2010 G8IXK         -02 IO91             M7APV         -10 JO01
-QSO:   144 DG 2026-04-01 2019 G8IXK         -20 IO91             EI8KN         -05 IO62
-QSO:   144 DG 2026-04-01 2026 G8IXK         -14 IO91             DK5WO         -19 JO30
-QSO:   144 DG 2026-04-01 2034 G8IXK         -10 IO91             G7LRQ         -14 JO03
-QSO:   144 DG 2026-04-01 2036 G8IXK         -14 IO91             G8EEM         -15 IO93
-QSO:   144 DG 2026-04-01 2039 G8IXK         +00 IO91             G0XDI         -14 IO91
-QSO:   144 DG 2026-04-01 2042 G8IXK         -02 IO91             G0BIX         +14 JO01
-QSO:   144 DG 2026-04-01 2044 G8IXK         +00 IO91             G7WIR         +11 JO01
-QSO:   144 DG 2026-04-01 2046 G8IXK         -12 IO91             G3YDY         -25 JO01
-QSO:   144 DG 2026-04-01 2048 G8IXK         -05 IO91             M0SKT         -12 IO92
-QSO:   144 DG 2026-04-01 2050 G8IXK         -12 IO91             G4ZAL         -15 IO80
-QSO:   144 DG 2026-04-01 2058 G8IXK         -10 IO91             G8SEI         -14 IO92
+QSO:   144 FT8 2026-04-01 1901 G8IXK         -14 IO91             F1OIL         -19 JO00
+QSO:   144 FT8 2026-04-01 1905 G8IXK         -13 IO91             F1NQP         -19 JN19
+QSO:   144 FT8 2026-04-01 1909 G8IXK         -01 IO91             G4EFT         +03 IO91
+QSO:   144 FT8 2026-04-01 1918 G8IXK         -06 IO91             G7COU         -15 IO93
+QSO:   144 FT8 2026-04-01 1930 G8IXK         -04 IO91             G6GCM         -10 IO92
+QSO:   144 FT8 2026-04-01 1936 G8IXK         -24 IO91             GI4SNA        -04 IO64
+QSO:   144 FT8 2026-04-01 1939 G8IXK         -15 IO91             G3WAG         -20 IO82
+QSO:   144 FT8 2026-04-01 1942 G8IXK         +01 IO91             G7RDX         -02 IO91
+QSO:   144 FT8 2026-04-01 1950 G8IXK         -13 IO91             PI4VPO        -16 JO21
+QSO:   144 FT8 2026-04-01 2001 G8IXK         -07 IO91             G0JJG         -17 JO02
+QSO:   144 FT8 2026-04-01 2004 G8IXK         -17 IO91             G3UQW         -11 IO90
+QSO:   144 FT8 2026-04-01 2010 G8IXK         -02 IO91             M7APV         -10 JO01
+QSO:   144 FT8 2026-04-01 2019 G8IXK         -20 IO91             EI8KN         -05 IO62
+QSO:   144 FT8 2026-04-01 2026 G8IXK         -14 IO91             DK5WO         -19 JO30
+QSO:   144 FT8 2026-04-01 2034 G8IXK         -10 IO91             G7LRQ         -14 JO03
+QSO:   144 FT8 2026-04-01 2036 G8IXK         -14 IO91             G8EEM         -15 IO93
+QSO:   144 FT8 2026-04-01 2039 G8IXK         +00 IO91             G0XDI         -14 IO91
+QSO:   144 FT8 2026-04-01 2042 G8IXK         -02 IO91             G0BIX         +14 JO01
+QSO:   144 FT8 2026-04-01 2044 G8IXK         +00 IO91             G7WIR         +11 JO01
+QSO:   144 FT8 2026-04-01 2046 G8IXK         -12 IO91             G3YDY         -25 JO01
+QSO:   144 FT8 2026-04-01 2048 G8IXK         -05 IO91             M0SKT         -12 IO92
+QSO:   144 FT8 2026-04-01 2050 G8IXK         -12 IO91             G4ZAL         -15 IO80
+QSO:   144 FT8 2026-04-01 2058 G8IXK         -10 IO91             G8SEI         -14 IO92
 END-OF-LOG:

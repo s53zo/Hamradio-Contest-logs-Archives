@@ -10,18 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO:  7047 DG 2026-01-19 2005 G3WJG         -07 -                CQ7WWA        -07 -
-QSO:  7048 DG 2026-01-19 2023 G3WJG         +11 -                LZ0WWA        -10 -
-QSO:  7048 DG 2026-01-19 2024 G3WJG         -07 -                YO3RU         -10 -
-QSO:  3578 DG 2026-01-19 2042 G3WJG         -03 -                MW3L          -08 -
-QSO:  7047 DG 2026-01-19 2058 G3WJG         -03 -                OZ1AXG        -13 -
-QSO:  7048 DG 2026-01-19 2105 G3WJG         -10 -                GM4VYQ        -06 -
-QSO:  7049 DG 2026-01-19 2118 G3WJG         +05 -                DJ2KP         +00 -
-QSO:  7047 DG 2026-01-19 2125 G3WJG         -01 -                DL4ME         +01 -
-QSO:  7050 DG 2026-01-19 2130 G3WJG         +08 -                MW3L          +07 -
-QSO:  7049 DG 2026-01-19 2142 G3WJG         +02 -                OT8P          +11 -
-QSO:  7048 DG 2026-01-19 2147 G3WJG         +08 -                ON6NL         +11 -
-QSO:  7049 DG 2026-01-19 2158 G3WJG         +04 -                ON1AJ         +06 -
-QSO:  7048 DG 2026-01-19 2159 G3WJG         +00 -                HB9AWS        +05 -
+QSO:  7047 FT4 2026-01-19 2005 G3WJG         -07 -                CQ7WWA        -07 -
+QSO:  7048 FT4 2026-01-19 2023 G3WJG         +11 -                LZ0WWA        -10 -
+QSO:  7048 FT4 2026-01-19 2024 G3WJG         -07 -                YO3RU         -10 -
+QSO:  3578 FT4 2026-01-19 2042 G3WJG         -03 -                MW3L          -08 -
+QSO:  7047 FT4 2026-01-19 2058 G3WJG         -03 -                OZ1AXG        -13 -
+QSO:  7048 FT4 2026-01-19 2105 G3WJG         -10 -                GM4VYQ        -06 -
+QSO:  7049 FT4 2026-01-19 2118 G3WJG         +05 -                DJ2KP         +00 -
+QSO:  7047 FT4 2026-01-19 2125 G3WJG         -01 -                DL4ME         +01 -
+QSO:  7050 FT4 2026-01-19 2130 G3WJG         +08 -                MW3L          +07 -
+QSO:  7049 FT4 2026-01-19 2142 G3WJG         +02 -                OT8P          +11 -
+QSO:  7048 FT4 2026-01-19 2147 G3WJG         +08 -                ON6NL         +11 -
+QSO:  7049 FT4 2026-01-19 2158 G3WJG         +04 -                ON1AJ         +06 -
+QSO:  7048 FT4 2026-01-19 2159 G3WJG         +00 -                HB9AWS        +05 -
 END-OF-LOG:

@@ -10,28 +10,29 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO: 21074 DG 2026-08-16 2136 ON5ZZ         -06 -                IV3APH        +15 -
-QSO: 21074 DG 2026-08-16 2138 ON5ZZ         -03 -                DL9KM         -01 -
-QSO: 21074 DG 2026-08-16 2152 ON5ZZ         -18 -                M7XEI         -11 -
-QSO: 21074 DG 2026-08-16 2154 ON5ZZ         -09 -                SQ9ANS        +19 -
-QSO: 14080 DG 2026-08-17 0458 ON5ZZ         +05 -                R9FEM         -20 -
-QSO: 14080 DG 2026-08-17 0459 ON5ZZ         -16 -                ON1JP         -10 -
-QSO: 14080 DG 2026-08-17 0500 ON5ZZ         -01 -                WC4H          +17 -
-QSO:  7048 DG 2026-08-17 2005 ON5ZZ         -06 -                PE2K          -04 -
-QSO:  7048 DG 2026-08-17 2006 ON5ZZ         -02 -                IK2FTB        -09 -
-QSO:  7048 DG 2026-08-17 2007 ON5ZZ         +02 -                G7MBH         +11 -
-QSO:  7048 DG 2026-08-17 2008 ON5ZZ         +01 -                M7WLT         +06 -
-QSO:  7048 DG 2026-08-17 2008 ON5ZZ         -04 -                PH3BDJ        -07 -
-QSO: 14080 DG 2026-08-17 2030 ON5ZZ         -03 -                UA6NT         -10 -
-QSO: 14080 DG 2026-08-17 2032 ON5ZZ         +07 -                AO90A         +05 -
-QSO: 14080 DG 2026-08-17 2034 ON5ZZ         -15 -                IQ4JO         -10 -
-QSO: 14080 DG 2026-08-17 2035 ON5ZZ         +00 -                LZ3SU         +13 -
-QSO:  7048 DG 2026-08-17 2037 ON5ZZ         -07 -                M9IAN         +02 -
-QSO:  7048 DG 2026-08-17 2038 ON5ZZ         +07 -                GU7DAI        -07 -
-QSO:  7048 DG 2026-08-17 2039 ON5ZZ         +05 -                ON5KDX        +03 -
-QSO:  7048 DG 2026-08-17 2041 ON5ZZ         +05 -                ON7IO         -09 -
-QSO:  7048 DG 2026-08-17 2042 ON5ZZ         -01 -                M1DDD         +07 -
-QSO:  7048 DG 2026-08-17 2043 ON5ZZ         +10 -                MM0C          +00 -
-QSO:  7048 DG 2026-08-17 2045 ON5ZZ         +03 -                G1WOV         -02 -
+QSO: 21074 FT4 2026-08-16 2136 ON5ZZ         -06 -                IV3APH        +15 -
+QSO: 21074 FT4 2026-08-16 2138 ON5ZZ         -03 -                DL9KM         -01 -
+QSO: 21074 FT4 2026-08-16 2152 ON5ZZ         -18 -                M7XEI         -11 -
+QSO: 21074 FT4 2026-08-16 2154 ON5ZZ         -09 -                SQ9ANS        +19 -
+QSO: 14080 FT4 2026-08-17 0458 ON5ZZ         +05 -                R9FEM         -20 -
+QSO: 14080 FT4 2026-08-17 0459 ON5ZZ         -16 -                ON1JP         -10 -
+QSO: 14080 FT4 2026-08-17 0500 ON5ZZ         -01 -                WC4H          +17 -
+QSO:  7048 FT4 2026-08-17 2005 ON5ZZ         -06 -                PE2K          -04 -
+QSO:  7048 FT4 2026-08-17 2006 ON5ZZ         -02 -                IK2FTB        -09 -
+QSO:  7048 FT4 2026-08-17 2007 ON5ZZ         +02 -                G7MBH         +11 -
+QSO:  7048 FT4 2026-08-17 2008 ON5ZZ         +01 -                M7WLT         +06 -
+QSO:  7048 FT4 2026-08-17 2008 ON5ZZ         -04 -                PH3BDJ        -07 -
+QSO: 14080 FT4 2026-08-17 2030 ON5ZZ         -03 -                UA6NT         -10 -
+QSO: 14080 FT4 2026-08-17 2032 ON5ZZ         +07 -                AO90A         +05 -
+QSO: 14080 FT4 2026-08-17 2034 ON5ZZ         -15 -                IQ4JO         -10 -
+QSO: 14080 FT4 2026-08-17 2035 ON5ZZ         +00 -                LZ3SU         +13 -
+QSO:  7048 FT4 2026-08-17 2037 ON5ZZ         -07 -                M9IAN         +02 -
+QSO:  7048 FT4 2026-08-17 2038 ON5ZZ         +07 -                GU7DAI        -07 -
+QSO:  7048 FT4 2026-08-17 2039 ON5ZZ         +05 -                ON5KDX        +03 -
+QSO:  7048 FT4 2026-08-17 2041 ON5ZZ         +05 -                ON7IO         -09 -
+QSO:  7048 FT4 2026-08-17 2042 ON5ZZ         -01 -                M1DDD         +07 -
+QSO:  7048 FT4 2026-08-17 2043 ON5ZZ         +10 -                MM0C          +00 -
+QSO:  7048 FT4 2026-08-17 2045 ON5ZZ         +03 -                G1WOV         -02 -
 END-OF-LOG:

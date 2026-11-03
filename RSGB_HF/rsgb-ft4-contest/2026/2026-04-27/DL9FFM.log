@@ -8,27 +8,28 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260427&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7294; excluded rows=0.
-QSO: 14.08 DG 2026-04-27 1903 DL9FFM        -06 -                US5ZBR        -01 -
-QSO: 14.08 DG 2026-04-27 1904 DL9FFM        +06 -                SV1DKR        -04 -
-QSO: 14.08 DG 2026-04-27 1908 DL9FFM        - -                  LZ1JZ         -06 -
-QSO: 14.08 DG 2026-04-27 1916 DL9FFM        -10 -                LA1PHA        -16 -
-QSO: 14.08 DG 2026-04-27 1921 DL9FFM        +01 -                IK8WEI        -04 -
-QSO:  7047 DG 2026-04-27 1927 DL9FFM        -02 -                I2XLF         +01 -
-QSO: 14.08 DG 2026-04-27 1950 DL9FFM        -01 -                DF4ZL         -03 -
-QSO: 14081 DG 2026-04-27 2025 DL9FFM        +07 -                EA5OL         -06 -
-QSO: 14081 DG 2026-04-27 2026 DL9FFM        -05 -                CN8NS         -07 -
-QSO: 14081 DG 2026-04-27 2027 DL9FFM        -02 -                R3VE          -11 -
-QSO: 14081 DG 2026-04-27 2028 DL9FFM        -05 -                CN8NS         -07 -
-QSO: 14081 DG 2026-04-27 2028 DL9FFM        +01 -                EA5BF         -11 -
-QSO: 14081 DG 2026-04-27 2029 DL9FFM        +12 -                SV1DKR        +03 -
-QSO: 14081 DG 2026-04-27 2031 DL9FFM        +08 -                YO4NF         +12 -
-QSO:  7048 DG 2026-04-27 2043 DL9FFM        -06 -                G4SWH         +04 -
-QSO:  7048 DG 2026-04-27 2044 DL9FFM        -10 -                PE2K          -15 -
-QSO:  7048 DG 2026-04-27 2047 DL9FFM        +03 -                G7COU         -05 -
-QSO:  7048 DG 2026-04-27 2052 DL9FFM        -09 -                PA3AGN        -10 -
-QSO:  7048 DG 2026-04-27 2056 DL9FFM        -06 -                G4OZG         -04 -
-QSO:  7048 DG 2026-04-27 2057 DL9FFM        -03 -                SQ9DJQ        -03 -
-QSO:  7048 DG 2026-04-27 2058 DL9FFM        +13 -                IK2FTB        -04 -
-QSO:  7048 DG 2026-04-27 2100 DL9FFM        -01 -                RK4FF         +02 -
+QSO: 14.08 FT4 2026-04-27 1903 DL9FFM        -06 -                US5ZBR        -01 -
+QSO: 14.08 FT4 2026-04-27 1904 DL9FFM        +06 -                SV1DKR        -04 -
+QSO: 14.08 FT4 2026-04-27 1908 DL9FFM        - -                  LZ1JZ         -06 -
+QSO: 14.08 FT4 2026-04-27 1916 DL9FFM        -10 -                LA1PHA        -16 -
+QSO: 14.08 FT4 2026-04-27 1921 DL9FFM        +01 -                IK8WEI        -04 -
+QSO:  7047 FT4 2026-04-27 1927 DL9FFM        -02 -                I2XLF         +01 -
+QSO: 14.08 FT4 2026-04-27 1950 DL9FFM        -01 -                DF4ZL         -03 -
+QSO: 14081 FT4 2026-04-27 2025 DL9FFM        +07 -                EA5OL         -06 -
+QSO: 14081 FT4 2026-04-27 2026 DL9FFM        -05 -                CN8NS         -07 -
+QSO: 14081 FT4 2026-04-27 2027 DL9FFM        -02 -                R3VE          -11 -
+QSO: 14081 FT4 2026-04-27 2028 DL9FFM        -05 -                CN8NS         -07 -
+QSO: 14081 FT4 2026-04-27 2028 DL9FFM        +01 -                EA5BF         -11 -
+QSO: 14081 FT4 2026-04-27 2029 DL9FFM        +12 -                SV1DKR        +03 -
+QSO: 14081 FT4 2026-04-27 2031 DL9FFM        +08 -                YO4NF         +12 -
+QSO:  7048 FT4 2026-04-27 2043 DL9FFM        -06 -                G4SWH         +04 -
+QSO:  7048 FT4 2026-04-27 2044 DL9FFM        -10 -                PE2K          -15 -
+QSO:  7048 FT4 2026-04-27 2047 DL9FFM        +03 -                G7COU         -05 -
+QSO:  7048 FT4 2026-04-27 2052 DL9FFM        -09 -                PA3AGN        -10 -
+QSO:  7048 FT4 2026-04-27 2056 DL9FFM        -06 -                G4OZG         -04 -
+QSO:  7048 FT4 2026-04-27 2057 DL9FFM        -03 -                SQ9DJQ        -03 -
+QSO:  7048 FT4 2026-04-27 2058 DL9FFM        +13 -                IK2FTB        -04 -
+QSO:  7048 FT4 2026-04-27 2100 DL9FFM        -01 -                RK4FF         +02 -
 END-OF-LOG:

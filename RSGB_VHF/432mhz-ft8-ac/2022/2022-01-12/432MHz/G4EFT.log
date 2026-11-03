@@ -10,16 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1905 G4EFT         +08 IO91             M0XTY         +02 JO01
-QSO:   432 DG 2022-01-12 1910 G4EFT         -05 IO91             GW4HDF        -07 IO81
-QSO:   432 DG 2022-01-12 1937 G4EFT         +01 IO91             G0GJV         -02 IO91
-QSO:   432 DG 2022-01-12 1949 G4EFT         +00 IO91             G7WIR         -06 JO01
-QSO:   432 DG 2022-01-12 1953 G4EFT         +16 IO91             G7LRQ         +02 IO91
-QSO:   432 DG 2022-01-12 1955 G4EFT         -10 IO91             2E0GKW        -11 IO91
-QSO:   432 DG 2022-01-12 2000 G4EFT         +15 IO91             G0VDZ         +10 IO91
-QSO:   432 DG 2022-01-12 2004 G4EFT         -09 IO91             G3WZK         -11 IO91
-QSO:   432 DG 2022-01-12 2012 G4EFT         -01 IO91             M0AHN         +01 IO91
-QSO:   432 DG 2022-01-12 2018 G4EFT         -08 IO91             G3ZPB         -09 IO91
+QSO:   432 FT8 2022-01-12 1905 G4EFT         +08 IO91             M0XTY         +02 JO01
+QSO:   432 FT8 2022-01-12 1910 G4EFT         -05 IO91             GW4HDF        -07 IO81
+QSO:   432 FT8 2022-01-12 1937 G4EFT         +01 IO91             G0GJV         -02 IO91
+QSO:   432 FT8 2022-01-12 1949 G4EFT         +00 IO91             G7WIR         -06 JO01
+QSO:   432 FT8 2022-01-12 1953 G4EFT         +16 IO91             G7LRQ         +02 IO91
+QSO:   432 FT8 2022-01-12 1955 G4EFT         -10 IO91             2E0GKW        -11 IO91
+QSO:   432 FT8 2022-01-12 2000 G4EFT         +15 IO91             G0VDZ         +10 IO91
+QSO:   432 FT8 2022-01-12 2004 G4EFT         -09 IO91             G3WZK         -11 IO91
+QSO:   432 FT8 2022-01-12 2012 G4EFT         -01 IO91             M0AHN         +01 IO91
+QSO:   432 FT8 2022-01-12 2018 G4EFT         -08 IO91             G3ZPB         -09 IO91
 END-OF-LOG:

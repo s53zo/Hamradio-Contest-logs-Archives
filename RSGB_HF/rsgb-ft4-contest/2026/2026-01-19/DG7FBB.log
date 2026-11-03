@@ -10,19 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260119&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=3275; excluded rows=0.
-QSO:  3577 DG 2026-01-19 2021 DG7FBB        - -                  HG0NPJ        -07 -
-QSO:  3577 DG 2026-01-19 2041 DG7FBB        -02 -                MW3L          -07 -
-QSO:  7050 DG 2026-01-19 2046 DG7FBB        -02 -                EB3JT         -07 -
-QSO:  3577 DG 2026-01-19 2053 DG7FBB        -07 -                DO9FFM        +04 -
-QSO:  3577 DG 2026-01-19 2056 DG7FBB        -07 -                M2X           +04 -
-QSO:  3577 DG 2026-01-19 2059 DG7FBB        -07 -                PH3T          +01 -
-QSO:  3577 DG 2026-01-19 2113 DG7FBB        -09 -                DL5LS         -14 -
-QSO:  3577 DG 2026-01-19 2119 DG7FBB        +02 -                G4DBW         -06 -
-QSO:  3577 DG 2026-01-19 2120 DG7FBB        +01 -                YO4NF         -14 -
-QSO:  3577 DG 2026-01-19 2127 DG7FBB        -01 -                DO2BBC        -09 -
-QSO:  3577 DG 2026-01-19 2129 DG7FBB        -08 -                DK2OY         -19 -
-QSO:  3577 DG 2026-01-19 2146 DG7FBB        +13 -                PI4APD        -07 -
-QSO:  3577 DG 2026-01-19 2150 DG7FBB        -03 -                ON7VZ         -06 -
-QSO:  3577 DG 2026-01-19 2156 DG7FBB        +04 -                DO5RBB        -18 -
+QSO:  3577 FT4 2026-01-19 2021 DG7FBB        - -                  HG0NPJ        -07 -
+QSO:  3577 FT4 2026-01-19 2041 DG7FBB        -02 -                MW3L          -07 -
+QSO:  7050 FT4 2026-01-19 2046 DG7FBB        -02 -                EB3JT         -07 -
+QSO:  3577 FT4 2026-01-19 2053 DG7FBB        -07 -                DO9FFM        +04 -
+QSO:  3577 FT4 2026-01-19 2056 DG7FBB        -07 -                M2X           +04 -
+QSO:  3577 FT4 2026-01-19 2059 DG7FBB        -07 -                PH3T          +01 -
+QSO:  3577 FT4 2026-01-19 2113 DG7FBB        -09 -                DL5LS         -14 -
+QSO:  3577 FT4 2026-01-19 2119 DG7FBB        +02 -                G4DBW         -06 -
+QSO:  3577 FT4 2026-01-19 2120 DG7FBB        +01 -                YO4NF         -14 -
+QSO:  3577 FT4 2026-01-19 2127 DG7FBB        -01 -                DO2BBC        -09 -
+QSO:  3577 FT4 2026-01-19 2129 DG7FBB        -08 -                DK2OY         -19 -
+QSO:  3577 FT4 2026-01-19 2146 DG7FBB        +13 -                PI4APD        -07 -
+QSO:  3577 FT4 2026-01-19 2150 DG7FBB        -03 -                ON7VZ         -06 -
+QSO:  3577 FT4 2026-01-19 2156 DG7FBB        +04 -                DO5RBB        -18 -
 END-OF-LOG:

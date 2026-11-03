@@ -10,32 +10,33 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO:  3576 DG 2026-03-16 2012 PE1FBC        +03 -                DO1ARD        +07 -
-QSO:  3576 DG 2026-03-16 2014 PE1FBC        -12 -                DF3QK         +07 -
-QSO:  3576 DG 2026-03-16 2014 PE1FBC        -09 -                HG0NPJ        -01 -
-QSO:  3576 DG 2026-03-16 2016 PE1FBC        -13 -                GU0UVH        +04 -
-QSO:  3576 DG 2026-03-16 2018 PE1FBC        -05 -                G0HSP         -04 -
-QSO:  3576 DG 2026-03-16 2020 PE1FBC        -07 -                II3COR        -02 -
-QSO:  3576 DG 2026-03-16 2022 PE1FBC        -19 -                M7CWF         +07 -
-QSO:  3576 DG 2026-03-16 2023 PE1FBC        -13 -                M7OFM         +21 -
-QSO:  3576 DG 2026-03-16 2025 PE1FBC        -13 -                PH3T          +19 -
-QSO:  3576 DG 2026-03-16 2026 PE1FBC        -08 -                DR2T          +04 -
-QSO:  3577 DG 2026-03-16 2033 PE1FBC        -07 -                G7NJX         +06 -
-QSO:  3577 DG 2026-03-16 2034 PE1FBC        -08 -                DO1NJN        +03 -
-QSO:  3577 DG 2026-03-16 2038 PE1FBC        +05 -                G1Q           +12 -
-QSO:  3577 DG 2026-03-16 2039 PE1FBC        -10 -                DM3CH         +13 -
-QSO:  3577 DG 2026-03-16 2041 PE1FBC        -01 -                G4OZG         +01 -
-QSO:  3577 DG 2026-03-16 2043 PE1FBC        -08 -                M5RJC         +07 -
-QSO:  3577 DG 2026-03-16 2045 PE1FBC        -10 -                GW0ARK        +02 -
-QSO:  3577 DG 2026-03-16 2047 PE1FBC        -16 -                MW0CVT        -02 -
-QSO:  3577 DG 2026-03-16 2048 PE1FBC        -07 -                DJ9MH         +05 -
-QSO:  3577 DG 2026-03-16 2052 PE1FBC        -15 -                SP1TJ         -10 -
-QSO:  3577 DG 2026-03-16 2053 PE1FBC        -06 -                M8M           +11 -
-QSO:  3577 DG 2026-03-16 2054 PE1FBC        -11 -                G4DBW         +14 -
-QSO:  3577 DG 2026-03-16 2100 PE1FBC        +03 -                G3MXH         +14 -
-QSO:  3577 DG 2026-03-16 2101 PE1FBC        -12 -                DL7VTW        +04 -
-QSO:  3577 DG 2026-03-16 2102 PE1FBC        -02 -                DO8PAT        -06 -
-QSO:  3577 DG 2026-03-16 2103 PE1FBC        -10 -                G4PDF         +02 -
-QSO:  3577 DG 2026-03-16 2109 PE1FBC        -11 -                OK2USM        -06 -
+QSO:  3576 FT4 2026-03-16 2012 PE1FBC        +03 -                DO1ARD        +07 -
+QSO:  3576 FT4 2026-03-16 2014 PE1FBC        -12 -                DF3QK         +07 -
+QSO:  3576 FT4 2026-03-16 2014 PE1FBC        -09 -                HG0NPJ        -01 -
+QSO:  3576 FT4 2026-03-16 2016 PE1FBC        -13 -                GU0UVH        +04 -
+QSO:  3576 FT4 2026-03-16 2018 PE1FBC        -05 -                G0HSP         -04 -
+QSO:  3576 FT4 2026-03-16 2020 PE1FBC        -07 -                II3COR        -02 -
+QSO:  3576 FT4 2026-03-16 2022 PE1FBC        -19 -                M7CWF         +07 -
+QSO:  3576 FT4 2026-03-16 2023 PE1FBC        -13 -                M7OFM         +21 -
+QSO:  3576 FT4 2026-03-16 2025 PE1FBC        -13 -                PH3T          +19 -
+QSO:  3576 FT4 2026-03-16 2026 PE1FBC        -08 -                DR2T          +04 -
+QSO:  3577 FT4 2026-03-16 2033 PE1FBC        -07 -                G7NJX         +06 -
+QSO:  3577 FT4 2026-03-16 2034 PE1FBC        -08 -                DO1NJN        +03 -
+QSO:  3577 FT4 2026-03-16 2038 PE1FBC        +05 -                G1Q           +12 -
+QSO:  3577 FT4 2026-03-16 2039 PE1FBC        -10 -                DM3CH         +13 -
+QSO:  3577 FT4 2026-03-16 2041 PE1FBC        -01 -                G4OZG         +01 -
+QSO:  3577 FT4 2026-03-16 2043 PE1FBC        -08 -                M5RJC         +07 -
+QSO:  3577 FT4 2026-03-16 2045 PE1FBC        -10 -                GW0ARK        +02 -
+QSO:  3577 FT4 2026-03-16 2047 PE1FBC        -16 -                MW0CVT        -02 -
+QSO:  3577 FT4 2026-03-16 2048 PE1FBC        -07 -                DJ9MH         +05 -
+QSO:  3577 FT4 2026-03-16 2052 PE1FBC        -15 -                SP1TJ         -10 -
+QSO:  3577 FT4 2026-03-16 2053 PE1FBC        -06 -                M8M           +11 -
+QSO:  3577 FT4 2026-03-16 2054 PE1FBC        -11 -                G4DBW         +14 -
+QSO:  3577 FT4 2026-03-16 2100 PE1FBC        +03 -                G3MXH         +14 -
+QSO:  3577 FT4 2026-03-16 2101 PE1FBC        -12 -                DL7VTW        +04 -
+QSO:  3577 FT4 2026-03-16 2102 PE1FBC        -02 -                DO8PAT        -06 -
+QSO:  3577 FT4 2026-03-16 2103 PE1FBC        -10 -                G4PDF         +02 -
+QSO:  3577 FT4 2026-03-16 2109 PE1FBC        -11 -                OK2USM        -06 -
 END-OF-LOG:

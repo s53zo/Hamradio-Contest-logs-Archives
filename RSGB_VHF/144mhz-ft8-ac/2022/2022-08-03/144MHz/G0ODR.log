@@ -10,25 +10,25 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220803&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1776; excluded rows=3.
-QSO:   144 DG 2022-08-03 1902 G0ODR         +00 JO02             PA7PYR        -03 JO21
-QSO:   144 DG 2022-08-03 1911 G0ODR         -03 JO02             G3MXH         -24 JO02
-QSO:   144 DG 2022-08-03 1920 G0ODR         -07 JO02             2E0DUE        -04 JO01
-QSO:   144 DG 2022-08-03 1922 G0ODR         -06 JO02             G0JJG         -12 JO02
-QSO:   144 DG 2022-08-03 1932 G0ODR         +02 JO02             M0NKR         -10 JO02
-QSO:   144 DG 2022-08-03 1935 G0ODR         -03 JO02             G8CRB         -04 JO02
-QSO:   144 DG 2022-08-03 1936 G0ODR         -03 JO02             G4OED         -16 IO91
-QSO:   144 DG 2022-08-03 1948 G0ODR         +11 JO02             PD6Z          -05 JO22
-QSO:   144 DG 2022-08-03 1951 G0ODR         +15 JO02             PE1KL         -02 JO21
-QSO:   144 DG 2022-08-03 1953 G0ODR         +05 JO02             DG6YID        -10 JO42
-QSO:   144 DG 2022-08-03 1957 G0ODR         -01 JO02             DL5EBS        -13 JO31
-QSO:   144 DG 2022-08-03 2001 G0ODR         -03 JO02             PA2CV         -14 JO32
-QSO:   144 DG 2022-08-03 2005 G0ODR         +12 JO02             DL5EBS        -11 JO31
-QSO:   144 DG 2022-08-03 2020 G0ODR         -09 JO02             G7COU         -09 IO93
-QSO:   144 DG 2022-08-03 2027 G0ODR         +00 JO02             G4CDF         -11 IO91
-QSO:   144 DG 2022-08-03 2029 G0ODR         +01 JO02             G3SED         -13 IO90
-QSO:   144 DG 2022-08-03 2034 G0ODR         +13 JO02             G7LRQ         -04 IO91
-QSO:   144 DG 2022-08-03 2038 G0ODR         -07 JO02             TM62YT        +01 JN18
-QSO:   144 DG 2022-08-03 2054 G0ODR         +02 JO02             G7WIR         -09 JO01
+QSO:   144 FT8 2022-08-03 1902 G0ODR         +00 JO02             PA7PYR        -03 JO21
+QSO:   144 FT8 2022-08-03 1911 G0ODR         -03 JO02             G3MXH         -24 JO02
+QSO:   144 FT8 2022-08-03 1920 G0ODR         -07 JO02             2E0DUE        -04 JO01
+QSO:   144 FT8 2022-08-03 1922 G0ODR         -06 JO02             G0JJG         -12 JO02
+QSO:   144 FT8 2022-08-03 1932 G0ODR         +02 JO02             M0NKR         -10 JO02
+QSO:   144 FT8 2022-08-03 1935 G0ODR         -03 JO02             G8CRB         -04 JO02
+QSO:   144 FT8 2022-08-03 1936 G0ODR         -03 JO02             G4OED         -16 IO91
+QSO:   144 FT8 2022-08-03 1948 G0ODR         +11 JO02             PD6Z          -05 JO22
+QSO:   144 FT8 2022-08-03 1951 G0ODR         +15 JO02             PE1KL         -02 JO21
+QSO:   144 FT8 2022-08-03 1953 G0ODR         +05 JO02             DG6YID        -10 JO42
+QSO:   144 FT8 2022-08-03 1957 G0ODR         -01 JO02             DL5EBS        -13 JO31
+QSO:   144 FT8 2022-08-03 2001 G0ODR         -03 JO02             PA2CV         -14 JO32
+QSO:   144 FT8 2022-08-03 2005 G0ODR         +12 JO02             DL5EBS        -11 JO31
+QSO:   144 FT8 2022-08-03 2020 G0ODR         -09 JO02             G7COU         -09 IO93
+QSO:   144 FT8 2022-08-03 2027 G0ODR         +00 JO02             G4CDF         -11 IO91
+QSO:   144 FT8 2022-08-03 2029 G0ODR         +01 JO02             G3SED         -13 IO90
+QSO:   144 FT8 2022-08-03 2034 G0ODR         +13 JO02             G7LRQ         -04 IO91
+QSO:   144 FT8 2022-08-03 2038 G0ODR         -07 JO02             TM62YT        +01 JN18
+QSO:   144 FT8 2022-08-03 2054 G0ODR         +02 JO02             G7WIR         -09 JO01
 END-OF-LOG:

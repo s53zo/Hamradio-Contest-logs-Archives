@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260513&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=504; excluded rows=0.
-QSO:   432 DG 2026-05-13 1932 G4PIQ         -16 JO02             PI50VPO       -13 JO21
-QSO:   432 DG 2026-05-13 1933 G4PIQ         +02 JO02             G4ZTR         +00 JO01
-QSO:   432 DG 2026-05-13 1936 G4PIQ         -11 JO02             G0JDL         -16 JO02
-QSO:   432 DG 2026-05-13 1940 G4PIQ         -02 JO02             G0JJG         +00 JO02
-QSO:   432 DG 2026-05-13 1943 G4PIQ         -15 JO02             DK0TR         -21 JO40
-QSO:   432 DG 2026-05-13 1953 G4PIQ         -13 JO02             G8SEI         -16 IO92
-QSO:   432 DG 2026-05-13 2008 G4PIQ         -15 JO02             F1NQP         -19 JN19
-QSO:   432 DG 2026-05-13 2014 G4PIQ         +00 JO02             G7LRQ         -14 JO03
-QSO:   432 DG 2026-05-13 2016 G4PIQ         -12 JO02             M9VGP         -18 IO91
-QSO:   432 DG 2026-05-13 2018 G4PIQ         -23 JO02             G0GJV         -10 IO91
-QSO:   432 DG 2026-05-13 2019 G4PIQ         -15 JO02             G0XDI         -25 IO91
-QSO:   432 DG 2026-05-13 2024 G4PIQ         -06 JO02             G7RDX         -11 IO91
-QSO:   432 DG 2026-05-13 2028 G4PIQ         -08 JO02             G7ICV         -08 JO01
-QSO:   432 DG 2026-05-13 2030 G4PIQ         -14 JO02             G3YDY         -04 JO01
-QSO:   432 DG 2026-05-13 2048 G4PIQ         -12 JO02             EI2FG         -23 IO61
-QSO:   432 DG 2026-05-13 2050 G4PIQ         -09 JO02             G4BAO         -12 JO02
+QSO:   432 FT8 2026-05-13 1932 G4PIQ         -16 JO02             PI50VPO       -13 JO21
+QSO:   432 FT8 2026-05-13 1933 G4PIQ         +02 JO02             G4ZTR         +00 JO01
+QSO:   432 FT8 2026-05-13 1936 G4PIQ         -11 JO02             G0JDL         -16 JO02
+QSO:   432 FT8 2026-05-13 1940 G4PIQ         -02 JO02             G0JJG         +00 JO02
+QSO:   432 FT8 2026-05-13 1943 G4PIQ         -15 JO02             DK0TR         -21 JO40
+QSO:   432 FT8 2026-05-13 1953 G4PIQ         -13 JO02             G8SEI         -16 IO92
+QSO:   432 FT8 2026-05-13 2008 G4PIQ         -15 JO02             F1NQP         -19 JN19
+QSO:   432 FT8 2026-05-13 2014 G4PIQ         +00 JO02             G7LRQ         -14 JO03
+QSO:   432 FT8 2026-05-13 2016 G4PIQ         -12 JO02             M9VGP         -18 IO91
+QSO:   432 FT8 2026-05-13 2018 G4PIQ         -23 JO02             G0GJV         -10 IO91
+QSO:   432 FT8 2026-05-13 2019 G4PIQ         -15 JO02             G0XDI         -25 IO91
+QSO:   432 FT8 2026-05-13 2024 G4PIQ         -06 JO02             G7RDX         -11 IO91
+QSO:   432 FT8 2026-05-13 2028 G4PIQ         -08 JO02             G7ICV         -08 JO01
+QSO:   432 FT8 2026-05-13 2030 G4PIQ         -14 JO02             G3YDY         -04 JO01
+QSO:   432 FT8 2026-05-13 2048 G4PIQ         -12 JO02             EI2FG         -23 IO61
+QSO:   432 FT8 2026-05-13 2050 G4PIQ         -09 JO02             G4BAO         -12 JO02
 END-OF-LOG:

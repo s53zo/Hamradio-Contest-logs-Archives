@@ -10,27 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220209&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=864; excluded rows=0.
-QSO:   432 DG 2022-02-09 1910 GM8MJV        -06 IO85             G4JIX         -07 IO94
-QSO:   432 DG 2022-02-09 1918 GM8MJV        -07 IO85             G4APJ         -04 IO83
-QSO:   432 DG 2022-02-09 1921 GM8MJV        -18 IO85             G0ISX         -19 IO93
-QSO:   432 DG 2022-02-09 1924 GM8MJV        -23 IO85             M0AHN         -11 IO91
-QSO:   432 DG 2022-02-09 1932 GM8MJV        +03 IO85             G8EOP         -01 IO93
-QSO:   432 DG 2022-02-09 1938 GM8MJV        +18 IO85             G8SEI         +04 IO92
-QSO:   432 DG 2022-02-09 1944 GM8MJV        -15 IO85             G0LGS         -21 IO81
-QSO:   432 DG 2022-02-09 1946 GM8MJV        -13 IO85             G0CNN         -18 IO94
-QSO:   432 DG 2022-02-09 1948 GM8MJV        -08 IO85             G4NBS         -14 JO02
-QSO:   432 DG 2022-02-09 2007 GM8MJV        +03 IO85             G4VPD         -02 IO92
-QSO:   432 DG 2022-02-09 2011 GM8MJV        -11 IO85             GM0EWX        -06 IO67
-QSO:   432 DG 2022-02-09 2014 GM8MJV        -16 IO85             MM0INH        -05 IO85
-QSO:   432 DG 2022-02-09 2015 GM8MJV        +11 IO85             G8SEI         -12 IO92
-QSO:   432 DG 2022-02-09 2019 GM8MJV        -14 IO85             G8EEM         -04 IO93
-QSO:   432 DG 2022-02-09 2020 GM8MJV        -19 IO85             G8GNI         -17 IO91
-QSO:   432 DG 2022-02-09 2023 GM8MJV        -16 IO85             GM4FVM        -11 IO85
-QSO:   432 DG 2022-02-09 2028 GM8MJV        -07 IO85             G3YKI         -14 IO82
-QSO:   432 DG 2022-02-09 2033 GM8MJV        -17 IO85             GI4SNA        -17 IO64
-QSO:   432 DG 2022-02-09 2034 GM8MJV        -06 IO85             G0JCC         -06 IO82
-QSO:   432 DG 2022-02-09 2037 GM8MJV        -12 IO85             G3ZPB         -13 IO91
-QSO:   432 DG 2022-02-09 2059 GM8MJV        -06 IO85             G0XDI         -14 IO91
+QSO:   432 FT8 2022-02-09 1910 GM8MJV        -06 IO85             G4JIX         -07 IO94
+QSO:   432 FT8 2022-02-09 1918 GM8MJV        -07 IO85             G4APJ         -04 IO83
+QSO:   432 FT8 2022-02-09 1921 GM8MJV        -18 IO85             G0ISX         -19 IO93
+QSO:   432 FT8 2022-02-09 1924 GM8MJV        -23 IO85             M0AHN         -11 IO91
+QSO:   432 FT8 2022-02-09 1932 GM8MJV        +03 IO85             G8EOP         -01 IO93
+QSO:   432 FT8 2022-02-09 1938 GM8MJV        +18 IO85             G8SEI         +04 IO92
+QSO:   432 FT8 2022-02-09 1944 GM8MJV        -15 IO85             G0LGS         -21 IO81
+QSO:   432 FT8 2022-02-09 1946 GM8MJV        -13 IO85             G0CNN         -18 IO94
+QSO:   432 FT8 2022-02-09 1948 GM8MJV        -08 IO85             G4NBS         -14 JO02
+QSO:   432 FT8 2022-02-09 2007 GM8MJV        +03 IO85             G4VPD         -02 IO92
+QSO:   432 FT8 2022-02-09 2011 GM8MJV        -11 IO85             GM0EWX        -06 IO67
+QSO:   432 FT8 2022-02-09 2014 GM8MJV        -16 IO85             MM0INH        -05 IO85
+QSO:   432 FT8 2022-02-09 2015 GM8MJV        +11 IO85             G8SEI         -12 IO92
+QSO:   432 FT8 2022-02-09 2019 GM8MJV        -14 IO85             G8EEM         -04 IO93
+QSO:   432 FT8 2022-02-09 2020 GM8MJV        -19 IO85             G8GNI         -17 IO91
+QSO:   432 FT8 2022-02-09 2023 GM8MJV        -16 IO85             GM4FVM        -11 IO85
+QSO:   432 FT8 2022-02-09 2028 GM8MJV        -07 IO85             G3YKI         -14 IO82
+QSO:   432 FT8 2022-02-09 2033 GM8MJV        -17 IO85             GI4SNA        -17 IO64
+QSO:   432 FT8 2022-02-09 2034 GM8MJV        -06 IO85             G0JCC         -06 IO82
+QSO:   432 FT8 2022-02-09 2037 GM8MJV        -12 IO85             G3ZPB         -13 IO91
+QSO:   432 FT8 2022-02-09 2059 GM8MJV        -06 IO85             G0XDI         -14 IO91
 END-OF-LOG:

@@ -10,43 +10,43 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260506&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1140; excluded rows=1.
-QSO:   144 DG 2026-05-06 1901 G0JJG         -11 JO02             TM8DW         -13 JO00
-QSO:   144 DG 2026-05-06 1905 G0JJG         +01 JO02             G4ZTR         +01 JO01
-QSO:   144 DG 2026-05-06 1906 G0JJG         -11 JO02             G3WZK         -07 IO91
-QSO:   144 DG 2026-05-06 1907 G0JJG         -07 JO02             G0BIX         +07 JO01
-QSO:   144 DG 2026-05-06 1914 G0JJG         -02 JO02             G3MXH         +04 JO02
-QSO:   144 DG 2026-05-06 1917 G0JJG         -15 JO02             G4FLM         -11 IO94
-QSO:   144 DG 2026-05-06 1920 G0JJG         -18 JO02             EI8KN         -16 IO62
-QSO:   144 DG 2026-05-06 1928 G0JJG         -08 JO02             G4NBS         -07 JO02
-QSO:   144 DG 2026-05-06 1930 G0JJG         -04 JO02             G3WAG/P       +10 IO82
-QSO:   144 DG 2026-05-06 1936 G0JJG         -13 JO02             EI4ACB        -06 IO62
-QSO:   144 DG 2026-05-06 1938 G0JJG         -06 JO02             M0SKT         -03 IO92
-QSO:   144 DG 2026-05-06 1944 G0JJG         -17 JO02             G7ABT         -21 IO93
-QSO:   144 DG 2026-05-06 1947 G0JJG         -21 JO02             G0ODR         -01 JO02
-QSO:   144 DG 2026-05-06 1958 G0JJG         -15 JO02             G6HIE         -02 JO00
-QSO:   144 DG 2026-05-06 2001 G0JJG         -14 JO02             F1NQP         -14 JN19
-QSO:   144 DG 2026-05-06 2003 G0JJG         -11 JO02             PA4Y          -06 JO21
-QSO:   144 DG 2026-05-06 2005 G0JJG         -15 JO02             DL5EBS        -06 JO31
-QSO:   144 DG 2026-05-06 2008 G0JJG         -20 JO02             G0GJV         -09 IO91
-QSO:   144 DG 2026-05-06 2010 G0JJG         +00 JO02             G8SEI         +00 IO92
-QSO:   144 DG 2026-05-06 2011 G0JJG         -19 JO02             ON8NT         -03 JO11
-QSO:   144 DG 2026-05-06 2013 G0JJG         -01 JO02             G3YDY         -03 JO01
-QSO:   144 DG 2026-05-06 2014 G0JJG         -13 JO02             PH2M          -15 JO22
-QSO:   144 DG 2026-05-06 2016 G0JJG         -08 JO02             G7LRQ         -06 JO03
-QSO:   144 DG 2026-05-06 2019 G0JJG         -17 JO02             G3UQW         -15 IO90
-QSO:   144 DG 2026-05-06 2021 G0JJG         -08 JO02             G4HGI         -13 IO83
-QSO:   144 DG 2026-05-06 2023 G0JJG         -24 JO02             GI4SNA        -11 IO64
-QSO:   144 DG 2026-05-06 2025 G0JJG         -07 JO02             G8EEM         -22 IO93
-QSO:   144 DG 2026-05-06 2030 G0JJG         -26 JO02             MI0IHH        -17 IO74
-QSO:   144 DG 2026-05-06 2032 G0JJG         -03 JO02             G0JDL         -01 JO02
-QSO:   144 DG 2026-05-06 2033 G0JJG         -15 JO02             G7WIR         -13 JO01
-QSO:   144 DG 2026-05-06 2035 G0JJG         -18 JO02             G0RAS         -10 IO91
-QSO:   144 DG 2026-05-06 2041 G0JJG         -17 JO02             F8BON         -06 IN86
-QSO:   144 DG 2026-05-06 2045 G0JJG         -08 JO02             PE1OBL        -01 JO21
-QSO:   144 DG 2026-05-06 2046 G0JJG         -15 JO02             G7RDX         -07 IO91
-QSO:   144 DG 2026-05-06 2048 G0JJG         -11 JO02             ON5RZ         +08 JO21
-QSO:   144 DG 2026-05-06 2054 G0JJG         -20 JO02             M7APV         -21 JO01
-QSO:   144 DG 2026-05-06 2057 G0JJG         -09 JO02             PA3EKM        -15 JO33
+QSO:   144 FT8 2026-05-06 1901 G0JJG         -11 JO02             TM8DW         -13 JO00
+QSO:   144 FT8 2026-05-06 1905 G0JJG         +01 JO02             G4ZTR         +01 JO01
+QSO:   144 FT8 2026-05-06 1906 G0JJG         -11 JO02             G3WZK         -07 IO91
+QSO:   144 FT8 2026-05-06 1907 G0JJG         -07 JO02             G0BIX         +07 JO01
+QSO:   144 FT8 2026-05-06 1914 G0JJG         -02 JO02             G3MXH         +04 JO02
+QSO:   144 FT8 2026-05-06 1917 G0JJG         -15 JO02             G4FLM         -11 IO94
+QSO:   144 FT8 2026-05-06 1920 G0JJG         -18 JO02             EI8KN         -16 IO62
+QSO:   144 FT8 2026-05-06 1928 G0JJG         -08 JO02             G4NBS         -07 JO02
+QSO:   144 FT8 2026-05-06 1930 G0JJG         -04 JO02             G3WAG/P       +10 IO82
+QSO:   144 FT8 2026-05-06 1936 G0JJG         -13 JO02             EI4ACB        -06 IO62
+QSO:   144 FT8 2026-05-06 1938 G0JJG         -06 JO02             M0SKT         -03 IO92
+QSO:   144 FT8 2026-05-06 1944 G0JJG         -17 JO02             G7ABT         -21 IO93
+QSO:   144 FT8 2026-05-06 1947 G0JJG         -21 JO02             G0ODR         -01 JO02
+QSO:   144 FT8 2026-05-06 1958 G0JJG         -15 JO02             G6HIE         -02 JO00
+QSO:   144 FT8 2026-05-06 2001 G0JJG         -14 JO02             F1NQP         -14 JN19
+QSO:   144 FT8 2026-05-06 2003 G0JJG         -11 JO02             PA4Y          -06 JO21
+QSO:   144 FT8 2026-05-06 2005 G0JJG         -15 JO02             DL5EBS        -06 JO31
+QSO:   144 FT8 2026-05-06 2008 G0JJG         -20 JO02             G0GJV         -09 IO91
+QSO:   144 FT8 2026-05-06 2010 G0JJG         +00 JO02             G8SEI         +00 IO92
+QSO:   144 FT8 2026-05-06 2011 G0JJG         -19 JO02             ON8NT         -03 JO11
+QSO:   144 FT8 2026-05-06 2013 G0JJG         -01 JO02             G3YDY         -03 JO01
+QSO:   144 FT8 2026-05-06 2014 G0JJG         -13 JO02             PH2M          -15 JO22
+QSO:   144 FT8 2026-05-06 2016 G0JJG         -08 JO02             G7LRQ         -06 JO03
+QSO:   144 FT8 2026-05-06 2019 G0JJG         -17 JO02             G3UQW         -15 IO90
+QSO:   144 FT8 2026-05-06 2021 G0JJG         -08 JO02             G4HGI         -13 IO83
+QSO:   144 FT8 2026-05-06 2023 G0JJG         -24 JO02             GI4SNA        -11 IO64
+QSO:   144 FT8 2026-05-06 2025 G0JJG         -07 JO02             G8EEM         -22 IO93
+QSO:   144 FT8 2026-05-06 2030 G0JJG         -26 JO02             MI0IHH        -17 IO74
+QSO:   144 FT8 2026-05-06 2032 G0JJG         -03 JO02             G0JDL         -01 JO02
+QSO:   144 FT8 2026-05-06 2033 G0JJG         -15 JO02             G7WIR         -13 JO01
+QSO:   144 FT8 2026-05-06 2035 G0JJG         -18 JO02             G0RAS         -10 IO91
+QSO:   144 FT8 2026-05-06 2041 G0JJG         -17 JO02             F8BON         -06 IN86
+QSO:   144 FT8 2026-05-06 2045 G0JJG         -08 JO02             PE1OBL        -01 JO21
+QSO:   144 FT8 2026-05-06 2046 G0JJG         -15 JO02             G7RDX         -07 IO91
+QSO:   144 FT8 2026-05-06 2048 G0JJG         -11 JO02             ON5RZ         +08 JO21
+QSO:   144 FT8 2026-05-06 2054 G0JJG         -20 JO02             M7APV         -21 JO01
+QSO:   144 FT8 2026-05-06 2057 G0JJG         -09 JO02             PA3EKM        -15 JO33
 END-OF-LOG:

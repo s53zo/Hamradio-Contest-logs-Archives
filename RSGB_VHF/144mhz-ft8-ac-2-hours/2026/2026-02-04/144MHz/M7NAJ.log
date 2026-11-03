@@ -10,37 +10,37 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260204&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=927; excluded rows=0.
-QSO:   144 DG 2026-02-04 1902 M7NAJ         -19 JO01             ON8NT         -11 JO11
-QSO:   144 DG 2026-02-04 1904 M7NAJ         -04 JO01             DJ2KP         -10 JO42
-QSO:   144 DG 2026-02-04 1906 M7NAJ         +05 JO01             G0XDI         -11 IO91
-QSO:   144 DG 2026-02-04 1909 M7NAJ         -11 JO01             G3WZK         +01 IO91
-QSO:   144 DG 2026-02-04 1910 M7NAJ         +06 JO01             F1NQP         -04 JN19
-QSO:   144 DG 2026-02-04 1913 M7NAJ         -02 JO01             G4RFR         -14 -
-QSO:   144 DG 2026-02-04 1915 M7NAJ         -09 JO01             G0GJV         -01 IO91
-QSO:   144 DG 2026-02-04 1920 M7NAJ         -01 JO01             G4FLM         -04 IO94
-QSO:   144 DG 2026-02-04 1922 M7NAJ         -17 JO01             2E0MRK        -14 IO91
-QSO:   144 DG 2026-02-04 1927 M7NAJ         -07 JO01             G0ODR         +00 JO02
-QSO:   144 DG 2026-02-04 1928 M7NAJ         +11 JO01             G4PIQ         -15 JO02
-QSO:   144 DG 2026-02-04 1931 M7NAJ         -15 JO01             G8IXK         +01 IO91
-QSO:   144 DG 2026-02-04 1933 M7NAJ         +14 JO01             G3YDY         +19 JO01
-QSO:   144 DG 2026-02-04 1940 M7NAJ         -03 JO01             G3WAG         -07 IO82
-QSO:   144 DG 2026-02-04 1942 M7NAJ         +05 JO01             G7LRQ         +18 JO03
-QSO:   144 DG 2026-02-04 1944 M7NAJ         -09 JO01             G7ICV         +00 JO01
-QSO:   144 DG 2026-02-04 1950 M7NAJ         -25 JO01             M7GOA         -22 JO01
-QSO:   144 DG 2026-02-04 1957 M7NAJ         -05 JO01             G0JDL         -11 JO02
-QSO:   144 DG 2026-02-04 1959 M7NAJ         +01 JO01             G0BIX         +05 JO01
-QSO:   144 DG 2026-02-04 2001 M7NAJ         +21 JO01             G7WIR         +37 JO01
-QSO:   144 DG 2026-02-04 2003 M7NAJ         -05 JO01             DO3HTV        -13 JO32
-QSO:   144 DG 2026-02-04 2010 M7NAJ         -07 JO01             DL5EBS        -06 JO31
-QSO:   144 DG 2026-02-04 2011 M7NAJ         -11 JO01             G1HJW         -25 -
-QSO:   144 DG 2026-02-04 2023 M7NAJ         -11 JO01             G8AQX         -04 IO90
-QSO:   144 DG 2026-02-04 2030 M7NAJ         -14 JO01             G8AQX         -11 IO90
-QSO:   144 DG 2026-02-04 2033 M7NAJ         -14 JO01             G8AQX         -11 -
-QSO:   144 DG 2026-02-04 2036 M7NAJ         -05 JO01             M0SKT         -19 IO92
-QSO:   144 DG 2026-02-04 2040 M7NAJ         -04 JO01             G4FLM         +19 IO94
-QSO:   144 DG 2026-02-04 2041 M7NAJ         -17 JO01             M9KDM         -12 IO93
-QSO:   144 DG 2026-02-04 2042 M7NAJ         -17 JO01             M9KDM         -12 IO93
-QSO:   144 DG 2026-02-04 2045 M7NAJ         -20 JO01             M7APV         -20 JO01
+QSO:   144 FT8 2026-02-04 1902 M7NAJ         -19 JO01             ON8NT         -11 JO11
+QSO:   144 FT8 2026-02-04 1904 M7NAJ         -04 JO01             DJ2KP         -10 JO42
+QSO:   144 FT8 2026-02-04 1906 M7NAJ         +05 JO01             G0XDI         -11 IO91
+QSO:   144 FT8 2026-02-04 1909 M7NAJ         -11 JO01             G3WZK         +01 IO91
+QSO:   144 FT8 2026-02-04 1910 M7NAJ         +06 JO01             F1NQP         -04 JN19
+QSO:   144 FT8 2026-02-04 1913 M7NAJ         -02 JO01             G4RFR         -14 -
+QSO:   144 FT8 2026-02-04 1915 M7NAJ         -09 JO01             G0GJV         -01 IO91
+QSO:   144 FT8 2026-02-04 1920 M7NAJ         -01 JO01             G4FLM         -04 IO94
+QSO:   144 FT8 2026-02-04 1922 M7NAJ         -17 JO01             2E0MRK        -14 IO91
+QSO:   144 FT8 2026-02-04 1927 M7NAJ         -07 JO01             G0ODR         +00 JO02
+QSO:   144 FT8 2026-02-04 1928 M7NAJ         +11 JO01             G4PIQ         -15 JO02
+QSO:   144 FT8 2026-02-04 1931 M7NAJ         -15 JO01             G8IXK         +01 IO91
+QSO:   144 FT8 2026-02-04 1933 M7NAJ         +14 JO01             G3YDY         +19 JO01
+QSO:   144 FT8 2026-02-04 1940 M7NAJ         -03 JO01             G3WAG         -07 IO82
+QSO:   144 FT8 2026-02-04 1942 M7NAJ         +05 JO01             G7LRQ         +18 JO03
+QSO:   144 FT8 2026-02-04 1944 M7NAJ         -09 JO01             G7ICV         +00 JO01
+QSO:   144 FT8 2026-02-04 1950 M7NAJ         -25 JO01             M7GOA         -22 JO01
+QSO:   144 FT8 2026-02-04 1957 M7NAJ         -05 JO01             G0JDL         -11 JO02
+QSO:   144 FT8 2026-02-04 1959 M7NAJ         +01 JO01             G0BIX         +05 JO01
+QSO:   144 FT8 2026-02-04 2001 M7NAJ         +21 JO01             G7WIR         +37 JO01
+QSO:   144 FT8 2026-02-04 2003 M7NAJ         -05 JO01             DO3HTV        -13 JO32
+QSO:   144 FT8 2026-02-04 2010 M7NAJ         -07 JO01             DL5EBS        -06 JO31
+QSO:   144 FT8 2026-02-04 2011 M7NAJ         -11 JO01             G1HJW         -25 -
+QSO:   144 FT8 2026-02-04 2023 M7NAJ         -11 JO01             G8AQX         -04 IO90
+QSO:   144 FT8 2026-02-04 2030 M7NAJ         -14 JO01             G8AQX         -11 IO90
+QSO:   144 FT8 2026-02-04 2033 M7NAJ         -14 JO01             G8AQX         -11 -
+QSO:   144 FT8 2026-02-04 2036 M7NAJ         -05 JO01             M0SKT         -19 IO92
+QSO:   144 FT8 2026-02-04 2040 M7NAJ         -04 JO01             G4FLM         +19 IO94
+QSO:   144 FT8 2026-02-04 2041 M7NAJ         -17 JO01             M9KDM         -12 IO93
+QSO:   144 FT8 2026-02-04 2042 M7NAJ         -17 JO01             M9KDM         -12 IO93
+QSO:   144 FT8 2026-02-04 2045 M7NAJ         -20 JO01             M7APV         -20 JO01
 END-OF-LOG:

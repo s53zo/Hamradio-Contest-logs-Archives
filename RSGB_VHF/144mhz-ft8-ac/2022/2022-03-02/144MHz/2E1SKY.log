@@ -10,21 +10,21 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1303; excluded rows=0.
-QSO:   144 DG 2022-03-02 1906 2E1SKY        +11 IO93             G0HDV         +13 IO93
-QSO:   144 DG 2022-03-02 1908 2E1SKY        +23 IO93             G4PDF         +18 IO93
-QSO:   144 DG 2022-03-02 1926 2E1SKY        +03 IO93             G7KHV         -03 IO93
-QSO:   144 DG 2022-03-02 1928 2E1SKY        +04 IO93             G7COU         +05 IO93
-QSO:   144 DG 2022-03-02 2001 2E1SKY        +25 IO93             G4PDF         +24 IO93
-QSO:   144 DG 2022-03-02 2019 2E1SKY        -17 IO93             G0CNN         -15 IO94
-QSO:   144 DG 2022-03-02 2030 2E1SKY        -02 IO93             G8REM         -01 IO93
-QSO:   144 DG 2022-03-02 2033 2E1SKY        -05 IO93             G0BWG         -16 IO93
-QSO:   144 DG 2022-03-02 2038 2E1SKY        -17 IO93             2E0DBS        -15 JO02
-QSO:   144 DG 2022-03-02 2046 2E1SKY        -14 IO93             G7HJX         -09 IO92
-QSO:   144 DG 2022-03-02 2048 2E1SKY        -11 IO93             G3YKI         -20 IO82
-QSO:   144 DG 2022-03-02 2054 2E1SKY        -03 IO93             2E0FQT        -09 IO93
-QSO:   144 DG 2022-03-02 2059 2E1SKY        -05 IO93             G4EII         -12 IO83
-QSO:   144 DG 2022-03-02 2104 2E1SKY        -08 IO93             G4TUH         -11 IO92
-QSO:   144 DG 2022-03-02 2119 2E1SKY        -09 IO93             EI4ACB        -12 IO62
+QSO:   144 FT8 2022-03-02 1906 2E1SKY        +11 IO93             G0HDV         +13 IO93
+QSO:   144 FT8 2022-03-02 1908 2E1SKY        +23 IO93             G4PDF         +18 IO93
+QSO:   144 FT8 2022-03-02 1926 2E1SKY        +03 IO93             G7KHV         -03 IO93
+QSO:   144 FT8 2022-03-02 1928 2E1SKY        +04 IO93             G7COU         +05 IO93
+QSO:   144 FT8 2022-03-02 2001 2E1SKY        +25 IO93             G4PDF         +24 IO93
+QSO:   144 FT8 2022-03-02 2019 2E1SKY        -17 IO93             G0CNN         -15 IO94
+QSO:   144 FT8 2022-03-02 2030 2E1SKY        -02 IO93             G8REM         -01 IO93
+QSO:   144 FT8 2022-03-02 2033 2E1SKY        -05 IO93             G0BWG         -16 IO93
+QSO:   144 FT8 2022-03-02 2038 2E1SKY        -17 IO93             2E0DBS        -15 JO02
+QSO:   144 FT8 2022-03-02 2046 2E1SKY        -14 IO93             G7HJX         -09 IO92
+QSO:   144 FT8 2022-03-02 2048 2E1SKY        -11 IO93             G3YKI         -20 IO82
+QSO:   144 FT8 2022-03-02 2054 2E1SKY        -03 IO93             2E0FQT        -09 IO93
+QSO:   144 FT8 2022-03-02 2059 2E1SKY        -05 IO93             G4EII         -12 IO83
+QSO:   144 FT8 2022-03-02 2104 2E1SKY        -08 IO93             G4TUH         -11 IO92
+QSO:   144 FT8 2022-03-02 2119 2E1SKY        -09 IO93             EI4ACB        -12 IO62
 END-OF-LOG:

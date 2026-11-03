@@ -10,34 +10,34 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1904 G8CRB         -15 JO02             M0IEP         -13 IO91
-QSO:   144 DG 2022-02-02 1906 G8CRB         -02 JO02             2E0DUE        -01 JO01
-QSO:   144 DG 2022-02-02 1908 G8CRB         -03 JO02             G7WIR         -02 JO01
-QSO:   144 DG 2022-02-02 1910 G8CRB         -09 JO02             F4FET         -13 JO00
-QSO:   144 DG 2022-02-02 1911 G8CRB         -17 JO02             M7ICL         -12 JO02
-QSO:   144 DG 2022-02-02 1915 G8CRB         -17 JO02             PA0JQD        -14 JO21
-QSO:   144 DG 2022-02-02 1920 G8CRB         -21 JO02             PE1EVX        -10 JO22
-QSO:   144 DG 2022-02-02 1922 G8CRB         -21 JO02             PE1NFT        -17 JO21
-QSO:   144 DG 2022-02-02 1924 G8CRB         +04 JO02             G1VWC         +16 IO92
-QSO:   144 DG 2022-02-02 1935 G8CRB         -03 JO02             G4APJ         -06 IO83
-QSO:   144 DG 2022-02-02 1936 G8CRB         -02 JO02             G8AOE/P       +02 IO94
-QSO:   144 DG 2022-02-02 1941 G8CRB         -05 JO02             GI6ATZ        -05 IO74
-QSO:   144 DG 2022-02-02 1943 G8CRB         -14 JO02             M0SKT         -06 IO92
-QSO:   144 DG 2022-02-02 1945 G8CRB         -19 JO02             M7NCN         -10 IO92
-QSO:   144 DG 2022-02-02 1950 G8CRB         -17 JO02             G4XEX         -09 IO92
-QSO:   144 DG 2022-02-02 1954 G8CRB         -16 JO02             G0JJG         -14 JO02
-QSO:   144 DG 2022-02-02 2002 G8CRB         +10 JO02             G3XBM         +18 JO02
-QSO:   144 DG 2022-02-02 2014 G8CRB         -17 JO02             PE4A          -22 JO22
-QSO:   144 DG 2022-02-02 2018 G8CRB         -19 JO02             G3WAG/P       -04 IO82
-QSO:   144 DG 2022-02-02 2027 G8CRB         -12 JO02             M0RTQ         -06 IO93
-QSO:   144 DG 2022-02-02 2029 G8CRB         -17 JO02             G0ISX         -14 IO93
-QSO:   144 DG 2022-02-02 2032 G8CRB         -18 JO02             G4PDF         -06 IO93
-QSO:   144 DG 2022-02-02 2036 G8CRB         -06 JO02             G4JIX         -15 IO94
-QSO:   144 DG 2022-02-02 2038 G8CRB         +21 JO02             G4NBS         +31 JO02
-QSO:   144 DG 2022-02-02 2041 G8CRB         -16 JO02             M7SPS         -13 IO92
-QSO:   144 DG 2022-02-02 2046 G8CRB         -14 JO02             G0XBU         -03 IO83
-QSO:   144 DG 2022-02-02 2052 G8CRB         +06 JO02             G8IXK         -20 IO91
-QSO:   144 DG 2022-02-02 2057 G8CRB         -16 JO02             G3YKI         -15 IO82
+QSO:   144 FT8 2022-02-02 1904 G8CRB         -15 JO02             M0IEP         -13 IO91
+QSO:   144 FT8 2022-02-02 1906 G8CRB         -02 JO02             2E0DUE        -01 JO01
+QSO:   144 FT8 2022-02-02 1908 G8CRB         -03 JO02             G7WIR         -02 JO01
+QSO:   144 FT8 2022-02-02 1910 G8CRB         -09 JO02             F4FET         -13 JO00
+QSO:   144 FT8 2022-02-02 1911 G8CRB         -17 JO02             M7ICL         -12 JO02
+QSO:   144 FT8 2022-02-02 1915 G8CRB         -17 JO02             PA0JQD        -14 JO21
+QSO:   144 FT8 2022-02-02 1920 G8CRB         -21 JO02             PE1EVX        -10 JO22
+QSO:   144 FT8 2022-02-02 1922 G8CRB         -21 JO02             PE1NFT        -17 JO21
+QSO:   144 FT8 2022-02-02 1924 G8CRB         +04 JO02             G1VWC         +16 IO92
+QSO:   144 FT8 2022-02-02 1935 G8CRB         -03 JO02             G4APJ         -06 IO83
+QSO:   144 FT8 2022-02-02 1936 G8CRB         -02 JO02             G8AOE/P       +02 IO94
+QSO:   144 FT8 2022-02-02 1941 G8CRB         -05 JO02             GI6ATZ        -05 IO74
+QSO:   144 FT8 2022-02-02 1943 G8CRB         -14 JO02             M0SKT         -06 IO92
+QSO:   144 FT8 2022-02-02 1945 G8CRB         -19 JO02             M7NCN         -10 IO92
+QSO:   144 FT8 2022-02-02 1950 G8CRB         -17 JO02             G4XEX         -09 IO92
+QSO:   144 FT8 2022-02-02 1954 G8CRB         -16 JO02             G0JJG         -14 JO02
+QSO:   144 FT8 2022-02-02 2002 G8CRB         +10 JO02             G3XBM         +18 JO02
+QSO:   144 FT8 2022-02-02 2014 G8CRB         -17 JO02             PE4A          -22 JO22
+QSO:   144 FT8 2022-02-02 2018 G8CRB         -19 JO02             G3WAG/P       -04 IO82
+QSO:   144 FT8 2022-02-02 2027 G8CRB         -12 JO02             M0RTQ         -06 IO93
+QSO:   144 FT8 2022-02-02 2029 G8CRB         -17 JO02             G0ISX         -14 IO93
+QSO:   144 FT8 2022-02-02 2032 G8CRB         -18 JO02             G4PDF         -06 IO93
+QSO:   144 FT8 2022-02-02 2036 G8CRB         -06 JO02             G4JIX         -15 IO94
+QSO:   144 FT8 2022-02-02 2038 G8CRB         +21 JO02             G4NBS         +31 JO02
+QSO:   144 FT8 2022-02-02 2041 G8CRB         -16 JO02             M7SPS         -13 IO92
+QSO:   144 FT8 2022-02-02 2046 G8CRB         -14 JO02             G0XBU         -03 IO83
+QSO:   144 FT8 2022-02-02 2052 G8CRB         +06 JO02             G8IXK         -20 IO91
+QSO:   144 FT8 2022-02-02 2057 G8CRB         -16 JO02             G3YKI         -15 IO82
 END-OF-LOG:

@@ -10,29 +10,29 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220309&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=880; excluded rows=0.
-QSO:   432 DG 2022-03-09 1906 G8GNI         +02 IO91             G4OED         -09 IO91
-QSO:   432 DG 2022-03-09 1910 G8GNI         -20 IO91             PD7RON        -19 JO22
-QSO:   432 DG 2022-03-09 1920 G8GNI         -06 IO91             G0ISX         -08 IO93
-QSO:   432 DG 2022-03-09 1921 G8GNI         -06 IO91             GM4JTJ        -12 IO86
-QSO:   432 DG 2022-03-09 1923 G8GNI         +00 IO91             G4APJ         -17 IO83
-QSO:   432 DG 2022-03-09 1925 G8GNI         -17 IO91             MM0ABM        -14 IO75
-QSO:   432 DG 2022-03-09 1927 G8GNI         -02 IO91             M0IEP         +06 IO91
-QSO:   432 DG 2022-03-09 1929 G8GNI         +00 IO91             M0ZPU         +02 IO92
-QSO:   432 DG 2022-03-09 1933 G8GNI         -07 IO91             G0XDI         -22 IO91
-QSO:   432 DG 2022-03-09 1935 G8GNI         -02 IO91             G8OO          -09 JO02
-QSO:   432 DG 2022-03-09 1937 G8GNI         -09 IO91             M7ICL         -14 JO02
-QSO:   432 DG 2022-03-09 1942 G8GNI         -06 IO91             ON4QJ         -10 JO20
-QSO:   432 DG 2022-03-09 1944 G8GNI         -01 IO91             2E0JPO        -05 IO91
-QSO:   432 DG 2022-03-09 1945 G8GNI         +00 IO91             2E0DUE        -13 JO01
-QSO:   432 DG 2022-03-09 1950 G8GNI         -13 IO91             G0FVI         -19 IO93
-QSO:   432 DG 2022-03-09 2006 G8GNI         -04 IO91             EI8KN         -14 IO62
-QSO:   432 DG 2022-03-09 2020 G8GNI         +01 IO91             G0ROG         -05 IO91
-QSO:   432 DG 2022-03-09 2021 G8GNI         +13 IO91             G4VPD         -04 IO92
-QSO:   432 DG 2022-03-09 2033 G8GNI         +11 IO91             G4RQI         -02 IO93
-QSO:   432 DG 2022-03-09 2043 G8GNI         -21 IO91             G3WZK         -17 IO91
-QSO:   432 DG 2022-03-09 2044 G8GNI         -08 IO91             EI8KN         -14 IO62
-QSO:   432 DG 2022-03-09 2048 G8GNI         +19 IO91             G4NBS         +06 JO02
-QSO:   432 DG 2022-03-09 2058 G8GNI         -02 IO91             G3YDY         -06 JO01
+QSO:   432 FT8 2022-03-09 1906 G8GNI         +02 IO91             G4OED         -09 IO91
+QSO:   432 FT8 2022-03-09 1910 G8GNI         -20 IO91             PD7RON        -19 JO22
+QSO:   432 FT8 2022-03-09 1920 G8GNI         -06 IO91             G0ISX         -08 IO93
+QSO:   432 FT8 2022-03-09 1921 G8GNI         -06 IO91             GM4JTJ        -12 IO86
+QSO:   432 FT8 2022-03-09 1923 G8GNI         +00 IO91             G4APJ         -17 IO83
+QSO:   432 FT8 2022-03-09 1925 G8GNI         -17 IO91             MM0ABM        -14 IO75
+QSO:   432 FT8 2022-03-09 1927 G8GNI         -02 IO91             M0IEP         +06 IO91
+QSO:   432 FT8 2022-03-09 1929 G8GNI         +00 IO91             M0ZPU         +02 IO92
+QSO:   432 FT8 2022-03-09 1933 G8GNI         -07 IO91             G0XDI         -22 IO91
+QSO:   432 FT8 2022-03-09 1935 G8GNI         -02 IO91             G8OO          -09 JO02
+QSO:   432 FT8 2022-03-09 1937 G8GNI         -09 IO91             M7ICL         -14 JO02
+QSO:   432 FT8 2022-03-09 1942 G8GNI         -06 IO91             ON4QJ         -10 JO20
+QSO:   432 FT8 2022-03-09 1944 G8GNI         -01 IO91             2E0JPO        -05 IO91
+QSO:   432 FT8 2022-03-09 1945 G8GNI         +00 IO91             2E0DUE        -13 JO01
+QSO:   432 FT8 2022-03-09 1950 G8GNI         -13 IO91             G0FVI         -19 IO93
+QSO:   432 FT8 2022-03-09 2006 G8GNI         -04 IO91             EI8KN         -14 IO62
+QSO:   432 FT8 2022-03-09 2020 G8GNI         +01 IO91             G0ROG         -05 IO91
+QSO:   432 FT8 2022-03-09 2021 G8GNI         +13 IO91             G4VPD         -04 IO92
+QSO:   432 FT8 2022-03-09 2033 G8GNI         +11 IO91             G4RQI         -02 IO93
+QSO:   432 FT8 2022-03-09 2043 G8GNI         -21 IO91             G3WZK         -17 IO91
+QSO:   432 FT8 2022-03-09 2044 G8GNI         -08 IO91             EI8KN         -14 IO62
+QSO:   432 FT8 2022-03-09 2048 G8GNI         +19 IO91             G4NBS         +06 JO02
+QSO:   432 FT8 2022-03-09 2058 G8GNI         -02 IO91             G3YDY         -06 JO01
 END-OF-LOG:

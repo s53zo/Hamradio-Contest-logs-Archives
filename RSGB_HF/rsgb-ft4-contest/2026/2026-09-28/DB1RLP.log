@@ -9,18 +9,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260928&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=6998; excluded rows=0.
-QSO:  7049 DG 2026-09-28 1938 DB1RLP        +05 -                G3TKT         +22 -
-QSO: 14082 DG 2026-09-28 1952 DB1RLP        +06 -                W1EQ          -06 -
-QSO:  7047 DG 2026-09-28 2001 DB1RLP        +07 -                OZ7DR         -02 -
-QSO:  3578 DG 2026-09-28 2004 DB1RLP        +08 -                IN3OWY        -06 -
-QSO:  3578 DG 2026-09-28 2008 DB1RLP        -01 -                PC4H          +11 -
-QSO:  3578 DG 2026-09-28 2008 DB1RLP        -01 -                PC4H          +11 -
-QSO:  7048 DG 2026-09-28 2016 DB1RLP        +18 -                M5RJC         +18 -
-QSO:  7048 DG 2026-09-28 2027 DB1RLP        -10 -                G6MTI         +18 -
-QSO:  3577 DG 2026-09-28 2039 DB1RLP        +05 -                DJ9MH         +00 -
-QSO:  7048 DG 2026-09-28 2043 DB1RLP        +05 -                HG7WDL        +00 -
-QSO:  7048 DG 2026-09-28 2050 DB1RLP        -06 -                SP5CQI        -05 -
-QSO:  3576 DG 2026-09-28 2056 DB1RLP        +08 -                PE1LZZ        -01 -
-QSO:  3576 DG 2026-09-28 2057 DB1RLP        +12 -                DO1NJN        +01 -
+QSO:  7049 FT4 2026-09-28 1938 DB1RLP        +05 -                G3TKT         +22 -
+QSO: 14082 FT4 2026-09-28 1952 DB1RLP        +06 -                W1EQ          -06 -
+QSO:  7047 FT4 2026-09-28 2001 DB1RLP        +07 -                OZ7DR         -02 -
+QSO:  3578 FT4 2026-09-28 2004 DB1RLP        +08 -                IN3OWY        -06 -
+QSO:  3578 FT4 2026-09-28 2008 DB1RLP        -01 -                PC4H          +11 -
+QSO:  3578 FT4 2026-09-28 2008 DB1RLP        -01 -                PC4H          +11 -
+QSO:  7048 FT4 2026-09-28 2016 DB1RLP        +18 -                M5RJC         +18 -
+QSO:  7048 FT4 2026-09-28 2027 DB1RLP        -10 -                G6MTI         +18 -
+QSO:  3577 FT4 2026-09-28 2039 DB1RLP        +05 -                DJ9MH         +00 -
+QSO:  7048 FT4 2026-09-28 2043 DB1RLP        +05 -                HG7WDL        +00 -
+QSO:  7048 FT4 2026-09-28 2050 DB1RLP        -06 -                SP5CQI        -05 -
+QSO:  3576 FT4 2026-09-28 2056 DB1RLP        +08 -                PE1LZZ        -01 -
+QSO:  3576 FT4 2026-09-28 2057 DB1RLP        +12 -                DO1NJN        +01 -
 END-OF-LOG:

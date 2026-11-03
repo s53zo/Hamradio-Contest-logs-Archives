@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260401&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=976; excluded rows=0.
-QSO:   144 DG 2026-04-01 1942 G3UQW         +05 IO90             G7WIR         -03 JO01
-QSO:   144 DG 2026-04-01 1953 G3UQW         -02 IO90             G0JJG         -23 JO02
-QSO:   144 DG 2026-04-01 2001 G3UQW         -07 IO90             G4LBJ         -12 JO02
-QSO:   144 DG 2026-04-01 2003 G3UQW         -11 IO90             G8IXK         -17 IO91
-QSO:   144 DG 2026-04-01 2013 G3UQW         -05 IO90             G0BIX         -04 JO01
-QSO:   144 DG 2026-04-01 2017 G3UQW         -04 IO90             G7RDX         -20 IO91
-QSO:   144 DG 2026-04-01 2020 G3UQW         -11 IO90             F1NQP         -17 JN19
-QSO:   144 DG 2026-04-01 2026 G3UQW         +01 IO90             M6JAY         -06 IO90
-QSO:   144 DG 2026-04-01 2039 G3UQW         -02 IO90             G7COU         -15 IO93
-QSO:   144 DG 2026-04-01 2053 G3UQW         +06 IO90             G7LRQ         -06 JO03
-QSO:   144 DG 2026-04-01 2056 G3UQW         +01 IO90             G8EEM         -13 IO93
-QSO:   144 DG 2026-04-01 2059 G3UQW         +16 IO90             G8SEI         -13 IO92
+QSO:   144 FT8 2026-04-01 1942 G3UQW         +05 IO90             G7WIR         -03 JO01
+QSO:   144 FT8 2026-04-01 1953 G3UQW         -02 IO90             G0JJG         -23 JO02
+QSO:   144 FT8 2026-04-01 2001 G3UQW         -07 IO90             G4LBJ         -12 JO02
+QSO:   144 FT8 2026-04-01 2003 G3UQW         -11 IO90             G8IXK         -17 IO91
+QSO:   144 FT8 2026-04-01 2013 G3UQW         -05 IO90             G0BIX         -04 JO01
+QSO:   144 FT8 2026-04-01 2017 G3UQW         -04 IO90             G7RDX         -20 IO91
+QSO:   144 FT8 2026-04-01 2020 G3UQW         -11 IO90             F1NQP         -17 JN19
+QSO:   144 FT8 2026-04-01 2026 G3UQW         +01 IO90             M6JAY         -06 IO90
+QSO:   144 FT8 2026-04-01 2039 G3UQW         -02 IO90             G7COU         -15 IO93
+QSO:   144 FT8 2026-04-01 2053 G3UQW         +06 IO90             G7LRQ         -06 JO03
+QSO:   144 FT8 2026-04-01 2056 G3UQW         +01 IO90             G8EEM         -13 IO93
+QSO:   144 FT8 2026-04-01 2059 G3UQW         +16 IO90             G8SEI         -13 IO92
 END-OF-LOG:

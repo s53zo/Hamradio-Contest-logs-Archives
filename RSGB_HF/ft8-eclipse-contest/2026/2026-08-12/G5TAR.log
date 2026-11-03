@@ -9,24 +9,25 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT8+Eclipse+Contest&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1873; excluded rows=0.
-QSO:  7074 DG 2026-08-12 1631 G5TAR         +01 -                G6DXY         -03 -
-QSO:  7074 DG 2026-08-12 1633 G5TAR         -04 -                ON5LC         -17 -
-QSO:  7074 DG 2026-08-12 1635 G5TAR         -12 -                DH5NC         -13 -
-QSO:  7074 DG 2026-08-12 1637 G5TAR         -07 -                PA1PAT        -10 -
-QSO:  7076 DG 2026-08-12 1657 G5TAR         -02 -                PC4H          +04 -
-QSO:  7074 DG 2026-08-12 1700 G5TAR         +05 -                M0VCP         +00 -
-QSO:  7075 DG 2026-08-12 1720 G5TAR         -01 -                DA2DA         -18 -
-QSO:  7075 DG 2026-08-12 1730 G5TAR         -15 -                G5TED         -21 -
-QSO:  7075 DG 2026-08-12 1736 G5TAR         -09 -                PA2IP         -16 -
-QSO:  7075 DG 2026-08-12 1810 G5TAR         -15 -                DN2FBG        -14 -
-QSO:  7075 DG 2026-08-12 1815 G5TAR         -08 -                DL7ACA        -12 -
-QSO:  7075 DG 2026-08-12 1816 G5TAR         +01 -                E70SZ         -20 -
-QSO:  7074 DG 2026-08-12 1850 G5TAR         +00 -                HB9HBY        -17 -
-QSO:  7075 DG 2026-08-12 1853 G5TAR         -08 -                PD1SL         -12 -
-QSO:  7075 DG 2026-08-12 1855 G5TAR         -05 -                F4GAJ         -05 -
-QSO:  7075 DG 2026-08-12 1907 G5TAR         +00 -                ON6AT         -09 -
-QSO:  7076 DG 2026-08-12 1915 G5TAR         -03 -                F5OZC         -13 -
-QSO:  7075 DG 2026-08-12 1927 G5TAR         +00 -                PD0MNO        -07 -
-QSO:  7075 DG 2026-08-12 1931 G5TAR         -05 -                OK1FED        -14 -
+QSO:  7074 FT8 2026-08-12 1631 G5TAR         +01 -                G6DXY         -03 -
+QSO:  7074 FT8 2026-08-12 1633 G5TAR         -04 -                ON5LC         -17 -
+QSO:  7074 FT8 2026-08-12 1635 G5TAR         -12 -                DH5NC         -13 -
+QSO:  7074 FT8 2026-08-12 1637 G5TAR         -07 -                PA1PAT        -10 -
+QSO:  7076 FT8 2026-08-12 1657 G5TAR         -02 -                PC4H          +04 -
+QSO:  7074 FT8 2026-08-12 1700 G5TAR         +05 -                M0VCP         +00 -
+QSO:  7075 FT8 2026-08-12 1720 G5TAR         -01 -                DA2DA         -18 -
+QSO:  7075 FT8 2026-08-12 1730 G5TAR         -15 -                G5TED         -21 -
+QSO:  7075 FT8 2026-08-12 1736 G5TAR         -09 -                PA2IP         -16 -
+QSO:  7075 FT8 2026-08-12 1810 G5TAR         -15 -                DN2FBG        -14 -
+QSO:  7075 FT8 2026-08-12 1815 G5TAR         -08 -                DL7ACA        -12 -
+QSO:  7075 FT8 2026-08-12 1816 G5TAR         +01 -                E70SZ         -20 -
+QSO:  7074 FT8 2026-08-12 1850 G5TAR         +00 -                HB9HBY        -17 -
+QSO:  7075 FT8 2026-08-12 1853 G5TAR         -08 -                PD1SL         -12 -
+QSO:  7075 FT8 2026-08-12 1855 G5TAR         -05 -                F4GAJ         -05 -
+QSO:  7075 FT8 2026-08-12 1907 G5TAR         +00 -                ON6AT         -09 -
+QSO:  7076 FT8 2026-08-12 1915 G5TAR         -03 -                F5OZC         -13 -
+QSO:  7075 FT8 2026-08-12 1927 G5TAR         +00 -                PD0MNO        -07 -
+QSO:  7075 FT8 2026-08-12 1931 G5TAR         -05 -                OK1FED        -14 -
 END-OF-LOG:

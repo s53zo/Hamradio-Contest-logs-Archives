@@ -10,27 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220706&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1581; excluded rows=0.
-QSO:   144 DG 2022-07-06 1902 G3OVH         +22 IO92             M1SJE         +14 IO92
-QSO:   144 DG 2022-07-06 1905 G3OVH         -04 IO92             G8IXK         +05 IO91
-QSO:   144 DG 2022-07-06 1912 G3OVH         +00 IO92             G6COL         +05 IO93
-QSO:   144 DG 2022-07-06 1914 G3OVH         -14 IO92             GW4HDR        -15 IO83
-QSO:   144 DG 2022-07-06 1924 G3OVH         -06 IO92             EI8KN         -08 IO62
-QSO:   144 DG 2022-07-06 1930 G3OVH         -10 IO92             GW4HDF        -19 IO81
-QSO:   144 DG 2022-07-06 1935 G3OVH         +07 IO92             M7REV         +00 IO82
-QSO:   144 DG 2022-07-06 1942 G3OVH         -12 IO92             G8EEM         +04 IO93
-QSO:   144 DG 2022-07-06 1943 G3OVH         -10 IO92             M0RTQ/P       -10 IO93
-QSO:   144 DG 2022-07-06 1944 G3OVH         +00 IO92             G4YTM         -16 IO93
-QSO:   144 DG 2022-07-06 1951 G3OVH         -03 IO92             MM0CEZ        -07 IO75
-QSO:   144 DG 2022-07-06 1953 G3OVH         +04 IO92             GI6ATZ        -09 IO74
-QSO:   144 DG 2022-07-06 1958 G3OVH         +01 IO92             G0BIX         -02 JO01
-QSO:   144 DG 2022-07-06 1959 G3OVH         +04 IO92             G4BMM         -01 IO91
-QSO:   144 DG 2022-07-06 2002 G3OVH         +02 IO92             2E0DUE        -07 JO01
-QSO:   144 DG 2022-07-06 2006 G3OVH         -10 IO92             2E0DBS        -15 JO02
-QSO:   144 DG 2022-07-06 2007 G3OVH         -03 IO92             G6HIE         -16 JO00
-QSO:   144 DG 2022-07-06 2009 G3OVH         -09 IO92             G4OED         -16 IO91
-QSO:   144 DG 2022-07-06 2029 G3OVH         -16 IO92             PA8KM         -17 JO32
-QSO:   144 DG 2022-07-06 2042 G3OVH         -18 IO92             ON8NT         -15 JO11
-QSO:   144 DG 2022-07-06 2052 G3OVH         -16 IO92             M0BKV         -14 IO70
+QSO:   144 FT8 2022-07-06 1902 G3OVH         +22 IO92             M1SJE         +14 IO92
+QSO:   144 FT8 2022-07-06 1905 G3OVH         -04 IO92             G8IXK         +05 IO91
+QSO:   144 FT8 2022-07-06 1912 G3OVH         +00 IO92             G6COL         +05 IO93
+QSO:   144 FT8 2022-07-06 1914 G3OVH         -14 IO92             GW4HDR        -15 IO83
+QSO:   144 FT8 2022-07-06 1924 G3OVH         -06 IO92             EI8KN         -08 IO62
+QSO:   144 FT8 2022-07-06 1930 G3OVH         -10 IO92             GW4HDF        -19 IO81
+QSO:   144 FT8 2022-07-06 1935 G3OVH         +07 IO92             M7REV         +00 IO82
+QSO:   144 FT8 2022-07-06 1942 G3OVH         -12 IO92             G8EEM         +04 IO93
+QSO:   144 FT8 2022-07-06 1943 G3OVH         -10 IO92             M0RTQ/P       -10 IO93
+QSO:   144 FT8 2022-07-06 1944 G3OVH         +00 IO92             G4YTM         -16 IO93
+QSO:   144 FT8 2022-07-06 1951 G3OVH         -03 IO92             MM0CEZ        -07 IO75
+QSO:   144 FT8 2022-07-06 1953 G3OVH         +04 IO92             GI6ATZ        -09 IO74
+QSO:   144 FT8 2022-07-06 1958 G3OVH         +01 IO92             G0BIX         -02 JO01
+QSO:   144 FT8 2022-07-06 1959 G3OVH         +04 IO92             G4BMM         -01 IO91
+QSO:   144 FT8 2022-07-06 2002 G3OVH         +02 IO92             2E0DUE        -07 JO01
+QSO:   144 FT8 2022-07-06 2006 G3OVH         -10 IO92             2E0DBS        -15 JO02
+QSO:   144 FT8 2022-07-06 2007 G3OVH         -03 IO92             G6HIE         -16 JO00
+QSO:   144 FT8 2022-07-06 2009 G3OVH         -09 IO92             G4OED         -16 IO91
+QSO:   144 FT8 2022-07-06 2029 G3OVH         -16 IO92             PA8KM         -17 JO32
+QSO:   144 FT8 2022-07-06 2042 G3OVH         -18 IO92             ON8NT         -15 JO11
+QSO:   144 FT8 2022-07-06 2052 G3OVH         -16 IO92             M0BKV         -14 IO70
 END-OF-LOG:

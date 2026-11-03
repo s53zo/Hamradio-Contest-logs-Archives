@@ -10,20 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220406&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1359; excluded rows=0.
-QSO:   144 DG 2022-04-06 1908 G0LGS         -04 IO81             G0RMG         +06 IO92
-QSO:   144 DG 2022-04-06 1914 G0LGS         -14 IO81             G8SEI         -23 IO92
-QSO:   144 DG 2022-04-06 1916 G0LGS         +22 IO81             2E0IEI        +31 IO81
-QSO:   144 DG 2022-04-06 1925 G0LGS         -16 IO81             M1CFK         -10 IO92
-QSO:   144 DG 2022-04-06 1933 G0LGS         -21 IO81             G4VPD         -08 IO92
-QSO:   144 DG 2022-04-06 2005 G0LGS         +01 IO81             G4NBS         +08 JO02
-QSO:   144 DG 2022-04-06 2023 G0LGS         -16 IO81             M0UGA/P       -14 IO91
-QSO:   144 DG 2022-04-06 2025 G0LGS         -07 IO81             G0ORE         +03 IO92
-QSO:   144 DG 2022-04-06 2032 G0LGS         -13 IO81             MM0CEZ        -07 IO75
-QSO:   144 DG 2022-04-06 2034 G0LGS         -05 IO81             G3WAG/P       +12 IO82
-QSO:   144 DG 2022-04-06 2041 G0LGS         -08 IO81             G8AOE/P       +02 IO94
-QSO:   144 DG 2022-04-06 2043 G0LGS         +00 IO81             G4HGV         +05 IO91
-QSO:   144 DG 2022-04-06 2056 G0LGS         -12 IO81             G3YDY         -06 JO01
-QSO:   144 DG 2022-04-06 2058 G0LGS         -10 IO81             G3YKI         -19 IO82
+QSO:   144 FT8 2022-04-06 1908 G0LGS         -04 IO81             G0RMG         +06 IO92
+QSO:   144 FT8 2022-04-06 1914 G0LGS         -14 IO81             G8SEI         -23 IO92
+QSO:   144 FT8 2022-04-06 1916 G0LGS         +22 IO81             2E0IEI        +31 IO81
+QSO:   144 FT8 2022-04-06 1925 G0LGS         -16 IO81             M1CFK         -10 IO92
+QSO:   144 FT8 2022-04-06 1933 G0LGS         -21 IO81             G4VPD         -08 IO92
+QSO:   144 FT8 2022-04-06 2005 G0LGS         +01 IO81             G4NBS         +08 JO02
+QSO:   144 FT8 2022-04-06 2023 G0LGS         -16 IO81             M0UGA/P       -14 IO91
+QSO:   144 FT8 2022-04-06 2025 G0LGS         -07 IO81             G0ORE         +03 IO92
+QSO:   144 FT8 2022-04-06 2032 G0LGS         -13 IO81             MM0CEZ        -07 IO75
+QSO:   144 FT8 2022-04-06 2034 G0LGS         -05 IO81             G3WAG/P       +12 IO82
+QSO:   144 FT8 2022-04-06 2041 G0LGS         -08 IO81             G8AOE/P       +02 IO94
+QSO:   144 FT8 2022-04-06 2043 G0LGS         +00 IO81             G4HGV         +05 IO91
+QSO:   144 FT8 2022-04-06 2056 G0LGS         -12 IO81             G3YDY         -06 JO01
+QSO:   144 FT8 2022-04-06 2058 G0LGS         -10 IO81             G3YKI         -19 IO82
 END-OF-LOG:

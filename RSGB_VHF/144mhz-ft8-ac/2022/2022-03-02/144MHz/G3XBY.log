@@ -10,26 +10,26 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1303; excluded rows=0.
-QSO:   144 DG 2022-03-02 2011 G3XBY         -24 IO92             PA0O          -06 JO33
-QSO:   144 DG 2022-03-02 2012 G3XBY         -04 IO92             G8IXK         -09 IO91
-QSO:   144 DG 2022-03-02 2017 G3XBY         -17 IO92             G3YKI         +01 IO82
-QSO:   144 DG 2022-03-02 2020 G3XBY         -21 IO92             GM8MJV        -06 IO85
-QSO:   144 DG 2022-03-02 2021 G3XBY         +06 IO92             G8AOE/P       +06 IO94
-QSO:   144 DG 2022-03-02 2029 G3XBY         +00 IO92             GI6ATZ        -03 IO74
-QSO:   144 DG 2022-03-02 2031 G3XBY         -16 IO92             M1EYP/P       +09 IO83
-QSO:   144 DG 2022-03-02 2033 G3XBY         -23 IO92             M7SPS         -12 IO92
-QSO:   144 DG 2022-03-02 2038 G3XBY         -22 IO92             EI8KN         -09 IO62
-QSO:   144 DG 2022-03-02 2040 G3XBY         -05 IO92             PH2M          -15 JO22
-QSO:   144 DG 2022-03-02 2044 G3XBY         -14 IO92             G4TUH         -05 IO92
-QSO:   144 DG 2022-03-02 2045 G3XBY         -01 IO92             G0BIX         -07 JO01
-QSO:   144 DG 2022-03-02 2047 G3XBY         +07 IO92             G0ORE         +07 IO92
-QSO:   144 DG 2022-03-02 2048 G3XBY         -19 IO92             G4HGV         -14 IO91
-QSO:   144 DG 2022-03-02 2050 G3XBY         -09 IO92             G0RMG         +00 IO92
-QSO:   144 DG 2022-03-02 2053 G3XBY         -24 IO92             PE4A          -15 JO22
-QSO:   144 DG 2022-03-02 2054 G3XBY         +02 IO92             M1CFK         -03 IO92
-QSO:   144 DG 2022-03-02 2056 G3XBY         -14 IO92             PA5PEK        -20 JO11
-QSO:   144 DG 2022-03-02 2058 G3XBY         -14 IO92             G7HJX         -08 IO92
-QSO:   144 DG 2022-03-02 2059 G3XBY         +02 IO92             G0ORE         -02 IO92
+QSO:   144 FT8 2022-03-02 2011 G3XBY         -24 IO92             PA0O          -06 JO33
+QSO:   144 FT8 2022-03-02 2012 G3XBY         -04 IO92             G8IXK         -09 IO91
+QSO:   144 FT8 2022-03-02 2017 G3XBY         -17 IO92             G3YKI         +01 IO82
+QSO:   144 FT8 2022-03-02 2020 G3XBY         -21 IO92             GM8MJV        -06 IO85
+QSO:   144 FT8 2022-03-02 2021 G3XBY         +06 IO92             G8AOE/P       +06 IO94
+QSO:   144 FT8 2022-03-02 2029 G3XBY         +00 IO92             GI6ATZ        -03 IO74
+QSO:   144 FT8 2022-03-02 2031 G3XBY         -16 IO92             M1EYP/P       +09 IO83
+QSO:   144 FT8 2022-03-02 2033 G3XBY         -23 IO92             M7SPS         -12 IO92
+QSO:   144 FT8 2022-03-02 2038 G3XBY         -22 IO92             EI8KN         -09 IO62
+QSO:   144 FT8 2022-03-02 2040 G3XBY         -05 IO92             PH2M          -15 JO22
+QSO:   144 FT8 2022-03-02 2044 G3XBY         -14 IO92             G4TUH         -05 IO92
+QSO:   144 FT8 2022-03-02 2045 G3XBY         -01 IO92             G0BIX         -07 JO01
+QSO:   144 FT8 2022-03-02 2047 G3XBY         +07 IO92             G0ORE         +07 IO92
+QSO:   144 FT8 2022-03-02 2048 G3XBY         -19 IO92             G4HGV         -14 IO91
+QSO:   144 FT8 2022-03-02 2050 G3XBY         -09 IO92             G0RMG         +00 IO92
+QSO:   144 FT8 2022-03-02 2053 G3XBY         -24 IO92             PE4A          -15 JO22
+QSO:   144 FT8 2022-03-02 2054 G3XBY         +02 IO92             M1CFK         -03 IO92
+QSO:   144 FT8 2022-03-02 2056 G3XBY         -14 IO92             PA5PEK        -20 JO11
+QSO:   144 FT8 2022-03-02 2058 G3XBY         -14 IO92             G7HJX         -08 IO92
+QSO:   144 FT8 2022-03-02 2059 G3XBY         +02 IO92             G0ORE         -02 IO92
 END-OF-LOG:

@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1907 MW0PJE        -02 IO82             2E0YYB        -12 IO82
-QSO:   432 DG 2022-01-12 1914 MW0PJE        -08 IO82             G0UXC         +00 IO83
-QSO:   432 DG 2022-01-12 1917 MW0PJE        +05 IO82             G3YKI         +18 IO82
-QSO:   432 DG 2022-01-12 1918 MW0PJE        -02 IO82             M1EYP/P       -08 IO83
-QSO:   432 DG 2022-01-12 1925 MW0PJE        -04 IO82             G7PHN         -06 IO82
-QSO:   432 DG 2022-01-12 1954 MW0PJE        -05 IO82             G7RHF         -15 IO82
-QSO:   432 DG 2022-01-12 2002 MW0PJE        -07 IO82             G0LGS         -18 IO81
-QSO:   432 DG 2022-01-12 2007 MW0PJE        -02 IO82             G8SEI         -06 IO92
-QSO:   432 DG 2022-01-12 2015 MW0PJE        -02 IO82             G4HGI         +08 IO83
-QSO:   432 DG 2022-01-12 2016 MW0PJE        +04 IO82             G3YKI         +01 IO82
-QSO:   432 DG 2022-01-12 2032 MW0PJE        -16 IO82             G8XYJ         +00 IO82
-QSO:   432 DG 2022-01-12 2050 MW0PJE        -14 IO82             M0AHN         -13 IO91
+QSO:   432 FT8 2022-01-12 1907 MW0PJE        -02 IO82             2E0YYB        -12 IO82
+QSO:   432 FT8 2022-01-12 1914 MW0PJE        -08 IO82             G0UXC         +00 IO83
+QSO:   432 FT8 2022-01-12 1917 MW0PJE        +05 IO82             G3YKI         +18 IO82
+QSO:   432 FT8 2022-01-12 1918 MW0PJE        -02 IO82             M1EYP/P       -08 IO83
+QSO:   432 FT8 2022-01-12 1925 MW0PJE        -04 IO82             G7PHN         -06 IO82
+QSO:   432 FT8 2022-01-12 1954 MW0PJE        -05 IO82             G7RHF         -15 IO82
+QSO:   432 FT8 2022-01-12 2002 MW0PJE        -07 IO82             G0LGS         -18 IO81
+QSO:   432 FT8 2022-01-12 2007 MW0PJE        -02 IO82             G8SEI         -06 IO92
+QSO:   432 FT8 2022-01-12 2015 MW0PJE        -02 IO82             G4HGI         +08 IO83
+QSO:   432 FT8 2022-01-12 2016 MW0PJE        +04 IO82             G3YKI         +01 IO82
+QSO:   432 FT8 2022-01-12 2032 MW0PJE        -16 IO82             G8XYJ         +00 IO82
+QSO:   432 FT8 2022-01-12 2050 MW0PJE        -14 IO82             M0AHN         -13 IO91
 END-OF-LOG:

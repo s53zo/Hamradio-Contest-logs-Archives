@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260902&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=843; excluded rows=0.
-QSO:   144 DG 2026-09-02 1909 G7ICV         +04 JO01             G1HJW         +10 JO01
-QSO:   144 DG 2026-09-02 1911 G7ICV         -08 JO01             G3YDY         -08 JO01
-QSO:   144 DG 2026-09-02 1912 G7ICV         -17 JO01             G4EFT         -09 IO91
-QSO:   144 DG 2026-09-02 1915 G7ICV         +35 JO01             G0BIX         +23 JO01
-QSO:   144 DG 2026-09-02 1926 G7ICV         -07 JO01             G0XDI         -01 IO91
-QSO:   144 DG 2026-09-02 1928 G7ICV         -08 JO01             ON8NT         -10 JO11
-QSO:   144 DG 2026-09-02 1934 G7ICV         -03 JO01             PI4VPO        -01 JO21
-QSO:   144 DG 2026-09-02 1937 G7ICV         +06 JO01             G8SEI         -08 IO92
-QSO:   144 DG 2026-09-02 1949 G7ICV         +01 JO01             PA6I          -17 JO32
-QSO:   144 DG 2026-09-02 1955 G7ICV         -06 JO01             G0OFC         -04 IO92
-QSO:   144 DG 2026-09-02 2005 G7ICV         +05 JO01             G7LRQ         +05 JO03
-QSO:   144 DG 2026-09-02 2009 G7ICV         +01 JO01             G8BCG         +09 IO70
-QSO:   144 DG 2026-09-02 2017 G7ICV         -12 JO01             G0GJV         -03 IO91
-QSO:   144 DG 2026-09-02 2021 G7ICV         +00 JO01             G7WIR         +05 JO01
-QSO:   144 DG 2026-09-02 2024 G7ICV         -23 JO01             G3WZK         -13 IO91
-QSO:   144 DG 2026-09-02 2027 G7ICV         -16 JO01             G4ZTR         -05 JO01
+QSO:   144 FT8 2026-09-02 1909 G7ICV         +04 JO01             G1HJW         +10 JO01
+QSO:   144 FT8 2026-09-02 1911 G7ICV         -08 JO01             G3YDY         -08 JO01
+QSO:   144 FT8 2026-09-02 1912 G7ICV         -17 JO01             G4EFT         -09 IO91
+QSO:   144 FT8 2026-09-02 1915 G7ICV         +35 JO01             G0BIX         +23 JO01
+QSO:   144 FT8 2026-09-02 1926 G7ICV         -07 JO01             G0XDI         -01 IO91
+QSO:   144 FT8 2026-09-02 1928 G7ICV         -08 JO01             ON8NT         -10 JO11
+QSO:   144 FT8 2026-09-02 1934 G7ICV         -03 JO01             PI4VPO        -01 JO21
+QSO:   144 FT8 2026-09-02 1937 G7ICV         +06 JO01             G8SEI         -08 IO92
+QSO:   144 FT8 2026-09-02 1949 G7ICV         +01 JO01             PA6I          -17 JO32
+QSO:   144 FT8 2026-09-02 1955 G7ICV         -06 JO01             G0OFC         -04 IO92
+QSO:   144 FT8 2026-09-02 2005 G7ICV         +05 JO01             G7LRQ         +05 JO03
+QSO:   144 FT8 2026-09-02 2009 G7ICV         +01 JO01             G8BCG         +09 IO70
+QSO:   144 FT8 2026-09-02 2017 G7ICV         -12 JO01             G0GJV         -03 IO91
+QSO:   144 FT8 2026-09-02 2021 G7ICV         +00 JO01             G7WIR         +05 JO01
+QSO:   144 FT8 2026-09-02 2024 G7ICV         -23 JO01             G3WZK         -13 IO91
+QSO:   144 FT8 2026-09-02 2027 G7ICV         -16 JO01             G4ZTR         -05 JO01
 END-OF-LOG:

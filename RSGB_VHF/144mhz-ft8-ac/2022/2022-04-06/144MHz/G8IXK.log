@@ -10,28 +10,28 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220406&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1359; excluded rows=0.
-QSO:   144 DG 2022-04-06 1912 G8IXK         +09 IO91             M0NVS         -02 IO91
-QSO:   144 DG 2022-04-06 1915 G8IXK         -02 IO91             G3WZK         -18 IO91
-QSO:   144 DG 2022-04-06 1921 G8IXK         -09 IO91             G4BMM         +09 IO91
-QSO:   144 DG 2022-04-06 1931 G8IXK         +17 IO91             G4NBS         -06 JO02
-QSO:   144 DG 2022-04-06 1937 G8IXK         -17 IO91             G8AOE/P       -06 IO94
-QSO:   144 DG 2022-04-06 1940 G8IXK         -14 IO91             M0SKT         -08 IO92
-QSO:   144 DG 2022-04-06 1947 G8IXK         -16 IO91             G4CTP         -05 IO91
-QSO:   144 DG 2022-04-06 1950 G8IXK         -05 IO91             GU6EFB        -06 IN89
-QSO:   144 DG 2022-04-06 1953 G8IXK         +05 IO91             2E0IEI        -08 IO81
-QSO:   144 DG 2022-04-06 1959 G8IXK         -01 IO91             EI8KN         -14 IO62
-QSO:   144 DG 2022-04-06 2003 G8IXK         +17 IO91             G7RAU         -17 IN79
-QSO:   144 DG 2022-04-06 2012 G8IXK         +20 IO91             G3YDY         -10 JO01
-QSO:   144 DG 2022-04-06 2014 G8IXK         +00 IO91             2E0DUE        -04 JO01
-QSO:   144 DG 2022-04-06 2018 G8IXK         +18 IO91             G7WIR         +06 JO01
-QSO:   144 DG 2022-04-06 2021 G8IXK         +35 IO91             M0UGA/P       +09 IO91
-QSO:   144 DG 2022-04-06 2023 G8IXK         -12 IO91             F6GCP         -12 JN18
-QSO:   144 DG 2022-04-06 2025 G8IXK         +27 IO91             G0XDI         -10 IO91
-QSO:   144 DG 2022-04-06 2035 G8IXK         -16 IO91             MM0CEZ        -18 IO75
-QSO:   144 DG 2022-04-06 2039 G8IXK         +11 IO91             G8SEI         +00 IO92
-QSO:   144 DG 2022-04-06 2046 G8IXK         +06 IO91             G8EEM         -17 IO93
-QSO:   144 DG 2022-04-06 2050 G8IXK         -10 IO91             G3WAG/P       -17 IO82
-QSO:   144 DG 2022-04-06 2059 G8IXK         +18 IO91             G6HIE         -13 JO00
+QSO:   144 FT8 2022-04-06 1912 G8IXK         +09 IO91             M0NVS         -02 IO91
+QSO:   144 FT8 2022-04-06 1915 G8IXK         -02 IO91             G3WZK         -18 IO91
+QSO:   144 FT8 2022-04-06 1921 G8IXK         -09 IO91             G4BMM         +09 IO91
+QSO:   144 FT8 2022-04-06 1931 G8IXK         +17 IO91             G4NBS         -06 JO02
+QSO:   144 FT8 2022-04-06 1937 G8IXK         -17 IO91             G8AOE/P       -06 IO94
+QSO:   144 FT8 2022-04-06 1940 G8IXK         -14 IO91             M0SKT         -08 IO92
+QSO:   144 FT8 2022-04-06 1947 G8IXK         -16 IO91             G4CTP         -05 IO91
+QSO:   144 FT8 2022-04-06 1950 G8IXK         -05 IO91             GU6EFB        -06 IN89
+QSO:   144 FT8 2022-04-06 1953 G8IXK         +05 IO91             2E0IEI        -08 IO81
+QSO:   144 FT8 2022-04-06 1959 G8IXK         -01 IO91             EI8KN         -14 IO62
+QSO:   144 FT8 2022-04-06 2003 G8IXK         +17 IO91             G7RAU         -17 IN79
+QSO:   144 FT8 2022-04-06 2012 G8IXK         +20 IO91             G3YDY         -10 JO01
+QSO:   144 FT8 2022-04-06 2014 G8IXK         +00 IO91             2E0DUE        -04 JO01
+QSO:   144 FT8 2022-04-06 2018 G8IXK         +18 IO91             G7WIR         +06 JO01
+QSO:   144 FT8 2022-04-06 2021 G8IXK         +35 IO91             M0UGA/P       +09 IO91
+QSO:   144 FT8 2022-04-06 2023 G8IXK         -12 IO91             F6GCP         -12 JN18
+QSO:   144 FT8 2022-04-06 2025 G8IXK         +27 IO91             G0XDI         -10 IO91
+QSO:   144 FT8 2022-04-06 2035 G8IXK         -16 IO91             MM0CEZ        -18 IO75
+QSO:   144 FT8 2022-04-06 2039 G8IXK         +11 IO91             G8SEI         +00 IO92
+QSO:   144 FT8 2022-04-06 2046 G8IXK         +06 IO91             G8EEM         -17 IO93
+QSO:   144 FT8 2022-04-06 2050 G8IXK         -10 IO91             G3WAG/P       -17 IO82
+QSO:   144 FT8 2022-04-06 2059 G8IXK         +18 IO91             G6HIE         -13 JO00
 END-OF-LOG:

@@ -9,37 +9,38 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260928&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=6998; excluded rows=0.
-QSO:  7049 DG 2026-09-28 1920 M9IAN         +09 -                PA4GDR        -08 -
-QSO:  7049 DG 2026-09-28 1922 M9IAN         +04 -                SE5L          +01 -
-QSO:  7049 DG 2026-09-28 1922 M9IAN         +07 -                PC2F          +00 -
-QSO:  7049 DG 2026-09-28 1926 M9IAN         +17 -                PD2PKM        -03 -
-QSO:  7049 DG 2026-09-28 1927 M9IAN         +01 -                OH8SE         -13 -
-QSO:  7049 DG 2026-09-28 1928 M9IAN         -02 -                DK2OY         -11 -
-QSO:  7049 DG 2026-09-28 1930 M9IAN         -04 -                SE6K          -09 -
-QSO:  7050 DG 2026-09-28 1931 M9IAN         +12 -                PH3T          -11 -
-QSO:  7050 DG 2026-09-28 1933 M9IAN         +11 -                PE1FBC        -06 -
-QSO:  7050 DG 2026-09-28 1933 M9IAN         -04 -                ON7PM         -05 -
-QSO:  7050 DG 2026-09-28 1940 M9IAN         +05 -                PA3EOZ        -06 -
-QSO: 14081 DG 2026-09-28 1943 M9IAN         +11 -                CR7BRV        -07 -
-QSO: 14081 DG 2026-09-28 1949 M9IAN         +12 -                YO3RU         +08 -
-QSO: 14081 DG 2026-09-28 1949 M9IAN         -03 -                EA5QS         -16 -
-QSO:  3577 DG 2026-09-28 1957 M9IAN         +15 -                G4IRN         -13 -
-QSO:  3577 DG 2026-09-28 2001 M9IAN         +01 -                PE1PIX        -12 -
-QSO:  3577 DG 2026-09-28 2003 M9IAN         +02 -                MM0JTV        -12 -
-QSO:  3577 DG 2026-09-28 2004 M9IAN         +00 -                G7ABT         -05 -
-QSO:  3576 DG 2026-09-28 2005 M9IAN         +11 -                GM6URC        -05 -
-QSO:  3576 DG 2026-09-28 2009 M9IAN         +14 -                G2M           -19 -
-QSO:  3576 DG 2026-09-28 2010 M9IAN         +03 -                MW7RHR        -08 -
-QSO:  3577 DG 2026-09-28 2012 M9IAN         -11 -                M0HWO         -14 -
-QSO: 14082 DG 2026-09-28 2016 M9IAN         -03 -                ER5DX         +02 -
-QSO: 14082 DG 2026-09-28 2021 M9IAN         +10 -                W8PP          -05 -
-QSO: 14082 DG 2026-09-28 2025 M9IAN         +01 -                CT7AUT        -05 -
-QSO:  7050 DG 2026-09-28 2033 M9IAN         -05 -                IU4PTA        -09 -
-QSO:  7050 DG 2026-09-28 2039 M9IAN         -08 -                OK2ON         -04 -
-QSO:  7050 DG 2026-09-28 2039 M9IAN         +01 -                UB1CCL        -10 -
-QSO:  7050 DG 2026-09-28 2040 M9IAN         +10 -                OK1WCF        -03 -
-QSO:  7050 DG 2026-09-28 2041 M9IAN         -08 -                DG7FBB        -13 -
-QSO:  7050 DG 2026-09-28 2045 M9IAN         +10 -                LB9ZG         -10 -
-QSO:  3576 DG 2026-09-28 2052 M9IAN         -08 -                GX7RAF/P      -20 -
+QSO:  7049 FT4 2026-09-28 1920 M9IAN         +09 -                PA4GDR        -08 -
+QSO:  7049 FT4 2026-09-28 1922 M9IAN         +04 -                SE5L          +01 -
+QSO:  7049 FT4 2026-09-28 1922 M9IAN         +07 -                PC2F          +00 -
+QSO:  7049 FT4 2026-09-28 1926 M9IAN         +17 -                PD2PKM        -03 -
+QSO:  7049 FT4 2026-09-28 1927 M9IAN         +01 -                OH8SE         -13 -
+QSO:  7049 FT4 2026-09-28 1928 M9IAN         -02 -                DK2OY         -11 -
+QSO:  7049 FT4 2026-09-28 1930 M9IAN         -04 -                SE6K          -09 -
+QSO:  7050 FT4 2026-09-28 1931 M9IAN         +12 -                PH3T          -11 -
+QSO:  7050 FT4 2026-09-28 1933 M9IAN         +11 -                PE1FBC        -06 -
+QSO:  7050 FT4 2026-09-28 1933 M9IAN         -04 -                ON7PM         -05 -
+QSO:  7050 FT4 2026-09-28 1940 M9IAN         +05 -                PA3EOZ        -06 -
+QSO: 14081 FT4 2026-09-28 1943 M9IAN         +11 -                CR7BRV        -07 -
+QSO: 14081 FT4 2026-09-28 1949 M9IAN         +12 -                YO3RU         +08 -
+QSO: 14081 FT4 2026-09-28 1949 M9IAN         -03 -                EA5QS         -16 -
+QSO:  3577 FT4 2026-09-28 1957 M9IAN         +15 -                G4IRN         -13 -
+QSO:  3577 FT4 2026-09-28 2001 M9IAN         +01 -                PE1PIX        -12 -
+QSO:  3577 FT4 2026-09-28 2003 M9IAN         +02 -                MM0JTV        -12 -
+QSO:  3577 FT4 2026-09-28 2004 M9IAN         +00 -                G7ABT         -05 -
+QSO:  3576 FT4 2026-09-28 2005 M9IAN         +11 -                GM6URC        -05 -
+QSO:  3576 FT4 2026-09-28 2009 M9IAN         +14 -                G2M           -19 -
+QSO:  3576 FT4 2026-09-28 2010 M9IAN         +03 -                MW7RHR        -08 -
+QSO:  3577 FT4 2026-09-28 2012 M9IAN         -11 -                M0HWO         -14 -
+QSO: 14082 FT4 2026-09-28 2016 M9IAN         -03 -                ER5DX         +02 -
+QSO: 14082 FT4 2026-09-28 2021 M9IAN         +10 -                W8PP          -05 -
+QSO: 14082 FT4 2026-09-28 2025 M9IAN         +01 -                CT7AUT        -05 -
+QSO:  7050 FT4 2026-09-28 2033 M9IAN         -05 -                IU4PTA        -09 -
+QSO:  7050 FT4 2026-09-28 2039 M9IAN         -08 -                OK2ON         -04 -
+QSO:  7050 FT4 2026-09-28 2039 M9IAN         +01 -                UB1CCL        -10 -
+QSO:  7050 FT4 2026-09-28 2040 M9IAN         +10 -                OK1WCF        -03 -
+QSO:  7050 FT4 2026-09-28 2041 M9IAN         -08 -                DG7FBB        -13 -
+QSO:  7050 FT4 2026-09-28 2045 M9IAN         +10 -                LB9ZG         -10 -
+QSO:  3576 FT4 2026-09-28 2052 M9IAN         -08 -                GX7RAF/P      -20 -
 END-OF-LOG:

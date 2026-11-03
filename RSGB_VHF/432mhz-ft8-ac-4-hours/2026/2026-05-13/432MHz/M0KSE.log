@@ -10,11 +10,11 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=260513&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=335; excluded rows=0.
-QSO:   432 DG 2026-05-13 1921 M0KSE         +28 IO83             G4HGI         +14 IO83PL
-QSO:   432 DG 2026-05-13 1924 M0KSE         +30 IO83             M1DYU         -06 IO83PM
-QSO:   432 DG 2026-05-13 1942 M0KSE         -11 IO83             G8SEI         -22 IO92FO
-QSO:   432 DG 2026-05-13 1944 M0KSE         -04 IO83             G4BEE         -12 IO83RQ
-QSO:   432 DG 2026-05-13 1959 M0KSE         -22 IO83             GW8CZW        -09 IO73VH
+QSO:   432 FT8 2026-05-13 1921 M0KSE         +28 IO83             G4HGI         +14 IO83PL
+QSO:   432 FT8 2026-05-13 1924 M0KSE         +30 IO83             M1DYU         -06 IO83PM
+QSO:   432 FT8 2026-05-13 1942 M0KSE         -11 IO83             G8SEI         -22 IO92FO
+QSO:   432 FT8 2026-05-13 1944 M0KSE         -04 IO83             G4BEE         -12 IO83RQ
+QSO:   432 FT8 2026-05-13 1959 M0KSE         -22 IO83             GW8CZW        -09 IO73VH
 END-OF-LOG:

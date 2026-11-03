@@ -10,25 +10,25 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=261007&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=696; excluded rows=0.
-QSO:   144 DG 2026-10-07 1736 G1HJW         -05 JO01             G7WIR         -09 JO01
-QSO:   144 DG 2026-10-07 1738 G1HJW         +08 JO01             G0BIX         -03 JO01
-QSO:   144 DG 2026-10-07 1740 G1HJW         -11 JO01             G0GJV         -07 IO91
-QSO:   144 DG 2026-10-07 1743 G1HJW         +03 JO01             G0XDI         -10 IO91
-QSO:   144 DG 2026-10-07 1746 G1HJW         -05 JO01             G7WIR         -25 JO01
-QSO:   144 DG 2026-10-07 1749 G1HJW         +19 JO01             M0SSK         +09 JO01
-QSO:   144 DG 2026-10-07 1835 G1HJW         -13 JO01             2E0MRK        -15 IO91
-QSO:   144 DG 2026-10-07 1840 G1HJW         +16 JO01             G7ICV         +02 JO01
-QSO:   144 DG 2026-10-07 1858 G1HJW         -09 JO01             M0PEL         -16 JO01
-QSO:   144 DG 2026-10-07 1911 G1HJW         +19 JO01             G3YDY         -04 JO01
-QSO:   144 DG 2026-10-07 1916 G1HJW         +14 JO01             G7ICV         -21 JO01
-QSO:   144 DG 2026-10-07 1937 G1HJW         +09 JO01             G7LRQ         -06 IO91
-QSO:   144 DG 2026-10-07 1951 G1HJW         -06 JO01             M0SKT         -18 IO92
-QSO:   144 DG 2026-10-07 1955 G1HJW         +20 JO01             G0BIX         +10 JO01
-QSO:   144 DG 2026-10-07 1959 G1HJW         +15 JO01             G8VJU         +05 JO01
-QSO:   144 DG 2026-10-07 2017 G1HJW         -05 JO01             G8SEI         -19 IO92
-QSO:   144 DG 2026-10-07 2022 G1HJW         +26 JO01             M7SDA         +26 JO01
-QSO:   144 DG 2026-10-07 2031 G1HJW         +29 JO01             M7SDA         +33 JO01
-QSO:   144 DG 2026-10-07 2059 G1HJW         -15 JO01             M7ILR         +09 JO02
+QSO:   144 FT8 2026-10-07 1736 G1HJW         -05 JO01             G7WIR         -09 JO01
+QSO:   144 FT8 2026-10-07 1738 G1HJW         +08 JO01             G0BIX         -03 JO01
+QSO:   144 FT8 2026-10-07 1740 G1HJW         -11 JO01             G0GJV         -07 IO91
+QSO:   144 FT8 2026-10-07 1743 G1HJW         +03 JO01             G0XDI         -10 IO91
+QSO:   144 FT8 2026-10-07 1746 G1HJW         -05 JO01             G7WIR         -25 JO01
+QSO:   144 FT8 2026-10-07 1749 G1HJW         +19 JO01             M0SSK         +09 JO01
+QSO:   144 FT8 2026-10-07 1835 G1HJW         -13 JO01             2E0MRK        -15 IO91
+QSO:   144 FT8 2026-10-07 1840 G1HJW         +16 JO01             G7ICV         +02 JO01
+QSO:   144 FT8 2026-10-07 1858 G1HJW         -09 JO01             M0PEL         -16 JO01
+QSO:   144 FT8 2026-10-07 1911 G1HJW         +19 JO01             G3YDY         -04 JO01
+QSO:   144 FT8 2026-10-07 1916 G1HJW         +14 JO01             G7ICV         -21 JO01
+QSO:   144 FT8 2026-10-07 1937 G1HJW         +09 JO01             G7LRQ         -06 IO91
+QSO:   144 FT8 2026-10-07 1951 G1HJW         -06 JO01             M0SKT         -18 IO92
+QSO:   144 FT8 2026-10-07 1955 G1HJW         +20 JO01             G0BIX         +10 JO01
+QSO:   144 FT8 2026-10-07 1959 G1HJW         +15 JO01             G8VJU         +05 JO01
+QSO:   144 FT8 2026-10-07 2017 G1HJW         -05 JO01             G8SEI         -19 IO92
+QSO:   144 FT8 2026-10-07 2022 G1HJW         +26 JO01             M7SDA         +26 JO01
+QSO:   144 FT8 2026-10-07 2031 G1HJW         +29 JO01             M7SDA         +33 JO01
+QSO:   144 FT8 2026-10-07 2059 G1HJW         -15 JO01             M7ILR         +09 JO02
 END-OF-LOG:

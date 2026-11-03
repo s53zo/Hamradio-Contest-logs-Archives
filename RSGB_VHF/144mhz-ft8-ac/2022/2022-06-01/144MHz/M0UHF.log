@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220601&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=921; excluded rows=0.
-QSO:   144 DG 2022-06-01 1937 M0UHF         +02 IO91             GQ7WIR        -07 JO01
-QSO:   144 DG 2022-06-01 1940 M0UHF         +10 IO91             G4HGV         +03 IO91
-QSO:   144 DG 2022-06-01 1946 M0UHF         +28 IO91             G7LRQ         -04 IO91
-QSO:   144 DG 2022-06-01 1951 M0UHF         +01 IO91             M0IEP         +03 IO91
-QSO:   144 DG 2022-06-01 1955 M0UHF         +11 IO91             GQ7WIR        -19 JO01
-QSO:   144 DG 2022-06-01 1956 M0UHF         +11 IO91             GQ7WIR        -19 JO01
-QSO:   144 DG 2022-06-01 1959 M0UHF         +17 IO91             MQ0XTY        -13 JO01
-QSO:   144 DG 2022-06-01 2004 M0UHF         -07 IO91             M0VXX/P       -09 IO80
-QSO:   144 DG 2022-06-01 2007 M0UHF         -01 IO91             F5APQ         -13 JO00
-QSO:   144 DG 2022-06-01 2028 M0UHF         +14 IO91             2E0DUE        -16 JO01
-QSO:   144 DG 2022-06-01 2031 M0UHF         +11 IO91             G3WZK         -05 IO91
-QSO:   144 DG 2022-06-01 2041 M0UHF         +00 IO91             GQ8IXK        -14 IO91
+QSO:   144 FT8 2022-06-01 1937 M0UHF         +02 IO91             GQ7WIR        -07 JO01
+QSO:   144 FT8 2022-06-01 1940 M0UHF         +10 IO91             G4HGV         +03 IO91
+QSO:   144 FT8 2022-06-01 1946 M0UHF         +28 IO91             G7LRQ         -04 IO91
+QSO:   144 FT8 2022-06-01 1951 M0UHF         +01 IO91             M0IEP         +03 IO91
+QSO:   144 FT8 2022-06-01 1955 M0UHF         +11 IO91             GQ7WIR        -19 JO01
+QSO:   144 FT8 2022-06-01 1956 M0UHF         +11 IO91             GQ7WIR        -19 JO01
+QSO:   144 FT8 2022-06-01 1959 M0UHF         +17 IO91             MQ0XTY        -13 JO01
+QSO:   144 FT8 2022-06-01 2004 M0UHF         -07 IO91             M0VXX/P       -09 IO80
+QSO:   144 FT8 2022-06-01 2007 M0UHF         -01 IO91             F5APQ         -13 JO00
+QSO:   144 FT8 2022-06-01 2028 M0UHF         +14 IO91             2E0DUE        -16 JO01
+QSO:   144 FT8 2022-06-01 2031 M0UHF         +11 IO91             G3WZK         -05 IO91
+QSO:   144 FT8 2022-06-01 2041 M0UHF         +00 IO91             GQ8IXK        -14 IO91
 END-OF-LOG:

@@ -10,23 +10,23 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1901 G0DJA         -13 IO93             M0RTQ         -04 IO93
-QSO:   144 DG 2022-02-02 1908 G0DJA         +07 IO93             G3YDY         -04 JO01
-QSO:   144 DG 2022-02-02 1910 G0DJA         -11 IO93             EI8KN         -04 IO62
-QSO:   144 DG 2022-02-02 1911 G0DJA         -11 IO93             G8IXK         -04 -
-QSO:   144 DG 2022-02-02 1921 G0DJA         -07 IO93             G7COU         -06 IO93
-QSO:   144 DG 2022-02-02 1928 G0DJA         +21 IO93             2E1SKY        +14 IO93
-QSO:   144 DG 2022-02-02 1936 G0DJA         +08 IO93             G4APJ         -01 IO83
-QSO:   144 DG 2022-02-02 1944 G0DJA         +06 IO93             G4PDF         -11 IO93
-QSO:   144 DG 2022-02-02 1947 G0DJA         -07 IO93             G8AOE/P       -01 IO94
-QSO:   144 DG 2022-02-02 1953 G0DJA         -01 IO93             GI6ATZ        -08 IO74
-QSO:   144 DG 2022-02-02 1958 G0DJA         -08 IO93             G7LRQ         -21 IO91
-QSO:   144 DG 2022-02-02 2024 G0DJA         -13 IO93             EA2XR         -09 IN83
-QSO:   144 DG 2022-02-02 2041 G0DJA         +18 IO93             G5RAH         +06 IO93
-QSO:   144 DG 2022-02-02 2044 G0DJA         -04 IO93             G0BIX         -08 JO01
-QSO:   144 DG 2022-02-02 2046 G0DJA         +00 IO93             F6CIS         -07 IN94
-QSO:   144 DG 2022-02-02 2053 G0DJA         +13 IO93             G0XDI         -13 IO91
-QSO:   144 DG 2022-02-02 2056 G0DJA         -10 IO93             G3WZK         -24 IO91
+QSO:   144 FT8 2022-02-02 1901 G0DJA         -13 IO93             M0RTQ         -04 IO93
+QSO:   144 FT8 2022-02-02 1908 G0DJA         +07 IO93             G3YDY         -04 JO01
+QSO:   144 FT8 2022-02-02 1910 G0DJA         -11 IO93             EI8KN         -04 IO62
+QSO:   144 FT8 2022-02-02 1911 G0DJA         -11 IO93             G8IXK         -04 -
+QSO:   144 FT8 2022-02-02 1921 G0DJA         -07 IO93             G7COU         -06 IO93
+QSO:   144 FT8 2022-02-02 1928 G0DJA         +21 IO93             2E1SKY        +14 IO93
+QSO:   144 FT8 2022-02-02 1936 G0DJA         +08 IO93             G4APJ         -01 IO83
+QSO:   144 FT8 2022-02-02 1944 G0DJA         +06 IO93             G4PDF         -11 IO93
+QSO:   144 FT8 2022-02-02 1947 G0DJA         -07 IO93             G8AOE/P       -01 IO94
+QSO:   144 FT8 2022-02-02 1953 G0DJA         -01 IO93             GI6ATZ        -08 IO74
+QSO:   144 FT8 2022-02-02 1958 G0DJA         -08 IO93             G7LRQ         -21 IO91
+QSO:   144 FT8 2022-02-02 2024 G0DJA         -13 IO93             EA2XR         -09 IN83
+QSO:   144 FT8 2022-02-02 2041 G0DJA         +18 IO93             G5RAH         +06 IO93
+QSO:   144 FT8 2022-02-02 2044 G0DJA         -04 IO93             G0BIX         -08 JO01
+QSO:   144 FT8 2022-02-02 2046 G0DJA         +00 IO93             F6CIS         -07 IN94
+QSO:   144 FT8 2022-02-02 2053 G0DJA         +13 IO93             G0XDI         -13 IO91
+QSO:   144 FT8 2022-02-02 2056 G0DJA         -10 IO93             G3WZK         -24 IO91
 END-OF-LOG:

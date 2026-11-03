@@ -10,28 +10,28 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220413&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=794; excluded rows=0.
-QSO:   432 DG 2022-04-13 1902 G0LGS         +00 IO81             EI8KN         -07 IO62
-QSO:   432 DG 2022-04-13 1905 G0LGS         -09 IO81             G4OED         -09 IO91
-QSO:   432 DG 2022-04-13 1907 G0LGS         -02 IO81             M0IEP         +00 IO91
-QSO:   432 DG 2022-04-13 1909 G0LGS         +05 IO81             G0RMG         -08 IO92
-QSO:   432 DG 2022-04-13 1911 G0LGS         +12 IO81             G4EII         +05 IO83
-QSO:   432 DG 2022-04-13 1916 G0LGS         -14 IO81             GW4HDF        -13 IO81
-QSO:   432 DG 2022-04-13 1923 G0LGS         +04 IO81             M7REV         -07 IO82
-QSO:   432 DG 2022-04-13 1928 G0LGS         -18 IO81             G3YKI         -09 IO82
-QSO:   432 DG 2022-04-13 1931 G0LGS         +28 IO81             M0XAC         +28 IO81
-QSO:   432 DG 2022-04-13 1932 G0LGS         -08 IO81             GM8MJV        -05 IO85
-QSO:   432 DG 2022-04-13 1934 G0LGS         -09 IO81             GM4JTJ        -08 IO86
-QSO:   432 DG 2022-04-13 1948 G0LGS         -13 IO81             G4VPD         -16 IO92
-QSO:   432 DG 2022-04-13 1959 G0LGS         +11 IO81             G4NBS         +05 JO02
-QSO:   432 DG 2022-04-13 2006 G0LGS         -03 IO81             G0FVI         -07 IO93
-QSO:   432 DG 2022-04-13 2009 G0LGS         -19 IO81             M7SPS         -15 IO92
-QSO:   432 DG 2022-04-13 2016 G0LGS         -10 IO81             M3THN         -08 IO92
-QSO:   432 DG 2022-04-13 2028 G0LGS         -04 IO81             G3YDY         -12 JO01
-QSO:   432 DG 2022-04-13 2032 G0LGS         -17 IO81             M0XTY         -14 JO01
-QSO:   432 DG 2022-04-13 2035 G0LGS         -15 IO81             G6HIE         -20 JO00
-QSO:   432 DG 2022-04-13 2041 G0LGS         -09 IO81             G0MBL         -13 JO01
-QSO:   432 DG 2022-04-13 2053 G0LGS         -11 IO81             G0ORE         -05 IO92
-QSO:   432 DG 2022-04-13 2056 G0LGS         -14 IO81             G0BIX         -09 JO01
+QSO:   432 FT8 2022-04-13 1902 G0LGS         +00 IO81             EI8KN         -07 IO62
+QSO:   432 FT8 2022-04-13 1905 G0LGS         -09 IO81             G4OED         -09 IO91
+QSO:   432 FT8 2022-04-13 1907 G0LGS         -02 IO81             M0IEP         +00 IO91
+QSO:   432 FT8 2022-04-13 1909 G0LGS         +05 IO81             G0RMG         -08 IO92
+QSO:   432 FT8 2022-04-13 1911 G0LGS         +12 IO81             G4EII         +05 IO83
+QSO:   432 FT8 2022-04-13 1916 G0LGS         -14 IO81             GW4HDF        -13 IO81
+QSO:   432 FT8 2022-04-13 1923 G0LGS         +04 IO81             M7REV         -07 IO82
+QSO:   432 FT8 2022-04-13 1928 G0LGS         -18 IO81             G3YKI         -09 IO82
+QSO:   432 FT8 2022-04-13 1931 G0LGS         +28 IO81             M0XAC         +28 IO81
+QSO:   432 FT8 2022-04-13 1932 G0LGS         -08 IO81             GM8MJV        -05 IO85
+QSO:   432 FT8 2022-04-13 1934 G0LGS         -09 IO81             GM4JTJ        -08 IO86
+QSO:   432 FT8 2022-04-13 1948 G0LGS         -13 IO81             G4VPD         -16 IO92
+QSO:   432 FT8 2022-04-13 1959 G0LGS         +11 IO81             G4NBS         +05 JO02
+QSO:   432 FT8 2022-04-13 2006 G0LGS         -03 IO81             G0FVI         -07 IO93
+QSO:   432 FT8 2022-04-13 2009 G0LGS         -19 IO81             M7SPS         -15 IO92
+QSO:   432 FT8 2022-04-13 2016 G0LGS         -10 IO81             M3THN         -08 IO92
+QSO:   432 FT8 2022-04-13 2028 G0LGS         -04 IO81             G3YDY         -12 JO01
+QSO:   432 FT8 2022-04-13 2032 G0LGS         -17 IO81             M0XTY         -14 JO01
+QSO:   432 FT8 2022-04-13 2035 G0LGS         -15 IO81             G6HIE         -20 JO00
+QSO:   432 FT8 2022-04-13 2041 G0LGS         -09 IO81             G0MBL         -13 JO01
+QSO:   432 FT8 2022-04-13 2053 G0LGS         -11 IO81             G0ORE         -05 IO92
+QSO:   432 FT8 2022-04-13 2056 G0LGS         -14 IO81             G0BIX         -09 JO01
 END-OF-LOG:

@@ -10,34 +10,34 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220209&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=864; excluded rows=0.
-QSO:   432 DG 2022-02-09 1905 G4RHR         -10 JO02             GW4HDF        -05 IO81
-QSO:   432 DG 2022-02-09 1911 G4RHR         -16 JO02             PA3CWS        -16 JO22
-QSO:   432 DG 2022-02-09 1913 G4RHR         -09 JO02             PE1NFT        +01 JO21
-QSO:   432 DG 2022-02-09 1916 G4RHR         -13 JO02             DL5EAG        -06 JO31
-QSO:   432 DG 2022-02-09 1920 G4RHR         +01 JO02             PE1ITR        -13 JO21
-QSO:   432 DG 2022-02-09 1923 G4RHR         -16 JO02             PA7ML         -13 JO22
-QSO:   432 DG 2022-02-09 1925 G4RHR         -07 JO02             PH0TV         -14 JO32
-QSO:   432 DG 2022-02-09 1926 G4RHR         +02 JO02             PA6Q          +05 JO32
-QSO:   432 DG 2022-02-09 1938 G4RHR         +01 JO02             G0BIX         -07 JO01
-QSO:   432 DG 2022-02-09 1941 G4RHR         +04 JO02             G0XDI         -07 IO91
-QSO:   432 DG 2022-02-09 1950 G4RHR         -13 JO02             G0RQL         -19 IO70
-QSO:   432 DG 2022-02-09 1946 G4RHR         +05 JO02             M0UGA         -16 IO92
-QSO:   432 DG 2022-02-09 1958 G4RHR         +00 JO02             M1AEC         -07 IO82
-QSO:   432 DG 2022-02-09 2001 G4RHR         +07 JO02             G8SEI         +01 IO92
-QSO:   432 DG 2022-02-09 2003 G4RHR         +00 JO02             M0NVS         +05 IO91
-QSO:   432 DG 2022-02-09 2010 G4RHR         +01 JO02             G0JJG         +05 JO02
-QSO:   432 DG 2022-02-09 2012 G4RHR         -07 JO02             M0AGJ         -09 IO93
-QSO:   432 DG 2022-02-09 2016 G4RHR         -09 JO02             G8CRB         -12 JO02
-QSO:   432 DG 2022-02-09 2019 G4RHR         +06 JO02             G3YDY         +05 JO01
-QSO:   432 DG 2022-02-09 2026 G4RHR         -06 JO02             G0CER         -06 IO82
-QSO:   432 DG 2022-02-09 2028 G4RHR         -03 JO02             G4GFI         -24 IO91
-QSO:   432 DG 2022-02-09 2034 G4RHR         -07 JO02             M7APR         -14 IO91
-QSO:   432 DG 2022-02-09 2035 G4RHR         -08 JO02             G7WIR         -11 JO01
-QSO:   432 DG 2022-02-09 2037 G4RHR         -17 JO02             M0SEU         -03 JO01
-QSO:   432 DG 2022-02-09 2040 G4RHR         -07 JO02             G4EII         -03 IO83
-QSO:   432 DG 2022-02-09 2044 G4RHR         -02 JO02             2E0IEI        -07 IO81
-QSO:   432 DG 2022-02-09 2055 G4RHR         -10 JO02             ON8SV         -10 JO20
-QSO:   432 DG 2022-02-09 2057 G4RHR         -07 JO02             DL5EBS        -18 JO31
+QSO:   432 FT8 2022-02-09 1905 G4RHR         -10 JO02             GW4HDF        -05 IO81
+QSO:   432 FT8 2022-02-09 1911 G4RHR         -16 JO02             PA3CWS        -16 JO22
+QSO:   432 FT8 2022-02-09 1913 G4RHR         -09 JO02             PE1NFT        +01 JO21
+QSO:   432 FT8 2022-02-09 1916 G4RHR         -13 JO02             DL5EAG        -06 JO31
+QSO:   432 FT8 2022-02-09 1920 G4RHR         +01 JO02             PE1ITR        -13 JO21
+QSO:   432 FT8 2022-02-09 1923 G4RHR         -16 JO02             PA7ML         -13 JO22
+QSO:   432 FT8 2022-02-09 1925 G4RHR         -07 JO02             PH0TV         -14 JO32
+QSO:   432 FT8 2022-02-09 1926 G4RHR         +02 JO02             PA6Q          +05 JO32
+QSO:   432 FT8 2022-02-09 1938 G4RHR         +01 JO02             G0BIX         -07 JO01
+QSO:   432 FT8 2022-02-09 1941 G4RHR         +04 JO02             G0XDI         -07 IO91
+QSO:   432 FT8 2022-02-09 1950 G4RHR         -13 JO02             G0RQL         -19 IO70
+QSO:   432 FT8 2022-02-09 1946 G4RHR         +05 JO02             M0UGA         -16 IO92
+QSO:   432 FT8 2022-02-09 1958 G4RHR         +00 JO02             M1AEC         -07 IO82
+QSO:   432 FT8 2022-02-09 2001 G4RHR         +07 JO02             G8SEI         +01 IO92
+QSO:   432 FT8 2022-02-09 2003 G4RHR         +00 JO02             M0NVS         +05 IO91
+QSO:   432 FT8 2022-02-09 2010 G4RHR         +01 JO02             G0JJG         +05 JO02
+QSO:   432 FT8 2022-02-09 2012 G4RHR         -07 JO02             M0AGJ         -09 IO93
+QSO:   432 FT8 2022-02-09 2016 G4RHR         -09 JO02             G8CRB         -12 JO02
+QSO:   432 FT8 2022-02-09 2019 G4RHR         +06 JO02             G3YDY         +05 JO01
+QSO:   432 FT8 2022-02-09 2026 G4RHR         -06 JO02             G0CER         -06 IO82
+QSO:   432 FT8 2022-02-09 2028 G4RHR         -03 JO02             G4GFI         -24 IO91
+QSO:   432 FT8 2022-02-09 2034 G4RHR         -07 JO02             M7APR         -14 IO91
+QSO:   432 FT8 2022-02-09 2035 G4RHR         -08 JO02             G7WIR         -11 JO01
+QSO:   432 FT8 2022-02-09 2037 G4RHR         -17 JO02             M0SEU         -03 JO01
+QSO:   432 FT8 2022-02-09 2040 G4RHR         -07 JO02             G4EII         -03 IO83
+QSO:   432 FT8 2022-02-09 2044 G4RHR         -02 JO02             2E0IEI        -07 IO81
+QSO:   432 FT8 2022-02-09 2055 G4RHR         -10 JO02             ON8SV         -10 JO20
+QSO:   432 FT8 2022-02-09 2057 G4RHR         -07 JO02             DL5EBS        -18 JO31
 END-OF-LOG:

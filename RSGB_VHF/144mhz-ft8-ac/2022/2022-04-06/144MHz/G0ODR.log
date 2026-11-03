@@ -10,15 +10,15 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220406&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1359; excluded rows=0.
-QSO:   144 DG 2022-04-06 1902 G0ODR         +04 JO02             PA3EWP        -12 JO21
-QSO:   144 DG 2022-04-06 1904 G0ODR         +14 JO02             M0BWU         +19 JO02
-QSO:   144 DG 2022-04-06 1909 G0ODR         -14 JO02             DF1JM         -12 JO30
-QSO:   144 DG 2022-04-06 1946 G0ODR         +02 JO02             M0BWU         +02 JO02
-QSO:   144 DG 2022-04-06 1959 G0ODR         -05 JO02             PE4A          -08 JO22
-QSO:   144 DG 2022-04-06 2005 G0ODR         -15 JO02             OV3T          -15 JO46
-QSO:   144 DG 2022-04-06 2027 G0ODR         -04 JO02             PE1NFT        -16 JO21
-QSO:   144 DG 2022-04-06 2039 G0ODR         -11 JO02             G0JJG         -11 JO02
-QSO:   144 DG 2022-04-06 2049 G0ODR         -09 JO02             MM0CEZ        -16 IO75
+QSO:   144 FT8 2022-04-06 1902 G0ODR         +04 JO02             PA3EWP        -12 JO21
+QSO:   144 FT8 2022-04-06 1904 G0ODR         +14 JO02             M0BWU         +19 JO02
+QSO:   144 FT8 2022-04-06 1909 G0ODR         -14 JO02             DF1JM         -12 JO30
+QSO:   144 FT8 2022-04-06 1946 G0ODR         +02 JO02             M0BWU         +02 JO02
+QSO:   144 FT8 2022-04-06 1959 G0ODR         -05 JO02             PE4A          -08 JO22
+QSO:   144 FT8 2022-04-06 2005 G0ODR         -15 JO02             OV3T          -15 JO46
+QSO:   144 FT8 2022-04-06 2027 G0ODR         -04 JO02             PE1NFT        -16 JO21
+QSO:   144 FT8 2022-04-06 2039 G0ODR         -11 JO02             G0JJG         -11 JO02
+QSO:   144 FT8 2022-04-06 2049 G0ODR         -09 JO02             MM0CEZ        -16 IO75
 END-OF-LOG:

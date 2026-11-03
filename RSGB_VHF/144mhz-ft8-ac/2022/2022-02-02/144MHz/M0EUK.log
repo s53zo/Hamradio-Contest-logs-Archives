@@ -10,19 +10,19 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1903 M0EUK         +18 IO95             G0CNN         -04 IO94
-QSO:   144 DG 2022-02-02 1905 M0EUK         +03 IO95             M0RTQ         -15 IO93
-QSO:   144 DG 2022-02-02 1914 M0EUK         +01 IO95             G7COU         -13 IO93
-QSO:   144 DG 2022-02-02 1919 M0EUK         +09 IO95             G3YDY         -16 JO01
-QSO:   144 DG 2022-02-02 1923 M0EUK         -02 IO95             G4RRA         -11 IO80
-QSO:   144 DG 2022-02-02 1928 M0EUK         +03 IO95             G8AOE/P       +32 IO94
-QSO:   144 DG 2022-02-02 1931 M0EUK         -07 IO95             G4NBS         -09 JO02
-QSO:   144 DG 2022-02-02 1938 M0EUK         -09 IO95             GW4HDF        -13 IO81
-QSO:   144 DG 2022-02-02 1956 M0EUK         -18 IO95             G0XBU         -07 IO83
-QSO:   144 DG 2022-02-02 2040 M0EUK         +01 IO95             PA5Y          -10 JO21
-QSO:   144 DG 2022-02-02 2046 M0EUK         -01 IO95             OV3T          -21 JO46
-QSO:   144 DG 2022-02-02 2047 M0EUK         +35 IO95             G8KPD         +32 IO95
-QSO:   144 DG 2022-02-02 2052 M0EUK         -04 IO95             GI6ATZ        +05 IO74
+QSO:   144 FT8 2022-02-02 1903 M0EUK         +18 IO95             G0CNN         -04 IO94
+QSO:   144 FT8 2022-02-02 1905 M0EUK         +03 IO95             M0RTQ         -15 IO93
+QSO:   144 FT8 2022-02-02 1914 M0EUK         +01 IO95             G7COU         -13 IO93
+QSO:   144 FT8 2022-02-02 1919 M0EUK         +09 IO95             G3YDY         -16 JO01
+QSO:   144 FT8 2022-02-02 1923 M0EUK         -02 IO95             G4RRA         -11 IO80
+QSO:   144 FT8 2022-02-02 1928 M0EUK         +03 IO95             G8AOE/P       +32 IO94
+QSO:   144 FT8 2022-02-02 1931 M0EUK         -07 IO95             G4NBS         -09 JO02
+QSO:   144 FT8 2022-02-02 1938 M0EUK         -09 IO95             GW4HDF        -13 IO81
+QSO:   144 FT8 2022-02-02 1956 M0EUK         -18 IO95             G0XBU         -07 IO83
+QSO:   144 FT8 2022-02-02 2040 M0EUK         +01 IO95             PA5Y          -10 JO21
+QSO:   144 FT8 2022-02-02 2046 M0EUK         -01 IO95             OV3T          -21 JO46
+QSO:   144 FT8 2022-02-02 2047 M0EUK         +35 IO95             G8KPD         +32 IO95
+QSO:   144 FT8 2022-02-02 2052 M0EUK         -04 IO95             GI6ATZ        +05 IO74
 END-OF-LOG:

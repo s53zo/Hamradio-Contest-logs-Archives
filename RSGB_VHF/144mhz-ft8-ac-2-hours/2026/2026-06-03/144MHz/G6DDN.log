@@ -10,31 +10,31 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260603&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1053; excluded rows=0.
-QSO:   144 DG 2026-06-03 1901 G6DDN         +08 IO93             G7COU         +04 IO93
-QSO:   144 DG 2026-06-03 1904 G6DDN         -24 IO93             G8CZW         -06 IO83
-QSO:   144 DG 2026-06-03 1909 G6DDN         -21 IO93             G4PDF         -09 IO93
-QSO:   144 DG 2026-06-03 1912 G6DDN         -04 IO93             MM0CEZ        +10 IO75
-QSO:   144 DG 2026-06-03 1914 G6DDN         -10 IO93             G4FLM         +03 IO94
-QSO:   144 DG 2026-06-03 1916 G6DDN         -13 IO93             GM8MJV        +07 IO85
-QSO:   144 DG 2026-06-03 1924 G6DDN         -15 IO93             OV3T          -17 JO46
-QSO:   144 DG 2026-06-03 1925 G6DDN         -15 IO93             OV3T          -17 JO46
-QSO:   144 DG 2026-06-03 1933 G6DDN         -08 IO93             OZ3MC         -02 JO46
-QSO:   144 DG 2026-06-03 1936 G6DDN         -20 IO93             GM0HBK        -04 IO77
-QSO:   144 DG 2026-06-03 1938 G6DDN         +02 IO93             G8EEM         +24 IO93
-QSO:   144 DG 2026-06-03 1946 G6DDN         -21 IO93             G7GEE         -10 IO83
-QSO:   144 DG 2026-06-03 1948 G6DDN         -18 IO93             G4BEE         -09 IO83
-QSO:   144 DG 2026-06-03 1949 G6DDN         -04 IO93             EI8KN         -15 IO62
-QSO:   144 DG 2026-06-03 1957 G6DDN         -24 IO93             G4NBS         -04 JO02
-QSO:   144 DG 2026-06-03 2009 G6DDN         -10 IO93             G7LRQ         +00 JO03
-QSO:   144 DG 2026-06-03 2014 G6DDN         -22 IO93             G4ANS         +01 IO82
-QSO:   144 DG 2026-06-03 2022 G6DDN         -08 IO93             GI4SNA        -17 IO64
-QSO:   144 DG 2026-06-03 2024 G6DDN         -22 IO93             OZ1IIL        -05 JO47
-QSO:   144 DG 2026-06-03 2033 G6DDN         -17 IO93             DL5EBS        -12 JO31
-QSO:   144 DG 2026-06-03 2036 G6DDN         -21 IO93             G0CNN         -02 IO94
-QSO:   144 DG 2026-06-03 2041 G6DDN         -24 IO93             OZ1BEF        -20 JO46
-QSO:   144 DG 2026-06-03 2049 G6DDN         -18 IO93             DL6BF         -13 JO32
-QSO:   144 DG 2026-06-03 2055 G6DDN         -24 IO93             DF9QT         -19 JO30
-QSO:   144 DG 2026-06-03 2059 G6DDN         +07 IO93             G1MHU         -05 IO93
+QSO:   144 FT8 2026-06-03 1901 G6DDN         +08 IO93             G7COU         +04 IO93
+QSO:   144 FT8 2026-06-03 1904 G6DDN         -24 IO93             G8CZW         -06 IO83
+QSO:   144 FT8 2026-06-03 1909 G6DDN         -21 IO93             G4PDF         -09 IO93
+QSO:   144 FT8 2026-06-03 1912 G6DDN         -04 IO93             MM0CEZ        +10 IO75
+QSO:   144 FT8 2026-06-03 1914 G6DDN         -10 IO93             G4FLM         +03 IO94
+QSO:   144 FT8 2026-06-03 1916 G6DDN         -13 IO93             GM8MJV        +07 IO85
+QSO:   144 FT8 2026-06-03 1924 G6DDN         -15 IO93             OV3T          -17 JO46
+QSO:   144 FT8 2026-06-03 1925 G6DDN         -15 IO93             OV3T          -17 JO46
+QSO:   144 FT8 2026-06-03 1933 G6DDN         -08 IO93             OZ3MC         -02 JO46
+QSO:   144 FT8 2026-06-03 1936 G6DDN         -20 IO93             GM0HBK        -04 IO77
+QSO:   144 FT8 2026-06-03 1938 G6DDN         +02 IO93             G8EEM         +24 IO93
+QSO:   144 FT8 2026-06-03 1946 G6DDN         -21 IO93             G7GEE         -10 IO83
+QSO:   144 FT8 2026-06-03 1948 G6DDN         -18 IO93             G4BEE         -09 IO83
+QSO:   144 FT8 2026-06-03 1949 G6DDN         -04 IO93             EI8KN         -15 IO62
+QSO:   144 FT8 2026-06-03 1957 G6DDN         -24 IO93             G4NBS         -04 JO02
+QSO:   144 FT8 2026-06-03 2009 G6DDN         -10 IO93             G7LRQ         +00 JO03
+QSO:   144 FT8 2026-06-03 2014 G6DDN         -22 IO93             G4ANS         +01 IO82
+QSO:   144 FT8 2026-06-03 2022 G6DDN         -08 IO93             GI4SNA        -17 IO64
+QSO:   144 FT8 2026-06-03 2024 G6DDN         -22 IO93             OZ1IIL        -05 JO47
+QSO:   144 FT8 2026-06-03 2033 G6DDN         -17 IO93             DL5EBS        -12 JO31
+QSO:   144 FT8 2026-06-03 2036 G6DDN         -21 IO93             G0CNN         -02 IO94
+QSO:   144 FT8 2026-06-03 2041 G6DDN         -24 IO93             OZ1BEF        -20 JO46
+QSO:   144 FT8 2026-06-03 2049 G6DDN         -18 IO93             DL6BF         -13 JO32
+QSO:   144 FT8 2026-06-03 2055 G6DDN         -24 IO93             DF9QT         -19 JO30
+QSO:   144 FT8 2026-06-03 2059 G6DDN         +07 IO93             G1MHU         -05 IO93
 END-OF-LOG:

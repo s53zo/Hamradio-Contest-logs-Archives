@@ -10,15 +10,16 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO: 14081 DG 2026-04-12 1007 G3SJX         +04 -                G4EFT         +09 -
-QSO: 14081 DG 2026-04-12 1008 G3SJX         -02 -                9A5HZ         +02 -
-QSO: 14081 DG 2026-04-12 1009 G3SJX         +01 -                R1AV          -02 -
-QSO: 14081 DG 2026-04-12 1010 G3SJX         +18 -                E75W          +10 -
-QSO: 14081 DG 2026-04-12 1011 G3SJX         +01 -                SM3ULU        +16 -
-QSO: 14081 DG 2026-04-12 1013 G3SJX         +16 -                IZ7DOO        +12 -
-QSO: 14081 DG 2026-04-12 1015 G3SJX         +20 -                IZ7DOO        +20 -
-QSO: 14081 DG 2026-04-12 1016 G3SJX         -02 -                SQ9DJQ        -05 -
-QSO: 14081 DG 2026-04-12 1017 G3SJX         +09 -                G3SWC         +02 -
-QSO: 14081 DG 2026-04-12 1019 G3SJX         -07 -                SP1TJ         -14 -
+QSO: 14081 FT4 2026-04-12 1007 G3SJX         +04 -                G4EFT         +09 -
+QSO: 14081 FT4 2026-04-12 1008 G3SJX         -02 -                9A5HZ         +02 -
+QSO: 14081 FT4 2026-04-12 1009 G3SJX         +01 -                R1AV          -02 -
+QSO: 14081 FT4 2026-04-12 1010 G3SJX         +18 -                E75W          +10 -
+QSO: 14081 FT4 2026-04-12 1011 G3SJX         +01 -                SM3ULU        +16 -
+QSO: 14081 FT4 2026-04-12 1013 G3SJX         +16 -                IZ7DOO        +12 -
+QSO: 14081 FT4 2026-04-12 1015 G3SJX         +20 -                IZ7DOO        +20 -
+QSO: 14081 FT4 2026-04-12 1016 G3SJX         -02 -                SQ9DJQ        -05 -
+QSO: 14081 FT4 2026-04-12 1017 G3SJX         +09 -                G3SWC         +02 -
+QSO: 14081 FT4 2026-04-12 1019 G3SJX         -07 -                SP1TJ         -14 -
 END-OF-LOG:

@@ -10,39 +10,39 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260603&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1053; excluded rows=0.
-QSO:   144 DG 2026-06-03 1902 GM8MJV        +12 IO85             GM7GAX        +05 IO86
-QSO:   144 DG 2026-06-03 1904 GM8MJV        +12 IO85             GM8IEM        -04 IO78
-QSO:   144 DG 2026-06-03 1906 GM8MJV        -01 IO85             MM0ULL        +08 IO77
-QSO:   144 DG 2026-06-03 1908 GM8MJV        +02 IO85             G8SEI         -11 IO92
-QSO:   144 DG 2026-06-03 1909 GM8MJV        +24 IO85             G4BEE         +17 IO83
-QSO:   144 DG 2026-06-03 1913 GM8MJV        -03 IO85             G0VXM         -24 IO93
-QSO:   144 DG 2026-06-03 1915 GM8MJV        +04 IO85             G8EEM         -09 IO93
-QSO:   144 DG 2026-06-03 1917 GM8MJV        +07 IO85             G6DDN         -13 IO93
-QSO:   144 DG 2026-06-03 1918 GM8MJV        +13 IO85             G7LRQ         +06 JO03
-QSO:   144 DG 2026-06-03 1923 GM8MJV        +21 IO85             GM1KEN        +10 IO85
-QSO:   144 DG 2026-06-03 1924 GM8MJV        -25 IO85             G8CZW         -22 IO83
-QSO:   144 DG 2026-06-03 1925 GM8MJV        +08 IO85             M0PNN         +07 IO82
-QSO:   144 DG 2026-06-03 1926 GM8MJV        +32 IO85             GM3AND        +18 IO86
-QSO:   144 DG 2026-06-03 1930 GM8MJV        -02 IO85             G4APJ         +14 IO83
-QSO:   144 DG 2026-06-03 1931 GM8MJV        +00 IO85             G4HGI         -01 IO83
-QSO:   144 DG 2026-06-03 1932 GM8MJV        +08 IO85             G0JCC         +07 IO82
-QSO:   144 DG 2026-06-03 1933 GM8MJV        -17 IO85             G8LIY         -04 IO83
-QSO:   144 DG 2026-06-03 1937 GM8MJV        +24 IO85             MM0CEZ        +18 IO75
-QSO:   144 DG 2026-06-03 1939 GM8MJV        +04 IO85             GM7PKT        -04 IO76
-QSO:   144 DG 2026-06-03 1952 GM8MJV        +01 IO85             G4NBS         -12 JO02
-QSO:   144 DG 2026-06-03 1958 GM8MJV        +15 IO85             M1TZR         +00 IO83
-QSO:   144 DG 2026-06-03 2000 GM8MJV        -16 IO85             EI8KN         -12 IO62
-QSO:   144 DG 2026-06-03 2003 GM8MJV        +26 IO85             GM8OTI        +19 IO85
-QSO:   144 DG 2026-06-03 2006 GM8MJV        +17 IO85             G4ANS         +00 IO82
-QSO:   144 DG 2026-06-03 2007 GM8MJV        -08 IO85             M9DJN         -07 IO82
-QSO:   144 DG 2026-06-03 2019 GM8MJV        +22 IO85             GI4SNA        -09 IO64
-QSO:   144 DG 2026-06-03 2020 GM8MJV        +19 IO85             G0XDI         -25 IO91
-QSO:   144 DG 2026-06-03 2035 GM8MJV        -17 IO85             OV3T          -19 JO46
-QSO:   144 DG 2026-06-03 2041 GM8MJV        -14 IO85             MW1EYP/P      +05 IO81
-QSO:   144 DG 2026-06-03 2044 GM8MJV        -16 IO85             G0CNN         -08 IO94
-QSO:   144 DG 2026-06-03 2049 GM8MJV        -14 IO85             M9VGP         -14 IO91
-QSO:   144 DG 2026-06-03 2053 GM8MJV        -13 IO85             G0JDL         -08 JO02
-QSO:   144 DG 2026-06-03 2100 GM8MJV        +06 IO85             G8LIY         -16 IO83
+QSO:   144 FT8 2026-06-03 1902 GM8MJV        +12 IO85             GM7GAX        +05 IO86
+QSO:   144 FT8 2026-06-03 1904 GM8MJV        +12 IO85             GM8IEM        -04 IO78
+QSO:   144 FT8 2026-06-03 1906 GM8MJV        -01 IO85             MM0ULL        +08 IO77
+QSO:   144 FT8 2026-06-03 1908 GM8MJV        +02 IO85             G8SEI         -11 IO92
+QSO:   144 FT8 2026-06-03 1909 GM8MJV        +24 IO85             G4BEE         +17 IO83
+QSO:   144 FT8 2026-06-03 1913 GM8MJV        -03 IO85             G0VXM         -24 IO93
+QSO:   144 FT8 2026-06-03 1915 GM8MJV        +04 IO85             G8EEM         -09 IO93
+QSO:   144 FT8 2026-06-03 1917 GM8MJV        +07 IO85             G6DDN         -13 IO93
+QSO:   144 FT8 2026-06-03 1918 GM8MJV        +13 IO85             G7LRQ         +06 JO03
+QSO:   144 FT8 2026-06-03 1923 GM8MJV        +21 IO85             GM1KEN        +10 IO85
+QSO:   144 FT8 2026-06-03 1924 GM8MJV        -25 IO85             G8CZW         -22 IO83
+QSO:   144 FT8 2026-06-03 1925 GM8MJV        +08 IO85             M0PNN         +07 IO82
+QSO:   144 FT8 2026-06-03 1926 GM8MJV        +32 IO85             GM3AND        +18 IO86
+QSO:   144 FT8 2026-06-03 1930 GM8MJV        -02 IO85             G4APJ         +14 IO83
+QSO:   144 FT8 2026-06-03 1931 GM8MJV        +00 IO85             G4HGI         -01 IO83
+QSO:   144 FT8 2026-06-03 1932 GM8MJV        +08 IO85             G0JCC         +07 IO82
+QSO:   144 FT8 2026-06-03 1933 GM8MJV        -17 IO85             G8LIY         -04 IO83
+QSO:   144 FT8 2026-06-03 1937 GM8MJV        +24 IO85             MM0CEZ        +18 IO75
+QSO:   144 FT8 2026-06-03 1939 GM8MJV        +04 IO85             GM7PKT        -04 IO76
+QSO:   144 FT8 2026-06-03 1952 GM8MJV        +01 IO85             G4NBS         -12 JO02
+QSO:   144 FT8 2026-06-03 1958 GM8MJV        +15 IO85             M1TZR         +00 IO83
+QSO:   144 FT8 2026-06-03 2000 GM8MJV        -16 IO85             EI8KN         -12 IO62
+QSO:   144 FT8 2026-06-03 2003 GM8MJV        +26 IO85             GM8OTI        +19 IO85
+QSO:   144 FT8 2026-06-03 2006 GM8MJV        +17 IO85             G4ANS         +00 IO82
+QSO:   144 FT8 2026-06-03 2007 GM8MJV        -08 IO85             M9DJN         -07 IO82
+QSO:   144 FT8 2026-06-03 2019 GM8MJV        +22 IO85             GI4SNA        -09 IO64
+QSO:   144 FT8 2026-06-03 2020 GM8MJV        +19 IO85             G0XDI         -25 IO91
+QSO:   144 FT8 2026-06-03 2035 GM8MJV        -17 IO85             OV3T          -19 JO46
+QSO:   144 FT8 2026-06-03 2041 GM8MJV        -14 IO85             MW1EYP/P      +05 IO81
+QSO:   144 FT8 2026-06-03 2044 GM8MJV        -16 IO85             G0CNN         -08 IO94
+QSO:   144 FT8 2026-06-03 2049 GM8MJV        -14 IO85             M9VGP         -14 IO91
+QSO:   144 FT8 2026-06-03 2053 GM8MJV        -13 IO85             G0JDL         -08 JO02
+QSO:   144 FT8 2026-06-03 2100 GM8MJV        +06 IO85             G8LIY         -16 IO83
 END-OF-LOG:

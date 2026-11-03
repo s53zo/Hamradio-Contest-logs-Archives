@@ -10,20 +10,20 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220713&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=767; excluded rows=0.
-QSO:   432 DG 2022-07-13 1908 G4OED         -09 IO91             G4APJ         -14 IO83
-QSO:   432 DG 2022-07-13 1913 G4OED         -18 IO91             G0ORE         -06 IO92
-QSO:   432 DG 2022-07-13 1916 G4OED         +03 IO91             G4BRK         +06 IO91
-QSO:   432 DG 2022-07-13 1921 G4OED         -16 IO91             G8GNI         -10 IO91
-QSO:   432 DG 2022-07-13 1930 G4OED         +15 IO91             M0IEP         +12 IO91
-QSO:   432 DG 2022-07-13 1934 G4OED         +17 IO91             GW4HDF        +16 IO81
-QSO:   432 DG 2022-07-13 1935 G4OED         +08 IO91             G0XDI         -12 IO91
-QSO:   432 DG 2022-07-13 1939 G4OED         -13 IO91             EI8KN         -10 IO62
-QSO:   432 DG 2022-07-13 1945 G4OED         -04 IO91             G4EII         -01 IO83
-QSO:   432 DG 2022-07-13 1957 G4OED         +24 IO91             G4WQG         +17 IO91
-QSO:   432 DG 2022-07-13 2001 G4OED         -10 IO91             G8EOP         -03 IO93
-QSO:   432 DG 2022-07-13 2003 G4OED         -15 IO91             G7WIR         -15 JO01
-QSO:   432 DG 2022-07-13 2034 G4OED         -16 IO91             G0ISX         -11 IO93
-QSO:   432 DG 2022-07-13 2049 G4OED         -09 IO91             PA5Y          -19 JO21
+QSO:   432 FT8 2022-07-13 1908 G4OED         -09 IO91             G4APJ         -14 IO83
+QSO:   432 FT8 2022-07-13 1913 G4OED         -18 IO91             G0ORE         -06 IO92
+QSO:   432 FT8 2022-07-13 1916 G4OED         +03 IO91             G4BRK         +06 IO91
+QSO:   432 FT8 2022-07-13 1921 G4OED         -16 IO91             G8GNI         -10 IO91
+QSO:   432 FT8 2022-07-13 1930 G4OED         +15 IO91             M0IEP         +12 IO91
+QSO:   432 FT8 2022-07-13 1934 G4OED         +17 IO91             GW4HDF        +16 IO81
+QSO:   432 FT8 2022-07-13 1935 G4OED         +08 IO91             G0XDI         -12 IO91
+QSO:   432 FT8 2022-07-13 1939 G4OED         -13 IO91             EI8KN         -10 IO62
+QSO:   432 FT8 2022-07-13 1945 G4OED         -04 IO91             G4EII         -01 IO83
+QSO:   432 FT8 2022-07-13 1957 G4OED         +24 IO91             G4WQG         +17 IO91
+QSO:   432 FT8 2022-07-13 2001 G4OED         -10 IO91             G8EOP         -03 IO93
+QSO:   432 FT8 2022-07-13 2003 G4OED         -15 IO91             G7WIR         -15 JO01
+QSO:   432 FT8 2022-07-13 2034 G4OED         -16 IO91             G0ISX         -11 IO93
+QSO:   432 FT8 2022-07-13 2049 G4OED         -09 IO91             PA5Y          -19 JO21
 END-OF-LOG:

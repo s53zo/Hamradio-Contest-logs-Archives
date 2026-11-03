@@ -10,17 +10,17 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=260909&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=290; excluded rows=0.
-QSO:   432 DG 2026-09-09 1750 G4APJ         -06 IO83             PH2M          -13 JO22
-QSO:   432 DG 2026-09-09 1751 G4APJ         -03 IO83             MI0IHH        -09 IO74
-QSO:   432 DG 2026-09-09 1804 G4APJ         +11 IO83             G8XVJ         +02 IO83
-QSO:   432 DG 2026-09-09 1808 G4APJ         -05 IO83             G8KJJ         -04 IO92
-QSO:   432 DG 2026-09-09 1815 G4APJ         -07 IO83             G7IGC         -08 IO92
-QSO:   432 DG 2026-09-09 1819 G4APJ         +01 IO83             G0GJV         -05 IO91
-QSO:   432 DG 2026-09-09 1827 G4APJ         -03 IO83             G7LRQ         -07 JO03
-QSO:   432 DG 2026-09-09 1843 G4APJ         -12 IO83             G0MBL         +04 JO01
-QSO:   432 DG 2026-09-09 1849 G4APJ         +01 IO83             G8VHI         +03 IO92
-QSO:   432 DG 2026-09-09 1851 G4APJ         -01 IO83             G0XDI         -03 IO91
-QSO:   432 DG 2026-09-09 1853 G4APJ         -01 IO83             F1NQP         -14 JN19
+QSO:   432 FT8 2026-09-09 1750 G4APJ         -06 IO83             PH2M          -13 JO22
+QSO:   432 FT8 2026-09-09 1751 G4APJ         -03 IO83             MI0IHH        -09 IO74
+QSO:   432 FT8 2026-09-09 1804 G4APJ         +11 IO83             G8XVJ         +02 IO83
+QSO:   432 FT8 2026-09-09 1808 G4APJ         -05 IO83             G8KJJ         -04 IO92
+QSO:   432 FT8 2026-09-09 1815 G4APJ         -07 IO83             G7IGC         -08 IO92
+QSO:   432 FT8 2026-09-09 1819 G4APJ         +01 IO83             G0GJV         -05 IO91
+QSO:   432 FT8 2026-09-09 1827 G4APJ         -03 IO83             G7LRQ         -07 JO03
+QSO:   432 FT8 2026-09-09 1843 G4APJ         -12 IO83             G0MBL         +04 JO01
+QSO:   432 FT8 2026-09-09 1849 G4APJ         +01 IO83             G8VHI         +03 IO92
+QSO:   432 FT8 2026-09-09 1851 G4APJ         -01 IO83             G0XDI         -03 IO91
+QSO:   432 FT8 2026-09-09 1853 G4APJ         -01 IO83             F1NQP         -14 JN19
 END-OF-LOG:

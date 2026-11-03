@@ -9,40 +9,41 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260727&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7916; excluded rows=0.
-QSO: 21140 DG 2026-07-27 1901 M0WBO         -08 -                F4BYF         -18 -
-QSO: 21140 DG 2026-07-27 1907 M0WBO         +04 -                DL2EMU        -06 -
-QSO: 21140 DG 2026-07-27 1913 M0WBO         +04 -                PH3T          -08 -
-QSO: 21140 DG 2026-07-27 1915 M0WBO         -09 -                HA6NL         -15 -
-QSO: 14082 DG 2026-07-27 1927 M0WBO         -09 -                YO3RU         -14 -
-QSO: 14082 DG 2026-07-27 1933 M0WBO         +09 -                EA8AE         +01 -
-QSO: 14082 DG 2026-07-27 1935 M0WBO         -02 -                S55A          -06 -
-QSO: 14082 DG 2026-07-27 1941 M0WBO         -04 -                ON9TT         -08 -
-QSO: 14082 DG 2026-07-27 1944 M0WBO         +03 -                OK2USM        -11 -
-QSO: 14082 DG 2026-07-27 1945 M0WBO         -08 -                LY1NM         -11 -
-QSO: 14082 DG 2026-07-27 1946 M0WBO         +00 -                G5USH         -17 -
-QSO: 14082 DG 2026-07-27 1946 M0WBO         +04 -                YO4NF         -02 -
-QSO: 14082 DG 2026-07-27 1949 M0WBO         +09 -                DJ6OL         -09 -
-QSO: 14080 DG 2026-07-27 1951 M0WBO         +06 -                RX3DRC        -03 -
-QSO: 14080 DG 2026-07-27 2007 M0WBO         -01 -                HA7TM         -14 -
-QSO: 14080 DG 2026-07-27 2008 M0WBO         +13 -                LZ2INP        -05 -
-QSO: 14080 DG 2026-07-27 2009 M0WBO         +14 -                LZ2INP        -13 -
-QSO: 14080 DG 2026-07-27 2012 M0WBO         +12 -                PA2IP         -12 -
-QSO: 14080 DG 2026-07-27 2016 M0WBO         -02 -                K9OM          -12 -
-QSO: 14082 DG 2026-07-27 2023 M0WBO         -10 -                JA8KSF        -10 -
-QSO: 14082 DG 2026-07-27 2024 M0WBO         +06 -                F5SJC         -12 -
-QSO: 14082 DG 2026-07-27 2032 M0WBO         +08 -                OZ7BX         -06 -
-QSO: 14082 DG 2026-07-27 2033 M0WBO         -05 -                SA7BYQ        -07 -
-QSO: 14082 DG 2026-07-27 2035 M0WBO         -02 -                LB8NH         -10 -
-QSO: 14082 DG 2026-07-27 2037 M0WBO         -14 -                SV1DZB        -01 -
-QSO: 14082 DG 2026-07-27 2041 M0WBO         -02 -                HS0ZOY        -07 -
-QSO: 14082 DG 2026-07-27 2042 M0WBO         +04 -                SP3RK         +02 -
-QSO: 14082 DG 2026-07-27 2045 M0WBO         +31 -                SP5EXA        -05 -
-QSO:  7050 DG 2026-07-27 2049 M0WBO         +11 -                DB2GM         -05 -
-QSO:  7050 DG 2026-07-27 2050 M0WBO         +09 -                PC4H          -05 -
-QSO:  7049 DG 2026-07-27 2051 M0WBO         +09 -                PC4H          -05 -
-QSO:  7049 DG 2026-07-27 2051 M0WBO         +28 -                G1WOV         +08 -
-QSO:  7049 DG 2026-07-27 2052 M0WBO         +14 -                GW0ARK        +12 -
-QSO:  7049 DG 2026-07-27 2055 M0WBO         +12 -                PD0LBY        -11 -
-QSO:  7049 DG 2026-07-27 2056 M0WBO         +00 -                DF3QL         -05 -
+QSO: 21140 FT4 2026-07-27 1901 M0WBO         -08 -                F4BYF         -18 -
+QSO: 21140 FT4 2026-07-27 1907 M0WBO         +04 -                DL2EMU        -06 -
+QSO: 21140 FT4 2026-07-27 1913 M0WBO         +04 -                PH3T          -08 -
+QSO: 21140 FT4 2026-07-27 1915 M0WBO         -09 -                HA6NL         -15 -
+QSO: 14082 FT4 2026-07-27 1927 M0WBO         -09 -                YO3RU         -14 -
+QSO: 14082 FT4 2026-07-27 1933 M0WBO         +09 -                EA8AE         +01 -
+QSO: 14082 FT4 2026-07-27 1935 M0WBO         -02 -                S55A          -06 -
+QSO: 14082 FT4 2026-07-27 1941 M0WBO         -04 -                ON9TT         -08 -
+QSO: 14082 FT4 2026-07-27 1944 M0WBO         +03 -                OK2USM        -11 -
+QSO: 14082 FT4 2026-07-27 1945 M0WBO         -08 -                LY1NM         -11 -
+QSO: 14082 FT4 2026-07-27 1946 M0WBO         +00 -                G5USH         -17 -
+QSO: 14082 FT4 2026-07-27 1946 M0WBO         +04 -                YO4NF         -02 -
+QSO: 14082 FT4 2026-07-27 1949 M0WBO         +09 -                DJ6OL         -09 -
+QSO: 14080 FT4 2026-07-27 1951 M0WBO         +06 -                RX3DRC        -03 -
+QSO: 14080 FT4 2026-07-27 2007 M0WBO         -01 -                HA7TM         -14 -
+QSO: 14080 FT4 2026-07-27 2008 M0WBO         +13 -                LZ2INP        -05 -
+QSO: 14080 FT4 2026-07-27 2009 M0WBO         +14 -                LZ2INP        -13 -
+QSO: 14080 FT4 2026-07-27 2012 M0WBO         +12 -                PA2IP         -12 -
+QSO: 14080 FT4 2026-07-27 2016 M0WBO         -02 -                K9OM          -12 -
+QSO: 14082 FT4 2026-07-27 2023 M0WBO         -10 -                JA8KSF        -10 -
+QSO: 14082 FT4 2026-07-27 2024 M0WBO         +06 -                F5SJC         -12 -
+QSO: 14082 FT4 2026-07-27 2032 M0WBO         +08 -                OZ7BX         -06 -
+QSO: 14082 FT4 2026-07-27 2033 M0WBO         -05 -                SA7BYQ        -07 -
+QSO: 14082 FT4 2026-07-27 2035 M0WBO         -02 -                LB8NH         -10 -
+QSO: 14082 FT4 2026-07-27 2037 M0WBO         -14 -                SV1DZB        -01 -
+QSO: 14082 FT4 2026-07-27 2041 M0WBO         -02 -                HS0ZOY        -07 -
+QSO: 14082 FT4 2026-07-27 2042 M0WBO         +04 -                SP3RK         +02 -
+QSO: 14082 FT4 2026-07-27 2045 M0WBO         +31 -                SP5EXA        -05 -
+QSO:  7050 FT4 2026-07-27 2049 M0WBO         +11 -                DB2GM         -05 -
+QSO:  7050 FT4 2026-07-27 2050 M0WBO         +09 -                PC4H          -05 -
+QSO:  7049 FT4 2026-07-27 2051 M0WBO         +09 -                PC4H          -05 -
+QSO:  7049 FT4 2026-07-27 2051 M0WBO         +28 -                G1WOV         +08 -
+QSO:  7049 FT4 2026-07-27 2052 M0WBO         +14 -                GW0ARK        +12 -
+QSO:  7049 FT4 2026-07-27 2055 M0WBO         +12 -                PD0LBY        -11 -
+QSO:  7049 FT4 2026-07-27 2056 M0WBO         +00 -                DF3QL         -05 -
 END-OF-LOG:

@@ -10,14 +10,14 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220309&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=880; excluded rows=0.
-QSO:   432 DG 2022-03-09 1908 M1CFK         +23 IO92             G0RMG         +30 IO92
-QSO:   432 DG 2022-03-09 1912 M1CFK         -07 IO92             G3YKI         -06 IO82
-QSO:   432 DG 2022-03-09 1920 M1CFK         -04 IO92             G0LGS         -12 IO81
-QSO:   432 DG 2022-03-09 1926 M1CFK         -10 IO92             M7APR         -11 IO91
-QSO:   432 DG 2022-03-09 1932 M1CFK         +09 IO92             G4VPD         +08 IO92
-QSO:   432 DG 2022-03-09 2009 M1CFK         -16 IO92             M0AHN         -13 IO91
-QSO:   432 DG 2022-03-09 2013 M1CFK         +26 IO92             G1RAG         +01 IO92
-QSO:   432 DG 2022-03-09 2056 M1CFK         +00 IO92             G0JCC         +04 IO82
+QSO:   432 FT8 2022-03-09 1908 M1CFK         +23 IO92             G0RMG         +30 IO92
+QSO:   432 FT8 2022-03-09 1912 M1CFK         -07 IO92             G3YKI         -06 IO82
+QSO:   432 FT8 2022-03-09 1920 M1CFK         -04 IO92             G0LGS         -12 IO81
+QSO:   432 FT8 2022-03-09 1926 M1CFK         -10 IO92             M7APR         -11 IO91
+QSO:   432 FT8 2022-03-09 1932 M1CFK         +09 IO92             G4VPD         +08 IO92
+QSO:   432 FT8 2022-03-09 2009 M1CFK         -16 IO92             M0AHN         -13 IO91
+QSO:   432 FT8 2022-03-09 2013 M1CFK         +26 IO92             G1RAG         +01 IO92
+QSO:   432 FT8 2022-03-09 2056 M1CFK         +00 IO92             G0JCC         +04 IO82
 END-OF-LOG:

@@ -10,26 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO: 14081 DG 2026-08-17 1946 OM1HG         -07 -                EI5HV         -10 -
-QSO: 14081 DG 2026-08-17 1947 OM1HG         -01 -                M0RNR         +03 -
-QSO: 14081 DG 2026-08-17 1948 OM1HG         +09 -                G7COU         +05 -
-QSO: 14081 DG 2026-08-17 1952 OM1HG         -08 -                SE6K          -06 -
-QSO: 14082 DG 2026-08-17 2000 OM1HG         +12 -                GW4JBQ        -02 -
-QSO: 14082 DG 2026-08-17 2000 OM1HG         -05 -                G4JVG         -04 -
-QSO: 14082 DG 2026-08-17 2002 OM1HG         -01 -                G2M           +00 -
-QSO: 14082 DG 2026-08-17 2005 OM1HG         +11 -                YO3RU         +07 -
-QSO: 14082 DG 2026-08-17 2012 OM1HG         -01 -                EG2FPA        -04 -
-QSO: 14082 DG 2026-08-17 2013 OM1HG         -07 -                GW8CZW        +06 -
-QSO: 14082 DG 2026-08-17 2015 OM1HG         +01 -                IZ8GUU        -01 -
-QSO: 14082 DG 2026-08-17 2021 OM1HG         -02 -                M0DPK         -15 -
-QSO: 14082 DG 2026-08-17 2022 OM1HG         +07 -                M0PAW         +08 -
-QSO: 14082 DG 2026-08-17 2027 OM1HG         +07 -                LZ3SU         +04 -
-QSO: 14082 DG 2026-08-17 2031 OM1HG         +00 -                UA6NT         -18 -
-QSO: 14082 DG 2026-08-17 2032 OM1HG         -08 -                HS0ZOY        -12 -
-QSO:  3578 DG 2026-08-17 2045 OM1HG         +01 -                PC4H          -09 -
-QSO:  3578 DG 2026-08-17 2048 OM1HG         -13 -                DL5LS         -10 -
-QSO:  3578 DG 2026-08-17 2051 OM1HG         +05 -                DJ9MH         -08 -
-QSO:  3578 DG 2026-08-17 2055 OM1HG         -10 -                HB9AWS        -08 -
-QSO:  3578 DG 2026-08-17 2057 OM1HG         -11 -                DO1NJN        +01 -
+QSO: 14081 FT4 2026-08-17 1946 OM1HG         -07 -                EI5HV         -10 -
+QSO: 14081 FT4 2026-08-17 1947 OM1HG         -01 -                M0RNR         +03 -
+QSO: 14081 FT4 2026-08-17 1948 OM1HG         +09 -                G7COU         +05 -
+QSO: 14081 FT4 2026-08-17 1952 OM1HG         -08 -                SE6K          -06 -
+QSO: 14082 FT4 2026-08-17 2000 OM1HG         +12 -                GW4JBQ        -02 -
+QSO: 14082 FT4 2026-08-17 2000 OM1HG         -05 -                G4JVG         -04 -
+QSO: 14082 FT4 2026-08-17 2002 OM1HG         -01 -                G2M           +00 -
+QSO: 14082 FT4 2026-08-17 2005 OM1HG         +11 -                YO3RU         +07 -
+QSO: 14082 FT4 2026-08-17 2012 OM1HG         -01 -                EG2FPA        -04 -
+QSO: 14082 FT4 2026-08-17 2013 OM1HG         -07 -                GW8CZW        +06 -
+QSO: 14082 FT4 2026-08-17 2015 OM1HG         +01 -                IZ8GUU        -01 -
+QSO: 14082 FT4 2026-08-17 2021 OM1HG         -02 -                M0DPK         -15 -
+QSO: 14082 FT4 2026-08-17 2022 OM1HG         +07 -                M0PAW         +08 -
+QSO: 14082 FT4 2026-08-17 2027 OM1HG         +07 -                LZ3SU         +04 -
+QSO: 14082 FT4 2026-08-17 2031 OM1HG         +00 -                UA6NT         -18 -
+QSO: 14082 FT4 2026-08-17 2032 OM1HG         -08 -                HS0ZOY        -12 -
+QSO:  3578 FT4 2026-08-17 2045 OM1HG         +01 -                PC4H          -09 -
+QSO:  3578 FT4 2026-08-17 2048 OM1HG         -13 -                DL5LS         -10 -
+QSO:  3578 FT4 2026-08-17 2051 OM1HG         +05 -                DJ9MH         -08 -
+QSO:  3578 FT4 2026-08-17 2055 OM1HG         -10 -                HB9AWS        -08 -
+QSO:  3578 FT4 2026-08-17 2057 OM1HG         -11 -                DO1NJN        +01 -
 END-OF-LOG:

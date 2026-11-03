@@ -10,22 +10,22 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220112&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1068; excluded rows=0.
-QSO:   432 DG 2022-01-12 1914 M1EYP/P       24 IO83              G3YKI         19 IO82
-QSO:   432 DG 2022-01-12 1915 M1EYP/P       6 IO83               G4APJ         12 IO83
-QSO:   432 DG 2022-01-12 1917 M1EYP/P       1 IO83               G0UXC         30 IO83
-QSO:   432 DG 2022-01-12 1919 M1EYP/P       -8 IO83              MW0PJE        -2 IO82
-QSO:   432 DG 2022-01-12 1922 M1EYP/P       -15 IO83             G0HXE         -11 IO83
-QSO:   432 DG 2022-01-12 1923 M1EYP/P       3 IO83               G7WKX         15 IO83
-QSO:   432 DG 2022-01-12 1934 M1EYP/P       -2 IO83              GI4SNA        -16 IO64
-QSO:   432 DG 2022-01-12 1937 M1EYP/P       1 IO83               2E0YYB        -21 IO82
-QSO:   432 DG 2022-01-12 1940 M1EYP/P       7 IO83               GI6ATZ        -11 IO74
-QSO:   432 DG 2022-01-12 1942 M1EYP/P       -6 IO83              G7RHF         -18 IO82
-QSO:   432 DG 2022-01-12 1956 M1EYP/P       -1 IO83              G7PHN         -19 IO82
-QSO:   432 DG 2022-01-12 2000 M1EYP/P       1 IO83               G8SEI         -3 IO92
-QSO:   432 DG 2022-01-12 2007 M1EYP/P       16 IO83              G0XDI         -11 IO91
-QSO:   432 DG 2022-01-12 2009 M1EYP/P       3 IO83               G7IGC         -11 IO92
-QSO:   432 DG 2022-01-12 2012 M1EYP/P       -17 IO83             G8XYJ         -10 IO82
-QSO:   432 DG 2022-01-12 2021 M1EYP/P       -4 IO83              G0LGS         -13 IO81
+QSO:   432 FT8 2022-01-12 1914 M1EYP/P       24 IO83              G3YKI         19 IO82
+QSO:   432 FT8 2022-01-12 1915 M1EYP/P       6 IO83               G4APJ         12 IO83
+QSO:   432 FT8 2022-01-12 1917 M1EYP/P       1 IO83               G0UXC         30 IO83
+QSO:   432 FT8 2022-01-12 1919 M1EYP/P       -8 IO83              MW0PJE        -2 IO82
+QSO:   432 FT8 2022-01-12 1922 M1EYP/P       -15 IO83             G0HXE         -11 IO83
+QSO:   432 FT8 2022-01-12 1923 M1EYP/P       3 IO83               G7WKX         15 IO83
+QSO:   432 FT8 2022-01-12 1934 M1EYP/P       -2 IO83              GI4SNA        -16 IO64
+QSO:   432 FT8 2022-01-12 1937 M1EYP/P       1 IO83               2E0YYB        -21 IO82
+QSO:   432 FT8 2022-01-12 1940 M1EYP/P       7 IO83               GI6ATZ        -11 IO74
+QSO:   432 FT8 2022-01-12 1942 M1EYP/P       -6 IO83              G7RHF         -18 IO82
+QSO:   432 FT8 2022-01-12 1956 M1EYP/P       -1 IO83              G7PHN         -19 IO82
+QSO:   432 FT8 2022-01-12 2000 M1EYP/P       1 IO83               G8SEI         -3 IO92
+QSO:   432 FT8 2022-01-12 2007 M1EYP/P       16 IO83              G0XDI         -11 IO91
+QSO:   432 FT8 2022-01-12 2009 M1EYP/P       3 IO83               G7IGC         -11 IO92
+QSO:   432 FT8 2022-01-12 2012 M1EYP/P       -17 IO83             G8XYJ         -10 IO82
+QSO:   432 FT8 2022-01-12 2021 M1EYP/P       -4 IO83              G0LGS         -13 IO81
 END-OF-LOG:

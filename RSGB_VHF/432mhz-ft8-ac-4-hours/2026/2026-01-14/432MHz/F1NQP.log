@@ -10,42 +10,42 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=260114&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=204; excluded rows=0.
-QSO:   432 DG 2026-01-14 1701 F1NQP         -05 JN19             F1NDO         -02 JN19
-QSO:   432 DG 2026-01-14 1705 F1NQP         -03 JN19             DJ2KP         -13 JO42
-QSO:   432 DG 2026-01-14 1708 F1NQP         -08 JN19             ON2GA         +02 JO21
-QSO:   432 DG 2026-01-14 1709 F1NQP         -10 JN19             PA7ML         +00 JO22
-QSO:   432 DG 2026-01-14 1716 F1NQP         -21 JN19             DK0TR         -17 JO40
-QSO:   432 DG 2026-01-14 1718 F1NQP         -13 JN19             DF4IAE        -15 JN49
-QSO:   432 DG 2026-01-14 1735 F1NQP         -08 JN19             ON8NT         -08 JO11
-QSO:   432 DG 2026-01-14 1741 F1NQP         -15 JN19             PH2M          -15 JO22
-QSO:   432 DG 2026-01-14 1750 F1NQP         -09 JN19             F4AMF         -08 JN19
-QSO:   432 DG 2026-01-14 1755 F1NQP         -12 JN19             ON6QRP        -15 JO21
-QSO:   432 DG 2026-01-14 1802 F1NQP         -12 JN19             PA6I          -12 JO32
-QSO:   432 DG 2026-01-14 1806 F1NQP         -08 JN19             PE1ITR        -15 JO21
-QSO:   432 DG 2026-01-14 1818 F1NQP         -15 JN19             PC9F          -24 JO32
-QSO:   432 DG 2026-01-14 1826 F1NQP         -09 JN19             PE1FBC        -10 JO22
-QSO:   432 DG 2026-01-14 1838 F1NQP         -24 JN19             PE9RX         -04 JO22
-QSO:   432 DG 2026-01-14 1843 F1NQP         -11 JN19             PA3CWS        -17 JO22
-QSO:   432 DG 2026-01-14 1852 F1NQP         -11 JN19             G0GJV         +03 IO91
-QSO:   432 DG 2026-01-14 1855 F1NQP         -14 JN19             F4FET         -14 JO00
-QSO:   432 DG 2026-01-14 1901 F1NQP         -05 JN19             G0BIX         -07 JO01
-QSO:   432 DG 2026-01-14 1906 F1NQP         -07 JN19             G0JJG         -18 JO02
-QSO:   432 DG 2026-01-14 1910 F1NQP         -12 JN19             G8SEI         -22 IO92
-QSO:   432 DG 2026-01-14 1919 F1NQP         -09 JN19             G4TNX         -02 IO93
-QSO:   432 DG 2026-01-14 1927 F1NQP         -15 JN19             2E0JPO        -01 IO91
-QSO:   432 DG 2026-01-14 1944 F1NQP         -20 JN19             G4FLM         -11 IO94
-QSO:   432 DG 2026-01-14 1946 F1NQP         -08 JN19             G4ZTR         -12 JO01
-QSO:   432 DG 2026-01-14 1953 F1NQP         -13 JN19             G4BRK         -12 IO91
-QSO:   432 DG 2026-01-14 1954 F1NQP         -14 JN19             G0XDI         -04 IO91
-QSO:   432 DG 2026-01-14 1958 F1NQP         -11 JN19             G8VHI         -17 IO92
-QSO:   432 DG 2026-01-14 2003 F1NQP         -26 JN19             G1HJW         -18 JO01
-QSO:   432 DG 2026-01-14 2007 F1NQP         -14 JN19             G3YDY         -15 JO01
-QSO:   432 DG 2026-01-14 2009 F1NQP         -23 JN19             G7FPE         -21 JO01
-QSO:   432 DG 2026-01-14 2034 F1NQP         -16 JN19             DL5EBS        -10 JO31
-QSO:   432 DG 2026-01-14 2035 F1NQP         -09 JN19             DF6WE         -10 JO31
-QSO:   432 DG 2026-01-14 2037 F1NQP         -15 JN19             DK5WO         -04 JO30
-QSO:   432 DG 2026-01-14 2042 F1NQP         -12 JN19             DF8DO         -09 JO31
-QSO:   432 DG 2026-01-14 2058 F1NQP         -13 JN19             DL2FQ         -10 JN49
+QSO:   432 FT8 2026-01-14 1701 F1NQP         -05 JN19             F1NDO         -02 JN19
+QSO:   432 FT8 2026-01-14 1705 F1NQP         -03 JN19             DJ2KP         -13 JO42
+QSO:   432 FT8 2026-01-14 1708 F1NQP         -08 JN19             ON2GA         +02 JO21
+QSO:   432 FT8 2026-01-14 1709 F1NQP         -10 JN19             PA7ML         +00 JO22
+QSO:   432 FT8 2026-01-14 1716 F1NQP         -21 JN19             DK0TR         -17 JO40
+QSO:   432 FT8 2026-01-14 1718 F1NQP         -13 JN19             DF4IAE        -15 JN49
+QSO:   432 FT8 2026-01-14 1735 F1NQP         -08 JN19             ON8NT         -08 JO11
+QSO:   432 FT8 2026-01-14 1741 F1NQP         -15 JN19             PH2M          -15 JO22
+QSO:   432 FT8 2026-01-14 1750 F1NQP         -09 JN19             F4AMF         -08 JN19
+QSO:   432 FT8 2026-01-14 1755 F1NQP         -12 JN19             ON6QRP        -15 JO21
+QSO:   432 FT8 2026-01-14 1802 F1NQP         -12 JN19             PA6I          -12 JO32
+QSO:   432 FT8 2026-01-14 1806 F1NQP         -08 JN19             PE1ITR        -15 JO21
+QSO:   432 FT8 2026-01-14 1818 F1NQP         -15 JN19             PC9F          -24 JO32
+QSO:   432 FT8 2026-01-14 1826 F1NQP         -09 JN19             PE1FBC        -10 JO22
+QSO:   432 FT8 2026-01-14 1838 F1NQP         -24 JN19             PE9RX         -04 JO22
+QSO:   432 FT8 2026-01-14 1843 F1NQP         -11 JN19             PA3CWS        -17 JO22
+QSO:   432 FT8 2026-01-14 1852 F1NQP         -11 JN19             G0GJV         +03 IO91
+QSO:   432 FT8 2026-01-14 1855 F1NQP         -14 JN19             F4FET         -14 JO00
+QSO:   432 FT8 2026-01-14 1901 F1NQP         -05 JN19             G0BIX         -07 JO01
+QSO:   432 FT8 2026-01-14 1906 F1NQP         -07 JN19             G0JJG         -18 JO02
+QSO:   432 FT8 2026-01-14 1910 F1NQP         -12 JN19             G8SEI         -22 IO92
+QSO:   432 FT8 2026-01-14 1919 F1NQP         -09 JN19             G4TNX         -02 IO93
+QSO:   432 FT8 2026-01-14 1927 F1NQP         -15 JN19             2E0JPO        -01 IO91
+QSO:   432 FT8 2026-01-14 1944 F1NQP         -20 JN19             G4FLM         -11 IO94
+QSO:   432 FT8 2026-01-14 1946 F1NQP         -08 JN19             G4ZTR         -12 JO01
+QSO:   432 FT8 2026-01-14 1953 F1NQP         -13 JN19             G4BRK         -12 IO91
+QSO:   432 FT8 2026-01-14 1954 F1NQP         -14 JN19             G0XDI         -04 IO91
+QSO:   432 FT8 2026-01-14 1958 F1NQP         -11 JN19             G8VHI         -17 IO92
+QSO:   432 FT8 2026-01-14 2003 F1NQP         -26 JN19             G1HJW         -18 JO01
+QSO:   432 FT8 2026-01-14 2007 F1NQP         -14 JN19             G3YDY         -15 JO01
+QSO:   432 FT8 2026-01-14 2009 F1NQP         -23 JN19             G7FPE         -21 JO01
+QSO:   432 FT8 2026-01-14 2034 F1NQP         -16 JN19             DL5EBS        -10 JO31
+QSO:   432 FT8 2026-01-14 2035 F1NQP         -09 JN19             DF6WE         -10 JO31
+QSO:   432 FT8 2026-01-14 2037 F1NQP         -15 JN19             DK5WO         -04 JO30
+QSO:   432 FT8 2026-01-14 2042 F1NQP         -12 JN19             DF8DO         -09 JO31
+QSO:   432 FT8 2026-01-14 2058 F1NQP         -13 JN19             DL2FQ         -10 JN49
 END-OF-LOG:

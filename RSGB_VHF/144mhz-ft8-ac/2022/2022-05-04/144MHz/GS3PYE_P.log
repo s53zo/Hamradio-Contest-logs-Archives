@@ -10,29 +10,29 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220504&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1793; excluded rows=0.
-QSO:   144 DG 2022-05-04 1908 GS3PYE/P      +00 IO67             GD6ICR        -04 IO74
-QSO:   144 DG 2022-05-04 1910 GS3PYE/P      -12 IO67             GW4FRX        -15 IO82
-QSO:   144 DG 2022-05-04 1911 GS3PYE/P      +03 IO67             MI0XZZ        -06 IO74
-QSO:   144 DG 2022-05-04 1918 GS3PYE/P      -17 IO67             GM4VVX        -12 IO78
-QSO:   144 DG 2022-05-04 1920 GS3PYE/P      -02 IO67             GM4DIJ        -13 IO85
-QSO:   144 DG 2022-05-04 1922 GS3PYE/P      +08 IO67             GD0TEP        +00 IO74
-QSO:   144 DG 2022-05-04 1927 GS3PYE/P      -10 IO67             MM0ABM        -12 IO75
-QSO:   144 DG 2022-05-04 1930 GS3PYE/P      -11 IO67             GI6ATZ        -06 IO74
-QSO:   144 DG 2022-05-04 1932 GS3PYE/P      +08 IO67             GM0EWX        +21 IO67
-QSO:   144 DG 2022-05-04 1934 GS3PYE/P      -07 IO67             GM7PKT        +00 IO76
-QSO:   144 DG 2022-05-04 1936 GS3PYE/P      -05 IO67             GM8MJV        -08 IO85
-QSO:   144 DG 2022-05-04 1939 GS3PYE/P      -11 IO67             MM0CEZ        -12 IO75
-QSO:   144 DG 2022-05-04 1946 GS3PYE/P      -20 IO67             G4BEE         -12 IO83
-QSO:   144 DG 2022-05-04 1947 GS3PYE/P      -14 IO67             G4KUX         -06 IO94
-QSO:   144 DG 2022-05-04 2006 GS3PYE/P      -08 IO67             G3YKI         -14 IO82
-QSO:   144 DG 2022-05-04 2015 GS3PYE/P      -15 IO67             G0LBK         -09 JO03
-QSO:   144 DG 2022-05-04 2022 GS3PYE/P      -07 IO67             MM0CKK        -09 IO75
-QSO:   144 DG 2022-05-04 2024 GS3PYE/P      +15 IO67             GM0HBK        +25 IO77
-QSO:   144 DG 2022-05-04 2045 GS3PYE/P      -14 IO67             GM8HWZ        -12 IO87
-QSO:   144 DG 2022-05-04 2050 GS3PYE/P      -15 IO67             MM7DMW        -12 IO85
-QSO:   144 DG 2022-05-04 2052 GS3PYE/P      -08 IO67             G4NBS         -16 JO02
-QSO:   144 DG 2022-05-04 2054 GS3PYE/P      -11 IO67             G8AOE/P       -24 IO94
-QSO:   144 DG 2022-05-04 2057 GS3PYE/P      -15 IO67             EI2GLB        -19 IO63
+QSO:   144 FT8 2022-05-04 1908 GS3PYE/P      +00 IO67             GD6ICR        -04 IO74
+QSO:   144 FT8 2022-05-04 1910 GS3PYE/P      -12 IO67             GW4FRX        -15 IO82
+QSO:   144 FT8 2022-05-04 1911 GS3PYE/P      +03 IO67             MI0XZZ        -06 IO74
+QSO:   144 FT8 2022-05-04 1918 GS3PYE/P      -17 IO67             GM4VVX        -12 IO78
+QSO:   144 FT8 2022-05-04 1920 GS3PYE/P      -02 IO67             GM4DIJ        -13 IO85
+QSO:   144 FT8 2022-05-04 1922 GS3PYE/P      +08 IO67             GD0TEP        +00 IO74
+QSO:   144 FT8 2022-05-04 1927 GS3PYE/P      -10 IO67             MM0ABM        -12 IO75
+QSO:   144 FT8 2022-05-04 1930 GS3PYE/P      -11 IO67             GI6ATZ        -06 IO74
+QSO:   144 FT8 2022-05-04 1932 GS3PYE/P      +08 IO67             GM0EWX        +21 IO67
+QSO:   144 FT8 2022-05-04 1934 GS3PYE/P      -07 IO67             GM7PKT        +00 IO76
+QSO:   144 FT8 2022-05-04 1936 GS3PYE/P      -05 IO67             GM8MJV        -08 IO85
+QSO:   144 FT8 2022-05-04 1939 GS3PYE/P      -11 IO67             MM0CEZ        -12 IO75
+QSO:   144 FT8 2022-05-04 1946 GS3PYE/P      -20 IO67             G4BEE         -12 IO83
+QSO:   144 FT8 2022-05-04 1947 GS3PYE/P      -14 IO67             G4KUX         -06 IO94
+QSO:   144 FT8 2022-05-04 2006 GS3PYE/P      -08 IO67             G3YKI         -14 IO82
+QSO:   144 FT8 2022-05-04 2015 GS3PYE/P      -15 IO67             G0LBK         -09 JO03
+QSO:   144 FT8 2022-05-04 2022 GS3PYE/P      -07 IO67             MM0CKK        -09 IO75
+QSO:   144 FT8 2022-05-04 2024 GS3PYE/P      +15 IO67             GM0HBK        +25 IO77
+QSO:   144 FT8 2022-05-04 2045 GS3PYE/P      -14 IO67             GM8HWZ        -12 IO87
+QSO:   144 FT8 2022-05-04 2050 GS3PYE/P      -15 IO67             MM7DMW        -12 IO85
+QSO:   144 FT8 2022-05-04 2052 GS3PYE/P      -08 IO67             G4NBS         -16 JO02
+QSO:   144 FT8 2022-05-04 2054 GS3PYE/P      -11 IO67             G8AOE/P       -24 IO94
+QSO:   144 FT8 2022-05-04 2057 GS3PYE/P      -15 IO67             EI2GLB        -19 IO63
 END-OF-LOG:

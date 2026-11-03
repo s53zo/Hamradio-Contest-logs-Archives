@@ -10,20 +10,21 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=FT4+Activity+Day&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=28579; excluded rows=2.
-QSO: 21141 DG 2026-04-12 0816 JK1AXI        -14 -                DK1CO         -05 -
-QSO: 21141 DG 2026-04-12 1120 JK1AXI        -10 -                G6P           -10 -
-QSO: 21141 DG 2026-04-12 1122 JK1AXI        +08 -                M0DHO         +00 -
-QSO: 21141 DG 2026-04-12 1122 JK1AXI        -07 -                ON6NL         -05 -
-QSO: 21141 DG 2026-04-12 1127 JK1AXI        -09 -                G6RST         +00 -
-QSO: 21141 DG 2026-04-12 1130 JK1AXI        -14 -                GM5G          -09 -
-QSO: 21141 DG 2026-04-12 1135 JK1AXI        -07 -                M7W           +20 -
-QSO: 21141 DG 2026-04-12 1138 JK1AXI        -06 -                DA100LH       -02 -
-QSO: 21141 DG 2026-04-12 1144 JK1AXI        -13 -                PA3EOU        +00 -
-QSO: 21141 DG 2026-04-12 1146 JK1AXI        -09 -                F5ASD         -04 -
-QSO: 21141 DG 2026-04-12 1147 JK1AXI        -14 -                HB9TIH        -08 -
-QSO: 21141 DG 2026-04-12 1148 JK1AXI        -10 -                HB9SNR        -08 -
-QSO: 21141 DG 2026-04-12 1149 JK1AXI        -02 -                OE6MDF        -08 -
-QSO: 21141 DG 2026-04-12 1158 JK1AXI        -14 -                YO1BRANCUSI   -17 -
-QSO: 21141 DG 2026-04-12 1158 JK1AXI        -16 -                SP1TJ         -08 -
+QSO: 21141 FT4 2026-04-12 0816 JK1AXI        -14 -                DK1CO         -05 -
+QSO: 21141 FT4 2026-04-12 1120 JK1AXI        -10 -                G6P           -10 -
+QSO: 21141 FT4 2026-04-12 1122 JK1AXI        +08 -                M0DHO         +00 -
+QSO: 21141 FT4 2026-04-12 1122 JK1AXI        -07 -                ON6NL         -05 -
+QSO: 21141 FT4 2026-04-12 1127 JK1AXI        -09 -                G6RST         +00 -
+QSO: 21141 FT4 2026-04-12 1130 JK1AXI        -14 -                GM5G          -09 -
+QSO: 21141 FT4 2026-04-12 1135 JK1AXI        -07 -                M7W           +20 -
+QSO: 21141 FT4 2026-04-12 1138 JK1AXI        -06 -                DA100LH       -02 -
+QSO: 21141 FT4 2026-04-12 1144 JK1AXI        -13 -                PA3EOU        +00 -
+QSO: 21141 FT4 2026-04-12 1146 JK1AXI        -09 -                F5ASD         -04 -
+QSO: 21141 FT4 2026-04-12 1147 JK1AXI        -14 -                HB9TIH        -08 -
+QSO: 21141 FT4 2026-04-12 1148 JK1AXI        -10 -                HB9SNR        -08 -
+QSO: 21141 FT4 2026-04-12 1149 JK1AXI        -02 -                OE6MDF        -08 -
+QSO: 21141 FT4 2026-04-12 1158 JK1AXI        -14 -                YO1BRANCUSI   -17 -
+QSO: 21141 FT4 2026-04-12 1158 JK1AXI        -16 -                SP1TJ         -08 -
 END-OF-LOG:

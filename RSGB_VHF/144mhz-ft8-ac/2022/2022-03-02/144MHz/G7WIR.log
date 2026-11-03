@@ -10,34 +10,34 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1303; excluded rows=0.
-QSO:   144 DG 2022-03-02 1901 G7WIR         -11 JO01             G4HGV         +11 IO91
-QSO:   144 DG 2022-03-02 1903 G7WIR         -05 JO01             M0VBA         +06 JO01
-QSO:   144 DG 2022-03-02 1909 G7WIR         -08 JO01             G3WAG/P       -06 IO82
-QSO:   144 DG 2022-03-02 1911 G7WIR         +03 JO01             M0FXX         -09 IO91
-QSO:   144 DG 2022-03-02 1912 G7WIR         -03 JO01             M0SKT         -01 IO92
-QSO:   144 DG 2022-03-02 1915 G7WIR         -03 JO01             G0JJG         -01 JO02
-QSO:   144 DG 2022-03-02 1918 G7WIR         +00 JO01             G0GJV         -06 IO91
-QSO:   144 DG 2022-03-02 1920 G7WIR         +18 JO01             G0XDI         +07 IO91
-QSO:   144 DG 2022-03-02 1921 G7WIR         -01 JO01             G4EFE         +07 IO91
-QSO:   144 DG 2022-03-02 1925 G7WIR         -16 JO01             G0RMG         -24 IO92
-QSO:   144 DG 2022-03-02 1929 G7WIR         +28 JO01             M0XTY         +26 JO01
-QSO:   144 DG 2022-03-02 1933 G7WIR         +03 JO01             G8IXK         +09 IO91
-QSO:   144 DG 2022-03-02 1935 G7WIR         +17 JO01             M7APV         +14 JO01
-QSO:   144 DG 2022-03-02 1937 G7WIR         +15 JO01             M0JPU         -14 IO91
-QSO:   144 DG 2022-03-02 1943 G7WIR         +02 JO01             M0SEU         +10 JO01
-QSO:   144 DG 2022-03-02 1954 G7WIR         -17 JO01             G8CRB         -17 JO02
-QSO:   144 DG 2022-03-02 1957 G7WIR         -21 JO01             GI6ATZ        -09 IO74
-QSO:   144 DG 2022-03-02 1959 G7WIR         +06 JO01             2E0DBS        -01 JO02
-QSO:   144 DG 2022-03-02 2005 G7WIR         -14 JO01             G4OED         -16 IO91
-QSO:   144 DG 2022-03-02 2007 G7WIR         -18 JO01             G0GFC         -09 IO92
-QSO:   144 DG 2022-03-02 2009 G7WIR         -17 JO01             G4CTP         +01 IO91
-QSO:   144 DG 2022-03-02 2012 G7WIR         -12 JO01             M7ICL         -06 JO02
-QSO:   144 DG 2022-03-02 2017 G7WIR         +17 JO01             G3WZK         +15 IO91
-QSO:   144 DG 2022-03-02 2034 G7WIR         -19 JO01             G4TUH         -18 IO92
-QSO:   144 DG 2022-03-02 2039 G7WIR         -11 JO01             M0SEU         +09 JO01
-QSO:   144 DG 2022-03-02 2045 G7WIR         -20 JO01             G1RAG         -21 IO92
-QSO:   144 DG 2022-03-02 2049 G7WIR         -14 JO01             G4PDF         -17 IO93
-QSO:   144 DG 2022-03-02 2058 G7WIR         -12 JO01             G4VPD         -15 IO92
+QSO:   144 FT8 2022-03-02 1901 G7WIR         -11 JO01             G4HGV         +11 IO91
+QSO:   144 FT8 2022-03-02 1903 G7WIR         -05 JO01             M0VBA         +06 JO01
+QSO:   144 FT8 2022-03-02 1909 G7WIR         -08 JO01             G3WAG/P       -06 IO82
+QSO:   144 FT8 2022-03-02 1911 G7WIR         +03 JO01             M0FXX         -09 IO91
+QSO:   144 FT8 2022-03-02 1912 G7WIR         -03 JO01             M0SKT         -01 IO92
+QSO:   144 FT8 2022-03-02 1915 G7WIR         -03 JO01             G0JJG         -01 JO02
+QSO:   144 FT8 2022-03-02 1918 G7WIR         +00 JO01             G0GJV         -06 IO91
+QSO:   144 FT8 2022-03-02 1920 G7WIR         +18 JO01             G0XDI         +07 IO91
+QSO:   144 FT8 2022-03-02 1921 G7WIR         -01 JO01             G4EFE         +07 IO91
+QSO:   144 FT8 2022-03-02 1925 G7WIR         -16 JO01             G0RMG         -24 IO92
+QSO:   144 FT8 2022-03-02 1929 G7WIR         +28 JO01             M0XTY         +26 JO01
+QSO:   144 FT8 2022-03-02 1933 G7WIR         +03 JO01             G8IXK         +09 IO91
+QSO:   144 FT8 2022-03-02 1935 G7WIR         +17 JO01             M7APV         +14 JO01
+QSO:   144 FT8 2022-03-02 1937 G7WIR         +15 JO01             M0JPU         -14 IO91
+QSO:   144 FT8 2022-03-02 1943 G7WIR         +02 JO01             M0SEU         +10 JO01
+QSO:   144 FT8 2022-03-02 1954 G7WIR         -17 JO01             G8CRB         -17 JO02
+QSO:   144 FT8 2022-03-02 1957 G7WIR         -21 JO01             GI6ATZ        -09 IO74
+QSO:   144 FT8 2022-03-02 1959 G7WIR         +06 JO01             2E0DBS        -01 JO02
+QSO:   144 FT8 2022-03-02 2005 G7WIR         -14 JO01             G4OED         -16 IO91
+QSO:   144 FT8 2022-03-02 2007 G7WIR         -18 JO01             G0GFC         -09 IO92
+QSO:   144 FT8 2022-03-02 2009 G7WIR         -17 JO01             G4CTP         +01 IO91
+QSO:   144 FT8 2022-03-02 2012 G7WIR         -12 JO01             M7ICL         -06 JO02
+QSO:   144 FT8 2022-03-02 2017 G7WIR         +17 JO01             G3WZK         +15 IO91
+QSO:   144 FT8 2022-03-02 2034 G7WIR         -19 JO01             G4TUH         -18 IO92
+QSO:   144 FT8 2022-03-02 2039 G7WIR         -11 JO01             M0SEU         +09 JO01
+QSO:   144 FT8 2022-03-02 2045 G7WIR         -20 JO01             G1RAG         -21 IO92
+QSO:   144 FT8 2022-03-02 2049 G7WIR         -14 JO01             G4PDF         -17 IO93
+QSO:   144 FT8 2022-03-02 2058 G7WIR         -12 JO01             G4VPD         -15 IO92
 END-OF-LOG:

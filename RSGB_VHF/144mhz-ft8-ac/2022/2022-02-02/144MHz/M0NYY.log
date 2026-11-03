@@ -10,18 +10,18 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220202&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=1994; excluded rows=0.
-QSO:   144 DG 2022-02-02 1921 M0NYY         +11 IO91             G4HGV         +14 IO91
-QSO:   144 DG 2022-02-02 1926 M0NYY         -10 IO91             M0WEO         -05 IO90
-QSO:   144 DG 2022-02-02 1934 M0NYY         +19 IO91             G4OED         +19 IO91
-QSO:   144 DG 2022-02-02 1947 M0NYY         -17 IO91             G0RMG         -08 IO92
-QSO:   144 DG 2022-02-02 1950 M0NYY         -24 IO91             G4UJS         -18 IO92
-QSO:   144 DG 2022-02-02 1958 M0NYY         -03 IO91             2E0IEI        -06 IO81
-QSO:   144 DG 2022-02-02 2004 M0NYY         -11 IO91             G0GRI         -13 IO80
-QSO:   144 DG 2022-02-02 2007 M0NYY         +04 IO91             M1AEC         -15 IO82
-QSO:   144 DG 2022-02-02 2012 M0NYY         -19 IO91             M7EMH         -21 IO81
-QSO:   144 DG 2022-02-02 2014 M0NYY         +10 IO91             G4RRA         -03 IO80
-QSO:   144 DG 2022-02-02 2018 M0NYY         -22 IO91             M0BKV         -11 IO91
-QSO:   144 DG 2022-02-02 2022 M0NYY         -14 IO91             M7APR         -21 IO91
+QSO:   144 FT8 2022-02-02 1921 M0NYY         +11 IO91             G4HGV         +14 IO91
+QSO:   144 FT8 2022-02-02 1926 M0NYY         -10 IO91             M0WEO         -05 IO90
+QSO:   144 FT8 2022-02-02 1934 M0NYY         +19 IO91             G4OED         +19 IO91
+QSO:   144 FT8 2022-02-02 1947 M0NYY         -17 IO91             G0RMG         -08 IO92
+QSO:   144 FT8 2022-02-02 1950 M0NYY         -24 IO91             G4UJS         -18 IO92
+QSO:   144 FT8 2022-02-02 1958 M0NYY         -03 IO91             2E0IEI        -06 IO81
+QSO:   144 FT8 2022-02-02 2004 M0NYY         -11 IO91             G0GRI         -13 IO80
+QSO:   144 FT8 2022-02-02 2007 M0NYY         +04 IO91             M1AEC         -15 IO82
+QSO:   144 FT8 2022-02-02 2012 M0NYY         -19 IO91             M7EMH         -21 IO81
+QSO:   144 FT8 2022-02-02 2014 M0NYY         +10 IO91             G4RRA         -03 IO80
+QSO:   144 FT8 2022-02-02 2018 M0NYY         -22 IO91             M0BKV         -11 IO91
+QSO:   144 FT8 2022-02-02 2022 M0NYY         -14 IO91             M7APR         -21 IO91
 END-OF-LOG:

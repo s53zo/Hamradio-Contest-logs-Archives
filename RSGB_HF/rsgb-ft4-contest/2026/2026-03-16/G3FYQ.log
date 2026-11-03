@@ -10,34 +10,35 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260316&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=5321; excluded rows=0.
-QSO:  3577 DG 2026-03-16 2002 G3FYQ         +01 -                DO1ARD        -15 -
-QSO:  3577 DG 2026-03-16 2003 G3FYQ         +06 -                G4ARI         -05 -
-QSO:  3577 DG 2026-03-16 2005 G3FYQ         +12 -                DO1NJN        -03 -
-QSO:  3576 DG 2026-03-16 2006 G3FYQ         -01 -                G0AJH         -05 -
-QSO:  7048 DG 2026-03-16 2013 G3FYQ         +14 -                DL7ZO         -06 -
-QSO:  7048 DG 2026-03-16 2014 G3FYQ         -03 -                DG7FBB        -06 -
-QSO:  7048 DG 2026-03-16 2016 G3FYQ         -03 -                DG7FBB        -06 -
-QSO:  7049 DG 2026-03-16 2019 G3FYQ         +05 -                OK2USM        +03 -
-QSO:  7048 DG 2026-03-16 2021 G3FYQ         +10 -                I2XLF         -12 -
-QSO:  7048 DG 2026-03-16 2023 G3FYQ         +17 -                SQ6PLE        -11 -
-QSO:  7049 DG 2026-03-16 2025 G3FYQ         +16 -                DF3GY         +03 -
-QSO:  3576 DG 2026-03-16 2036 G3FYQ         +13 -                G7NJX         -08 -
-QSO:  3576 DG 2026-03-16 2038 G3FYQ         +08 -                G4OZG         +05 -
-QSO:  3576 DG 2026-03-16 2043 G3FYQ         +21 -                G7NJX         +02 -
-QSO:  3576 DG 2026-03-16 2045 G3FYQ         +14 -                G0HSP         -03 -
-QSO:  3577 DG 2026-03-16 2047 G3FYQ         +17 -                MW0CVT        -09 -
-QSO:  3577 DG 2026-03-16 2051 G3FYQ         +02 -                HB9AWS        -03 -
-QSO:  7048 DG 2026-03-16 2059 G3FYQ         +16 -                HA9MDP        -03 -
-QSO:  7047 DG 2026-03-16 2100 G3FYQ         +07 -                EA5ET         -11 -
-QSO: 14081 DG 2026-03-16 2107 G3FYQ         -04 -                K1RO          -10 -
-QSO: 14081 DG 2026-03-16 2108 G3FYQ         -04 -                K1RO          -10 -
-QSO: 14081 DG 2026-03-16 2109 G3FYQ         -04 -                K1RO          -10 -
-QSO: 14080 DG 2026-03-16 2110 G3FYQ         +14 -                P4/WE9V       +01 -
-QSO: 14080 DG 2026-03-16 2110 G3FYQ         -06 -                PY5EJ         -12 -
-QSO: 14082 DG 2026-03-16 2112 G3FYQ         +16 -                G6P           -01 -
-QSO:  3576 DG 2026-03-16 2123 G3FYQ         -01 -                GM4M          -01 -
-QSO:  3576 DG 2026-03-16 2137 G3FYQ         +10 -                DF8QB         -05 -
-QSO:  3577 DG 2026-03-16 2148 G3FYQ         +01 -                M0KKM         -12 -
-QSO:  3577 DG 2026-03-16 2149 G3FYQ         +00 -                G6DXY         -03 -
+QSO:  3577 FT4 2026-03-16 2002 G3FYQ         +01 -                DO1ARD        -15 -
+QSO:  3577 FT4 2026-03-16 2003 G3FYQ         +06 -                G4ARI         -05 -
+QSO:  3577 FT4 2026-03-16 2005 G3FYQ         +12 -                DO1NJN        -03 -
+QSO:  3576 FT4 2026-03-16 2006 G3FYQ         -01 -                G0AJH         -05 -
+QSO:  7048 FT4 2026-03-16 2013 G3FYQ         +14 -                DL7ZO         -06 -
+QSO:  7048 FT4 2026-03-16 2014 G3FYQ         -03 -                DG7FBB        -06 -
+QSO:  7048 FT4 2026-03-16 2016 G3FYQ         -03 -                DG7FBB        -06 -
+QSO:  7049 FT4 2026-03-16 2019 G3FYQ         +05 -                OK2USM        +03 -
+QSO:  7048 FT4 2026-03-16 2021 G3FYQ         +10 -                I2XLF         -12 -
+QSO:  7048 FT4 2026-03-16 2023 G3FYQ         +17 -                SQ6PLE        -11 -
+QSO:  7049 FT4 2026-03-16 2025 G3FYQ         +16 -                DF3GY         +03 -
+QSO:  3576 FT4 2026-03-16 2036 G3FYQ         +13 -                G7NJX         -08 -
+QSO:  3576 FT4 2026-03-16 2038 G3FYQ         +08 -                G4OZG         +05 -
+QSO:  3576 FT4 2026-03-16 2043 G3FYQ         +21 -                G7NJX         +02 -
+QSO:  3576 FT4 2026-03-16 2045 G3FYQ         +14 -                G0HSP         -03 -
+QSO:  3577 FT4 2026-03-16 2047 G3FYQ         +17 -                MW0CVT        -09 -
+QSO:  3577 FT4 2026-03-16 2051 G3FYQ         +02 -                HB9AWS        -03 -
+QSO:  7048 FT4 2026-03-16 2059 G3FYQ         +16 -                HA9MDP        -03 -
+QSO:  7047 FT4 2026-03-16 2100 G3FYQ         +07 -                EA5ET         -11 -
+QSO: 14081 FT4 2026-03-16 2107 G3FYQ         -04 -                K1RO          -10 -
+QSO: 14081 FT4 2026-03-16 2108 G3FYQ         -04 -                K1RO          -10 -
+QSO: 14081 FT4 2026-03-16 2109 G3FYQ         -04 -                K1RO          -10 -
+QSO: 14080 FT4 2026-03-16 2110 G3FYQ         +14 -                P4/WE9V       +01 -
+QSO: 14080 FT4 2026-03-16 2110 G3FYQ         -06 -                PY5EJ         -12 -
+QSO: 14082 FT4 2026-03-16 2112 G3FYQ         +16 -                G6P           -01 -
+QSO:  3576 FT4 2026-03-16 2123 G3FYQ         -01 -                GM4M          -01 -
+QSO:  3576 FT4 2026-03-16 2137 G3FYQ         +10 -                DF8QB         -05 -
+QSO:  3577 FT4 2026-03-16 2148 G3FYQ         +01 -                M0KKM         -12 -
+QSO:  3577 FT4 2026-03-16 2149 G3FYQ         +00 -                G6DXY         -03 -
 END-OF-LOG:

@@ -10,27 +10,27 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=260304&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=750; excluded rows=1.
-QSO:   144 DG 2026-03-04 1814 G1MPC         -14 IO91             G0BIX         -15 JO01
-QSO:   144 DG 2026-03-04 1817 G1MPC         -24 IO91             G0GJV         +11 IO91
-QSO:   144 DG 2026-03-04 1824 G1MPC         +21 IO91             G0XDI         +12 IO91
-QSO:   144 DG 2026-03-04 1832 G1MPC         -10 IO91             G1HJW         -17 JO01
-QSO:   144 DG 2026-03-04 1832 G1MPC         +11 IO91             2E0MRK        +13 IO91
-QSO:   144 DG 2026-03-04 1835 G1MPC         -09 IO91             G1HJW         -17 JO01
-QSO:   144 DG 2026-03-04 1841 G1MPC         +22 IO91             G0XDI         +22 IO91
-QSO:   144 DG 2026-03-04 1842 G1MPC         -09 IO91             G7WIR         +18 JO01
-QSO:   144 DG 2026-03-04 1844 G1MPC         +00 IO91             M8LBY         -04 IO91
-QSO:   144 DG 2026-03-04 1847 G1MPC         -24 IO91             G8WMZ         -05 JO01
-QSO:   144 DG 2026-03-04 1902 G1MPC         -01 IO91             G7FPE         -11 JO01
-QSO:   144 DG 2026-03-04 1927 G1MPC         -03 IO91             G4PDF         -08 IO93
-QSO:   144 DG 2026-03-04 1936 G1MPC         -20 IO91             M0SKT         -15 IO92
-QSO:   144 DG 2026-03-04 1938 G1MPC         +02 IO91             G4ZTR         -12 JO01
-QSO:   144 DG 2026-03-04 1944 G1MPC         -24 IO91             G0JJG         -18 JO02
-QSO:   144 DG 2026-03-04 1948 G1MPC         -24 IO91             G3YDY         -21 JO01
-QSO:   144 DG 2026-03-04 2009 G1MPC         -20 IO91             G3WZK         -13 IO91
-QSO:   144 DG 2026-03-04 2014 G1MPC         +18 IO91             M7FUP         +16 IO91
-QSO:   144 DG 2026-03-04 2021 G1MPC         -17 IO91             G7LRQ         -22 JO03
-QSO:   144 DG 2026-03-04 2023 G1MPC         +11 IO91             M7APV         -03 JO01
-QSO:   144 DG 2026-03-04 2028 G1MPC         +03 IO91             G3CAT         -02 IO91
+QSO:   144 FT8 2026-03-04 1814 G1MPC         -14 IO91             G0BIX         -15 JO01
+QSO:   144 FT8 2026-03-04 1817 G1MPC         -24 IO91             G0GJV         +11 IO91
+QSO:   144 FT8 2026-03-04 1824 G1MPC         +21 IO91             G0XDI         +12 IO91
+QSO:   144 FT8 2026-03-04 1832 G1MPC         -10 IO91             G1HJW         -17 JO01
+QSO:   144 FT8 2026-03-04 1832 G1MPC         +11 IO91             2E0MRK        +13 IO91
+QSO:   144 FT8 2026-03-04 1835 G1MPC         -09 IO91             G1HJW         -17 JO01
+QSO:   144 FT8 2026-03-04 1841 G1MPC         +22 IO91             G0XDI         +22 IO91
+QSO:   144 FT8 2026-03-04 1842 G1MPC         -09 IO91             G7WIR         +18 JO01
+QSO:   144 FT8 2026-03-04 1844 G1MPC         +00 IO91             M8LBY         -04 IO91
+QSO:   144 FT8 2026-03-04 1847 G1MPC         -24 IO91             G8WMZ         -05 JO01
+QSO:   144 FT8 2026-03-04 1902 G1MPC         -01 IO91             G7FPE         -11 JO01
+QSO:   144 FT8 2026-03-04 1927 G1MPC         -03 IO91             G4PDF         -08 IO93
+QSO:   144 FT8 2026-03-04 1936 G1MPC         -20 IO91             M0SKT         -15 IO92
+QSO:   144 FT8 2026-03-04 1938 G1MPC         +02 IO91             G4ZTR         -12 JO01
+QSO:   144 FT8 2026-03-04 1944 G1MPC         -24 IO91             G0JJG         -18 JO02
+QSO:   144 FT8 2026-03-04 1948 G1MPC         -24 IO91             G3YDY         -21 JO01
+QSO:   144 FT8 2026-03-04 2009 G1MPC         -20 IO91             G3WZK         -13 IO91
+QSO:   144 FT8 2026-03-04 2014 G1MPC         +18 IO91             M7FUP         +16 IO91
+QSO:   144 FT8 2026-03-04 2021 G1MPC         -17 IO91             G7LRQ         -22 JO03
+QSO:   144 FT8 2026-03-04 2023 G1MPC         +11 IO91             M7APV         -03 JO01
+QSO:   144 FT8 2026-03-04 2028 G1MPC         +03 IO91             G3CAT         -02 IO91
 END-OF-LOG:

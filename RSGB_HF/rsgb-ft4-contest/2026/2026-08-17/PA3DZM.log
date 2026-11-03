@@ -10,35 +10,36 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO:  7049 DG 2026-08-17 1901 PA3DZM        -20 -                SV1DKR        -15 -
-QSO:  7049 DG 2026-08-17 1901 PA3DZM        -03 -                DK7UY         -04 -
-QSO:  7049 DG 2026-08-17 1902 PA3DZM        -11 -                IN3OWY        -03 -
-QSO:  7049 DG 2026-08-17 1903 PA3DZM        -10 -                G8NJL         -09 -
-QSO:  7049 DG 2026-08-17 1904 PA3DZM        -15 -                DL5LS         +02 -
-QSO:  7049 DG 2026-08-17 1904 PA3DZM        +09 -                PD2PKM        +01 -
-QSO:  7049 DG 2026-08-17 1906 PA3DZM        +06 -                PH3T          +03 -
-QSO:  7049 DG 2026-08-17 1907 PA3DZM        -14 -                G0HSP         -01 -
-QSO:  7049 DG 2026-08-17 1910 PA3DZM        +09 -                DL6EL         +08 -
-QSO:  7049 DG 2026-08-17 1911 PA3DZM        -03 -                PA0MUS        -16 -
-QSO: 21141 DG 2026-08-17 1914 PA3DZM        -02 -                CS8ABF        -12 -
-QSO: 14081 DG 2026-08-17 1917 PA3DZM        -08 -                YO3RU         +00 -
-QSO:  3577 DG 2026-08-17 1922 PA3DZM        -02 -                DO1ARD        -11 -
-QSO:  7048 DG 2026-08-17 1942 PA3DZM        +00 -                F5PEG         -04 -
-QSO:  7048 DG 2026-08-17 1943 PA3DZM        -03 -                PD0LBY        -06 -
-QSO:  7048 DG 2026-08-17 1946 PA3DZM        +05 -                PH3BDJ        -12 -
-QSO:  7048 DG 2026-08-17 1949 PA3DZM        +06 -                G7WIR         -04 -
-QSO:  7048 DG 2026-08-17 1952 PA3DZM        -04 -                PD2NBE        -04 -
-QSO:  3577 DG 2026-08-17 2004 PA3DZM        +03 -                G6GN          -08 -
-QSO:  3577 DG 2026-08-17 2005 PA3DZM        -03 -                OH3NAQ        -11 -
-QSO:  3577 DG 2026-08-17 2006 PA3DZM        -05 -                DF4ZL         +02 -
-QSO:  7048 DG 2026-08-17 2010 PA3DZM        +01 -                ON5ZZ         -05 -
-QSO: 14081 DG 2026-08-17 2016 PA3DZM        +03 -                AO90A         +00 -
-QSO:  7048 DG 2026-08-17 2035 PA3DZM        +06 -                DL1ABI        -07 -
-QSO:  7048 DG 2026-08-17 2036 PA3DZM        -06 -                M1DDD         -06 -
-QSO:  7048 DG 2026-08-17 2042 PA3DZM        -18 -                M9IAN         -12 -
-QSO:  7048 DG 2026-08-17 2043 PA3DZM        +08 -                F4LYX         -12 -
-QSO:  7048 DG 2026-08-17 2046 PA3DZM        -06 -                DH4BM         -20 -
-QSO: 14081 DG 2026-08-17 2055 PA3DZM        +01 -                EA2A          -14 -
-QSO:  3577 DG 2026-08-17 2056 PA3DZM        -08 -                F8FUA         -20 -
+QSO:  7049 FT4 2026-08-17 1901 PA3DZM        -20 -                SV1DKR        -15 -
+QSO:  7049 FT4 2026-08-17 1901 PA3DZM        -03 -                DK7UY         -04 -
+QSO:  7049 FT4 2026-08-17 1902 PA3DZM        -11 -                IN3OWY        -03 -
+QSO:  7049 FT4 2026-08-17 1903 PA3DZM        -10 -                G8NJL         -09 -
+QSO:  7049 FT4 2026-08-17 1904 PA3DZM        -15 -                DL5LS         +02 -
+QSO:  7049 FT4 2026-08-17 1904 PA3DZM        +09 -                PD2PKM        +01 -
+QSO:  7049 FT4 2026-08-17 1906 PA3DZM        +06 -                PH3T          +03 -
+QSO:  7049 FT4 2026-08-17 1907 PA3DZM        -14 -                G0HSP         -01 -
+QSO:  7049 FT4 2026-08-17 1910 PA3DZM        +09 -                DL6EL         +08 -
+QSO:  7049 FT4 2026-08-17 1911 PA3DZM        -03 -                PA0MUS        -16 -
+QSO: 21141 FT4 2026-08-17 1914 PA3DZM        -02 -                CS8ABF        -12 -
+QSO: 14081 FT4 2026-08-17 1917 PA3DZM        -08 -                YO3RU         +00 -
+QSO:  3577 FT4 2026-08-17 1922 PA3DZM        -02 -                DO1ARD        -11 -
+QSO:  7048 FT4 2026-08-17 1942 PA3DZM        +00 -                F5PEG         -04 -
+QSO:  7048 FT4 2026-08-17 1943 PA3DZM        -03 -                PD0LBY        -06 -
+QSO:  7048 FT4 2026-08-17 1946 PA3DZM        +05 -                PH3BDJ        -12 -
+QSO:  7048 FT4 2026-08-17 1949 PA3DZM        +06 -                G7WIR         -04 -
+QSO:  7048 FT4 2026-08-17 1952 PA3DZM        -04 -                PD2NBE        -04 -
+QSO:  3577 FT4 2026-08-17 2004 PA3DZM        +03 -                G6GN          -08 -
+QSO:  3577 FT4 2026-08-17 2005 PA3DZM        -03 -                OH3NAQ        -11 -
+QSO:  3577 FT4 2026-08-17 2006 PA3DZM        -05 -                DF4ZL         +02 -
+QSO:  7048 FT4 2026-08-17 2010 PA3DZM        +01 -                ON5ZZ         -05 -
+QSO: 14081 FT4 2026-08-17 2016 PA3DZM        +03 -                AO90A         +00 -
+QSO:  7048 FT4 2026-08-17 2035 PA3DZM        +06 -                DL1ABI        -07 -
+QSO:  7048 FT4 2026-08-17 2036 PA3DZM        -06 -                M1DDD         -06 -
+QSO:  7048 FT4 2026-08-17 2042 PA3DZM        -18 -                M9IAN         -12 -
+QSO:  7048 FT4 2026-08-17 2043 PA3DZM        +08 -                F4LYX         -12 -
+QSO:  7048 FT4 2026-08-17 2046 PA3DZM        -06 -                DH4BM         -20 -
+QSO: 14081 FT4 2026-08-17 2055 PA3DZM        +01 -                EA2A          -14 -
+QSO:  3577 FT4 2026-08-17 2056 PA3DZM        -08 -                F8FUA         -20 -
 END-OF-LOG:

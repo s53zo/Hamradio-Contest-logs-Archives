@@ -9,25 +9,26 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260817&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7633; excluded rows=0.
-QSO: 14081 DG 2026-08-17 1909 ON7PM         +11 -                9A5ADR        -13 -
-QSO: 14081 DG 2026-08-17 1911 ON7PM         +02 -                9A9N          +03 -
-QSO: 14081 DG 2026-08-17 1914 ON7PM         -05 -                YO3RU         -09 -
-QSO:  7049 DG 2026-08-17 1924 ON7PM         +10 -                PA0MUS        -03 -
-QSO:  7049 DG 2026-08-17 1943 ON7PM         +06 -                SE6K          +07 -
-QSO:  7048 DG 2026-08-17 1948 ON7PM         +02 -                M5N           +01 -
-QSO:  7048 DG 2026-08-17 1953 ON7PM         +21 -                DL4ME         +04 -
-QSO:  7050 DG 2026-08-17 2001 ON7PM         -03 -                G0HSP         -08 -
-QSO:  7050 DG 2026-08-17 2002 ON7PM         +09 -                G7ILZ         -01 -
-QSO:  7050 DG 2026-08-17 2004 ON7PM         +01 -                G8YPE         -03 -
-QSO:  7049 DG 2026-08-17 2011 ON7PM         +03 -                MM0C          +01 -
-QSO:  7049 DG 2026-08-17 2026 ON7PM         +09 -                HB9AWS        -12 -
-QSO:  3577 DG 2026-08-17 2034 ON7PM         +16 -                DO1NJN        +06 -
-QSO:  3577 DG 2026-08-17 2036 ON7PM         +00 -                DA6CGN        +04 -
-QSO:  3577 DG 2026-08-17 2041 ON7PM         +13 -                G4CTP         -03 -
-QSO:  3577 DG 2026-08-17 2041 ON7PM         +10 -                GW4JBQ        -01 -
-QSO:  3577 DG 2026-08-17 2042 ON7PM         +09 -                PA2A          -04 -
-QSO:  7049 DG 2026-08-17 2050 ON7PM         +03 -                OE5TXF        -12 -
-QSO:  7049 DG 2026-08-17 2054 ON7PM         -01 -                G6DXY         +01 -
-QSO:  7049 DG 2026-08-17 2055 ON7PM         -01 -                G7COU         -10 -
+QSO: 14081 FT4 2026-08-17 1909 ON7PM         +11 -                9A5ADR        -13 -
+QSO: 14081 FT4 2026-08-17 1911 ON7PM         +02 -                9A9N          +03 -
+QSO: 14081 FT4 2026-08-17 1914 ON7PM         -05 -                YO3RU         -09 -
+QSO:  7049 FT4 2026-08-17 1924 ON7PM         +10 -                PA0MUS        -03 -
+QSO:  7049 FT4 2026-08-17 1943 ON7PM         +06 -                SE6K          +07 -
+QSO:  7048 FT4 2026-08-17 1948 ON7PM         +02 -                M5N           +01 -
+QSO:  7048 FT4 2026-08-17 1953 ON7PM         +21 -                DL4ME         +04 -
+QSO:  7050 FT4 2026-08-17 2001 ON7PM         -03 -                G0HSP         -08 -
+QSO:  7050 FT4 2026-08-17 2002 ON7PM         +09 -                G7ILZ         -01 -
+QSO:  7050 FT4 2026-08-17 2004 ON7PM         +01 -                G8YPE         -03 -
+QSO:  7049 FT4 2026-08-17 2011 ON7PM         +03 -                MM0C          +01 -
+QSO:  7049 FT4 2026-08-17 2026 ON7PM         +09 -                HB9AWS        -12 -
+QSO:  3577 FT4 2026-08-17 2034 ON7PM         +16 -                DO1NJN        +06 -
+QSO:  3577 FT4 2026-08-17 2036 ON7PM         +00 -                DA6CGN        +04 -
+QSO:  3577 FT4 2026-08-17 2041 ON7PM         +13 -                G4CTP         -03 -
+QSO:  3577 FT4 2026-08-17 2041 ON7PM         +10 -                GW4JBQ        -01 -
+QSO:  3577 FT4 2026-08-17 2042 ON7PM         +09 -                PA2A          -04 -
+QSO:  7049 FT4 2026-08-17 2050 ON7PM         +03 -                OE5TXF        -12 -
+QSO:  7049 FT4 2026-08-17 2054 ON7PM         -01 -                G6DXY         +01 -
+QSO:  7049 FT4 2026-08-17 2055 ON7PM         -01 -                G7COU         -10 -
 END-OF-LOG:

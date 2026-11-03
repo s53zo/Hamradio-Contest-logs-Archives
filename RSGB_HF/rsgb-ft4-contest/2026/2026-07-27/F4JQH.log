@@ -9,36 +9,37 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Band=3500&Contest=FT4+Contest&Date=260727&year=2026
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT4 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=7916; excluded rows=0.
-QSO: 14080 DG 2026-07-27 1901 F4JQH         +10 -                GW0ARK        -02 -
-QSO: 14081 DG 2026-07-27 1902 F4JQH         -19 -                PB0F          -13 -
-QSO: 14081 DG 2026-07-27 1903 F4JQH         +05 -                G5USH         -09 -
-QSO: 14081 DG 2026-07-27 1904 F4JQH         -08 -                G3EFG         -14 -
-QSO: 14081 DG 2026-07-27 1909 F4JQH         +02 -                PA4GDR        -14 -
-QSO:  7049 DG 2026-07-27 1913 F4JQH         +12 -                IN3OWY        -05 -
-QSO:  7049 DG 2026-07-27 1914 F4JQH         +03 -                M8EVM         +06 -
-QSO:  7049 DG 2026-07-27 1916 F4JQH         +15 -                DK2OY         -07 -
-QSO:  7049 DG 2026-07-27 1919 F4JQH         +04 -                DL5LS         -12 -
-QSO: 21141 DG 2026-07-27 1922 F4JQH         +03 -                GU7DAI        -13 -
-QSO: 21141 DG 2026-07-27 1925 F4JQH         -07 -                G7ILZ         -07 -
-QSO: 21142 DG 2026-07-27 1927 F4JQH         +06 -                M5BBB         -04 -
-QSO: 21140 DG 2026-07-27 1929 F4JQH         +12 -                PH3T          -04 -
-QSO: 21141 DG 2026-07-27 1930 F4JQH         -16 -                G4CTP         -08 -
-QSO: 14082 DG 2026-07-27 1936 F4JQH         +05 -                PC9K          -21 -
-QSO: 14080 DG 2026-07-27 1937 F4JQH         -03 -                M0OPK         -03 -
-QSO: 14081 DG 2026-07-27 1940 F4JQH         -01 -                M0HWO         +04 -
-QSO: 14081 DG 2026-07-27 1954 F4JQH         -01 -                DJ9MH         -06 -
-QSO: 21142 DG 2026-07-27 1957 F4JQH         +02 -                DO6BLK        -03 -
-QSO: 21142 DG 2026-07-27 2001 F4JQH         -11 -                DO1NJN        +04 -
-QSO: 21141 DG 2026-07-27 2001 F4JQH         +03 -                SQ5N          +15 -
-QSO: 21141 DG 2026-07-27 2002 F4JQH         -04 -                DO4FOX        +07 -
-QSO:  7049 DG 2026-07-27 2010 F4JQH         -04 -                HB9AWS        +00 -
-QSO:  7048 DG 2026-07-27 2013 F4JQH         +04 -                PB0F          -10 -
-QSO:  7049 DG 2026-07-27 2014 F4JQH         +13 -                G4DBW         -08 -
-QSO:  7048 DG 2026-07-27 2014 F4JQH         +03 -                G7NJX         -14 -
-QSO: 21140 DG 2026-07-27 2026 F4JQH         +07 -                PA3DZM        +09 -
-QSO: 21142 DG 2026-07-27 2027 F4JQH         +01 -                NA5M          -17 -
-QSO: 21141 DG 2026-07-27 2029 F4JQH         +11 -                MW7RHR        +12 -
-QSO: 14081 DG 2026-07-27 2037 F4JQH         +06 -                ON7VZ         +06 -
-QSO: 21141 DG 2026-07-27 2040 F4JQH         +05 -                G8NFZ         -13 -
+QSO: 14080 FT4 2026-07-27 1901 F4JQH         +10 -                GW0ARK        -02 -
+QSO: 14081 FT4 2026-07-27 1902 F4JQH         -19 -                PB0F          -13 -
+QSO: 14081 FT4 2026-07-27 1903 F4JQH         +05 -                G5USH         -09 -
+QSO: 14081 FT4 2026-07-27 1904 F4JQH         -08 -                G3EFG         -14 -
+QSO: 14081 FT4 2026-07-27 1909 F4JQH         +02 -                PA4GDR        -14 -
+QSO:  7049 FT4 2026-07-27 1913 F4JQH         +12 -                IN3OWY        -05 -
+QSO:  7049 FT4 2026-07-27 1914 F4JQH         +03 -                M8EVM         +06 -
+QSO:  7049 FT4 2026-07-27 1916 F4JQH         +15 -                DK2OY         -07 -
+QSO:  7049 FT4 2026-07-27 1919 F4JQH         +04 -                DL5LS         -12 -
+QSO: 21141 FT4 2026-07-27 1922 F4JQH         +03 -                GU7DAI        -13 -
+QSO: 21141 FT4 2026-07-27 1925 F4JQH         -07 -                G7ILZ         -07 -
+QSO: 21142 FT4 2026-07-27 1927 F4JQH         +06 -                M5BBB         -04 -
+QSO: 21140 FT4 2026-07-27 1929 F4JQH         +12 -                PH3T          -04 -
+QSO: 21141 FT4 2026-07-27 1930 F4JQH         -16 -                G4CTP         -08 -
+QSO: 14082 FT4 2026-07-27 1936 F4JQH         +05 -                PC9K          -21 -
+QSO: 14080 FT4 2026-07-27 1937 F4JQH         -03 -                M0OPK         -03 -
+QSO: 14081 FT4 2026-07-27 1940 F4JQH         -01 -                M0HWO         +04 -
+QSO: 14081 FT4 2026-07-27 1954 F4JQH         -01 -                DJ9MH         -06 -
+QSO: 21142 FT4 2026-07-27 1957 F4JQH         +02 -                DO6BLK        -03 -
+QSO: 21142 FT4 2026-07-27 2001 F4JQH         -11 -                DO1NJN        +04 -
+QSO: 21141 FT4 2026-07-27 2001 F4JQH         +03 -                SQ5N          +15 -
+QSO: 21141 FT4 2026-07-27 2002 F4JQH         -04 -                DO4FOX        +07 -
+QSO:  7049 FT4 2026-07-27 2010 F4JQH         -04 -                HB9AWS        +00 -
+QSO:  7048 FT4 2026-07-27 2013 F4JQH         +04 -                PB0F          -10 -
+QSO:  7049 FT4 2026-07-27 2014 F4JQH         +13 -                G4DBW         -08 -
+QSO:  7048 FT4 2026-07-27 2014 F4JQH         +03 -                G7NJX         -14 -
+QSO: 21140 FT4 2026-07-27 2026 F4JQH         +07 -                PA3DZM        +09 -
+QSO: 21142 FT4 2026-07-27 2027 F4JQH         +01 -                NA5M          -17 -
+QSO: 21141 FT4 2026-07-27 2029 F4JQH         +11 -                MW7RHR        +12 -
+QSO: 14081 FT4 2026-07-27 2037 F4JQH         +06 -                ON7VZ         +06 -
+QSO: 21141 FT4 2026-07-27 2040 F4JQH         +05 -                G8NFZ         -13 -
 END-OF-LOG:

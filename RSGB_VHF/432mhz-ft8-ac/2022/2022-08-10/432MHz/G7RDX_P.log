@@ -10,34 +10,34 @@ SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
 SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220810&year=2022
 SOAPBOX: Source band/frequency precision and duplicate rows retained.
 SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
-SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
 SOAPBOX: Export source rows=947; excluded rows=0.
-QSO:   432 DG 2022-08-10 1902 G7RDX/P       -19 IO91             EI8KN         -14 IO62
-QSO:   432 DG 2022-08-10 1904 G7RDX/P       -21 IO91             G0RMG         -07 IO92
-QSO:   432 DG 2022-08-10 1906 G7RDX/P       -07 IO91             G0MBL         -21 JO01
-QSO:   432 DG 2022-08-10 1909 G7RDX/P       -02 IO91             OV3T          -04 JO46
-QSO:   432 DG 2022-08-10 1912 G7RDX/P       +00 IO91             2E0JPO        +35 IO91
-QSO:   432 DG 2022-08-10 1914 G7RDX/P       +00 IO91             G4NBS         +07 JO02
-QSO:   432 DG 2022-08-10 1917 G7RDX/P       -14 IO91             OZ2ND         -13 JO46
-QSO:   432 DG 2022-08-10 1919 G7RDX/P       -13 IO91             ON8NT         -10 JO11
-QSO:   432 DG 2022-08-10 1921 G7RDX/P       -01 IO91             G7WIR         -06 JO01
-QSO:   432 DG 2022-08-10 1928 G7RDX/P       -09 IO91             PE1NYQ        -02 JO21
-QSO:   432 DG 2022-08-10 1937 G7RDX/P       -15 IO91             G4EII         -21 IO83
-QSO:   432 DG 2022-08-10 1940 G7RDX/P       -07 IO91             M7REV         -05 IO82
-QSO:   432 DG 2022-08-10 1943 G7RDX/P       -13 IO91             G3WZK         -06 IO91
-QSO:   432 DG 2022-08-10 1956 G7RDX/P       -08 IO91             G0ISX         -12 IO93
-QSO:   432 DG 2022-08-10 1957 G7RDX/P       -04 IO91             G8TTI         -21 IO81
-QSO:   432 DG 2022-08-10 2003 G7RDX/P       -16 IO91             M7GMT         -08 JO02
-QSO:   432 DG 2022-08-10 2004 G7RDX/P       -06 IO91             M0IEP         -08 IO91
-QSO:   432 DG 2022-08-10 2008 G7RDX/P       -07 IO91             G4KUX         -12 IO94
-QSO:   432 DG 2022-08-10 2009 G7RDX/P       -15 IO91             GM8MJV        -11 IO85
-QSO:   432 DG 2022-08-10 2011 G7RDX/P       -09 IO91             G8DVR         -05 IO83
-QSO:   432 DG 2022-08-10 2024 G7RDX/P       -05 IO91             2E0DUE        +14 JO01
-QSO:   432 DG 2022-08-10 2027 G7RDX/P       +03 IO91             G0XDI         +13 IO91
-QSO:   432 DG 2022-08-10 2032 G7RDX/P       -11 IO91             G4OED         -09 IO91
-QSO:   432 DG 2022-08-10 2036 G7RDX/P       -18 IO91             DL5EBS        -19 JO31
-QSO:   432 DG 2022-08-10 2040 G7RDX/P       -14 IO91             PA5Y          -14 JO21
-QSO:   432 DG 2022-08-10 2042 G7RDX/P       -14 IO91             PA3CWS        -14 JO22
-QSO:   432 DG 2022-08-10 2045 G7RDX/P       -10 IO91             GI4SNA        -10 IO64
-QSO:   432 DG 2022-08-10 2048 G7RDX/P       -10 IO91             G4YTD         -13 IO84
+QSO:   432 FT8 2022-08-10 1902 G7RDX/P       -19 IO91             EI8KN         -14 IO62
+QSO:   432 FT8 2022-08-10 1904 G7RDX/P       -21 IO91             G0RMG         -07 IO92
+QSO:   432 FT8 2022-08-10 1906 G7RDX/P       -07 IO91             G0MBL         -21 JO01
+QSO:   432 FT8 2022-08-10 1909 G7RDX/P       -02 IO91             OV3T          -04 JO46
+QSO:   432 FT8 2022-08-10 1912 G7RDX/P       +00 IO91             2E0JPO        +35 IO91
+QSO:   432 FT8 2022-08-10 1914 G7RDX/P       +00 IO91             G4NBS         +07 JO02
+QSO:   432 FT8 2022-08-10 1917 G7RDX/P       -14 IO91             OZ2ND         -13 JO46
+QSO:   432 FT8 2022-08-10 1919 G7RDX/P       -13 IO91             ON8NT         -10 JO11
+QSO:   432 FT8 2022-08-10 1921 G7RDX/P       -01 IO91             G7WIR         -06 JO01
+QSO:   432 FT8 2022-08-10 1928 G7RDX/P       -09 IO91             PE1NYQ        -02 JO21
+QSO:   432 FT8 2022-08-10 1937 G7RDX/P       -15 IO91             G4EII         -21 IO83
+QSO:   432 FT8 2022-08-10 1940 G7RDX/P       -07 IO91             M7REV         -05 IO82
+QSO:   432 FT8 2022-08-10 1943 G7RDX/P       -13 IO91             G3WZK         -06 IO91
+QSO:   432 FT8 2022-08-10 1956 G7RDX/P       -08 IO91             G0ISX         -12 IO93
+QSO:   432 FT8 2022-08-10 1957 G7RDX/P       -04 IO91             G8TTI         -21 IO81
+QSO:   432 FT8 2022-08-10 2003 G7RDX/P       -16 IO91             M7GMT         -08 JO02
+QSO:   432 FT8 2022-08-10 2004 G7RDX/P       -06 IO91             M0IEP         -08 IO91
+QSO:   432 FT8 2022-08-10 2008 G7RDX/P       -07 IO91             G4KUX         -12 IO94
+QSO:   432 FT8 2022-08-10 2009 G7RDX/P       -15 IO91             GM8MJV        -11 IO85
+QSO:   432 FT8 2022-08-10 2011 G7RDX/P       -09 IO91             G8DVR         -05 IO83
+QSO:   432 FT8 2022-08-10 2024 G7RDX/P       -05 IO91             2E0DUE        +14 JO01
+QSO:   432 FT8 2022-08-10 2027 G7RDX/P       +03 IO91             G0XDI         +13 IO91
+QSO:   432 FT8 2022-08-10 2032 G7RDX/P       -11 IO91             G4OED         -09 IO91
+QSO:   432 FT8 2022-08-10 2036 G7RDX/P       -18 IO91             DL5EBS        -19 JO31
+QSO:   432 FT8 2022-08-10 2040 G7RDX/P       -14 IO91             PA5Y          -14 JO21
+QSO:   432 FT8 2022-08-10 2042 G7RDX/P       -14 IO91             PA3CWS        -14 JO22
+QSO:   432 FT8 2022-08-10 2045 G7RDX/P       -10 IO91             GI4SNA        -10 IO64
+QSO:   432 FT8 2022-08-10 2048 G7RDX/P       -10 IO91             G4YTD         -13 IO84
 END-OF-LOG:
