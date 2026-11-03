@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: G6GVI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO83SN
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1726; excluded rows=2.
+QSO:   144 PH 2026-08-01 1550 G6GVI         55 1 IO83SN BL       G0HIK/P       55 28 IO84KD LA
+QSO:   144 PH 2026-08-01 1600 G6GVI         52 2 IO83SN BL       M0WML/P       58 32 IO82ON SY
+QSO:   144 PH 2026-08-01 1602 G6GVI         59 3 IO83SN BL       M0ICK/P       59 53 IO83RO BL
+QSO:   144 PH 2026-08-01 1605 G6GVI         52 4 IO83SN BL       GW1YBB/P      59 91 IO81KW NP
+QSO:   144 PH 2026-08-01 1612 G6GVI         56 5 IO83SN BL       G3TBK/P       57 50 IO93RA NG
+END-OF-LOG:

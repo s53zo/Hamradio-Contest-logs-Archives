@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-50MHZ-CONTEST
+CALLSIGN: GM3TAL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO86GA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+50MHz+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1856; excluded rows=0.
+QSO:    50 PH 2021-04-11 0942 GM3TAL        59 1 IO86GA KY       GM4WZG        59 2 IO86HA KY
+QSO:    50 PH 2021-04-11 1008 GM3TAL        59 2 IO86GA KY       GM0AZC        59 4 IO86AA FK
+QSO:    50 PH 2021-04-11 1011 GM3TAL        59 3 IO86GA KY       MM0CEZ        59 11 IO75XU ML
+QSO:    50 PH 2021-04-11 1014 GM3TAL        59 4 IO86GA KY       MM0GPZ        59 3 IO75WS GS
+QSO:    50 PH 2021-04-11 1018 GM3TAL        59 5 IO86GA KY       MM0GOR        59 5 IO85AU ML
+QSO:    50 PH 2021-04-11 1030 GM3TAL        51 6 IO86GA KY       GW0GEI        51 41 IO72VE SA
+QSO:    50 PH 2021-04-11 1106 GM3TAL        59 7 IO86GA KY       MM0JTV        59 7 IO75TS GS
+END-OF-LOG:

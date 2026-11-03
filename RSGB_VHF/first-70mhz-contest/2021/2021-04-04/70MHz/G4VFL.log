@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-70MHZ-CONTEST
+CALLSIGN: G4VFL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO84FL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+70MHz+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1548; excluded rows=0.
+QSO:    70 PH 2021-04-04 1055 G4VFL         54 1 IO84FL          G8REQ         55 19 IO83KI
+QSO:    70 PH 2021-04-04 1059 G4VFL         59 2 IO84FL          GW4RWR        57 2 IO83HE
+QSO:    70 PH 2021-04-04 1101 G4VFL         59 3 IO84FL          MM0CEZ        54 21 IO75XU
+QSO:    70 PH 2021-04-04 1103 G4VFL         56 4 IO84FL          GM4AFF        57 30 IO86TS
+QSO:    70 PH 2021-04-04 1112 G4VFL         59 5 IO84FL          G4FZN/P       59 80 IO94JF
+QSO:    70 PH 2021-04-04 1141 G4VFL         52 6 IO84FL          G8DOH         53 78 IO92FA
+END-OF-LOG:

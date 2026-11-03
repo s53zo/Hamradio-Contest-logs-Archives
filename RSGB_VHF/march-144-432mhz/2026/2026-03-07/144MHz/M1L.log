@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: M1L
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81WV
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4425; excluded rows=0.
+QSO:   144 PH 2026-03-07 1401 M1L           58 1 IO81WV          M8VCC/P       57 4 IO70SP
+QSO:   144 PH 2026-03-07 1402 M1L           59 2 IO81WV          G2P           59 1 IO82MA
+QSO:   144 PH 2026-03-07 1408 M1L           59 3 IO81WV          G4ASR         59 5 IO81MX
+QSO:   144 PH 2026-03-07 1415 M1L           57 4 IO81WV          GD8EXI        55 4 IO74PC
+QSO:   144 PH 2026-03-07 1446 M1L           59 5 IO81WV          G5B           59 26 IO92WS
+QSO:   144 PH 2026-03-07 1544 M1L           59 6 IO81WV          G4ILI         59 17 IO81WV
+QSO:   144 PH 2026-03-07 1603 M1L           59 7 IO81WV          G8T           59 146 JO01NC
+QSO:   144 PH 2026-03-07 1604 M1L           59 8 IO81WV          M0UHF         59 16 IO91IP
+QSO:   144 PH 2026-03-07 1618 M1L           59 9 IO81WV          G2D           59 136 JO01JA
+QSO:   144 PH 2026-03-08 0843 M1L           59 10 IO81WV         ON4EI/P       59 363 JO20EP
+QSO:   144 PH 2026-03-08 0845 M1L           59 11 IO81WV         M0N           59 144 IO91RR
+QSO:   144 PH 2026-03-08 0855 M1L           57 12 IO81WV         G0ODQ         57 40 IO91MR
+QSO:   144 PH 2026-03-08 0933 M1L           59 13 IO81WV         G0SKA         59 86 IO91OQ
+QSO:   144 PH 2026-03-08 0942 M1L           59 14 IO81WV         F8KGU         59 555 JN19BQ
+QSO:   144 PH 2026-03-08 0943 M1L           59 15 IO81WV         G4PIQ         59 86 JO02OD
+END-OF-LOG:

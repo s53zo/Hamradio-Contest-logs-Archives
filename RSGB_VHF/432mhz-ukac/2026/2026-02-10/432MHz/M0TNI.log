@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0TNI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92VQ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=260210&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5073; excluded rows=4.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   432 PH 2026-02-10 2000 M0TNI         59 1 IO92VQ          G4ODA         59 1 IO92WS
+QSO:   432 PH 2026-02-10 2001 M0TNI         57 2 IO92VQ          G7LRQ         59 4 JO03BC
+QSO:   432 PH 2026-02-10 2004 M0TNI         55 3 IO92VQ          M7DQO         59 3 IO92XR
+QSO:   432 PH 2026-02-10 2005 M0TNI         53 4 IO92VQ          G8OVX/P       57 4 IO92XA
+QSO:   432 PH 2026-02-10 2006 M0TNI         55 5 IO92VQ          G1SCT         59 3 IO92XT
+QSO:   432 PH 2026-02-10 2007 M0TNI         57 6 IO92VQ          M7HCT         59 3 IO92XX
+QSO:   432 PH 2026-02-10 2008 M0TNI         59 7 IO92VQ          M7LHE         59 3 IO92UX
+QSO:   432 PH 2026-02-10 2012 M0TNI         55 8 IO92VQ          G4NBS         59 6 JO02AF
+QSO:   432 PH 2026-02-10 2030 M0TNI         53 10 IO92VQ         G0EAK/P       56 23 IO93NI
+END-OF-LOG:

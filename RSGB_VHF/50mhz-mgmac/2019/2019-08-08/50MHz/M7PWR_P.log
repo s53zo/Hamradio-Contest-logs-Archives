@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: M7PWR/P
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190808&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=100; excluded rows=0.
+QSO:    50 DG 2019-08-08 1848 M7PWR/P       -07 IO92             G3PXT         -12 JO02PP
+QSO:    50 DG 2019-08-08 1841 M7PWR/P       -09 IO92             GI6ATZ        -13 IO74AJ
+QSO:    50 DG 2019-08-08 1831 M7PWR/P       -20 IO92             M6VUK         -11 IO93KD
+QSO:    50 DG 2019-08-08 1817 M7PWR/P       -06 IO92             G0SOR         -10 IO91MW
+QSO:    50 DG 2019-08-08 1810 M7PWR/P       +05 IO92             G3ZNU         -08 IO91PQ
+QSO:    50 DG 2019-08-08 1804 M7PWR/P       -14 IO92             G3YDY         -16 JO01
+END-OF-LOG:

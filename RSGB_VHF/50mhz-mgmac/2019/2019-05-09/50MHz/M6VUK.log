@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: M6VUK
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190509&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=141; excluded rows=0.
+QSO:    50 DG 2019-05-09 1800 M6VUK         -12 IO93             G4APJ         -14 IO83
+QSO:    50 DG 2019-05-09 1802 M6VUK         -12 IO93             G4APJ         -14 IO83
+QSO:    50 DG 2019-05-09 1803 M6VUK         -08 IO93             M3JIE         -03 IO83
+QSO:    50 DG 2019-05-09 1805 M6VUK         +09 IO93             GT3PYE/P      -03 IO74
+QSO:    50 DG 2019-05-09 1812 M6VUK         +00 IO93             G3ZNU         -12 IO91
+QSO:    50 DG 2019-05-09 1819 M6VUK         -01 IO93             GI6ATZ        -01 IO74
+QSO:    50 DG 2019-05-09 1825 M6VUK         -04 IO93             EI3KD         -08 IO51
+QSO:    50 DG 2019-05-09 1827 M6VUK         -02 IO93             M0IEP         -04 IO91
+QSO:    50 DG 2019-05-09 1829 M6VUK         -08 IO93             G4PDF         -13 IO93
+QSO:    50 DG 2019-05-09 1834 M6VUK         -16 IO93             G0MBL         -14 JO01
+QSO:    50 DG 2019-05-09 1849 M6VUK         +06 IO93             G4HGI         +00 IO83
+QSO:    50 DG 2019-05-09 1854 M6VUK         -17 IO93             G8EEM         -11 IO93
+END-OF-LOG:

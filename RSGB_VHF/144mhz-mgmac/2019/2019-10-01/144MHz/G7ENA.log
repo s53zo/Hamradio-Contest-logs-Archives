@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: G7ENA
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO03
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=191001&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=170; excluded rows=0.
+QSO:   144 DG 2019-10-01 1811 G7ENA         -03 JO03             G8EEM         +08 IO93
+QSO:   144 DG 2019-10-01 1821 G7ENA         -07 JO03             GM8MJV        -13 IO85
+QSO:   144 DG 2019-10-01 1841 G7ENA         -10 JO03             DF6PW         -09 JO40
+END-OF-LOG:

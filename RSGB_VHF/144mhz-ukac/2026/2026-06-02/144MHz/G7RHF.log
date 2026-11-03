@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G7RHF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82QK
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=260602&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8159; excluded rows=2.
+QSO:   144 PH 2026-06-02 1931 G7RHF         56 1 IO82QK          M0ALW/P       59 30 IO81RF
+QSO:   144 PH 2026-06-02 1932 G7RHF         55 2 IO82QK          M0GHZ/P       55 26 IO81UN
+QSO:   144 PH 2026-06-02 1938 G7RHF         54 3 IO82QK          G0YFE         55 14 IO82SP
+QSO:   144 PH 2026-06-02 1944 G7RHF         55 4 IO82QK          MW5LMG/P      55 14 IO82LQ
+QSO:   144 PH 2026-06-02 2000 G7RHF         57 5 IO82QK          GW4SHF        55 45 IO82HP
+QSO:   144 PH 2026-06-02 2002 G7RHF         59 6 IO82QK          G1YBB/P       59 75 IO82LB
+QSO:   144 PH 2026-06-02 2006 G7RHF         59 7 IO82QK          G4ASR         57 70 IO81MX
+QSO:   144 PH 2026-06-02 2009 G7RHF         57 8 IO82QK          M0TXE         59 26 IO82OK
+END-OF-LOG:

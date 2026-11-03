@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M7WLT
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91FI
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=260707&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=722; excluded rows=2.
+QSO:   144 FM 2026-07-07 1801 M7WLT         59 1 IO91FI          G0OIW/P       59 1 IO91LD
+QSO:   144 FM 2026-07-07 1810 M7WLT         59 2 IO91FI          G0RMG/P       55 7 IO91AW
+QSO:   144 FM 2026-07-07 1814 M7WLT         59 3 IO91FI          G4HGV         59 3 IO91CO
+QSO:   144 FM 2026-07-07 1822 M7WLT         59 4 IO91FI          G4ILI/P       55 13 IO81WU
+QSO:   144 FM 2026-07-07 1824 M7WLT         59 5 IO91FI          G4AJA         59 3 IO91DP
+QSO:   144 FM 2026-07-07 1837 M7WLT         59 6 IO91FI          G0PLA/P       57 11 IO82XH
+QSO:   144 FM 2026-07-07 1847 M7WLT         55 7 IO91FI          M7TPE/P       53 15 IO81RU
+END-OF-LOG:

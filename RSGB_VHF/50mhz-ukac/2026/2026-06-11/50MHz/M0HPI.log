@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0HPI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91QG
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=260611&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3265; excluded rows=0.
+QSO:    50 PH 2026-06-11 1942 M0HPI         58 1 IO91QG          G0SKA         59 19 IO91OQ
+QSO:    50 PH 2026-06-11 1943 M0HPI         59 2 IO91QG          G4YPC         59 12 IO91RH
+QSO:    50 PH 2026-06-11 1948 M0HPI         58 3 IO91QG          G8GYX         57 30 IO91VH
+QSO:    50 PH 2026-06-11 1955 M0HPI         57 4 IO91QG          G4SJH         59 2 IO91PI
+QSO:    50 PH 2026-06-11 2000 M0HPI         59 5 IO91QG          G8KQH         59 9 IO91RI
+END-OF-LOG:

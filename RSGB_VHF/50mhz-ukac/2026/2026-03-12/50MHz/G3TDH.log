@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3TDH
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83WI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=260312&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1230; excluded rows=0.
+QSO:    50 PH 2026-03-12 2003 G3TDH         59 1 IO83WI          G0CDA         59 1 IO83SJ
+QSO:    50 PH 2026-03-12 2006 G3TDH         57 2 IO83WI          GI4SNA        55 1 IO64XM
+QSO:    50 PH 2026-03-12 2011 G3TDH         59 3 IO83WI          G8ZRE         59 9 IO83NE
+QSO:    50 PH 2026-03-12 2019 G3TDH         56 4 IO83WI          G8REQ         54 9 IO83KI
+QSO:    50 PH 2026-03-12 2028 G3TDH         56 5 IO83WI          G8ONK         55 5 IO83MR
+QSO:    50 CW 2026-03-12 2033 G3TDH         559 6 IO83WI         GM4CXM        529 4 IO75TW
+QSO:    50 PH 2026-03-12 2037 G3TDH         59 7 IO83WI          M1EYP/P       59 3 IO83XG
+QSO:    50 PH 2026-03-12 2040 G3TDH         58 8 IO83WI          2E0WED        58 11 IO83LI
+END-OF-LOG:

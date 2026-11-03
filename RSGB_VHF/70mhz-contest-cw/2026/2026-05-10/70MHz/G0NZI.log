@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CONTEST-CW
+CALLSIGN: G0NZI
+CATEGORY-MODE: CW
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO92GM
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+Contest+CW&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=404; excluded rows=0.
+QSO:    70 CW 2026-05-10 1107 G0NZI         599 1 IO92GM CV      G4CWH/P       599 20 IO92XA SG
+QSO:    70 CW 2026-05-10 1113 G0NZI         599 2 IO92GM CV      G4ASR         599 26 IO81MX HR
+QSO:    70 CW 2026-05-10 1118 G0NZI         599 3 IO92GM CV      G3TCU/P       579 28 IO91GI RG
+QSO:    70 CW 2026-05-10 1130 G0NZI         519 4 IO92GM CV      G4AFF         599 21 JO02LO NK
+QSO:    70 CW 2026-05-10 1146 G0NZI         599 5 IO92GM CV      G4MBC         599 31 JO02FH IP
+END-OF-LOG:

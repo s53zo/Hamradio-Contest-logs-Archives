@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G4KCP
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83PN
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=260908&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=355; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   432 FM 2026-09-08 1817 G4KCP         59 1 IO83PN          G6FXF         59 1 IO83OQ
+QSO:   432 FM 2026-09-08 1818 G4KCP         59 2 IO83PN          2E0DGP        59 13 IO83QP
+QSO:   432 FM 2026-09-08 1819 G4KCP         59 3 IO83PN          M7GHW/P       59 15 IO83PN
+QSO:   432 FM 2026-09-08 1820 G4KCP         59 4 IO83PN          M7OTJ/P       59 13 IO83VC
+QSO:   432 FM 2026-09-08 1826 G4KCP         59 6 IO83PN          M7LOR         59 13 IO83OR
+QSO:   432 FM 2026-09-08 1827 G4KCP         59 7 IO83PN          M0MVR         59 9 IO83QQ
+QSO:   432 FM 2026-09-08 1832 G4KCP         59 8 IO83PN          G3TDH         59 13 IO83WI
+QSO:   432 FM 2026-09-08 1844 G4KCP         59 9 IO83PN          2W0JYA        55 6 IO83LA
+END-OF-LOG:

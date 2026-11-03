@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4AON/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93QV
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=220626&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=402; excluded rows=0.
+QSO:    70 PH 2022-06-26 1410 G4AON/P       55 1 IO93QV          G3TCU/P       55 9 IO91GI
+QSO:    70 PH 2022-06-26 1411 G4AON/P       57 2 IO93QV          G3TCT         56 11 IO81QC
+QSO:    70 PH 2022-06-26 1414 G4AON/P       53 3 IO93QV          G4RQI         53 1 IO93IR
+QSO:    70 CW 2022-06-26 1421 G4AON/P       559 4 IO93QV         G4LPP         559 9 JO02SS
+QSO:    70 PH 2022-06-26 1425 G4AON/P       51 5 IO93QV          G8FMC/P       53 6 IO91MX
+QSO:    70 PH 2022-06-26 1427 G4AON/P       59 6 IO93QV          G1ILJ         59 1 IO94SD
+QSO:    70 PH 2022-06-26 1437 G4AON/P       57 7 IO93QV          G1EZF         57 2 IO93FT
+QSO:    70 PH 2022-06-26 1445 G4AON/P       52 8 IO93QV          G0SKA         57 24 IO91OQ
+QSO:    70 CW 2022-06-26 1459 G4AON/P       529 9 IO93QV         G3TKF         559 12 IO81RI
+QSO:    70 PH 2022-06-26 1517 G4AON/P       57 10 IO93QV         GI4SNA        51 14 IO64XM
+QSO:    70 PH 2022-06-26 1538 G4AON/P       53 11 IO93QV         GW8ASD        55 19 IO83LB
+QSO:    70 PH 2022-06-26 1547 G4AON/P       55 12 IO93QV         G0ORG         55 17 JO02LB
+QSO:    70 PH 2022-06-26 1548 G4AON/P       53 13 IO93QV         G0LGS/P       55 31 IO91AU
+QSO:    70 PH 2022-06-26 1551 G4AON/P       59 14 IO93QV         G4ERZ         59 1 IO93TS
+END-OF-LOG:

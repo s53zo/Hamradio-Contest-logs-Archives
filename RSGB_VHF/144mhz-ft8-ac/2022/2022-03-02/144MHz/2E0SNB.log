@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: 2E0SNB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1303; excluded rows=0.
+QSO:   144 DG 2022-03-02 1932 2E0SNB        -18 IO91             PA0JQD        -14 JO21
+QSO:   144 DG 2022-03-02 1937 2E0SNB        01 IO91              G3SED         -15 IO90
+QSO:   144 DG 2022-03-02 1942 2E0SNB        -08 IO91             G7GXK         03 IO90
+QSO:   144 DG 2022-03-02 1949 2E0SNB        -19 IO91             MW3ASG        02 IO81
+QSO:   144 DG 2022-03-02 1953 2E0SNB        -04 IO91             M0BKV         -07 IO70
+QSO:   144 DG 2022-03-02 2012 2E0SNB        -13 IO91             M0BKV         -10 IO70
+QSO:   144 DG 2022-03-02 2013 2E0SNB        -17 IO91             G7GXK         -05 IO90
+QSO:   144 DG 2022-03-02 2037 2E0SNB        -18 IO91             M0VBA         -21 JO01
+QSO:   144 DG 2022-03-02 2039 2E0SNB        -09 IO91             G0BIX         -14 JO01
+QSO:   144 DG 2022-03-02 2041 2E0SNB        -15 IO91             G8IXK         -10 IO91
+QSO:   144 DG 2022-03-02 2043 2E0SNB        -12 IO91             M0FXX         -15 IO91
+QSO:   144 DG 2022-03-02 2049 2E0SNB        05 IO91              G0XDI         -05 IO91
+END-OF-LOG:

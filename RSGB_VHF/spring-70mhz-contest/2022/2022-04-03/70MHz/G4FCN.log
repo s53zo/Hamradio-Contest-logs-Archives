@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SPRING-70MHZ-CONTEST
+CALLSIGN: G4FCN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO80EL
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Spring+70MHz+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1063; excluded rows=1.
+QSO:    70 PH 2022-04-03 0902 G4FCN         59 1 IO80EL          M0AFJ/P       59 2 IO70JF
+QSO:    70 PH 2022-04-03 0923 G4FCN         57 2 IO80EL          2E0VCC/P      57 6 IO70SP
+QSO:    70 PH 2022-04-03 0927 G4FCN         59 3 IO80EL          M0BAO/P       55 3 IO80LV
+QSO:    70 PH 2022-04-03 0936 G4FCN         59 4 IO80EL          G0UHY         59 1 IO80EK
+END-OF-LOG:

@@ -1,0 +1,37 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G1SCT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92XT
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1675; excluded rows=1.
+QSO:    70 PH 2026-09-20 0911 G1SCT         59 1 IO92XT PE       G4ODA         59 9 IO92WS PE
+QSO:    70 PH 2026-09-20 0912 G1SCT         59 2 IO92XT PE       G3TBK/P       59 14 IO93RA NG
+QSO:    70 PH 2026-09-20 0912 G1SCT         59 3 IO92XT PE       G4DSP         59 6 IO92VU PE
+QSO:    70 PH 2026-09-20 0916 G1SCT         55 4 IO92XT PE       M1DDD/P       57 20 IO93CH SK
+QSO:    70 PH 2026-09-20 0917 G1SCT         57 5 IO92XT PE       G4HGT         59 6 IO93EW LS
+QSO:    70 PH 2026-09-20 0919 G1SCT         55 6 IO92XT PE       G4LPP         55 13 JO02SS NK
+QSO:    70 PH 2026-09-20 0920 G1SCT         59 7 IO92XT PE       M7DQO         59 6 IO92VT PE
+QSO:    70 PH 2026-09-20 0922 G1SCT         57 8 IO92XT PE       G4BWP         59 18 JO02FH IP
+QSO:    70 PH 2026-09-20 0925 G1SCT         59 9 IO92XT PE       G6UW          59 13 JO02AF CB
+QSO:    70 PH 2026-09-20 0929 G1SCT         55 10 IO92XT PE      G3PYE/P       59 16 JO02CE CB
+QSO:    70 PH 2026-09-20 0930 G1SCT         59 11 IO92XT PE      G4CWH/P       59 28 IO92XA SG
+QSO:    70 PH 2026-09-20 0934 G1SCT         59 12 IO92XT PE      G4LIP         59 33 IO92JL LE
+QSO:    70 PH 2026-09-20 0938 G1SCT         55 13 IO92XT PE      G0SKA         58 30 IO91OQ HP
+QSO:    70 PH 2026-09-20 0945 G1SCT         52 14 IO92XT PE      GD8EXI        55 13 IO74PC IM
+QSO:    70 PH 2026-09-20 1014 G1SCT         55 15 IO92XT PE      M7PAT/P       57 2 IO93FL SD
+QSO:    70 PH 2026-09-20 1026 G1SCT         59 16 IO92XT PE      G0PQF/P       59 6 JO02FU PE
+QSO:    70 PH 2026-09-20 1052 G1SCT         52 17 IO92XT PE      G7LII/P       54 45 IO92KF NN
+QSO:    70 PH 2026-09-20 1057 G1SCT         55 18 IO92XT PE      G4CZB/P       57 46 IO92LH NN
+QSO:    70 CW 2026-09-20 1124 G1SCT         559 19 IO92XT PE     G7RAU         559 38 IN79JX TR
+END-OF-LOG:

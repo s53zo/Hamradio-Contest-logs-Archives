@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4FRE/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IN69UV
+CATEGORY: L
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1343; excluded rows=1.
+QSO:   432 PH 2026-07-04 1858 G4FRE/P       59 1 IN69UV          G7RAU         59 12 IN79JX
+QSO:   432 PH 2026-07-05 0958 G4FRE/P       59 2 IN69UV          EI3KD         59 23 IO51VW
+QSO:   432 PH 2026-07-05 1245 G4FRE/P       59 3 IN69UV          EA1IT         59 61 IN73TA
+QSO:   432 CW 2026-07-05 1308 G4FRE/P       539 4 IN69UV         G2BQY/P       599 70 IO81RF
+END-OF-LOG:

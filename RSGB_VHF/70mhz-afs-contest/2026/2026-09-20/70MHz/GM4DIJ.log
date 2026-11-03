@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO85IW
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1675; excluded rows=1.
+QSO:    70 PH 2026-09-20 0929 GM4DIJ        55 1 IO85IW EH       G4LIP         55 27 IO92JL LE
+QSO:    70 CW 2026-09-20 0937 GM4DIJ        559 2 IO85IW EH      G4ODA         559 24 IO92WS PE
+QSO:    70 CW 2026-09-20 0954 GM4DIJ        559 3 IO85IW EH      G4CWH/P       579 38 IO92WE SG
+QSO:    70 CW 2026-09-20 1115 GM4DIJ        559 4 IO85IW EH      G3PYE/P       559 54 JO02CE CB
+QSO:    70 CW 2026-09-20 1120 GM4DIJ        559 5 IO85IW EH      G4BWP         559 61 JO02FH IP
+QSO:    70 CW 2026-09-20 1148 GM4DIJ        539 6 IO85IW EH      G4LPP         539 34 JO02SS NK
+END-OF-LOG:

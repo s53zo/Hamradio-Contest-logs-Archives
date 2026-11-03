@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0HPI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91QG
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=260210&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5073; excluded rows=4.
+QSO:   432 PH 2026-02-10 2001 M0HPI         56 1 IO91QG          G0SKA         59 2 IO91OQ
+QSO:   432 PH 2026-02-10 2002 M0HPI         57 2 IO91QG          M0NVS/P       59 2 IO91RR
+QSO:   432 PH 2026-02-10 2003 M0HPI         57 3 IO91QG          G8GYX         56 3 IO91VH
+QSO:   432 PH 2026-02-10 2011 M0HPI         59 4 IO91QG          G0XDI         59 15 IO91RP
+QSO:   432 PH 2026-02-10 2015 M0HPI         57 5 IO91QG          G4GFI         59 13 IO91VH
+QSO:   432 PH 2026-02-10 2031 M0HPI         59 6 IO91QG          G0SWC         59 7 IO91RF
+QSO:   432 PH 2026-02-10 2034 M0HPI         53 7 IO91QG          G4EFT         59 15 IO91RG
+QSO:   432 PH 2026-02-10 2038 M0HPI         54 8 IO91QG          G4YPC         57 17 IO91RH
+END-OF-LOG:

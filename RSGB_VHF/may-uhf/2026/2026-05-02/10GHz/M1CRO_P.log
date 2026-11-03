@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: M1CRO/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: JO01PU
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=40; excluded rows=9.
+SOAPBOX: WARNING: 9 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (9).
+QSO:   10G PH 2026-05-02 1428 M1CRO/P       59 1 JO01PU          PI4Z          59 1 JO11WM
+QSO:   10G PH 2026-05-02 1507 M1CRO/P       55 2 JO01PU          G4YTL         55 3 IO92MB
+QSO:   10G PH 2026-05-02 1541 M1CRO/P       57 3 JO01PU          ON4CJQ/P      57 7 JO20KW
+QSO:   10G PH 2026-05-02 1608 M1CRO/P       59 4 JO01PU          F4DHO/P       59 3 JN29LN
+QSO:   10G PH 2026-05-02 1722 M1CRO/P       56 10 JO01PU         F6DKW         54 16 JN18CS
+QSO:   10G CW 2026-05-02 1921 M1CRO/P       529 15 JO01PU        F6DWG         529 3 JN19AJ
+QSO:   10G PH 2026-05-02 1959 M1CRO/P       59 16 JO01PU         PI4GN         59 14 JO33II
+QSO:   10G PH 2026-05-02 2049 M1CRO/P       59 17 JO01PU         ON4KHG        59 4 JO10XO
+QSO:   10G CW 2026-05-02 2145 M1CRO/P       599 18 JO01PU        DL5EBS        599 10 JO31NH
+QSO:   10G PH 2026-05-03 0645 M1CRO/P       59 19 JO01PU         G3XDY         59 1 JO02OB
+QSO:   10G CW 2026-05-03 0823 M1CRO/P       519 20 JO01PU        DK0PU         599 23 JO31JN
+QSO:   10G PH 2026-05-03 1107 M1CRO/P       51 21 JO01PU         G4LDR         53 1 IO91EC
+QSO:   10G CW 2026-05-03 1121 M1CRO/P       419 22 JO01PU        G4UVZ         419 4 IO80KX
+QSO:   10G PH 2026-05-03 1132 M1CRO/P       56 23 JO01PU         G0JBA         55 1 JO01PG
+QSO:   10G CW 2026-05-03 1234 M1CRO/P       519 24 JO01PU        G4BAO         539 2 JO02CG
+END-OF-LOG:

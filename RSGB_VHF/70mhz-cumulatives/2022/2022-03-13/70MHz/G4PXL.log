@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4PXL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93GA
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=220313&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=457; excluded rows=0.
+QSO:    70 PH 2022-03-13 1014 G4PXL         59 1 IO93GA          G3TCU/P       59 11 IO91RF
+QSO:    70 PH 2022-03-13 1017 G4PXL         58 2 IO93GA          G4SJH/P       59 12 IO91PF
+QSO:    70 PH 2022-03-13 1023 G4PXL         56 3 IO93GA          G1PPA/P       59 9 IO93NJ
+QSO:    70 PH 2022-03-13 1027 G4PXL         56 4 IO93GA          G4FZN/P       59 13 IO94JF
+QSO:    70 PH 2022-03-13 1033 G4PXL         58 5 IO93GA          G1HLT         59 6 IO93JD
+QSO:    70 PH 2022-03-13 1035 G4PXL         53 6 IO93GA          G3ZYC         59 1 IO93GA
+QSO:    70 PH 2022-03-13 1102 G4PXL         58 7 IO93GA          M0WGD         59 9 IO93FG
+QSO:    70 PH 2022-03-13 1144 G4PXL         59 8 IO93GA          G3OVH         59 13 IO92JP
+END-OF-LOG:

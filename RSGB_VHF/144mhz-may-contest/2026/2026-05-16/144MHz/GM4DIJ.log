@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO85IW
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4133; excluded rows=1.
+QSO:   144 CW 2026-05-17 1317 GM4DIJ        559 1 IO85IW EH      G4ODA         539 168 IO92WS PE
+QSO:   144 CW 2026-05-17 1326 GM4DIJ        559 2 IO85IW EH      G4LPP         559 100 JO02SS NK
+QSO:   144 PH 2026-05-17 1329 GM4DIJ        59 3 IO85IW EH       G8SEI         59 72 IO92FO CV
+QSO:   144 PH 2026-05-17 1331 GM4DIJ        55 4 IO85IW EH       G4HGT/P       55 94 IO94CG HG
+QSO:   144 PH 2026-05-17 1334 GM4DIJ        55 5 IO85IW EH       G4ASR         55 178 IO81MX HR
+QSO:   144 PH 2026-05-17 1345 GM4DIJ        55 6 IO85IW EH       GW1YBB/P      59 112 IO81KW NP
+QSO:   144 PH 2026-05-17 1349 GM4DIJ        59 7 IO85IW EH       G4KUX         57 29 IO94BP DL
+QSO:   144 PH 2026-05-17 1350 GM4DIJ        59 8 IO85IW EH       M0XVF         59 10 IO94EQ DL
+END-OF-LOG:

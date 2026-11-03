@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G3WJG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO91RP
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4133; excluded rows=1.
+QSO:   144 PH 2026-05-16 1455 G3WJG         57 1 IO91RP WD       G4AFF         56 31 JO02LO WD
+QSO:   144 PH 2026-05-16 1500 G3WJG         59 2 IO91RP WD       G2D           57 36 JO03BC WD
+QSO:   144 PH 2026-05-16 1510 G3WJG         59 3 IO91RP WD       G4ASR         59 49 IO81MX WD
+QSO:   144 PH 2026-05-16 1520 G3WJG         59 4 IO91RP WD       GW4CC         57 40 IO71UN WD
+QSO:   144 PH 2026-05-16 1528 G3WJG         59 5 IO91RP WD       G8T           53 68 JO01NC WD
+QSO:   144 PH 2026-05-16 1534 G3WJG         59 6 IO91RP WD       M3C           59 26 IO91VH WD
+END-OF-LOG:

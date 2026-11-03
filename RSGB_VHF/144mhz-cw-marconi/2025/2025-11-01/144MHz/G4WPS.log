@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G4WPS
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83NQ
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=857; excluded rows=3.
+QSO:   144 CW 2025-11-01 1414 G4WPS         559 1 IO83NQ         G3TDH         579 1 IO83WI
+QSO:   144 CW 2025-11-01 1427 G4WPS         599 2 IO83NQ         G4HGI         599 2 IO83PL
+QSO:   144 CW 2025-11-01 1436 G4WPS         529 3 IO83NQ         G4YPC         539 7 IO91RH
+QSO:   144 CW 2025-11-01 1531 G4WPS         429 4 IO83NQ         G3TZU/P       559 22 IO91GI
+QSO:   144 CW 2025-11-01 1640 G4WPS         559 5 IO83NQ         M0PNN         529 6 IO82TS
+END-OF-LOG:

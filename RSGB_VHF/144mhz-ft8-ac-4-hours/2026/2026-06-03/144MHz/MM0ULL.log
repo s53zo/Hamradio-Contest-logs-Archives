@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: MM0ULL
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO77
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=260603&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=694; excluded rows=0.
+QSO:   144 DG 2026-06-03 1715 MM0ULL        +14 IO77             GM8IEM        -03 IO78
+QSO:   144 DG 2026-06-03 1717 MM0ULL        -09 IO77             GM7PKT        -11 IO76
+QSO:   144 DG 2026-06-03 1730 MM0ULL        +00 IO77             GM4AOR        -12 IO86
+QSO:   144 DG 2026-06-03 1734 MM0ULL        +04 IO77             GM4GUF        +03 IO85
+QSO:   144 DG 2026-06-03 1816 MM0ULL        -06 IO77             G6DDN         -14 IO93
+QSO:   144 DG 2026-06-03 1858 MM0ULL        -03 IO77             GM3AND        -10 IO86
+QSO:   144 DG 2026-06-03 1901 MM0ULL        -06 IO77             GM4YLN        -06 IO86
+QSO:   144 DG 2026-06-03 1904 MM0ULL        +31 IO77             MM0CEZ        +15 IO75
+QSO:   144 DG 2026-06-03 1905 MM0ULL        +08 IO77             GM8MJV        -01 IO85
+QSO:   144 DG 2026-06-03 1914 MM0ULL        +01 IO77             G8EEM         -21 IO93
+QSO:   144 DG 2026-06-03 1933 MM0ULL        -05 IO77             GM7GAX        -15 IO86
+QSO:   144 DG 2026-06-03 1938 MM0ULL        -09 IO77             GM1KEN        -18 IO85
+END-OF-LOG:

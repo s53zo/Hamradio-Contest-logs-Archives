@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G5RS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91RF
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=432; excluded rows=0.
+QSO:   432 PH 2026-07-04 1421 G5RS          59 1 IO91RF          GW3ZTT/P      59 12 IO82KW
+QSO:   432 PH 2026-07-04 1445 G5RS          59 2 IO91RF          G5LK/P        59 40 JO01QD
+QSO:   432 PH 2026-07-04 1506 G5RS          59 3 IO91RF          G4GFI         59 5 IO91VH
+QSO:   432 PH 2026-07-04 1515 G5RS          59 4 IO91RF          G0ARC/P       59 15 IO91EH
+QSO:   432 PH 2026-07-04 1517 G5RS          59 5 IO91RF          G3ULT/P       59 6 IO91NL
+QSO:   432 PH 2026-07-04 1532 G5RS          59 6 IO91RF          G6WCG/P       59 48 IO93AD
+QSO:   432 PH 2026-07-04 1541 G5RS          59 7 IO91RF          G0VHF/P       59 51 JO01PU
+QSO:   432 PH 2026-07-04 1609 G5RS          59 8 IO91RF          G0GJV         59 10 IO91OK
+QSO:   432 PH 2026-07-05 1237 G5RS          59 9 IO91RF          G0FBB/P       53 75 JO01LD
+QSO:   432 CW 2026-07-05 1245 G5RS          599 10 IO91RF        G2BQY/P       599 61 IO81RF
+QSO:   432 PH 2026-07-05 1320 G5RS          55 11 IO91RF         G3PYE/P       59 83 JO02CE
+QSO:   432 PH 2026-07-05 1339 G5RS          55 12 IO91RF         OR6T          59 256 JO20KV
+END-OF-LOG:

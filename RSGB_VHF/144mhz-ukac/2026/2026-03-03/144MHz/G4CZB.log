@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4CZB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92MF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=260303&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9263; excluded rows=4.
+QSO:   144 PH 2026-03-03 2000 G4CZB         59 1 IO92MF          G6TVB         59 1 IO92NG
+QSO:   144 PH 2026-03-03 2005 G4CZB         53 2 IO92MF          G1MZD         52 3 IO92NB
+QSO:   144 PH 2026-03-03 2006 G4CZB         59 3 IO92MF          G7LII/P       59 6 IO92KF
+QSO:   144 PH 2026-03-03 2009 G4CZB         59 4 IO92MF          G4HWA         59 7 IO92ME
+QSO:   144 PH 2026-03-03 2021 G4CZB         55 5 IO92MF          G6HPR/P       55 6 IO92MO
+QSO:   144 PH 2026-03-03 2023 G4CZB         57 6 IO92MF          G7LRQ         55 31 JO03BC
+QSO:   144 PH 2026-03-03 2048 G4CZB         59 7 IO92MF          G4CLA         59 98 IO92JL
+END-OF-LOG:

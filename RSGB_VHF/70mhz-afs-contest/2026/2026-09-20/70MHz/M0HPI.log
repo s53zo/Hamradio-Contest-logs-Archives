@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: M0HPI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91QG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1675; excluded rows=1.
+QSO:    70 PH 2026-09-20 1018 M0HPI         58 1 IO91QG GU       G4YPC         57 24 IO91RH GU
+QSO:    70 PH 2026-09-20 1021 M0HPI         56 2 IO91QG GU       G4EFT         59 19 IO91RG GU
+QSO:    70 PH 2026-09-20 1027 M0HPI         57 3 IO91QG GU       G4CTP         59 11 IO91RG GU
+QSO:    70 PH 2026-09-20 1102 M0HPI         56 4 IO91QG GU       G4GFI         54 29 IO91VH KT
+END-OF-LOG:

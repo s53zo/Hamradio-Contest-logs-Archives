@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4VKI/P
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75QN
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=260203&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=6248; excluded rows=2.
+QSO:   144 CW 2026-02-03 2001 GM4VKI/P      599 1 IO75QN         GM4LVW        599 2 IO75QL
+QSO:   144 CW 2026-02-03 2003 GM4VKI/P      599 2 IO75QN         GM4YDN        599 2 IO75QM
+QSO:   144 CW 2026-02-03 2006 GM4VKI/P      569 3 IO75QN         MM9OOP        569 1 IO75NQ
+QSO:   144 CW 2026-02-03 2012 GM4VKI/P      579 4 IO75QN         GM4MWX        579 2 IO75NU
+QSO:   144 CW 2026-02-03 2015 GM4VKI/P      599 5 IO75QN         MM6POV        599 7 IO75TH
+QSO:   144 CW 2026-02-03 2020 GM4VKI/P      599 6 IO75QN         MM0GHM        599 6 IO75TO
+QSO:   144 CW 2026-02-03 2025 GM4VKI/P      599 7 IO75QN         GM4PPT        599 4 IO75SK
+END-OF-LOG:

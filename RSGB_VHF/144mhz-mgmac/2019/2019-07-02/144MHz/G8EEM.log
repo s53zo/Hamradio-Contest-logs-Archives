@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: G8EEM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=190702&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=190; excluded rows=0.
+QSO:   144 DG 2019-07-02 1804 G8EEM         -15 IO93             GM8MJV        -14 IO85
+QSO:   144 DG 2019-07-02 1806 G8EEM         +07 IO93             G7ENA         -06 JO03
+QSO:   144 DG 2019-07-02 1807 G8EEM         +04 IO93             GM8GIQ        -05 IO75
+QSO:   144 DG 2019-07-02 1809 G8EEM         55 IO93              GM4JIB        55 IO85
+QSO:   144 DG 2019-07-02 1812 G8EEM         +05 IO93             GI6ATZ        -06 IO74
+QSO:   144 DG 2019-07-02 1818 G8EEM         +10 IO93             G4NBS         +00 JO02
+QSO:   144 DG 2019-07-02 1820 G8EEM         +09 IO93             G3YKI         -19 IO92
+QSO:   144 DG 2019-07-02 1832 G8EEM         +07 IO93             IK5QKE        +01 JN52
+QSO:   144 DG 2019-07-02 1842 G8EEM         +11 IO93             IW0FFK        +00 JN61
+QSO:   144 DG 2019-07-02 1846 G8EEM         +04 IO93             IT9PQO        +04 JM78
+QSO:   144 DG 2019-07-02 1854 G8EEM         -24 IO93             IZ5IIN        -12 JN53
+END-OF-LOG:

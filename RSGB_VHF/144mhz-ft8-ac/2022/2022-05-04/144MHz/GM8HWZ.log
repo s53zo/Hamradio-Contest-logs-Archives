@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: GM8HWZ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO87
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220504&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1793; excluded rows=0.
+QSO:   144 DG 2022-05-04 1907 GM8HWZ        +03 IO87             GM7PKT        +02 IO76
+QSO:   144 DG 2022-05-04 1918 GM8HWZ        -16 IO87             GM1BAN        -14 IO88
+QSO:   144 DG 2022-05-04 1926 GM8HWZ        -14 IO87             MM0ULL        -16 IO77
+QSO:   144 DG 2022-05-04 1930 GM8HWZ        +00 IO87             GM0EWX        -05 IO67
+QSO:   144 DG 2022-05-04 1932 GM8HWZ        +08 IO87             GM4VVX        +00 IO78
+QSO:   144 DG 2022-05-04 2042 GM8HWZ        -12 IO87             GS3PYE/P      -14 IO67
+END-OF-LOG:

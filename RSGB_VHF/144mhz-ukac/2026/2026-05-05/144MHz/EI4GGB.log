@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: EI4GGB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO63IK
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=260505&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9666; excluded rows=11.
+QSO:   144 PH 2026-05-05 2042 EI4GGB        51 3 IO63IK          G0LTG/P       52 121 IO81RF
+QSO:   144 PH 2026-05-05 2048 EI4GGB        51 4 IO63IK          G8DDH         58 42 IO92FA
+QSO:   144 PH 2026-05-05 2056 EI4GGB        51 5 IO63IK          GW0RHC        55 97 IO71UN
+QSO:   144 PH 2026-05-05 2101 EI4GGB        52 6 IO63IK          G7LRQ         55 165 JO03BC
+QSO:   144 PH 2026-05-05 2104 EI4GGB        51 7 IO63IK          MW1DDD/P      55 115 IO73UJ
+END-OF-LOG:

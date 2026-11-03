@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: G7NUC
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=190507&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=210; excluded rows=0.
+QSO:   144 DG 2019-05-07 1810 G7NUC         -05 IO80             M0TFO         -12 IO81
+QSO:   144 DG 2019-05-07 1826 G7NUC         -04 IO80             G3YEG         -15 IO90
+QSO:   144 DG 2019-05-07 1830 G7NUC         -06 IO80             GU6EFB        +03 IN89
+QSO:   144 DG 2019-05-07 1851 G7NUC         -02 IO80             G4ELW         -08 IO81
+END-OF-LOG:

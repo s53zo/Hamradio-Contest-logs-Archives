@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: F4HRD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO00XX
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=997; excluded rows=0.
+QSO:    50 PH 2026-07-04 1608 F4HRD         59 1 JO00XX          G2BQY/P       59 64 IO81RF
+QSO:    50 PH 2026-07-04 1610 F4HRD         55 2 JO00XX          G6WCG/P       55 43 IO93AD
+QSO:    50 PH 2026-07-04 1612 F4HRD         58 3 JO00XX          G0FBB/P       59 31 JO01LD
+QSO:    50 PH 2026-07-04 1613 F4HRD         59 4 JO00XX          M0HDO         59 19 IO91JO
+QSO:    50 PH 2026-07-04 1718 F4HRD         59 5 JO00XX          G5LK/P        59 74 JO01QD
+END-OF-LOG:

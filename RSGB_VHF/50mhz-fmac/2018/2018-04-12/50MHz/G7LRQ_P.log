@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-FMAC
+CALLSIGN: G7LRQ/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91RU
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+FMAC&Date=180412&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=119; excluded rows=0.
+QSO:    50 FM 2018-04-12 1813 G7LRQ/P       55 1 IO91RU          M0ICR         53 2 IO91SO
+QSO:    50 FM 2018-04-12 1823 G7LRQ/P       57 2 IO91RU          M0RKX/P       57 4 IO92BA
+QSO:    50 FM 2018-04-12 1832 G7LRQ/P       59 3 IO91RU          G8GYX         59 3 IO91VH
+QSO:    50 FM 2018-04-12 1833 G7LRQ/P       57 4 IO91RU          G8FUO         52 2 IO91QL
+END-OF-LOG:

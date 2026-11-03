@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4YPC
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO91RH
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=260825&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=333; excluded rows=0.
+QSO:  2.3G PH 2026-08-25 1833 G4YPC         59 1 IO91RH          G4EFT         59 1 IO91RG
+QSO:  2.3G CW 2026-08-25 1908 G4YPC         519 2 IO91RH         M0HPI         549 1 IO91QG
+QSO:  2.3G CW 2026-08-25 1941 G4YPC         519 3 IO91RH         G4HWA         529 10 IO92ME
+QSO:  2.3G PH 2026-08-25 1949 G4YPC         53 4 IO91RH          G4ODA         519 9 IO92WS
+QSO:  2.3G CW 2026-08-25 1953 G4YPC         519 5 IO91RH         G4RGK         559 7 IO91NO
+QSO:  2.3G PH 2026-08-25 2017 G4YPC         57 6 IO91RH          G4LDR         52 6 IO91EC
+QSO:  2.3G CW 2026-08-25 2034 G4YPC         559 7 IO91RH         G4LPP         519 14 JO02SS
+QSO:  2.3G PH 2026-08-25 2047 G4YPC         58 8 IO91RH          G4CLA         55 27 IO92JL
+QSO:  2.3G CW 2026-08-25 2109 G4YPC         519 9 IO91RH         G3SQQ         519 26 IO93JC
+END-OF-LOG:

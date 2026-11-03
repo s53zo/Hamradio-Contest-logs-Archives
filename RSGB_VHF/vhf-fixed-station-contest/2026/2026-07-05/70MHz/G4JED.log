@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G4JED
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: JO01CF
+CATEGORY: FSQ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=241; excluded rows=0.
+QSO:    70 PH 2026-07-05 1309 G4JED         53 1 JO01CF          G6WCG/P       57 56 IO93AD
+QSO:    70 PH 2026-07-05 1311 G4JED         59 2 JO01CF          G0FBB/P       59 43 JO01LD
+QSO:    70 PH 2026-07-05 1326 G4JED         59 3 JO01CF          G5LK/P        59 67 JO01QD
+QSO:    70 PH 2026-07-05 1354 G4JED         53 4 JO01CF          G0ARC/P       59 41 IO91EH
+QSO:    70 PH 2026-07-05 1359 G4JED         57 5 JO01CF          G0VHF/P       53 74 JO01PU
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: G0OIW/P
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91LO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=164; excluded rows=0.
+QSO:    50 CW 2026-06-28 0916 G0OIW/P       599 1 IO91LO         G0LTG         599 4 IO81RF
+QSO:    50 CW 2026-06-28 0926 G0OIW/P       599 2 IO91LO         G3TCU/P       559 9 IO91GI
+QSO:    50 CW 2026-06-28 0943 G0OIW/P       559 3 IO91LO         G4CZB         539 7 IO92MF
+QSO:    50 CW 2026-06-28 0954 G0OIW/P       559 4 IO91LO         G3TBK/P       559 16 IO92RA
+QSO:    50 CW 2026-06-28 1038 G0OIW/P       599 5 IO91LO         G4LPP         559 15 JO02SS
+END-OF-LOG:

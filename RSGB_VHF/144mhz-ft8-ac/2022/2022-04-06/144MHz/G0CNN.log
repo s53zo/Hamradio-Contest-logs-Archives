@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G0CNN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO94
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220406&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1359; excluded rows=0.
+QSO:   144 DG 2022-04-06 1901 G0CNN         +20 IO94             G8AOE/P       +19 IO94
+QSO:   144 DG 2022-04-06 1904 G0CNN         -01 IO94             G8EEM         -24 IO93
+QSO:   144 DG 2022-04-06 1907 G0CNN         -15 IO94             2E0DBS        -12 JO02
+QSO:   144 DG 2022-04-06 1909 G0CNN         +17 IO94             2E0FAU        +25 IO94
+QSO:   144 DG 2022-04-06 1915 G0CNN         -17 IO94             M0XLH         +14 IO93
+QSO:   144 DG 2022-04-06 1923 G0CNN         -16 IO94             2E0ILF        -18 IO83
+QSO:   144 DG 2022-04-06 1925 G0CNN         -16 IO94             G4PDF         -14 IO93
+QSO:   144 DG 2022-04-06 1936 G0CNN         +01 IO94             M0RSF         +09 IO93
+QSO:   144 DG 2022-04-06 1939 G0CNN         +02 IO94             M0XXQ         +01 IO85
+QSO:   144 DG 2022-04-06 1943 G0CNN         -13 IO94             GM8MJV        -03 IO85
+QSO:   144 DG 2022-04-06 2002 G0CNN         -10 IO94             G4VCJ         +08 IO94
+QSO:   144 DG 2022-04-06 2008 G0CNN         +24 IO94             G0AOO         +24 IO94
+QSO:   144 DG 2022-04-06 2009 G0CNN         -17 IO94             G0HDV         -17 IO93
+QSO:   144 DG 2022-04-06 2011 G0CNN         +05 IO94             M0LJL         +05 IO83
+QSO:   144 DG 2022-04-06 2013 G0CNN         -14 IO94             MM0CEZ        -17 IO75
+QSO:   144 DG 2022-04-06 2015 G0CNN         -13 IO94             G0OUC         -14 IO93
+QSO:   144 DG 2022-04-06 2049 G0CNN         -21 IO94             G4YEB         -18 IO93
+QSO:   144 DG 2022-04-06 2051 G0CNN         -12 IO94             G3SED         -14 IO90
+END-OF-LOG:

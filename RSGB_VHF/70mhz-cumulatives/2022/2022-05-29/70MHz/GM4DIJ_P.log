@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: GM4DIJ/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO74LU
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=220529&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=630; excluded rows=0.
+QSO:    70 PH 2022-05-29 1416 GM4DIJ/P      55 1 IO74LU          G4FZN/P       55 15 IO94JF
+QSO:    70 PH 2022-05-29 1510 GM4DIJ/P      59 3 IO74LU          GI4SNA        59 3 IO64XM
+QSO:    70 PH 2022-05-29 1516 GM4DIJ/P      56 4 IO74LU          GW8ASD        55 14 IO83LB
+QSO:    70 CW 2022-05-29 1524 GM4DIJ/P      559 5 IO74LU         G3TCU/P       529 39 IO91GI
+END-OF-LOG:

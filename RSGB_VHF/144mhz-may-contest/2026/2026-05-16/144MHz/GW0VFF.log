@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: GW0VFF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81CP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4133; excluded rows=1.
+QSO:   144 PH 2026-05-16 1453 GW0VFF        55 1 IO81CP SA       M8VCC/P       59 35 IO70SP PL
+QSO:   144 PH 2026-05-16 1500 GW0VFF        59 2 IO81CP SA       GW4CC         59 31 IO71UN SA
+QSO:   144 PH 2026-05-17 1128 GW0VFF        55 3 IO81CP SA       G4HGT/P       59 48 IO94CB HG
+QSO:   144 PH 2026-05-17 1152 GW0VFF        57 4 IO81CP SA       MW8R          53 44 IO82HP SY
+QSO:   144 PH 2026-05-17 1200 GW0VFF        59 5 IO81CP SA       G2D           59 160 JO03BC PE
+QSO:   144 PH 2026-05-17 1217 GW0VFF        55 6 IO81CP SA       G4ASR         55 125 IO81MX HR
+QSO:   144 PH 2026-05-17 1239 GW0VFF        59 7 IO81CP SA       G0B           59 17 IO82NG HR
+END-OF-LOG:

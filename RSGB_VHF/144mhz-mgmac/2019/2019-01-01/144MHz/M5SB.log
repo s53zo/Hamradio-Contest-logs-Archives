@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: M5SB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=190101&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=200; excluded rows=0.
+QSO:   144 DG 2019-01-01 1920 M5SB          -03 IO91             G0LRD         -04 JO02
+QSO:   144 DG 2019-01-01 1927 M5SB          -12 IO91             G4NBS         -02 JO02
+QSO:   144 DG 2019-01-01 1932 M5SB          -01 IO91             G0FCT         +05 IO91
+QSO:   144 DG 2019-01-01 1934 M5SB          -21 IO91             G0GJV         +04 IO91
+QSO:   144 DG 2019-01-01 1936 M5SB          +00 IO91             G4CQR         +04 IO91
+QSO:   144 DG 2019-01-01 1940 M5SB          -09 IO91             F5CT          -09 JN08
+QSO:   144 DG 2019-01-01 1940 M5SB          +03 IO91             M0IEP         -05 IO91
+QSO:   144 DG 2019-01-01 1947 M5SB          +09 IO91             G4HGI         +00 IO83
+QSO:   144 DG 2019-01-01 1948 M5SB          +07 IO91             G8EKG         +01 IO92
+QSO:   144 DG 2019-01-01 1952 M5SB          -15 IO91             M1DDD/P       +01 IO93
+END-OF-LOG:

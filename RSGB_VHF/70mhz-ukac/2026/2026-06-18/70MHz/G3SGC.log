@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G3SGC
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: JO02TN
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=260618&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3210; excluded rows=0.
+QSO:    70 PH 2026-06-18 1902 G3SGC         57 1 JO02TN          G4LPP         52 1 JO02SS
+QSO:    70 PH 2026-06-18 1912 G3SGC         51 2 JO02TN          G7LII/P       51 13 IO92KF
+QSO:    70 PH 2026-06-18 1920 G3SGC         55 3 JO02TN          G4AFF         55 15 JO02LO
+QSO:    70 PH 2026-06-18 1939 G3SGC         58 4 JO02TN          G4FZN/P       52 43 IO94JF
+QSO:    70 PH 2026-06-18 1948 G3SGC         57 5 JO02TN          G0FEH/P       53 34 IO92HD
+QSO:    70 PH 2026-06-18 2009 G3SGC         58 6 JO02TN          G4ODA         58 48 IO92WS
+QSO:    70 PH 2026-06-18 2015 G3SGC         57 7 JO02TN          G4CLA         53 74 IO92JL
+QSO:    70 CW 2026-06-18 2036 G3SGC         599 8 JO02TN         G3MPN         559 15 JO02NN
+QSO:    70 PH 2026-06-18 2056 G3SGC         57 9 JO02TN          G4HGT/P       55 61 IO94CB
+END-OF-LOG:

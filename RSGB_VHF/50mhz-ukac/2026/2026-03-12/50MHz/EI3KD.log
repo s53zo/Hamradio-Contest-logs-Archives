@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: EI3KD
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO51VW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=260312&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1230; excluded rows=0.
+QSO:    50 PH 2026-03-12 2015 EI3KD         59 1 IO51VW          MW0DX         59 6 IO71OT
+QSO:    50 PH 2026-03-12 2019 EI3KD         59 2 IO51VW          G4CLA         59 23 IO92JL
+QSO:    50 PH 2026-03-12 2030 EI3KD         53 3 IO51VW          G3TCT         54 10 IO81QC
+QSO:    50 PH 2026-03-12 2033 EI3KD         55 4 IO51VW          GI4SNA        55 26 IO64XM
+QSO:    50 PH 2026-03-12 2039 EI3KD         59 5 IO51VW          GD8EXI        58 12 IO74PC
+QSO:    50 PH 2026-03-12 2049 EI3KD         51 6 IO51VW          MD0MAN/P      53 3 IO74QC
+QSO:    50 PH 2026-03-12 2052 EI3KD         51 7 IO51VW          G0SKA         51 20 IO91OQ
+QSO:    50 CW 2026-03-12 2116 EI3KD         519 8 IO51VW         GM4CXM        519 6 IO75TW
+QSO:    50 PH 2026-03-12 2131 EI3KD         52 9 IO51VW          2E0OUT        55 11 IO81WO
+QSO:    50 PH 2026-03-12 2149 EI3KD         55 10 IO51VW         G8SEI         55 43 IO92FO
+QSO:    50 PH 2026-03-12 2207 EI3KD         51 11 IO51VW         G0CDA         52 28 IO83SJ
+QSO:    50 PH 2026-03-12 2217 EI3KD         52 12 IO51VW         G7LII/P       55 28 IO92LH
+END-OF-LOG:

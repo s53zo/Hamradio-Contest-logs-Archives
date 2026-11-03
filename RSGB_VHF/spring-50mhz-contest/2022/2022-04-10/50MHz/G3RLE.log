@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SPRING-50MHZ-CONTEST
+CALLSIGN: G3RLE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83VO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Spring+50MHz+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=964; excluded rows=0.
+QSO:    50 PH 2022-04-10 0916 G3RLE         59 1 IO83VO OL       G4RRA         55 10 IO80BS EX
+QSO:    50 CW 2022-04-10 0926 G3RLE         599 2 IO83VO OL      G3SED         599 6 IO90IV SO
+QSO:    50 CW 2022-04-10 0928 G3RLE         599 3 IO83VO OL      G7WHI/P       599 8 IO92JN LE
+QSO:    50 CW 2022-04-10 0944 G3RLE         599 4 IO83VO OL      G4LPP         599 10 JO02SS NR
+QSO:    50 CW 2022-04-10 0948 G3RLE         599 5 IO83VO OL      GW4ZAR        599 5 IO83KF CH
+QSO:    50 CW 2022-04-10 0953 G3RLE         599 6 IO83VO OL      G4AON/P       529 15 IO93QV YO
+QSO:    50 PH 2022-04-10 1028 G3RLE         59 7 IO83VO OL       G4FZN/P       59 38 IO94JF YO
+QSO:    50 PH 2022-04-10 1040 G3RLE         59 8 IO83VO OL       GW0RHC        59 30 IO71UN SA
+QSO:    50 PH 2022-04-10 1043 G3RLE         59 9 IO83VO OL       GW4EVX        59 9 IO83KE CH
+QSO:    50 PH 2022-04-10 1044 G3RLE         59 10 IO83VO OL      2E0OUT        59 18 IO81WO SN
+QSO:    50 PH 2022-04-10 1049 G3RLE         59 11 IO83VO OL      G0ODQ         59 35 IO91MR OX
+QSO:    50 PH 2022-04-10 1058 G3RLE         59 12 IO83VO OL      G0LGS/P       57 35 IO81WU GL
+QSO:    50 PH 2022-04-10 1100 G3RLE         59 13 IO83VO OL      G4ASR         59 57 IO81MX HR
+END-OF-LOG:

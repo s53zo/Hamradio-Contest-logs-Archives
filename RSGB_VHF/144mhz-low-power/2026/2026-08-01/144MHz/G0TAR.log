@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: G0TAR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01GI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1726; excluded rows=2.
+QSO:   144 PH 2026-08-01 1447 G0TAR         55 1 JO01GI ME       G7LRQ         55 21 JO03BC PE
+QSO:   144 PH 2026-08-01 1449 G0TAR         58 2 JO01GI ME       G8BGV         58 12 JO01FQ CM
+QSO:   144 PH 2026-08-01 1456 G0TAR         59 3 JO01GI ME       F8KGU         59 50 JN19BQ
+QSO:   144 PH 2026-08-01 1500 G0TAR         58 4 JO01GI ME       G4GFI         58 27 JO01BB TN
+END-OF-LOG:

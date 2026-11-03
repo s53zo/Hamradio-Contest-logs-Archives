@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: M0GXZ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=190402&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=297; excluded rows=0.
+QSO:   144 DG 2019-04-02 1822 M0GXZ         -05 IO92             GI4SNA        -09 IO64
+QSO:   144 DG 2019-04-02 1839 M0GXZ         -15 IO92             M0BEW         -14 IO82
+QSO:   144 DG 2019-04-02 1840 M0GXZ         -01 IO92             EI3KD         -11 IO51
+QSO:   144 DG 2019-04-02 1846 M0GXZ         +10 IO92             G3ZNU         +03 IO91
+QSO:   144 DG 2019-04-02 1852 M0GXZ         -15 IO92             G4HGV         -09 IO91
+QSO:   144 DG 2019-04-02 1854 M0GXZ         +01 IO92             M0ZPU         -05 IO92
+END-OF-LOG:

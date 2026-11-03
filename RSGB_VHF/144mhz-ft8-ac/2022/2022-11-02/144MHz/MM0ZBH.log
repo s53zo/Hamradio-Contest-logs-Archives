@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: MM0ZBH
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO86
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=221102&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=832; excluded rows=0.
+QSO:   144 DG 2022-11-02 1903 MM0ZBH        +25 IO86             GM8MJV        +28 IO85
+QSO:   144 DG 2022-11-02 1926 MM0ZBH        +13 IO86             GM8BJF        +34 IO85
+QSO:   144 DG 2022-11-02 1932 MM0ZBH        -11 IO86             GI6ATZ        -06 IO74
+QSO:   144 DG 2022-11-02 1943 MM0ZBH        -16 IO86             G4OED         -23 IO91
+QSO:   144 DG 2022-11-02 1944 MM0ZBH        -10 IO86             G4VPD         -11 IO92
+QSO:   144 DG 2022-11-02 1945 MM0ZBH        -11 IO86             G3XBY         -04 IO92
+QSO:   144 DG 2022-11-02 2007 MM0ZBH        -11 IO86             G4EII         -11 IO83
+QSO:   144 DG 2022-11-02 2014 MM0ZBH        -11 IO86             G8EEM         +09 IO93
+QSO:   144 DG 2022-11-02 2015 MM0ZBH        -10 IO86             G7RDX         -09 IO91
+QSO:   144 DG 2022-11-02 2020 MM0ZBH        -13 IO86             M1TZR         -05 IO83
+QSO:   144 DG 2022-11-02 2031 MM0ZBH        -15 IO86             G4HGI         -23 IO83
+QSO:   144 DG 2022-11-02 2037 MM0ZBH        -05 IO86             G0XDI         -20 IO91
+END-OF-LOG:

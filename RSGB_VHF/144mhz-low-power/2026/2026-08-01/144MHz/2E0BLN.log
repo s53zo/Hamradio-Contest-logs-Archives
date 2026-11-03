@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: 2E0BLN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO94TF
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1726; excluded rows=2.
+QSO:   144 PH 2026-08-01 1414 2E0BLN        52 1 IO94TF YO       G5TO/P        57 6 IO93FL SD
+QSO:   144 PH 2026-08-01 1433 2E0BLN        57 2 IO94TF YO       GW1YBB/P      59 40 IO81KW NP
+QSO:   144 PH 2026-08-01 1442 2E0BLN        55 3 IO94TF YO       G4ASR         57 29 IO81MX HR
+QSO:   144 PH 2026-08-01 1527 2E0BLN        59 4 IO94TF YO       M7PAT/P       59 7 IO93FL SD
+END-OF-LOG:

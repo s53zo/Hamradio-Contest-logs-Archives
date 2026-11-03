@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-FMAC
+CALLSIGN: G8ZRE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83NE
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+FMAC&Date=180614&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=19; excluded rows=0.
+QSO:    50 FM 2018-06-14 1803 G8ZRE         59 1 IO83NE          GW8ASD        59 1 IO83LB
+QSO:    50 FM 2018-06-14 1804 G8ZRE         59 2 IO83NE          G4AQB         59 1 IO83TN
+QSO:    50 FM 2018-06-14 1840 G8ZRE         59 3 IO83NE          EA1HRR        59 2 IN83JJ
+END-OF-LOG:

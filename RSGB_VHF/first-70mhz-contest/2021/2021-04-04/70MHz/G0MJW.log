@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-70MHZ-CONTEST
+CALLSIGN: G0MJW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91IO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+70MHz+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1548; excluded rows=0.
+QSO:    70 PH 2021-04-04 1148 G0MJW         55 1 IO91IO          G3TCU/P       55 82 IO91RF
+QSO:    70 PH 2021-04-04 1148 G0MJW         59 2 IO91IO          M0UHF         59 21 IO91IP
+QSO:    70 PH 2021-04-04 1152 G0MJW         59 3 IO91IO          G8CUL         59 46 IO91JO
+QSO:    70 PH 2021-04-04 1153 G0MJW         59 4 IO91IO          G8DOH         57 49 IO92FA
+QSO:    70 PH 2021-04-04 1155 G0MJW         59 5 IO91IO          G6GEI/P       57 49 IO92RA
+END-OF-LOG:

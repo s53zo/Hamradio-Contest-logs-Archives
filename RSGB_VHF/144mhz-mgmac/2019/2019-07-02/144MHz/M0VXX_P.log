@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: M0VXX/P
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=190702&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=190; excluded rows=0.
+QSO:   144 DG 2019-07-02 1801 M0VXX/P       +16 IO82             G3YKI         +16 IO92
+QSO:   144 DG 2019-07-02 1804 M0VXX/P       +08 IO82             G0GJV         -04 IO91
+QSO:   144 DG 2019-07-02 1808 M0VXX/P       +05 IO82             GW1JFV        +08 IO71
+QSO:   144 DG 2019-07-02 1812 M0VXX/P       -14 IO82             EI2GLB        +00 IO63
+QSO:   144 DG 2019-07-02 1813 M0VXX/P       -19 IO82             M0XER         -15 IO92
+QSO:   144 DG 2019-07-02 1815 M0VXX/P       -04 IO82             G4NBS         +08 JO02
+QSO:   144 DG 2019-07-02 1816 M0VXX/P       +05 IO82             2E0SMX        +00 IO92
+QSO:   144 DG 2019-07-02 1818 M0VXX/P       +01 IO82             IK7SHC        +02 JN80
+QSO:   144 DG 2019-07-02 1824 M0VXX/P       -19 IO82             G7NUC         -10 IO80
+QSO:   144 DG 2019-07-02 1826 M0VXX/P       -13 IO82             G0LRD         -23 JO02
+QSO:   144 DG 2019-07-02 1830 M0VXX/P       +02 IO82             IK6DTB        +04 JN72
+QSO:   144 DG 2019-07-02 1831 M0VXX/P       +14 IO82             IW0FFK        -09 JN61
+QSO:   144 DG 2019-07-02 1831 M0VXX/P       +05 IO82             IK0FTA        -07 JN61
+QSO:   144 DG 2019-07-02 1833 M0VXX/P       -01 IO82             IK0XBX        +02 JN63
+QSO:   144 DG 2019-07-02 1838 M0VXX/P       +08 IO82             M1BXF         -05 JO02
+QSO:   144 DG 2019-07-02 2009 M0VXX/P       -12 IO82             PA3MET        -16 JO22
+END-OF-LOG:

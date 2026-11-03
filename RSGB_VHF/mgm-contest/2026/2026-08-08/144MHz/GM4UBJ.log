@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MGM-CONTEST
+CALLSIGN: GM4UBJ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=MGM+contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1886; excluded rows=0.
+QSO:   144 DG 2026-08-09 1312 GM4UBJ        +05 IO75             MM7JTE        -01 IO75
+QSO:   144 DG 2026-08-09 1315 GM4UBJ        -18 IO75             GM7PKT        +03 IO76
+QSO:   144 DG 2026-08-09 1318 GM4UBJ        +44 IO75             MM0CEZ        +18 IO75
+QSO:   144 DG 2026-08-09 1324 GM4UBJ        -10 IO75             GM8MJV        -08 IO85
+QSO:   144 DG 2026-08-09 1328 GM4UBJ        -16 IO75             G0HIK/P       -06 IO84
+QSO:   144 DG 2026-08-09 1354 GM4UBJ        +27 IO75             MM0JTV        +18 IO75
+END-OF-LOG:

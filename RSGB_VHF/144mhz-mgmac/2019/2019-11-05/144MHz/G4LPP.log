@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: G4LPP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO02
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=191105&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=203; excluded rows=0.
+QSO:   144 DG 2019-11-05 1911 G4LPP         +12 JO02             G3PXT         +02 JO02
+QSO:   144 DG 2019-11-05 1913 G4LPP         +00 JO02             GI6ATZ        -08 IO74
+QSO:   144 DG 2019-11-05 1919 G4LPP         +10 JO02             G8EEM         -02 IO93
+QSO:   144 DG 2019-11-05 1921 G4LPP         -08 JO02             G8FEK         -20 IO93
+QSO:   144 DG 2019-11-05 1926 G4LPP         -08 JO02             M6VUK         -15 IO93
+QSO:   144 DG 2019-11-05 1927 G4LPP         -12 JO02             G0LRD         -17 JO02
+QSO:   144 DG 2019-11-05 1929 G4LPP         -07 JO02             G0JEI         -10 IO93
+QSO:   144 DG 2019-11-05 1935 G4LPP         +01 JO02             G3YDY         -09 JO01
+QSO:   144 DG 2019-11-05 1938 G4LPP         +07 JO02             PA2MD         -06 JO22
+QSO:   144 DG 2019-11-05 1942 G4LPP         -11 JO02             G0GJV         -12 IO91
+QSO:   144 DG 2019-11-05 1946 G4LPP         -05 JO02             M0CKM         -12 IO90
+QSO:   144 DG 2019-11-05 1954 G4LPP         57 JO02              G3YKI         55 IO92
+END-OF-LOG:

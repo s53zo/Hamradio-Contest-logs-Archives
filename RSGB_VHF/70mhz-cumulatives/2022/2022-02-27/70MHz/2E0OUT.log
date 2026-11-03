@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: 2E0OUT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO81WO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=220227&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=368; excluded rows=0.
+QSO:    70 PH 2022-02-27 1000 2E0OUT        59 1 IO81WO          G3TCU/P       59 3 IO91RF
+QSO:    70 PH 2022-02-27 1010 2E0OUT        59 2 IO81WO          G3TKF         59 6 IO81RI
+QSO:    70 PH 2022-02-27 1027 2E0OUT        57 3 IO81WO          G3TCT         57 10 IO81QC
+QSO:    70 PH 2022-02-27 1033 2E0OUT        59 4 IO81WO          G4SJH/P       58 13 IO91PF
+QSO:    70 PH 2022-02-27 1034 2E0OUT        59 5 IO81WO          M0UHF         59 6 IO91IP
+QSO:    70 PH 2022-02-27 1041 2E0OUT        55 6 IO81WO          G4RFR         55 19 IO90AS
+QSO:    70 PH 2022-02-27 1046 2E0OUT        55 7 IO81WO          GW8ASD        54 13 IO83LB
+QSO:    70 PH 2022-02-27 1054 2E0OUT        55 8 IO81WO          G1HLT         53 9 IO93JD
+QSO:    70 PH 2022-02-27 1100 2E0OUT        55 9 IO81WO          M0BAO/P       55 16 IO80LV
+QSO:    70 PH 2022-02-27 1107 2E0OUT        59 10 IO81WO         G0SKA         57 16 IO91OQ
+QSO:    70 PH 2022-02-27 1113 2E0OUT        53 11 IO81WO         G4ODA         55 12 IO92WS
+QSO:    70 PH 2022-02-27 1118 2E0OUT        57 12 IO81WO         G4LPP         56 11 JO02SS
+QSO:    70 PH 2022-02-27 1136 2E0OUT        59 13 IO81WO         G4ELI         58 8 IO70KC
+QSO:    70 PH 2022-02-27 1144 2E0OUT        55 14 IO81WO         G1PPA/P       53 21 IO93RI
+QSO:    70 PH 2022-02-27 1148 2E0OUT        55 15 IO81WO         G4CIZ         55 21 IO91FG
+END-OF-LOG:

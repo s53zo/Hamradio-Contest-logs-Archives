@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8DIR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82MP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=260303&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9263; excluded rows=4.
+QSO:   144 PH 2026-03-03 2001 G8DIR         59 1 IO82MP          GD8EXI        57 2 IO74PC
+QSO:   144 PH 2026-03-03 2002 G8DIR         59 2 IO82MP          GW4SHF        59 1 IO82HP
+QSO:   144 PH 2026-03-03 2004 G8DIR         59 3 IO82MP          G8ZRE         59 3 IO83NE
+QSO:   144 PH 2026-03-03 2005 G8DIR         57 4 IO82MP          G4JLG         58 3 IO83TM
+QSO:   144 PH 2026-03-03 2006 G8DIR         59 5 IO82MP          M1MLM/P       59 8 IO83AD
+QSO:   144 PH 2026-03-03 2019 G8DIR         59 6 IO82MP          M1EYP/P       59 12 IO83WE
+QSO:   144 PH 2026-03-03 2020 G8DIR         57 7 IO82MP          M8VCC/P       59 31 IO70SP
+QSO:   144 PH 2026-03-03 2021 G8DIR         59 8 IO82MP          G1YBB/P       59 32 IO82LB
+QSO:   144 PH 2026-03-03 2022 G8DIR         59 9 IO82MP          GI4SNA        59 24 IO64XM
+QSO:   144 PH 2026-03-03 2027 G8DIR         55 10 IO82MP         GM4DIJ/P      55 16 IO74MU
+QSO:   144 PH 2026-03-03 2030 G8DIR         57 11 IO82MP         MD0MAN/P      57 29 IO74SE
+QSO:   144 PH 2026-03-03 2032 G8DIR         59 12 IO82MP         GM3SEK        59 48 IO74SR
+QSO:   144 PH 2026-03-03 2035 G8DIR         59 13 IO82MP         G7RIS/P       59 48 IO93DB
+QSO:   144 PH 2026-03-03 2043 G8DIR         57 14 IO82MP         G3NFC/P       59 41 IO92EQ
+QSO:   144 PH 2026-03-03 2048 G8DIR         59 15 IO82MP         G7HAH         59 21 IO93NN
+QSO:   144 PH 2026-03-03 2057 G8DIR         59 16 IO82MP         G4CLA         59 113 IO92JL
+END-OF-LOG:

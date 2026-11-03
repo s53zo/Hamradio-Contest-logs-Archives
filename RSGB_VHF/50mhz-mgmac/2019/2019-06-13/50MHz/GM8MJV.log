@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: GM8MJV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO85
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190613&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=101; excluded rows=0.
+QSO:    50 DG 2019-06-13 1823 GM8MJV        -01 IO85             EA1RX         -15 IN52OC
+QSO:    50 DG 2019-06-13 1824 GM8MJV        -10 IO85             G4PWA         -11 IO81
+QSO:    50 DG 2019-06-13 1829 GM8MJV        +09 IO85             EA1QS         -11 IN52QK
+QSO:    50 DG 2019-06-13 1832 GM8MJV        +02 IO85             EA8PT         -05 IL38DV
+QSO:    50 DG 2019-06-13 1835 GM8MJV        -04 IO85             EA1JS         -24 IN51OX
+QSO:    50 DG 2019-06-13 1852 GM8MJV        -05 IO85             G4OBK         -10 IO94
+END-OF-LOG:

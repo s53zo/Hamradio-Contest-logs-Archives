@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO80LR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=260820&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2155; excluded rows=1.
+QSO:    70 PH 2026-08-20 1903 G3USE         59 1 IO80LR          G3TKF         59 5 IO81RI
+QSO:    70 CW 2026-08-20 1916 G3USE         559 2 IO80LR         G4CLA         559 21 IO92JL
+QSO:    70 PH 2026-08-20 1919 G3USE         55 3 IO80LR          G8DMN/P       59 6 IO81RF
+END-OF-LOG:

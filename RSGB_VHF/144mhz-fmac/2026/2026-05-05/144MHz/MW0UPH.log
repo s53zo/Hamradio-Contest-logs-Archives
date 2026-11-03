@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: MW0UPH
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82CV
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=260505&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=594; excluded rows=0.
+QSO:   144 FM 2026-05-05 1800 MW0UPH        59 1 IO82CV          G0XBU/P       59 1 IO83XO
+QSO:   144 FM 2026-05-05 1803 MW0UPH        59 2 IO82CV          GW3ATZ/P      59 5 IO83LC
+QSO:   144 FM 2026-05-05 1807 MW0UPH        55 3 IO82CV          MW1DDD/P      55 5 IO73UJ
+QSO:   144 FM 2026-05-05 1834 MW0UPH        55 4 IO82CV          GW7DND        59 3 IO82KN
+QSO:   144 FM 2026-05-05 1843 MW0UPH        59 5 IO82CV          G1JJA         59 10 IO92AH
+QSO:   144 FM 2026-05-05 1849 MW0UPH        57 6 IO82CV          M1EYP/P       57 26 IO83XD
+QSO:   144 FM 2026-05-05 1854 MW0UPH        59 7 IO82CV          M7OTJ/P       59 25 IO83WE
+END-OF-LOG:

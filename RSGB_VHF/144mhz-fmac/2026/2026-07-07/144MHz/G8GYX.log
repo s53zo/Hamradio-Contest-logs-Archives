@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G8GYX
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91VH
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=260707&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=722; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   144 FM 2026-07-07 1810 G8GYX         59 1 IO91VH          2E0DGP/P      59 15 IO83RO
+QSO:   144 FM 2026-07-07 1814 G8GYX         59 2 IO91VH          G0XDI         59 1 IO91RP
+QSO:   144 FM 2026-07-07 1819 G8GYX         58 3 IO91VH          G0OIW/P       58 8 IO91LO
+QSO:   144 FM 2026-07-07 1821 G8GYX         59 4 IO91VH          M0UHF         59 2 IO91IP
+QSO:   144 FM 2026-07-07 1832 G8GYX         59 5 IO91VH          MW1EYP/P      57 27 IO83JD
+QSO:   144 FM 2026-07-07 1836 G8GYX         59 6 IO91VH          G7LII/P       59 4 IO92KF
+QSO:   144 FM 2026-07-07 1838 G8GYX         59 7 IO91VH          GI4SNA        59 1 IO64XM
+QSO:   144 FM 2026-07-07 1843 G8GYX         55 8 IO91VH          G8ZRE         52 18 IO83NE
+QSO:   144 FM 2026-07-07 1845 G8GYX         59 9 IO91VH          M7OTJ/P       59 19 IO83WE
+QSO:   144 FM 2026-07-07 1848 G8GYX         59 10 IO91VH         M0BAO/P       59 24 IO80LV
+QSO:   144 FM 2026-07-07 1849 G8GYX         59 11 IO91VH         G4LOH         59 1 IO70JC
+END-OF-LOG:

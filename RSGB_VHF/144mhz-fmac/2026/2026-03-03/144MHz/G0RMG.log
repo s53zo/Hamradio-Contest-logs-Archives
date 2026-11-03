@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G0RMG
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO91AW
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=260303&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=644; excluded rows=0.
+QSO:   144 FM 2026-03-03 1901 G0RMG         59 1 IO91AW          G8JAY         59 1 IO81WV
+QSO:   144 FM 2026-03-03 1902 G0RMG         57 2 IO91AW          M9VGP         59 1 IO91BO
+QSO:   144 FM 2026-03-03 1903 G0RMG         59 3 IO91AW          G0PLA/P       59 2 IO92BH
+QSO:   144 FM 2026-03-03 1904 G0RMG         59 4 IO91AW          G0ORE         59 3 IO92AG
+QSO:   144 FM 2026-03-03 1910 G0RMG         59 5 IO91AW          G4HGV         59 2 IO91CO
+QSO:   144 FM 2026-03-03 1914 G0RMG         59 6 IO91AW          G0LGS         59 3 IO81WV
+QSO:   144 FM 2026-03-03 1915 G0RMG         59 7 IO91AW          G1JJA         59 1 IO92AH
+QSO:   144 FM 2026-03-03 1919 G0RMG         59 8 IO91AW          G1YBB/P       59 4 IO82LB
+QSO:   144 FM 2026-03-03 1923 G0RMG         59 9 IO91AW          G4ILI/P       59 14 IO81WU
+QSO:   144 FM 2026-03-03 1931 G0RMG         59 10 IO91AW         G1VRJ         59 1 IO91CO
+QSO:   144 FM 2026-03-03 1932 G0RMG         59 11 IO91AW         G8GYX         59 3 IO91VH
+QSO:   144 FM 2026-03-03 1954 G0RMG         57 12 IO91AW         G0DLO         44 3 IO92AH
+END-OF-LOG:

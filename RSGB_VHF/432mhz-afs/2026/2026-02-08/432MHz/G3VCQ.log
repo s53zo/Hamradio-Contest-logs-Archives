@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G3VCQ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93GH
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3704; excluded rows=1.
+QSO:   432 PH 2026-02-08 1132 G3VCQ         59 1 IO93GH          G4BWP         59 61 JO02FH
+QSO:   432 PH 2026-02-08 1136 G3VCQ         59 2 IO93GH          G3SQQ         59 45 IO93JC
+QSO:   432 PH 2026-02-08 1137 G3VCQ         59 3 IO93GH          G5TO          59 39 IO93GG
+QSO:   432 PH 2026-02-08 1137 G3VCQ         59 4 IO93GH          G3XDY         59 59 JO02OB
+QSO:   432 PH 2026-02-08 1140 G3VCQ         59 5 IO93GH          G1HLT         59 40 IO93JD
+QSO:   432 PH 2026-02-08 1141 G3VCQ         59 6 IO93GH          M5ADF         59 22 IO93ID
+QSO:   432 CW 2026-02-08 1203 G3VCQ         599 7 IO93GH         G4CWH/P       559 72 IO92XA
+QSO:   432 PH 2026-02-08 1223 G3VCQ         55 8 IO93GH          G4CLA         55 106 IO92JL
+QSO:   432 PH 2026-02-08 1232 G3VCQ         59 9 IO93GH          G6UW          59 65 JO02AF
+QSO:   432 PH 2026-02-08 1240 G3VCQ         59 10 IO93GH         G6DDN         59 18 IO93BS
+QSO:   432 CW 2026-02-08 1255 G3VCQ         599 11 IO93GH        G4RGK         599 62 IO91NO
+END-OF-LOG:

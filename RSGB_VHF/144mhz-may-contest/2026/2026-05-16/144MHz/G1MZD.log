@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G1MZD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92NB
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4133; excluded rows=1.
+QSO:   144 PH 2026-05-16 1411 G1MZD         59 1 IO92NB NN       G8DOH         59 6 IO92FA OX
+QSO:   144 PH 2026-05-16 1608 G1MZD         58 2 IO92NB NN       M4W           59 34 IO91CL SN
+QSO:   144 PH 2026-05-17 0948 G1MZD         57 3 IO92NB NN       M0UHF         59 52 IO91IP OX
+QSO:   144 PH 2026-05-17 1001 G1MZD         57 4 IO92NB NN       G4CZB/P       57 2 IO92KG NN
+QSO:   144 PH 2026-05-17 1005 G1MZD         57 5 IO92NB NN       G7LII/P       59 5 IO92KF NN
+QSO:   144 PH 2026-05-17 1100 G1MZD         56 6 IO92NB NN       G4ODA         59 143 IO92WS PE
+END-OF-LOG:

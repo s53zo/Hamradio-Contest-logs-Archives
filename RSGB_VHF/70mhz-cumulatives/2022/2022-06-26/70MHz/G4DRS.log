@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4DRS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO80UQ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=220626&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=402; excluded rows=0.
+QSO:    70 PH 2022-06-26 1433 G4DRS         59 1 IO80UQ          G4RFR         59 9 IO90AS
+QSO:    70 PH 2022-06-26 1435 G4DRS         54 2 IO80UQ          G3TCT         54 16 IO81QC
+QSO:    70 PH 2022-06-26 1438 G4DRS         57 3 IO80UQ          G3TCU/P       57 26 IO91GI
+QSO:    70 PH 2022-06-26 1439 G4DRS         59 4 IO80UQ          G3TKF         59 3 IO81RI
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: GW4JQP
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO71KR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=40; excluded rows=9.
+QSO:   10G CW 2026-05-02 1432 GW4JQP        539 1 IO71KR         G4YTL         539 1 IO92MB
+QSO:   10G CW 2026-05-02 1438 GW4JQP        599 2 IO71KR         GW4MBS        599 1 IO71XW
+QSO:   10G PH 2026-05-02 1632 GW4JQP        59 3 IO71KR          G4UVZ         59 2 IO80KX
+QSO:   10G PH 2026-05-02 1655 GW4JQP        59 4 IO71KR          MW0CXH        57 1 IO71VQ
+END-OF-LOG:

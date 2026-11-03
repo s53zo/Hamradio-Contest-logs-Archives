@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-FMAC
+CALLSIGN: G8DLX
+CATEGORY-MODE: FM
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92II
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+FMAC&Date=180315&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=112; excluded rows=0.
+QSO:    70 FM 2018-03-15 1903 G8DLX         42 1 IO92II          M0RKX/P       51 1 IO92BA
+QSO:    70 FM 2018-03-15 1910 G8DLX         56 2 IO92II          G3TQF         58 1 IO92JJ
+QSO:    70 FM 2018-03-15 1912 G8DLX         59 3 IO92II          G1EBW         59 1 IO92II
+QSO:    70 FM 2018-03-15 1917 G8DLX         58 4 IO92II          2E0UAC        58 3 IO92FJ
+QSO:    70 FM 2018-03-15 1928 G8DLX         59 5 IO92II          M0IJS         59 1 IO92II
+END-OF-LOG:

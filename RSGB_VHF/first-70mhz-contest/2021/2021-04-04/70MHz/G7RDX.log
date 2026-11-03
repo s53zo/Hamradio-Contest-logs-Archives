@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-70MHZ-CONTEST
+CALLSIGN: G7RDX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91NT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+70MHz+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1548; excluded rows=0.
+QSO:    70 PH 2021-04-04 0920 G7RDX         59 1 IO91NT          G6GEI/P       59 13 IO92RA
+QSO:    70 PH 2021-04-04 0924 G7RDX         59 2 IO91NT          G3MEH         59 19 IO91QS
+QSO:    70 PH 2021-04-04 0926 G7RDX         59 3 IO91NT          G3NPI         59 20 IO92MA
+QSO:    70 PH 2021-04-04 0929 G7RDX         59 4 IO91NT          G0ODQ         59 26 IO91MR
+QSO:    70 PH 2021-04-04 0938 G7RDX         57 5 IO91NT          G8LED/P       57 24 IO92LH
+END-OF-LOG:

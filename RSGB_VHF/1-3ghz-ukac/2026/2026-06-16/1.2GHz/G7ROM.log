@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G7ROM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO83SO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=260616&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2369; excluded rows=1.
+QSO:  1.2G PH 2026-06-16 1902 G7ROM         59 1 IO83SO          G1CXE/M       59 3 IO83XJ
+QSO:  1.2G PH 2026-06-16 1910 G7ROM         59 2 IO83SO          G0IMB         59 3 IO83UK
+QSO:  1.2G PH 2026-06-16 1912 G7ROM         59 3 IO83SO          G6GVI         59 6 IO83SN
+QSO:  1.2G PH 2026-06-16 1927 G7ROM         55 4 IO83SO          G9TDH         57 6 IO83WI
+QSO:  1.2G PH 2026-06-16 1935 G7ROM         55 5 IO83SO          G4NTY         55 11 IO83TM
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0ORE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92AG
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=260310&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4221; excluded rows=1.
+QSO:   432 PH 2026-03-10 2011 G0ORE         51 1 IO92AG          G0RMG         41 1 IO91AW
+QSO:   432 PH 2026-03-10 2013 G0ORE         59 2 IO92AG          G1JJA         59 4 IO92AH
+QSO:   432 PH 2026-03-10 2043 G0ORE         51 3 IO92AG          G4HWA         55 34 IO92ME
+QSO:   432 PH 2026-03-10 2058 G0ORE         55 4 IO92AG          G0NZI/P       53 2 IO92FM
+QSO:   432 PH 2026-03-10 2135 G0ORE         59 5 IO92AG          G0FEH/P       59 39 IO92HD
+QSO:   432 PH 2026-03-10 2142 G0ORE         55 6 IO92AG          G4KQH         56 44 IO92JD
+END-OF-LOG:

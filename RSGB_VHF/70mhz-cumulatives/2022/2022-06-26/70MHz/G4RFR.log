@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4RFR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO90AS
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=220626&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=402; excluded rows=0.
+QSO:    70 PH 2022-06-26 1401 G4RFR         55 1 IO90AS          M0BAO/P       55 1 IO80LV
+QSO:    70 PH 2022-06-26 1403 G4RFR         59 2 IO90AS          G4CIZ         59 3 IO91FG
+QSO:    70 PH 2022-06-26 1405 G4RFR         55 3 IO90AS          G0SKA         55 5 IO91OQ
+QSO:    70 PH 2022-06-26 1408 G4RFR         53 4 IO90AS          G4LPP         53 6 JO02SS
+QSO:    70 PH 2022-06-26 1410 G4RFR         59 5 IO90AS          G0ORG         59 5 JO02LB
+QSO:    70 PH 2022-06-26 1415 G4RFR         51 6 IO90AS          G0LGS/P       53 6 IO91AU
+QSO:    70 PH 2022-06-26 1417 G4RFR         59 7 IO90AS          G4GFI         54 5 IO91VH
+QSO:    70 PH 2022-06-26 1418 G4RFR         59 8 IO90AS          G3TCU/P       59 16 IO91GI
+QSO:    70 PH 2022-06-26 1429 G4RFR         59 9 IO90AS          G4DRS         59 1 IO80UQ
+QSO:    70 PH 2022-06-26 1441 G4RFR         59 11 IO90AS         G3TKF         59 5 IO81RI
+QSO:    70 PH 2022-06-26 1442 G4RFR         55 12 IO90AS         M0UHF         55 12 IO91IP
+QSO:    70 PH 2022-06-26 1447 G4RFR         59 13 IO90AS         G3TCT         59 21 IO81QC
+QSO:    70 PH 2022-06-26 1448 G4RFR         55 14 IO90AS         G8FMC/P       56 11 IO91MX
+QSO:    70 PH 2022-06-26 1451 G4RFR         53 15 IO90AS         G1KAR/P       53 9 JO00DR
+QSO:    70 PH 2022-06-26 1506 G4RFR         59 16 IO90AS         G6AKG         59 1 IO80XR
+QSO:    70 PH 2022-06-26 1513 G4RFR         51 17 IO90AS         G3ZNH         55 1 IO81VE
+QSO:    70 PH 2022-06-26 1516 G4RFR         51 18 IO90AS         G4HTZ         55 2 JO01JN
+QSO:    70 PH 2022-06-26 1527 G4RFR         51 19 IO90AS         GI4SNA        51 16 IO64XM
+QSO:    70 PH 2022-06-26 1544 G4RFR         59 20 IO90AS         G4WEY         59 1 IO90AS
+QSO:    70 PH 2022-06-26 1545 G4RFR         59 21 IO90AS         G8BFV         57 5 IO81QE
+END-OF-LOG:

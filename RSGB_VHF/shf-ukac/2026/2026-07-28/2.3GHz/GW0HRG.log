@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: GW0HRG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO83JF
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=260728&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=467; excluded rows=0.
+QSO:  2.3G PH 2026-07-28 1831 GW0HRG        59 1 IO83JF          G8REQ         59 2 IO83KI
+QSO:  2.3G PH 2026-07-28 1837 GW0HRG        59 2 IO83JF          GW0CDA/P      59 1 IO82KW
+QSO:  2.3G PH 2026-07-28 1850 GW0HRG        57 3 IO83JF          G4ODA         57 2 IO92WS
+QSO:  2.3G PH 2026-07-28 1908 GW0HRG        55 4 IO83JF          G4CLA         55 13 IO92JL
+QSO:  2.3G PH 2026-07-28 1930 GW0HRG        52 5 IO83JF          G6HPR/P       51 11 IO92MO
+QSO:  2.3G PH 2026-07-28 1933 GW0HRG        55 6 IO83JF          G4JLG         57 2 IO83TM
+QSO:  2.3G PH 2026-07-28 1944 GW0HRG        59 7 IO83JF          G8ZLU         59 4 IO83LB
+QSO:  2.3G PH 2026-07-28 2034 GW0HRG        57 8 IO83JF          GW8ASD        57 4 IO83LB
+END-OF-LOG:

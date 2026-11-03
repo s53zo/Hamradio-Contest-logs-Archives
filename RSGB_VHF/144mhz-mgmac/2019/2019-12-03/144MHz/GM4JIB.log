@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: GM4JIB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=191203&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=341; excluded rows=0.
+QSO:   144 DG 2019-12-03 1909 GM4JIB        4 IO85               G8EKG         -16 IO92ES
+QSO:   144 DG 2019-12-03 1927 GM4JIB        57 IO85              GD6ICR        54 IO74PF
+QSO:   144 DG 2019-12-03 1933 GM4JIB        56 IO85              GM8MJV        54 IO85MU
+QSO:   144 DG 2019-12-03 1940 GM4JIB        58 IO85              GM0EWX        56 IO67UL
+QSO:   144 DG 2019-12-03 1949 GM4JIB        55 IO85              GM4VVX        54 IO78TA
+END-OF-LOG:

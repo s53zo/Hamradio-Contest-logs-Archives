@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: G4XZL
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO90IU
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=164; excluded rows=0.
+QSO:    50 CW 2026-06-28 0903 G4XZL         599 1 IO90IU         G3TBK/P       599 2 IO93RA
+QSO:    50 CW 2026-06-28 0905 G4XZL         599 2 IO90IU         G3TCU/P       599 3 IO91GI
+QSO:    50 CW 2026-06-28 0921 G4XZL         559 3 IO90IU         G4LPP         599 7 JO02SS
+QSO:    50 CW 2026-06-28 0937 G4XZL         529 4 IO90IU         G4CZB         559 6 IO92MF
+QSO:    50 CW 2026-06-28 0946 G4XZL         599 5 IO90IU         GU3TUX        579 5 IN89VR
+QSO:    50 CW 2026-06-28 1020 G4XZL         599 6 IO90IU         EA6BF         599 0 JM08PW
+QSO:    50 CW 2026-06-28 1026 G4XZL         599 7 IO90IU         EA6BB         599 5 JM19IO
+END-OF-LOG:

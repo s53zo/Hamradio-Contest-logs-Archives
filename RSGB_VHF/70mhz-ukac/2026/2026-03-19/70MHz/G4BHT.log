@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G4BHT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92RG
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=260319&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2986; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    70 PH 2026-03-19 2000 G4BHT         59 1 IO92RG          G7LII/P       59 1 IO92KF
+QSO:    70 PH 2026-03-19 2003 G4BHT         59 2 IO92RG          G4FZN/P       59 10 IO94JF
+QSO:    70 PH 2026-03-19 2014 G4BHT         59 3 IO92RG          G0FEH/P       57 45 IO92HD
+QSO:    70 PH 2026-03-19 2109 G4BHT         58 5 IO92RG          G3SQQ         59 41 IO93JC
+QSO:    70 PH 2026-03-19 2112 G4BHT         55 6 IO92RG          G0ODQ         59 48 IO91MR
+QSO:    70 PH 2026-03-19 2114 G4BHT         59 7 IO92RG          G4CLA         59 84 IO92JL
+END-OF-LOG:

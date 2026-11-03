@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: GM4BYF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85JV
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1950; excluded rows=2.
+QSO:   144 PH 2026-07-04 1628 GM4BYF        51 1 IO85JV          G5LK/P        57 146 JO01OD
+QSO:   144 PH 2026-07-04 1734 GM4BYF        56 2 IO85JV          G3PYE/P       59 56 JO02CE
+QSO:   144 PH 2026-07-04 1751 GM4BYF        59 3 IO85JV          G6WCG/P       59 66 IO93AD
+QSO:   144 CW 2026-07-05 0853 GM4BYF        519 4 IO85JV         G2BQY/P       559 124 IO81RF
+QSO:   144 PH 2026-07-05 0908 GM4BYF        51 5 IO85JV          G3MDG/P       54 62 IO91QS
+QSO:   144 PH 2026-07-05 0917 GM4BYF        59 6 IO85JV          G4ZAP/P       59 431 JO01PU
+QSO:   144 PH 2026-07-05 0939 GM4BYF        53 7 IO85JV          F8KGU         59 59 JN19BQ
+QSO:   144 PH 2026-07-05 1146 GM4BYF        55 8 IO85JV          GM4DIJ/P      55 62 IO74MU
+QSO:   144 PH 2026-07-05 1149 GM4BYF        54 9 IO85JV          G3SRT/P       59 152 IO82KV
+QSO:   144 PH 2026-07-05 1153 GM4BYF        59 10 IO85JV         M0NFD/P       59 139 IO94MJ
+QSO:   144 PH 2026-07-05 1159 GM4BYF        59 11 IO85JV         G6IPU/P       59 483 JO02QV
+QSO:   144 PH 2026-07-05 1204 GM4BYF        59 12 IO85JV         M0BAA         59 570 JO01NC
+END-OF-LOG:

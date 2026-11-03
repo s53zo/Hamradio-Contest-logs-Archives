@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4LBH/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91SW
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=260303&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9263; excluded rows=4.
+QSO:   144 PH 2026-03-03 2008 G4LBH/P       57 1 IO91SW          G4CLA         59 26 IO92JL
+QSO:   144 PH 2026-03-03 2023 G4LBH/P       58 2 IO91SW          M0NVS/P       57 18 IO91RR
+QSO:   144 PH 2026-03-03 2028 G4LBH/P       54 3 IO91SW          G7LRQ         55 35 JO03BC
+QSO:   144 PH 2026-03-03 2038 G4LBH/P       59 4 IO91SW          G0XDI         57 40 IO91RP
+QSO:   144 PH 2026-03-03 2046 G4LBH/P       57 5 IO91SW          G0SKA         56 36 IO91OQ
+END-OF-LOG:

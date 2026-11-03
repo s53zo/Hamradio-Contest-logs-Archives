@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC
+CALLSIGN: M0NYY
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220209&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=864; excluded rows=0.
+QSO:   432 DG 2022-02-09 1910 M0NYY         +13 IO91             M7APR         +14 IO91
+QSO:   432 DG 2022-02-09 1912 M0NYY         -03 IO91             2E0IEI        -14 IO81
+QSO:   432 DG 2022-02-09 1915 M0NYY         +03 IO91             G4OED         -02 IO91
+QSO:   432 DG 2022-02-09 1917 M0NYY         +05 IO91             M0IEP         +07 IO91
+QSO:   432 DG 2022-02-09 1920 M0NYY         +28 IO91             M0AHN         +29 IO91
+QSO:   432 DG 2022-02-09 1926 M0NYY         -18 IO91             G8GNI         -11 IO91
+END-OF-LOG:

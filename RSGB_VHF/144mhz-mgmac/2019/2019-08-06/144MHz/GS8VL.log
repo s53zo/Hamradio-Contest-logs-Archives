@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: GS8VL
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO78
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=190806&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=168; excluded rows=0.
+QSO:   144 DG 2019-08-06 1803 GS8VL         +04 IO78             GM4GUF        -03 IO85
+QSO:   144 DG 2019-08-06 1804 GS8VL         -09 IO78             GM7PKT        -02 IO76
+QSO:   144 DG 2019-08-06 1817 GS8VL         +04 IO78             GM4VVX        56 IO78
+QSO:   144 DG 2019-08-06 1818 GS8VL         +10 IO78             GM8MJV        +06 IO85
+QSO:   144 DG 2019-08-06 1826 GS8VL         -17 IO78             GM4PMK        -14 IO66
+QSO:   144 DG 2019-08-06 1831 GS8VL         -07 IO78             GM7KIM        -11 IO85
+QSO:   144 DG 2019-08-06 1834 GS8VL         +07 IO78             GI0OTC        +01 IO65
+QSO:   144 DG 2019-08-06 1839 GS8VL         +01 IO78             GM4OAS        +00 IO76
+QSO:   144 DG 2019-08-06 1852 GS8VL         -15 IO78             2M0TNM        -13 IO67
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CHRISTMAS-CONTEST
+CALLSIGN: M7TPE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81PV
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Christmas+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2855; excluded rows=1.
+QSO:   144 PH 2025-12-29 1504 M7TPE         55 1 IO81PV          GW4SHF        53 5 IO82HP
+QSO:   144 PH 2025-12-29 1508 M7TPE         52 2 IO81PV          GD8EXI        55 13 IO74PC
+QSO:   144 PH 2025-12-29 1517 M7TPE         53 3 IO81PV          G4CLA         54 40 IO92JL
+QSO:   144 PH 2025-12-29 1519 M7TPE         52 4 IO81PV          G5STE/P       41 7 IO92BK
+QSO:   144 PH 2025-12-29 1525 M7TPE         51 5 IO81PV          G4EPA         53 13 IO92KI
+END-OF-LOG:

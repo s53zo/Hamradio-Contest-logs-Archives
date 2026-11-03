@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1ST-MGM-CONTEST
+CALLSIGN: G3OVH
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1st+MGM+contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=710; excluded rows=0.
+QSO:    50 DG 2019-04-20 1420 G3OVH         18 IO92              M0VXX/P       6 IO82
+QSO:    50 DG 2019-04-20 1455 G3OVH         0 IO92               M5ET          -15 JO01
+QSO:    50 DG 2019-04-20 1521 G3OVH         -14 IO92             G4PDF         -15 IO93
+QSO:    50 DG 2019-04-20 1545 G3OVH         5 IO92               M0IEP         -8 IO91
+QSO:    50 DG 2019-04-20 1622 G3OVH         3 IO92               GI4SNA        1 IO64
+QSO:    50 DG 2019-04-20 1643 G3OVH         -11 IO92             MM0CEZ        -13 IO75
+QSO:    50 DG 2019-04-20 1647 G3OVH         -7 IO92              G0CER         -1 IO82
+QSO:    50 DG 2019-04-20 1654 G3OVH         -07 IO92             G0CER         -01 IO82
+QSO:    50 DG 2019-04-20 1712 G3OVH         +5 IO92              GD0TEP        -12 IO74
+QSO:    50 DG 2019-04-20 1749 G3OVH         -12 IO92             M0AHN         -12 IO91
+QSO:    50 DG 2019-04-20 1928 G3OVH         -13 IO92             G0LGS         -18 IO81
+END-OF-LOG:

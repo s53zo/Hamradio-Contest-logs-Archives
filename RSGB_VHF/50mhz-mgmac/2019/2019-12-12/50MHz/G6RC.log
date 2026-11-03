@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: G6RC
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=191212&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=46; excluded rows=0.
+QSO:    50 DG 2019-12-12 1900 G6RC          -07 IO91             G3ZNU         -04 IO91
+QSO:    50 DG 2019-12-12 1902 G6RC          +01 IO91             G3YDY         +06 JO01
+QSO:    50 DG 2019-12-12 1903 G6RC          -16 IO91             ON4FI         -07 JO20
+QSO:    50 DG 2019-12-12 1909 G6RC          -10 IO91             G8EEM         -09 IO93
+QSO:    50 DG 2019-12-12 1912 G6RC          -03 IO91             G4ASR         -07 IO81
+QSO:    50 DG 2019-12-12 1929 G6RC          -14 IO91             GI4SNA        -06 IO64
+END-OF-LOG:

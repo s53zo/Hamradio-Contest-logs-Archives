@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-2ND-MGM-CONTEST
+CALLSIGN: G0LRD
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=2nd+MGM+contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=174; excluded rows=0.
+QSO:    50 DG 2019-12-14 1430 G0LRD         -08 JO02             G8PMA         -20 IO92
+QSO:    50 DG 2019-12-14 1513 G0LRD         -05 JO02             G3YDY         -17 JO01
+QSO:    50 DG 2019-12-14 1549 G0LRD         -12 JO02             G8SEI         -12 IO92
+QSO:    50 DG 2019-12-14 2046 G0LRD         -17 JO02             M0AHN         -13 IO91
+QSO:    50 DG 2019-12-15 1202 G0LRD         +00 JO02             M0MVB         -13 JO02
+QSO:    50 DG 2019-12-15 1321 G0LRD         -01 JO02             CT7AFR        -13 IN51
+END-OF-LOG:

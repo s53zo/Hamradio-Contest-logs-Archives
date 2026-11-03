@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G3WRA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82PB
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=874; excluded rows=1.
+QSO:  1.2G PH 2026-10-03 1401 G3WRA         59 1 IO82PB          M1B           59 2 IO82LB
+QSO:  1.2G PH 2026-10-03 1403 G3WRA         59 2 IO82PB          G4ASR         59 2 IO81MX
+QSO:  1.2G PH 2026-10-03 1423 G3WRA         55 3 IO82PB          MW3L          55 9 IO82KL
+QSO:  1.2G PH 2026-10-03 1432 G3WRA         55 4 IO82PB          M1L           59 55 IO91AU
+QSO:  1.2G PH 2026-10-03 1454 G3WRA         53 5 IO82PB          M8L           57 7 IO81VR
+END-OF-LOG:

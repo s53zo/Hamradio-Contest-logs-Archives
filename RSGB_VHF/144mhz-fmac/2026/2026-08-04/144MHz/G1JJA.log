@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G1JJA
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92AH
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=260804&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=675; excluded rows=0.
+QSO:   144 FM 2026-08-04 1802 G1JJA         59 1 IO92AH          M7TPE/P       58 2 IO81RU
+QSO:   144 FM 2026-08-04 1804 G1JJA         59 2 IO92AH          G4ILI         59 3 IO81WV
+QSO:   144 FM 2026-08-04 1805 G1JJA         59 3 IO92AH          G0RMG/P       59 6 IO91AW
+QSO:   144 FM 2026-08-04 1809 G1JJA         59 4 IO92AH          G0LGS         59 5 IO81WV
+QSO:   144 FM 2026-08-04 1811 G1JJA         59 5 IO92AH          G0PLA/P       59 8 IO82XH
+QSO:   144 FM 2026-08-04 1814 G1JJA         59 6 IO92AH          M0TVZ         59 8 IO92DE
+QSO:   144 FM 2026-08-04 1822 G1JJA         59 7 IO92AH          M8MDJ         59 7 IO81WV
+QSO:   144 FM 2026-08-04 1822 G1JJA         59 8 IO92AH          G7AWP         59 5 IO91AW
+QSO:   144 FM 2026-08-04 1822 G1JJA         59 9 IO92AH          G8JAY         59 5 IO81WV
+QSO:   144 FM 2026-08-04 1842 G1JJA         59 10 IO92AH         G4WUH         59 5 IO81SX
+END-OF-LOG:

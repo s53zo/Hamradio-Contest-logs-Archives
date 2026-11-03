@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G4CXT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02RF
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=997; excluded rows=0.
+QSO:    50 PH 2026-07-04 1528 G4CXT         59 1 JO02RF          G3PYE/P       59 51 JO02CE
+QSO:    50 PH 2026-07-04 1532 G4CXT         59 2 JO02RF          G5LK/P        59 44 JO01QD
+QSO:    50 PH 2026-07-04 1535 G4CXT         59 3 JO02RF          G2BQY/P       57 56 IO81RF
+QSO:    50 PH 2026-07-04 1540 G4CXT         55 4 JO02RF          G8LED/P       57 32 IO92LH
+QSO:    50 PH 2026-07-04 1549 G4CXT         55 5 JO02RF          GW4CC         55 4 IO71UN
+QSO:    50 PH 2026-07-04 1551 G4CXT         55 6 JO02RF          G3ULT/P       55 17 IO91NL
+QSO:    50 PH 2026-07-04 1829 G4CXT         57 7 JO02RF          M0UHF         55 25 IO91IP
+QSO:    50 PH 2026-07-04 1837 G4CXT         55 8 JO02RF          G4ALE/P       55 53 IO90QV
+QSO:    50 PH 2026-07-04 1901 G4CXT         57 9 JO02RF          G6IPU/P       59 37 JO02QV
+QSO:    50 PH 2026-07-04 1942 G4CXT         59 10 JO02RF         G0FBB/P       59 47 JO01LD
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC
+CALLSIGN: M1EYP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220713&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=767; excluded rows=0.
+QSO:   432 DG 2022-07-13 2036 M1EYP         -10 IO83             G0DJA         -13 IO93
+QSO:   432 DG 2022-07-13 2038 M1EYP         +27 IO83             G4EII         +25 IO83
+QSO:   432 DG 2022-07-13 2039 M1EYP         -10 IO83             MM0CEZ        -12 IO75
+QSO:   432 DG 2022-07-13 2044 M1EYP         +08 IO83             G4APJ         +11 IO83
+QSO:   432 DG 2022-07-13 2052 M1EYP         -19 IO83             M0UHF         -20 IO91
+QSO:   432 DG 2022-07-13 2058 M1EYP         -16 IO83             2E1FMS        -18 IO82
+END-OF-LOG:

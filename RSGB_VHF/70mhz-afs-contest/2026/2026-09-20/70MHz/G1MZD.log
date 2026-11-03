@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G1MZD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92NB
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1675; excluded rows=1.
+QSO:    70 PH 2026-09-20 0901 G1MZD         59 1 IO92NB NN       G4CZB/P       57 2 IO92LH NN
+QSO:    70 PH 2026-09-20 0902 G1MZD         51 2 IO92NB NN       G6TVB         53 2 IO92NG NN
+QSO:    70 PH 2026-09-20 0903 G1MZD         55 3 IO92NB NN       G4LIP         59 2 IO92JL LE
+QSO:    70 PH 2026-09-20 0929 G1MZD         52 4 IO92NB NN       G7LII/P       59 12 IO92KF NN
+QSO:    70 PH 2026-09-20 0931 G1MZD         55 5 IO92NB NN       G4CWH/P       59 29 IO92XA SG
+QSO:    70 PH 2026-09-20 0936 G1MZD         55 6 IO92NB NN       G0SKA         59 29 IO91OQ HP
+QSO:    70 PH 2026-09-20 0952 G1MZD         57 7 IO92NB NN       G3PYE/P       59 29 JO02CE CB
+END-OF-LOG:

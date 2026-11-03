@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3SXE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90TU
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=260303&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9263; excluded rows=4.
+QSO:   144 PH 2026-03-03 2006 G3SXE         59 1 IO90TU          G0PBV         57 1 IO90ST
+QSO:   144 PH 2026-03-03 2007 G3SXE         59 2 IO90TU          G8AQX         59 1 IO90TU
+QSO:   144 PH 2026-03-03 2054 G3SXE         59 3 IO90TU          G1KAR/P       59 38 JO00DR
+QSO:   144 PH 2026-03-03 2058 G3SXE         57 4 IO90TU          F4HOG         57 24 JN09OJ
+QSO:   144 PH 2026-03-03 2104 G3SXE         58 5 IO90TU          F4IFS         59 13 JN09HR
+QSO:   144 PH 2026-03-03 2108 G3SXE         55 6 IO90TU          G8IQL         52 34 IO90LX
+END-OF-LOG:

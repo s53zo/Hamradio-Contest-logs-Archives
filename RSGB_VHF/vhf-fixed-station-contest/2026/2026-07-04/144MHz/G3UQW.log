@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G3UQW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90ES
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1950; excluded rows=2.
+QSO:   144 PH 2026-07-04 1625 G3UQW         57 1 IO90ES          G4ALE/P       57 23 IO90QV
+QSO:   144 PH 2026-07-04 1641 G3UQW         58 2 IO90ES          M0BAA         55 194 JO01NC
+QSO:   144 PH 2026-07-05 1229 G3UQW         59 3 IO90ES          G4RFR         59 114 IO80SQ
+QSO:   144 PH 2026-07-05 1338 G3UQW         55 4 IO90ES          G5LK/P        59 473 JO01QD
+QSO:   144 PH 2026-07-05 1300 G3UQW         59 5 IO90ES          G4ZAP/P       59 567 JO01PU
+END-OF-LOG:

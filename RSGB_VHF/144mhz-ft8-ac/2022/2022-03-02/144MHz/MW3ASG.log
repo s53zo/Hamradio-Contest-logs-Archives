@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: MW3ASG
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220302&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1303; excluded rows=0.
+QSO:   144 DG 2022-03-02 1914 MW3ASG        +31 IO81             GW4HDF        +14 IO81
+QSO:   144 DG 2022-03-02 1918 MW3ASG        -10 IO81             M0BKV         -17 IO70
+QSO:   144 DG 2022-03-02 1919 MW3ASG        +01 IO81             PA0JQD        -16 JO21
+QSO:   144 DG 2022-03-02 1922 MW3ASG        +13 IO81             G3SED         -14 IO90
+QSO:   144 DG 2022-03-02 1946 MW3ASG        -09 IO81             G0BIX         -16 JO01
+QSO:   144 DG 2022-03-02 1949 MW3ASG        +02 IO81             2E0SNB        -19 IO91
+QSO:   144 DG 2022-03-02 1958 MW3ASG        +25 IO81             G0JLE         +11 IO81
+QSO:   144 DG 2022-03-02 2004 MW3ASG        +19 IO81             EI8KN         +11 IO62
+QSO:   144 DG 2022-03-02 2007 MW3ASG        +15 IO81             G4OED         +00 IO91
+QSO:   144 DG 2022-03-02 2048 MW3ASG        +13 IO81             M0FXX         -03 IO91
+END-OF-LOG:

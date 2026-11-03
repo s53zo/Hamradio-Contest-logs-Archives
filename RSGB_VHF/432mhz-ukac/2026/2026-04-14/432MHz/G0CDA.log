@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0CDA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83SJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=260414&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5783; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   432 PH 2026-04-14 1905 G0CDA         59 2 IO83SJ          G7ADF         59 1 IO83QN
+QSO:   432 PH 2026-04-14 1912 G0CDA         55 3 IO83SJ          GI4SNA        51 14 IO64XM
+QSO:   432 PH 2026-04-14 1914 G0CDA         59 4 IO83SJ          G0MJW         59 19 IO83RO
+QSO:   432 PH 2026-04-14 1917 G0CDA         53 5 IO83SJ          EI3KD         53 9 IO51VW
+QSO:   432 PH 2026-04-14 1925 G0CDA         57 6 IO83SJ          GD8EXI        53 26 IO74PC
+QSO:   432 PH 2026-04-14 1926 G0CDA         59 7 IO83SJ          G0EAK/P       59 18 IO93NI
+QSO:   432 PH 2026-04-14 1944 G0CDA         59 8 IO83SJ          G0NPI         54 6 IO83SK
+QSO:   432 PH 2026-04-14 1949 G0CDA         55 9 IO83SJ          G6HPR/P       51 26 IO92MO
+QSO:   432 PH 2026-04-14 1950 G0CDA         57 10 IO83SJ         G3WRA         57 38 IO82RJ
+QSO:   432 PH 2026-04-14 2004 G0CDA         59 11 IO83SJ         G4CLA         59 93 IO92JL
+END-OF-LOG:

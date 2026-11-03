@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4RGK
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO91NO
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=260526&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=150; excluded rows=3.
+QSO:   10G CW 2026-05-26 1853 G4RGK         559 1 IO91NO         G4ASR         559 5 IO81MX
+QSO:   10G CW 2026-05-26 1902 G4RGK         559 2 IO91NO         G4ZTR         559 6 JO01KW
+QSO:   10G PH 2026-05-26 1920 G4RGK         53 3 IO91NO          G4CLA         53 3 IO92JL
+QSO:   10G PH 2026-05-26 1925 G4RGK         54 4 IO91NO          G0WZV         55 6 JO01KV
+QSO:   10G CW 2026-05-26 1937 G4RGK         559 5 IO91NO         G4HWA         559 6 IO92ME
+QSO:   10G CW 2026-05-26 1957 G4RGK         579 6 IO91NO         G3XDY         569 5 JO02OB
+QSO:   10G CW 2026-05-26 2005 G4RGK         599 7 IO91NO         G4ODA         599 9 IO92WS
+QSO:   10G PH 2026-05-26 2123 G4RGK         51 8 IO91NO          G8SEI         51 11 IO92FO
+END-OF-LOG:

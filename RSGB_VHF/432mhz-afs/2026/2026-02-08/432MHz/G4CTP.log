@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4CTP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91RG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3704; excluded rows=1.
+QSO:   432 PH 2026-02-08 0901 G4CTP         59 1 IO91RG          G4EFT         59 2 IO91RG
+QSO:   432 PH 2026-02-08 0904 G4CTP         59 2 IO91RG          G0XDI         59 3 IO91RP
+QSO:   432 PH 2026-02-08 0906 G4CTP         59 3 IO91RG          M0NVS/P       57 1 IO91RR
+QSO:   432 PH 2026-02-08 0907 G4CTP         59 4 IO91RG          G0ODQ         59 4 IO91MR
+QSO:   432 PH 2026-02-08 0909 G4CTP         55 5 IO91RG          G4CLA         57 12 IO92JL
+QSO:   432 PH 2026-02-08 0911 G4CTP         59 6 IO91RG          G4RGK         59 4 IO91NO
+QSO:   432 PH 2026-02-08 0918 G4CTP         59 7 IO91RG          G4YPC         59 6 IO91RH
+QSO:   432 PH 2026-02-08 0935 G4CTP         55 8 IO91RG          G8CUL         55 9 IO91JO
+QSO:   432 PH 2026-02-08 0943 G4CTP         59 9 IO91RG          G4HWA         58 26 IO92ME
+QSO:   432 PH 2026-02-08 0956 G4CTP         59 10 IO91RG         G8DOH         59 38 IO92FA
+QSO:   432 PH 2026-02-08 1020 G4CTP         59 11 IO91RG         G3VYI         59 10 IO91OF
+QSO:   432 PH 2026-02-08 1038 G4CTP         55 12 IO91RG         G4ZTR         55 45 JO01KW
+END-OF-LOG:

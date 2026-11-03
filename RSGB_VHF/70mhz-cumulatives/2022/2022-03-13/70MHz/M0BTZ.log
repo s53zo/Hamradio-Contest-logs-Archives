@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: M0BTZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO90GX
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=220313&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=457; excluded rows=0.
+QSO:    70 PH 2022-03-13 1002 M0BTZ         59 1 IO90GX          M0BAO/P       55 1 IO80LV
+QSO:    70 PH 2022-03-13 1004 M0BTZ         57 2 IO90GX          G4RFR         55 3 IO90AS
+QSO:    70 PH 2022-03-13 1013 M0BTZ         59 3 IO90GX          G3TCU/P       59 16 IO91RF
+QSO:    70 PH 2022-03-13 1021 M0BTZ         59 4 IO90GX          G4CIZ         57 5 IO91FG
+QSO:    70 PH 2022-03-13 1029 M0BTZ         59 5 IO90GX          G4SJH/P       56 21 IO91PF
+QSO:    70 PH 2022-03-13 1056 M0BTZ         55 6 IO90GX          GW4SHF        53 2 IO82HP
+QSO:    70 PH 2022-03-13 1059 M0BTZ         57 7 IO90GX          M6OVN         57 6 IO91EC
+END-OF-LOG:

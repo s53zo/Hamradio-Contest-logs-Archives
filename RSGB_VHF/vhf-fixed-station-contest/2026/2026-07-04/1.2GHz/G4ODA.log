@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G4ODA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO92WS
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=261; excluded rows=0.
+QSO:  1.2G PH 2026-07-04 1602 G4ODA         59 1 IO92WS          G3SQQ         59 20 IO93JC
+QSO:  1.2G PH 2026-07-04 1606 G4ODA         59 2 IO92WS          G0VHF/P       59 33 JO01PU
+QSO:  1.2G PH 2026-07-04 1614 G4ODA         59 3 IO92WS          G5LK/P        59 42 JO01QD
+QSO:  1.2G PH 2026-07-04 1630 G4ODA         58 4 IO92WS          G0ARC/P       55 16 IO91EH
+QSO:  1.2G PH 2026-07-04 1633 G4ODA         59 5 IO92WS          G2BQY/P       59 30 IO81RF
+QSO:  1.2G PH 2026-07-04 1648 G4ODA         57 6 IO92WS          PI4GN         55 23 JO33II
+QSO:  1.2G PH 2026-07-04 1651 G4ODA         59 7 IO92WS          G3WCG/P       57 29 IO93AD
+QSO:  1.2G PH 2026-07-04 1715 G4ODA         57 8 IO92WS          DL5EBS        57 19 JO31NH
+QSO:  1.2G CW 2026-07-04 2140 G4ODA         519 9 IO92WS         GM4CXM        559 2 IO75TW
+QSO:  1.2G PH 2026-07-05 0620 G4ODA         59 10 IO92WS         G3SRT/P       59 26 IO82KV
+QSO:  1.2G PH 2026-07-05 0902 G4ODA         55 11 IO92WS         G3MDG/P       55 12 IO91QS
+QSO:  1.2G PH 2026-07-05 0903 G4ODA         59 12 IO92WS         DG1E          59 23 JO31LE
+QSO:  1.2G PH 2026-07-05 0911 G4ODA         55 13 IO92WS         GW4JQP        52 13 IO71KR
+QSO:  1.2G PH 2026-07-05 1037 G4ODA         59 14 IO92WS         PA0WMX        59 27 JO21XI
+QSO:  1.2G PH 2026-07-05 1039 G4ODA         59 15 IO92WS         G4HGI         59 14 IO83PL
+QSO:  1.2G PH 2026-07-05 1221 G4ODA         59 16 IO92WS         M0HDO         59 19 IO91JO
+QSO:  1.2G PH 2026-07-05 1311 G4ODA         55 17 IO92WS         DF2VJ         559 5 JN39LI
+END-OF-LOG:

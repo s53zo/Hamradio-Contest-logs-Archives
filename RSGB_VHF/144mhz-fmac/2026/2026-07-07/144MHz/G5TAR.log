@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G5TAR
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93CS
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=260707&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=722; excluded rows=2.
+QSO:   144 FM 2026-07-07 1802 G5TAR         59 1 IO93CS          M0OGR         59 1 IO93CP
+QSO:   144 FM 2026-07-07 1804 G5TAR         59 2 IO93CS          G1ZAR/P       59 1 IO93BM
+QSO:   144 FM 2026-07-07 1809 G5TAR         59 3 IO93CS          M0TMR         59 3 IO93CR
+QSO:   144 FM 2026-07-07 1810 G5TAR         59 4 IO93CS          M7LMZ         59 1 IO93CP
+QSO:   144 FM 2026-07-07 1811 G5TAR         59 5 IO93CS          G0KUY/P       59 6 IO83XP
+QSO:   144 FM 2026-07-07 1813 G5TAR         59 6 IO93CS          G1HZR         59 1 IO93KM
+QSO:   144 FM 2026-07-07 1815 G5TAR         59 7 IO93CS          G4LMS         59 1 IO93EQ
+QSO:   144 FM 2026-07-07 1816 G5TAR         59 8 IO93CS          M7OMH         59 1 IO93CR
+QSO:   144 FM 2026-07-07 1848 G5TAR         59 9 IO93CS          M0GET         59 1 IO93KH
+END-OF-LOG:

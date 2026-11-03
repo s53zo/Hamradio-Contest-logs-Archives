@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: M1EYP/P
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=190101&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=200; excluded rows=0.
+QSO:   144 DG 2019-01-01 1911 M1EYP/P       0 IO83               M0VXX         -4 IO82
+QSO:   144 DG 2019-01-01 1915 M1EYP/P       -5 IO83              G7JWY         -1 IO92
+QSO:   144 DG 2019-01-01 1922 M1EYP/P       7 IO83               M0MLZ/P       8 IO70
+QSO:   144 DG 2019-01-01 1923 M1EYP/P       10 IO83              G0RQL         6 IO70
+QSO:   144 DG 2019-01-01 1927 M1EYP/P       15 IO83              G8EKG         12 IO92
+QSO:   144 DG 2019-01-01 1932 M1EYP/P       12 IO83              MW0RKD        11 IO83
+QSO:   144 DG 2019-01-01 1934 M1EYP/P       12 IO83              GI6ATZ        13 IO74
+QSO:   144 DG 2019-01-01 1937 M1EYP/P       -5 IO83              M1DDD/P       -8 IO93
+QSO:   144 DG 2019-01-01 1941 M1EYP/P       -6 IO83              G0FCT         -16 IO91
+QSO:   144 DG 2019-01-01 1942 M1EYP/P       4 IO83               G0NWX         -6 IO92
+END-OF-LOG:

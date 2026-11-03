@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M0BGR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=221207&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1030; excluded rows=0.
+QSO:   144 DG 2022-12-07 1959 M0BGR         -06 JO01             G3WZK         +02 IO91
+QSO:   144 DG 2022-12-07 2001 M0BGR         +07 JO01             G7LRQ         -08 IO91
+QSO:   144 DG 2022-12-07 2005 M0BGR         -06 JO01             2E0GKW        -01 IO91
+QSO:   144 DG 2022-12-07 2008 M0BGR         +19 JO01             G7WIR         +07 JO01
+QSO:   144 DG 2022-12-07 2010 M0BGR         +13 JO01             G0BIX         -14 JO01
+QSO:   144 DG 2022-12-07 2013 M0BGR         -03 JO01             M6YUG         -13 IO91
+QSO:   144 DG 2022-12-07 2033 M0BGR         +03 JO01             2E0GKW        -03 IO91
+QSO:   144 DG 2022-12-07 2038 M0BGR         -07 JO01             G3YDY         -18 JO01
+QSO:   144 DG 2022-12-07 2042 M0BGR         -14 JO01             G0WZM         -25 IO91
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G4CDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91NK
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=432; excluded rows=0.
+QSO:   432 PH 2026-07-04 1406 G4CDF         57 1 IO91NK          G0VHF/P       57 4 JO01PU
+QSO:   432 PH 2026-07-04 1409 G4CDF         58 2 IO91NK          G0FBB/P       55 5 JO01LD
+QSO:   432 PH 2026-07-04 1412 G4CDF         57 3 IO91NK          OR6T          59 15 JO20KV
+QSO:   432 PH 2026-07-04 1415 G4CDF         59 4 IO91NK          G5LK/P        59 21 JO01QD
+QSO:   432 PH 2026-07-04 1450 G4CDF         56 5 IO91NK          GW3ZTT/P      54 20 IO82KW
+QSO:   432 PH 2026-07-04 1519 G4CDF         59 6 IO91NK          G3ULT/P       59 7 IO91NL
+QSO:   432 PH 2026-07-04 1530 G4CDF         59 7 IO91NK          G6WCG/P       59 45 IO93AD
+QSO:   432 PH 2026-07-04 1932 G4CDF         59 8 IO91NK          G0ARC/P       59 28 IO91EH
+QSO:   432 PH 2026-07-04 2132 G4CDF         57 9 IO91NK          M0HDO         59 14 IO91JO
+QSO:   432 PH 2026-07-05 0508 G4CDF         58 10 IO91NK         F1MKG         58 13 JN08KQ
+QSO:   432 PH 2026-07-05 0616 G4CDF         57 11 IO91NK         G3MDG/P       59 24 IO91QS
+QSO:   432 PH 2026-07-05 1356 G4CDF         57 12 IO91NK         G3PYE/P       59 87 JO02CE
+END-OF-LOG:

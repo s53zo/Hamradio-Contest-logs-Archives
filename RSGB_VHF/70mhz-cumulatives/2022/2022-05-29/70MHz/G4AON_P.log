@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4AON/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93QV
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=220529&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=630; excluded rows=0.
+QSO:    70 PH 2022-05-29 1402 G4AON/P       59 1 IO93QV          G4FZN/P       59 3 IO94JF
+QSO:    70 PH 2022-05-29 1405 G4AON/P       59 2 IO93QV          G3TCU/P       57 8 IO91GI
+QSO:    70 PH 2022-05-29 1407 G4AON/P       57 3 IO93QV          G1HLT         55 4 IO93JD
+QSO:    70 PH 2022-05-29 1413 G4AON/P       57 4 IO93QV          G3SED         56 6 IO90IV
+QSO:    70 PH 2022-05-29 1416 G4AON/P       53 5 IO93QV          G0ORG         57 6 JO02LB
+QSO:    70 PH 2022-05-29 1426 G4AON/P       57 6 IO93QV          G4LPP         55 6 JO02SS
+QSO:    70 CW 2022-05-29 1441 G4AON/P       559 7 IO93QV         G3TCT         559 21 IO81QC
+QSO:    70 CW 2022-05-29 1447 G4AON/P       559 8 IO93QV         G3RIR         559 5 IO92JL
+QSO:    70 CW 2022-05-29 1456 G4AON/P       559 9 IO93QV         G7RAU         559 11 IN79JX
+QSO:    70 CW 2022-05-29 1501 G4AON/P       559 10 IO93QV        G4CLB         559 8 IO92HM
+QSO:    70 CW 2022-05-29 1504 G4AON/P       539 11 IO93QV        G4RQI         529 2 IO93IR
+QSO:    70 CW 2022-05-29 1508 G4AON/P       539 12 IO93QV        G4RFR         539 18 IO90AS
+QSO:    70 CW 2022-05-29 1511 G4AON/P       559 13 IO93QV        G0SKA         559 29 IO91OQ
+QSO:    70 PH 2022-05-29 1516 G4AON/P       59 14 IO93QV         G1ILJ         59 1 IO94SD
+QSO:    70 PH 2022-05-29 1528 G4AON/P       55 15 IO93QV         G1EZF         55 7 IO93FT
+QSO:    70 PH 2022-05-29 1540 G4AON/P       55 16 IO93QV         GW8ASD        55 19 IO83LB
+QSO:    70 PH 2022-05-29 1552 G4AON/P       53 17 IO93QV         G0LGS/P       53 33 IO81WU
+QSO:    70 PH 2022-05-29 1553 G4AON/P       53 18 IO93QV         G4CIZ         53 21 IO91FG
+QSO:    70 PH 2022-05-29 1555 G4AON/P       53 19 IO93QV         M5TKA         58 28 IO91OX
+END-OF-LOG:

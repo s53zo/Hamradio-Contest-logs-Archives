@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: G4HGI
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190110&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=224; excluded rows=0.
+QSO:    50 DG 2019-01-10 1905 G4HGI         R+00 IO83            G0EHG         +04 IO83
+QSO:    50 DG 2019-01-10 1907 G4HGI         R-17 IO83            G8EOP         -08 IO93
+QSO:    50 DG 2019-01-10 1913 G4HGI         R+10 IO83            G4OBA         -11 IO82
+QSO:    50 DG 2019-01-10 1915 G4HGI         R+13 IO83            G3RKF         -10 IO83
+QSO:    50 DG 2019-01-10 1917 G4HGI         R-23 IO83            G0FCT         -11 IO91
+QSO:    50 DG 2019-01-10 1919 G4HGI         R+06 IO83            GI4SNA        +10 IO64
+QSO:    50 DG 2019-01-10 1920 G4HGI         R+02 IO83            G4AQB         +08 IO83
+QSO:    50 DG 2019-01-10 1924 G4HGI         R-14 IO83            M0TFO         53 IO81
+QSO:    50 DG 2019-01-10 1925 G4HGI         R-05 IO83            G0LGS         +05 IO81
+QSO:    50 DG 2019-01-10 1926 G4HGI         R-19 IO83            M0ICR         -14 IO91
+QSO:    50 DG 2019-01-10 1928 G4HGI         R+03 IO83            M3ECT         +07 IO83
+QSO:    50 DG 2019-01-10 1929 G4HGI         R-18 IO83            2E0DGP        -02 IO83
+QSO:    50 DG 2019-01-10 1932 G4HGI         R+00 IO83            G4APJ         -09 IO83
+QSO:    50 DG 2019-01-10 1933 G4HGI         R-14 IO83            G4PDF         -10 IO93
+QSO:    50 DG 2019-01-10 1935 G4HGI         R-21 IO83            G4ZVB         -14 IO93
+QSO:    50 DG 2019-01-10 1939 G4HGI         R-05 IO83            G0LRD         -03 JO02
+QSO:    50 DG 2019-01-10 1942 G4HGI         R-11 IO83            G8NRY         -09 IO93
+QSO:    50 DG 2019-01-10 1945 G4HGI         R-05 IO83            G3PXT         -02 JO02
+QSO:    50 DG 2019-01-10 1949 G4HGI         -05 IO83             M0IEP         R-20 IO91
+QSO:    50 DG 2019-01-10 1951 G4HGI         R+03 IO83            G3ZNU         56 IO91
+END-OF-LOG:

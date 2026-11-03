@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: M9JWJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81VG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4133; excluded rows=1.
+QSO:   144 PH 2026-05-16 1907 M9JWJ         59 1 IO81VG BA       G4ASR         57 95 IO81MX HR
+QSO:   144 PH 2026-05-16 1958 M9JWJ         59 2 IO81VG BA       G8NEY/P       59 110 IO81UN BS
+QSO:   144 PH 2026-05-17 1130 M9JWJ         59 3 IO81VG BA       G0LTG         59 63 IO81RF BA
+QSO:   144 PH 2026-05-17 1319 M9JWJ         59 4 IO81VG BA       GW1YBB/P      59 107 IO81KW NP
+END-OF-LOG:

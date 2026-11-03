@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO85IW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=260512&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5193; excluded rows=3.
+QSO:   432 PH 2026-05-12 1908 GM4DIJ        59 1 IO85IW          GM4JTJ        59 1 IO86RP
+QSO:   432 PH 2026-05-12 1931 GM4DIJ        55 2 IO85IW          G8PNN         55 10 IO95EF
+QSO:   432 PH 2026-05-12 1933 GM4DIJ        52 3 IO85IW          GW8ASD        52 18 IO83LB
+QSO:   432 PH 2026-05-12 1949 GM4DIJ        55 4 IO85IW          GI4SNA        51 35 IO64XM
+QSO:   432 PH 2026-05-12 1956 GM4DIJ        55 5 IO85IW          G1YBB/P       57 68 IO82LB
+QSO:   432 PH 2026-05-12 2003 GM4DIJ        59 6 IO85IW          GM8MJV        59 4 IO85MU
+QSO:   432 PH 2026-05-12 2004 GM4DIJ        55 7 IO85IW          G8REQ         51 35 IO83KI
+QSO:   432 PH 2026-05-12 2014 GM4DIJ        55 8 IO85IW          G8SEI         55 59 IO92FO
+QSO:   432 PH 2026-05-12 2026 GM4DIJ        55 9 IO85IW          G4CLA         55 114 IO92JL
+QSO:   432 PH 2026-05-12 2029 GM4DIJ        59 10 IO85IW         GM4BYF        59 10 IO85JV
+QSO:   432 PH 2026-05-12 2056 GM4DIJ        55 11 IO85IW         G7LRQ         53 115 JO03BC
+QSO:   432 CW 2026-05-12 2129 GM4DIJ        559 12 IO85IW        G4ODA         559 100 IO92WS
+END-OF-LOG:

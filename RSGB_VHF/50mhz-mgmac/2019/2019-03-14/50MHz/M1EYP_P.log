@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: M1EYP/P
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190314&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=83; excluded rows=0.
+QSO:    50 DG 2019-03-14 1914 M1EYP/P       6 IO83               G3PUO         -11 IO83
+QSO:    50 DG 2019-03-14 1917 M1EYP/P       16 IO83              M3SMK         -7 IO83
+QSO:    50 DG 2019-03-14 1920 M1EYP/P       9 IO83               GW4MVA        4 IO83
+QSO:    50 DG 2019-03-14 1933 M1EYP/P       2 IO83               G3ZNU         -12 IO91
+QSO:    50 DG 2019-03-14 1935 M1EYP/P       4 IO83               M0IEP         -18 IO91
+QSO:    50 DG 2019-03-14 1943 M1EYP/P       12 IO83              GI6ATZ        -11 IO74
+QSO:    50 DG 2019-03-14 1948 M1EYP/P       15 IO83              MW0CSO        -6 IO83
+END-OF-LOG:

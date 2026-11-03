@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G6PNH
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83VS
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=260203&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=530; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 FM 2026-02-03 1900 G6PNH         59 1 IO83VS          M3SSS         59 1 IO83LV
+QSO:   144 FM 2026-02-03 1901 G6PNH         59 2 IO83VS          G8WT          59 1 IO83TT
+QSO:   144 FM 2026-02-03 1905 G6PNH         46 3 IO83VS          M7KYC         59 1 IO83TU
+QSO:   144 FM 2026-02-03 1908 G6PNH         59 4 IO83VS          M0JFE         59 3 IO83LW
+QSO:   144 FM 2026-02-03 1909 G6PNH         59 5 IO83VS          G6FXF         59 4 IO83OQ
+QSO:   144 FM 2026-02-03 1910 G6PNH         59 6 IO83VS          M0MZR         59 6 IO83QQ
+QSO:   144 FM 2026-02-03 1913 G6PNH         59 7 IO83VS          M0LOR         59 4 IO83OR
+QSO:   144 FM 2026-02-03 1914 G6PNH         59 8 IO83VS          M0HZP         59 3 IO83LU
+QSO:   144 FM 2026-02-03 1915 G6PNH         59 9 IO83VS          G3TNN         59 5 IO83NS
+QSO:   144 FM 2026-02-03 1920 G6PNH         59 10 IO83VS         MW0UPH        59 7 IO83JF
+QSO:   144 FM 2026-02-03 1922 G6PNH         47 11 IO83VS         G0NKD         57 5 IO83PR
+QSO:   144 FM 2026-02-03 1927 G6PNH         59 13 IO83VS         G8XVJ         59 1 IO83QX
+QSO:   144 FM 2026-02-03 1930 G6PNH         57 14 IO83VS         G8ZRE         57 20 IO83NE
+QSO:   144 FM 2026-02-03 1935 G6PNH         59 15 IO83VS         M7GHW/P       57 25 IO83PN
+QSO:   144 FM 2026-02-03 1936 G6PNH         59 16 IO83VS         2E0SQK        59 21 IO83KR
+QSO:   144 FM 2026-02-03 1944 G6PNH         59 17 IO83VS         M0CKO         59 1 IO83TS
+END-OF-LOG:

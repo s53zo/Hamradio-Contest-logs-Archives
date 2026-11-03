@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G0EAK/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO93NI
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=260825&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=50; excluded rows=0.
+QSO:  3.4G PH 2026-08-25 1902 G0EAK/P       59 1 IO93NI          G1ZAR/P       59 1 IO93EI
+QSO:  3.4G PH 2026-08-25 1959 G0EAK/P       57 2 IO93NI          G3XDY         56 2 JO02OB
+QSO:  3.4G PH 2026-08-25 2002 G0EAK/P       59 3 IO93NI          G4ODA         59 2 IO92WS
+QSO:  3.4G PH 2026-08-25 2005 G0EAK/P       57 4 IO93NI          G4CLA         57 6 IO92JL
+QSO:  3.4G CW 2026-08-25 2035 G0EAK/P       519 5 IO93NI         M0GHZ         539 6 IO81VK
+QSO:  3.4G PH 2026-08-25 2047 G0EAK/P       55 6 IO93NI          G4HWA         57 5 IO92ME
+END-OF-LOG:

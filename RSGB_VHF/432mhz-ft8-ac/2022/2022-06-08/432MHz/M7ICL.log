@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC
+CALLSIGN: M7ICL
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO02
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220608&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=677; excluded rows=0.
+QSO:   432 DG 2022-06-08 1902 M7ICL         +07 JO02             GQ4PDF        -14 IO93
+QSO:   432 DG 2022-06-08 1903 M7ICL         -10 JO02             G8CRB         -14 JO02
+QSO:   432 DG 2022-06-08 1909 M7ICL         -01 JO02             G0ITL         -13 IO92
+QSO:   432 DG 2022-06-08 1934 M7ICL         -13 JO02             M0KEP         -25 IO82
+QSO:   432 DG 2022-06-08 1949 M7ICL         -09 JO02             M0IEP         -16 IO91
+QSO:   432 DG 2022-06-08 2000 M7ICL         +13 JO02             GQ4NBS        +05 JO02
+END-OF-LOG:

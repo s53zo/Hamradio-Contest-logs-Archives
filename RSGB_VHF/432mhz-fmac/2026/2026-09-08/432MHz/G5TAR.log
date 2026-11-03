@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G5TAR
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93CS
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=260908&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=355; excluded rows=1.
+QSO:   432 FM 2026-09-08 1803 G5TAR         59 1 IO93CS          M0TMR         59 1 IO93CR
+QSO:   432 FM 2026-09-08 1807 G5TAR         59 2 IO93CS          G0XBU/P       59 10 IO83XO
+QSO:   432 FM 2026-09-08 1809 G5TAR         55 3 IO93CS          M1DDD/P       59 4 IO93CH
+QSO:   432 FM 2026-09-08 1819 G5TAR         53 4 IO93CS          M0OGR         59 1 IO93CP
+END-OF-LOG:

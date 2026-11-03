@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G6GVI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO83SN
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1950; excluded rows=2.
+QSO:   144 PH 2026-07-05 0945 G6GVI         55 1 IO83SN          G5LK/P        59 400 JO01QD
+QSO:   144 PH 2026-07-05 1129 G6GVI         58 2 IO83SN          G7LRQ         59 88 JO03BC
+QSO:   144 PH 2026-07-05 1302 G6GVI         59 3 IO83SN          G3SRT/P       59 164 IO82KV
+QSO:   144 PH 2026-07-05 1303 G6GVI         54 4 IO83SN          M0KPW/P       57 62 IO84KD
+END-OF-LOG:

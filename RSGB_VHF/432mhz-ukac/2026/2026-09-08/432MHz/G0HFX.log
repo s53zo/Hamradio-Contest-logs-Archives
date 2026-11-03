@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0HFX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81VH
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=260908&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4498; excluded rows=3.
+QSO:   432 PH 2026-09-08 1900 G0HFX         59 1 IO81VH          G0LTG/P       59 1 IO81RF
+QSO:   432 PH 2026-09-08 1902 G0HFX         59 2 IO81VH          2E0NEY        59 3 IO81VK
+QSO:   432 PH 2026-09-08 1936 G0HFX         59 3 IO81VH          G8GRS/P       56 18 IO81QJ
+QSO:   432 PH 2026-09-08 1942 G0HFX         57 4 IO81VH          G0BNC/P       58 11 IO91EU
+QSO:   432 PH 2026-09-08 1949 G0HFX         59 5 IO81VH          2E0OUT        59 23 IO81WO
+QSO:   432 PH 2026-09-08 2022 G0HFX         55 6 IO81VH          G0XDI         57 43 IO91RP
+QSO:   432 PH 2026-09-08 2049 G0HFX         51 7 IO81VH          G8IQL/P       55 42 IO90MX
+END-OF-LOG:

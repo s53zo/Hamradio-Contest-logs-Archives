@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-50MHZ-CONTEST
+CALLSIGN: G3XUD
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO90WX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+50MHz+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1856; excluded rows=0.
+QSO:    50 PH 2021-04-11 0908 G3XUD         59 1 IO90WX RH       G0VVE         59 9 IO91SG KT
+QSO:    50 PH 2021-04-11 0912 G3XUD         59 2 IO90WX RH       G3VYI         57 6 IO91OF GU
+QSO:    50 PH 2021-04-11 0943 G3XUD         59 3 IO90WX RH       F4FET         59 25 JO00TQ
+QSO:    50 PH 2021-04-11 0946 G3XUD         59 4 IO90WX RH       G1KAR/P       59 8 JO00DR BN
+QSO:    50 PH 2021-04-11 1134 G3XUD         59 5 IO90WX RH       G3MEH         56 67 IO91QS HP
+QSO:    50 PH 2021-04-11 1146 G3XUD         59 6 IO90WX RH       G0SKA         59 54 IO91OQ HP
+QSO:    50 CW 2021-04-11 1152 G3XUD         599 7 IO90WX RH      G8LED/P       559 57 IO92LH NN
+QSO:    50 PH 2021-04-11 1159 G3XUD         59 8 IO90WX RH       G4ASR         59 22 IO81MX HR
+END-OF-LOG:

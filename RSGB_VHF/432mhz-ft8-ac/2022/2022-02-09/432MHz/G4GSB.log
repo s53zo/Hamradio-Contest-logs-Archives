@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC
+CALLSIGN: G4GSB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO82
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220209&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=864; excluded rows=0.
+QSO:   432 DG 2022-02-09 1901 G4GSB         -04 IO82             2E0DUE        -15 JO01
+QSO:   432 DG 2022-02-09 1903 G4GSB         -06 IO82             M7SPS         -06 IO92
+QSO:   432 DG 2022-02-09 1905 G4GSB         -02 IO82             M0NVS         -09 IO91
+QSO:   432 DG 2022-02-09 1907 G4GSB         +05 IO82             G0TFD         +01 IO82
+QSO:   432 DG 2022-02-09 1910 G4GSB         -09 IO82             G4NBS         -13 JO02
+QSO:   432 DG 2022-02-09 1911 G4GSB         +09 IO82             G3YKI         +06 IO82
+QSO:   432 DG 2022-02-09 1914 G4GSB         -13 IO82             PA7ML         -09 JO22
+QSO:   432 DG 2022-02-09 1916 G4GSB         -16 IO82             G0JJG         -11 JO02
+QSO:   432 DG 2022-02-09 1919 G4GSB         +09 IO82             M1EYP/P       +13 IO83
+END-OF-LOG:

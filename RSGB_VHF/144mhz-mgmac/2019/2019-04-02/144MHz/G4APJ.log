@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MGMAC
+CALLSIGN: G4APJ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+MGMAC&Date=190402&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=297; excluded rows=0.
+QSO:   144 DG 2019-04-02 1813 G4APJ         -08 IO83             G4YHF         +07 IO92
+QSO:   144 DG 2019-04-02 1820 G4APJ         +00 IO83             G4FUF         -05 JO01
+QSO:   144 DG 2019-04-02 1821 G4APJ         -01 IO83             M1EYP/P       +09 IO83
+QSO:   144 DG 2019-04-02 1825 G4APJ         -11 IO83             G3YKI         -05 IO92
+QSO:   144 DG 2019-04-02 1826 G4APJ         -13 IO83             M1BXF         -18 JO02
+QSO:   144 DG 2019-04-02 1831 G4APJ         +00 IO83             GI4SNA        +03 IO64
+QSO:   144 DG 2019-04-02 1836 G4APJ         -08 IO83             G4AQB         +09 IO83
+QSO:   144 DG 2019-04-02 1842 G4APJ         -21 IO83             G0GJV         -13 IO91
+QSO:   144 DG 2019-04-02 1848 G4APJ         -09 IO83             M0BEW         -11 IO82
+END-OF-LOG:

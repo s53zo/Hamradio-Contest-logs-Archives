@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: ON5ZZ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO11
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220601&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=921; excluded rows=0.
+QSO:   144 DG 2022-06-01 2046 ON5ZZ         -05 JO11             PA5PEK        -14 JO11
+QSO:   144 DG 2022-06-01 2050 ON5ZZ         -15 JO11             PE0RVA        -12 JO32
+QSO:   144 DG 2022-06-01 2053 ON5ZZ         -09 JO11             PI4TX         -18 JO22
+QSO:   144 DG 2022-06-01 2055 ON5ZZ         -09 JO11             PE1NFT        -15 JO21
+QSO:   144 DG 2022-06-01 2059 ON5ZZ         -18 JO11             PD7BDN        -12 JO22
+END-OF-LOG:

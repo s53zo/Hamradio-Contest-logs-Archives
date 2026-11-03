@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4HWA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: IO92ME
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+5.7+GHz&Date=260825&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=36; excluded rows=0.
+QSO:  5.7G PH 2026-08-25 1832 G4HWA         59 1 IO92ME          G4CLA         59 1 IO92JL
+QSO:  5.7G PH 2026-08-25 1840 G4HWA         59 2 IO92ME          G7LII/P       59 1 IO92LG
+QSO:  5.7G CW 2026-08-25 1958 G4HWA         539 3 IO92ME         M0GHZ         539 3 IO81VK
+QSO:  5.7G PH 2026-08-25 2032 G4HWA         59 4 IO92ME          G4ODA         59 7 IO92WS
+END-OF-LOG:

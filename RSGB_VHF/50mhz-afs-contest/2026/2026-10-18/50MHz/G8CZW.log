@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G8CZW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83WG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1888; excluded rows=0.
+QSO:    50 PH 2026-10-18 0913 G8CZW         59 1 IO83WG SK       G8ZRE         59 3 IO83NE CH
+QSO:    50 PH 2026-10-18 1139 G8CZW         59 2 IO83WG SK       G3TDH         59 20 IO83WI SK
+QSO:    50 PH 2026-10-18 1149 G8CZW         57 3 IO83WG SK       GD8EXI        57 48 IO74PC IM
+QSO:    50 PH 2026-10-18 1206 G8CZW         55 4 IO83WG SK       G3TBK/P       57 61 IO93RA NG
+QSO:    50 PH 2026-10-18 1213 G8CZW         59 5 IO83WG SK       G4ODA         59 65 IO92WS PE
+END-OF-LOG:

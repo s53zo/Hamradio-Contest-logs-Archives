@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: GM8MJV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220601&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=921; excluded rows=0.
+QSO:   144 DG 2022-06-01 1904 GM8MJV        -17 IO85             GM7PKT        -08 IO76
+QSO:   144 DG 2022-06-01 1908 GM8MJV        +13 IO85             GI6ATZ        -02 IO74
+QSO:   144 DG 2022-06-01 1909 GM8MJV        +08 IO85             G8EEM         -14 IO93
+QSO:   144 DG 2022-06-01 1916 GM8MJV        -02 IO85             G0UYG         -13 IO93
+QSO:   144 DG 2022-06-01 1923 GM8MJV        +05 IO85             G3WAG/P       -11 IO82
+QSO:   144 DG 2022-06-01 1929 GM8MJV        -06 IO85             G8AOE/P       -05 IO94
+QSO:   144 DG 2022-06-01 1945 GM8MJV        -09 IO85             2Q0IEI        -09 IO81
+QSO:   144 DG 2022-06-01 1949 GM8MJV        -05 IO85             MM0CKK        -19 IO75
+QSO:   144 DG 2022-06-01 1952 GM8MJV        +11 IO85             MM0CKK        -01 IO75
+QSO:   144 DG 2022-06-01 1959 GM8MJV        -18 IO85             MM0ABM        -24 IO75
+QSO:   144 DG 2022-06-01 2004 GM8MJV        -03 IO85             G3ZGZ         -17 IO83
+QSO:   144 DG 2022-06-01 2012 GM8MJV        -20 IO85             G1GEY         -25 IO94
+QSO:   144 DG 2022-06-01 2014 GM8MJV        -13 IO85             G4FBA         -23 IO93
+END-OF-LOG:

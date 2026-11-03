@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC
+CALLSIGN: G3OVH
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC&Date=220713&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=767; excluded rows=0.
+QSO:   432 DG 2022-07-13 1906 G3OVH         -01 IO92             G0DJA         -05 IO93
+QSO:   432 DG 2022-07-13 1908 G3OVH         -08 IO92             G0ISX         -05 IO93
+QSO:   432 DG 2022-07-13 1921 G3OVH         -12 IO92             MM0CEZ        -18 IO75
+QSO:   432 DG 2022-07-13 1936 G3OVH         -11 IO92             G4EII         -14 IO83
+QSO:   432 DG 2022-07-13 2018 G3OVH         -12 IO92             G4APJ         -12 IO83
+QSO:   432 DG 2022-07-13 2027 G3OVH         +08 IO92             G4NBS         +09 JO02
+END-OF-LOG:

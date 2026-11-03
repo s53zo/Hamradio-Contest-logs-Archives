@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: 2E1FMS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220504&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1793; excluded rows=0.
+QSO:   144 DG 2022-05-04 1906 2E1FMS        -22 IO82             G0XBU         +07 IO83
+QSO:   144 DG 2022-05-04 1907 2E1FMS        -04 IO82             M0XXQ/P       +05 IO84
+QSO:   144 DG 2022-05-04 1926 2E1FMS        +04 IO82             G0LGS         -01 IO81
+QSO:   144 DG 2022-05-04 1930 2E1FMS        +08 IO82             M1EYP/P       +13 IO83
+QSO:   144 DG 2022-05-04 1947 2E1FMS        -16 IO82             MI0IHH        -09 IO74
+QSO:   144 DG 2022-05-04 1952 2E1FMS        -02 IO82             G4BEE         +02 IO83
+QSO:   144 DG 2022-05-04 2000 2E1FMS        -06 IO82             GI6ATZ        +17 IO74
+QSO:   144 DG 2022-05-04 2013 2E1FMS        -24 IO82             G0FEH         -12 IO92
+QSO:   144 DG 2022-05-04 2017 2E1FMS        +08 IO82             G0TFD         +23 IO82
+QSO:   144 DG 2022-05-04 2019 2E1FMS        -05 IO82             G3YKI         +11 IO82
+QSO:   144 DG 2022-05-04 2023 2E1FMS        -19 IO82             G0BIX         -08 JO01
+QSO:   144 DG 2022-05-04 2025 2E1FMS        -11 IO82             G3WAG/P       +09 IO82
+QSO:   144 DG 2022-05-04 2029 2E1FMS        -13 IO82             G8AOE/P       +23 IO94
+QSO:   144 DG 2022-05-04 2035 2E1FMS        -10 IO82             G0ISX         +04 IO93
+QSO:   144 DG 2022-05-04 2037 2E1FMS        -15 IO82             G6PAP         +10 IO92
+QSO:   144 DG 2022-05-04 2049 2E1FMS        -14 IO82             G4FBA         -19 IO93
+END-OF-LOG:

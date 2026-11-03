@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: G8EEM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190110&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=224; excluded rows=0.
+QSO:    50 DG 2019-01-10 1904 G8EEM         -6 IO93              G4AQB         -17 IO83
+QSO:    50 DG 2019-01-10 1906 G8EEM         -4 IO93              2E0DGP        -12 IO83
+QSO:    50 DG 2019-01-10 1909 G8EEM         12 IO93              GI4SNA        9 IO64
+QSO:    50 DG 2019-01-10 1913 G8EEM         5 IO93               G8EOP         2 IO93
+QSO:    50 DG 2019-01-10 1919 G8EEM         5 IO93               G4ZVB         2 IO93
+QSO:    50 DG 2019-01-10 1920 G8EEM         13 IO93              G3PXT         -10 JO02
+QSO:    50 DG 2019-01-10 1923 G8EEM         -7 IO93              M0ICR         -19 IO91
+QSO:    50 DG 2019-01-10 1925 G8EEM         -14 IO93             G0LDR         -9 JO02
+QSO:    50 DG 2019-01-10 1932 G8EEM         0 IO93               OZ8MW         7 JO46
+QSO:    50 DG 2019-01-10 1946 G8EEM         55 IO93              G3ZNU         53 IO93
+QSO:    50 DG 2019-01-10 1949 G8EEM         55 IO93              2E0VPX        55 IO92
+QSO:    50 DG 2019-01-10 1953 G8EEM         55 IO93              G0FCW         55 IO91
+END-OF-LOG:

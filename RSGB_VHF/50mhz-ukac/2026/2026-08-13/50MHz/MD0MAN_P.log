@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: MD0MAN/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO74QB
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=260813&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3082; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:    50 PH 2026-08-13 2010 MD0MAN/P      55 1 IO74QB          G8ONK         51 23 IO83MR
+QSO:    50 PH 2026-08-13 2014 MD0MAN/P      55 2 IO74QB          GD5IOM        57 3 IO74RE
+QSO:    50 PH 2026-08-13 2039 MD0MAN/P      53 3 IO74QB          G8REQ         41 38 IO83KI
+QSO:    50 PH 2026-08-13 2048 MD0MAN/P      53 4 IO74QB          G8SEI         52 62 IO92FO
+END-OF-LOG:

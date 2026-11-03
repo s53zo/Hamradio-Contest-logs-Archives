@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: G7ICV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260107&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=763; excluded rows=0.
+QSO:   144 DG 2026-01-07 2021 G7ICV         +30 JO01             G0BIX         +23 JO01
+QSO:   144 DG 2026-01-07 2026 G7ICV         +01 JO01             G0JUW         -05 JO01
+QSO:   144 DG 2026-01-07 2029 G7ICV         +26 JO01             G3YDY         +06 JO01
+QSO:   144 DG 2026-01-07 2045 G7ICV         +22 JO01             G4ZTR         +13 JO01
+QSO:   144 DG 2026-01-07 2046 G7ICV         +17 JO01             M0MHX         -05 JO01
+QSO:   144 DG 2026-01-07 2048 G7ICV         +17 JO01             G7WIR         -03 JO01
+QSO:   144 DG 2026-01-07 2053 G7ICV         +20 JO01             G0XDI         -04 IO91
+END-OF-LOG:

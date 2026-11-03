@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-FMAC
+CALLSIGN: GW3ATZ/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83LC
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+FMAC&Date=180816&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=145; excluded rows=0.
+QSO:    70 FM 2018-08-16 1800 GW3ATZ/P      59 1 IO83LC          GW8ASD        59 2 IO83LB
+QSO:    70 FM 2018-08-16 1801 GW3ATZ/P      59 2 IO83LC          GW1YBB/P      59 1 IO81KW
+QSO:    70 FM 2018-08-16 1811 GW3ATZ/P      59 3 IO83LC          M0SSN/P       59 2 IO83PN
+QSO:    70 FM 2018-08-16 1819 GW3ATZ/P      59 4 IO83LC          G7WKX/P       59 5 IO93DI
+QSO:    70 FM 2018-08-16 1821 GW3ATZ/P      59 5 IO83LC          G1ZAR/P       59 2 IO83WE
+QSO:    70 FM 2018-08-16 1834 GW3ATZ/P      55 6 IO83LC          G0LGS/P       55 7 IO81WU
+END-OF-LOG:

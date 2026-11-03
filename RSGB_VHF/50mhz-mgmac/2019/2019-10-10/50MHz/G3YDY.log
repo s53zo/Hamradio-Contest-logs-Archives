@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: G3YDY
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO01
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=191010&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=55; excluded rows=0.
+QSO:    50 DG 2019-10-10 1800 G3YDY         -19 JO01             GI6ATZ        -07 IO74
+QSO:    50 DG 2019-10-10 1801 G3YDY         -15 JO01             ON4FI         -06 JO20
+QSO:    50 DG 2019-10-10 1803 G3YDY         -16 JO01             G8EEM         -05 IO93
+QSO:    50 DG 2019-10-10 1805 G3YDY         -11 JO01             M6VUK         +03 IO93
+QSO:    50 DG 2019-10-10 1815 G3YDY         +08 JO01             G0MDR         +15 IO91
+QSO:    50 DG 2019-10-10 1822 G3YDY         +04 JO01             G8HGN         +08 JO01
+QSO:    50 DG 2019-10-10 1831 G3YDY         -19 JO01             G7NUC         -07 IO80
+QSO:    50 DG 2019-10-10 1854 G3YDY         53 JO01              M0ICR         56 IO91SO
+END-OF-LOG:

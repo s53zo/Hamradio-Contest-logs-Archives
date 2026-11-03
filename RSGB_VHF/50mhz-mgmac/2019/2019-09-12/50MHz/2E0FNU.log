@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: 2E0FNU
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190912&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=100; excluded rows=0.
+QSO:    50 DG 2019-09-12 1856 2E0FNU        -06 IO91             G8SEI         -10 IO92
+QSO:    50 DG 2019-09-12 1832 2E0FNU        -10 IO91             G3YDY         -17 JO01
+QSO:    50 DG 2019-09-12 1820 2E0FNU        -01 IO91             M5SB          -21 IO91
+QSO:    50 DG 2019-09-12 1813 2E0FNU        -11 IO91             M6VUK         +09 IO93
+QSO:    50 DG 2019-09-12 1806 2E0FNU        -07 IO91             GI6ATZ        -12 IO74
+QSO:    50 DG 2019-09-12 1802 2E0FNU        -03 IO91             M0ICR         -03 IO91
+QSO:    50 DG 2019-09-12 1800 2E0FNU        +11 IO91             G6XDI         -04 IO91
+END-OF-LOG:

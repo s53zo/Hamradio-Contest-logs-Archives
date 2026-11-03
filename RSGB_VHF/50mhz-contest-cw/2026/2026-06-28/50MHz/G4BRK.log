@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: G4BRK
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91HP
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=164; excluded rows=0.
+QSO:    50 CW 2026-06-28 0952 G4BRK         559 1 IO91HP         G3TBK/P       599 15 IO93RA
+QSO:    50 CW 2026-06-28 0955 G4BRK         599 2 IO91HP         G3TCU/P       599 17 IO91GI
+QSO:    50 CW 2026-06-28 0957 G4BRK         549 3 IO91HP         G0LTG         559 7 IO81RF
+QSO:    50 CW 2026-06-28 1001 G4BRK         529 4 IO91HP         G4CZB         529 8 IO92MF
+QSO:    50 CW 2026-06-28 1010 G4BRK         559 5 IO91HP         EA6BF         599 1 JM08PW
+END-OF-LOG:

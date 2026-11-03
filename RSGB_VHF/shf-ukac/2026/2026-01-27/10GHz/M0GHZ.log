@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: M0GHZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO81VK
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=260127&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=89; excluded rows=0.
+QSO:   10G CW 2026-01-27 1958 M0GHZ         559 1 IO81VK         G4ODA         519 2 IO92WS
+QSO:   10G PH 2026-01-27 2018 M0GHZ         59 2 IO81VK          G4LDR         59 4 IO91EC
+QSO:   10G CW 2026-01-27 2106 M0GHZ         599 3 IO81VK         G4ZTR         519 7 JO01KW
+QSO:   10G PH 2026-01-27 2152 M0GHZ         55 4 IO81VK          G4CLA         55 12 IO92JL
+QSO:   10G CW 2026-01-27 2226 M0GHZ         549 5 IO81VK         G4HWA         519 11 IO92ME
+END-OF-LOG:

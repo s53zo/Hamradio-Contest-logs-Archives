@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GD8EXI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO74PC
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=260319&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2986; excluded rows=6.
+QSO:    70 PH 2026-03-19 2151 GD8EXI        59 1 IO74PC          MD0MAN/P      59 29 IO74OB
+QSO:    70 PH 2026-03-19 2155 GD8EXI        55 2 IO74PC          M0GHZ/P       55 61 IO81UN
+QSO:    70 PH 2026-03-19 2211 GD8EXI        53 3 IO74PC          M1DDD/P       53 100 IO93CH
+QSO:    70 PH 2026-03-19 2218 GD8EXI        56 4 IO74PC          G4CLA         55 108 IO92JL
+QSO:    70 PH 2026-03-19 2227 GD8EXI        57 5 IO74PC          G8REQ         57 41 IO83KI
+END-OF-LOG:

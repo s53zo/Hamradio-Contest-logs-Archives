@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: 2E0KLX
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220803&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1776; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 DG 2022-08-03 1921 2E0KLX        -13 IO92             G4            -10 IO92
+QSO:   144 DG 2022-08-03 1933 2E0KLX        -05 IO92             G8G           -10 IO91
+QSO:   144 DG 2022-08-03 1937 2E0KLX        -03 IO92             G3XB          -03 IO92
+QSO:   144 DG 2022-08-03 1938 2E0KLX        -07 IO92             G4UJS         -03 -
+QSO:   144 DG 2022-08-03 1950 2E0KLX        -05 IO92             G3SED         -14 IO90
+QSO:   144 DG 2022-08-03 2002 2E0KLX        -13 IO92             G0ISX         -15 IO93
+QSO:   144 DG 2022-08-03 2006 2E0KLX        -15 IO92             M1CDP         -15 -
+QSO:   144 DG 2022-08-03 2016 2E0KLX        -10 IO92             G4PDF         -15 -
+QSO:   144 DG 2022-08-03 2028 2E0KLX        -11 IO92             M0BKV         -13 IO70
+END-OF-LOG:

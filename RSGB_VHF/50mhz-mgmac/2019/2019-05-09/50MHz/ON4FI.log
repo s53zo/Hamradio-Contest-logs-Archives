@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: ON4FI
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO20
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190509&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=141; excluded rows=0.
+QSO:    50 DG 2019-05-09 1802 ON4FI         -12 JO20             G3YDY         -16 JO01
+QSO:    50 DG 2019-05-09 1805 ON4FI         -14 JO20             G4CLA         -10 IO92
+QSO:    50 DG 2019-05-09 1809 ON4FI         -17 JO20             PF3X          -12 JO21
+QSO:    50 DG 2019-05-09 1811 ON4FI         -06 JO20             PE1FWM        +04 JO22
+QSO:    50 DG 2019-05-09 1827 ON4FI         -13 JO20             G0MBL         -18 JO01
+QSO:    50 DG 2019-05-09 1845 ON4FI         -08 JO20             PC9F          -16 JO32
+QSO:    50 DG 2019-05-09 1851 ON4FI         +00 JO20             DH6BH         +03 JO33
+END-OF-LOG:

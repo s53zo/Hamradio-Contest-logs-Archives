@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: G0BIX
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO01
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=260513&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=504; excluded rows=0.
+QSO:   432 DG 2026-05-13 1901 G0BIX         +06 JO01             M0MHX         +18 JO01
+QSO:   432 DG 2026-05-13 1912 G0BIX         -04 JO01             M0UHF         -16 IO91
+QSO:   432 DG 2026-05-13 1942 G0BIX         +07 JO01             G7RDX         -01 IO91
+QSO:   432 DG 2026-05-13 1947 G0BIX         -08 JO01             G4ZTR         -12 JO01
+QSO:   432 DG 2026-05-13 1951 G0BIX         -13 JO01             G1HJW         -03 JO01
+QSO:   432 DG 2026-05-13 2019 G0BIX         +24 JO01             G7ICV         +30 JO01
+END-OF-LOG:

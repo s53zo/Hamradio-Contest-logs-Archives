@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SPRING-50MHZ-CONTEST
+CALLSIGN: G0CER
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82RV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Spring+50MHz+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=964; excluded rows=0.
+QSO:    50 PH 2022-04-10 0950 G0CER         55 1 IO82RV TF       G4RRA         55 37 IO80BS EX
+QSO:    50 PH 2022-04-10 0953 G0CER         57 2 IO82RV TF       G4RLF/P       57 14 IO70UM PL
+QSO:    50 PH 2022-04-10 0955 G0CER         59 3 IO82RV TF       G4ASR         59 36 IO81MX HR
+QSO:    50 PH 2022-04-10 0959 G0CER         59 4 IO82RV TF       GW0RHC        59 25 IO71UN SA
+QSO:    50 PH 2022-04-10 1003 G0CER         59 5 IO82RV TF       GW4EVX        59 7 IO83KE CH
+QSO:    50 PH 2022-04-10 1005 G0CER         53 6 IO82RV TF       GW4ZAR        53 10 IO83KF CH
+QSO:    50 PH 2022-04-10 1029 G0CER         59 7 IO82RV TF       G4FZN/P       59 39 IO94JF YO
+QSO:    50 PH 2022-04-10 1035 G0CER         57 8 IO82RV TF       G4TVR         57 23 IO92CI BM
+QSO:    50 PH 2022-04-10 1056 G0CER         59 9 IO82RV TF       2E0OUT        59 20 IO81WO SN
+QSO:    50 PH 2022-04-10 1057 G0CER         59 10 IO82RV TF      G0LGS/P       59 34 IO81WU GL
+QSO:    50 PH 2022-04-10 1130 G0CER         56 11 IO82RV TF      G3MEH         56 41 IO91QS HP
+QSO:    50 PH 2022-04-10 1132 G0CER         55 12 IO82RV TF      G3OVH         55 16 IO92JP LE
+QSO:    50 PH 2022-04-10 1150 G0CER         54 13 IO82RV TF      G4CTY         54 19 JO01DC TN
+QSO:    50 PH 2022-04-10 1154 G0CER         59 14 IO82RV TF      GI4SNA        59 9 IO64XM BT
+END-OF-LOG:

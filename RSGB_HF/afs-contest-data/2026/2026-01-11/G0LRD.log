@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-AFS-CONTEST-DATA
+CALLSIGN: G0LRD
+CATEGORY-MODE: RTTY
+CATEGORY-BAND: 40M
+CATEGORY-OPERATOR: CHECKLOG
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/hfresults.pl?Contest=AFS+Contest+DATA&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Export source rows=24001; excluded rows=2.
+QSO:  7047 RY 2026-01-11 1300 G0LRD         599 1                G7NJX         599 2
+QSO:  7053 RY 2026-01-11 1301 G0LRD         599 1                M4A           599 2
+QSO:  7054 RY 2026-01-11 1303 G0LRD         599 2                G4FNL         599 6
+END-OF-LOG:

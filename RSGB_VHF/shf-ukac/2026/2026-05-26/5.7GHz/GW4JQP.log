@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: GW4JQP
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: IO71KR
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+5.7+GHz&Date=260526&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=93; excluded rows=1.
+QSO:  5.7G CW 2026-05-26 1903 GW4JQP        559 1 IO71KR         G4ODA         559 2 IO92WS
+QSO:  5.7G CW 2026-05-26 1943 GW4JQP        559 2 IO71KR         G4LDR         519 1 IO91EC
+QSO:  5.7G CW 2026-05-26 2029 GW4JQP        539 3 IO71KR         G4CLA         519 6 IO92JL
+QSO:  5.7G CW 2026-05-26 2042 GW4JQP        539 4 IO71KR         G3XDY         539 3 JO02OB
+END-OF-LOG:

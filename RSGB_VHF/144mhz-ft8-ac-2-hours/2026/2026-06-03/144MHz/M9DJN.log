@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: M9DJN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=260603&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1053; excluded rows=0.
+QSO:   144 DG 2026-06-03 1907 M9DJN         +11 IO82             G8SEI         +00 IO92
+QSO:   144 DG 2026-06-03 1912 M9DJN         +16 IO82             G0GFC         -02 IO92
+QSO:   144 DG 2026-06-03 1914 M9DJN         +10 IO82             G0KOI         -06 IO92
+QSO:   144 DG 2026-06-03 1916 M9DJN         +06 IO82             MM0CEZ        -17 IO75
+QSO:   144 DG 2026-06-03 1920 M9DJN         +06 IO82             G4HGI         -08 IO83
+QSO:   144 DG 2026-06-03 1928 M9DJN         -09 IO82             G8CZW         -25 IO83
+QSO:   144 DG 2026-06-03 1932 M9DJN         -14 IO82             G8YPE         -17 IO92
+QSO:   144 DG 2026-06-03 1934 M9DJN         -05 IO82             G7RHF         -11 IO82
+QSO:   144 DG 2026-06-03 1947 M9DJN         -05 IO82             G4JIX         -18 IO94
+QSO:   144 DG 2026-06-03 1959 M9DJN         -02 IO82             G4ANS         -12 IO82
+QSO:   144 DG 2026-06-03 2002 M9DJN         +07 IO82             G0JCC         -15 IO82
+QSO:   144 DG 2026-06-03 2008 M9DJN         -07 IO82             GM8MJV        -08 IO85
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: G8CZW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83WG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1726; excluded rows=2.
+QSO:   144 PH 2026-08-01 1626 G8CZW         59 1 IO83WG SK       M0ICK/P       59 59 IO83RO BL
+QSO:   144 PH 2026-08-01 1628 G8CZW         59 2 IO83WG SK       G0HIK/P       59 38 IO84KD LA
+QSO:   144 PH 2026-08-01 1634 G8CZW         59 3 IO83WG SK       M0WML/P       59 37 IO82ON SY
+QSO:   144 PH 2026-08-01 1740 G8CZW         59 4 IO83WG SK       G8ZRE         59 37 IO83NE CH
+END-OF-LOG:

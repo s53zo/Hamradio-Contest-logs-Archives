@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G8AIM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92FH
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=260609&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5033; excluded rows=1.
+QSO:   432 PH 2026-06-09 1903 G8AIM         59 1 IO92FH          GI4SNA        53 4 IO64XM
+QSO:   432 PH 2026-06-09 1912 G8AIM         59 2 IO92FH          G7LII/P       59 6 IO92KF
+QSO:   432 PH 2026-06-09 1925 G8AIM         59 3 IO92FH          F1BHL/P       59 30 IN99OI
+QSO:   432 PH 2026-06-09 1943 G8AIM         59 4 IO92FH          MD0MAN        59 22 IO74OB
+QSO:   432 PH 2026-06-09 1953 G8AIM         59 5 IO92FH          G0XDI         59 38 IO91RP
+END-OF-LOG:

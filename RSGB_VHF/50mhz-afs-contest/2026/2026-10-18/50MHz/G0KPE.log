@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G0KPE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO91JK
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1888; excluded rows=0.
+QSO:    50 PH 2026-10-18 1049 G0KPE         55 1 IO91JK RG       G4YPC         55 31 IP91RV GU
+QSO:    50 PH 2026-10-18 1051 G0KPE         59 2 IO91JK RG       G3SVD         59 28 IO91II RG
+QSO:    50 PH 2026-10-18 1108 G0KPE         59 3 IO91JK RG       G0ODQ         59 43 IO91MR OE
+QSO:    50 PH 2026-10-18 1110 G0KPE         59 4 IO91JK RG       G4HLV/P       59 33 IO91GN OE
+QSO:    50 PH 2026-10-18 1116 G0KPE         55 5 IO91JK RG       G5PI/P        55 55 JO02EB CB
+QSO:    50 PH 2026-10-18 1118 G0KPE         59 6 IO91JK RG       G4RUW         59 1 IO91IJ RG
+QSO:    50 PH 2026-10-18 1133 G0KPE         59 7 IO91JK RG       M0UHF/P       59 19 IO91IN OE
+QSO:    50 PH 2026-10-18 1144 G0KPE         53 8 IO91JK RG       GD8EXI        53 45 IO74PC IM
+QSO:    50 CW 2026-10-18 1158 G0KPE         559 9 IO91JK RG      G4CZB/P       559 38 IO92LH NN
+END-OF-LOG:

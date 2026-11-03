@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-MGMAC
+CALLSIGN: G4APJ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+MGMAC&Date=190411&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=160; excluded rows=0.
+QSO:    50 DG 2019-04-11 1801 G4APJ         +03 IO83             M1EYP/P       -04 IO83
+QSO:    50 DG 2019-04-11 1806 G4APJ         -06 IO83             GI4SNA        -02 IO64
+QSO:    50 DG 2019-04-11 1809 G4APJ         +00 IO83             G8HXE         -04 IO83
+QSO:    50 DG 2019-04-11 1812 G4APJ         -12 IO83             G3YDY         -13 JO01
+QSO:    50 DG 2019-04-11 1818 G4APJ         -01 IO83             M6VUK         +00 IO93
+QSO:    50 DG 2019-04-11 1832 G4APJ         -16 IO83             G7RHF         -01 IO82
+QSO:    50 DG 2019-04-11 1836 G4APJ         -12 IO83             2E0VPX        +13 IO92
+QSO:    50 DG 2019-04-11 1838 G4APJ         -06 IO83             M1BXF         +08 JO02
+QSO:    50 DG 2019-04-11 1843 G4APJ         -13 IO83             G3TDH         +08 IO83
+QSO:    50 DG 2019-04-11 1846 G4APJ         -07 IO83             G4OBK         -03 IO94
+QSO:    50 DG 2019-04-11 1850 G4APJ         -14 IO83             G8NRY         -01 IO93
+END-OF-LOG:

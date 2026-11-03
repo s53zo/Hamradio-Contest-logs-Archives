@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-FMAC
+CALLSIGN: GW8ASD
+CATEGORY-MODE: FM
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83LB
+CATEGORY: 10V
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=50&Contest=50MHz+FMAC&Date=180913&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=51; excluded rows=0.
+QSO:    50 FM 2018-09-13 1803 GW8ASD        59 1 IO83LB          G8ZRE         59 2 IO83NE
+QSO:    50 FM 2018-09-13 1808 GW8ASD        53 2 IO83LB          M0RKX/P       52 3 IO92BA
+QSO:    50 FM 2018-09-13 1838 GW8ASD        52 3 IO83LB          M0SSN/P       59 2 IO83PN
+QSO:    50 FM 2018-09-13 1846 GW8ASD        56 4 IO83LB          M6OAU         51 3 IO83NI
+END-OF-LOG:

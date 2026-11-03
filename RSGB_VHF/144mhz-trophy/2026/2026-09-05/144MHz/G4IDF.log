@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-TROPHY
+CALLSIGN: G4IDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82VE
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Trophy&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9597; excluded rows=4.
+QSO:   144 PH 2026-09-06 0942 G4IDF         59 1 IO82VE          MW1B          59 183 IO81KW
+QSO:   144 PH 2026-09-06 1020 G4IDF         59 2 IO82VE          G4ASR         59 245 IO81MX
+QSO:   144 PH 2026-09-06 1025 G4IDF         59 3 IO82VE          G6WCG/P       59 370 IO93AD
+QSO:   144 PH 2026-09-06 1026 G4IDF         59 4 IO82VE          G8DOH         59 117 IO92FA
+QSO:   144 PH 2026-09-06 1035 G4IDF         55 5 IO82VE          G4PIQ         55 242 JO02OD
+END-OF-LOG:

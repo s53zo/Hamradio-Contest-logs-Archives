@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G4FFY
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=220105&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from digital contest context (unrecognized/absent source mode retained privately).
+SOAPBOX: Export source rows=1458; excluded rows=0.
+QSO:   144 DG 2022-01-05 1902 G4FFY         -07 JO01             G7RDX         -13 IO91
+QSO:   144 DG 2022-01-05 1904 G4FFY         +08 JO01             2E0HXE        +19 JO01
+QSO:   144 DG 2022-01-05 1907 G4FFY         -01 JO01             G4DCV         -02 IO91
+QSO:   144 DG 2022-01-05 1913 G4FFY         +02 JO01             G0BIX         +02 JO01
+QSO:   144 DG 2022-01-05 1915 G4FFY         -09 JO01             G4ZZL         -16 JO01
+QSO:   144 DG 2022-01-05 1921 G4FFY         -09 JO01             2E0DBS        -18 JO02
+QSO:   144 DG 2022-01-05 1928 G4FFY         +07 JO01             M0XTY         -13 JO01
+END-OF-LOG:

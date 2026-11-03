@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GW4SHF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO82HP
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=260303&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9263; excluded rows=4.
+QSO:   144 PH 2026-03-03 2002 GW4SHF        59 1 IO82HP          G8DIR         59 2 IO82MP
+QSO:   144 PH 2026-03-03 2003 GW4SHF        59 2 IO82HP          G4KPZ         59 2 IO92WK
+QSO:   144 PH 2026-03-03 2005 GW4SHF        59 3 IO82HP          G4HWA         59 5 IO92ME
+QSO:   144 PH 2026-03-03 2005 GW4SHF        59 4 IO82HP          M0TZM         59 1 IO82SR
+QSO:   144 PH 2026-03-03 2006 GW4SHF        59 5 IO82HP          M3EMO         59 1 IO92AN
+QSO:   144 PH 2026-03-03 2006 GW4SHF        59 6 IO82HP          G4KQH         59 4 IO92JD
+QSO:   144 PH 2026-03-03 2007 GW4SHF        59 7 IO82HP          G0UFE         57 3 IO82SP
+QSO:   144 PH 2026-03-03 2007 GW4SHF        59 8 IO82HP          M0TXE         59 4 IO82OQ
+QSO:   144 PH 2026-03-03 2010 GW4SHF        56 9 IO82HP          M1DST         57 6 IO91BN
+QSO:   144 PH 2026-03-03 2012 GW4SHF        57 10 IO82HP         MW0OMB        59 8 IO81HN
+QSO:   144 PH 2026-03-03 2013 GW4SHF        59 11 IO82HP         GW0VFF        59 3 IO81CP
+QSO:   144 PH 2026-03-03 2019 GW4SHF        59 12 IO82HP         GM4JTJ        59 15 IO86RP
+QSO:   144 PH 2026-03-03 2022 GW4SHF        59 13 IO82HP         G1YBB/P       59 36 IO82LB
+QSO:   144 PH 2026-03-03 2025 GW4SHF        56 14 IO82HP         G7LII/P       56 19 IO92KF
+QSO:   144 PH 2026-03-03 2028 GW4SHF        59 15 IO82HP         M8VCC/P       57 43 IO70SP
+QSO:   144 PH 2026-03-03 2046 GW4SHF        53 16 IO82HP         G8GRS/P       55 17 IO81QJ
+QSO:   144 PH 2026-03-03 2049 GW4SHF        55 17 IO82HP         G0XDI         57 47 IO91RP
+END-OF-LOG:

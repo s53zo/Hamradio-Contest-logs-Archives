@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4MJS/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91IN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=260514&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2815; excluded rows=1.
+QSO:    50 PH 2026-05-14 1902 G4MJS/P       59 1 IO91IN          M0UHF         59 2 IO91IP
+QSO:    50 PH 2026-05-14 1904 G4MJS/P       59 2 IO91IN          G0SKA         59 6 IO91OQ
+QSO:    50 PH 2026-05-14 1921 G4MJS/P       58 3 IO91IN          G7LII/P       57 16 IO92KF
+QSO:    50 PH 2026-05-14 1930 G4MJS/P       59 4 IO91IN          G8CUL         59 14 IO91JO
+QSO:    50 PH 2026-05-14 1955 G4MJS/P       57 5 IO91IN          G0GJV         51 13 IO91OK
+QSO:    50 PH 2026-05-14 1959 G4MJS/P       55 6 IO91IN          G4HWA         57 32 IO92ME
+QSO:    50 PH 2026-05-14 2002 G4MJS/P       55 7 IO91IN          G4CLA         59 53 IO92JL
+QSO:    50 PH 2026-05-14 2005 G4MJS/P       55 8 IO91IN          G0FEH/P       55 29 IO82HD
+END-OF-LOG:

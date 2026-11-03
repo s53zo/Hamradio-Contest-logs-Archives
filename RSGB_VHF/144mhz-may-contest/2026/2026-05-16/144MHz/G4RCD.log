@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G4RCD
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93GX
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4133; excluded rows=1.
+QSO:   144 PH 2026-05-16 1457 G4RCD         55 1 IO93GX HG       G4ASR         55 45 IO81MX HR
+QSO:   144 PH 2026-05-17 1012 G4RCD         59 2 IO93GX HG       G4HGT/P       59 37 IO94CB HG
+QSO:   144 CW 2026-05-17 1339 G4RCD         559 3 IO93GX HG      G4ODA         539 170 IO92WS PE
+QSO:   144 PH 2026-05-17 1346 G4RCD         59 4 IO93GX HG       G8SEI         59 76 IO92FO CV
+END-OF-LOG:

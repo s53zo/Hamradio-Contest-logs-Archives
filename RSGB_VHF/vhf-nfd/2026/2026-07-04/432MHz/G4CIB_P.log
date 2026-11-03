@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4CIB/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO81VX
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1343; excluded rows=1.
+QSO:   432 PH 2026-07-04 1401 G4CIB/P       59 1 IO81VX          G6WCG/P       59 1 IO93AD
+QSO:   432 PH 2026-07-04 1403 G4CIB/P       59 2 IO81VX          G2BQY/P       59 4 IO81RF
+QSO:   432 PH 2026-07-04 1406 G4CIB/P       59 3 IO81VX          GW3ZTT/P      59 6 IO82KW
+QSO:   432 PH 2026-07-04 1413 G4CIB/P       59 4 IO81VX          G0LGS         59 3 IO81WV
+QSO:   432 PH 2026-07-04 1417 G4CIB/P       53 5 IO81VX          G0VHF/P       53 14 JO01PU
+QSO:   432 PH 2026-07-04 1450 G4CIB/P       55 6 IO81VX          G5LK/P        55 44 JO01QD
+END-OF-LOG:
