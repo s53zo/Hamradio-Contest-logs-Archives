@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0HAS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81VH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190507&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12041; excluded rows=5.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2019-05-07 2115 G0HAS         55 1 IO81VH          G0GRI/P       54 68 IO80UU
+QSO:   144 PH 2019-05-07 2117 G0HAS         59 2 IO81VH          G0HEL/P       59 73 IO81WG
+QSO:   144 PH 2019-05-07 2122 G0HAS         55 3 IO81VH          G8DER         55 22 IO81XB
+QSO:   144 PH 2019-05-07 2128 G0HAS         55 5 IO81VH          G0BNC/P       58 29 IO91EU
+QSO:   144 PH 2019-05-07 2130 G0HAS         55 6 IO81VH          M0GHZ/P       55 88 IO81UN
+END-OF-LOG:

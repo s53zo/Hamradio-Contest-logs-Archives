@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G3YLA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02MP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2914; excluded rows=3.
+QSO:    50 PH 2023-10-22 0936 G3YLA         55 1 JO02MP NK       M1MHZ         54 23 IO92WV PE
+QSO:    50 PH 2023-10-22 0954 G3YLA         59 2 JO02MP NK       G4ODA         59 48 IO92WS PE
+QSO:    50 PH 2023-10-22 0955 G3YLA         59 3 JO02MP NK       G4PFZ         59 8 JO02PP NK
+QSO:    50 PH 2023-10-22 0956 G3YLA         59 4 JO02MP NK       G4CWH/P       59 45 IO92XA SG
+QSO:    50 PH 2023-10-22 0958 G3YLA         55 5 JO02MP NK       G1SCT         55 18 IO92XT PE
+QSO:    50 CW 2023-10-22 1000 G3YLA         579 6 JO02MP NK      G3MPN         559 2 JO02NN NK
+QSO:    50 CW 2023-10-22 1006 G3YLA         599 7 JO02MP NK      G4DYC         599 1 JO02MP NK
+QSO:    50 CW 2023-10-22 1017 G3YLA         599 8 JO02MP NK      IS0GQX        599 0 JM49OH
+QSO:    50 PH 2023-10-22 1057 G3YLA         55 9 JO02MP NK       G4FZN/P       55 48 IO94JF YO
+QSO:    50 CW 2023-10-22 1125 G3YLA         529 10 JO02MP NK     G8VPE         559 5 JO02TP NK
+QSO:    50 PH 2023-10-22 1209 G3YLA         52 11 JO02MP NK      EA1NL         54 56 IN52PJ
+QSO:    50 PH 2023-10-22 1219 G3YLA         59 12 JO02MP NK      G3TBK/P       59 80 IO93RA NG
+QSO:    50 PH 2023-10-22 1225 G3YLA         56 13 JO02MP NK      G4ERO         55 40 JO02DJ CB
+QSO:    50 PH 2023-10-22 1248 G3YLA         57 14 JO02MP NK      GW4SHF        56 76 IO82HP SY
+QSO:    50 PH 2023-10-22 1252 G3YLA         59 15 JO02MP NK      G5PI/P        59 88 JO02EB CB
+END-OF-LOG:

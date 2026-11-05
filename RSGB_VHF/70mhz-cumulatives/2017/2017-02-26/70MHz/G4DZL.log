@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4DZL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92IS
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170226&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1361; excluded rows=1.
+QSO:    70 PH 2017-02-26 1043 G4DZL         57 1 IO92IS          G0EAK/P       57 15 IO93NI
+QSO:    70 PH 2017-02-26 1048 G4DZL         56 2 IO92IS          G4HGT/P       56 34 IO93BV
+QSO:    70 PH 2017-02-26 1051 G4DZL         56 3 IO92IS          G4FZN/P       56 44 IO94JF
+QSO:    70 PH 2017-02-26 1114 G4DZL         57 4 IO92IS          G3OVH         57 16 IO92JP
+QSO:    70 PH 2017-02-26 1123 G4DZL         55 5 IO92IS          GW4BVE        43 30 IO82KQ
+QSO:    70 PH 2017-02-26 1145 G4DZL         55 6 IO92IS          G4ASR         55 60 IO81MX
+QSO:    70 PH 2017-02-26 1157 G4DZL         57 7 IO92IS          G5UM          57 18 IO92KR
+END-OF-LOG:

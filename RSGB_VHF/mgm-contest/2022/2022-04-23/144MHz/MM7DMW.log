@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MGM-CONTEST
+CALLSIGN: MM7DMW
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=MGM+contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from machine-generated-mode contest context; exact submode unavailable.
+SOAPBOX: Export source rows=2504; excluded rows=0.
+QSO:   144 DG 2022-04-23 1416 MM7DMW        -05 IO85             MM0CEZ        -23 IO75
+QSO:   144 DG 2022-04-23 1931 MM7DMW        +02 IO85             GM4FVM        +01 IO85
+QSO:   144 DG 2022-04-23 1942 MM7DMW        -11 IO85             M0XVF         -10 IO94
+QSO:   144 DG 2022-04-23 2141 MM7DMW        -06 IO85             GM8MJV        -17 IO85
+END-OF-LOG:

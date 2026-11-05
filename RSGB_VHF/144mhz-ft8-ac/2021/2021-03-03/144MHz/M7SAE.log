@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M7SAE
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210303&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1852; excluded rows=0.
+QSO:   144 FT8 2021-03-03 1901 M7SAE         +10 JO01             2E0FTX        +06 JO01
+QSO:   144 FT8 2021-03-03 1920 M7SAE         -18 JO01             G3IRQ         -13 JO02
+QSO:   144 FT8 2021-03-03 1921 M7SAE         +08 JO01             G7WIR         -11 JO01
+QSO:   144 FT8 2021-03-03 1925 M7SAE         -14 JO01             G0JJG         -14 JO02
+QSO:   144 FT8 2021-03-03 1932 M7SAE         +10 JO01             G7ICV         -13 JO01
+QSO:   144 FT8 2021-03-03 1938 M7SAE         +13 JO01             M0DGD         -13 JO01
+QSO:   144 FT8 2021-03-03 1947 M7SAE         +03 JO01             G0BIX         -16 JO01
+QSO:   144 FT8 2021-03-03 1949 M7SAE         -12 JO01             2E0DUE        -05 JO01
+QSO:   144 FT8 2021-03-03 2008 M7SAE         -12 JO01             F4HRD         -10 JO00
+QSO:   144 FT8 2021-03-03 2018 M7SAE         -06 JO01             G0UJA         -06 JO01
+QSO:   144 FT8 2021-03-03 2024 M7SAE         +16 JO01             G3YDY         +08 JO01
+QSO:   144 FT8 2021-03-03 2033 M7SAE         -24 JO01             ON5AEN        -11 JO10
+END-OF-LOG:

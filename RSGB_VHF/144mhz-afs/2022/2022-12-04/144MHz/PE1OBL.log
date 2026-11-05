@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: PE1OBL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO21ET
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7394; excluded rows=0.
+QSO:   144 PH 2022-12-04 0635 PE1OBL        59 1 JO21ET          TM5R          59 26 JN19BQ
+QSO:   144 PH 2022-12-04 1001 PE1OBL        59 1 JO21ET          G3MEH         59 1 IO91QS
+QSO:   144 PH 2022-12-04 1027 PE1OBL        59 2 JO21ET          G4YPC         51 17 IO91RH
+QSO:   144 PH 2022-12-04 1031 PE1OBL        59 3 JO21ET          G3XDY         55 21 JO02OB
+QSO:   144 PH 2022-12-04 1115 PE1OBL        59 4 JO21ET          G3PYE/P       59 56 JO02CE
+QSO:   144 PH 2022-12-04 1127 PE1OBL        59 5 JO21ET          G4ODA         58 94 IO92WS
+QSO:   144 PH 2022-12-04 1129 PE1OBL        59 6 JO21ET          M1MHZ         55 89 IO92WV
+QSO:   144 PH 2022-12-04 1143 PE1OBL        59 7 JO21ET          G0XDI         59 88 IO91RQ
+END-OF-LOG:

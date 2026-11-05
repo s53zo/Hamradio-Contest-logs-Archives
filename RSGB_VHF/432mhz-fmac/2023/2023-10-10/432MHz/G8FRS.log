@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G8FRS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91AR
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=231010&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=561; excluded rows=0.
+QSO:   432 FM 2023-10-10 1839 G8FRS         59 1 IO91AR          M1DST         59 20 IO91BN
+QSO:   432 FM 2023-10-10 1841 G8FRS         59 2 IO91AR          M5CBS/P       59 19 IO91CL
+QSO:   432 FM 2023-10-10 1843 G8FRS         59 3 IO91AR          G4LDL/P       59 24 IO91CM
+QSO:   432 FM 2023-10-10 1846 G8FRS         57 4 IO91AR          M0KYB/P       57 27 IO91FN
+QSO:   432 FM 2023-10-10 1849 G8FRS         59 5 IO91AR          G4ILI/P       58 30 IO81WU
+END-OF-LOG:

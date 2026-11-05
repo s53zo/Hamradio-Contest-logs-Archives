@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: GM4JIB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=240605&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=809; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 FT8 2024-06-05 1704 GM4JIB        -05 IO85             G8EEM         -01 IO93
+QSO:   144 FT8 2024-06-05 1709 GM4JIB        -01 IO85             GM7PKT        +03 IO76
+QSO:   144 FT8 2024-06-05 1715 GM4JIB        -18 IO85             GM4OAS        -09 IO76
+QSO:   144 FT8 2024-06-05 1736 GM4JIB        +11 IO85             MI0IHH        -06 IO74
+QSO:   144 FT8 2024-06-05 1752 GM4JIB        -08 IO85             G1VNB         -20 IO92
+QSO:   144 FT8 2024-06-05 1758 GM4JIB        +31 IO85             MM0RKN        +02 IO85
+QSO:   144 FT8 2024-06-05 1912 GM4JIB        +06 IO85             G4ITR         -19 IO95
+QSO:   144 FT8 2024-06-05 1920 GM4JIB        -18 IO85             GM4FVM        -16 IO85
+QSO:   144 FT8 2024-06-05 1927 GM4JIB        -13 IO85             2E1FMS        -17 IO82
+QSO:   144 FT8 2024-06-05 1934 GM4JIB        -18 IO85             GM7GAX        -16 IO86
+QSO:   144 FT8 2024-06-05 1946 GM4JIB        +13 IO85             GM8MJV        +10 IO85
+QSO:   144 FT8 2024-06-05 2001 GM4JIB        -01 IO85             G8SEI         -16 IO92
+QSO:   144 FT8 2024-06-05 2005 GM4JIB        -04 IO85             M5LMG         -10 IO82
+QSO:   144 FT8 2024-06-05 2010 GM4JIB        -18 IO85             G4NBS         -21 JO02
+QSO:   144 FT8 2024-06-05 2018 GM4JIB        -08 IO85             GM0HBK        +05 IO77
+QSO:   144 FT8 2024-06-05 2040 GM4JIB        -09 IO85             G4HGI         -13 IO83
+QSO:   144 FT8 2024-06-05 2055 GM4JIB        -19 IO85             GM0ICF        -14 IO75
+END-OF-LOG:

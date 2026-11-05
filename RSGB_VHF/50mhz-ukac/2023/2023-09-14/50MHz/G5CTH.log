@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G5CTH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91PP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230914&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4648; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    50 PH 2023-09-14 1915 G5CTH         59 1 IO91PP          M0UHF         59 11 IO91IP
+QSO:    50 PH 2023-09-14 1922 G5CTH         59 2 IO91PP          G0SKA         59 11 IO91OQ
+QSO:    50 PH 2023-09-14 1930 G5CTH         59 3 IO91PP          M0GHZ         59 16 IO81UK
+QSO:    50 PH 2023-09-14 1935 G5CTH         59 4 IO91PP          G4ASR         59 45 IO81MX
+QSO:    50 PH 2023-09-14 1946 G5CTH         59 5 IO91PP          G0GJV         59 16 IO91OK
+QSO:    50 PH 2023-09-14 1948 G5CTH         59 6 IO91PP          G0ODQ         59 36 IO91MR
+QSO:    50 PH 2023-09-14 1952 G5CTH         59 7 IO91PP          G4GFI         59 24 IO91VH
+QSO:    50 PH 2023-09-14 1958 G5CTH         59 8 IO91PP          G4YPC         59 26 IO91RH
+QSO:    50 PH 2023-09-14 2004 G5CTH         59 9 IO91PP          G7LRQ/P       59 65 IO91TU
+END-OF-LOG:

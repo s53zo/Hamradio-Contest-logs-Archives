@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4ASR/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO81FD
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=210727&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=295; excluded rows=17.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   10G PH 2021-07-27 1835 G4ASR/P       54 2 IO81FD          G4ZTR         55 1 JO01KW
+QSO:   10G PH 2021-07-27 1841 G4ASR/P       54 3 IO81FD          G3VKV         58 1 IO81XV
+QSO:   10G PH 2021-07-27 1844 G4ASR/P       59 4 IO81FD          G4LDR         59 1 IO91EC
+QSO:   10G PH 2021-07-27 1849 G4ASR/P       59 5 IO81FD          G4ODA         59 3 IO92WS
+QSO:   10G PH 2021-07-27 1857 G4ASR/P       55 6 IO81FD          G0LBK/P       55 5 IO93EH
+QSO:   10G PH 2021-07-27 1908 G4ASR/P       59 7 IO81FD          G1DFL/P       59 1 IO91IN
+QSO:   10G PH 2021-07-27 1912 G4ASR/P       55 8 IO81FD          G0WUS         57 5 IO92KO
+QSO:   10G CW 2021-07-27 1921 G4ASR/P       529 9 IO81FD         G4BXD         549 4 IO82UJ
+QSO:   10G PH 2021-07-27 1935 G4ASR/P       52 10 IO81FD         2E0MDJ/P      51 1 IO81WU
+QSO:   10G PH 2021-07-27 1938 G4ASR/P       56 11 IO81FD         M0FXX/P       56 2 IO91IN
+QSO:   10G PH 2021-07-27 1947 G4ASR/P       59 12 IO81FD         G4CLA         57 11 IO92JL
+QSO:   10G PH 2021-07-27 1959 G4ASR/P       51 13 IO81FD         G1PPA/P       51 11 IO93RI
+QSO:   10G CW 2021-07-27 2015 G4ASR/P       529 14 IO81FD        G3XDY         529 6 JO02OB
+QSO:   10G PH 2021-07-27 2016 G4ASR/P       54 15 IO81FD         G0LGS/P       54 6 IO81WU
+END-OF-LOG:

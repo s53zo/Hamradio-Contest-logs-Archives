@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G3YLA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: JO02MP
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=240416&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2463; excluded rows=2.
+QSO:  1.2G PH 2024-04-16 1918 G3YLA         59 1 JO02MP          G4DYC         59 2 JO02MP
+QSO:  1.2G PH 2024-04-16 1920 G3YLA         55 2 JO02MP          G4AFF         57 6 JO02LO
+QSO:  1.2G CW 2024-04-16 1953 G3YLA         559 3 JO02MP         G4LPP         559 14 JO02SS
+QSO:  1.2G PH 2024-04-16 2002 G3YLA         59 4 JO02MP          G4ODA         59 30 IO92WS
+END-OF-LOG:

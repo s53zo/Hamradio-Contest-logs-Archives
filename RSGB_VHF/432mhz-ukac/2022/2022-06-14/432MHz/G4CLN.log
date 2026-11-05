@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4CLN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO80FK
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=220614&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7683; excluded rows=2.
+QSO:   432 PH 2022-06-14 1910 G4CLN         59 1 IO80FK          G7KTE         59 2 IO80FJ
+QSO:   432 PH 2022-06-14 1920 G4CLN         59 2 IO80FK          F1BHL/P       58 37 IN99CQ
+QSO:   432 PH 2022-06-14 1930 G4CLN         59 3 IO80FK          G3WCB         59 6 IO80EI
+QSO:   432 PH 2022-06-14 1933 G4CLN         59 4 IO80FK          G3WGN         59 10 IO80EJ
+QSO:   432 PH 2022-06-14 1935 G4CLN         59 5 IO80FK          G4CST         59 5 IO80FJ
+QSO:   432 PH 2022-06-14 1940 G4CLN         59 6 IO80FK          M7NZL         59 6 IO80FK
+QSO:   432 PH 2022-06-14 1950 G4CLN         58 7 IO80FK          G4RUL/P       57 37 JO00DR
+END-OF-LOG:

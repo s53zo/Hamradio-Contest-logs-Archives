@@ -1,0 +1,40 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: M1CRO/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: JO01PU
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=371; excluded rows=5.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   10G CW 2017-10-07 1415 M1CRO/P       559 1 JO01PU         OR6T          559 1 JO20KV
+QSO:   10G CW 2017-10-07 1440 M1CRO/P       529 2 JO01PU         DK2MN         529 2 JO32MC
+QSO:   10G CW 2017-10-07 1443 M1CRO/P       559 3 JO01PU         DF0MU         559 5 JO32PC
+QSO:   10G PH 2017-10-07 1450 M1CRO/P       57 4 JO01PU          PE1MMP        58 56 JO21VT
+QSO:   10G PH 2017-10-07 1510 M1CRO/P       54 5 JO01PU          G4ASR         55 53 IO81MX
+QSO:   10G PH 2017-10-07 1519 M1CRO/P       56 6 JO01PU          F6DKW         59 56 JN18CS
+QSO:   10G PH 2017-10-07 1602 M1CRO/P       55 8 JO01PU          DF0HS/P       55 10 JO31AA
+QSO:   10G PH 2017-10-07 1604 M1CRO/P       53 9 JO01PU          DK1VC         52 4 JO31RG
+QSO:   10G PH 2017-10-07 1619 M1CRO/P       55 10 JO01PU         G4CLA         59 2 IO92JL
+QSO:   10G PH 2017-10-07 1650 M1CRO/P       59 11 JO01PU         G5B           59 4 IO92WS
+QSO:   10G PH 2017-10-07 1714 M1CRO/P       59 12 JO01PU         G4BAO         59 1 JO02CG
+QSO:   10G PH 2017-10-07 1738 M1CRO/P       59 13 JO01PU         G4LDR         59 1 IO91EC
+QSO:   10G PH 2017-10-07 1814 M1CRO/P       56 14 JO01PU         ON4BHM        56 1 JO21BE
+QSO:   10G PH 2017-10-07 1820 M1CRO/P       58 15 JO01PU         G8NEY         59 1 IO81VK
+QSO:   10G CW 2017-10-07 1825 M1CRO/P       529 16 JO01PU        G3UVR         559 1 IO83KH
+QSO:   10G CW 2017-10-07 1941 M1CRO/P       529 17 JO01PU        DK0PU         519 18 JO31JN
+QSO:   10G PH 2017-10-07 2224 M1CRO/P       57 19 JO01PU         G4CBW         56 2 IO83UB
+QSO:   10G PH 2017-10-08 1016 M1CRO/P       58 20 JO01PU         PA0S          58 5 JO21FW
+QSO:   10G CW 2017-10-08 1025 M1CRO/P       529 21 JO01PU        ON4CDU        529 4 JO20GS
+QSO:   10G PH 2017-10-08 1125 M1CRO/P       59 22 JO01PU         G3XDY         59 8 JO02OB
+QSO:   10G CW 2017-10-08 1358 M1CRO/P       559 23 JO01PU        G8DKK         569 1 IO91VX
+END-OF-LOG:

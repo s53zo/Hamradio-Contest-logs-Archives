@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G1SCT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92XT
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2706; excluded rows=0.
+QSO:    50 PH 2025-10-19 0925 G1SCT         59 1 IO92XT PE       G3PYE/P       59 20 JO02CE CB
+QSO:    50 PH 2025-10-19 0927 G1SCT         59 2 IO92XT PE       G4ODA         59 27 IO92WS PE
+QSO:    50 PH 2025-10-19 0928 G1SCT         59 3 IO92XT PE       G4CWH/P       59 33 IO92XA SG
+QSO:    50 PH 2025-10-19 0929 G1SCT         59 4 IO92XT PE       G5PI/P        59 32 JO02EB CB
+QSO:    50 PH 2025-10-19 0931 G1SCT         59 5 IO92XT PE       G3TBK/P       59 24 IO93RA NG
+QSO:    50 PH 2025-10-19 0933 G1SCT         59 6 IO92XT PE       G1DSP/P       59 21 IO92VU PE
+QSO:    50 PH 2025-10-19 0935 G1SCT         59 7 IO92XT PE       G4HGT/P       59 17 IO94CB HG
+QSO:    50 PH 2025-10-19 0937 G1SCT         59 8 IO92XT PE       G1WRC/P       59 26 IO92XR PE
+QSO:    50 PH 2025-10-19 0939 G1SCT         55 9 IO92XT PE       G4BWP         55 40 JO02FH IP
+QSO:    50 PH 2025-10-19 0943 G1SCT         55 10 IO92XT PE      G3YLA         56 16 JO02MP NK
+QSO:    50 PH 2025-10-19 0953 G1SCT         59 11 IO92XT PE      G4LPP         59 24 JO02SS NK
+QSO:    50 PH 2025-10-19 0956 G1SCT         59 12 IO92XT PE      M0NKR         58 27 JO02HK IP
+QSO:    50 PH 2025-10-19 0957 G1SCT         59 13 IO92XT PE      G4AFF         59 37 JO02LO NK
+QSO:    50 CW 2025-10-19 1002 G1SCT         599 14 IO92XT PE     G3LDI         599 16 JO02ON NK
+QSO:    50 PH 2025-10-19 1010 G1SCT         56 15 IO92XT PE      G8SEI         59 34 IO92FO CV
+QSO:    50 PH 2025-10-19 1011 G1SCT         52 16 IO92XT PE      GD8EXI        53 17 IO74PC IM
+QSO:    50 PH 2025-10-19 1148 G1SCT         55 17 IO92XT PE      G8ZRE         56 29 IO83NE CH
+END-OF-LOG:

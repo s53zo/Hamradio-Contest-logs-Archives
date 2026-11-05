@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G3TDH
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83WI
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1712; excluded rows=1.
+QSO:   144 CW 2017-11-04 1458 G3TDH         599 1 IO83WI         M1EYP/P       599 9 IO83WE
+QSO:   144 CW 2017-11-05 1113 G3TDH         599 2 IO83WI         G3ZOD         599 8 IO83WJ
+QSO:   144 CW 2017-11-05 1117 G3TDH         599 3 IO83WI         MM0CEZ        599 24 IO75XU
+QSO:   144 CW 2017-11-05 1129 G3TDH         599 4 IO83WI         G3HGI         599 24 IO83PL
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0GRI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO80SX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=190108&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6835; excluded rows=2.
+QSO:   432 PH 2019-01-08 2151 G0GRI         57 1 IO80SX          G0HEL/P       59 78 IO81WG
+QSO:   432 PH 2019-01-08 2156 G0GRI         57 2 IO80SX          M0GHZ         55 105 IO81VK
+QSO:   432 PH 2019-01-08 2157 G0GRI         53 3 IO80SX          M0KJR         53 24 IO81VH
+QSO:   432 PH 2019-01-08 2205 G0GRI         57 4 IO80SX          G4JMM/P       57 21 IO80RQ
+QSO:   432 PH 2019-01-08 2217 G0GRI         53 5 IO80SX          G4CLA         55 188 IO92JL
+END-OF-LOG:

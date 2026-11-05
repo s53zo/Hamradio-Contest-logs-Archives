@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G6HFF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83SO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=161025&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6427; excluded rows=3.
+QSO:    50 PH 2016-10-25 1905 G6HFF         59 1 IO83SO          G8ZRE         59 4 IO83NE
+QSO:    50 PH 2016-10-25 1909 G6HFF         59 2 IO83SO          M1EYP/P       59 9 IO83WE
+QSO:    50 PH 2016-10-25 1911 G6HFF         59 3 IO83SO          GW4ZAR        59 10 IO83KF
+QSO:    50 PH 2016-10-25 1926 G6HFF         59 4 IO83SO          GW4BVE        59 36 IO82KQ
+QSO:    50 PH 2016-10-25 1928 G6HFF         59 5 IO83SO          GW8ASD        59 24 IO83LB
+QSO:    50 PH 2016-10-25 1932 G6HFF         55 6 IO83SO          GI4SNA        55 35 IO64XM
+QSO:    50 PH 2016-10-25 1934 G6HFF         59 7 IO83SO          G4NTY         59 21 IO83TM
+QSO:    50 PH 2016-10-25 1938 G6HFF         59 8 IO83SO          G0BWB         59 23 IO93CO
+QSO:    50 PH 2016-10-25 1945 G6HFF         55 9 IO83SO          G3VCA         59 49 IO93MG
+QSO:    50 PH 2016-10-25 1950 G6HFF         59 10 IO83SO         M0OMB         59 23 IO83PO
+END-OF-LOG:

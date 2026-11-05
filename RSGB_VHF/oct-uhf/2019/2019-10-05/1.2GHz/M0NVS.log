@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: M0NVS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91SR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=950; excluded rows=0.
+QSO:  1.2G PH 2019-10-05 1437 M0NVS         57 1 IO91SR          G8DOH         55 12 IO92FA
+QSO:  1.2G PH 2019-10-05 1442 M0NVS         59 2 IO91SR          G2D           59 5 IO91TQ
+QSO:  1.2G PH 2019-10-05 1652 M0NVS         55 3 IO91SR          M1CRO/P       54 55 JO01PU
+QSO:  1.2G PH 2019-10-05 1723 M0NVS         59 4 IO91SR          G3MEH         59 35 IO91QS
+QSO:  1.2G PH 2019-10-05 1740 M0NVS         55 5 IO91SR          G8NVI         55 19 IO91JO
+QSO:  1.2G PH 2019-10-05 1752 M0NVS         59 6 IO91SR          G3OHM/P       59 58 IO92GB
+QSO:  1.2G PH 2019-10-05 1902 M0NVS         59 7 IO91SR          G8LZE         59 21 IO91SO
+END-OF-LOG:

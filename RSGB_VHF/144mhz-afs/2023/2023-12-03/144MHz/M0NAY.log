@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: M0NAY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01CD
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5334; excluded rows=4.
+QSO:   144 PH 2023-12-03 1015 M0NAY         59 1 JO01CD          G3PYE/P       53 11 JO02CE
+QSO:   144 PH 2023-12-03 1017 M0NAY         59 2 JO01CD          G8DOH         55 18 IO92FA
+QSO:   144 PH 2023-12-03 1032 M0NAY         59 3 JO01CD          G0XDI         53 11 IO91RC
+QSO:   144 PH 2023-12-03 1038 M0NAY         59 4 JO01CD          G4JED         59 8 JO01CF
+QSO:   144 PH 2023-12-03 1041 M0NAY         59 5 JO01CD          G4CWH         55 14 JO01BV
+QSO:   144 PH 2023-12-03 1044 M0NAY         59 6 JO01CD          G4OTV         59 14 JO01CB
+END-OF-LOG:

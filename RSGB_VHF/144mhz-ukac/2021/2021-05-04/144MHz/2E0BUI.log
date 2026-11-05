@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: 2E0BUI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO94FA
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210504&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12915; excluded rows=5.
+QSO:   144 PH 2021-05-04 1900 2E0BUI        59 1 IO94FA          M0KOV         59 1 IO93HX
+QSO:   144 PH 2021-05-04 1901 2E0BUI        59 2 IO94FA          2E0FDU        59 1 IO93GX
+QSO:   144 PH 2021-05-04 1904 2E0BUI        59 3 IO94FA          G0UOK/P       59 12 IO94MJ
+QSO:   144 PH 2021-05-04 1908 2E0BUI        57 4 IO94FA          G4KUX         57 10 IO94BP
+QSO:   144 PH 2021-05-04 1915 2E0BUI        59 5 IO94FA          G4FZN/P       59 16 IO94JF
+QSO:   144 PH 2021-05-04 1920 2E0BUI        59 6 IO94FA          G8DMU/P       59 7 IO94CB
+QSO:   144 PH 2021-05-04 1923 2E0BUI        59 7 IO94FA          G0CNN/P       59 34 IO94AI
+QSO:   144 PH 2021-05-04 1930 2E0BUI        53 8 IO94FA          M0EUK/P       53 11 IO84XT
+QSO:   144 PH 2021-05-04 2005 2E0BUI        59 9 IO94FA          M7OJA/P       59 15 IO94BS
+QSO:   144 PH 2021-05-04 2008 2E0BUI        59 10 IO94FA         G5XZ/P        59 25 IO94JK
+END-OF-LOG:

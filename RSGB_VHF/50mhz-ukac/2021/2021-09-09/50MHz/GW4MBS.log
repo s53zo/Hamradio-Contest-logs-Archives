@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GW4MBS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO71XW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210909&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4681; excluded rows=0.
+QSO:    50 PH 2021-09-09 1906 GW4MBS        59 1 IO71XW          GW0GEI        59 1 IO72VE
+QSO:    50 PH 2021-09-09 1909 GW4MBS        43 2 IO71XW          GW4SHF        53 9 IO82HP
+QSO:    50 PH 2021-09-09 1915 GW4MBS        56 3 IO71XW          G4RRA         59 17 IO80BS
+QSO:    50 PH 2021-09-09 1917 GW4MBS        59 4 IO71XW          GW0RHC        59 11 IO71UN
+QSO:    50 PH 2021-09-09 1921 GW4MBS        57 5 IO71XW          2E0VCC/P      57 9 IO70SP
+QSO:    50 PH 2021-09-09 1926 GW4MBS        57 6 IO71XW          G3TBK/P       59 30 IO93RA
+QSO:    50 PH 2021-09-09 1930 GW4MBS        59 7 IO71XW          G4ASR         59 45 IO81MX
+QSO:    50 PH 2021-09-09 1953 GW4MBS        59 8 IO71XW          G4CLA         59 78 IO92JL
+QSO:    50 PH 2021-09-09 2001 GW4MBS        55 9 IO71XW          G8ZRE         56 31 IO83NE
+QSO:    50 PH 2021-09-09 2003 GW4MBS        59 10 IO71XW         G1YBB/P       57 80 IO82LB
+QSO:    50 PH 2021-09-09 2025 GW4MBS        55 11 IO71XW         G4ODA         57 40 IO92WS
+QSO:    50 PH 2021-09-09 2034 GW4MBS        55 12 IO71XW         M0CGL         55 63 JO03BF
+QSO:    50 PH 2021-09-09 2038 GW4MBS        58 13 IO71XW         G4FZN/P       58 88 IO94JF
+QSO:    50 PH 2021-09-09 2103 GW4MBS        33 14 IO71XW         GD8EXI        55 28 IO74PC
+QSO:    50 CW 2021-09-09 2114 GW4MBS        339 15 IO71XW        G3KAF         559 15 IO83WI
+END-OF-LOG:

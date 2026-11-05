@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M7GLW
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81VV
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=231114&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=473; excluded rows=0.
+QSO:   432 FM 2023-11-14 1900 M7GLW         59 1 IO81VV          G0RMG/P       57 1 IO92BA
+QSO:   432 FM 2023-11-14 1909 M7GLW         59 2 IO81VV          G4ILI/P       58 7 IO81WU
+QSO:   432 FM 2023-11-14 1915 M7GLW         58 3 IO81VV          G0PLA/P       59 12 IO82XJ
+QSO:   432 FM 2023-11-14 1933 M7GLW         59 4 IO81VV          G0ORE/P       59 12 IO82XJ
+QSO:   432 FM 2023-11-14 1950 M7GLW         59 5 IO81VV          G8JAY         59 13 IO81WV
+END-OF-LOG:

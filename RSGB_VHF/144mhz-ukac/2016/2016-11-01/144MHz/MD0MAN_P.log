@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MD0MAN/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO74SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=161101&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12326; excluded rows=3.
+QSO:   144 PH 2016-11-01 2009 MD0MAN/P      59 1 IO74SF          GI4SNA        59 10 IO64XM
+QSO:   144 PH 2016-11-01 2016 MD0MAN/P      59 2 IO74SF          G8REQ         59 12 IO83KI
+QSO:   144 PH 2016-11-01 2026 MD0MAN/P      59 3 IO74SF          GD8EXI        55 34 IO74PC
+QSO:   144 PH 2016-11-01 2038 MD0MAN/P      59 4 IO74SF          MI0KOA/P      59 6 IO74BR
+QSO:   144 PH 2016-11-01 2042 MD0MAN/P      59 5 IO74SF          M0VXX/P       59 76 IO82QL
+QSO:   144 PH 2016-11-01 2045 MD0MAN/P      57 6 IO74SF          G0CDA         55 25 IO83SJ
+QSO:   144 PH 2016-11-01 2053 MD0MAN/P      59 7 IO74SF          GD6ICR        59 8 IO74PF
+QSO:   144 PH 2016-11-01 2059 MD0MAN/P      57 8 IO74SF          G3SQQ         55 47 IO93JC
+QSO:   144 PH 2016-11-01 2123 MD0MAN/P      55 9 IO74SF          F8BRK         51 88 IN99VF
+QSO:   144 PH 2016-11-01 2135 MD0MAN/P      57 10 IO74SF         G0ODQ         57 49 IO71MR
+QSO:   144 PH 2016-11-01 2141 MD0MAN/P      57 11 IO74SF         G3UVR         55 61 IO83KH
+QSO:   144 PH 2016-11-01 2142 MD0MAN/P      57 12 IO74SF         G3TBK/P       57 101 IO93RC
+QSO:   144 PH 2016-11-01 2145 MD0MAN/P      57 13 IO74SF         G8XVJ/P       56 133 IO93AD
+QSO:   144 PH 2016-11-01 2153 MD0MAN/P      55 14 IO74SF         G7TSX/P       55 24 IO83MH
+QSO:   144 PH 2016-11-01 2158 MD0MAN/P      59 15 IO74SF         G0EAK/P       58 81 IO93NI
+QSO:   144 PH 2016-11-01 2200 MD0MAN/P      57 16 IO74SF         M1DDD/P       55 160 IO93CH
+QSO:   144 CW 2016-11-01 2206 MD0MAN/P      599 17 IO74SF        M0COP/P       57 95 IO82NN
+QSO:   144 CW 2016-11-01 2208 MD0MAN/P      599 18 IO74SF        G1YBB/P       59 129 IO82LB
+QSO:   144 CW 2016-11-01 2213 MD0MAN/P      559 19 IO74SF        M0BRA         52 138 IO91PK
+QSO:   144 CW 2016-11-01 2222 MD0MAN/P      559 20 IO74SF        G3TDH         53 38 IO83WI
+END-OF-LOG:

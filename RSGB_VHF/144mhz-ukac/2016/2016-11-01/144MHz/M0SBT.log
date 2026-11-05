@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0SBT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91RF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=161101&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12326; excluded rows=3.
+QSO:   144 PH 2016-11-01 2042 M0SBT         59 1 IO91RF          M0BRA         57 50 IO91PK
+QSO:   144 PH 2016-11-01 2046 M0SBT         59 2 IO91RF          G1OFW         59 11 IO91QH
+QSO:   144 PH 2016-11-01 2053 M0SBT         59 3 IO91RF          G1DFL         57 48 IO91NL
+QSO:   144 PH 2016-11-01 2057 M0SBT         59 4 IO91RF          M0SAT         57 35 IO91TP
+QSO:   144 PH 2016-11-01 2102 M0SBT         59 5 IO91RF          G3MEH         59 72 IO91QS
+QSO:   144 PH 2016-11-01 2103 M0SBT         59 6 IO91RF          2E0LDZ/P      58 56 IO91MP
+QSO:   144 PH 2016-11-01 2112 M0SBT         53 7 IO91RF          G8FUO         55 33 IO91QL
+QSO:   144 PH 2016-11-01 2114 M0SBT         55 8 IO91RF          G8CUL         55 61 IO91JO
+QSO:   144 PH 2016-11-01 2120 M0SBT         55 9 IO91RF          M0VGB         55 66 IO91RU
+QSO:   144 PH 2016-11-01 2122 M0SBT         59 10 IO91RF         G0SKA         59 42 IO91QN
+QSO:   144 PH 2016-11-01 2125 M0SBT         55 11 IO91RF         M0NVS         55 42 IO91SR
+QSO:   144 PH 2016-11-01 2128 M0SBT         55 12 IO91RF         G0GJV         52 35 IO91OK
+QSO:   144 PH 2016-11-01 2134 M0SBT         55 13 IO91RF         M0ZRG         55 21 IO91TQ
+QSO:   144 PH 2016-11-01 2143 M0SBT         55 14 IO91RF         G0ODQ         55 55 IO91MR
+QSO:   144 PH 2016-11-01 2159 M0SBT         55 15 IO91RF         G7LRQ         53 83 IO91TQ
+QSO:   144 PH 2016-11-01 2300 M0SBT         59 16 IO91RF         M0VGB         59 85 IO91RU
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: DL4PD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO30CR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=171010&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6887; excluded rows=3.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (2).
+QSO:   432 PH 2017-10-10 1938 DL4PD         55 1 JO30CR          G7LRQ         55 32 IO91TQ
+QSO:   432 PH 2017-10-10 1955 DL4PD         55 2 JO30CR          G3XDY         55 16 JO02OB
+QSO:   432 PH 2017-10-10 2008 DL4PD         51 3 JO30CR          M0GHZ         52 61 IO81VK
+QSO:   432 PH 2017-10-10 2015 DL4PD         55 4 JO30CR          M0BAA/P       55 77 JO01KJ
+QSO:   432 PH 2017-10-10 2051 DL4PD         59 6 JO30CR          G3MEH         59 59 IO91QS
+END-OF-LOG:

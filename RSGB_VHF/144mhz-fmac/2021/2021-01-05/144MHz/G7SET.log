@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G7SET
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92AH
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210105&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=837; excluded rows=2.
+QSO:   144 FM 2021-01-05 1917 G7SET         59 1 IO92AH          G0RMG         59 11 IO92AG
+QSO:   144 FM 2021-01-05 1918 G7SET         59 2 IO92AH          M1CFK         59 7 IO92AG
+QSO:   144 FM 2021-01-05 1919 G7SET         59 3 IO92AH          G0ORE         59 7 IO92AG
+QSO:   144 FM 2021-01-05 1920 G7SET         59 4 IO92AH          G0PLA         59 7 IO92BH
+QSO:   144 FM 2021-01-05 1923 G7SET         59 5 IO92AH          2E0EKW        59 8 IO92DE
+QSO:   144 FM 2021-01-05 1926 G7SET         41 6 IO92AH          2E1DFS        59 7 IO92CC
+END-OF-LOG:

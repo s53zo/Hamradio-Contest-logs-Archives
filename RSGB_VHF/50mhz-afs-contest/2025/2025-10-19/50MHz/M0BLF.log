@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: M0BLF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02BG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2706; excluded rows=0.
+QSO:    50 PH 2025-10-19 1209 M0BLF         59 1 JO02BG CB       G6UW          59 63 JO02AF CB
+QSO:    50 CW 2025-10-19 1211 M0BLF         599 2 JO02BG CB      G4CWH/P       599 78 IO92XA SG
+QSO:    50 CW 2025-10-19 1214 M0BLF         599 3 JO02BG CB      G3PYE/P       599 67 JO02CE CB
+QSO:    50 PH 2025-10-19 1224 M0BLF         59 4 JO02BG CB       G4BWP         59 87 JO02FH IP
+QSO:    50 PH 2025-10-19 1228 M0BLF         55 5 JO02BG CB       M7CUC         59 10 JO02BF CB
+QSO:    50 PH 2025-10-19 1247 M0BLF         59 6 JO02BG CB       M7JIC         59 13 JO02BG CB
+QSO:    50 PH 2025-10-19 1252 M0BLF         59 7 JO02BG CB       G4BAO         59 5 JO02CG CB
+END-OF-LOG:

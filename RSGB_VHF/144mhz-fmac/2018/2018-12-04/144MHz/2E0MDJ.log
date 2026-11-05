@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2E0MDJ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81WV
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=181204&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=364; excluded rows=0.
+QSO:   144 FM 2018-12-04 1908 2E0MDJ        59 1 IO81WV          G8XYJ/P       59 5 IO82RJ
+QSO:   144 FM 2018-12-04 1915 2E0MDJ        59 2 IO81WV          G0LGS         59 2 IO81WV
+QSO:   144 FM 2018-12-04 1920 2E0MDJ        58 3 IO81WV          M0BUL         59 2 IO82NG
+QSO:   144 FM 2018-12-04 1920 2E0MDJ        59 4 IO81WV          G4BCA         59 1 IO81VV
+QSO:   144 FM 2018-12-04 1927 2E0MDJ        57 5 IO81WV          MW0MZM        56 1 IO81JU
+QSO:   144 FM 2018-12-04 1931 2E0MDJ        59 6 IO81WV          G8JAY         59 1 IO81WV
+QSO:   144 FM 2018-12-04 1939 2E0MDJ        59 7 IO81WV          M6DKK         59 2 IO81RU
+QSO:   144 FM 2018-12-04 1942 2E0MDJ        51 8 IO81WV          M6RYR         52 2 IO82OF
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M6LJX
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01BK
+CATEGORY: 10V
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=180206&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=445; excluded rows=0.
+QSO:   144 FM 2018-02-06 1900 M6LJX         55 1 JO01BK          M6YGL/P       59 1 JO01DH
+QSO:   144 FM 2018-02-06 1907 M6LJX         51 2 JO01BK          M0TGV         59 1 JO01CK
+QSO:   144 FM 2018-02-06 1909 M6LJX         55 3 JO01BK          M0KPU         59 3 JO01AL
+QSO:   144 FM 2018-02-06 1910 M6LJX         59 4 JO01BK          M0JSB         57 3 IO91SF
+QSO:   144 FM 2018-02-06 1944 M6LJX         57 5 JO01BK          G4GFI         59 4 IO91VH
+QSO:   144 FM 2018-02-06 1945 M6LJX         57 6 JO01BK          G6LPF         59 1 IO91XK
+QSO:   144 FM 2018-02-06 1947 M6LJX         53 7 JO01BK          G8CCQ         59 1 IO91VG
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: G4RCG
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93FQ
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=693; excluded rows=1.
+QSO:    50 CW 2024-06-23 0902 G4RCG         599 1 IO93FQ         G4LPP         599 2 JO02SS
+QSO:    50 CW 2024-06-23 0903 G4RCG         599 2 IO93FQ         G4AFF         599 3 JO02LO
+QSO:    50 CW 2024-06-23 0907 G4RCG         599 3 IO93FQ         G4OBK         599 3 IO94OF
+QSO:    50 CW 2024-06-23 0909 G4RCG         599 4 IO93FQ         GM4DIJ/P      529 3 IO74MU
+QSO:    50 CW 2024-06-23 0914 G4RCG         599 5 IO93FQ         G3TBK/P       599 10 IO93RA
+QSO:    50 CW 2024-06-23 1155 G4RCG         599 6 IO93FQ         G4BWP         599 16 JO02FH
+QSO:    50 CW 2024-06-23 1158 G4RCG         599 7 IO93FQ         G3RLE         599 29 IO83VO
+QSO:    50 CW 2024-06-23 1159 G4RCG         599 8 IO93FQ         G0SDM         599 10 IO92VV
+END-OF-LOG:

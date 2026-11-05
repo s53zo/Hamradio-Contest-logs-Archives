@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GW4BVJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO71XS
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210513&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7416; excluded rows=3.
+QSO:    50 PH 2021-05-13 1956 GW4BVJ        55 1 IO71XS          GW0GEI        51 29 IO72VE
+QSO:    50 CW 2021-05-13 2014 GW4BVJ        559 2 IO71XS         G4RRA         559 23 IO80BS
+QSO:    50 PH 2021-05-13 2019 GW4BVJ        59 3 IO71XS          OH3RB         59 6 KP10AQ
+QSO:    50 PH 2021-05-13 2026 GW4BVJ        59 4 IO71XS          SK0CT         59 76 JO99BM
+QSO:    50 PH 2021-05-13 2038 GW4BVJ        59 5 IO71XS          GW4MBS        59 12 IO71XW
+QSO:    50 PH 2021-05-13 2100 GW4BVJ        59 7 IO71XS          SM5KQS        57 25 JO88IT
+END-OF-LOG:

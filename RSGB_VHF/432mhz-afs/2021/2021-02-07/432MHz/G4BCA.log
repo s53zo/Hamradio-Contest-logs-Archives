@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4BCA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81VV
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 PH 2021-02-07 0905 G4BCA         59 1 IO81VV          G0JCC         59 8 IO82MA
+QSO:   432 PH 2021-02-07 0906 G4BCA         59 2 IO81VV          G4ASR         59 8 IO81MX
+QSO:   432 PH 2021-02-07 0917 G4BCA         59 3 IO81VV          G4IZZ         59 6 IO81XX
+QSO:   432 PH 2021-02-07 0921 G4BCA         56 4 IO81VV          GD8EXI        53 12 IO74PC
+QSO:   432 PH 2021-02-07 0928 G4BCA         56 5 IO81VV          G4CIB         56 4 IO81VX
+QSO:   432 PH 2021-02-07 0929 G4BCA         59 6 IO81VV          2E0MDJ        59 10 IO81WV
+QSO:   432 PH 2021-02-07 0929 G4BCA         59 7 IO81VV          G0LGS         59 10 IO81WV
+QSO:   432 PH 2021-02-07 0936 G4BCA         57 8 IO81VV          G4ODA         56 24 IO92WS
+QSO:   432 PH 2021-02-07 0942 G4BCA         59 9 IO81VV          G8DOH         58 27 IO92FA
+QSO:   432 PH 2021-02-07 1005 G4BCA         56 10 IO81VV         M0GHZ         54 28 IO81VK
+QSO:   432 PH 2021-02-07 1021 G4BCA         59 11 IO81VV         M0XAC         59 15 IO81VU
+QSO:   432 PH 2021-02-07 1046 G4BCA         59 12 IO81VV         G4ILI         59 13 IO81WV
+QSO:   432 PH 2021-02-07 1049 G4BCA         59 13 IO81VV         G0ODQ         58 58 IO91MR
+QSO:   432 PH 2021-02-07 1050 G4BCA         57 14 IO81VV         G8LNR         55 14 IO81UR
+QSO:   432 PH 2021-02-07 1053 G4BCA         59 15 IO81VV         2E0IEI        59 20 IO81VU
+END-OF-LOG:

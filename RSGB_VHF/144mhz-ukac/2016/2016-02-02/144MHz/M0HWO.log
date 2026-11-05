@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0HWO
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83MI
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160202&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11117; excluded rows=6.
+QSO:   144 PH 2016-02-02 2001 M0HWO         59 1 IO83MI          G3UVR         59 1 IO83KH
+QSO:   144 PH 2016-02-02 2007 M0HWO         59 2 IO83MI          M0OMB         59 6 IO83PO
+QSO:   144 PH 2016-02-02 2014 M0HWO         58 3 IO83MI          G8HXE/P       58 15 IO83RO
+QSO:   144 PH 2016-02-02 2105 M0HWO         58 4 IO83MI          M0VXX/P       59 105 IO82QL
+QSO:   144 PH 2016-02-02 2107 M0HWO         55 5 IO83MI          GD8EXI        53 66 IO74PC
+QSO:   144 PH 2016-02-02 2111 M0HWO         57 6 IO83MI          M1MHZ         58 63 IO92WV
+QSO:   144 PH 2016-02-02 2120 M0HWO         58 7 IO83MI          M0COP/P       59 23 IO82NN
+QSO:   144 PH 2016-02-02 2135 M0HWO         55 8 IO83MI          G4HGT/P       57 77 IO93DV
+QSO:   144 PH 2016-02-02 2145 M0HWO         52 9 IO83MI          G6XHF         56 25 IO83LI
+QSO:   144 PH 2016-02-02 2146 M0HWO         59 10 IO83MI         GW4ZAR        59 14 IO83KF
+QSO:   144 PH 2016-02-02 2148 M0HWO         53 11 IO83MI         G4OAR/A       56 35 IO82PV
+QSO:   144 PH 2016-02-02 2152 M0HWO         43 12 IO83MI         M3RNX         59 19 IO83TO
+QSO:   144 PH 2016-02-02 2153 M0HWO         51 13 IO83MI         G8ZRE         52 25 IO83NE
+QSO:   144 PH 2016-02-02 2155 M0HWO         58 14 IO83MI         M0WBG         58 17 IO83KJ
+QSO:   144 PH 2016-02-02 2159 M0HWO         59 15 IO83MI         G7TSX         59 15 IO83MH
+QSO:   144 PH 2016-02-02 2201 M0HWO         57 16 IO83MI         G8REQ         59 53 IO83KI
+QSO:   144 PH 2016-02-02 2211 M0HWO         56 17 IO83MI         2E0XJP        59 15 IO83MN
+QSO:   144 PH 2016-02-02 2215 M0HWO         55 18 IO83MI         G4JLG         57 52 IO83TM
+QSO:   144 PH 2016-02-02 2217 M0HWO         55 19 IO83MI         G0BFJ         57 40 IO93CP
+QSO:   144 PH 2016-02-02 2219 M0HWO         57 20 IO83MI         G8XVJ         57 64 IO83QK
+END-OF-LOG:

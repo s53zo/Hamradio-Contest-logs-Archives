@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: M0PTZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91FE
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6651; excluded rows=1.
+QSO:   144 PH 2021-12-05 1152 M0PTZ         59 1 IO91FE          G0SKA         59 72 IO91OQ
+QSO:   144 PH 2021-12-05 1154 M0PTZ         59 2 IO91FE          G3MEH         59 59 IO91QS
+QSO:   144 PH 2021-12-05 1157 M0PTZ         59 3 IO91FE          G8DOH         59 94 IO92FA
+QSO:   144 PH 2021-12-05 1200 M0PTZ         56 4 IO91FE          GD8EXI        57 69 IO74PC
+QSO:   144 PH 2021-12-05 1202 M0PTZ         59 5 IO91FE          G0VVE         59 96 IO91SG
+QSO:   144 PH 2021-12-05 1204 M0PTZ         59 6 IO91FE          G7RAU         59 85 IN79JX
+QSO:   144 PH 2021-12-05 1214 M0PTZ         57 7 IO91FE          G3TBK/P       57 98 IO93RA
+QSO:   144 PH 2021-12-05 1216 M0PTZ         58 8 IO91FE          G4CZB/P       58 58 IO92LH
+QSO:   144 PH 2021-12-05 1217 M0PTZ         58 9 IO91FE          G5TO          58 41 IO93GG
+QSO:   144 PH 2021-12-05 1220 M0PTZ         59 10 IO91FE         2E0NEY        59 49 IO81VK
+QSO:   144 PH 2021-12-05 1224 M0PTZ         55 11 IO91FE         MM0CEZ        56 44 IO75XU
+QSO:   144 PH 2021-12-05 1231 M0PTZ         53 12 IO91FE         G1PPA/P       59 89 JO03AE
+END-OF-LOG:

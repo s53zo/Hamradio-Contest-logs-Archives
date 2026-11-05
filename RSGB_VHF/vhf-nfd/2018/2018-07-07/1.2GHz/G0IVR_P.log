@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G0IVR/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO91HB
+CATEGORY: Open
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=759; excluded rows=1.
+QSO:  1.2G PH 2018-07-07 1432 G0IVR/P       56 1 IO91HB          G4RFR/P       59 2 IO80ST
+QSO:  1.2G PH 2018-07-07 1434 G0IVR/P       23 2 IO91HB          G4PDS         59 2 IO80LR
+QSO:  1.2G PH 2018-07-07 1444 G0IVR/P       58 3 IO91HB          G4NNS         59 3 IO91FF
+QSO:  1.2G PH 2018-07-07 1606 G0IVR/P       59 4 IO91HB          G2BQY/P       59 20 IO81RF
+QSO:  1.2G PH 2018-07-07 1627 G0IVR/P       58 5 IO91HB          G3TCU         59 7 IO91QE
+QSO:  1.2G PH 2018-07-08 1117 G0IVR/P       59 6 IO91HB          G8LES         59 2 IO91LC
+QSO:  1.2G PH 2018-07-08 1237 G0IVR/P       57 7 IO91HB          G3TCT         58 73 IO81QC
+END-OF-LOG:

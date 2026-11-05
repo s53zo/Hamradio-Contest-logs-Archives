@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G1CCG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO91NJ
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=251113&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2655; excluded rows=0.
+QSO:    50 PH 2025-11-13 2011 G1CCG         57 1 IO91NJ          G4YPC         57 8 IO91RH
+QSO:    50 PH 2025-11-13 2025 G1CCG         57 2 IO91NJ          G4GFI         53 15 IO91VH
+QSO:    50 PH 2025-11-13 2038 G1CCG         57 3 IO91NJ          G4CSD         59 12 IO91KG
+QSO:    50 PH 2025-11-13 2147 G1CCG         59 4 IO91NJ          G8GYX         59 29 IO91VH
+QSO:    50 PH 2025-11-13 2154 G1CCG         59 5 IO91NJ          G0SKA         59 50 IO91OQ
+END-OF-LOG:

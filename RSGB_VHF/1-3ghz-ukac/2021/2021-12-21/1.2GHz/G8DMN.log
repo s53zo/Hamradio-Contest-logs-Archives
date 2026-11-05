@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G8DMN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO81RD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=211221&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3455; excluded rows=0.
+QSO:  1.2G PH 2021-12-21 2003 G8DMN         59 1 IO81RD          G3TCT         56 2 IO81QC
+QSO:  1.2G PH 2021-12-21 2033 G8DMN         57 2 IO81RD          2E0VCC/P      55 24 IO70SP
+QSO:  1.2G PH 2021-12-21 2153 G8DMN         58 3 IO81RD          G0HEL/P       55 35 IO81WG
+QSO:  1.2G PH 2021-12-21 2203 G8DMN         59 4 IO81RD          G3TCU/P       55 77 IO91RF
+END-OF-LOG:

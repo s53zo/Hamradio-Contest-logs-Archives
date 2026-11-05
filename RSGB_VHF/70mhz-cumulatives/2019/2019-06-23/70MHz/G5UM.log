@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G5UM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92KR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=190623&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=652; excluded rows=0.
+QSO:    70 PH 2019-06-23 1405 G5UM          59 1 IO92KR          G3MXH         59 8 JO02LF
+QSO:    70 PH 2019-06-23 1406 G5UM          59 2 IO92KR          G4CLA         59 9 IO92JL
+QSO:    70 PH 2019-06-23 1418 G5UM          58 3 IO92KR          G3NPI         58 13 IO92MA
+QSO:    70 PH 2019-06-23 1438 G5UM          52 4 IO92KR          M0SNB         52 31 JO01DQ
+QSO:    70 PH 2019-06-23 1442 G5UM          53 5 IO92KR          G8LZE         53 18 IO91SO
+QSO:    70 CW 2019-06-23 1452 G5UM          559 6 IO92KR         G3MPN         559 3 JO02NN
+QSO:    70 PH 2019-06-23 1454 G5UM          53 7 IO92KR          G8NVI         53 22 IO91JO
+QSO:    70 CW 2019-06-23 1512 G5UM          559 8 IO92KR         G4CZB/P       559 23 IO92LH
+QSO:    70 PH 2019-06-23 1515 G5UM          56 9 IO92KR          GW4RWR        56 20 IO83HE
+QSO:    70 PH 2019-06-23 1519 G5UM          59 10 IO92KR         G3OVH         59 15 IO92JP
+QSO:    70 PH 2019-06-23 1533 G5UM          55 11 IO92KR         G4CLB         55 16 IO92HM
+QSO:    70 PH 2019-06-23 1545 G5UM          59 12 IO92KR         G8AKE         59 6 IO92NS
+END-OF-LOG:

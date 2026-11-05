@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M7EMZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01GF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220301&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10192; excluded rows=8.
+QSO:   144 PH 2022-03-01 2000 M7EMZ         59 1 JO01GF          M0DXR/P       59 4 JO01DH
+QSO:   144 PH 2022-03-01 2012 M7EMZ         59 2 JO01GF          M0JQT         59 2 JO01DF
+QSO:   144 PH 2022-03-01 2059 M7EMZ         59 3 JO01GF          G4JED         55 11 JO01CF
+QSO:   144 PH 2022-03-01 2115 M7EMZ         59 4 JO01GF          M0ABT/P       59 20 JO00DR
+END-OF-LOG:

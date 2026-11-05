@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4XPE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92GU
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170207&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=396; excluded rows=1.
+QSO:   144 FM 2017-02-07 1902 G4XPE         59 1 IO92GU          2E0EZG/P      59 2 IO92GS
+QSO:   144 FM 2017-02-07 1907 G4XPE         59 2 IO92GU          M0VTD         59 6 IO92BQ
+QSO:   144 FM 2017-02-07 1909 G4XPE         59 3 IO92GU          M1DDD/P       59 9 IO93CH
+QSO:   144 FM 2017-02-07 1914 G4XPE         59 4 IO92GU          G5UM          59 4 IO92KR
+QSO:   144 FM 2017-02-07 1930 G4XPE         59 5 IO92GU          G4PGJ         59 8 IO92ET
+END-OF-LOG:

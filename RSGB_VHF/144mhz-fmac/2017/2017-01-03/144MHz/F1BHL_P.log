@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: F1BHL/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IN99PI
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170103&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=620; excluded rows=1.
+QSO:   144 FM 2017-01-03 1900 F1BHL/P       59 1 IN99PI          G4RUL/P       59 1 JO00DR
+QSO:   144 FM 2017-01-03 1902 F1BHL/P       59 2 IN99PI          G1DFL         59 1 IO91NL
+QSO:   144 FM 2017-01-03 1909 F1BHL/P       57 3 IN99PI          M0VXX/P       55 15 IO82QL
+QSO:   144 FM 2017-01-03 1914 F1BHL/P       57 4 IN99PI          M0NVS/P       59 12 IO91PS
+QSO:   144 FM 2017-01-03 1915 F1BHL/P       57 5 IN99PI          M0IRC         58 8 IO91SO
+QSO:   144 FM 2017-01-03 1920 F1BHL/P       59 6 IN99PI          G8LZE         59 6 IO91SO
+QSO:   144 FM 2017-01-03 1922 F1BHL/P       59 7 IN99PI          M0TDZ         59 4 IO91QN
+QSO:   144 FM 2017-01-03 1924 F1BHL/P       59 8 IN99PI          G7LRQ         59 8 IO91TQ
+QSO:   144 FM 2017-01-03 1925 F1BHL/P       59 9 IN99PI          G3TCU         59 8 IO91QE
+QSO:   144 FM 2017-01-03 1952 F1BHL/P       57 10 IN99PI         G0SKA         59 5 IO91QN
+END-OF-LOG:

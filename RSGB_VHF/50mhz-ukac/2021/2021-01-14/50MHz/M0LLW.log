@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0LLW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93MK
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210114&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4780; excluded rows=0.
+QSO:    50 PH 2021-01-14 2000 M0LLW         52 1 IO93MK          G1PPA         52 1 IO93OJ
+QSO:    50 PH 2021-01-14 2001 M0LLW         59 2 IO93MK          M0ZMF         59 2 IO93MH
+QSO:    50 PH 2021-01-14 2004 M0LLW         59 3 IO93MK          G0EAK         59 3 IO93MH
+QSO:    50 PH 2021-01-14 2004 M0LLW         59 4 IO93MK          G3TBK         55 11 IO93QA
+QSO:    50 PH 2021-01-14 2006 M0LLW         59 5 IO93MK          G3VCA         59 11 IO93MG
+QSO:    50 PH 2021-01-14 2009 M0LLW         59 6 IO93MK          G1HLT         57 7 IO93JD
+QSO:    50 PH 2021-01-14 2013 M0LLW         59 7 IO93MK          G3SQQ         59 9 IO93JC
+QSO:    50 PH 2021-01-14 2022 M0LLW         52 8 IO93MK          G4ODA         58 16 IO92WS
+QSO:    50 PH 2021-01-14 2024 M0LLW         52 9 IO93MK          G6SWZ         52 11 IO93RF
+END-OF-LOG:

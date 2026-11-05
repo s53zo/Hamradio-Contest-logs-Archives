@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: M1EYP
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83WG
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=408; excluded rows=0.
+QSO:    50 CW 2016-06-26 1027 M1EYP         599 1 IO83WG         G3RLE         599 12 IO83VO
+QSO:    50 CW 2016-06-26 1030 M1EYP         599 2 IO83WG         G3PHO         599 20 IO93GG
+QSO:    50 CW 2016-06-26 1032 M1EYP         599 3 IO83WG         G3LDI         599 23 JO02ON
+QSO:    50 CW 2016-06-26 1042 M1EYP         599 4 IO83WG         G4HVC         599 19 IO93QA
+QSO:    50 CW 2016-06-26 1111 M1EYP         599 5 IO83WG         G3WPF         599 2 IO83VI
+END-OF-LOG:

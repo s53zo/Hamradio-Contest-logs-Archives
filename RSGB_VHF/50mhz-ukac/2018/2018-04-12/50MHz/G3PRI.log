@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3PRI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO01BU
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180412&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4752; excluded rows=2.
+QSO:    50 PH 2018-04-12 1906 G3PRI         58 1 JO01BU          G3PYE/P       59 13 JO02CE
+QSO:    50 PH 2018-04-12 1922 G3PRI         58 2 JO01BU          G3MEH         54 21 IO91QS
+QSO:    50 PH 2018-04-12 1934 G3PRI         58 3 JO01BU          M0TAZ         57 12 JO01CN
+QSO:    50 PH 2018-04-12 1938 G3PRI         59 4 JO01BU          G7LRQ/P       57 50 IO91RU
+QSO:    50 PH 2018-04-12 2006 G3PRI         56 5 JO01BU          G8GYX         56 37 IO91VH
+END-OF-LOG:

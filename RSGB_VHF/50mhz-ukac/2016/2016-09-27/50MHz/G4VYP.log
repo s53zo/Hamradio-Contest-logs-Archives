@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4VYP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83MP
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160927&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7625; excluded rows=4.
+QSO:    50 PH 2016-09-27 2023 G4VYP         57 1 IO83MP          G4CLA         55 109 IO92JL
+QSO:    50 PH 2016-09-27 2031 G4VYP         52 2 IO83MP          GW4ZAL/P      52 96 IO83JP
+QSO:    50 PH 2016-09-27 2044 G4VYP         53 3 IO83MP          G8HXE/P       57 43 IO83RO
+QSO:    50 PH 2016-09-27 2046 G4VYP         55 4 IO83MP          G3ZVW         52 120 IO80MS
+QSO:    50 PH 2016-09-27 2053 G4VYP         55 5 IO83MP          G3TBL/P       58 111 IO93RA
+QSO:    50 PH 2016-09-27 2057 G4VYP         56 6 IO83MP          G3PHO         55 72 IO93JG
+QSO:    50 PH 2016-09-27 2129 G4VYP         57 7 IO83MP          GI4SNA        59 125 IO64XM
+END-OF-LOG:

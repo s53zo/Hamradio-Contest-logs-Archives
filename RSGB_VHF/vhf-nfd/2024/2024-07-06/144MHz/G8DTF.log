@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G8DTF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83SM
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6354; excluded rows=5.
+QSO:   144 PH 2024-07-06 1621 G8DTF         59 1 IO83SM          G3SRT/P       59 61 IO82KV
+QSO:   144 PH 2024-07-06 1623 G8DTF         59 2 IO83SM          EI9E/P        59 70 IO62MO
+QSO:   144 PH 2024-07-06 1740 G8DTF         59 3 IO83SM          GW3ZTT/P      59 48 IO82KW
+QSO:   144 PH 2024-07-06 1806 G8DTF         55 4 IO83SM          G4ZAP/P       55 192 JO01PU
+QSO:   144 PH 2024-07-06 1812 G8DTF         55 5 IO83SM          GM3HAM/P      58 66 IO74WV
+QSO:   144 PH 2024-07-06 1821 G8DTF         53 6 IO83SM          G3ZME/P       59 77 IO82NN
+QSO:   144 PH 2024-07-06 1832 G8DTF         59 7 IO83SM          G3CKR/P       59 96 IO93AD
+END-OF-LOG:

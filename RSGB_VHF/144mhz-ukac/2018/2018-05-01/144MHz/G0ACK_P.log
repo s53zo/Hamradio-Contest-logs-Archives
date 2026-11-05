@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0ACK/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91TO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180501&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10647; excluded rows=12.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2018-05-01 1906 G0ACK/P       59 1 IO91TO          G1OFW         58 5 IO91QH
+QSO:   144 PH 2018-05-01 1913 G0ACK/P       57 3 IO91TO          G4YPC         59 6 IO91RH
+QSO:   144 PH 2018-05-01 1919 G0ACK/P       59 4 IO91TO          M0SAT         57 2 IO91TP
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M6OYU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93RE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190214&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5819; excluded rows=1.
+QSO:    50 PH 2019-02-14 2014 M6OYU         57 1 IO93RE          M0RXG         51 1 IO93RE
+QSO:    50 PH 2019-02-14 2016 M6OYU         55 2 IO93RE          G0EUN         55 4 IO93QE
+QSO:    50 PH 2019-02-14 2017 M6OYU         57 3 IO93RE          M0VDC         59 2 IO93QE
+QSO:    50 PH 2019-02-14 2055 M6OYU         59 4 IO93RE          G3VCA         59 54 IO93MG
+QSO:    50 PH 2019-02-14 2216 M6OYU         56 5 IO93RE          G3TBK/P       56 134 IO93RA
+END-OF-LOG:

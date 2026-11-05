@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: GC0VPR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO71XT
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 PH 2021-02-07 1218 GC0VPR        59 1 IO71XT          GW4BVJ        59 2 IO71XS
+QSO:   432 PH 2021-02-07 1222 GC0VPR        59 2 IO71XT          GW7HJN        59 3 IO71XS
+QSO:   432 PH 2021-02-07 1224 GC0VPR        52 3 IO71XT          GW4MBS        54 14 IO71XW
+QSO:   432 PH 2021-02-07 1247 GC0VPR        59 4 IO71XT          2W0FYP        59 1 IO71XT
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8LNR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81UR
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220405&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11889; excluded rows=5.
+QSO:   144 PH 2022-04-05 1959 G8LNR         59 1 IO81UR          G4ASR         59 34 IO81MX
+QSO:   144 PH 2022-04-05 2001 G8LNR         59 2 IO81UR          G1YBB/P       59 87 IO82LB
+QSO:   144 PH 2022-04-05 2011 G8LNR         59 3 IO81UR          G0LTG         59 49 IO81RF
+QSO:   144 PH 2022-04-05 2015 G8LNR         55 4 IO81UR          MW0OMB        58 32 IO81HN
+QSO:   144 PH 2022-04-05 2017 G8LNR         59 5 IO81UR          M0GHZ/P       57 90 IO81UN
+END-OF-LOG:

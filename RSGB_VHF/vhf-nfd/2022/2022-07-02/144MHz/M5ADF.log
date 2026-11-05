@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: M5ADF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93ID
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5874; excluded rows=2.
+QSO:   144 PH 2022-07-03 0925 M5ADF         59 1 IO93ID          M0OLE/P       59 82 IO93PX
+QSO:   144 PH 2022-07-03 1052 M5ADF         59 2 IO93ID          G3CKR/P       59 249 IO93AD
+QSO:   144 PH 2022-07-03 1114 M5ADF         59 3 IO93ID          M0NFD/P       59 101 IO94MJ
+QSO:   144 PH 2022-07-03 1124 M5ADF         59 4 IO93ID          M7ALE/P       59 16 IO93EI
+QSO:   144 PH 2022-07-03 1130 M5ADF         59 5 IO93ID          G1UK/P        52 10 IO93KD
+QSO:   144 PH 2022-07-03 1145 M5ADF         59 6 IO93ID          G6AAQ/P       57 101 IO92EK
+QSO:   144 PH 2022-07-03 1153 M5ADF         57 7 IO93ID          G4CZB/P       57 22 IO93EG
+QSO:   144 PH 2022-07-03 1207 M5ADF         59 8 IO93ID          G3ZME/P       59 159 IO82NN
+QSO:   144 PH 2022-07-03 1252 M5ADF         59 9 IO93ID          M7CBI/P       56 28 IO93BK
+QSO:   144 PH 2022-07-03 1319 M5ADF         59 10 IO93ID         G5FZ/P        59 61 IO93RH
+END-OF-LOG:

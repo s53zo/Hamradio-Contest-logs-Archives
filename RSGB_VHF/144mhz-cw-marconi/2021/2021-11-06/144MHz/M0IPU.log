@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: M0IPU
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01AP
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1146; excluded rows=1.
+QSO:   144 CW 2021-11-06 1619 M0IPU         589 1 JO01AP         G3WGE         559 1 JO01FQ
+QSO:   144 CW 2021-11-06 1631 M0IPU         599 2 JO01AP         M6A           599 8 IO91EH
+QSO:   144 CW 2021-11-06 1640 M0IPU         599 3 JO01AP         G3TCU/P       579 43 IO91RF
+QSO:   144 CW 2021-11-07 1026 M0IPU         599 4 JO01AP         G4YPC         599 49 IO91RH
+QSO:   144 CW 2021-11-07 1045 M0IPU         599 5 JO01AP         G3MDG         599 33 IO91QS
+QSO:   144 CW 2021-11-07 1159 M0IPU         559 6 JO01AP         G0OOG         599 39 IO91SO
+QSO:   144 CW 2021-11-07 1211 M0IPU         529 7 JO01AP         G4LOH         559 23 IO70JC
+QSO:   144 CW 2021-11-07 1243 M0IPU         599 8 JO01AP         F6DWG/P       599 358 JN19BQ
+END-OF-LOG:

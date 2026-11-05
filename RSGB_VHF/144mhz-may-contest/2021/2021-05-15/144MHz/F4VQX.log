@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: F4VQX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IN87LX
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6704; excluded rows=2.
+QSO:   144 PH 2021-05-15 1431 F4VQX         57 1 IN87LX          G8W           54 27 IO90KQ PO
+QSO:   144 PH 2021-05-15 1510 F4VQX         55 2 IN87LX          G1MXD/P       46 12 IO80XR DT
+QSO:   144 PH 2021-05-15 1517 F4VQX         55 3 IN87LX          M3P           53 26 IO91JO OX
+QSO:   144 PH 2021-05-15 1539 F4VQX         59 4 IN87LX          G4CZP/P       57 46 IO90JO PO
+QSO:   144 PH 2021-05-16 1107 F4VQX         55 5 IN87LX          G4ODA         56 173 IO92WS PE
+QSO:   144 PH 2021-05-16 1113 F4VQX         55 6 IN87LX          M0ICK/P       55 225 IO93AD ST
+END-OF-LOG:

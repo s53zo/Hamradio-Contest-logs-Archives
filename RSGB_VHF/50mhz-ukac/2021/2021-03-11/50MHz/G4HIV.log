@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4HIV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93QE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210311&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3441; excluded rows=1.
+QSO:    50 PH 2021-03-11 2007 G4HIV         57 1 IO93QE          M7DON         57 3 IO93KD
+QSO:    50 PH 2021-03-11 2019 G4HIV         58 2 IO93QE          M0LLW         55 17 IO93MK
+QSO:    50 PH 2021-03-11 2027 G4HIV         53 3 IO93QE          G3ZUD         52 10 IO92LU
+QSO:    50 PH 2021-03-11 2035 G4HIV         59 4 IO93QE          G0FVI         59 16 IO93RE
+QSO:    50 PH 2021-03-11 2043 G4HIV         57 5 IO93QE          G0EAK         58 19 IO93MH
+QSO:    50 PH 2021-03-11 2109 G4HIV         59 6 IO93QE          G3TBK         55 52 IO93QA
+END-OF-LOG:

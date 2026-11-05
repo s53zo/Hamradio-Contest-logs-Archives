@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G3HRH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91HA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3124; excluded rows=4.
+SOAPBOX: WARNING: 3 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (3).
+QSO:    50 PH 2017-10-22 1210 G3HRH         57 2 IO91HA SO       G3PYE/P       57 64 JO02CE CB
+QSO:    50 PH 2017-10-22 1216 G3HRH         43 4 IO91HA SO       G8ZRE         52 63 IO83NE CH
+QSO:    50 PH 2017-10-22 1217 G3HRH         58 5 IO91HA SO       M0ZXA         59 40 IO92XF CB
+QSO:    50 PH 2017-10-22 1222 G3HRH         43 6 IO91HA SO       GW4SHF        53 49 IO82HP SY
+QSO:    50 PH 2017-10-22 1224 G3HRH         43 7 IO91HA SO       G0EAK/P       57 55 IO93NI DN
+QSO:    50 PH 2017-10-22 1231 G3HRH         54 9 IO91HA SO       M0WYB/P       54 79 IO81QG BS
+QSO:    50 PH 2017-10-22 1234 G3HRH         55 10 IO91HA SO      G0ODQ         57 58 IO91MR OX
+QSO:    50 PH 2017-10-22 1234 G3HRH         59 11 IO91HA SO      M0BTZ         59 10 IO90GX SO
+QSO:    50 PH 2017-10-22 1239 G3HRH         59 12 IO91HA SO      M1MHZ         59 80 IO92WV PE
+QSO:    50 PH 2017-10-22 1240 G3HRH         57 13 IO91HA SO      M0DDT         57 61 IO91JR OX
+QSO:    50 PH 2017-10-22 1241 G3HRH         59 14 IO91HA SO      G3SVD         59 70 IO91II RG
+QSO:    50 PH 2017-10-22 1242 G3HRH         59 15 IO91HA SO      G3MEH         59 72 IO91QS HP
+QSO:    50 PH 2017-10-22 1244 G3HRH         59 16 IO91HA SO      M1BXF         59 74 JO02FE CB
+QSO:    50 PH 2017-10-22 1251 G3HRH         54 17 IO91HA SO      M0NFD/P       55 76 IO94JF YO
+QSO:    50 PH 2017-10-22 1255 G3HRH         54 18 IO91HA SO      G3PHO         55 53 IO93GG SD
+END-OF-LOG:

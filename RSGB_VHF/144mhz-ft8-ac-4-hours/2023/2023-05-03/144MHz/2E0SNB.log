@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: 2E0SNB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=230503&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1444; excluded rows=5.
+QSO:   144 FT8 2023-05-03 1707 2E0SNB        -19 IO91             2E1EMK        -07 IO91
+QSO:   144 FT8 2023-05-03 1712 2E0SNB        -07 IO91             G8IQL         -08 IO90
+QSO:   144 FT8 2023-05-03 1723 2E0SNB        -16 IO91             G1OJS         -04 IO90
+QSO:   144 FT8 2023-05-03 1725 2E0SNB        -19 IO91             GU0UVH        00 IN89
+QSO:   144 FT8 2023-05-03 1820 2E0SNB        -18 IO91             G7RAU         02 IN79
+QSO:   144 FT8 2023-05-03 1822 2E0SNB        -09 IO91             F4FET         -18 JO00
+QSO:   144 FT8 2023-05-03 1827 2E0SNB        06 IO91              G4VQZ         01 IO91
+QSO:   144 FT8 2023-05-03 1832 2E0SNB        -09 IO91             F6ANO         -21 JN18
+QSO:   144 FT8 2023-05-03 1833 2E0SNB        -07 IO91             G0ROG         -05 IO91
+QSO:   144 FT8 2023-05-03 1834 2E0SNB        06 IO91              G4VQZ         01 IO90
+QSO:   144 FT8 2023-05-03 1837 2E0SNB        -12 IO91             F6GCP         -14 JN18
+QSO:   144 FT8 2023-05-03 1839 2E0SNB        -06 IO91             F6ANO         -09 JN18
+QSO:   144 FT8 2023-05-03 1852 2E0SNB        -11 IO91             M0CFV         07 IO91
+QSO:   144 FT8 2023-05-03 2015 2E0SNB        -15 IO91             G4VPD         -07 IO92
+QSO:   144 FT8 2023-05-03 2023 2E0SNB        -17 IO91             GR4KVI        -06 IO81
+QSO:   144 FT8 2023-05-03 2024 2E0SNB        -09 IO91             G4LOH         -16 IO81
+QSO:   144 FT8 2023-05-03 2027 2E0SNB        -11 IO91             M0BKV         -01 IO70
+QSO:   144 FT8 2023-05-03 2032 2E0SNB        -12 IO91             G7AFT         08 IO90
+QSO:   144 FT8 2023-05-03 2046 2E0SNB        -10 IO91             G4KUX         -14 IO94
+QSO:   144 FT8 2023-05-03 2049 2E0SNB        -01 IO91             G8SEI         -06 IO92
+END-OF-LOG:

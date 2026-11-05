@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G8TZJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO84OA
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230606&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1190; excluded rows=0.
+QSO:   144 CW 2023-06-06 1800 G8TZJ         559 1 IO84OA         M7ASK         59 1 IO84NB
+QSO:   144 FM 2023-06-06 1805 G8TZJ         59 2 IO84OA          GW3ATZ/P      59 5 IO83KB
+QSO:   144 FM 2023-06-06 1807 G8TZJ         59 3 IO84OA          M0KYB/P       59 11 IO91FN
+QSO:   144 FM 2023-06-06 1824 G8TZJ         59 4 IO84OA          G3WRA         59 29 IO82RJ
+QSO:   144 FM 2023-06-06 1835 G8TZJ         59 5 IO84OA          G0LGS/P       55 26 IO81WU
+QSO:   144 FM 2023-06-06 1837 G8TZJ         59 6 IO84OA          2E0DHT/P      59 10 IO83RP
+QSO:   144 FM 2023-06-06 1839 G8TZJ         59 7 IO84OA          M0MHW/P       59 2 IO83NW
+QSO:   144 FM 2023-06-06 1840 G8TZJ         59 8 IO84OA          GW8ASD        56 23 IO83LB
+QSO:   144 FM 2023-06-06 1844 G8TZJ         57 9 IO84OA          GR8ZRE        56 25 IO83NE
+QSO:   144 FM 2023-06-06 1848 G8TZJ         59 10 IO84OA         M0LOR         59 4 IO83OR
+END-OF-LOG:

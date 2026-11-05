@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: G3OVH
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=240501&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=715; excluded rows=2.
+QSO:   144 FT8 2024-05-01 1800 G3OVH         +07 IO92             G4APJ         +06 IO83
+QSO:   144 FT8 2024-05-01 1803 G3OVH         -17 IO92             G8ZLU         -18 IO83
+QSO:   144 FT8 2024-05-01 1835 G3OVH         -07 IO92             MI0IHH        -11 IO74
+QSO:   144 FT8 2024-05-01 1838 G3OVH         -07 IO92             G4NBS         -17 JO02
+QSO:   144 FT8 2024-05-01 1842 G3OVH         -08 IO92             2E1DJN        -06 IO82
+QSO:   144 FT8 2024-05-01 1851 G3OVH         +10 IO92             G0FEH         +06 IO92
+QSO:   144 FT8 2024-05-01 1901 G3OVH         -09 IO92             G0JJG         -17 JO02
+QSO:   144 FT8 2024-05-01 1908 G3OVH         +06 IO92             M0LMK         -13 JO01
+QSO:   144 FT8 2024-05-01 2011 G3OVH         -24 IO92             G3YDY         -24 JO01
+QSO:   144 FT8 2024-05-01 2021 G3OVH         +24 IO92             G8SEI         -06 IO92
+QSO:   144 FT8 2024-05-01 2023 G3OVH         +02 IO92             M1EYP/P       +15 IO83
+QSO:   144 FT8 2024-05-01 2039 G3OVH         -08 IO92             M7REV         -10 IO82
+QSO:   144 FT8 2024-05-01 2044 G3OVH         +03 IO92             2E1FMS        -09 IO82
+QSO:   144 FT8 2024-05-01 2046 G3OVH         -07 IO92             G7COU         -24 IO93
+QSO:   144 FT8 2024-05-01 2055 G3OVH         -03 IO92             G0ISX         -10 IO93
+QSO:   144 FT8 2024-05-01 2100 G3OVH         -01 IO92             G3RIK         -01 -
+END-OF-LOG:

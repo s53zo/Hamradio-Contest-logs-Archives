@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: M1CJE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91CJ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4822; excluded rows=4.
+QSO:    50 PH 2016-10-16 0902 M1CJE         59 1 IO91CJ SN       G4FSU/P       59 1 IO81QG BS
+QSO:    50 PH 2016-10-16 0905 M1CJE         59 2 IO91CJ SN       G6YB/P        59 3 IO81RI BA
+QSO:    50 PH 2016-10-16 0923 M1CJE         59 3 IO91CJ SN       G4ASR         59 18 IO81MX HR
+QSO:    50 PH 2016-10-16 0925 M1CJE         59 4 IO91CJ SN       GW0GEI        59 7 IO72WC SA
+QSO:    50 PH 2016-10-16 0929 M1CJE         59 5 IO91CJ SN       G3PYE/P       59 29 JO02CE CB
+QSO:    50 PH 2016-10-16 0931 M1CJE         55 6 IO91CJ SN       G6RC          55 23 IO91VC RH
+END-OF-LOG:

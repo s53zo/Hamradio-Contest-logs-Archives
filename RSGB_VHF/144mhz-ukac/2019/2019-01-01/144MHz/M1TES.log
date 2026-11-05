@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M1TES
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO02RK
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190101&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10990; excluded rows=2.
+QSO:   144 PH 2019-01-01 2008 M1TES         59 1 JO02RK          G4IRC         59 6 JO02OD
+QSO:   144 PH 2019-01-01 2030 M1TES         55 2 JO02RK          M1DDD/P       53 43 IO93CH
+QSO:   144 PH 2019-01-01 2032 M1TES         59 3 JO02RK          G4ODA         59 24 IO92WS
+QSO:   144 PH 2019-01-01 2034 M1TES         55 4 JO02RK          G4CLA         55 84 IO92JL
+QSO:   144 PH 2019-01-01 2047 M1TES         55 5 JO02RK          G0MEE         59 1 JO02UM
+QSO:   144 PH 2019-01-01 2100 M1TES         55 6 JO02RK          M1MHZ         57 77 IO92WV
+QSO:   144 PH 2019-01-01 2107 M1TES         55 7 JO02RK          G4FZN/P       57 79 IO94JF
+END-OF-LOG:

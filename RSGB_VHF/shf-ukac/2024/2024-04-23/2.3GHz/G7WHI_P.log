@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G7WHI/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO81JD
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=240423&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=477; excluded rows=0.
+QSO:  2.3G PH 2024-04-23 1933 G7WHI/P       59 1 IO81JD          G4CLA         57 14 IO92JL
+QSO:  2.3G PH 2024-04-23 1939 G7WHI/P       57 2 IO81JD          G8CUL         55 15 IO91JO
+QSO:  2.3G CW 2024-04-23 1952 G7WHI/P       539 3 IO81JD         M0GHZ         519 4 IO81VK
+QSO:  2.3G PH 2024-04-23 2036 G7WHI/P       55 4 IO81JD          F1BHL/P       53 15 IN99OI
+END-OF-LOG:

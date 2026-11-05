@@ -1,0 +1,36 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: EI8KN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO62
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=231101&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=804; excluded rows=0.
+QSO:   144 FT8 2023-11-01 1956 EI8KN         +01 IO62             G0FEH         +00 IO92
+QSO:   144 FT8 2023-11-01 1957 EI8KN         +13 IO62             G4EII         +12 IO83
+QSO:   144 FT8 2023-11-01 2001 EI8KN         +00 IO62             MI0IHH        -15 IO74
+QSO:   144 FT8 2023-11-01 2008 EI8KN         -13 IO62             M7WFG         -05 IO81
+QSO:   144 FT8 2023-11-01 2012 EI8KN         -08 IO62             G3TKF         -18 IO81
+QSO:   144 FT8 2023-11-01 2017 EI8KN         +05 IO62             G4OED         -03 IO91
+QSO:   144 FT8 2023-11-01 2019 EI8KN         +04 IO62             G0JJG         -09 JO02
+QSO:   144 FT8 2023-11-01 2020 EI8KN         -10 IO62             PE1NYQ        -16 JO21
+QSO:   144 FT8 2023-11-01 2021 EI8KN         -13 IO62             G4NBS         -17 JO02
+QSO:   144 FT8 2023-11-01 2022 EI8KN         -08 IO62             G4NBS         -17 JO02
+QSO:   144 FT8 2023-11-01 2023 EI8KN         -15 IO62             G3YDY         -10 JO01
+QSO:   144 FT8 2023-11-01 2024 EI8KN         +00 IO62             GI6ATZ        -08 IO74
+QSO:   144 FT8 2023-11-01 2026 EI8KN         -18 IO62             M0IEP         -15 IO91
+QSO:   144 FT8 2023-11-01 2029 EI8KN         -13 IO62             G4ZTR         -12 JO01
+QSO:   144 FT8 2023-11-01 2030 EI8KN         -20 IO62             G4BRK         -13 IO91
+QSO:   144 FT8 2023-11-01 2032 EI8KN         -07 IO62             G7WIR         -18 JO01
+QSO:   144 FT8 2023-11-01 2038 EI8KN         +08 IO62             G0XDI         -09 IO91
+QSO:   144 FT8 2023-11-01 2041 EI8KN         -12 IO62             M1DST         -22 IO91
+QSO:   144 FT8 2023-11-01 2045 EI8KN         -12 IO62             2E0DUE        -11 JO01
+QSO:   144 FT8 2023-11-01 2052 EI8KN         -06 IO62             G0BIX         -14 JO01
+QSO:   144 FT8 2023-11-01 2053 EI8KN         -04 IO62             G7LII/P       +09 IO92
+END-OF-LOG:

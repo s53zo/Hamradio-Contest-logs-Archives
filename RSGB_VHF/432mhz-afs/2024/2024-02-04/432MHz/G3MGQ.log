@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G3MGQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01DF
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4645; excluded rows=0.
+QSO:   432 PH 2024-02-04 0920 G3MGQ         59 1 JO01DF          2E0VKH        59 2 JO01EF
+QSO:   432 PH 2024-02-04 0942 G3MGQ         59 2 JO01DF          G4JED         59 7 JO01CF
+QSO:   432 PH 2024-02-04 1141 G3MGQ         59 3 JO01DF          G4FFY         59 4 JO01DF
+QSO:   432 PH 2024-02-04 1206 G3MGQ         57 4 JO01DF          G8NEY/P       57 88 IO81UN
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-4-HOURS
+CALLSIGN: G4APJ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=240410&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=528; excluded rows=0.
+QSO:   432 FT8 2024-04-10 1712 G4APJ         +05 IO83             G0XDI         +00 IO91
+QSO:   432 FT8 2024-04-10 1717 G4APJ         +09 IO83             G4CBW         +15 IO83
+QSO:   432 FT8 2024-04-10 1723 G4APJ         -01 IO83             G4PMZ         -14 IO91
+QSO:   432 FT8 2024-04-10 1730 G4APJ         -03 IO83             G4NBS         +02 JO02
+QSO:   432 FT8 2024-04-10 1734 G4APJ         +03 IO83             G4BRK         +13 IO91
+QSO:   432 FT8 2024-04-10 1743 G4APJ         +01 IO83             MI0IHH        +05 IO74
+QSO:   432 FT8 2024-04-10 1745 G4APJ         -10 IO83             M0NVS         -16 IO91
+QSO:   432 FT8 2024-04-10 1750 G4APJ         -09 IO83             PH2M          -10 JO22
+END-OF-LOG:

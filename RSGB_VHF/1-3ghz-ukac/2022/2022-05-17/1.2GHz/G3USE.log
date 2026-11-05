@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO80JT
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=220517&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2499; excluded rows=2.
+QSO:  1.2G PH 2022-05-17 1904 G3USE         55 1 IO80JT          G4CLA         55 5 IO92JL
+QSO:  1.2G PH 2022-05-17 1905 G3USE         59 2 IO80JT          G8DMN/P       59 4 IO81RF
+QSO:  1.2G PH 2022-05-17 1917 G3USE         55 3 IO80JT          G4ODA         53 6 IO92WS
+QSO:  1.2G PH 2022-05-17 1920 G3USE         55 4 IO80JT          G4ILI/P       53 11 IO81WU
+QSO:  1.2G PH 2022-05-17 1929 G3USE         55 5 IO80JT          G4BRK         54 14 IO91HP
+QSO:  1.2G PH 2022-05-17 1930 G3USE         55 6 IO80JT          G0HEL/P       54 13 IO81WG
+QSO:  1.2G PH 2022-05-17 2002 G3USE         55 7 IO80JT          G8GRS/P       52 11 IO81QJ
+END-OF-LOG:

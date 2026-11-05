@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M7MDO
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93HK
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230905&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13184; excluded rows=4.
+QSO:   144 PH 2023-09-05 2023 M7MDO         55 1 IO93HK          M0WLF         55 55 IO81QJ
+QSO:   144 PH 2023-09-05 2028 M7MDO         59 2 IO93HK          G4CLA         59 181 IO92JL
+QSO:   144 PH 2023-09-05 2031 M7MDO         59 3 IO93HK          M0LXX/P       59 84 IO93GC
+QSO:   144 PH 2023-09-05 2040 M7MDO         59 4 IO93HK          2E0IGD/P      59 40 IO93FG
+QSO:   144 PH 2023-09-05 2048 M7MDO         55 5 IO93HK          G0CNN/P       55 96 IO94AI
+QSO:   144 PH 2023-09-05 2100 M7MDO         59 6 IO93HK          G8PNN/P       59 122 IO95AF
+END-OF-LOG:

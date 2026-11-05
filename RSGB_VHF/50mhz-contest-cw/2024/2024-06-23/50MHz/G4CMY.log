@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: G4CMY
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81UR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=693; excluded rows=1.
+QSO:    50 CW 2024-06-23 0905 G4CMY         599 1 IO81UR         G4ASR         599 6 IO81MX
+QSO:    50 CW 2024-06-23 0916 G4CMY         599 2 IO81UR         G4ENZ         599 5 IO81VV
+QSO:    50 CW 2024-06-23 0931 G4CMY         599 3 IO81UR         G3TCU/P       599 14 IO91GI
+END-OF-LOG:

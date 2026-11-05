@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G4RQI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO93IR
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=140; excluded rows=1.
+QSO:   10G PH 2025-05-04 1239 G4RQI         59 1 IO93IR          G4ODA         58 12 IO92WS
+QSO:   10G PH 2025-05-04 1256 G4RQI         55 2 IO93IR          G0HIK/P       31 4 IO84JE
+QSO:   10G CW 2025-05-04 1304 G4RQI         559 3 IO93IR         G0VHF/P       559 19 JO01PU
+QSO:   10G PH 2025-05-04 1316 G4RQI         59 4 IO93IR          G3YJR         59 3 IO93FJ
+QSO:   10G PH 2025-05-04 1323 G4RQI         55 5 IO93IR          G5RAR/P       54 19 IO82QL
+QSO:   10G CW 2025-05-04 1350 G4RQI         519 6 IO93IR         M0HNA/P       519 11 IO91RF
+END-OF-LOG:

@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM0GPZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75WS
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=181106&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10216; excluded rows=3.
+QSO:   144 PH 2018-11-06 2000 MM0GPZ        59 1 IO75WS          GM3WOJ        59 1 IO77WS
+QSO:   144 PH 2018-11-06 2006 MM0GPZ        59 2 IO75WS          MM0CEZ        59 4 IO75XU
+QSO:   144 PH 2018-11-06 2023 MM0GPZ        57 3 IO75WS          MM3DDQ        57 3 IO75RX
+QSO:   144 PH 2018-11-06 2024 MM0GPZ        59 4 IO75WS          GM8GAX        59 4 IO86CD
+QSO:   144 PH 2018-11-06 2026 MM0GPZ        57 5 IO75WS          GM4TOE        57 5 IO87RP
+QSO:   144 PH 2018-11-06 2027 MM0GPZ        57 6 IO75WS          GM8MJV        59 9 IO85MU
+QSO:   144 PH 2018-11-06 2032 MM0GPZ        54 7 IO75WS          GM0EWX        52 5 IO67UL
+QSO:   144 PH 2018-11-06 2033 MM0GPZ        53 8 IO75WS          GM0HBK        55 4 IO77BC
+QSO:   144 PH 2018-11-06 2036 MM0GPZ        59 9 IO75WS          GM4GUF        59 6 IO85EP
+QSO:   144 PH 2018-11-06 2044 MM0GPZ        59 10 IO75WS         GM4BYF        59 12 IO85JV
+QSO:   144 PH 2018-11-06 2048 MM0GPZ        52 11 IO75WS         GI0OTC        55 7 IO65QE
+QSO:   144 PH 2018-11-06 2134 MM0GPZ        55 12 IO75WS         GD6ICR        59 16 IO74PF
+QSO:   144 PH 2018-11-06 2137 MM0GPZ        57 13 IO75WS         G4KUX         57 19 IO94BP
+QSO:   144 PH 2018-11-06 2140 MM0GPZ        59 14 IO75WS         G8PNN/P       59 78 IO95AF
+QSO:   144 PH 2018-11-06 2157 MM0GPZ        53 15 IO75WS         GM7KIM        53 3 IO85AW
+QSO:   144 PH 2018-11-06 2204 MM0GPZ        52 16 IO75WS         GM4AFF        52 76 IO86TS
+QSO:   144 PH 2018-11-06 2206 MM0GPZ        59 17 IO75WS         GM4JJJ        59 12 IO86GB
+QSO:   144 CW 2018-11-06 2218 MM0GPZ        519 18 IO75WS        GM8IEM        529 8 IO78HF
+END-OF-LOG:

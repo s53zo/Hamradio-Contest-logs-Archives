@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G8IQL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO90LX
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8080; excluded rows=4.
+QSO:   144 PH 2023-05-21 1013 G8IQL         58 1 IO90LX GU       G4ELI         59 12 IO70KC TR
+QSO:   144 PH 2023-05-21 1014 G8IQL         59 2 IO90LX GU       G6RST         59 1 IO90LU PO
+QSO:   144 PH 2023-05-21 1018 G8IQL         59 3 IO90LX GU       G7RAU         59 30 IN79JX TR
+QSO:   144 PH 2023-05-21 1019 G8IQL         57 4 IO90LX GU       G4JBH         57 24 IO80QW BA
+QSO:   144 PH 2023-05-21 1021 G8IQL         59 5 IO90LX GU       G1V           59 128 IO90JO PO
+QSO:   144 PH 2023-05-21 1028 G8IQL         59 6 IO90LX GU       G0ODQ         59 117 IO91MR OX
+QSO:   144 PH 2023-05-21 1033 G8IQL         59 7 IO90LX GU       G3M           59 295 JO01QD CT
+QSO:   144 PH 2023-05-21 1037 G8IQL         57 8 IO90LX GU       G4L           55 25 IO91DM SN
+QSO:   144 PH 2023-05-21 1046 G8IQL         59 9 IO90LX GU       G4ODA         59 229 IO92WS PE
+END-OF-LOG:

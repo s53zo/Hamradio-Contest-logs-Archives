@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: 2E1SKY/A
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO93KH
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=180220&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2284; excluded rows=0.
+QSO:  1.2G PH 2018-02-20 2056 2E1SKY/A      59 1 IO93KH          M0MDY         59 26 IO93HH
+QSO:  1.2G PH 2018-02-20 2058 2E1SKY/A      59 2 IO93KH          M0JAV         59 7 IO93KH
+QSO:  1.2G PH 2018-02-20 2108 2E1SKY/A      59 3 IO93KH          G0EAK/P       59 28 IO93NI
+QSO:  1.2G PH 2018-02-20 2110 2E1SKY/A      59 4 IO93KH          G4ZUB/P       59 12 IO93KL
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0BWG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93GK
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190402&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11652; excluded rows=2.
+QSO:   144 PH 2019-04-02 1913 G0BWG         59 1 IO93GK          G8DMU/P       57 21 IO94CB
+QSO:   144 PH 2019-04-02 1922 G0BWG         59 2 IO93GK          M6OME/P       57 10 IO93JJ
+QSO:   144 PH 2019-04-02 1924 G0BWG         59 3 IO93GK          2E0DXK/P      59 16 IO93FG
+QSO:   144 PH 2019-04-02 1928 G0BWG         59 4 IO93GK          G4FZN/P       57 41 IO94JF
+QSO:   144 PH 2019-04-02 1948 G0BWG         58 5 IO93GK          G0EAK/P       57 43 IO93NI
+QSO:   144 PH 2019-04-02 2001 G0BWG         56 6 IO93GK          G3ZXZ         52 52 IO93CU
+QSO:   144 PH 2019-04-02 2111 G0BWG         58 7 IO93GK          G8YMW/P       56 36 IO93MM
+END-OF-LOG:

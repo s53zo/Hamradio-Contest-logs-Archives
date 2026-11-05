@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: M0TNI
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=250305&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=919; excluded rows=0.
+QSO:   144 FT8 2025-03-05 1905 M0TNI         -03 IO92             G8SEI         -14 IO92
+QSO:   144 FT8 2025-03-05 1907 M0TNI         -07 IO92             G0GJV         -09 IO91
+QSO:   144 FT8 2025-03-05 1910 M0TNI         +10 IO92             M1DDD         +12 IO93
+QSO:   144 FT8 2025-03-05 1914 M0TNI         +00 IO92             G4PMZ         -04 IO91
+QSO:   144 FT8 2025-03-05 1917 M0TNI         -20 IO92             G3WZK         -15 IO91
+QSO:   144 FT8 2025-03-05 1919 M0TNI         -11 IO92             G6HIE         -15 JO00
+QSO:   144 FT8 2025-03-05 1921 M0TNI         -11 IO92             G8EEM         -11 IO93
+QSO:   144 FT8 2025-03-05 1927 M0TNI         -22 IO92             M7HCT         -08 -
+QSO:   144 FT8 2025-03-05 1929 M0TNI         -13 IO92             G4PDF         -13 IO93
+QSO:   144 FT8 2025-03-05 1932 M0TNI         -07 IO92             G7WIR         -10 JO01
+QSO:   144 FT8 2025-03-05 1934 M0TNI         -15 IO92             G7ABT         -14 IO93
+QSO:   144 FT8 2025-03-05 1941 M0TNI         -17 IO92             G0ODR         -02 JO02
+QSO:   144 FT8 2025-03-05 1943 M0TNI         +00 IO92             G4VPD         -15 IO92
+QSO:   144 FT8 2025-03-05 1946 M0TNI         -12 IO92             G7UTB         -19 JO01
+QSO:   144 FT8 2025-03-05 2001 M0TNI         +01 IO92             G4BMM         +00 IO91
+END-OF-LOG:

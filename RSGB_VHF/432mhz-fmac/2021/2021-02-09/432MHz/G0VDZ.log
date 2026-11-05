@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G0VDZ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91SJ
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=210209&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=682; excluded rows=0.
+QSO:   432 FM 2021-02-09 1901 G0VDZ         59 1 IO91SJ          G0UJA         59 1 JO01BJ
+QSO:   432 FM 2021-02-09 1905 G0VDZ         59 2 IO91SJ          G0UJA         59 1 JO01BJ
+QSO:   432 FM 2021-02-09 1905 G0VDZ         59 3 IO91SJ          G1HRD         59 2 IO91VI
+QSO:   432 FM 2021-02-09 1912 G0VDZ         59 4 IO91SJ          2E0GHH        59 3 IO91WI
+QSO:   432 FM 2021-02-09 1913 G0VDZ         59 5 IO91SJ          G7WIR         59 4 JO01BJ
+QSO:   432 FM 2021-02-09 1921 G0VDZ         59 6 IO91SJ          G8GYX         59 11 IO91VH
+QSO:   432 FM 2021-02-09 1952 G0VDZ         59 7 IO91SJ          2E0XBJ        59 3 IO91UL
+END-OF-LOG:

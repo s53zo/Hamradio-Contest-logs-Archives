@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: MM7BWK
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=211201&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=747; excluded rows=0.
+QSO:   144 FT8 2021-12-01 1908 MM7BWK        -05 IO85             GI6ATZ        -19 IO74
+QSO:   144 FT8 2021-12-01 1917 MM7BWK        +07 IO85             GM4CXM        -18 IO75
+QSO:   144 FT8 2021-12-01 1937 MM7BWK        +04 IO85             G8AOE/P       -01 IO94
+QSO:   144 FT8 2021-12-01 1941 MM7BWK        -02 IO85             GM4GUF        -16 IO85
+QSO:   144 FT8 2021-12-01 1947 MM7BWK        +14 IO85             GW4FRX        -07 IO82
+QSO:   144 FT8 2021-12-01 1955 MM7BWK        +05 IO85             MM0INH        -07 IO85
+QSO:   144 FT8 2021-12-01 2024 MM7BWK        -02 IO85             G8EEM         -07 IO93
+END-OF-LOG:

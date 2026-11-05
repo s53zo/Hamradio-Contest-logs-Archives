@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8PCB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91BB
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210706&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11575; excluded rows=4.
+QSO:   144 PH 2021-07-06 1932 G8PCB         59 1 IO91BB          G4YVM         59 3 IO91CC
+QSO:   144 PH 2021-07-06 2025 G8PCB         59 2 IO91BB          G4CZP/P       59 108 IO90JO
+QSO:   144 PH 2021-07-06 2039 G8PCB         55 3 IO91BB          M0MCV         55 64 JO01AL
+QSO:   144 PH 2021-07-06 2049 G8PCB         55 4 IO91BB          G8CUL         55 56 IO91JO
+QSO:   144 PH 2021-07-06 2104 G8PCB         44 5 IO91BB          2E0GNC        51 15 IO91FF
+QSO:   144 PH 2021-07-06 2106 G8PCB         59 6 IO91BB          G4GTH         57 26 IO90BV
+QSO:   144 PH 2021-07-06 2109 G8PCB         56 7 IO91BB          G0LTG/P       54 99 IO81RF
+END-OF-LOG:

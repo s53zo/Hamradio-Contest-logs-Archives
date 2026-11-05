@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: G4WEY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO90AS
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1932; excluded rows=2.
+QSO:   432 PH 2022-03-06 1112 G4WEY         58 1 IO90AS          G3MEH         56 35 IO91QS
+QSO:   432 PH 2022-03-06 1118 G4WEY         59 2 IO90AS          G40DQ         59 32 IO91MR
+QSO:   432 PH 2022-03-06 1124 G4WEY         59 3 IO90AS          G4ASR         59 58 IO81MX
+END-OF-LOG:

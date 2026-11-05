@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0UFE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82SP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220210&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5486; excluded rows=9.
+QSO:    50 PH 2022-02-10 2000 G0UFE         59 1 IO82SP          G4ASR         59 1 IO81MX
+QSO:    50 PH 2022-02-10 2002 G0UFE         59 2 IO82SP          G1YBB/P       59 7 IO82LB
+QSO:    50 PH 2022-02-10 2005 G0UFE         59 3 IO82SP          M0TZM         59 2 IO82SR
+QSO:    50 PH 2022-02-10 2006 G0UFE         59 4 IO82SP          G8XYJ         59 1 IO82RO
+QSO:    50 PH 2022-02-10 2010 G0UFE         59 5 IO82SP          G4TVR         59 15 IO92CI
+QSO:    50 PH 2022-02-10 2016 G0UFE         55 6 IO82SP          G8LYB         55 13 IO92JI
+QSO:    50 PH 2022-02-10 2019 G0UFE         59 7 IO82SP          M0TBQ         59 2 IO82SQ
+QSO:    50 PH 2022-02-10 2020 G0UFE         52 8 IO82SP          G0TFD         53 2 IO82XS
+QSO:    50 PH 2022-02-10 2021 G0UFE         59 9 IO82SP          G0CER         59 4 IO82RV
+QSO:    50 PH 2022-02-10 2022 G0UFE         44 10 IO82SP         G4EII         44 8 IO83PM
+QSO:    50 PH 2022-02-10 2026 G0UFE         56 11 IO82SP         M0CWX         59 7 IO82XK
+QSO:    50 PH 2022-02-10 2029 G0UFE         54 12 IO82SP         GW4SHF        59 22 IO82HP
+QSO:    50 PH 2022-02-10 2039 G0UFE         59 13 IO82SP         G8ZRE         59 19 IO83NE
+END-OF-LOG:

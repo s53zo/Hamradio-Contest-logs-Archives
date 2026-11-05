@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0XAC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81VU
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=170214&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5261; excluded rows=1.
+QSO:   432 PH 2017-02-14 2010 M0XAC         51 1 IO81VU          G4ILI/P       57 17 IO81RU
+QSO:   432 PH 2017-02-14 2022 M0XAC         51 2 IO81VU          G3WRA/P       55 13 IO82SE
+QSO:   432 PH 2017-02-14 2052 M0XAC         53 3 IO81VU          M0BUX         55 11 IO82WA
+QSO:   432 PH 2017-02-14 2109 M0XAC         51 4 IO81VU          G4FAD         55 8 IO82PC
+QSO:   432 PH 2017-02-14 2119 M0XAC         51 5 IO81VU          M0RKX/P       57 28 IO92BA
+QSO:   432 PH 2017-02-14 2151 M0XAC         51 6 IO81VU          G8ONK/P       59 16 IO92BA
+QSO:   432 PH 2017-02-14 2213 M0XAC         51 7 IO81VU          G4CLA         55 163 IO92JL
+END-OF-LOG:

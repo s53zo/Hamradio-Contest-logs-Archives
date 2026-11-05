@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G1DFL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91NL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=190919&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4708; excluded rows=1.
+QSO:    70 PH 2019-09-19 2114 G1DFL         59 1 IO91NL          G3TCU/P       59 119 IO91RF
+QSO:    70 PH 2019-09-19 2115 G1DFL         59 2 IO91NL          GW1YBB/P      59 102 IO81KW
+QSO:    70 PH 2019-09-19 2119 G1DFL         51 3 IO91NL          G3WCB/P       51 25 IO80DI
+QSO:    70 PH 2019-09-19 2122 G1DFL         57 4 IO91NL          G8GYX         58 43 IO91VH
+QSO:    70 PH 2019-09-19 2123 G1DFL         58 5 IO91NL          G0LGS/P       59 54 IO81XV
+QSO:    70 PH 2019-09-19 2124 G1DFL         59 6 IO91NL          G4ASR         59 103 IO81MX
+QSO:    70 PH 2019-09-19 2127 G1DFL         59 7 IO91NL          M0ICR         59 48 IO91SO
+QSO:    70 PH 2019-09-19 2129 G1DFL         59 8 IO91NL          M0GHZ         59 50 IO81VK
+END-OF-LOG:

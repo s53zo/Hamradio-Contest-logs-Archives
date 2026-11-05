@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: MM0GPZ
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO75WS
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=281; excluded rows=1.
+QSO:    50 CW 2019-06-23 0911 MM0GPZ        599 1 IO75WS         MM0CEZ        599 3 IO75XU
+QSO:    50 CW 2019-06-23 0921 MM0GPZ        599 2 IO75WS         G3TBK/P       599 11 IO93RA
+QSO:    50 CW 2019-06-23 0954 MM0GPZ        579 3 IO75WS         G3TCU/P       579 20 IO91GI
+QSO:    50 CW 2019-06-23 0957 MM0GPZ        599 4 IO75WS         GM3POI        599 2 IO88OW
+QSO:    50 CW 2019-06-23 1040 MM0GPZ        599 5 IO75WS         M0BEW         599 29 IO82RJ
+END-OF-LOG:

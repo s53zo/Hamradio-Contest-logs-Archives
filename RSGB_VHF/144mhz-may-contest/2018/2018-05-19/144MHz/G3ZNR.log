@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G3ZNR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93DV
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7737; excluded rows=5.
+QSO:   144 PH 2018-05-19 1416 G3ZNR         59 1 IO93DV LS       G4FZN/P       59 11 IO84XI DL
+QSO:   144 PH 2018-05-20 1040 G3ZNR         55 2 IO93DV LS       G3M           51 368 JO01QD CT
+QSO:   144 PH 2018-05-20 1144 G3ZNR         55 3 IO93DV LS       G8T           53 464 JO01KJ ME
+QSO:   144 PH 2018-05-20 1157 G3ZNR         59 4 IO93DV LS       M0RSF/P       59 13 IO84XA BD
+END-OF-LOG:

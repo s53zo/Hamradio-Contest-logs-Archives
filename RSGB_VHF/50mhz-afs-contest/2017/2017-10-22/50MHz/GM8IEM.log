@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: GM8IEM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO78HF
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3124; excluded rows=4.
+QSO:    50 CW 2017-10-22 0927 GM8IEM        599 1 IO78HF IV      GM0ELP        599 2 IO75XR ML
+QSO:    50 PH 2017-10-22 0956 GM8IEM        26 2 IO78HF IV       G4BRK         26 13 IO91NM OX
+QSO:    50 PH 2017-10-22 1006 GM8IEM        26 3 IO78HF IV       G8BCG         26 39 IO70RK PL
+QSO:    50 PH 2017-10-22 1014 GM8IEM        26 4 IO78HF IV       G0LFF         26 7 IO90WX RH
+QSO:    50 PH 2017-10-22 1017 GM8IEM        26 5 IO78HF IV       F4VPC         26 7 IN87VV
+QSO:    50 PH 2017-10-22 1031 GM8IEM        26 6 IO78HF IV       M0ICR         59 23 IO91SO HA
+QSO:    50 PH 2017-10-22 1055 GM8IEM        26 7 IO78HF IV       M0SAT         26 30 IO91TP WD
+QSO:    50 PH 2017-10-22 1204 GM8IEM        54 8 IO78HF IV       MM0CEZ        52 21 IO75XU ML
+END-OF-LOG:

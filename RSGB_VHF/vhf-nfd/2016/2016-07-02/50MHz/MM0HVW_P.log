@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: MM0HVW/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO87QK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3241; excluded rows=20.
+QSO:    50 PH 2016-07-02 1422 MM0HVW/P      55 1 IO87QK          GM4ZUK/P      53 9 IO86RW
+QSO:    50 PH 2016-07-02 1610 MM0HVW/P      59 2 IO87QK          MM0SMD        59 2 IO87KK
+QSO:    50 CW 2016-07-02 1740 MM0HVW/P      599 3 IO87QK         GM4ILS        599 1 IO87IP
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CHRISTMAS-CONTEST
+CALLSIGN: G0VUH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93IL
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Christmas+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=491; excluded rows=2.
+QSO:    50 PH 2022-12-26 1413 G0VUH         59 1 IO93IL          G3YJR         59 1 IO93FJ
+QSO:    50 PH 2022-12-26 1422 G0VUH         59 2 IO93IL          G4ODA         59 11 IO92WS
+QSO:    50 PH 2022-12-26 1426 G0VUH         55 3 IO93IL          M0NPK         57 8 IO91OK
+QSO:    50 PH 2022-12-26 1433 G0VUH         55 4 IO93IL          G6AD          55 13 IO92GL
+QSO:    50 PH 2022-12-26 1436 G0VUH         51 5 IO93IL          G7SMD         55 1 IO93GD
+QSO:    50 PH 2022-12-26 1513 G0VUH         57 6 IO93IL          G0SKA         55 28 IO91OQ
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0TMR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93CR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220607&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11893; excluded rows=8.
+QSO:   144 PH 2022-06-07 1908 M0TMR         55 1 IO93CR          G0EAK/P       56 10 IO93NI
+QSO:   144 PH 2022-06-07 1916 M0TMR         56 2 IO93CR          G8DMU/P       56 23 IO94CB
+QSO:   144 PH 2022-06-07 2004 M0TMR         51 3 IO93CR          M0HOM         57 16 IO93QO
+QSO:   144 PH 2022-06-07 2010 M0TMR         55 4 IO93CR          G0MZZ         58 14 IO93DR
+QSO:   144 PH 2022-06-07 2012 M0TMR         57 5 IO93CR          G3SDY         59 21 IO93DO
+END-OF-LOG:

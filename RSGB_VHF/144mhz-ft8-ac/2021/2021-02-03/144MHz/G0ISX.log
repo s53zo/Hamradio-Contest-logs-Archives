@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G0ISX
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1901 G0ISX         -02 IO93             G4HZG         -02 IO93
+QSO:   144 FT8 2021-02-03 1906 G0ISX         -12 IO93             G7WKX         -06 IO83
+QSO:   144 FT8 2021-02-03 1912 G0ISX         -15 IO93             G0DJA         -05 IO93
+QSO:   144 FT8 2021-02-03 1916 G0ISX         -14 IO93             G0DJA         -04 IO93
+QSO:   144 FT8 2021-02-03 1917 G0ISX         -14 IO93             G8NRY         -13 IO93JI
+QSO:   144 FT8 2021-02-03 1923 G0ISX         +00 IO93             G0JEI         -15 IO93
+QSO:   144 FT8 2021-02-03 1925 G0ISX         -14 IO93             G1PPA         -19 IO93
+QSO:   144 FT8 2021-02-03 1942 G0ISX         -17 IO93             M3SMK         -13 IO83
+QSO:   144 FT8 2021-02-03 1947 G0ISX         -22 IO93             M3SMK         -12 IO83
+QSO:   144 FT8 2021-02-03 1949 G0ISX         -09 IO93             G8HXE         -12 IO83
+QSO:   144 FT8 2021-02-03 1951 G0ISX         -18 IO93             2E0NER        -09 IO93
+QSO:   144 FT8 2021-02-03 2010 G0ISX         -04 IO93             M0DMS         -12 IO93
+QSO:   144 FT8 2021-02-03 2014 G0ISX         +00 IO93             G7LRQ         -19 IO91
+QSO:   144 FT8 2021-02-03 2019 G0ISX         -06 IO93             2E1SKY        -09 IO93
+QSO:   144 FT8 2021-02-03 2027 G0ISX         -17 IO93             G7COU         -07 IO93
+QSO:   144 FT8 2021-02-03 2046 G0ISX         +15 IO93             G0XDI         -04 IO91
+END-OF-LOG:

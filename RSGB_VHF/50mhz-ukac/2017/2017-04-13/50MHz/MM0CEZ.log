@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: MM0CEZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO75XU
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170413&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5795; excluded rows=0.
+QSO:    50 CW 2017-04-13 1906 MM0CEZ        599 1 IO75XU         GM3WUX        599 1 IO75UX
+QSO:    50 PH 2017-04-13 1909 MM0CEZ        58 2 IO75XU          GM4JJJ        58 8 IO86GB
+QSO:    50 PH 2017-04-13 1912 MM0CEZ        57 3 IO75XU          G1YBB/P       59 19 IO82LB
+QSO:    50 PH 2017-04-13 1924 MM0CEZ        53 4 IO75XU          GW4ZAR/P      53 24 IO83JF
+QSO:    50 PH 2017-04-13 1931 MM0CEZ        59 5 IO75XU          MM0GPZ        59 2 IO75WS
+QSO:    50 PH 2017-04-13 1937 MM0CEZ        59 6 IO75XU          GM4NFC        59 3 IO75RI
+QSO:    50 PH 2017-04-13 2003 MM0CEZ        59 7 IO75XU          GI4SNA        59 60 IO64XM
+QSO:    50 PH 2017-04-13 2026 MM0CEZ        55 8 IO75XU          G3TBK/P       57 80 IO93RA
+QSO:    50 PH 2017-04-13 2040 MM0CEZ        56 9 IO75XU          G8REQ         56 51 IO83KI
+QSO:    50 PH 2017-04-13 2043 MM0CEZ        56 10 IO75XU         GW8ASD        56 52 IO83LB
+QSO:    50 PH 2017-04-13 2053 MM0CEZ        53 11 IO75XU         G4HBA         53 43 IO93FN
+END-OF-LOG:

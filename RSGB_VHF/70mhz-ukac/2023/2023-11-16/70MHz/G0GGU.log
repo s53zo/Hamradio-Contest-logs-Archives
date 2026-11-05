@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0GGU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92MG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=231116&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2832; excluded rows=1.
+QSO:    70 PH 2023-11-16 2001 G0GGU         59 1 IO92MG          G1MZD         59 2 IO92NB
+QSO:    70 PH 2023-11-16 2002 G0GGU         59 2 IO92MG          G4CZB/P       59 2 IO92LH
+QSO:    70 PH 2023-11-16 2003 G0GGU         58 3 IO92MG          G8FMC         58 3 IO91NW
+QSO:    70 PH 2023-11-16 2006 G0GGU         55 4 IO92MG          G0ODQ         59 8 IO91MR
+QSO:    70 PH 2023-11-16 2009 G0GGU         52 5 IO92MG          G4CLA         59 14 IO92JL
+QSO:    70 PH 2023-11-16 2014 G0GGU         52 6 IO92MG          G4FZN/P       55 17 IO94JF
+QSO:    70 PH 2023-11-16 2018 G0GGU         59 7 IO92MG          G0WUS/P       59 26 IO92MP
+QSO:    70 PH 2023-11-16 2020 G0GGU         56 8 IO92MG          G3MEH         57 12 IO91QS
+QSO:    70 PH 2023-11-16 2025 G0GGU         52 9 IO92MG          G3VCA         53 12 IO93MJ
+QSO:    70 PH 2023-11-16 2032 G0GGU         59 10 IO92MG         G7LRQ/P       59 21 IO91TU
+QSO:    70 PH 2023-11-16 2039 G0GGU         59 11 IO92MG         G6HPR/P       59 21 IO92MO
+QSO:    70 PH 2023-11-16 2053 G0GGU         55 12 IO92MG         G0SKA         59 32 IO91OQ
+END-OF-LOG:

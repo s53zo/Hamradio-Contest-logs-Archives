@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G0GWI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83UJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=180225&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=924; excluded rows=0.
+QSO:    70 PH 2018-02-25 1013 G0GWI         59 1 IO83UJ          G4HGI         59 9 IO83PL
+QSO:    70 PH 2018-02-25 1045 G0GWI         59 2 IO83UJ          M0OMB         59 11 IO83PO
+QSO:    70 PH 2018-02-25 1053 G0GWI         55 3 IO83UJ          G4HGT/P       56 40 IO93BV
+QSO:    70 PH 2018-02-25 1111 G0GWI         55 4 IO83UJ          G3TDH         57 13 IO83WI
+QSO:    70 PH 2018-02-25 1156 G0GWI         55 5 IO83UJ          GW8ASD        58 37 IO83LB
+END-OF-LOG:

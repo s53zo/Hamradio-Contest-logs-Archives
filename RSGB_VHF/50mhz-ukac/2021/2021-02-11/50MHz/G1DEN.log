@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G1DEN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93DO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2000 G1DEN         59 1 IO93DO          G0BFJ         59 2 IO93CP
+QSO:    50 PH 2021-02-11 2001 G1DEN         59 2 IO93DO          G3YPE         59 2 IO93CN
+QSO:    50 PH 2021-02-11 2002 G1DEN         59 3 IO93DO          M0RIU         59 4 IO93CQ
+QSO:    50 PH 2021-02-11 2003 G1DEN         59 4 IO93DO          G0BWB         59 5 IO93CO
+QSO:    50 PH 2021-02-11 2007 G1DEN         59 5 IO93DO          G8ZRE         56 9 IO83NE
+QSO:    50 PH 2021-02-11 2011 G1DEN         59 6 IO93DO          M5JB          59 8 IO93CN
+QSO:    50 PH 2021-02-11 2014 G1DEN         59 7 IO93DO          G8AOE         59 3 IO94IM
+QSO:    50 PH 2021-02-11 2015 G1DEN         59 8 IO93DO          G4FZN         57 3 IO94EK
+QSO:    50 PH 2021-02-11 2016 G1DEN         59 9 IO93DO          M0KOV         59 5 IO93HX
+QSO:    50 PH 2021-02-11 2016 G1DEN         59 10 IO93DO         2E0EDL        59 3 IO93CQ
+QSO:    50 PH 2021-02-11 2017 G1DEN         59 11 IO93DO         G0TVM         59 6 IO93CT
+QSO:    50 PH 2021-02-11 2020 G1DEN         59 12 IO93DO         G1HLT         57 11 IO93JD
+QSO:    50 PH 2021-02-11 2024 G1DEN         59 13 IO93DO         G3VCA         59 28 IO93MG
+END-OF-LOG:

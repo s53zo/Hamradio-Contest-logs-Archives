@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4CCX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO02MM
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=191001&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9983; excluded rows=1.
+QSO:   144 PH 2019-10-01 2023 G4CCX         57 1 JO02MM          G4IRC         57 49 JO02OD
+QSO:   144 PH 2019-10-01 2027 G4CCX         58 2 JO02MM          G4ODA         58 66 IO92WS
+QSO:   144 PH 2019-10-01 2028 G4CCX         59 3 JO02MM          G3SEM         59 25 JO02LN
+QSO:   144 PH 2019-10-01 2114 G4CCX         59 4 JO02MM          M1BFX         59 154 JO02FE
+QSO:   144 PH 2019-10-01 2117 G4CCX         59 5 JO02MM          G4DYC         59 6 JO02MP
+END-OF-LOG:

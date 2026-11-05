@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: G4BEE
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=250903&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=768; excluded rows=0.
+QSO:   144 FT8 2025-09-03 1904 G4BEE         +04 IO83             MM1EYP/P      +15 IO85
+QSO:   144 FT8 2025-09-03 1911 G4BEE         +08 IO83             G8VHI         -01 IO92
+QSO:   144 FT8 2025-09-03 1923 G4BEE         +03 IO83             M0LJB         +02 IO83
+QSO:   144 FT8 2025-09-03 1935 G4BEE         +12 IO83             G0XDI         -12 IO91
+QSO:   144 FT8 2025-09-03 1951 G4BEE         +08 IO83             G0JJG         -17 JO02
+QSO:   144 FT8 2025-09-03 2001 G4BEE         -05 IO83             G4ZTR         -14 JO01
+QSO:   144 FT8 2025-09-03 2025 G4BEE         -15 IO83             G0BIX         -11 JO01
+END-OF-LOG:

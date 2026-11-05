@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO85IW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=241121&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1811; excluded rows=1.
+QSO:    70 PH 2024-11-21 2009 GM4DIJ        59 1 IO85IW          MM0GOG        59 1 IO85DU
+QSO:    70 PH 2024-11-21 2024 GM4DIJ        59 2 IO85IW          GM4CXM        59 2 IO75TW
+QSO:    70 PH 2024-11-21 2025 GM4DIJ        57 3 IO85IW          GM4JTJ        57 4 IO86RP
+QSO:    70 PH 2024-11-21 2032 GM4DIJ        53 4 IO85IW          GI4SNA        51 5 IO64XM
+QSO:    70 PH 2024-11-21 2048 GM4DIJ        55 5 IO85IW          GW8ASD        56 13 IO83LB
+QSO:    70 PH 2024-11-21 2049 GM4DIJ        59 6 IO85IW          G4CLA         59 51 IO92JL
+QSO:    70 CW 2024-11-21 2208 GM4DIJ        519 7 IO85IW         GW1YBB/P      53 74 IO81KW
+END-OF-LOG:

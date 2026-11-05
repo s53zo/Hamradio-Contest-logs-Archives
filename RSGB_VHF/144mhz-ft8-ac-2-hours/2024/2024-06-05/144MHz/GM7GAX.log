@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: GM7GAX
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO86
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=240605&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=963; excluded rows=1.
+QSO:   144 FT8 2024-06-05 1929 GM7GAX        -18 IO86             GM8MJV        -19 IO85
+QSO:   144 FT8 2024-06-05 1934 GM7GAX        -16 IO86             GM4JIB        -18 IO85
+QSO:   144 FT8 2024-06-05 1943 GM7GAX        -20 IO86             MM0RKN        -22 IO85
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4LPD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92KW
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3744; excluded rows=2.
+QSO:    50 PH 2017-07-01 1722 G4LPD         59 1 IO92KW          GI4GTY/P      59 20 IO74AI
+QSO:    50 PH 2017-07-01 1723 G4LPD         59 2 IO92KW          G3RCW/P       59 42 IO93CE
+QSO:    50 PH 2017-07-01 1726 G4LPD         59 3 IO92KW          GM3HAM/P      57 63 IO74WV
+QSO:    50 PH 2017-07-01 1740 G4LPD         57 4 IO92KW          G2BQY/P       52 123 IO81RF
+QSO:    50 PH 2017-07-01 1753 G4LPD         57 5 IO92KW          M0HRF/P       55 92 IO91GI
+QSO:    50 PH 2017-07-01 1836 G4LPD         59 6 IO92KW          G8LED/P       59 98 IO92LE
+QSO:    50 PH 2017-07-01 1902 G4LPD         59 7 IO92KW          EI9E/P        59 117 IO62OM
+QSO:    50 PH 2017-07-01 2020 G4LPD         59 8 IO92KW          M1DDD/P       57 73 IO93CH
+END-OF-LOG:

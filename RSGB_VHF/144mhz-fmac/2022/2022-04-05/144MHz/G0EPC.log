@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G0EPC
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91CO
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=220405&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1140; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 FM 2022-04-05 1805 G0EPC         59 1 IO91CO          2E0WHQ/P      59 7 IO91CL
+QSO:   144 FM 2022-04-05 1808 G0EPC         59 2 IO91CO          2E0YCC        59 9 IO91CM
+QSO:   144 FM 2022-04-05 1810 G0EPC         59 3 IO91CO          G3YBY         59 8 IO91BO
+QSO:   144 FM 2022-04-05 1815 G0EPC         59 4 IO91CO          M0ACM         59 7 IO91CO
+QSO:   144 FM 2022-04-05 1818 G0EPC         59 5 IO91CO          M5CBS/P       59 19 IO91CL
+QSO:   144 FM 2022-04-05 1828 G0EPC         59 7 IO91CO          M1DST         59 19 IO91BN
+QSO:   144 FM 2022-04-05 1832 G0EPC         59 8 IO91CO          G1ERM         59 15 IO91CN
+QSO:   144 FM 2022-04-05 1843 G0EPC         59 9 IO91CO          G4HGV         59 14 IO91CO
+QSO:   144 FM 2022-04-05 1850 G0EPC         59 10 IO91CO         G0VTA         59 11 IO91CN
+QSO:   144 FM 2022-04-05 1853 G0EPC         59 11 IO91CO         M0NYY         59 9 IO91AR
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: 2E0BUI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO94FA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2022 2E0BUI        57 1 IO94FA          G8DMU         57 10 IO93FX
+QSO:    50 PH 2021-02-11 2038 2E0BUI        41 2 IO94FA          G0CNN         41 11 IO94GM
+QSO:    50 PH 2021-02-11 2047 2E0BUI        52 3 IO94FA          G8SFI         52 14 IO93LW
+QSO:    50 PH 2021-02-11 2114 2E0BUI        59 4 IO94FA          G4RCD         54 2 IO93GX
+END-OF-LOG:

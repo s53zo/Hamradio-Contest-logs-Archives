@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SECOND-70MHZ-CONTEST
+CALLSIGN: G4PDS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO80LR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Second+70MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=715; excluded rows=2.
+QSO:    70 PH 2017-09-17 0941 G4PDS         59 1 IO80LR          G3TKF         57 4 IO81TJ
+QSO:    70 PH 2017-09-17 0942 G4PDS         59 2 IO80LR          G3NPI         57 18 IO92MA
+QSO:    70 PH 2017-09-17 0943 G4PDS         57 3 IO80LR          G3MEH         55 18 IO91QS
+QSO:    70 PH 2017-09-17 0954 G4PDS         56 4 IO80LR          G0HEL         52 8 IO81WH
+QSO:    70 PH 2017-09-17 1001 G4PDS         57 5 IO80LR          G8LZE         55 20 IO91SO
+QSO:    70 PH 2017-09-17 1009 G4PDS         57 6 IO80LR          G8LED/P       54 22 IO92LH
+QSO:    70 PH 2017-09-17 1028 G4PDS         57 7 IO80LR          G8CUL         55 33 IO91JO
+QSO:    70 PH 2017-09-17 1033 G4PDS         56 8 IO80LR          G4RFR         51 27 IO90AS
+QSO:    70 PH 2017-09-17 1053 G4PDS         57 9 IO80LR          G3TA          55 19 IO81XS
+QSO:    70 PH 2017-09-17 1057 G4PDS         55 10 IO80LR         M0ICR         52 13 IO91SO
+QSO:    70 PH 2017-09-17 1104 G4PDS         56 11 IO80LR         G4YHF         54 12 IO92XW
+QSO:    70 PH 2017-09-17 1109 G4PDS         56 12 IO80LR         M0HYX         55 12 IO92VN
+QSO:    70 PH 2017-09-17 1119 G4PDS         57 13 IO80LR         G4YPC         53 21 IO91RH
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: 2E0OUT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO81WO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210121&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3279; excluded rows=1.
+QSO:    70 PH 2021-01-21 2003 2E0OUT        59 1 IO81WO          M0GHZ         59 1 IO81VK
+QSO:    70 PH 2021-01-21 2005 2E0OUT        57 2 IO81WO          G8LNR         53 4 IO81UR
+QSO:    70 PH 2021-01-21 2008 2E0OUT        57 3 IO81WO          G0JCC         57 12 IO82MA
+QSO:    70 PH 2021-01-21 2017 2E0OUT        57 4 IO81WO          G4ENA         57 6 IO81VR
+QSO:    70 PH 2021-01-21 2023 2E0OUT        55 5 IO81WO          G0ODQ         55 16 IO91MR
+QSO:    70 PH 2021-01-21 2028 2E0OUT        57 6 IO81WO          G4ILI         54 13 IO81WV
+QSO:    70 PH 2021-01-21 2055 2E0OUT        57 7 IO81WO          G4GUG         58 16 IO81WQ
+QSO:    70 PH 2021-01-21 2103 2E0OUT        57 8 IO81WO          G4ASR         52 68 IO81MX
+QSO:    70 PH 2021-01-21 2126 2E0OUT        57 9 IO81WO          G4CLA         55 72 IO92JL
+QSO:    70 PH 2021-01-21 2216 2E0OUT        55 10 IO81WO         G3WRA         52 32 IO82PB
+END-OF-LOG:

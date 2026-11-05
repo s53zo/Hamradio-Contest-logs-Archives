@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0GXZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92PA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=160308&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6460; excluded rows=2.
+QSO:   432 PH 2016-03-08 2147 M0GXZ         55 1 IO92PA          2E0LDZ/P      58 58 IO91MP
+QSO:   432 PH 2016-03-08 2151 M0GXZ         57 2 IO92PA          G0ODQ         57 69 IO91MR
+QSO:   432 PH 2016-03-08 2154 M0GXZ         55 3 IO92PA          G4DFA         58 32 IO91VH
+QSO:   432 PH 2016-03-08 2156 M0GXZ         59 4 IO92PA          G3MEH         56 77 IO91QS
+QSO:   432 PH 2016-03-08 2207 M0GXZ         55 5 IO92PA          G4CLA         59 168 IO92JL
+QSO:   432 PH 2016-03-08 2216 M0GXZ         59 6 IO92PA          G7LRQ         59 78 IO91TQ
+END-OF-LOG:

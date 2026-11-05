@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G4BEE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83RQ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210218&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3686; excluded rows=1.
+QSO:    70 PH 2021-02-18 2000 G4BEE         59 1 IO83RQ          GW4ZAR        59 1 IO83KF
+QSO:    70 PH 2021-02-18 2001 G4BEE         59 2 IO83RQ          G8REQ         59 1 IO83KI
+QSO:    70 PH 2021-02-18 2010 G4BEE         56 3 IO83RQ          G4FZN         54 5 IO94EK
+QSO:    70 PH 2021-02-18 2107 G4BEE         56 4 IO83RQ          GD0AMD/P      56 15 IO74QD
+QSO:    70 PH 2021-02-18 2111 G4BEE         57 5 IO83RQ          G4CLA         55 79 IO92JL
+QSO:    70 PH 2021-02-18 2124 G4BEE         56 6 IO83RQ          G0VAX         53 10 IO83JJ
+END-OF-LOG:

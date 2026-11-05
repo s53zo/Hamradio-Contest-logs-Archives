@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: GI4SJQ
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO64SJ
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1146; excluded rows=1.
+QSO:   144 CW 2021-11-06 2046 GI4SJQ        529 1 IO64SJ         G3WGV         559 6 IO84QN
+QSO:   144 CW 2021-11-07 1345 GI4SJQ        599 2 IO64SJ         G1SCT         599 15 IO92XT
+QSO:   144 CW 2021-11-07 1348 GI4SJQ        549 3 IO64SJ         G4ODA         579 24 IO92WS
+QSO:   144 CW 2021-11-07 1353 GI4SJQ        539 4 IO64SJ         G4CZB/P       559 60 IO92LH
+END-OF-LOG:

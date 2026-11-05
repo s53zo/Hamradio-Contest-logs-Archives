@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: GW4RWR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83HE
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=268; excluded rows=0.
+QSO:    70 PH 2025-07-06 1057 GW4RWR        55 1 IO83HE          G5LK/P        59 69 JO01QD
+QSO:    70 PH 2025-07-06 1143 GW4RWR        57 2 IO83HE          G0FBB/P       59 29 JO01LD
+QSO:    70 PH 2025-07-06 1145 GW4RWR        59 3 IO83HE          G3CKR/P       59 61 IO93AD
+QSO:    70 PH 2025-07-06 1157 GW4RWR        53 4 IO83HE          GI4GTY/P      59 21 IO74AI
+QSO:    70 PH 2025-07-06 1200 GW4RWR        55 5 IO83HE          MM0CPS/P      52 36 IO85SS
+QSO:    70 PH 2025-07-06 1203 GW4RWR        55 6 IO83HE          M0NFD/P       59 33 IO94MJ
+QSO:    70 CW 2025-07-06 1212 GW4RWR        539 7 IO83HE         G4ALE/P       559 45 IO81XG
+QSO:    70 PH 2025-07-06 1216 GW4RWR        53 8 IO83HE          G4DSP/P       59 42 IO92VU
+QSO:    70 CW 2025-07-06 1220 GW4RWR        589 9 IO83HE         GM3HAM/P      599 43 IO74WV
+QSO:    70 CW 2025-07-06 1228 GW4RWR        599 10 IO83HE        G3SRT/P       599 40 IO82KV
+QSO:    70 PH 2025-07-06 1232 GW4RWR        55 11 IO83HE         G8SRC/P       54 77 IO91CL
+END-OF-LOG:

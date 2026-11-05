@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM0CCC
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85MW
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170404&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12720; excluded rows=7.
+QSO:   144 PH 2017-04-04 1905 MM0CCC        57 1 IO85MW          2M0KAU/P      57 1 IO86NN
+QSO:   144 PH 2017-04-04 1907 MM0CCC        56 2 IO85MW          G8KPD/P       59 3 IO85XF
+QSO:   144 PH 2017-04-04 1910 MM0CCC        59 3 IO85MW          GM6CMQ        59 1 IO86GB
+QSO:   144 PH 2017-04-04 1912 MM0CCC        55 4 IO85MW          G0EHV/P       55 7 IO84XT
+QSO:   144 PH 2017-04-04 1913 MM0CCC        54 5 IO85MW          GW4BVE        54 7 IO82KQ
+QSO:   144 PH 2017-04-04 1921 MM0CCC        59 6 IO85MW          GM4JTJ        57 15 IO86RP
+QSO:   144 PH 2017-04-04 1924 MM0CCC        57 7 IO85MW          GM3SEK        57 19 IO74SR
+QSO:   144 PH 2017-04-04 1927 MM0CCC        58 8 IO85MW          GM4JJJ        57 12 IO86GB
+QSO:   144 PH 2017-04-04 1929 MM0CCC        59 9 IO85MW          GM0WDD/P      59 13 IO85NS
+QSO:   144 PH 2017-04-04 1931 MM0CCC        59 10 IO85MW         GM8MJV        59 5 IO86PB
+QSO:   144 PH 2017-04-04 1934 MM0CCC        59 11 IO85MW         GM0BKC/P      58 13 IO86LN
+QSO:   144 PH 2017-04-04 1957 MM0CCC        57 12 IO85MW         GM4BYF        57 12 IO85JV
+QSO:   144 PH 2017-04-04 2100 MM0CCC        57 13 IO85MW         G4FZN/P       57 128 IO94JF
+QSO:   144 PH 2017-04-04 2106 MM0CCC        55 14 IO85MW         M1DDD/P       55 168 IO93CH
+QSO:   144 PH 2017-04-04 2110 MM0CCC        57 15 IO85MW         G4VFL         54 9 IO84FL
+QSO:   144 CW 2017-04-04 2127 MM0CCC        599 16 IO85MW        G4KVK         559 42 IO94BP
+END-OF-LOG:

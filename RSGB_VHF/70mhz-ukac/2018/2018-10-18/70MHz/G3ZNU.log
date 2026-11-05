@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G3ZNU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91PQ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=181018&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4974; excluded rows=0.
+QSO:    70 PH 2018-10-18 2112 G3ZNU         59 1 IO91PQ          G3TCU/P       56 105 IO91RF
+QSO:    70 PH 2018-10-18 2116 G3ZNU         59 2 IO91PQ          G7LRQ         55 101 IO91RU
+QSO:    70 PH 2018-10-18 2118 G3ZNU         59 3 IO91PQ          G3MEH         54 83 IO91QS
+QSO:    70 PH 2018-10-18 2121 G3ZNU         56 4 IO91PQ          M1MHZ         553 82 IO92WV
+QSO:    70 PH 2018-10-18 2127 G3ZNU         58 5 IO91PQ          M0GAV/P       53 106 IO93EK
+END-OF-LOG:

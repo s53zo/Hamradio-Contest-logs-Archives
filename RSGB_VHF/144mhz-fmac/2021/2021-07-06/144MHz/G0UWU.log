@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G0UWU
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81VU
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210706&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=624; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 FM 2021-07-06 1805 G0UWU         59 1 IO81VU          G0RMG/P       55 7 IO92AI
+QSO:   144 FM 2021-07-06 1810 G0UWU         59 2 IO81VU          G8DLW         59 4 IO81RU
+QSO:   144 FM 2021-07-06 1813 G0UWU         59 3 IO81VU          G3WRA         59 9 IO82PB
+QSO:   144 FM 2021-07-06 1824 G0UWU         59 4 IO81VU          G4CIB         59 9 IO81VX
+QSO:   144 FM 2021-07-06 1827 G0UWU         59 5 IO81VU          MW1LCR/P      59 24 IO81NV
+QSO:   144 FM 2021-07-06 1830 G0UWU         55 6 IO81VU          GW0JLF/P      59 15 IO82LH
+QSO:   144 FM 2021-07-06 1844 G0UWU         59 8 IO81VU          G7ITD         59 11 IO81UT
+QSO:   144 FM 2021-07-06 1850 G0UWU         59 9 IO81VU          G0ORE/P       53 14 IO92AG
+END-OF-LOG:

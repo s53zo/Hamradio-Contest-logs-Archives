@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GS8VL
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO75UU
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180712&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4750; excluded rows=0.
+QSO:    50 CW 2018-07-12 1907 GS8VL         589 1 IO75UU         GM4GUF        579 2 IO85EP
+QSO:    50 CW 2018-07-12 1908 GS8VL         599 2 IO75UU         MM0CEZ        599 3 IO75XU
+QSO:    50 CW 2018-07-12 1910 GS8VL         599 3 IO75UU         GM6NX         599 1 IO86BC
+QSO:    50 PH 2018-07-12 1937 GS8VL         59 4 IO75UU          IZ5EME        59 2 JN52NS
+QSO:    50 PH 2018-07-12 1939 GS8VL         59 5 IO75UU          I4LCK         59 1 JN54PD
+QSO:    50 PH 2018-07-12 1947 GS8VL         59 6 IO75UU          IZ1CW         59 0
+QSO:    50 CW 2018-07-12 1949 GS8VL         559 7 IO75UU         IZ1GLX        599 0 JN34VK
+QSO:    50 PH 2018-07-12 2010 GS8VL         55 8 IO75UU          GM0LIR        59 2 IO85BS
+QSO:    50 PH 2018-07-12 2018 GS8VL         57 9 IO75UU          GM0OQV        59 2 IO85AT
+QSO:    50 PH 2018-07-12 2025 GS8VL         55 10 IO75UU         G6CQC         57 21 IO94DT
+END-OF-LOG:

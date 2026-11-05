@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: M0GQB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93BR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=190117&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3360; excluded rows=1.
+QSO:    70 PH 2019-01-17 2005 M0GQB         59 1 IO93BR          G0BFJ/P       59 9 IO93DO
+QSO:    70 PH 2019-01-17 2022 M0GQB         59 2 IO93BR          G4HGV/P       57 26 IO93BV
+QSO:    70 PH 2019-01-17 2032 M0GQB         55 3 IO93BR          G4FZN/P       55 36 IO94JF
+QSO:    70 PH 2019-01-17 2044 M0GQB         56 4 IO93BR          G8BUN         57 17 IO93EQ
+QSO:    70 PH 2019-01-17 2047 M0GQB         57 5 IO93BR          G0TVM         55 19 IO93CT
+END-OF-LOG:

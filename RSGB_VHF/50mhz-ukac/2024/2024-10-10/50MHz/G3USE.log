@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80LR
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=241010&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3336; excluded rows=367.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (2).
+QSO:    50 PH 2024-10-10 1923 G3USE         57 2 IO80LR          GW6UAJ/P      59 12 IO81KR
+QSO:    50 PH 2024-10-10 1953 G3USE         57 4 IO80LR          G3TCT         57 11 IO81QC
+END-OF-LOG:

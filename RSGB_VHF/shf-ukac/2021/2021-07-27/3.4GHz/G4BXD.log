@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4BXD
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO82UJ
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=210727&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=130; excluded rows=2.
+QSO:  3.4G PH 2021-07-27 1914 G4BXD         59 1 IO82UJ          G3VKV         59 2 IO81XV
+QSO:  3.4G CW 2021-07-27 1941 G4BXD         559 2 IO82UJ         G4FEV         559 9 IO92RG
+QSO:  3.4G PH 2021-07-27 1958 G4BXD         59 3 IO82UJ          G4CLA         59 7 IO92JL
+QSO:  3.4G CW 2021-07-27 2009 G4BXD         559 4 IO82UJ         G0WUS         559 10 IO92KO
+QSO:  3.4G PH 2021-07-27 2016 G4BXD         59 5 IO82UJ          G4BRK         59 8 IO91HP
+QSO:  3.4G PH 2021-07-27 2036 G4BXD         59 6 IO82UJ          M0GHZ         59 6 IO81VK
+END-OF-LOG:

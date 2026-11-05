@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G7APD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92JJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180403&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12039; excluded rows=3.
+QSO:   144 PH 2018-04-03 1901 G7APD         57 1 IO92JJ          G8CUL         57 2 IO91JO
+QSO:   144 PH 2018-04-03 1902 G7APD         59 2 IO92JJ          G4CLA         59 6 IO92JL
+QSO:   144 PH 2018-04-03 1903 G7APD         59 3 IO92JJ          G6RC          59 2 IO91VC
+QSO:   144 PH 2018-04-03 1904 G7APD         59 4 IO92JJ          G4CZP/P       58 5 IO90JO
+END-OF-LOG:

@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: M6PGU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93KD
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8160; excluded rows=11.
+QSO:   144 PH 2018-12-02 1001 M6PGU         59 1 IO93KD          G0EAK/P       59 1 IO93NI
+QSO:   144 PH 2018-12-02 1010 M6PGU         59 2 IO93KD          G3TBK/P       59 4 IO93RA
+QSO:   144 PH 2018-12-02 1020 M6PGU         59 3 IO93KD          2E0UAW/P      54 8 IO93JJ
+QSO:   144 PH 2018-12-02 1105 M6PGU         59 4 IO93KD          G3SQQ         54 30 IO93JC
+QSO:   144 PH 2018-12-02 1110 M6PGU         59 5 IO93KD          G4ODA         55 64 IO92WS
+QSO:   144 PH 2018-12-02 1120 M6PGU         55 6 IO93KD          M0CGL         55 45 JO03BF
+QSO:   144 PH 2018-12-02 1150 M6PGU         59 7 IO93KD          2E0RET        55 29 IO93HG
+QSO:   144 PH 2018-12-02 1220 M6PGU         59 8 IO93KD          M0VSE/P       59 17 IO92IR
+QSO:   144 PH 2018-12-02 1225 M6PGU         59 9 IO93KD          G3RCW         59 28 IO93KH
+QSO:   144 PH 2018-12-02 1227 M6PGU         59 10 IO93KD         G4IDL         55 15 IO93HL
+QSO:   144 PH 2018-12-02 1250 M6PGU         59 11 IO93KD         G0TLT         55 28 IO93KE
+QSO:   144 PH 2018-12-02 1310 M6PGU         59 12 IO93KD         G8NRY         59 40 IO93JI
+END-OF-LOG:

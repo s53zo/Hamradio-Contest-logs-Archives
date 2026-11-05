@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M5AHQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90ES
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160405&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12814; excluded rows=26.
+QSO:   144 PH 2016-04-05 1915 M5AHQ         57 1 IO90ES          G0PEB/P       55 12 IO90JO
+QSO:   144 PH 2016-04-05 1921 M5AHQ         59 2 IO90ES          G4CZP/P       59 19 IO90JO
+QSO:   144 PH 2016-04-05 1937 M5AHQ         59 3 IO90ES          G6DOD/P       59 46 IO90JO
+QSO:   144 PH 2016-04-05 1945 M5AHQ         59 4 IO90ES          G4LBH         57 12 IO90AS
+QSO:   144 PH 2016-04-05 2017 M5AHQ         57 5 IO90ES          M0DXR/P       57 111 JO01DH
+QSO:   144 PH 2016-04-05 2020 M5AHQ         57 6 IO90ES          G4WEY         59 16 IO90AS
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3VIP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93XM
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=161025&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6427; excluded rows=3.
+QSO:    50 PH 2016-10-25 1913 G3VIP         55 1 IO93XM          M0LLW/P       52 1 JO03DH
+QSO:    50 PH 2016-10-25 1941 G3VIP         57 2 IO93XM          M0NKR         55 19 JO02HK
+QSO:    50 PH 2016-10-25 1954 G3VIP         57 3 IO93XM          G3LDI         57 20 JO02ON
+QSO:    50 PH 2016-10-25 2017 G3VIP         57 4 IO93XM          G7LRQ/P       55 91 IO81RU
+QSO:    50 PH 2016-10-25 2100 G3VIP         57 5 IO93XM          M0GAV/P       53 80 IO93EH
+QSO:    50 PH 2016-10-25 2107 G3VIP         57 6 IO93XM          G3VCA         56 91 IO93MG
+QSO:    50 PH 2016-10-25 2120 G3VIP         59 7 IO93XM          M0MDY         55 105 IO93HH
+END-OF-LOG:

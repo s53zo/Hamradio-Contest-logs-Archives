@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: MW7FON
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO73
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=240501&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1038; excluded rows=3.
+QSO:   144 FT8 2024-05-01 1924 MW7FON        -09 IO73             GM8MJV        -06 IO85
+QSO:   144 FT8 2024-05-01 1925 MW7FON        -11 IO73             MI0IHH        +02 IO74
+QSO:   144 FT8 2024-05-01 1928 MW7FON        -14 IO73             GM4VVX        -08 IO78
+QSO:   144 FT8 2024-05-01 1930 MW7FON        -13 IO73             EI8KN         +02 IO62
+QSO:   144 FT8 2024-05-01 1934 MW7FON        -22 IO73             GM0HBK        -14 IO77
+QSO:   144 FT8 2024-05-01 1958 MW7FON        -16 IO73             M1EYP/P       -04 IO83
+QSO:   144 FT8 2024-05-01 2002 MW7FON        +02 IO73             EI4ACB        +17 IO62
+END-OF-LOG:

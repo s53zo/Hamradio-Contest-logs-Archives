@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4FEV
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO92RG
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=210622&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=115; excluded rows=0.
+QSO:  3.4G PH 2021-06-22 1849 G4FEV         51 1 IO92RG          G4BXD         52 2 IO82UJ
+QSO:  3.4G PH 2021-06-22 1901 G4FEV         59 2 IO92RG          G4CLA         59 5 IO92JL
+QSO:  3.4G PH 2021-06-22 1940 G4FEV         55 3 IO92RG          G0WUS         51 7 IO92KO
+QSO:  3.4G PH 2021-06-22 2043 G4FEV         57 4 IO92RG          G4ZTR         56 10 JO01KW
+QSO:  3.4G CW 2021-06-22 2056 G4FEV         559 5 IO92RG         G3ZUD         559 6 IO92LU
+QSO:  3.4G PH 2021-06-22 2129 G4FEV         52 6 IO92RG          G8CUL         53 9 IO91JO
+END-OF-LOG:

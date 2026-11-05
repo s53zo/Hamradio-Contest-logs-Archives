@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M1CFK
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210106&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1217; excluded rows=1.
+QSO:   144 FT8 2021-01-06 1908 M1CFK         -20 IO92             G0ORE         -20 IO92
+QSO:   144 FT8 2021-01-06 2048 M1CFK         - IO92               G0ORE         - IO92
+QSO:   144 FT8 2021-01-06 2049 M1CFK         +21 IO92             G0UWS         +23 IO91
+END-OF-LOG:

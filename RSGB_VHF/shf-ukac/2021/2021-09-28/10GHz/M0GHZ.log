@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: M0GHZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO81VK
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=210928&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=185; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   10G PH 2021-09-28 1838 M0GHZ         59 1 IO81VK          G4ZTR         59 1 JO01KW
+QSO:   10G PH 2021-09-28 1850 M0GHZ         55 2 IO81VK          G3PHO         56 5 IO93GG
+QSO:   10G PH 2021-09-28 1853 M0GHZ         56 3 IO81VK          G0WUS         57 4 IO92KO
+QSO:   10G PH 2021-09-28 1904 M0GHZ         56 4 IO81VK          G4DBN         55 4 IO93NR
+QSO:   10G PH 2021-09-28 1924 M0GHZ         58 5 IO81VK          G4ASR         57 8 IO81MX
+QSO:   10G PH 2021-09-28 1950 M0GHZ         59 7 IO81VK          G4ODA         59 6 IO92WS
+QSO:   10G CW 2021-09-28 2000 M0GHZ         559 8 IO81VK         G0WZV         559 8 JO01KV
+QSO:   10G CW 2021-09-28 2013 M0GHZ         569 9 IO81VK         G3XDY         57 9 JO02OB
+QSO:   10G PH 2021-09-28 2025 M0GHZ         59 10 IO81VK         G4HWA         59 11 IO92ME
+QSO:   10G PH 2021-09-28 2035 M0GHZ         59 11 IO81VK         G4CLA         59 11 IO92JL
+QSO:   10G CW 2021-09-28 2041 M0GHZ         529 12 IO81VK        G4KUX         529 13 IO94BP
+END-OF-LOG:

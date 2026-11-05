@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G3VFC/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01GI
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170103&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=620; excluded rows=1.
+QSO:   144 FM 2017-01-03 1930 G3VFC/P       59 1 JO01GI          M0HRP         59 6 JO01GH
+QSO:   144 FM 2017-01-03 1931 G3VFC/P       59 2 JO01GI          M0RLG         59 5 JO01GH
+QSO:   144 FM 2017-01-03 1933 G3VFC/P       52 3 JO01GI          M0TEY         43 2 JO01GI
+QSO:   144 FM 2017-01-03 1937 G3VFC/P       53 4 JO01GI          M0NVS/P       55 32 IO91PS
+QSO:   144 FM 2017-01-03 1939 G3VFC/P       59 5 JO01GI          G0GDA         59 4 JO01IJ
+QSO:   144 FM 2017-01-03 1942 G3VFC/P       55 6 JO01GI          G4RUL/P       53 15 JO00DR
+QSO:   144 FM 2017-01-03 1944 G3VFC/P       59 7 JO01GI          M6YRG         55 4 JO01GI
+END-OF-LOG:

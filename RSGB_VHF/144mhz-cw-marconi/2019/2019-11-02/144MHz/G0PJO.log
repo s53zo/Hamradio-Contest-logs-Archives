@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G0PJO
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01OX
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1130; excluded rows=3.
+QSO:   144 CW 2019-11-03 1033 G0PJO         599 1 JO01OX         G3XDY         599 49 JO02OB
+QSO:   144 CW 2019-11-03 1233 G0PJO         599 2 JO01OX         M4J           599 39 JO02MA
+QSO:   144 CW 2019-11-03 1321 G0PJO         419 3 JO01OX         G3MEH         599 69 IO91QS
+END-OF-LOG:

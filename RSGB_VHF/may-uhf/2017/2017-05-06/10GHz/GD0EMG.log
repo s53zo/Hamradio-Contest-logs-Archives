@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: GD0EMG
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO74QD
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=85; excluded rows=0.
+QSO:   10G PH 2017-05-07 1050 GD0EMG        55 1 IO74QD          G8OHM         55 8 IO92AJ
+QSO:   10G CW 2017-05-07 1207 GD0EMG        559 2 IO74QD         G2L           329 9 IO92XA
+QSO:   10G CW 2017-05-07 1221 GD0EMG        339 3 IO74QD         M1CRO/P       339 20 JO01PU
+QSO:   10G CW 2017-05-07 1300 GD0EMG        559 4 IO74QD         G5B           559 10 IO92WS
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: GM0USI/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO76XA
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=170425&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=343; excluded rows=0.
+QSO:  2.3G PH 2017-04-25 1946 GM0USI/P      59 1 IO76XA          GM0UHC        59 1 IO85FW
+QSO:  2.3G PH 2017-04-25 1948 GM0USI/P      59 2 IO76XA          GM4BYF        59 2 IO85JV
+QSO:  2.3G CW 2017-04-25 2001 GM0USI/P      539 3 IO76XA         GM4JTJ        519 4 IO86RP
+QSO:  2.3G CW 2017-04-25 2009 GM0USI/P      549 4 IO76XA         G4BRK         429 4 IO91HP
+QSO:  2.3G PH 2017-04-25 2012 GM0USI/P      59 5 IO76XA          GM4COX        59 1 IO85BR
+QSO:  2.3G PH 2017-04-25 2015 GM0USI/P      41 6 IO76XA          GM7GDE/P      45 1 IO75WS
+END-OF-LOG:

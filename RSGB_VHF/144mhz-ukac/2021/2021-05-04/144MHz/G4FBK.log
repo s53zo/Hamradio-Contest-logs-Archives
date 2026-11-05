@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4FBK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81SM
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210504&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12915; excluded rows=5.
+QSO:   144 PH 2021-05-04 2015 G4FBK         57 1 IO81SM          G0HEL/P       57 12 IO81WG
+QSO:   144 PH 2021-05-04 2019 G4FBK         59 2 IO81SM          G0LTG/P       59 21 IO81RF
+QSO:   144 PH 2021-05-04 2026 G4FBK         57 3 IO81SM          2E0NEY        57 19 IO81VK
+QSO:   144 PH 2021-05-04 2035 G4FBK         57 4 IO81SM          2E0OUT/P      59 12 IO81WO
+QSO:   144 PH 2021-05-04 2038 G4FBK         59 5 IO81SM          G4ASR         59 49 IO81MX
+QSO:   144 PH 2021-05-04 2038 G4FBK         57 6 IO81SM          M0WLF         59 16 IO81QJ
+QSO:   144 PH 2021-05-04 2045 G4FBK         59 8 IO81SM          G3TKF         59 37 IO81RI
+QSO:   144 PH 2021-05-04 2055 G4FBK         57 9 IO81SM          MW0OMB        55 19 IO81HN
+QSO:   144 PH 2021-05-04 2110 G4FBK         57 10 IO81SM         G4KZY/P       59 93 IO91GI
+QSO:   144 PH 2021-05-04 2042 G4FBK         55 7 IO81SM          M0FXX         55 16 IO91NM
+END-OF-LOG:

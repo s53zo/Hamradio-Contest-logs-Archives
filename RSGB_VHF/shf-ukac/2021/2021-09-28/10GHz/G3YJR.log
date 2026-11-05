@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G3YJR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO93FJ
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=210928&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=185; excluded rows=3.
+QSO:   10G PH 2021-09-28 1832 G3YJR         57 1 IO93FJ          G3PHO         57 1 IO93GG
+QSO:   10G CW 2021-09-28 1845 G3YJR         539 2 IO93FJ         G4ASR         519 2 IO81MX
+QSO:   10G PH 2021-09-28 1919 G3YJR         59 3 IO93FJ          G4DBN         59 8 IO93NR
+QSO:   10G CW 2021-09-28 1923 G3YJR         569 4 IO93FJ         G4ZTR         559 8 JO01KW
+QSO:   10G CW 2021-09-28 1948 G3YJR         579 5 IO93FJ         G4KUX         579 7 IO94BP
+QSO:   10G CW 2021-09-28 2020 G3YJR         579 6 IO93FJ         G4CLA         559 10 IO92JL
+QSO:   10G PH 2021-09-28 2037 G3YJR         59 7 IO93FJ          G4ODA         58 10 IO92WS
+QSO:   10G CW 2021-09-28 2054 G3YJR         539 8 IO93FJ         G3XDY         529 11 JO02OB
+END-OF-LOG:

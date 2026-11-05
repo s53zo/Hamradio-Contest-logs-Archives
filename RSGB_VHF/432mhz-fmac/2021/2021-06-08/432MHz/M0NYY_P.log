@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M0NYY/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81TQ
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=210608&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=810; excluded rows=2.
+QSO:   432 FM 2021-06-08 1800 M0NYY/P       59 1 IO81TQ          M7RAR/P       59 1 IO81TQ
+QSO:   432 FM 2021-06-08 1802 M0NYY/P       59 2 IO81TQ          G4IZZ         59 2 IO81XX
+QSO:   432 FM 2021-06-08 1825 M0NYY/P       59 3 IO81TQ          G4BCA/P       59 15 IO81VU
+QSO:   432 FM 2021-06-08 1827 M0NYY/P       57 4 IO81TQ          G4LDL/P       59 11 IO91DM
+QSO:   432 FM 2021-06-08 1838 M0NYY/P       55 5 IO81TQ          M0ZGB         55 15 IO91CM
+QSO:   432 FM 2021-06-08 1849 M0NYY/P       59 6 IO81TQ          G7ITD         59 19 IO81UT
+QSO:   432 FM 2021-06-08 1853 M0NYY/P       53 7 IO81TQ          M0BAO/P       59 10 IO80LV
+END-OF-LOG:

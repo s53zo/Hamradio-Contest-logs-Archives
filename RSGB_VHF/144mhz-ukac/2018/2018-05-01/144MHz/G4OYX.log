@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4OYX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82PI
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180501&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10647; excluded rows=12.
+QSO:   144 PH 2018-05-01 1903 G4OYX         59 1 IO82PI          M0VXX/P       59 8 IO82QL
+QSO:   144 PH 2018-05-01 1908 G4OYX         59 2 IO82PI          G1YBB/P       59 10 IO82LB
+QSO:   144 PH 2018-05-01 1910 G4OYX         59 3 IO82PI          G3WAG/P       59 8 IO82SE
+QSO:   144 PH 2018-05-01 1924 G4OYX         59 4 IO82PI          G4ASR         59 37 IO81MX
+QSO:   144 PH 2018-05-01 1927 G4OYX         57 5 IO82PI          G4XTF         57 7 IO82OA
+QSO:   144 PH 2018-05-01 1947 G4OYX         55 6 IO82PI          M0RSD         55 28 IO82WM
+END-OF-LOG:

@@ -1,0 +1,37 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: G4CIB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81VX
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3776; excluded rows=3.
+QSO:   144 PH 2018-03-03 1424 G4CIB         59 1 IO81VX          G4ASR         59 1 IO81MX
+QSO:   144 PH 2018-03-03 1432 G4CIB         57 2 IO81VX          G4ODA         57 33 IO92WS
+QSO:   144 PH 2018-03-03 1452 G4CIB         56 3 IO81VX          G3M           56 29 IO91SG
+QSO:   144 PH 2018-03-03 1457 G4CIB         59 4 IO81VX          G4IZZ         59 2 IO81XX
+QSO:   144 PH 2018-03-03 1459 G4CIB         59 5 IO81VX          M0XAC         59 3 IO81VU
+QSO:   144 PH 2018-03-03 1502 G4CIB         55 6 IO81VX          G7APD         55 6 IO92JJ
+QSO:   144 PH 2018-03-03 1505 G4CIB         59 7 IO81VX          2E0NEY        59 17 IO81VK
+QSO:   144 PH 2018-03-03 1522 G4CIB         55 8 IO81VX          M0GAV         55 19 IO93GK
+QSO:   144 PH 2018-03-03 1926 G4CIB         53 9 IO81VX          M0IEP         55 36 IO91DP
+QSO:   144 PH 2018-03-03 1929 G4CIB         55 10 IO81VX         GD8EXI        55 5 IO74PC
+QSO:   144 CW 2018-03-04 0758 G4CIB         519 11 IO81VX        M0BTZ         519 31 IO90GX
+QSO:   144 PH 2018-03-04 0805 G4CIB         59 12 IO81VX         M0HRF/P       59 291 JO01JA
+QSO:   144 PH 2018-03-04 0818 G4CIB         55 13 IO81VX         G8GRS         55 22 IO81QJ
+QSO:   144 PH 2018-03-04 0849 G4CIB         58 14 IO81VX         G8W           58 199 IO90JO
+QSO:   144 PH 2018-03-04 0948 G4CIB         55 15 IO81VX         M0WGF         52 23 JO01JK
+QSO:   144 PH 2018-03-04 1049 G4CIB         57 16 IO81VX         G8BCG         57 16 IO70RK
+QSO:   144 PH 2018-03-04 1106 G4CIB         59 17 IO81VX         M0BUL         59 18 IO82NG
+QSO:   144 PH 2018-03-04 1110 G4CIB         59 18 IO81VX         G8CMU         59 7 IO81RW
+QSO:   144 PH 2018-03-04 1118 G4CIB         55 19 IO81VX         G4GFI         53 58 IO91VH
+END-OF-LOG:

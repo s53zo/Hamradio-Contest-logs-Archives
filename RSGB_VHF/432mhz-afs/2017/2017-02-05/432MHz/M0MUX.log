@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: M0MUX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91SM
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4266; excluded rows=2.
+QSO:   432 PH 2017-02-05 1135 M0MUX         56 1 IO91SM          G4GFI         56 56 IO91VH
+QSO:   432 PH 2017-02-05 1142 M0MUX         56 2 IO91SM          G7LRQ         57 61 IO91TQ
+QSO:   432 PH 2017-02-05 1148 M0MUX         53 3 IO91SM          M0ICR         55 37 IO91SO
+END-OF-LOG:

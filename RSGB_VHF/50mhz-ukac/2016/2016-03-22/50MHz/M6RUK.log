@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M6RUK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93GI
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160322&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8160; excluded rows=9.
+QSO:    50 PH 2016-03-22 2035 M6RUK         55 1 IO93GI          M0MDY         55 31 IO93HH
+QSO:    50 PH 2016-03-22 2043 M6RUK         57 2 IO93GI          G3PHO         57 37 IO93GG
+QSO:    50 PH 2016-03-22 2047 M6RUK         59 3 IO93GI          M0IRQ         59 15 IO93GI
+QSO:    50 PH 2016-03-22 2050 M6RUK         59 4 IO93GI          M0PCF/P       59 53 IO93EI
+QSO:    50 PH 2016-03-22 2059 M6RUK         57 5 IO93GI          2E0RET/P      57 47 IO93EH
+QSO:    50 PH 2016-03-22 2103 M6RUK         55 6 IO93GI          M1DDD/P       55 74 IO93CH
+QSO:    50 PH 2016-03-22 2108 M6RUK         59 7 IO93GI          G4CLA         59 74 IO92JL
+QSO:    50 PH 2016-03-22 2111 M6RUK         59 8 IO93GI          M0GAV         59 25 IO93GK
+END-OF-LOG:

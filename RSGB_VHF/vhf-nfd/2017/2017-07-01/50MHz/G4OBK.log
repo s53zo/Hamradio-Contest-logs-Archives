@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4OBK
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO94OF
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3744; excluded rows=2.
+QSO:    50 PH 2017-07-01 1835 G4OBK         55 1 IO94OF          G8LED/P       55 97 IO92LE
+QSO:    50 PH 2017-07-01 1837 G4OBK         55 2 IO94OF          M0HRF/P       59 99 IO91GI
+QSO:    50 PH 2017-07-01 1840 G4OBK         55 3 IO94OF          G3KNU/P       59 28 IO92QN
+QSO:    50 PH 2017-07-01 1910 G4OBK         57 4 IO94OF          G5TO/P        54 61 IO93FL
+QSO:    50 CW 2017-07-01 1915 G4OBK         559 5 IO94OF         GM4ZUK/P      559 74 IO86RW
+QSO:    50 PH 2017-07-01 2145 G4OBK         55 6 IO94OF          G2BQY/P       52 173 IO81RF
+QSO:    50 PH 2017-07-01 2146 G4OBK         55 7 IO94OF          M1DDD/P       52 85 IO93CH
+END-OF-LOG:

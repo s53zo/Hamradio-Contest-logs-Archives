@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G8IBL
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91QE
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1146; excluded rows=1.
+QSO:   144 CW 2021-11-06 1540 G8IBL         599 1 IO91QE         G4DCV         599 10 IO91OF
+QSO:   144 CW 2021-11-06 1557 G8IBL         599 2 IO91QE         G3TCU/P       599 34 IO91RF
+QSO:   144 CW 2021-11-06 1615 G8IBL         599 3 IO91QE         G4YPC         599 19 IO91IR
+QSO:   144 CW 2021-11-06 1710 G8IBL         599 4 IO91QE         M6A           599 13 IO91EH
+QSO:   144 CW 2021-11-06 1732 G8IBL         599 5 IO91QE         F6DWG/P       599 118 JN19BQ
+QSO:   144 CW 2021-11-06 1812 G8IBL         599 6 IO91QE         M6YUG         339 3 IO91UN
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: MM0ZBH
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO86IB
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180614&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4459; excluded rows=1.
+QSO:    50 PH 2018-06-14 1919 MM0ZBH        59 1 IO86IB          EA2VE         59 1 IN82PU
+QSO:    50 PH 2018-06-14 1931 MM0ZBH        59 2 IO86IB          EA3EVL        59 1 JN00HR
+QSO:    50 CW 2018-06-14 1937 MM0ZBH        599 3 IO86IB         EA2CW         599 1 IN83MG
+QSO:    50 PH 2018-06-14 1950 MM0ZBH        57 4 IO86IB          S01WS         59 1 IL46RD
+QSO:    50 PH 2018-06-14 1957 MM0ZBH        52 5 IO86IB          M6KMB         51 26 IO93EQ
+QSO:    50 PH 2018-06-14 2003 MM0ZBH        57 6 IO86IB          CS7AMX        57 1 IN60II
+END-OF-LOG:

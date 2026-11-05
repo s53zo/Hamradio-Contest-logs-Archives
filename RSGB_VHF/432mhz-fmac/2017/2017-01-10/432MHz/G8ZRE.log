@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G8ZRE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83NE
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FMAC&Date=170110&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=221; excluded rows=0.
+QSO:   432 FM 2017-01-10 1903 G8ZRE         59 1 IO83NE          GW3ATZ        57 1 IO83LE
+QSO:   432 FM 2017-01-10 1905 G8ZRE         59 2 IO83NE          2W0JYN        59 1 IO83LA
+QSO:   432 FM 2017-01-10 1923 G8ZRE         59 3 IO83NE          GW8ASD        59 1 IO83LB
+QSO:   432 FM 2017-01-10 1925 G8ZRE         54 4 IO83NE          GW0TQM        41 1 IO83JE
+QSO:   432 FM 2017-01-10 1927 G8ZRE         59 5 IO83NE          G3UVR         59 3 IO83KH
+END-OF-LOG:

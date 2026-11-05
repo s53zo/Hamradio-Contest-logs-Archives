@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G0ACK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91TN
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8160; excluded rows=11.
+QSO:   144 PH 2018-12-02 1242 G0ACK         59 1 IO91TN          G3WRR         59 41 IO91WJ
+QSO:   144 PH 2018-12-02 1254 G0ACK         57 2 IO91TN          G3TBK/P       57 117 IO93RA
+QSO:   144 PH 2018-12-02 1303 G0ACK         59 3 IO91TN          G5PI/P        59 113 IO92XA
+QSO:   144 PH 2018-12-02 1305 G0ACK         59 4 IO91TN          G4YPC         55 75 IO91RH
+QSO:   144 PH 2018-12-02 1307 G0ACK         59 5 IO91TN          G7LRQ         59 72 IO91TQ
+QSO:   144 PH 2018-12-02 1551 G0ACK         57 6 IO91TN          G3ZNU         55 68 IO91PQ
+QSO:   144 PH 2018-12-02 1556 G0ACK         57 7 IO91TN          G8LED         56 83 IO92LH
+QSO:   144 PH 2018-12-02 1558 G0ACK         59 8 IO91TN          G8DOH         59 117 IO92FA
+END-OF-LOG:

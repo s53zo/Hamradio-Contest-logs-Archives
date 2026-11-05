@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M5JB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93CN
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=211111&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6238; excluded rows=2.
+QSO:    50 PH 2021-11-11 2001 M5JB          59 1 IO93CN          G8DMU/P       59 2 IO94CB
+QSO:    50 PH 2021-11-11 2002 M5JB          59 2 IO93CN          G0CNN/P       59 6 IO94AI
+QSO:    50 PH 2021-11-11 2003 M5JB          59 3 IO93CN          G0BFJ         59 4 IO93CP
+QSO:    50 PH 2021-11-11 2008 M5JB          59 4 IO93CN          G4FZN/P       59 13 IO94JF
+QSO:    50 PH 2021-11-11 2012 M5JB          59 5 IO93CN          G3VCA         59 15 IO93MG
+QSO:    50 PH 2021-11-11 2017 M5JB          59 6 IO93CN          G3SDY         59 9 IO93DO
+QSO:    50 PH 2021-11-11 2033 M5JB          59 7 IO93CN          G3TBK/P       58 58 IO93RA
+QSO:    50 PH 2021-11-11 2036 M5JB          59 8 IO93CN          G3WNR         59 4 IO93FU
+QSO:    50 PH 2021-11-11 2054 M5JB          59 9 IO93CN          G3YPE         59 6 IO93CN
+QSO:    50 PH 2021-11-11 2055 M5JB          59 10 IO93CN         G8BUN         59 25 IO93EQ
+END-OF-LOG:

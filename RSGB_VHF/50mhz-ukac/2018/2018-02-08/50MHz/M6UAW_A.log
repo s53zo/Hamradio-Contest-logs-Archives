@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M6UAW/A
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93KH
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180208&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4187; excluded rows=1.
+QSO:    50 PH 2018-02-08 2059 M6UAW/A       59 1 IO93KH          G1HLT         59 28 IO93JD
+QSO:    50 PH 2018-02-08 2102 M6UAW/A       59 2 IO93KH          2E1SKY        59 17 IO93KH
+QSO:    50 PH 2018-02-08 2104 M6UAW/A       59 3 IO93KH          G3VCA         59 56 IO93MG
+QSO:    50 PH 2018-02-08 2110 M6UAW/A       55 4 IO93KH          M1MHZ         57 72 IO92WV
+QSO:    50 PH 2018-02-08 2119 M6UAW/A       55 5 IO93KH          G4FZN/P       57 75 IO94JF
+END-OF-LOG:

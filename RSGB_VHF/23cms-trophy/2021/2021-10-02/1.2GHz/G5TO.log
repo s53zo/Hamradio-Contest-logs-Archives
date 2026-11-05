@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-23CMS-TROPHY
+CALLSIGN: G5TO
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93GG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=23cms+Trophy&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=359; excluded rows=0.
+QSO:  1.2G PH 2021-10-02 1401 G5TO          59 1 IO93GG          G3SQQ         59 1 IO93JC
+QSO:  1.2G PH 2021-10-02 1406 G5TO          54 2 IO93GG          G3YJR         54 3 IO93FJ
+QSO:  1.2G PH 2021-10-02 1412 G5TO          53 3 IO93GG          G0CDA         529 4 IO83SJ
+QSO:  1.2G CW 2021-10-02 1438 G5TO          569 4 IO93GG         G4BRK         529 1 IO91HP
+QSO:  1.2G CW 2021-10-02 1451 G5TO          539 5 IO93GG         G4ODA         419 9 IO92WS
+QSO:  1.2G PH 2021-10-02 1525 G5TO          52 6 IO93GG          G1HLT         52 5 IO93JD
+QSO:  1.2G CW 2021-10-02 1754 G5TO          559 7 IO93GG         G4ASR         559 21 IO81MX
+QSO:  1.2G PH 2021-10-02 1953 G5TO          52 8 IO93GG          M0GHZ         51 5 IO81VK
+QSO:  1.2G PH 2021-10-02 2006 G5TO          54 9 IO93GG          G8OHM         42 28 IO92AJ
+END-OF-LOG:

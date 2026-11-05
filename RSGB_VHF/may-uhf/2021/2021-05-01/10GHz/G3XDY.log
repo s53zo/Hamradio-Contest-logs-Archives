@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G3XDY
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02OB
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=175; excluded rows=0.
+QSO:   10G PH 2021-05-02 0822 G3XDY         55 1 JO02OB          PA0JCA        55 8 JO22JG
+QSO:   10G PH 2021-05-02 0838 G3XDY         57 2 JO02OB          G4ZTR         57 2 JO01KW
+QSO:   10G CW 2021-05-02 0910 G3XDY         529 3 JO02OB         ON4CJQ/P      539 10 JO20KW
+QSO:   10G PH 2021-05-02 0929 G3XDY         52 4 JO02OB          G8DMU/P       51 6 IO94CB
+QSO:   10G PH 2021-05-02 0935 G3XDY         53 5 JO02OB          G1PPA/P       53 4 JO03AE
+QSO:   10G PH 2021-05-02 1006 G3XDY         53 6 JO02OB          G3Z           53 10 IO82QL
+QSO:   10G CW 2021-05-02 1109 G3XDY         559 7 JO02OB         G4DBN         549 8 IO93NR
+QSO:   10G CW 2021-05-02 1137 G3XDY         519 8 JO02OB         G4ASR         529 9 IO81MX
+QSO:   10G CW 2021-05-02 1229 G3XDY         559 9 JO02OB         G4KUX         559 12 IO94BP
+QSO:   10G CW 2021-05-02 1249 G3XDY         519 10 JO02OB        G0LBK         519 5 IO93IK
+QSO:   10G PH 2021-05-02 1301 G3XDY         54 11 JO02OB         G4CBW         54 12 IO83UB
+QSO:   10G CW 2021-05-02 1316 G3XDY         539 12 JO02OB        M0GHZ         549 11 IO81VK
+QSO:   10G PH 2021-05-02 1340 G3XDY         55 13 JO02OB         G4LDR         54 14 IO91EC
+QSO:   10G CW 2021-05-02 1353 G3XDY         559 14 JO02OB        G4RGK         559 3 IO91ON
+QSO:   10G CW 2021-05-02 1356 G3XDY         569 15 JO02OB        G4ODA         579 23 IO92WS
+END-OF-LOG:

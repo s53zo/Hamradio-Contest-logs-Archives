@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4NRG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02MM
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160126&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5089; excluded rows=69.
+QSO:    50 PH 2016-01-26 2017 G4NRG         59 1 JO02MM          G3LDI         59 5 JO02ON
+QSO:    50 PH 2016-01-26 2027 G4NRG         51 2 JO02MM          G4DYC         55 3 JO02MP
+QSO:    50 PH 2016-01-26 2028 G4NRG         55 3 JO02MM          G0VQH         55 5 JO02FE
+QSO:    50 PH 2016-01-26 2030 G4NRG         55 4 JO02MM          G0JJG         55 2 JO02LE
+QSO:    50 PH 2016-01-26 2044 G4NRG         51 5 JO02MM          M1MHZ         57 53 IO92WV
+QSO:    50 PH 2016-01-26 2049 G4NRG         55 6 JO02MM          G4CLA         55 59 IO92IL
+QSO:    50 PH 2016-01-26 2107 G4NRG         55 7 JO02MM          G4CRF         52 23 IO92OA
+END-OF-LOG:

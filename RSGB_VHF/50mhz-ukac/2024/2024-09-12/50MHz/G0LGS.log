@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0LGS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81WV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=240912&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3216; excluded rows=124.
+SOAPBOX: WARNING: 4 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (4).
+QSO:    50 PH 2024-09-12 1910 G0LGS         59 4 IO81WV          G4CLA         59 21 IO92JL
+QSO:    50 PH 2024-09-12 1914 G0LGS         55 5 IO81WV          G6AD          55 10 IO92GL
+QSO:    50 PH 2024-09-12 1915 G0LGS         59 6 IO81WV          GW6UAJ/P      59 8 IO81KR
+QSO:    50 PH 2024-09-12 1922 G0LGS         55 8 IO81WV          G0FEH/P       57 11 IO92HD
+QSO:    50 PH 2024-09-12 1926 G0LGS         53 9 IO81WV          G1ZAR/P       57 11 IO93EI
+QSO:    50 PH 2024-09-12 1931 G0LGS         55 10 IO81WV         GW0RHC        55 13 IO71UN
+QSO:    50 PH 2024-09-12 1941 G0LGS         59 11 IO81WV         G4ASR         59 18 IO81MX
+QSO:    50 PH 2024-09-12 1944 G0LGS         59 12 IO81WV         2E0OUT        59 12 IO81WO
+QSO:    50 PH 2024-09-12 1949 G0LGS         59 13 IO81WV         MW0LKX/P      59 41 IO82KL
+QSO:    50 PH 2024-09-12 1954 G0LGS         57 14 IO81WV         M0NKR         55 6 JO02HK
+END-OF-LOG:

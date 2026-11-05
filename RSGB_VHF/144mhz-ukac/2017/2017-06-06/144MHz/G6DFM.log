@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G6DFM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91UI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170606&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8084; excluded rows=4.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   144 PH 2017-06-06 2010 G6DFM         55 1 IO91UI          G6RC          59 13 IO91VC
+QSO:   144 PH 2017-06-06 2016 G6DFM         51 2 IO91UI          G0GJV         59 9 IO91OK
+QSO:   144 PH 2017-06-06 2020 G6DFM         51 3 IO91UI          G4WJS         57 17 IO91NP
+QSO:   144 PH 2017-06-06 2023 G6DFM         53 4 IO91UI          G0SKA         59 10 IO91QN
+QSO:   144 PH 2017-06-06 2026 G6DFM         55 5 IO91UI          M0DXR/P       59 56 JO01DH
+QSO:   144 PH 2017-06-06 2029 G6DFM         55 6 IO91UI          G1OFW         59 18 IO91QH
+QSO:   144 PH 2017-06-06 2032 G6DFM         52 7 IO91UI          G8FUO         56 21 IO91QL
+QSO:   144 PH 2017-06-06 2045 G6DFM         53 8 IO91UI          G4YPC         51 16 IO91RH
+QSO:   144 PH 2017-06-06 2050 G6DFM         51 9 IO91UI          G1XNS         59 7 IO91TN
+QSO:   144 PH 2017-06-06 2105 G6DFM         55 10 IO91UI         G3YSX         59 29 IO91WG
+END-OF-LOG:

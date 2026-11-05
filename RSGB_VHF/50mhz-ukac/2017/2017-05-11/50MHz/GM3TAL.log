@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM3TAL
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO86GA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170511&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5466; excluded rows=1.
+QSO:    50 PH 2017-05-11 1935 GM3TAL        59 1 IO86GA          GM4JJJ        59 16 IO86GB
+QSO:    50 PH 2017-05-11 1946 GM3TAL        59 2 IO86GA          GM4BYF        59 3 IO85JV
+QSO:    50 PH 2017-05-11 1950 GM3TAL        55 3 IO86GA          GM8MJV        56 2 IO85MU
+QSO:    50 PH 2017-05-11 1956 GM3TAL        53 4 IO86GA          GW4ZAR/P      53 54 IO83JF
+QSO:    50 PH 2017-05-11 2000 GM3TAL        59 5 IO86GA          GI4SNA        59 65 IO64XM
+QSO:    50 CW 2017-05-11 2039 GM3TAL        559 6 IO86GA         GS3PYE/P      599 11 IO65VS
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: 2E0JWJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81VG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7408; excluded rows=1.
+QSO:   144 PH 2017-12-03 1214 2E0JWJ        59 1 IO81VG          G4FSU/P       59 86 IO81QG
+QSO:   144 PH 2017-12-03 1234 2E0JWJ        59 2 IO81VG          M0MAT/P       59 124 IO81EE
+QSO:   144 PH 2017-12-03 1414 2E0JWJ        59 3 IO81VG          M0WYB         59 128 IO81WH
+QSO:   144 PH 2017-12-03 1421 2E0JWJ        59 4 IO81VG          G0HEL         59 57 IO81WH
+END-OF-LOG:

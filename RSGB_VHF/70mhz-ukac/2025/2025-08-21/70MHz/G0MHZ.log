@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0MHZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91OT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=250821&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3496; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    70 PH 2025-08-21 1900 G0MHZ         59 1 IO91OT          G0ODQ         59 1 IO91MR
+QSO:    70 PH 2025-08-21 1901 G0MHZ         59 2 IO91OT          G0SKA         59 4 IO91OQ
+QSO:    70 PH 2025-08-21 1903 G0MHZ         55 3 IO91OT          G8FMC         55 4 IO91NW
+QSO:    70 PH 2025-08-21 1906 G0MHZ         59 4 IO91OT          M0UHF         59 5 IO91IP
+QSO:    70 PH 2025-08-21 1912 G0MHZ         57 5 IO91OT          G4ASR         55 18 IO81MX
+QSO:    70 PH 2025-08-21 1925 G0MHZ         57 6 IO91OT          G3SED         55 24 IO90IV
+QSO:    70 PH 2025-08-21 1934 G0MHZ         55 7 IO91OT          G3TBK/P       57 43 IO93RA
+QSO:    70 PH 2025-08-21 1947 G0MHZ         55 8 IO91OT          G4KQH         56 22 IO92JD
+QSO:    70 PH 2025-08-21 1948 G0MHZ         57 9 IO91OT          G4CLA         59 61 IO92JL
+QSO:    70 PH 2025-08-21 1953 G0MHZ         55 10 IO91OT         M1DDD/P       55 59 IO93CH
+QSO:    70 PH 2025-08-21 1959 G0MHZ         59 11 IO91OT         G4ODA         59 40 IO92WS
+QSO:    70 PH 2025-08-21 2018 G0MHZ         53 12 IO91OT         G3FZN/P       55 76 IO94JF
+QSO:    70 PH 2025-08-21 2028 G0MHZ         57 13 IO91OT         G4HLX/P       57 40 IO91GN
+QSO:    70 PH 2025-08-21 2039 G0MHZ         55 14 IO91OT         G4HWA         59 38 IO92ME
+QSO:    70 PH 2025-08-21 2104 G0MHZ         59 16 IO91OT         G8SEI         59 76 IO92FO
+QSO:    70 PH 2025-08-21 2125 G0MHZ         55 17 IO91OT         G8NEY/P       54 73 IO81UN
+END-OF-LOG:

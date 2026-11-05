@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: M0HOM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93QO
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1405; excluded rows=1.
+QSO:   432 PH 2019-05-05 0834 M0HOM         55 1 IO93QO          G8P           59 233 JO01QD
+QSO:   432 PH 2019-05-05 0841 M0HOM         59 2 IO93QO          M1CRO/P       59 139 JO01PU
+QSO:   432 PH 2019-05-05 1011 M0HOM         55 3 IO93QO          OR6T          59 148 JO20KV
+QSO:   432 PH 2019-05-05 1203 M0HOM         59 4 IO93QO          DF0MU         59 266 JO32PC
+END-OF-LOG:

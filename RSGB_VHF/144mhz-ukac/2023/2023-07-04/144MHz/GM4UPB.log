@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4UPB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO86HD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230704&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9826; excluded rows=6.
+QSO:   144 PH 2023-07-04 1903 GM4UPB        52 1 IO86HD          G0UUU/P       52 1 IO94RJ
+QSO:   144 PH 2023-07-04 1906 GM4UPB        57 2 IO86HD          GM4JTJ        57 6 IO86RP
+QSO:   144 PH 2023-07-04 1911 GM4UPB        59 3 IO86HD          GM4BYF        59 6 IO85JV
+QSO:   144 PH 2023-07-04 1912 GM4UPB        57 4 IO86HD          GM7FIE        57 3 IO85IX
+QSO:   144 PH 2023-07-04 1913 GM4UPB        59 5 IO86HD          GM4DTH        59 3 IO85JW
+QSO:   144 CW 2023-07-04 1928 GM4UPB        599 6 IO86HD         GM0TQK        59 1 IO85KU
+QSO:   144 PH 2023-07-04 1933 GM4UPB        55 7 IO86HD          GM4JRT        55 1 IO85JW
+QSO:   144 PH 2023-07-04 2002 GM4UPB        55 8 IO86HD          G3YOA         55 13 JO02QU
+QSO:   144 PH 2023-07-04 2004 GM4UPB        55 9 IO86HD          G8AOE/P       55 25 IO84XQ
+QSO:   144 PH 2023-07-04 2031 GM4UPB        55 10 IO86HD         G4CLA         55 168 IO93JL
+QSO:   144 PH 2023-07-04 2035 GM4UPB        55 11 IO86HD         M1DDD/P       55 140 IO93CH
+QSO:   144 PH 2023-07-04 2041 GM4UPB        53 12 IO86HD         G4YTD/P       57 33 IO84PK
+QSO:   144 PH 2023-07-04 2117 GM4UPB        57 13 IO86HD         G1YBB/P       57 171 IO82LB
+QSO:   144 PH 2023-07-04 2123 GM4UPB        59 14 IO86HD         GM4GUF        57 19 IO85EP
+END-OF-LOG:

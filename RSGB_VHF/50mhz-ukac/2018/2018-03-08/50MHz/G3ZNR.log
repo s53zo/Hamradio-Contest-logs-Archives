@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3ZNR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93DV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180308&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3778; excluded rows=2.
+QSO:    50 PH 2018-03-08 2002 G3ZNR         59 1 IO93DV          G4FZN/P       58 2 IO94JF
+QSO:    50 PH 2018-03-08 2010 G3ZNR         59 2 IO93DV          M6KMB         59 19 IO93EQ
+QSO:    50 PH 2018-03-08 2120 G3ZNR         55 3 IO93DV          2E0DXK/P      51 54 IO93FG
+QSO:    50 PH 2018-03-08 2147 G3ZNR         55 4 IO93DV          G3SDY         55 10 IO93DO
+QSO:    50 PH 2018-03-08 2227 G3ZNR         59 5 IO93DV          G8BUN         55 34 IO93EQ
+END-OF-LOG:

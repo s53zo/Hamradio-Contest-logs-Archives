@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0CBO
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO02OQ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170606&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8084; excluded rows=4.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2017-06-06 1903 G0CBO         59 1 JO02OQ          F6BRK         59 8 IN99VF
+QSO:   144 PH 2017-06-06 1909 G0CBO         57 2 JO02OQ          G4IRC         55 8 JO02OD
+QSO:   144 PH 2017-06-06 1919 G0CBO         57 3 JO02OQ          G6DOD/P       55 14 IO90JO
+QSO:   144 PH 2017-06-06 1944 G0CBO         59 5 JO02OQ          M0DXR/P       59 90 JO01DH
+QSO:   144 PH 2017-06-06 2030 G0CBO         57 6 JO02OQ          G4DBW         56 28 JO01NI
+END-OF-LOG:

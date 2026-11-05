@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4VVX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO78TA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160202&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11117; excluded rows=6.
+QSO:   144 PH 2016-02-02 2012 GM4VVX        57 1 IO78TA          GM3SEK        53 9 IO74SR
+QSO:   144 PH 2016-02-02 2020 GM4VVX        51 2 IO78TA          GM4JR         51 13 IO85FB
+QSO:   144 PH 2016-02-02 2032 GM4VVX        59 3 IO78TA          GM3WOJ        59 6 IO77WS
+QSO:   144 PH 2016-02-02 2050 GM4VVX        51 4 IO78TA          GI6ATZ        51 38 IO74AJ
+QSO:   144 PH 2016-02-02 2136 GM4VVX        53 5 IO78TA          GD1MIP        55 7 IO74TI
+QSO:   144 PH 2016-02-02 2157 GM4VVX        53 6 IO78TA          GM4PPT        51 53 IO75SK
+QSO:   144 PH 2016-02-02 2205 GM4VVX        57 7 IO78TA          GM8IEM        57 4 IO78HF
+QSO:   144 CW 2016-02-02 2208 GM4VVX        559 8 IO78TA         GM4JJJ        559 51 IO86GB
+END-OF-LOG:

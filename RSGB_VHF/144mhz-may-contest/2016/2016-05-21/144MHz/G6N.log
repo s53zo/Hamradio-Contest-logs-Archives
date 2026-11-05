@@ -1,0 +1,36 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G6N
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93MA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5965; excluded rows=20.
+QSO:   144 PH 2016-05-21 1403 G6N           59 1 IO93MA NG       G0VHF/P       59 5 JO01PU CO
+QSO:   144 PH 2016-05-21 1405 G6N           59 2 IO93MA NG       GD8EXI        55 3 IO74PC IM
+QSO:   144 PH 2016-05-21 1410 G6N           59 3 IO93MA NG       G3SQQ         59 5 IO93JC NG
+QSO:   144 PH 2016-05-21 1412 G6N           59 4 IO93MA NG       G8T           57 17 JO01KJ ME
+QSO:   144 PH 2016-05-21 1415 G6N           59 5 IO93MA NG       G5T           59 17 IO93AF SK
+QSO:   144 PH 2016-05-21 1420 G6N           59 6 IO93MA NG       G3M           59 21 JO01QD CT
+QSO:   144 PH 2016-05-21 1422 G6N           59 7 IO93MA NG       G3WIR/P       55 13 IO91PK RG
+QSO:   144 PH 2016-05-21 1434 G6N           59 8 IO93MA NG       G0PKA/P       54 34 JO00EW TN
+QSO:   144 PH 2016-05-21 1437 G6N           59 9 IO93MA NG       M0HLO         59 7 IO92QW NG
+QSO:   144 PH 2016-05-21 1454 G6N           58 10 IO93MA NG      M0VCT/P       53 57 IO90JO PO
+QSO:   144 PH 2016-05-21 1506 G6N           59 11 IO93MA NG      G1PPA         58 11 IO93OJ DN
+QSO:   144 PH 2016-05-21 1516 G6N           57 12 IO93MA NG      G0GQT         55 24 JO01GJ ME
+QSO:   144 PH 2016-05-21 1532 G6N           59 13 IO93MA NG      G7LRQ         55 48 IO91TQ WD
+QSO:   144 PH 2016-05-21 1540 G6N           57 14 IO93MA NG      G0ODQ         57 35 IO91MR OX
+QSO:   144 PH 2016-05-22 1056 G6N           57 15 IO93MA NG      G3MEH         54 145 IO91QS HP
+QSO:   144 PH 2016-05-22 1057 G6N           59 16 IO93MA NG      M0VXX/P       59 136 IO82QL SY
+QSO:   144 PH 2016-05-22 1112 G6N           59 17 IO93MA NG      G4NBS         57 85 JO02AF CB
+QSO:   144 PH 2016-05-22 1138 G6N           55 18 IO93MA NG      G0PZA/P       52 251 JO00EW TN
+QSO:   144 PH 2016-05-22 1140 G6N           59 19 IO93MA NG      G0UTT         59 121 JO01IP CM
+QSO:   144 PH 2016-05-22 1148 G6N           59 20 IO93MA NG      G0EAK/P       59 23 IO93NI DN
+QSO:   144 PH 2016-05-22 1157 G6N           57 21 IO93MA NG      M0MDG/P       55 183 IO91MP HP
+QSO:   144 PH 2016-05-22 1203 G6N           57 22 IO93MA NG      M0SAT         51 30 IO91TP WD
+END-OF-LOG:

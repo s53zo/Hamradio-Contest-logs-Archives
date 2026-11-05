@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM7DMW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85SO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=211102&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12629; excluded rows=4.
+QSO:   144 PH 2021-11-02 2003 MM7DMW        59 1 IO85SO          GM4JTJ        55 4 IO86RP
+QSO:   144 PH 2021-11-02 2013 MM7DMW        57 2 IO85SO          G8KPD/P       55 11 IO85XF
+QSO:   144 PH 2021-11-02 2024 MM7DMW        58 3 IO85SO          GM4BYF        57 15 IO85JV
+QSO:   144 PH 2021-11-02 2035 MM7DMW        57 4 IO85SO          MM0XET/P      57 12 IO86NN
+END-OF-LOG:

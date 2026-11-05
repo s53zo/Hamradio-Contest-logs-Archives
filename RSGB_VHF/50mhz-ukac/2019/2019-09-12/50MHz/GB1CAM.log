@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GB1CAM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02AH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190912&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4790; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    50 PH 2019-09-12 1938 GB1CAM        55 1 JO02AH          G4CLA         55 43 IO92JL
+QSO:    50 PH 2019-09-12 1939 GB1CAM        59 2 JO02AH          G3VGG         59 27 IO82XH
+QSO:    50 PH 2019-09-12 1943 GB1CAM        55 3 JO02AH          G7LRQ/P       55 53 IO91RU
+QSO:    50 PH 2019-09-12 1946 GB1CAM        55 4 JO02AH          G4SDM/P       55 48 IO90QV
+QSO:    50 PH 2019-09-12 1949 GB1CAM        57 5 JO02AH          M0ICR         57 43 IO91SO
+QSO:    50 PH 2019-09-12 1951 GB1CAM        59 6 JO02AH          G3TBK/P       59 61 IO93RA
+QSO:    50 PH 2019-09-12 1953 GB1CAM        59 7 JO02AH          M1MZD/P       59 20 IO92NC
+QSO:    50 PH 2019-09-12 1954 GB1CAM        58 8 JO02AH          G1YBB/P       58 65 IO82LB
+QSO:    50 PH 2019-09-12 1958 GB1CAM        59 9 JO02AH          G4ASR         59 79 IO81MX
+QSO:    50 PH 2019-09-12 2002 GB1CAM        53 11 JO02AH         GI4SNA        53 8 IO64XM
+QSO:    50 PH 2019-09-12 2005 GB1CAM        54 12 JO02AH         G4ODA         54 49 IO92WS
+END-OF-LOG:

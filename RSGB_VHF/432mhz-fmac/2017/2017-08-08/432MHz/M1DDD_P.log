@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M1DDD/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93CH
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FMAC&Date=170808&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=255; excluded rows=1.
+QSO:   432 FM 2017-08-08 1833 M1DDD/P       59 1 IO93CH          G3UVR         59 7 IO83KH
+QSO:   432 FM 2017-08-08 1833 M1DDD/P       59 2 IO93CH          M6OXO         59 4 IO83KI
+QSO:   432 FM 2017-08-08 1834 M1DDD/P       59 3 IO93CH          M6JPQ         59 4 IO93KD
+QSO:   432 FM 2017-08-08 1835 M1DDD/P       59 4 IO93CH          G0UUU/P       59 2 IO94PA
+QSO:   432 FM 2017-08-08 1836 M1DDD/P       59 5 IO93CH          GW8ASD        59 9 IO83LB
+END-OF-LOG:

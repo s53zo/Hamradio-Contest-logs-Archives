@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M7AQX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83VG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=211209&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3825; excluded rows=1.
+QSO:    50 PH 2021-12-09 2048 M7AQX         55 1 IO83VG          GW4ZAR        51 25 IO83KF
+QSO:    50 PH 2021-12-09 2106 M7AQX         58 2 IO83VG          G3TDH         57 19 IO83WI
+QSO:    50 PH 2021-12-09 2128 M7AQX         58 3 IO83VG          G0CDA         57 33 IO83SJ
+QSO:    50 PH 2021-12-09 2135 M7AQX         53 4 IO83VG          G0CNN/P       51 61 IO94AI
+QSO:    50 PH 2021-12-09 2149 M7AQX         55 5 IO83VG          G4FZN/P       54 74 IO94JF
+QSO:    50 PH 2021-12-09 2154 M7AQX         59 6 IO83VG          G4JLG         55 28 IO83TM
+QSO:    50 PH 2021-12-09 2210 M7AQX         59 7 IO83VG          G3KAF         59 15 IO83WI
+END-OF-LOG:

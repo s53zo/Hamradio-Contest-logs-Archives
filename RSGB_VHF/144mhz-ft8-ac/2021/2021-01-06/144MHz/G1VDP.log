@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G1VDP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210106&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1217; excluded rows=1.
+QSO:   144 FT8 2021-01-06 1910 G1VDP         +03 IO92             G0BIX         -10 JO01
+QSO:   144 FT8 2021-01-06 1912 G1VDP         +14 IO92             G8PGO         -10 IO92
+QSO:   144 FT8 2021-01-06 1914 G1VDP         +24 IO92             G8DLX         +23 IO92
+QSO:   144 FT8 2021-01-06 1915 G1VDP         +07 IO92             G6EIH         -02 IO92
+QSO:   144 FT8 2021-01-06 1918 G1VDP         -09 IO92             G7IGC         -19 IO92
+QSO:   144 FT8 2021-01-06 1923 G1VDP         +01 IO92             G3YKI         -09 IO92
+QSO:   144 FT8 2021-01-06 1925 G1VDP         +06 IO92             G0LGS         -10 IO81
+QSO:   144 FT8 2021-01-06 1935 G1VDP         +18 IO92             G4HGI         +00 IO83
+QSO:   144 FT8 2021-01-06 1939 G1VDP         -17 IO92             2E0HIL        -11 IO92
+QSO:   144 FT8 2021-01-06 1948 G1VDP         -11 IO92             G3WZK         -04 IO91
+QSO:   144 FT8 2021-01-06 1956 G1VDP         +16 IO92             G8YPE         +08 IO92
+QSO:   144 FT8 2021-01-06 2010 G1VDP         -13 IO92             G1PPA         -15 IO93
+QSO:   144 FT8 2021-01-06 2018 G1VDP         -07 IO92             G0JJG         -12 JO02
+QSO:   144 FT8 2021-01-06 2020 G1VDP         -09 IO92             M0VXX         +01 IO82
+QSO:   144 FT8 2021-01-06 2028 G1VDP         -10 IO92             G8DMU         -10 IO93
+QSO:   144 FT8 2021-01-06 2030 G1VDP         -14 IO92             GI6ATZ        -16 IO74
+QSO:   144 FT8 2021-01-06 2035 G1VDP         -02 IO92             G3ZNU         -12 IO91
+QSO:   144 FT8 2021-01-06 2040 G1VDP         +01 IO92             G1SCT         +12 IO92
+QSO:   144 FT8 2021-01-06 2056 G1VDP         -17 IO92             2E0DUE        -12 JO01
+END-OF-LOG:

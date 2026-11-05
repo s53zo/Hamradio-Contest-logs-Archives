@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G0ASP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82RQ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170312&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1073; excluded rows=1.
+QSO:    70 PH 2017-03-12 1000 G0ASP         51 1 IO82RQ          G4HGI         57 3 IO83PL
+QSO:    70 PH 2017-03-12 1000 G0ASP         59 2 IO82RQ          M5AFG         59 1 IO82RQ
+QSO:    70 PH 2017-03-12 1000 G0ASP         59 3 IO82RQ          GW8ASD        59 3 IO83LB
+QSO:    70 PH 2017-03-12 1000 G0ASP         55 4 IO82RQ          G4IOQ         57 4 IO82KT
+QSO:    70 PH 2017-03-12 1000 G0ASP         57 5 IO82RQ          G4ASR         58 38 IO81MX
+QSO:    70 PH 2017-03-12 1000 G0ASP         56 6 IO82RQ          G4FZN/P       57 50 IO94JF
+QSO:    70 PH 2017-03-12 1000 G0ASP         51 7 IO82RQ          G0EHV/P       53 32 IO84XT
+QSO:    70 PH 2017-03-12 1000 G0ASP         57 8 IO82RQ          G4HGT/P       57 46 IO93BV
+END-OF-LOG:

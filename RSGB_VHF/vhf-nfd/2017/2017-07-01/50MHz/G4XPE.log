@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4XPE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92GU
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3744; excluded rows=2.
+QSO:    50 CW 2017-07-01 1803 G4XPE         599 1 IO92GU         G5TO/P        599 56 IO93FL
+QSO:    50 PH 2017-07-01 1807 G4XPE         59 2 IO92GU          G8LED/P       59 90 IO92LE
+QSO:    50 PH 2017-07-01 1819 G4XPE         57 3 IO92GU          G3VLG/P       52 19 IO92IM
+QSO:    50 CW 2017-07-01 1830 G4XPE         559 4 IO92GU         GM3HAM/P      539 70 IO74WV
+QSO:    50 PH 2017-07-01 1844 G4XPE         57 5 IO92GU          G3RCW/P       53 51 IO93CE
+QSO:    50 PH 2017-07-01 1904 G4XPE         59 6 IO92GU          G3YDD/P       59 96 IO82QL
+QSO:    50 PH 2017-07-01 1922 G4XPE         57 7 IO92GU          M0MDG/P       56 72 IO91MP
+QSO:    50 PH 2017-07-01 1932 G4XPE         59 8 IO92GU          G2LO/P        58 98 IO92GB
+QSO:    50 CW 2017-07-01 1942 G4XPE         579 9 IO92GU         G0FBB/P       559 90 JO01LD
+QSO:    50 PH 2017-07-01 1951 G4XPE         59 10 IO92GU         G3BXF/P       54 45 IO92LI
+QSO:    50 PH 2017-07-01 1955 G4XPE         59 11 IO92GU         G3PYE/P       56 110 JO02CE
+QSO:    50 PH 2017-07-01 2014 G4XPE         56 12 IO92GU         G0ARC/P       51 63 IO91EH
+QSO:    50 PH 2017-07-01 2020 G4XPE         59 13 IO92GU         M1DDD/P       59 74 IO93CH
+QSO:    50 PH 2017-07-01 2029 G4XPE         59 14 IO92GU         GW3ZTT/P      52 92 IO82KW
+END-OF-LOG:

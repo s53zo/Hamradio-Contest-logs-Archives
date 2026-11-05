@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G0CDA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83SJ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170813&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=863; excluded rows=0.
+QSO:    70 PH 2017-08-13 1403 G0CDA         52 1 IO83SJ          G0EHV/P       55 6 IO84XT
+QSO:    70 PH 2017-08-13 1404 G0CDA         55 2 IO83SJ          G0FWU         54 2 IO83UB
+QSO:    70 PH 2017-08-13 1415 G0CDA         57 3 IO83SJ          G4ASR         58 16 IO81MX
+QSO:    70 PH 2017-08-13 1420 G0CDA         59 4 IO83SJ          G4BWP         59 31 JO02FH
+QSO:    70 PH 2017-08-13 1427 G0CDA         57 5 IO83SJ          G4SJH/P       57 21 IO91RF
+QSO:    70 PH 2017-08-13 1445 G0CDA         55 6 IO83SJ          G3NPI         55 27 IO92MA
+QSO:    70 PH 2017-08-13 1500 G0CDA         57 7 IO83SJ          G8SFI/P       53 31 IO94KH
+END-OF-LOG:

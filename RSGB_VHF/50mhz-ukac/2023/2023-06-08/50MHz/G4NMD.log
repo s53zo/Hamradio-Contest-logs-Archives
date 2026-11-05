@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4NMD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91RE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230608&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6322; excluded rows=2.
+QSO:    50 PH 2023-06-08 1906 G4NMD         59 1 IO91RE          G8CUL         59 2 IO91JO
+QSO:    50 PH 2023-06-08 1909 G4NMD         59 2 IO91RE          G8LYB         59 3 IO92JI
+QSO:    50 PH 2023-06-08 1910 G4NMD         59 3 IO91RE          G3MEH         59 7 IO91QS
+QSO:    50 PH 2023-06-08 1919 G4NMD         59 4 IO91RE          G8XVJ/P       55 25 IO93AD
+QSO:    50 PH 2023-06-08 1921 G4NMD         55 5 IO91RE          G0LBK         55 16 JO03BD
+END-OF-LOG:

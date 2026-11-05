@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CONTEST-CW
+CALLSIGN: M0UHF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91IP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+Contest+CW&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=436; excluded rows=1.
+QSO:    70 CW 2024-05-12 0943 M0UHF         599 1 IO91IP OX      G4BRK         599 4 IO91HP OX
+QSO:    70 PH 2024-05-12 1003 M0UHF         59 2 IO91IP OX       G3MEH         599 6 IO91QS HP
+QSO:    70 CW 2024-05-12 1026 M0UHF         599 3 IO91IP OX      G3TCU         599 12 IO91QE GU
+QSO:    70 PH 2024-05-12 1036 M0UHF         59 4 IO91IP OX       G4EFE/P       599 15 IO91GI RG
+QSO:    70 CW 2024-05-12 1107 M0UHF         599 5 IO91IP OX      G4RGK         599 19 IO91NO HP
+QSO:    70 CW 2024-05-12 1131 M0UHF         599 6 IO91IP OX      GW0GEI        599 23 IO72WC SA
+QSO:    70 CW 2024-05-12 1139 M0UHF         599 7 IO91IP OX      G4ASR         599 40 IO81MX HR
+END-OF-LOG:

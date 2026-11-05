@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G3TDH
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83WI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1130; excluded rows=3.
+QSO:   144 CW 2019-11-02 1446 G3TDH         599 1 IO83WI         G3ZOD         599 3 IO83VJ
+QSO:   144 CW 2019-11-02 1459 G3TDH         559 2 IO83WI         GW5D          599 3 IO83LE
+QSO:   144 CW 2019-11-03 1025 G3TDH         579 3 IO83WI         G4CZB/P       559 23 IO92LH
+QSO:   144 CW 2019-11-03 1049 G3TDH         599 4 IO83WI         G0SYP         599 31 IO83TK
+QSO:   144 CW 2019-11-03 1053 G3TDH         569 5 IO83WI         MM0C          559 33 IO75XU
+QSO:   144 CW 2019-11-03 1132 G3TDH         599 6 IO83WI         G0EHG         519 5 IO83VH
+QSO:   144 CW 2019-11-03 1138 G3TDH         599 7 IO83WI         G3UVR         599 28 IO83KH
+QSO:   144 CW 2019-11-03 1156 G3TDH         569 8 IO83WI         G4HVC         549 33 IO93QA
+QSO:   144 CW 2019-11-03 1204 G3TDH         569 9 IO83WI         M0WBG         599 17 IO83KJ
+QSO:   144 CW 2019-11-03 1350 G3TDH         559 10 IO83WI        GW9J          559 42 IO72VE
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0VGA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93FX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190101&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10990; excluded rows=2.
+QSO:   144 PH 2019-01-01 2007 M0VGA         59 1 IO93FX          G8PNN/P       59 7 IO95AF
+QSO:   144 PH 2019-01-01 2012 M0VGA         59 2 IO93FX          G0UUU/P       57 13 IO94RJ
+QSO:   144 PH 2019-01-01 2016 M0VGA         59 3 IO93FX          G8DMU/P       57 20 IO94CB
+QSO:   144 PH 2019-01-01 2020 M0VGA         57 4 IO93FX          G3ZXZ         57 26 IO93CU
+QSO:   144 PH 2019-01-01 2032 M0VGA         59 5 IO93FX          G4FZN/P       59 43 IO94JF
+QSO:   144 PH 2019-01-01 2049 M0VGA         59 6 IO93FX          M0DCD/P       59 20 IO94EB
+QSO:   144 PH 2019-01-01 2052 M0VGA         59 7 IO93FX          G8BNE         59 13 IO94GA
+QSO:   144 PH 2019-01-01 2055 M0VGA         59 8 IO93FX          M0KOV         59 4 IO93HX
+QSO:   144 PH 2019-01-01 2057 M0VGA         59 9 IO93FX          2E0VZZ        59 4 IO94IE
+QSO:   144 PH 2019-01-01 2058 M0VGA         59 10 IO93FX         G4DBN         59 19 IO93NR
+END-OF-LOG:

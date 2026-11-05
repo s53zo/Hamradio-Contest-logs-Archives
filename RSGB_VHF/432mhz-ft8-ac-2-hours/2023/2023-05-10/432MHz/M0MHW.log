@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: M0MHW
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=230510&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=778; excluded rows=0.
+QSO:   432 FT8 2023-05-10 1907 M0MHW         -07 IO83             2E1FMS        -19 IO82
+QSO:   432 FT8 2023-05-10 1910 M0MHW         +04 IO83             G8IPT         -02 IO83
+QSO:   432 FT8 2023-05-10 1920 M0MHW         +06 IO83             G4EII         +17 IO83
+QSO:   432 FT8 2023-05-10 1940 M0MHW         -16 IO83             MW0PJE        -20 IO82
+QSO:   432 FT8 2023-05-10 1941 M0MHW         -03 IO83             G0EHG         -13 IO83
+END-OF-LOG:

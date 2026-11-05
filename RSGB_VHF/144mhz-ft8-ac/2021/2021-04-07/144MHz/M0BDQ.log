@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M0BDQ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210407&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1825; excluded rows=1.
+QSO:   144 FT8 2021-04-07 1812 M0BDQ         +19 JO01             G0BIX         +19 JO01
+QSO:   144 FT8 2021-04-07 1816 M0BDQ         -20 JO01             M0SCJ         +00 IO91
+QSO:   144 FT8 2021-04-07 1909 M0BDQ         +08 JO01             G3ZNU         +09 IO91
+QSO:   144 FT8 2021-04-07 1922 M0BDQ         -14 JO01             G1VDP         -15 IO92
+QSO:   144 FT8 2021-04-07 1926 M0BDQ         -19 JO01             M0ABT         -09 JO00
+QSO:   144 FT8 2021-04-07 1930 M0BDQ         -13 JO01             M0IEP         -19 IO91
+QSO:   144 FT8 2021-04-07 1938 M0BDQ         -13 JO01             G4VPD         -19 IO92
+QSO:   144 FT8 2021-04-07 1939 M0BDQ         -18 JO01             G7CQH         -19 IO92
+QSO:   144 FT8 2021-04-07 1957 M0BDQ         +00 JO01             G8IXK         +03 IO91
+QSO:   144 FT8 2021-04-07 1959 M0BDQ         -09 JO01             EI8KN         +01 IO62
+QSO:   144 FT8 2021-04-07 2002 M0BDQ         -24 JO01             MW0UPH        +01 IO82
+QSO:   144 FT8 2021-04-07 2005 M0BDQ         -04 JO01             G0LUH         -01 IO91
+QSO:   144 FT8 2021-04-07 2018 M0BDQ         +04 JO01             M0VXX/P       +00 IO82
+QSO:   144 FT8 2021-04-07 2022 M0BDQ         -05 JO01             G3WZK         -07 IO91
+QSO:   144 FT8 2021-04-07 2046 M0BDQ         -19 JO01             G3WAG         -15 IO82
+QSO:   144 FT8 2021-04-07 2050 M0BDQ         +16 JO01             G3YDY         +21 JO01
+QSO:   144 FT8 2021-04-07 2051 M0BDQ         -14 JO01             G3WKW         -01 IO91
+QSO:   144 FT8 2021-04-07 2056 M0BDQ         +00 JO01             G0XDI         -06 IO91
+QSO:   144 FT8 2021-04-07 2058 M0BDQ         -16 JO01             M1SJE         -17 IO92
+END-OF-LOG:

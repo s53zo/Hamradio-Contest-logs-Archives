@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G4DYC
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02MP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2038; excluded rows=1.
+QSO:    70 PH 2022-09-18 0901 G4DYC         59 1 JO02MP          G3PXT         59 1 JO02PP
+QSO:    70 PH 2022-09-18 0909 G4DYC         58 2 JO02MP          G4LPP         56 6 JO02SS
+QSO:    70 PH 2022-09-18 0922 G4DYC         58 3 JO02MP          G4ODA         58 29 IO92WS
+QSO:    70 CW 2022-09-18 0948 G4DYC         559 4 JO02MP         G0DVJ         559 15 JO02MA
+QSO:    70 CW 2022-09-18 1008 G4DYC         599 5 JO02MP         G3MPN         599 3 JO02NN
+QSO:    70 PH 2022-09-18 1013 G4DYC         57 6 JO02MP          M1MHZ         56 47 IO92WV
+QSO:    70 CW 2022-09-18 1040 G4DYC         559 7 JO02MP         G4KUX         549 27 IO94BP
+QSO:    70 CW 2022-09-18 1122 G4DYC         559 8 JO02MP         G4CWH/P       559 48 IO92XA
+QSO:    70 CW 2022-09-18 1147 G4DYC         449 9 JO02MP         G3TBK/P       559 58 IO93RA
+QSO:    70 CW 2022-09-18 1152 G4DYC         559 10 JO02MP        G6UW          599 56 JO02AF
+END-OF-LOG:

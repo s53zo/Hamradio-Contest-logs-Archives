@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-10GHZ-TROPHY
+CALLSIGN: G3Z
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO82QL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=10GHz+Trophy&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=92; excluded rows=1.
+QSO:   10G PH 2016-05-07 1419 G3Z           59 1 IO82QL          G3VKV         59 1 IO81XV
+QSO:   10G PH 2016-05-07 1423 G3Z           59 2 IO82QL          G8VZT/P       59 1 IO82RS
+QSO:   10G PH 2016-05-07 1500 G3Z           52 3 IO82QL          G4BAO         55 2 JO02CG
+QSO:   10G PH 2016-05-07 1506 G3Z           59 4 IO82QL          G4LDR         59 1 IO91EC
+QSO:   10G PH 2016-05-07 1521 G3Z           59 5 IO82QL          G8OHM         59 3 IO92AJ
+QSO:   10G CW 2016-05-07 1545 G3Z           569 6 IO82QL         G3XDY         559 2 JO02OB
+QSO:   10G PH 2016-05-07 1601 G3Z           58 7 IO82QL          G4KUX         58 1 IO94BP
+QSO:   10G PH 2016-05-07 1629 G3Z           59 8 IO82QL          G5B           59 7 JO03AD
+QSO:   10G PH 2016-05-07 1652 G3Z           54 9 IO82QL          M1CRO/P       55 14 JO01PU
+QSO:   10G PH 2016-05-07 1703 G3Z           53 10 IO82QL         G4RGK         55 4 IO91ON
+END-OF-LOG:

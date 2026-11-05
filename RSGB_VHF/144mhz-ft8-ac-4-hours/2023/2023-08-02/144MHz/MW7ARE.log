@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: MW7ARE
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=230802&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=780; excluded rows=0.
+QSO:   144 FT8 2023-08-02 1719 MW7ARE        +13 IO81             MW0UAA        -05 IO81
+QSO:   144 FT8 2023-08-02 1721 MW7ARE        +13 IO81             MW0UAA        -05 IO81
+QSO:   144 FT8 2023-08-02 1728 MW7ARE        +13 IO81             MW0UAA        -08 IO81
+QSO:   144 FT8 2023-08-02 1837 MW7ARE        +07 IO81             M0PNN         -17 IO82
+QSO:   144 FT8 2023-08-02 1850 MW7ARE        +11 IO81             GW7SMV        -14 -
+QSO:   144 FT8 2023-08-02 1923 MW7ARE        -05 IO81             G3WAG         -11 IO82
+END-OF-LOG:

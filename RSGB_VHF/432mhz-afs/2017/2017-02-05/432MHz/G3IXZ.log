@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G3IXZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82PD
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4266; excluded rows=2.
+QSO:   432 PH 2017-02-05 0925 G3IXZ         59 1 IO82PD          G4ASR         57 13 IO81MX
+QSO:   432 PH 2017-02-05 0932 G3IXZ         58 2 IO82PD          G8DOH         56 24 IO92FA
+QSO:   432 PH 2017-02-05 0940 G3IXZ         59 3 IO82PD          M0GHZ/P       55 23 IO81UN
+QSO:   432 PH 2017-02-05 0950 G3IXZ         59 4 IO82PD          GW3TKH/P      55 33 IO81LS
+QSO:   432 PH 2017-02-05 1045 G3IXZ         56 5 IO82PD          G4ODA         54 80 IO82WS
+QSO:   432 PH 2017-02-05 1104 G3IXZ         56 6 IO82PD          G4FSU/P       54 45 IO81QG
+QSO:   432 PH 2017-02-05 1145 G3IXZ         56 7 IO82PD          G2BQY/P       53 64 IO91AJ
+END-OF-LOG:

@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: MM7SWM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=240501&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1038; excluded rows=3.
+SOAPBOX: WARNING: 3 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: QSO date is outside the exported event (3).
+QSO:   144 FT8 2024-05-01 1909 MM7SWM        +11 IO75             GM0SGH        -22 -
+QSO:   144 FT8 2024-05-01 1910 MM7SWM        +25 IO75             2M0MQN        +11 IO86
+QSO:   144 FT8 2024-05-01 1911 MM7SWM        +08 IO75             GM4VVX        -11 IO78
+QSO:   144 FT8 2024-05-01 1913 MM7SWM        +03 IO75             GM7PKT        -17 IO76
+QSO:   144 FT8 2024-05-01 1915 MM7SWM        +02 IO75             GM4JIB        -09 IO85
+QSO:   144 FT8 2024-05-01 1917 MM7SWM        -11 IO75             GM7GAX        -22 IO86
+QSO:   144 FT8 2024-05-01 1919 MM7SWM        +04 IO75             GM8MJV        -20 IO85
+QSO:   144 FT8 2024-05-01 1930 MM7SWM        +16 IO75             GM4UBJ        -02 IO75
+QSO:   144 FT8 2024-05-01 1939 MM7SWM        -01 IO75             GM0HBK        -15 IO77
+QSO:   144 FT8 2024-05-01 1943 MM7SWM        +04 IO75             GM8IEM        -19 IO78
+QSO:   144 FT8 2024-05-01 1949 MM7SWM        -02 IO75             GM4OAS        -09 IO76
+QSO:   144 FT8 2024-05-01 2000 MM7SWM        +27 IO75             GM4GUF        +10 IO85
+END-OF-LOG:

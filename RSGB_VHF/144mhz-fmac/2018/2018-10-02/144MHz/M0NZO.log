@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0NZO
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83TE
+CATEGORY: 10V
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=181002&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=376; excluded rows=0.
+QSO:   144 FM 2018-10-02 1814 M0NZO         59 1 IO83TE          M1EYP/P       59 16 IO83WE
+QSO:   144 FM 2018-10-02 1817 M0NZO         59 2 IO83TE          GW8ASD        59 12 IO83LB
+QSO:   144 FM 2018-10-02 1818 M0NZO         59 3 IO83TE          2W0JYN        55 4 IO83LA
+QSO:   144 FM 2018-10-02 1821 M0NZO         54 4 IO83TE          M1DDD/P       57 18 IO83CH
+END-OF-LOG:

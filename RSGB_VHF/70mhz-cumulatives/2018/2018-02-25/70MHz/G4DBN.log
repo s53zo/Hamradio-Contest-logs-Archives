@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4DBN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93NR
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=180225&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=924; excluded rows=0.
+QSO:    70 PH 2018-02-25 1114 G4DBN         59 1 IO93NR          G4FZN/P       58 40 IO94JF
+QSO:    70 PH 2018-02-25 1117 G4DBN         59 2 IO93NR          G4HGT/P       57 49 IO93BV
+QSO:    70 PH 2018-02-25 1122 G4DBN         59 3 IO93NR          G4RQI         59 18 IO93IR
+QSO:    70 PH 2018-02-25 1123 G4DBN         59 4 IO93NR          G8EOP         57 11 IO93EQ
+QSO:    70 PH 2018-02-25 1126 G4DBN         55 5 IO93NR          GW8ASD        54 31 IO83LB
+END-OF-LOG:

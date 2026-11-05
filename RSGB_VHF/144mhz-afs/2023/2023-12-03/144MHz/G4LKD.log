@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G4LKD
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93OQ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5334; excluded rows=4.
+QSO:   144 PH 2023-12-03 1300 G4LKD         59 1 IO93OQ          M0HOM         59 52 IO93QO
+QSO:   144 PH 2023-12-03 1302 G4LKD         57 2 IO93OQ          G4EFT         57 47 IO91RG
+QSO:   144 PH 2023-12-03 1308 G4LKD         59 3 IO93OQ          G3TBK/P       59 95 IO93RA
+QSO:   144 PH 2023-12-03 1313 G4LKD         59 4 IO93OQ          G4BWP         59 128 JO02FH
+QSO:   144 PH 2023-12-03 1315 G4LKD         59 5 IO93OQ          G4ODA         59 138 IO92WS
+QSO:   144 PH 2023-12-03 1317 G4LKD         52 6 IO93OQ          G4GFI         52 74 IO91VH
+QSO:   144 PH 2023-12-03 1319 G4LKD         59 7 IO93OQ          G3PYE/P       59 104 JO02CE
+QSO:   144 PH 2023-12-03 1327 G4LKD         57 8 IO93OQ          G4FAL         57 63 IO93EJ
+QSO:   144 PH 2023-12-03 1333 G4LKD         59 9 IO93OQ          G0ODQ         59 87 IO91MR
+QSO:   144 PH 2023-12-03 1336 G4LKD         53 10 IO93OQ         2E0YDG        53 13 IO93NR
+QSO:   144 PH 2023-12-03 1337 G4LKD         58 11 IO93OQ         G6UW          58 79 JO02AF
+QSO:   144 PH 2023-12-03 1339 G4LKD         59 12 IO93OQ         G0EAK/P       59 83 IO93NI
+QSO:   144 PH 2023-12-03 1341 G4LKD         59 13 IO93OQ         G4NBS         59 116 JO02AF
+QSO:   144 CW 2023-12-03 1345 G4LKD         553 14 IO93OQ        2E0NEY        55 78 IO81VK
+QSO:   144 PH 2023-12-03 1348 G4LKD         59 15 IO93OQ         M0CTP         59 10 IO93QV
+QSO:   144 PH 2023-12-03 1351 G4LKD         55 16 IO93OQ         M0FXX         55 3 IO91NM
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: F4CHA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JN08GS
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7408; excluded rows=1.
+QSO:   144 PH 2017-12-03 1415 F4CHA         59 1 JN08GS          M0BAA/P       53 214 JO01KJ
+QSO:   144 PH 2017-12-03 1426 F4CHA         59 2 JN08GS          G3TBK/P       55 118 IN93RA
+QSO:   144 PH 2017-12-03 1429 F4CHA         59 3 JN08GS          G4BWP         59 161 JO02FH
+QSO:   144 PH 2017-12-03 1435 F4CHA         56 4 JN08GS          M0VAA/P       57 66 IO93CH
+END-OF-LOG:

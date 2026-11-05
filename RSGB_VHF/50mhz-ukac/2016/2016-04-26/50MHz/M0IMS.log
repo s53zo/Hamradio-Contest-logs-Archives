@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0IMS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81UI
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160426&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5602; excluded rows=4.
+QSO:    50 PH 2016-04-26 1904 M0IMS         55 1 IO81UI          G8NDN         57 1 IO91GF
+QSO:    50 PH 2016-04-26 1907 M0IMS         52 2 IO81UI          G4LBH         52 2 IO90AS
+QSO:    50 PH 2016-04-26 1909 M0IMS         59 3 IO81UI          M0KJR         59 1 IO81VH
+QSO:    50 PH 2016-04-26 1912 M0IMS         55 4 IO81UI          M0BAO/P       57 3 IO80LV
+QSO:    50 PH 2016-04-26 1915 M0IMS         54 5 IO81UI          G4DMC         52 3 IO81WI
+QSO:    50 PH 2016-04-26 1916 M0IMS         55 6 IO81UI          G3TCT         55 10 IO81QC
+QSO:    50 PH 2016-04-26 1917 M0IMS         58 7 IO81UI          G3OIL         57 2 IO91CB
+QSO:    50 PH 2016-04-26 1928 M0IMS         51 8 IO81UI          F1BHL/P       51 3 IN99RI
+QSO:    50 PH 2016-04-26 1932 M0IMS         55 9 IO81UI          M1CNK         55 6 IO90HX
+QSO:    50 PH 2016-04-26 1941 M0IMS         57 10 IO81UI         G4ELJ         57 34 IO91PH
+QSO:    50 PH 2016-04-26 1943 M0IMS         59 11 IO81UI         G4JQN         59 17 IO81VG
+QSO:    50 PH 2016-04-26 1955 M0IMS         52 12 IO81UI         G4GFI         53 24 IO91VH
+QSO:    50 PH 2016-04-26 2009 M0IMS         59 13 IO81UI         M6TEP         59 2 IO81VH
+QSO:    50 PH 2016-04-26 2009 M0IMS         56 14 IO81UI         G3KSU         58 5 IO91AI
+END-OF-LOG:

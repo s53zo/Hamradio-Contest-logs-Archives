@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G7WKX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83NI
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220405&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11889; excluded rows=5.
+QSO:   144 PH 2022-04-05 2006 G7WKX         59 1 IO83NI          G8REQ         58 35 IO83KI
+QSO:   144 PH 2022-04-05 2009 G7WKX         59 2 IO83NI          GW8ASD        56 31 IO83LB
+QSO:   144 PH 2022-04-05 2010 G7WKX         59 3 IO83NI          M1EYP/P       57 34 IO83XD
+QSO:   144 PH 2022-04-05 2029 G7WKX         59 4 IO83NI          G4JLG         55 39 IO83TM
+QSO:   144 PH 2022-04-05 2032 G7WKX         59 5 IO83NI          M0ICK/P       59 73 IO83RO
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G7ENA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO03AJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190205&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10597; excluded rows=3.
+QSO:   144 PH 2019-02-05 2008 G7ENA         57 1 JO03AJ          M0VOZ         57 2 IO94UA
+QSO:   144 PH 2019-02-05 2009 G7ENA         59 2 JO03AJ          G4EBK         59 2 IO93WN
+QSO:   144 PH 2019-02-05 2026 G7ENA         59 3 JO03AJ          G4FZN/P       59 37 IO94JF
+QSO:   144 PH 2019-02-05 2036 G7ENA         59 4 JO03AJ          2E0DXK/P      59 26 IO93FG
+QSO:   144 PH 2019-02-05 2048 G7ENA         56 5 JO03AJ          M0CES/P       55 20 JO03AE
+QSO:   144 PH 2019-02-05 2124 G7ENA         59 6 JO03AJ          M1MHZ         59 87 IO92WV
+QSO:   144 PH 2019-02-05 2148 G7ENA         56 7 JO03AJ          GM4PPT        57 43 IO75SK
+END-OF-LOG:

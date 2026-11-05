@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8OMB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92FM
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220210&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5486; excluded rows=9.
+QSO:    50 PH 2022-02-10 2005 G8OMB         57 1 IO92FM          M0TAV/P       57 2 IO92HN
+QSO:    50 PH 2022-02-10 2009 G8OMB         59 2 IO92FM          G0NZI/P       59 4 IO92FM
+QSO:    50 PH 2022-02-10 2016 G8OMB         59 3 IO92FM          G6AD          55 10 IO92GL
+QSO:    50 PH 2022-02-10 2022 G8OMB         59 4 IO92FM          G1VNB         59 10 IO92GL
+QSO:    50 PH 2022-02-10 2034 G8OMB         58 5 IO92FM          G4TVR         55 33 IO92CI
+QSO:    50 PH 2022-02-10 2037 G8OMB         59 6 IO92FM          G4CLA         59 39 IO92JL
+QSO:    50 PH 2022-02-10 2039 G8OMB         59 7 IO92FM          G6AAQ         57 13 IO92IQ
+QSO:    50 PH 2022-02-10 2153 G8OMB         58 8 IO92FM          G1YBB/P       57 116 IO82LB
+END-OF-LOG:

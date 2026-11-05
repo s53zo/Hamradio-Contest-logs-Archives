@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: M0TAV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO92FK
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4264; excluded rows=2.
+QSO:   144 PH 2025-07-05 1438 M0TAV         57 1 IO92FK          G3CKR/P       59 43 IO93AD
+QSO:   144 PH 2025-07-05 1441 M0TAV         52 2 IO92FK          G5CRR         33 8 IO92BA
+QSO:   144 PH 2025-07-05 1444 M0TAV         55 3 IO92FK          G7APD/P       59 24 IO92LI
+QSO:   144 PH 2025-07-05 2115 M0TAV         55 4 IO92FK          M0NDA/P       59 29 IO92EM
+QSO:   144 PH 2025-07-05 2121 M0TAV         55 5 IO92FK          GW3ZTT/P      59 110 IO82KW
+QSO:   144 PH 2025-07-06 0855 M0TAV         56 6 IO92FK          G3SRT/P       59 106 IO82KV
+QSO:   144 PH 2025-07-06 1211 M0TAV         59 7 IO92FK          G8SRC/P       59 185 IO91CL
+QSO:   144 PH 2025-07-06 1326 M0TAV         58 8 IO92FK          G4TCU/P       55 47 IO82WJ
+QSO:   144 PH 2025-07-06 1330 M0TAV         55 9 IO92FK          G0XDI         52 126 IO91RP
+QSO:   144 PH 2025-07-06 1338 M0TAV         55 10 IO92FK         GW1YBB/P      59 105 IO81KW
+END-OF-LOG:

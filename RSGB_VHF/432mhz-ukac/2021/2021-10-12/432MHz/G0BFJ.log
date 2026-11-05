@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0BFJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93CP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=211012&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9238; excluded rows=2.
+QSO:   432 PH 2021-10-12 1901 G0BFJ         59 1 IO93CP          G3SDY         59 2 IO93DO
+QSO:   432 PH 2021-10-12 1902 G0BFJ         59 2 IO93CP          G8BUN         59 3 IO93EQ
+QSO:   432 PH 2021-10-12 1905 G0BFJ         59 3 IO93CP          G1FYS         59 1 IO93CP
+QSO:   432 PH 2021-10-12 1905 G0BFJ         59 4 IO93CP          G0BWB         59 5 IO93CO
+QSO:   432 PH 2021-10-12 1919 G0BFJ         59 5 IO93CP          G8SFI/P       59 22 IO93OX
+QSO:   432 PH 2021-10-12 1925 G0BFJ         57 6 IO93CP          G8DMU/P       57 38 IO94CB
+QSO:   432 PH 2021-10-12 1930 G0BFJ         59 7 IO93CP          G0ISX         59 9 IO93DP
+QSO:   432 PH 2021-10-12 1932 G0BFJ         59 8 IO93CP          G4HGT/P       59 25 IO93DV
+QSO:   432 PH 2021-10-12 1935 G0BFJ         57 9 IO93CP          G3YPE         57 6 IO93CN
+QSO:   432 PH 2021-10-12 2032 G0BFJ         59 10 IO93CP         G4FZN/P       59 74 IO94JF
+QSO:   432 PH 2021-10-12 2037 G0BFJ         55 11 IO93CP         G4CLA         55 152 IO92JL
+QSO:   432 PH 2021-10-12 2041 G0BFJ         59 12 IO93CP         G4ODA         58 111 IO92WS
+QSO:   432 PH 2021-10-12 2050 G0BFJ         59 13 IO93CP         G8EOP         56 27 IO93EQ
+QSO:   432 PH 2021-10-12 2052 G0BFJ         57 14 IO93CP         M7ALE/P       51 38 IO93QT
+QSO:   432 PH 2021-10-12 2104 G0BFJ         59 15 IO93CP         G1DEN         59 6 IO93DO
+END-OF-LOG:

@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0TMR
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93CR
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250204&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=426; excluded rows=0.
+QSO:   144 FM 2025-02-04 1919 M0TMR         59 1 IO93CR          GW0HRG        59 10 IO83JF
+QSO:   144 FM 2025-02-04 1920 M0TMR         59 2 IO93CR          G5ROC         59 15 IO93GE
+QSO:   144 FM 2025-02-04 1922 M0TMR         59 3 IO93CR          G0KAO         59 2 IO93FP
+END-OF-LOG:

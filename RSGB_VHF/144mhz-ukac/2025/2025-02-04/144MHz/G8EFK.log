@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8EFK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91CN
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250204&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8856; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2025-02-04 2008 G8EFK         59 1 IO91CN          G0SKA         59 13 IO91OQ
+QSO:   144 PH 2025-02-04 2021 G8EFK         55 3 IO91CN          G4ILI/P       51 20 IO81WU
+QSO:   144 PH 2025-02-04 2040 G8EFK         58 4 IO91CN          G0LTG         55 26 IO81RF
+QSO:   144 PH 2025-02-04 2043 G8EFK         58 5 IO91CN          2E0NEY        57 17 IO81VK
+END-OF-LOG:

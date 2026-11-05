@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0KSE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83RN
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230209&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5435; excluded rows=1.
+QSO:    50 PH 2023-02-09 2003 M0KSE         59 1 IO83RN          G0CDA         59 1 IO83SJ
+QSO:    50 PH 2023-02-09 2007 M0KSE         59 2 IO83RN          G8ZRE         52 5 IO83NE
+QSO:    50 PH 2023-02-09 2009 M0KSE         59 3 IO83RN          G3TDH         59 4 IO83WI
+QSO:    50 PH 2023-02-09 2013 M0KSE         59 4 IO83RN          GW8ASD        59 8 IO83LB
+QSO:    50 PH 2023-02-09 2016 M0KSE         57 5 IO83RN          G0CER         57 4 IO82RV
+QSO:    50 PH 2023-02-09 2023 M0KSE         59 6 IO83RN          M1EYP/P       59 21 IO83WE
+QSO:    50 PH 2023-02-09 2038 M0KSE         59 7 IO83RN          GW4ZAR        59 19 IO83KF
+QSO:    50 PH 2023-02-09 2047 M0KSE         59 8 IO83RN          G8REQ         55 23 IO83KI
+QSO:    50 PH 2023-02-09 2108 M0KSE         56 9 IO83RN          G4ASR         54 85 IO81MX
+QSO:    50 PH 2023-02-09 2111 M0KSE         59 10 IO83RN         G0WUS/P       59 61 IO92MP
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G0EUN
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93QE
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170103&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=620; excluded rows=1.
+QSO:   144 FM 2017-01-03 1900 G0EUN         59 1 IO93QE          M0CES         59 1 IO93RE
+QSO:   144 FM 2017-01-03 1902 G0EUN         59 2 IO93QE          M0HED         59 3 IO93QE
+QSO:   144 FM 2017-01-03 1905 G0EUN         59 3 IO93QE          G7LAS/P       59 10 IO92IR
+QSO:   144 FM 2017-01-03 1906 G0EUN         59 4 IO93QE          G8HQW/P       59 6 IO94JF
+QSO:   144 FM 2017-01-03 1927 G0EUN         59 5 IO93QE          M0ORY         59 4 IO93IC
+QSO:   144 FM 2017-01-03 1930 G0EUN         59 6 IO93QE          M6KNS/P       59 5 IO93QO
+QSO:   144 FM 2017-01-03 1931 G0EUN         59 7 IO93QE          M0NRD         59 5 IO93OB
+QSO:   144 FM 2017-01-03 1948 G0EUN         59 8 IO93QE          G4PDF         59 9 IO93VH
+QSO:   144 FM 2017-01-03 1957 G0EUN         57 9 IO93QE          2E0TRB        59 5 JO02AT
+END-OF-LOG:

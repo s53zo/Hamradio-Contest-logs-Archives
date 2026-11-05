@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G8KPD/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO85XF
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=210727&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=130; excluded rows=2.
+QSO:  3.4G PH 2021-07-27 1835 G8KPD/P       55 1 IO85XF          GM4JTJ        53 1 IO86RP
+QSO:  3.4G PH 2021-07-27 1839 G8KPD/P       58 2 IO85XF          G8DMU/P       58 3 IO94CB
+QSO:  3.4G PH 2021-07-27 1839 G8KPD/P       59 3 IO85XF          G1LPS         59 2 IO94EQ
+QSO:  3.4G PH 2021-07-27 1850 G8KPD/P       59 4 IO85XF          G8PNN         59 1 IO95EF
+END-OF-LOG:

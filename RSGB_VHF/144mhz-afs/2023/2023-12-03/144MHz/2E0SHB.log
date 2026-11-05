@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: 2E0SHB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO92IN
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5334; excluded rows=4.
+QSO:   144 PH 2023-12-03 1036 2E0SHB        58 1 IO92IN          G3SQQ         59 21 IO93JC
+QSO:   144 PH 2023-12-03 1038 2E0SHB        59 2 IO92IN          G5UM          59 12 IO92JP
+QSO:   144 PH 2023-12-03 1043 2E0SHB        59 3 IO92IN          G4ODA         59 49 IO92WS
+QSO:   144 PH 2023-12-03 1047 2E0SHB        59 4 IO92IN          M1MHZ         59 33 IO92WV
+QSO:   144 PH 2023-12-03 1050 2E0SHB        59 5 IO92IN          G8DOH         59 41 IO92FA
+QSO:   144 PH 2023-12-03 1054 2E0SHB        59 6 IO92IN          M0NVS/P       59 25 IO91LT
+QSO:   144 PH 2023-12-03 1057 2E0SHB        59 7 IO92IN          G8FMC         57 30 IO91NW
+QSO:   144 PH 2023-12-03 1103 2E0SHB        59 8 IO92IN          G1DFL/P       59 33 IO92HD
+QSO:   144 PH 2023-12-03 1109 2E0SHB        59 9 IO92IN          G0NZI         59 13 IO92GW
+QSO:   144 PH 2023-12-03 1112 2E0SHB        57 10 IO92IN         G3WRA         57 33 IO82RJ
+QSO:   144 PH 2023-12-03 1115 2E0SHB        59 11 IO92IN         G3TBK/P       58 7 IO93RA
+QSO:   144 PH 2023-12-03 1123 2E0SHB        59 12 IO92IN         G0XDI         59 57 IO91RQ
+QSO:   144 PH 2023-12-03 1128 2E0SHB        55 13 IO92IN         G4BWP         55 79 JO02FH
+QSO:   144 PH 2023-12-03 1138 2E0SHB        58 14 IO92IN         G4YPC         51 34 IO91RH
+QSO:   144 PH 2023-12-03 1147 2E0SHB        57 15 IO92IN         G3MEH         55 55 IO91QS
+QSO:   144 PH 2023-12-03 1153 2E0SHB        57 16 IO92IN         G0ODQ         57 60 IO91MR
+QSO:   144 PH 2023-12-03 1214 2E0SHB        57 17 IO92IN         GW4CC         57 57 IO71MR
+END-OF-LOG:

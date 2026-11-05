@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G5UM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92KR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4266; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   432 PH 2017-02-05 0943 G5UM          59 1 IO92KR          M1DDD/P       59 35 IO93CH
+QSO:   432 PH 2017-02-05 0945 G5UM          58 2 IO92KR          G4ODA         58 49 IO92WS
+QSO:   432 PH 2017-02-05 1001 G5UM          55 3 IO92KR          M0MDY         55 23 IO93HH
+QSO:   432 PH 2017-02-05 1104 G5UM          59 4 IO92KR          G3SQQ         59 36 IO93JC
+QSO:   432 PH 2017-02-05 1124 G5UM          52 5 IO92KR          GD8EXI        52 68 IO74PC
+QSO:   432 PH 2017-02-05 1129 G5UM          55 6 IO92KR          G3TBK/P       55 42 IO93RA
+QSO:   432 PH 2017-02-05 1149 G5UM          59 7 IO92KR          G4HVC         59 33 IO93QA
+QSO:   432 PH 2017-02-05 1218 G5UM          57 9 IO92KR          M1MHZ         57 70 IO92WV
+QSO:   432 PH 2017-02-05 1224 G5UM          55 10 IO92KR         G7LRQ         55 75 IO91TQ
+QSO:   432 PH 2017-02-05 1233 G5UM          55 11 IO92KR         G6UW          55 45 JO02AF
+END-OF-LOG:

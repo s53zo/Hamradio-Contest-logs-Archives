@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: M1KDJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81XP
+CATEGORY: L
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9766; excluded rows=11.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   144 PH 2018-07-07 1405 M1KDJ         59 1 IO81XP          G4IVR/P       59 5 IO91HB
+QSO:   144 PH 2018-07-07 1407 M1KDJ         59 2 IO81XP          G4WAW/P       59 6 IO81QJ
+QSO:   144 PH 2018-07-07 1412 M1KDJ         59 3 IO81XP          M0HRF/P       59 22 IO91GI
+QSO:   144 PH 2018-07-07 1415 M1KDJ         55 4 IO81XP          G0ARC/P       59 19 IO91EH
+QSO:   144 PH 2018-07-07 1424 M1KDJ         58 5 IO81XP          G2BQY/P       54 9 IO81RF
+QSO:   144 PH 2018-07-07 1426 M1KDJ         57 6 IO81XP          G0SAC/P       57 16 IO91XG
+QSO:   144 PH 2018-07-07 1430 M1KDJ         59 7 IO81XP          M0BAA/P       55 41 JO01KJ
+QSO:   144 PH 2018-07-07 1435 M1KDJ         55 8 IO81XP          G4RFR/P       57 9 IO80ST
+QSO:   144 PH 2018-07-07 1510 M1KDJ         55 10 IO81XP         EI9E/P        57 54 IO62OM
+QSO:   144 PH 2018-07-08 1215 M1KDJ         59 11 IO81XP         G8SRC/P       59 129 IO91CL
+END-OF-LOG:

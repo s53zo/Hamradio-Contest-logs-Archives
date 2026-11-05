@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G3WJG
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91RP
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FMAC&Date=180612&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=195; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   432 FM 2018-06-12 1800 G3WJG         59 1 IO91RP          G0ACK/P       59 1 IO91TO
+QSO:   432 FM 2018-06-12 1805 G3WJG         59 2 IO91RP          G8GYX         59 1 IO91VH
+QSO:   432 FM 2018-06-12 1811 G3WJG         55 3 IO91RP          G3SQQ         55 3 IO93JC
+QSO:   432 FM 2018-06-12 1812 G3WJG         59 4 IO91RP          G8FKH         59 2 IO91SN
+QSO:   432 FM 2018-06-12 1818 G3WJG         58 5 IO91RP          G1MZD/P       58 2 IO92NC
+QSO:   432 FM 2018-06-12 1831 G3WJG         56 7 IO91RP          M6YUG/P       43 3 IO91UN
+QSO:   432 FM 2018-06-12 1835 G3WJG         59 8 IO91RP          M0JSB/P       59 2 IO91SF
+QSO:   432 FM 2018-06-12 1837 G3WJG         59 9 IO91RP          M0UGA/P       59 1 IO91RU
+QSO:   432 FM 2018-06-12 1839 G3WJG         59 10 IO91RP         G4GFI         59 2 IO91VH
+QSO:   432 FM 2018-06-12 1842 G3WJG         59 11 IO91RP         G3MEH         59 1 IO91QS
+QSO:   432 FM 2018-06-12 1850 G3WJG         44 12 IO91RP         G3WCB/P       55 1 IO80EI
+QSO:   432 FM 2018-06-12 1853 G3WJG         59 13 IO91RP         G8FUO         59 2 IO91QL
+END-OF-LOG:

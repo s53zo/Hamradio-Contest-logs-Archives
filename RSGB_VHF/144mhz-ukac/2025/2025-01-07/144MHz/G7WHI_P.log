@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G7WHI/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO70HF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250107&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7669; excluded rows=1.
+QSO:   144 PH 2025-01-07 2041 G7WHI/P       55 1 IO70HF          G4CLA         539 88 IO92JL
+QSO:   144 CW 2025-01-07 2104 G7WHI/P       559 2 IO70HF         G4ODA         559 41 IO92WS
+QSO:   144 CW 2025-01-07 2107 G7WHI/P       559 3 IO70HF         G4LPP         519 35 JO02SS
+QSO:   144 PH 2025-01-07 2120 G7WHI/P       53 4 IO70HF          G4FZN/P       559 51 IO94JF
+QSO:   144 PH 2025-01-07 2137 G7WHI/P       55 5 IO70HF          GW4SHF        529 52 IO82HP
+QSO:   144 PH 2025-01-07 2150 G7WHI/P       59 6 IO70HF          EI3KD         57 21 IO51VW
+QSO:   144 PH 2025-01-07 2159 G7WHI/P       55 7 IO70HF          G0LTG/P       52 102 IO81RF
+END-OF-LOG:

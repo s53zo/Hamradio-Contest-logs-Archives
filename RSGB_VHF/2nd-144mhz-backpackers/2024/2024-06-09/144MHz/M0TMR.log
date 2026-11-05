@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-2ND-144MHZ-BACKPACKERS
+CALLSIGN: M0TMR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO93CR
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=2nd+144MHz+Backpackers&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1251; excluded rows=0.
+QSO:   144 PH 2024-06-09 0909 M0TMR         59 1 IO93CR          G3SVC/P       59 5 IO93BR
+QSO:   144 PH 2024-06-09 0923 M0TMR         55 2 IO93CR          G3XNO/P       57 5 IO84VB
+QSO:   144 PH 2024-06-09 1106 M0TMR         59 3 IO93CR          G4SDX/P       59 16 IO93AP
+QSO:   144 PH 2024-06-09 1226 M0TMR         55 4 IO93CR          G5TO/P        57 38 IO93FL
+END-OF-LOG:

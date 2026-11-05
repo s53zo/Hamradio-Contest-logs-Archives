@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0KOV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93HX
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=181106&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10216; excluded rows=3.
+QSO:   144 PH 2018-11-06 2045 M0KOV         59 1 IO93HX          M0DCD/P       59 20 IO94EB
+QSO:   144 PH 2018-11-06 2050 M0KOV         55 2 IO93HX          M6OXP         55 4 IO94IE
+QSO:   144 PH 2018-11-06 2057 M0KOV         59 3 IO93HX          G3ZXZ         52 76 IO93CU
+QSO:   144 PH 2018-11-06 2104 M0KOV         59 4 IO93HX          G4FZN/P       59 76 IO94JF
+QSO:   144 PH 2018-11-06 2117 M0KOV         55 5 IO93HX          2E0XLG/P      51 50 IO84VB
+END-OF-LOG:

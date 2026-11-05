@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM4AFF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO86TS
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220414&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5403; excluded rows=36.
+SOAPBOX: WARNING: 14 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (14).
+QSO:    50 PH 2022-04-14 1946 GM4AFF        59 15 IO86TS         G8AOE/P       59 14 IO84XQ
+QSO:    50 PH 2022-04-14 2008 GM4AFF        53 16 IO86TS         G0WUS/P       57 58 IO92MP
+QSO:    50 PH 2022-04-14 2009 GM4AFF        55 17 IO86TS         G4BEE         57 14 IO83RQ
+END-OF-LOG:

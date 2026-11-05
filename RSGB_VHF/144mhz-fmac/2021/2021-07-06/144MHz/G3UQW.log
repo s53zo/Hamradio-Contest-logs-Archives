@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G3UQW
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91LH
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210706&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=624; excluded rows=2.
+QSO:   144 FM 2021-07-06 1818 G3UQW         59 1 IO91LH          M1CZI         59 6 IO91IN
+QSO:   144 FM 2021-07-06 1835 G3UQW         59 2 IO91LH          M0UHF         59 9 IO91IP
+QSO:   144 FM 2021-07-06 1837 G3UQW         59 3 IO91LH          M0JSB/P       59 1 IO91SF
+QSO:   144 FM 2021-07-06 1839 G3UQW         59 4 IO91LH          G8GYX         56 12 IO91VH
+QSO:   144 FM 2021-07-06 1854 G3UQW         56 5 IO91LH          2E0WHQ/P      55 15 IO91CL
+END-OF-LOG:

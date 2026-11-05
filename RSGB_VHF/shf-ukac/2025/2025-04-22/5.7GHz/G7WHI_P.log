@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G7WHI/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: IO92IQ
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+5.7+GHz&Date=250422&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=42; excluded rows=0.
+QSO:  5.7G PH 2025-04-22 1837 G7WHI/P       59 1 IO92IQ          G0WUS         59 2 IO92KO
+QSO:  5.7G PH 2025-04-22 1837 G7WHI/P       59 2 IO92IQ          G4HWA         59 2 IO92ME
+QSO:  5.7G PH 2025-04-22 1841 G7WHI/P       59 3 IO92IQ          G8SEI         59 1 IO92FO
+QSO:  5.7G PH 2025-04-22 1855 G7WHI/P       59 4 IO92IQ          G8AIM         59 1 IO92FH
+QSO:  5.7G CW 2025-04-22 1914 G7WHI/P       419 5 IO92IQ         M0GHZ         529 2 IO81VK
+QSO:  5.7G PH 2025-04-22 1944 G7WHI/P       51 6 IO92IQ          G4LDR         51 2 IO91EC
+END-OF-LOG:

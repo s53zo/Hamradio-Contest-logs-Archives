@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4BRK
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: IO91HP
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+5.7+GHz&Date=220426&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=94; excluded rows=0.
+QSO:  5.7G PH 2022-04-26 1836 G4BRK         57 1 IO91HP          M0GHZ         58 1 IO81VK
+QSO:  5.7G PH 2022-04-26 1845 G4BRK         56 2 IO91HP          G8DMU/P       54 2 IO94CB
+QSO:  5.7G PH 2022-04-26 1859 G4BRK         54 3 IO91HP          G4HWA         55 1 IO92ME
+QSO:  5.7G CW 2022-04-26 1919 G4BRK         529 4 IO91HP         G0LBK         539 5 JO03BD
+QSO:  5.7G PH 2022-04-26 2014 G4BRK         52 5 IO91HP          G4LDR         57 4 IO91EC
+QSO:  5.7G PH 2022-04-26 2018 G4BRK         52 6 IO91HP          G7LRQ         55 3 IO91TQ
+QSO:  5.7G CW 2022-04-26 2045 G4BRK         529 7 IO91HP         G4CLA         539 7 IO92JL
+QSO:  5.7G CW 2022-04-26 2103 G4BRK         419 8 IO91HP         G4ODA         539 3 IO92WS
+END-OF-LOG:

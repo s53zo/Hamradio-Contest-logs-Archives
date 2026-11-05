@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1ST-MGM-CONTEST
+CALLSIGN: G0EHG
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1st+MGM+contest&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from machine-generated-mode contest context; exact submode unavailable.
+SOAPBOX: Export source rows=1732; excluded rows=1.
+QSO:   144 DG 2018-04-21 1942 G0EHG         +07 IO83             G4AQB         +08 IO83
+QSO:   144 DG 2018-04-22 0853 G0EHG         -09 IO83             GM3SEK        -14 IO74
+QSO:   144 DG 2018-04-22 0912 G0EHG         -11 IO83             G0OUC         -18 IO93
+QSO:   144 DG 2018-04-22 1134 G0EHG         -03 IO83             G1MHU         -18 IO93
+END-OF-LOG:

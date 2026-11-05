@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: GW0IRW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO72XD
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6651; excluded rows=1.
+QSO:   144 PH 2021-12-05 1014 GW0IRW        59 1 IO72XD          G7RAU         59 8 IN79JX
+QSO:   144 PH 2021-12-05 1238 GW0IRW        59 2 IO72XD          G6RC          59 75 IO91VC
+QSO:   144 PH 2021-12-05 1239 GW0IRW        59 3 IO72XD          G4ODA         59 132 IO92WS
+QSO:   144 PH 2021-12-05 1243 GW0IRW        56 4 IO72XD          G4YHF         51 52 IO92XW
+QSO:   144 PH 2021-12-05 1248 GW0IRW        55 5 IO72XD          G4EPA         55 34 IO92KI
+QSO:   144 PH 2021-12-05 1249 GW0IRW        57 6 IO72XD          G3PYE/P       57 92 JO02CE
+QSO:   144 PH 2021-12-05 1252 GW0IRW        59 7 IO72XD          G4DHF/M       59 87 IO93WG
+QSO:   144 PH 2021-12-05 1254 GW0IRW        57 8 IO72XD          GW4CC         57 83 IO71UN
+END-OF-LOG:

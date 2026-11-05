@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: 2E1FMS
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=230104&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=579; excluded rows=0.
+QSO:   144 FT8 2023-01-04 2016 2E1FMS        -11 IO82             M7REV         +01 IO82
+QSO:   144 FT8 2023-01-04 2018 2E1FMS        -02 IO82             G8SEI         -11 IO92
+QSO:   144 FT8 2023-01-04 2021 2E1FMS        -08 IO82             G0FEH         -11 IO92
+QSO:   144 FT8 2023-01-04 2023 2E1FMS        -08 IO82             G8IQL         -04 IO90
+QSO:   144 FT8 2023-01-04 2025 2E1FMS        -22 IO82             G7RHF         -04 IO82
+QSO:   144 FT8 2023-01-04 2029 2E1FMS        -17 IO82             2E0HXM        -12 IO92
+QSO:   144 FT8 2023-01-04 2032 2E1FMS        -15 IO82             MW0LKX        -09 IO82
+QSO:   144 FT8 2023-01-04 2034 2E1FMS        -11 IO82             G4APJ         -02 IO83
+QSO:   144 FT8 2023-01-04 2039 2E1FMS        -09 IO82             G8AOE/P       +00 IO94
+QSO:   144 FT8 2023-01-04 2040 2E1FMS        -23 IO82             GM4VVX        -07 IO78
+QSO:   144 FT8 2023-01-04 2041 2E1FMS        -25 IO82             M0TLJ         -22 IO93
+QSO:   144 FT8 2023-01-04 2043 2E1FMS        -13 IO82             M0RTQ         -13 IO93
+QSO:   144 FT8 2023-01-04 2045 2E1FMS        -19 IO82             GI6ATZ        -07 IO74
+QSO:   144 FT8 2023-01-04 2048 2E1FMS        -04 IO82             MW0PJE        -01 IO82
+QSO:   144 FT8 2023-01-04 2053 2E1FMS        -18 IO82             EI8KN         -16 IO62
+QSO:   144 FT8 2023-01-04 2055 2E1FMS        -15 IO82             G8DER         +02 IO81
+END-OF-LOG:

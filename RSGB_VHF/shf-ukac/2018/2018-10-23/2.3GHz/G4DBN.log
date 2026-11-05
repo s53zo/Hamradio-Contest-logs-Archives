@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4DBN
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO93NR
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=181023&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=392; excluded rows=0.
+QSO:  2.3G PH 2018-10-23 2016 G4DBN         52 12 IO93NR         G8PNN         52 13 IO95EF
+QSO:  2.3G PH 2018-10-23 2020 G4DBN         59 13 IO93NR         G8DMU/P       59 15 IO94CB
+QSO:  2.3G PH 2018-10-23 2022 G4DBN         59 14 IO93NR         G8EOP         59 11 IO93EQ
+QSO:  2.3G PH 2018-10-23 2024 G4DBN         57 15 IO93NR         G4ODA         55 21 IO92WS
+QSO:  2.3G PH 2018-10-23 2025 G4DBN         56 16 IO93NR         G3YJR         59 6 IO93FJ
+QSO:  2.3G PH 2018-10-23 2030 G4DBN         55 17 IO93NR         G4RQI         55 11 IO93IR
+QSO:  2.3G PH 2018-10-23 2040 G4DBN         53 18 IO93NR         G4FVP         41 5 IO94FM
+QSO:  2.3G CW 2018-10-23 2048 G4DBN         529 19 IO93NR        G3UVR         419 23 IO83KH
+QSO:  2.3G CW 2018-10-23 2113 G4DBN         529 20 IO93NR        G3SQQ         529 15 IO93JC
+QSO:  2.3G PH 2018-10-23 2116 G4DBN         59 21 IO93NR         G8OHM         59 28 IO92AJ
+END-OF-LOG:

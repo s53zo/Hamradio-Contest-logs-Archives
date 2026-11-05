@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4AJA
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91DP
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250304&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=492; excluded rows=1.
+QSO:   144 FM 2025-03-04 1908 G4AJA         59 1 IO91DP          G8EFK         59 2 IO91CN
+QSO:   144 FM 2025-03-04 1914 G4AJA         59 2 IO91DP          2E0VGP        59 4 IO91BO
+QSO:   144 FM 2025-03-04 1918 G4AJA         59 3 IO91DP          M0UHF         59 6 IO91IP
+QSO:   144 FM 2025-03-04 1921 G4AJA         59 4 IO91DP          G4ILI/P       59 17 IO81WU
+END-OF-LOG:

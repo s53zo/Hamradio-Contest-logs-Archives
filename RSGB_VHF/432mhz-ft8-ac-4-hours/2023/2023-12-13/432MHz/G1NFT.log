@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-4-HOURS
+CALLSIGN: G1NFT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO94
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=231213&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=414; excluded rows=0.
+QSO:   432 FT8 2023-12-13 2048 G1NFT         -06 IO94             G1JSF         -09 IO94
+QSO:   432 FT8 2023-12-13 2019 G1NFT         -06 IO94             G4VPD         -14 IO92
+QSO:   432 FT8 2023-12-13 1956 G1NFT         -22 IO94             G4ZTR         -11 JO01
+QSO:   432 FT8 2023-12-13 1933 G1NFT         +07 IO94             G0XDI         +02 IO91
+QSO:   432 FT8 2023-12-13 1927 G1NFT         +11 IO94             MM0CEZ        +02 IO75
+QSO:   432 FT8 2023-12-13 1925 G1NFT         +09 IO94             M0WWS         +13 IO94
+QSO:   432 FT8 2023-12-13 1755 G1NFT         +01 IO94             G4NBS         +05 JO02
+END-OF-LOG:

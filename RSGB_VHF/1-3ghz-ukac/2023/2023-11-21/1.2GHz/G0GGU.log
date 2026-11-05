@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G0GGU
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO92MG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=231121&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2639; excluded rows=1.
+QSO:  1.2G PH 2023-11-21 2118 G0GGU         59 1 IO92MG          G4HWA         59 35 IO92ME
+QSO:  1.2G PH 2023-11-21 2119 G0GGU         59 2 IO92MG          G4FEV         57 27 IO92RG
+QSO:  1.2G PH 2023-11-21 2121 G0GGU         59 3 IO92MG          M5TKA         59 21 IO91OX
+QSO:  1.2G PH 2023-11-21 2127 G0GGU         59 4 IO92MG          G4CLA         57 64 IO92JL
+QSO:  1.2G CW 2023-11-21 2147 G0GGU         599 5 IO92MG         G4CZB/P       599 25 IO92LH
+END-OF-LOG:

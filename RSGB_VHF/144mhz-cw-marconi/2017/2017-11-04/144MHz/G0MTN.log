@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G0MTN
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92AJ
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1712; excluded rows=1.
+QSO:   144 CW 2017-11-04 1502 G0MTN         559 1 IO92AJ         G4CZB/P       559 7 IO92LH
+QSO:   144 CW 2017-11-04 1508 G0MTN         579 2 IO92AJ         G4KZY/P       599 7 IO91GI
+QSO:   144 CW 2017-11-04 1518 G0MTN         559 3 IO92AJ         G4ASR         599 19 IO81MX
+QSO:   144 CW 2017-11-04 1522 G0MTN         559 4 IO92AJ         M0PNN         559 1 IO82TS
+QSO:   144 CW 2017-11-04 1528 G0MTN         599 5 IO92AJ         G4HGI         599 16 IO83PL
+QSO:   144 CW 2017-11-04 1534 G0MTN         579 6 IO92AJ         G3UDA         599 15 IO82OQ
+QSO:   144 CW 2017-11-04 1537 G0MTN         599 7 IO92AJ         G0NWX         599 1 IO92CM
+QSO:   144 CW 2017-11-04 1540 G0MTN         539 8 IO92AJ         GM4PPT        529 9 IO75SK
+QSO:   144 CW 2017-11-04 1543 G0MTN         539 9 IO92AJ         MM0CEZ        599 15 IO75XU
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4HQB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82PI
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=171205&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12597; excluded rows=4.
+QSO:   144 PH 2017-12-05 2008 G4HQB         55 1 IO82PI          G4ILI/P       58 6 IO81RU
+QSO:   144 PH 2017-12-05 2016 G4HQB         41 2 IO82PI          G1YBB/P       59 25 IO82LB
+QSO:   144 PH 2017-12-05 2024 G4HQB         51 3 IO82PI          G8XYJ/P       55 27 IO82RJ
+QSO:   144 PH 2017-12-05 2034 G4HQB         54 4 IO82PI          G7RHF/P       54 43 IO82PN
+QSO:   144 PH 2017-12-05 2044 G4HQB         53 5 IO82PI          M0JLA         44 8 IO82PB
+QSO:   144 PH 2017-12-05 2124 G4HQB         54 6 IO82PI          G4IDF         55 24 IO82VE
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: 2E0VCC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO70TP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210311&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3441; excluded rows=1.
+QSO:    50 PH 2021-03-11 2001 2E0VCC        59 1 IO70TP          G0RQL         57 1 IO70UV
+QSO:    50 PH 2021-03-11 2002 2E0VCC        55 2 IO70TP          G8BCG         55 1 IO70RK
+QSO:    50 PH 2021-03-11 2009 2E0VCC        55 3 IO70TP          M0MLZ         59 1 IO70VJ
+QSO:    50 PH 2021-03-11 2011 2E0VCC        53 4 IO70TP          G3USE         55 3 IO80JT
+QSO:    50 PH 2021-03-11 2017 2E0VCC        42 5 IO70TP          M6KPI/A       44 1 IO81CA
+END-OF-LOG:

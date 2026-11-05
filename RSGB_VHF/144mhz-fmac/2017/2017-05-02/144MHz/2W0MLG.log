@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2W0MLG
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83LB
+CATEGORY: FL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170502&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=507; excluded rows=1.
+QSO:   144 FM 2017-05-02 1812 2W0MLG        59 1 IO83LB          2W0JYN        59 4 IO82LX
+QSO:   144 FM 2017-05-02 1820 2W0MLG        59 2 IO83LB          GW8ASD        59 6 IO83LB
+QSO:   144 FM 2017-05-02 1822 2W0MLG        59 3 IO83LB          G0LGS/P       59 2 IO81WU
+QSO:   144 FM 2017-05-02 1829 2W0MLG        59 4 IO83LB          M0ZVF/P       59 6 IO83RO
+QSO:   144 FM 2017-05-02 1840 2W0MLG        59 5 IO83LB          G8ZRE         59 12 IO83NE
+QSO:   144 CW 2017-05-02 1846 2W0MLG        559 6 IO83LB         G8HQW/P       54 41 IO94JF
+END-OF-LOG:

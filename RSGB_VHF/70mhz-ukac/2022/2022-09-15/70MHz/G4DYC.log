@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G4DYC
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: JO02MP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=220915&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3777; excluded rows=2.
+QSO:    70 PH 2022-09-15 1906 G4DYC         58 1 JO02MP          G4LPP         55 8 JO02SS
+QSO:    70 CW 2022-09-15 1908 G4DYC         599 2 JO02MP         G3MPN         599 2 JO02NN
+QSO:    70 PH 2022-09-15 1947 G4DYC         57 3 JO02MP          G4ODA         56 24 IO92WS
+QSO:    70 PH 2022-09-15 2027 G4DYC         56 4 JO02MP          G3TBK/P       56 66 IO93RA
+END-OF-LOG:

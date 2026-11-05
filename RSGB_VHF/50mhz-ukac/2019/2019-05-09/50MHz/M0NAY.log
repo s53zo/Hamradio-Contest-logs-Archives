@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0NAY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO01CD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190509&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4275; excluded rows=0.
+QSO:    50 PH 2019-05-09 1906 M0NAY         57 1 JO01CD          G4SDM/P       55 10 IO90QV
+QSO:    50 PH 2019-05-09 1912 M0NAY         56 2 JO01CD          G7LRQ/P       57 16 IO91RU
+QSO:    50 PH 2019-05-09 1916 M0NAY         59 3 JO01CD          G8KSP         59 3 JO01GH
+QSO:    50 PH 2019-05-09 1918 M0NAY         58 4 JO01CD          G3MEH         56 11 IO91QS
+QSO:    50 PH 2019-05-09 1938 M0NAY         55 5 JO01CD          M0JSB/P       59 16 IO91SE
+QSO:    50 PH 2019-05-09 1947 M0NAY         53 6 JO01CD          G0GDA         53 15 JO01EJ
+QSO:    50 PH 2019-05-09 1954 M0NAY         57 7 JO01CD          M1MHZ         57 50 IO92WV
+END-OF-LOG:

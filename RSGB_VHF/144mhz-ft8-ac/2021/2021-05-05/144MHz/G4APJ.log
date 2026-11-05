@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G4APJ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210505&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1171; excluded rows=1.
+QSO:   144 FT8 2021-05-05 1919 G4APJ         -01 IO83             M1EYP/P       +14 IO83
+QSO:   144 FT8 2021-05-05 1921 G4APJ         +02 IO83             G4YLJ         +14 IO83
+QSO:   144 FT8 2021-05-05 1932 G4APJ         -12 IO83             G3YDY         -13 JO01
+QSO:   144 FT8 2021-05-05 1947 G4APJ         -08 IO83             GI6ATZ        -10 IO74
+QSO:   144 FT8 2021-05-05 1950 G4APJ         -06 IO83             G6EIH         -18 IO92
+QSO:   144 FT8 2021-05-05 1959 G4APJ         -14 IO83             G7RHF         -02 IO82
+QSO:   144 FT8 2021-05-05 2006 G4APJ         -02 IO83             GW4FRX        +02 IO82
+QSO:   144 FT8 2021-05-05 2012 G4APJ         -06 IO83             2E0IEI        -01 IO81
+QSO:   144 FT8 2021-05-05 2022 G4APJ         -06 IO83             G8SEI         -24 IO92
+QSO:   144 FT8 2021-05-05 2027 G4APJ         -14 IO83             G3YKI         -10 IO82
+QSO:   144 FT8 2021-05-05 2029 G4APJ         -07 IO83             G8IXK         +14 IO91
+QSO:   144 FT8 2021-05-05 2030 G4APJ         -10 IO83             G0TFD         -01 IO82
+QSO:   144 FT8 2021-05-05 2043 G4APJ         -13 IO83             G4PLZ         -08 JO02
+QSO:   144 FT8 2021-05-05 2051 G4APJ         +00 IO83             G4NBS         -14 JO02
+QSO:   144 FT8 2021-05-05 2056 G4APJ         +02 IO83             EI8KN         -05 IO62
+END-OF-LOG:

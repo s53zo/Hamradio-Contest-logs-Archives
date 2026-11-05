@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G1VNB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92GL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=240711&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3663; excluded rows=2.
+QSO:    50 PH 2024-07-11 1904 G1VNB         59 1 IO92GL          G4CLA         59 10 IO92JL
+QSO:    50 PH 2024-07-11 1923 G1VNB         58 2 IO92GL          G6HPR/P       55 17 IO92MO
+QSO:    50 PH 2024-07-11 1928 G1VNB         59 3 IO92GL          G3TBK/P       59 30 IO93RA
+QSO:    50 PH 2024-07-11 1930 G1VNB         57 4 IO92GL          G4GVC         59 6 IO92HN
+QSO:    50 PH 2024-07-11 1949 G1VNB         59 5 IO92GL          G3OVH         59 17 IO92JP
+END-OF-LOG:

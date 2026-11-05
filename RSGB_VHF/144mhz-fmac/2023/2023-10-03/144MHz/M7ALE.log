@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M7ALE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93NR
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=231003&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=672; excluded rows=0.
+QSO:   144 FM 2023-10-03 1803 M7ALE         59 1 IO93NR          G4FZN/P       59 3 IO94JF
+QSO:   144 FM 2023-10-03 1810 M7ALE         57 2 IO93NR          G8ZRE         56 9 IO83NE
+QSO:   144 FM 2023-10-03 1815 M7ALE         53 3 IO93NR          GW8ASD        59 9 IO83LB
+QSO:   144 FM 2023-10-03 1823 M7ALE         59 4 IO93NR          G0EAK/P       59 1 IO93NI
+QSO:   144 FM 2023-10-03 1830 M7ALE         57 5 IO93NR          M0KYB/P       57 33 IO91FN
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G4EPA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92KI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1085; excluded rows=0.
+QSO:   432 PH 2023-05-07 1030 G4EPA         55 1 IO92KI          OR6T          59 219 JO20KV
+QSO:   432 PH 2023-05-07 1134 G4EPA         59 2 IO92KI          G0XDI         59 90 IO91RQ
+QSO:   432 PH 2023-05-07 1141 G4EPA         57 3 IO92KI          GM3SEK        54 24 IO74SR
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: 2E0RNN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92AN
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 PH 2021-02-07 1021 2E0RNN        59 1 IO92AN          G8EKG         59 15 IO92ES
+QSO:   432 PH 2021-02-07 1029 2E0RNN        59 2 IO92AN          G8DOH         59 33 IO92FA
+QSO:   432 PH 2021-02-07 1143 2E0RNN        59 3 IO92AN          G4GSB         59 7 IO82XM
+END-OF-LOG:

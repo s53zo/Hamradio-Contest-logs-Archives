@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: F4VRB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IN98PT
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=160308&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6460; excluded rows=2.
+QSO:   432 CW 2016-03-08 2030 F4VRB         539 1 IN98PT         G4BRK         529 14 IO91HP
+QSO:   432 CW 2016-03-08 2034 F4VRB         539 2 IN98PT         G3MEH         52 31 IO91QS
+QSO:   432 PH 2016-03-08 2102 F4VRB         53 3 IN98PT          M0GHZ         53 59 IO81VK
+QSO:   432 PH 2016-03-08 2105 F4VRB         53 4 IN98PT          G4CLA         53 104 IO92JL
+QSO:   432 PH 2016-03-08 2108 F4VRB         53 5 IN98PT          G3XDY         55 32 JO02OB
+QSO:   432 PH 2016-03-08 2202 F4VRB         53 6 IN98PT          G6DOD/P       52 43 IO90JO
+QSO:   432 CW 2016-03-08 2216 F4VRB         529 7 IN98PT         G4LOH         529 1 IO70JC
+QSO:   432 CW 2016-03-08 2229 F4VRB         519 8 IN98PT         M1MHZ         51 93 IO92WV
+END-OF-LOG:

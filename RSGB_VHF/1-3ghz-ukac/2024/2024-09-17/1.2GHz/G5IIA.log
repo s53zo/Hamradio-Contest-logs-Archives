@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G5IIA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO92MG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=240917&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3084; excluded rows=1.
+QSO:  1.2G PH 2024-09-17 2054 G5IIA         59 1 IO92MG          G4HWA         59 58 IO92ME
+QSO:  1.2G CW 2024-09-17 2102 G5IIA         599 2 IO92MG         G4CZB/P       599 21 IO92LH
+QSO:  1.2G PH 2024-09-17 2110 G5IIA         59 3 IO92MG          G4FEV         59 36 IO92RG
+QSO:  1.2G PH 2024-09-17 2119 G5IIA         52 4 IO92MG          G4CLA         57 109 IO92JL
+QSO:  1.2G PH 2024-09-17 2121 G5IIA         55 5 IO92MG          G8GYX         57 25 IO91VH
+QSO:  1.2G PH 2024-09-17 2122 G5IIA         55 6 IO92MG          G4ZTR         59 64 JO01KW
+QSO:  1.2G PH 2024-09-17 2123 G5IIA         58 7 IO92MG          G3XDY         59 75 JO02OB
+END-OF-LOG:

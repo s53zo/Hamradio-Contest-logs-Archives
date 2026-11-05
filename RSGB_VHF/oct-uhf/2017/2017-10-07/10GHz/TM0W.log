@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: TM0W
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: JN03AA
+CATEGORY: IARULOGS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=371; excluded rows=5.
+QSO:   10G PH 2017-10-07 1719 TM0W          59 1 JN03AA          F1MOZ         59 1 IN93RS
+QSO:   10G PH 2017-10-07 1727 TM0W          59 2 JN03AA          F6DRO         59 2 JN03TJ
+QSO:   10G PH 2017-10-08 0654 TM0W          59 3 JN03AA          F5BUU         59 1 JN03PO
+QSO:   10G PH 2017-10-08 0709 TM0W          59 4 JN03AA          F5KDK/P       59 5 JN23SI
+QSO:   10G PH 2017-10-08 1203 TM0W          59 5 JN03AA          F6DPH/P       59 5 IN95WE
+QSO:   10G PH 2017-10-08 1230 TM0W          55 6 JN03AA          F6CXO         55 3 JN03SL
+END-OF-LOG:

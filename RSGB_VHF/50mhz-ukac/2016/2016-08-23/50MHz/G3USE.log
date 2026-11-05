@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80JT
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160823&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7264; excluded rows=9.
+QSO:    50 PH 2016-08-23 1915 G3USE         59 1 IO80JT          G8BCG         59 19 IO70RK
+QSO:    50 PH 2016-08-23 1916 G3USE         59 2 IO80JT          G4CLA         57 22 IO92JL
+QSO:    50 PH 2016-08-23 1922 G3USE         59 3 IO80JT          M0VXX/P       59 31 IO82QL
+QSO:    50 PH 2016-08-23 1925 G3USE         55 4 IO80JT          G3WIR/A       55 26 IO91PK
+QSO:    50 PH 2016-08-23 1928 G3USE         55 5 IO80JT          G8XVJ/P       55 38 IO93AD
+QSO:    50 PH 2016-08-23 1932 G3USE         55 6 IO80JT          GI4SNA        55 36 IO64XM
+QSO:    50 PH 2016-08-23 1934 G3USE         55 7 IO80JT          M0CTP         55 49 IO93QV
+QSO:    50 PH 2016-08-23 1937 G3USE         57 8 IO80JT          G3TBK/P       56 52 IO93RA
+QSO:    50 PH 2016-08-23 1939 G3USE         55 9 IO80JT          G4FKA         54 24 IO81SM
+QSO:    50 PH 2016-08-23 1940 G3USE         59 10 IO80JT         2E0KVJ/P      59 16 IO80JR
+QSO:    50 PH 2016-08-23 1946 G3USE         55 11 IO80JT         GB5CRC        54 3 IO81WK
+QSO:    50 PH 2016-08-23 1948 G3USE         55 12 IO80JT         M0SAT         53 43 IO91TP
+QSO:    50 CW 2016-08-23 1953 G3USE         579 13 IO80JT        GW3TKH        559 10 IO81JN
+QSO:    50 PH 2016-08-23 2000 G3USE         55 14 IO80JT         M0NKR         54 25 JO02HK
+QSO:    50 PH 2016-08-23 2004 G3USE         58 15 IO80JT         G0PEB/P       59 55 IO90JO
+END-OF-LOG:

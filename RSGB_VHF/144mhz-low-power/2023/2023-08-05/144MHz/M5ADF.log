@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: M5ADF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93ID
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2773; excluded rows=0.
+QSO:   144 PH 2023-08-05 1403 M5ADF         59 1 IO93ID NG       G3TBK/P       59 3 IO93RA NG
+QSO:   144 PH 2023-08-05 1411 M5ADF         57 2 IO93ID NG       M5DWI/P       55 9 IO93FL SD
+QSO:   144 PH 2023-08-05 1419 M5ADF         59 3 IO93ID NG       G0EAK/P       59 13 IO93NI DN
+QSO:   144 PH 2023-08-05 1424 M5ADF         57 4 IO93ID NG       G4GFI/P       52 16 IO93AB ST
+QSO:   144 PH 2023-08-05 1451 M5ADF         59 5 IO93ID NG       2E0IGD/P      55 20 IO93JH NG
+QSO:   144 PH 2023-08-05 1622 M5ADF         59 6 IO93ID NG       G1HLT         55 32 IO93JD NG
+QSO:   144 PH 2023-08-05 1733 M5ADF         58 7 IO93ID NG       G5TO          54 39 IO93GG SD
+QSO:   144 PH 2023-08-05 1748 M5ADF         59 8 IO93ID NG       M0ICK/P       55 92 IO83RO BL
+END-OF-LOG:

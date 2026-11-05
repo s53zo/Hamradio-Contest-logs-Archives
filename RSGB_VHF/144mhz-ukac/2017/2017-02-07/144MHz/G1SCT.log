@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G1SCT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92XT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170207&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11266; excluded rows=3.
+QSO:   144 PH 2017-02-07 2011 G1SCT         59 1 IO92XT          M1MHZ         59 12 IO92WV
+QSO:   144 PH 2017-02-07 2014 G1SCT         59 2 IO92XT          M0CGL         59 17 JO03BF
+QSO:   144 PH 2017-02-07 2015 G1SCT         59 3 IO92XT          M0MDY         59 19 IO93HH
+QSO:   144 PH 2017-02-07 2020 G1SCT         55 4 IO92XT          G4CLA         59 51 IO92JL
+QSO:   144 PH 2017-02-07 2029 G1SCT         55 5 IO92XT          G3SQQ         55 22 IO93JC
+QSO:   144 PH 2017-02-07 2031 G1SCT         55 6 IO92XT          G0EAK/P       58 31 IO93NI
+QSO:   144 PH 2017-02-07 2049 G1SCT         55 7 IO92XT          G8PNN/P       55 41 IO95AF
+QSO:   144 PH 2017-02-07 2054 G1SCT         57 8 IO92XT          G3PYE/P       59 64 JO02CE
+QSO:   144 PH 2017-02-07 2103 G1SCT         57 9 IO92XT          G4RRA         57 52 IO80BS
+END-OF-LOG:

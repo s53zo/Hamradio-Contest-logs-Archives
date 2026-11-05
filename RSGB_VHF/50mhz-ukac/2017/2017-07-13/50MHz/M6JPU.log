@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M6JPU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93KH
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170713&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5439; excluded rows=2.
+QSO:    50 PH 2017-07-13 1907 M6JPU         59 1 IO93KH          2E1SKY        57 4 IO93KH
+QSO:    50 PH 2017-07-13 1923 M6JPU         57 2 IO93KH          G3VCA         57 20 IO93MG
+QSO:    50 PH 2017-07-13 1933 M6JPU         57 3 IO93KH          G3RCW         57 8 IO93KH
+QSO:    50 PH 2017-07-13 1939 M6JPU         57 4 IO93KH          G0EAK/P       58 33 IO93NI
+END-OF-LOG:

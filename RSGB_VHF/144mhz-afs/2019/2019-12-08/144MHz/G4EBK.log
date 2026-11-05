@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G4EBK
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93WN
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6102; excluded rows=2.
+QSO:   144 PH 2019-12-08 1003 G4EBK         55 1 IO93WN          G4ODA         59 4 IO92WS
+QSO:   144 PH 2019-12-08 1009 G4EBK         59 2 IO93WN          G3TBK/P       59 9 IO93RA
+QSO:   144 PH 2019-12-08 1017 G4EBK         55 3 IO93WN          M0UDA/P       53 13 IO91RU
+QSO:   144 PH 2019-12-08 1027 G4EBK         57 4 IO93WN          G5LK          54 35 IO91SG
+QSO:   144 PH 2019-12-08 1028 G4EBK         57 5 IO93WN          G0EAK/P       59 22 IO93NI
+QSO:   144 PH 2019-12-08 1037 G4EBK         55 6 IO93WN          G4HVC         52 24 IO93QA
+QSO:   144 PH 2019-12-08 1056 G4EBK         59 7 IO93WN          M0YDB/P       59 19 JO03AI
+QSO:   144 PH 2019-12-08 1150 G4EBK         55 8 IO93WN          G6ZXN/P       55 46 IO80UU
+QSO:   144 PH 2019-12-08 1155 G4EBK         59 9 IO93WN          G4BWP         59 78 JO02FH
+QSO:   144 PH 2019-12-08 1157 G4EBK         57 10 IO93WN         M1BXF         55 67 JO02FE
+QSO:   144 CW 2019-12-08 1408 G4EBK         599 11 IO93WN        M0BAA         579 135 JO01KJ
+QSO:   144 PH 2019-12-08 1415 G4EBK         59 12 IO93WN         M1MHZ         59 88 IO92WV
+QSO:   144 PH 2019-12-08 1432 G4EBK         55 13 IO93WN         G1PPA         55 57 IO93OJ
+END-OF-LOG:

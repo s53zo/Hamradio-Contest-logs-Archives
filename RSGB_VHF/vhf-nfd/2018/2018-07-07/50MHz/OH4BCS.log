@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: OH4BCS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: KP31AA
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3223; excluded rows=8.
+QSO:    50 PH 2018-07-07 1413 OH4BCS        59 1 KP31AA          G8LED/P       59 5 IO92LE
+QSO:    50 PH 2018-07-07 1415 OH4BCS        59 2 KP31AA          G4BRA/P       59 6 IO80ST
+QSO:    50 PH 2018-07-07 1417 OH4BCS        59 3 KP31AA          G2BQY/P       59 18 IO81RF
+QSO:    50 PH 2018-07-07 1422 OH4BCS        59 4 KP31AA          GM3HAM/P      59 11 IO74WV
+QSO:    50 PH 2018-07-07 1430 OH4BCS        59 5 KP31AA          EI9E/P        59 27 IO62OM
+END-OF-LOG:

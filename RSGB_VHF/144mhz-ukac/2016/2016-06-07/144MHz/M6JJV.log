@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M6JJV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81SQ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160607&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11226; excluded rows=6.
+QSO:   144 PH 2016-06-07 1900 M6JJV         55 1 IO81SQ          G6DOD         53 1 IO90JO
+QSO:   144 PH 2016-06-07 1903 M6JJV         56 2 IO81SQ          2E0NEY        55 4 IO81VK
+QSO:   144 PH 2016-06-07 1905 M6JJV         59 3 IO81SQ          M0WLF         55 4 IO81QJ
+QSO:   144 PH 2016-06-07 1910 M6JJV         58 4 IO81SQ          GW7LAS        58 9 IO81GV
+QSO:   144 PH 2016-06-07 1914 M6JJV         55 5 IO81SQ          G4JQN         52 5 IO81VG
+QSO:   144 PH 2016-06-07 1915 M6JJV         59 6 IO81SQ          G0HEL/P       59 15 IO81WG
+QSO:   144 PH 2016-06-07 1922 M6JJV         58 7 IO81SQ          G1YBB/P       58 23 IO82LB
+QSO:   144 PH 2016-06-07 1928 M6JJV         58 8 IO81SQ          G7HYS/P       59 9 IO81PH
+QSO:   144 PH 2016-06-07 1930 M6JJV         57 9 IO81SQ          G5BBL/P       56 23 IO81UC
+QSO:   144 PH 2016-06-07 1932 M6JJV         51 10 IO81SQ         2E0IEI/P      52 19 IO81XW
+QSO:   144 PH 2016-06-07 1947 M6JJV         51 11 IO81SQ         G4LDL         55 40 IO91DM
+QSO:   144 PH 2016-06-07 1955 M6JJV         51 12 IO81SQ         2E0LDZ        53 40 IO91MP
+END-OF-LOG:

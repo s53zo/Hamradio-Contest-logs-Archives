@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: GI0VGV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO64
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210804&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1357; excluded rows=0.
+QSO:   144 FT8 2021-08-04 1912 GI0VGV        +19 IO64             MW1DDD        +26 IO73
+QSO:   144 FT8 2021-08-04 1915 GI0VGV        -08 IO64             G3WAG/P       -13 IO82
+QSO:   144 FT8 2021-08-04 1918 GI0VGV        -06 IO64             G3YKI         -12 IO82
+QSO:   144 FT8 2021-08-04 1921 GI0VGV        +01 IO64             GM8IEM        -10 IO78
+QSO:   144 FT8 2021-08-04 1929 GI0VGV        -10 IO64             GM8MJV        -10 IO85
+QSO:   144 FT8 2021-08-04 1947 GI0VGV        -21 IO64             G0XBU         -04 IO83
+QSO:   144 FT8 2021-08-04 1951 GI0VGV        -12 IO64             G4NBS         -20 JO02
+QSO:   144 FT8 2021-08-04 1957 GI0VGV        -06 IO64             MI0CLP        +10 IO64
+QSO:   144 FT8 2021-08-04 2029 GI0VGV        -15 IO64             G4ANS         -17 IO82
+QSO:   144 FT8 2021-08-04 2039 GI0VGV        -13 IO64             G3YKI         -12 IO82
+QSO:   144 FT8 2021-08-04 2057 GI0VGV        +09 IO64             GI4SJQ        +01 IO64
+END-OF-LOG:

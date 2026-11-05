@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4LHT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91SN
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=161108&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5632; excluded rows=1.
+QSO:   432 PH 2016-11-08 2140 G4LHT         59 1 IO91SN          M0SAT         59 27 IO91TP
+QSO:   432 PH 2016-11-08 2141 G4LHT         59 2 IO91SN          G7LRQ         59 61 IO91TQ
+QSO:   432 PH 2016-11-08 2143 G4LHT         59 3 IO91SN          G8FUO         57 56 IO91QL
+QSO:   432 PH 2016-11-08 2146 G4LHT         55 4 IO91SN          M0NVS         59 24 IO91SR
+QSO:   432 PH 2016-11-08 2204 G4LHT         59 5 IO91SN          G4GFI         59 41 IO91VH
+QSO:   432 PH 2016-11-08 2205 G4LHT         55 6 IO91SN          M0ICR         57 30 IO91SO
+QSO:   432 PH 2016-11-08 2206 G4LHT         59 7 IO91SN          G8LZE         59 29 IO91SO
+QSO:   432 PH 2016-11-08 2214 G4LHT         59 8 IO91SN          G1DFL         57 41 IO91NL
+QSO:   432 PH 2016-11-08 2220 G4LHT         55 9 IO91SN          G0GJV         55 33 IO91OK
+QSO:   432 PH 2016-11-08 2222 G4LHT         55 10 IO91SN         G0GQT         57 45 JO01GJ
+END-OF-LOG:

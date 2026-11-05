@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G4LDR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91EC
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=157; excluded rows=0.
+QSO:  2.3G PH 2017-05-06 1753 G4LDR         56 1 IO91EC          G8OHM         55 5 IO92AJ
+QSO:  2.3G PH 2017-05-06 1926 G4LDR         53 2 IO91EC          G4KCT         55 5 IO93LW
+QSO:  2.3G PH 2017-05-06 2032 G4LDR         59 3 IO91EC          G8NEY         59 1 IO81VK
+QSO:  2.3G PH 2017-05-06 2042 G4LDR         55 4 IO91EC          DF0MU         55 21 JO32PC
+QSO:  2.3G PH 2017-05-07 0907 G4LDR         55 5 IO91EC          G4ALY         56 1 IO70VL
+QSO:  2.3G PH 2017-05-07 1008 G4LDR         59 6 IO91EC          G4BRK         59 4 IO91HP
+QSO:  2.3G CW 2017-05-07 1039 G4LDR         555 7 IO91EC         G2XDY         555 20 JO02OB
+QSO:  2.3G PH 2017-05-07 1057 G4LDR         59 8 IO91EC          M0HNA/P       59 10 IO91RF
+QSO:  2.3G PH 2017-05-07 1256 G4LDR         52 9 IO91EC          G3WJG         55 6 IO91RP
+QSO:  2.3G PH 2017-05-07 1307 G4LDR         56 10 IO91EC         G2L           55 13 IO92XA
+QSO:  2.3G PH 2017-05-07 1319 G4LDR         54 11 IO91EC         G2B           55 11 IO92WS
+QSO:  2.3G PH 2017-05-07 1334 G4LDR         54 12 IO91EC         G3UKV         55 2 IO82RR
+END-OF-LOG:

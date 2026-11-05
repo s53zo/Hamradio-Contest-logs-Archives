@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G6GVI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO83SN
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=231024&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=534; excluded rows=0.
+QSO:  2.3G PH 2023-10-24 1834 G6GVI         58 1 IO83SN          G0JSB/P       59 2 IO83PG
+QSO:  2.3G PH 2023-10-24 1836 G6GVI         59 2 IO83SN          G4AQB         59 2 IO83TN
+QSO:  2.3G PH 2023-10-24 1851 G6GVI         59 3 IO83SN          G4JLG/P       59 6 IO83RO
+QSO:  2.3G PH 2023-10-24 2015 G6GVI         53 4 IO83SN          G8XVJ         55 11 IO83QK
+QSO:  2.3G PH 2023-10-24 2020 G6GVI         55 5 IO83SN          G4NTY         55 12 IO83TM
+QSO:  2.3G PH 2023-10-24 2100 G6GVI         53 6 IO83SN          G8CUL         53 31 IO91JO
+QSO:  2.3G PH 2023-10-24 2125 G6GVI         55 7 IO83SN          G7LRQ         53 21 IO91TQ
+END-OF-LOG:

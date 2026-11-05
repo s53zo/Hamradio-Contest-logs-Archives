@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M6OXO
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83KI
+CATEGORY: 10V
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FMAC&Date=180612&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=195; excluded rows=1.
+QSO:   432 FM 2018-06-12 1800 M6OXO         59 1 IO83KI          M6OOY         59 1 IO83LI
+QSO:   432 FM 2018-06-12 1832 M6OXO         59 2 IO83KI          GW3ATZ        59 3 IO83LE
+QSO:   432 FM 2018-06-12 1852 M6OXO         55 3 IO83KI          2E0VMD/P      57 13 IO93AK
+QSO:   432 FM 2018-06-12 1856 M6OXO         54 4 IO83KI          GW8ASD        54 10 IO83LB
+QSO:   432 FM 2018-06-12 1858 M6OXO         52 5 IO83KI          G0CCT/M       54 1 IO73XH
+END-OF-LOG:

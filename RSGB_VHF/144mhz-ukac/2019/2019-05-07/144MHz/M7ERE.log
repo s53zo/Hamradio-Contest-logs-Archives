@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M7ERE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92OB
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190507&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12041; excluded rows=5.
+QSO:   144 PH 2019-05-07 1907 M7ERE         59 1 IO92OB          G1MZD/P       59 10 IO92NC
+QSO:   144 PH 2019-05-07 1912 M7ERE         59 2 IO92OB          M0NVS/P       58 14 IO91RU
+QSO:   144 PH 2019-05-07 1940 M7ERE         59 3 IO92OB          G4FVZ         59 35 IO91OW
+QSO:   144 PH 2019-05-07 1955 M7ERE         31 4 IO92OB          M7ALX         42 3 IO92NF
+QSO:   144 PH 2019-05-07 2000 M7ERE         57 5 IO92OB          G6GEI/P       57 45 IO92RA
+QSO:   144 PH 2019-05-07 2027 M7ERE         55 6 IO92OB          G4RGK/P       55 35 IO91NQ
+QSO:   144 PH 2019-05-07 2052 M7ERE         58 7 IO92OB          G4FEV         58 54 IO92RG
+END-OF-LOG:

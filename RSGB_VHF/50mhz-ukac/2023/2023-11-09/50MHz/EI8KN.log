@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: EI8KN
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO62IE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=231109&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3049; excluded rows=0.
+QSO:    50 PH 2023-11-09 2000 EI8KN         51 1 IO62IE          G4CLA         59 2 IO92JL
+QSO:    50 PH 2023-11-09 2003 EI8KN         51 2 IO62IE          M1MHZ         55 1 IO92WV
+QSO:    50 PH 2023-11-09 2024 EI8KN         52 3 IO62IE          2E0OUT        55 11 IO81WO
+QSO:    50 PH 2023-11-09 2027 EI8KN         57 4 IO62IE          GW0RHC        57 8 IO71UN
+QSO:    50 PH 2023-11-09 2037 EI8KN         51 5 IO62IE          G4ASR         54 37 IO81MX
+QSO:    50 PH 2023-11-09 2055 EI8KN         51 6 IO62IE          GW0GEI        55 16 IO72VE
+QSO:    50 CW 2023-11-09 2124 EI8KN         519 7 IO62IE         G3TKF         339 25 IO81RI
+QSO:    50 PH 2023-11-09 2131 EI8KN         51 8 IO62IE          G0CDA         55 23 IO83SJ
+QSO:    50 PH 2023-11-09 2136 EI8KN         51 9 IO62IE          G3TCT         52 36 IO81QC
+QSO:    50 PH 2023-11-09 2141 EI8KN         54 10 IO62IE         GI4SNA        51 59 IO64XM
+QSO:    50 PH 2023-11-09 2148 EI8KN         51 11 IO62IE         GD8EXI        53 22 IO74PC
+END-OF-LOG:

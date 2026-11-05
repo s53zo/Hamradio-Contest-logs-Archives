@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MI0SMK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO64XL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160301&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10593; excluded rows=4.
+QSO:   144 PH 2016-03-01 2006 MI0SMK        57 1 IO64XL          G0EAK/P       57 10 IO93NI
+QSO:   144 PH 2016-03-01 2024 MI0SMK        57 2 IO64XL          GM3SEK        57 18 IO74SR
+QSO:   144 PH 2016-03-01 2034 MI0SMK        55 3 IO64XL          GM4JR         55 19 IO85FB
+QSO:   144 PH 2016-03-01 2045 MI0SMK        59 4 IO64XL          G3VCA         56 34 IO93MG
+QSO:   144 PH 2016-03-01 2051 MI0SMK        57 5 IO64XL          M0PNN         57 27 IO82TS
+QSO:   144 PH 2016-03-01 2056 MI0SMK        55 6 IO64XL          M6KTP/P       55 24 IO93EK
+QSO:   144 PH 2016-03-01 2059 MI0SMK        59 7 IO64XL          GI6ATZ        59 31 IO74AJ
+QSO:   144 PH 2016-03-01 2109 MI0SMK        55 8 IO64XL          GM4GUF        56 8 IO85EP
+QSO:   144 PH 2016-03-01 2114 MI0SMK        55 9 IO64XL          G0EHV/P       57 26 IO84XT
+QSO:   144 PH 2016-03-01 2125 MI0SMK        55 10 IO64XL         G4IRC         55 53 JO02OD
+QSO:   144 PH 2016-03-01 2139 MI0SMK        59 11 IO64XL         MI1ERL        59 2 IO74AL
+QSO:   144 PH 2016-03-01 2150 MI0SMK        59 12 IO64XL         M1MHZ         59 89 IO92WV
+QSO:   144 PH 2016-03-01 2154 MI0SMK        55 13 IO64XL         M0GAV/P       55 95 IO93EH
+QSO:   144 PH 2016-03-01 2202 MI0SMK        57 14 IO64XL         G8XVJ/P       57 145 IO93AD
+QSO:   144 PH 2016-03-01 2222 MI0SMK        59 15 IO64XL         GI4SNA        59 116 IO64XM
+QSO:   144 PH 2016-03-01 2225 MI0SMK        55 16 IO64XL         M0DXR/P       55 182 JO01DH
+END-OF-LOG:

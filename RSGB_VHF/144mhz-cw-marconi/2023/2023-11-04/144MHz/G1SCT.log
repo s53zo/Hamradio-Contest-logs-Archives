@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G1SCT
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92XT
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=875; excluded rows=0.
+QSO:   144 CW 2023-11-04 1629 G1SCT         599 1 IO92XT         F6DWP/P       599 93 JN19BQ
+QSO:   144 CW 2023-11-04 1636 G1SCT         599 2 IO92XT         TM7M          599 45 JO10HE
+QSO:   144 CW 2023-11-04 1707 G1SCT         599 3 IO92XT         DK3QZ         599 77 JO31LP
+QSO:   144 CW 2023-11-04 2022 G1SCT         599 4 IO92XT         G3XDY         599 38 JO02OB
+QSO:   144 CW 2023-11-04 2043 G1SCT         599 5 IO92XT         G2N           599 42 JO02SS
+QSO:   144 CW 2023-11-04 2103 G1SCT         599 6 IO92XT         M0PNN         599 10 IO82TS
+QSO:   144 CW 2023-11-05 1200 G1SCT         599 7 IO92XT         OM7M          599 163 JO10HE
+QSO:   144 CW 2023-11-05 1205 G1SCT         599 8 IO92XT         PI4MAX        599 181 JO21OJ
+QSO:   144 CW 2023-11-05 1339 G1SCT         599 9 IO92XT         GM4DIJ/P      599 28 IO74MN
+END-OF-LOG:

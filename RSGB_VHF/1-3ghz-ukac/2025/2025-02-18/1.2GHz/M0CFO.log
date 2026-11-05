@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: M0CFO
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO90XT
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=250218&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2460; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  1.2G PH 2025-02-18 2012 M0CFO         59 2 IO90XT          M0ABT         59 2 JO00AS
+QSO:  1.2G PH 2025-02-18 2014 M0CFO         57 3 IO90XT          GU3TUX        57 1 IN89VR
+QSO:  1.2G PH 2025-02-18 2020 M0CFO         55 4 IO90XT          F4HRD         55 5 JO00XX
+QSO:  1.2G PH 2025-02-18 2032 M0CFO         59 5 IO90XT          G8CUL         57 19 IO91JO
+QSO:  1.2G PH 2025-02-18 2036 M0CFO         59 6 IO90XT          F1MKG         59 20 JN08KQ
+QSO:  1.2G PH 2025-02-18 2042 M0CFO         57 7 IO90XT          G4FEV         59 22 IO92RG
+QSO:  1.2G PH 2025-02-18 2050 M0CFO         53 8 IO90XT          G4GFI         52 17 IO91VH
+END-OF-LOG:

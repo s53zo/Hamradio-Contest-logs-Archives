@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: 2E0SNB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210407&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1825; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   144 FT8 2021-04-07 1901 2E0SNB        -14 IO91             G8BCG         -01 IO70
+QSO:   144 FT8 2021-04-07 1903 2E0SNB        -08 IO91             G4RRA         +01 IO80
+QSO:   144 FT8 2021-04-07 1905 2E0SNB        -06 IO91             G3WAG         -12 IO82
+QSO:   144 FT8 2021-04-07 1910 2E0SNB        -08 IO91             GU6EFB        -07 IN89
+QSO:   144 FT8 2021-04-07 1917 2E0SNB        -21 IO91             GW6TEO        -18 IO71
+QSO:   144 FT8 2021-04-07 1931 2E0SNB        -18 IO91             G7LRQ         -13 IO91
+QSO:   144 FT8 2021-04-07 1935 2E0SNB        -11 IO91             G0MBL         -04 JO01
+QSO:   144 FT8 2021-04-07 1953 2E0SNB        +06 IO91             2E0GTD        +37 IO91
+QSO:   144 FT8 2021-04-07 2001 2E0SNB        -20 IO91             G0BIX         -12 JO01
+QSO:   144 FT8 2021-04-07 2007 2E0SNB        +03 IO91             M0WYB         +06 IO81
+QSO:   144 FT8 2021-04-07 2009 2E0SNB        -12 IO91             G0TKZ         -05 JO01
+QSO:   144 FT8 2021-04-07 2011 2E0SNB        -12 IO91             G7WIR         -13 JO01
+QSO:   144 FT8 2021-04-07 2014 2E0SNB        -16 IO91             M0CKM         -03 IO90
+QSO:   144 FT8 2021-04-07 2052 2E0SNB        -17 IO91             EI2FG         -08 IO61
+QSO:   144 FT8 2021-04-07 2058 2E0SNB        -14 IO91             M0BKV         -19 IO70
+QSO:   144 FT8 2021-04-07 2100 2E0SNB        -20 IO91             EI8KN         -09 IO62
+END-OF-LOG:

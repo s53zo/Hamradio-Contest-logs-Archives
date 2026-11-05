@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G4PDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93VH
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3124; excluded rows=4.
+QSO:    50 PH 2017-10-22 1206 G4PDF         59 1 IO93VH LN       M1MHZ         59 73 IO92WV PE
+QSO:    50 PH 2017-10-22 1215 G4PDF         55 2 IO93VH LN       G3TBK/P       56 63 IO93RA NG
+QSO:    50 PH 2017-10-22 1224 G4PDF         53 3 IO93VH LN       M0GAV         53 45 IO93GK SD
+QSO:    50 PH 2017-10-22 1230 G4PDF         57 4 IO93VH LN       G0EAK/P       59 56 IO93NI DN
+QSO:    50 PH 2017-10-22 1238 G4PDF         55 5 IO93VH LN       M0NFD/P       55 73 IO94JF YO
+QSO:    50 PH 2017-10-22 1241 G4PDF         55 6 IO93VH LN       M6OME/P       52 24 IO94NJ DN
+QSO:    50 PH 2017-10-22 1243 G4PDF         57 7 IO93VH LN       G3PYE/P       57 69 JO02CE CB
+END-OF-LOG:

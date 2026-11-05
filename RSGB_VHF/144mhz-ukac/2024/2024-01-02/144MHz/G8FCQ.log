@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8FCQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92KO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=240102&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6406; excluded rows=1.
+QSO:   144 PH 2024-01-02 2001 G8FCQ         55 1 IO92KO          G6AD          59 2 IO92GL
+QSO:   144 PH 2024-01-02 2002 G8FCQ         55 2 IO92KO          M1MLM/P       59 2 IO93AD
+QSO:   144 PH 2024-01-02 2003 G8FCQ         55 3 IO92KO          G8SEI         59 3 IO92FO
+QSO:   144 PH 2024-01-02 2004 G8FCQ         59 4 IO92KO          G4HWA         59 6 IO92ME
+QSO:   144 PH 2024-01-02 2004 G8FCQ         59 5 IO92KO          G4EPA         59 5 IO92KI
+QSO:   144 PH 2024-01-02 2006 G8FCQ         55 6 IO92KO          G0FEH/P       59 9 IO92HD
+QSO:   144 PH 2024-01-02 2009 G8FCQ         59 7 IO92KO          G0LTG/P       59 12 IO81RF
+QSO:   144 PH 2024-01-02 2010 G8FCQ         55 8 IO92KO          G0SKA         59 17 IO91OQ
+QSO:   144 PH 2024-01-02 2015 G8FCQ         55 9 IO92KO          G4ASR/P       55 27 IO81MW
+QSO:   144 PH 2024-01-02 2016 G8FCQ         55 10 IO92KO         GW4SHF        55 18 IO82HP
+QSO:   144 PH 2024-01-02 2019 G8FCQ         59 11 IO92KO         G8EKG         59 20 IO92ES
+QSO:   144 PH 2024-01-02 2021 G8FCQ         59 12 IO92KO         G6HPR/P       59 11 IO92MO
+QSO:   144 PH 2024-01-02 2024 G8FCQ         59 13 IO92KO         G4ODA         59 17 IO92WS
+QSO:   144 PH 2024-01-02 2025 G8FCQ         59 14 IO92KO         2E0SBM/P      59 15 IO92IQ
+QSO:   144 PH 2024-01-02 2029 G8FCQ         55 15 IO92KO         GM3SEK        59 22 IO74SR
+END-OF-LOG:

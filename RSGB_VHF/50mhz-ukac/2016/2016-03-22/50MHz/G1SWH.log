@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G1SWH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83QO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160322&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8160; excluded rows=9.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:    50 PH 2016-03-22 2000 G1SWH         59 1 IO83QO          G2ANC         59 1 IO83RM
+QSO:    50 PH 2016-03-22 2003 G1SWH         59 2 IO83QO          G8HXE/P       59 4 IO83RO
+QSO:    50 PH 2016-03-22 2004 G1SWH         59 3 IO83QO          G8REQ         59 6 IO83NE
+QSO:    50 PH 2016-03-22 2007 G1SWH         59 4 IO83QO          GW8ASD        59 7 IO83LB
+QSO:    50 PH 2016-03-22 2011 G1SWH         59 5 IO83QO          G3SMT         59 6 IO82KV
+QSO:    50 PH 2016-03-22 2013 G1SWH         57 6 IO83QO          G8XVJ         57 21 IO93AD
+QSO:    50 PH 2016-03-22 2021 G1SWH         59 7 IO83QO          G0OXV         58 1 IO83NN
+QSO:    50 PH 2016-03-22 2022 G1SWH         59 8 IO83QO          G4NTY         59 11 IO83TM
+QSO:    50 PH 2016-03-22 2024 G1SWH         59 9 IO83QO          GM4JR         54 10 IO85FB
+QSO:    50 PH 2016-03-22 2034 G1SWH         59 11 IO83QO         G7LRQ/P       53 57 IO91RU
+END-OF-LOG:

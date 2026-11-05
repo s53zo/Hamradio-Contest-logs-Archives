@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: M0TMR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93CR
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8218; excluded rows=5.
+QSO:   144 PH 2022-05-21 1403 M0TMR         58 1 IO93CR BD       M0GAV/P       59 2 IO93FL SD
+QSO:   144 PH 2022-05-21 2003 M0TMR         51 2 IO93CR BD       M0ICK/P       57 139 IO93AD ST
+QSO:   144 PH 2022-05-22 0830 M0TMR         52 3 IO93CR BD       G4G           57 19 IO94JF YO
+QSO:   144 PH 2022-05-22 0912 M0TMR         53 4 IO93CR BD       M5DWI/P       55 29 IO93FL SD
+QSO:   144 PH 2022-05-22 1245 M0TMR         59 5 IO93CR BD       M7STJ/P       59 31 IO93BN HD
+QSO:   144 PH 2022-05-22 1259 M0TMR         56 6 IO93CR BD       G8T           52 457 JO01KJ ME
+QSO:   144 PH 2022-05-22 1327 M0TMR         52 7 IO93CR BD       G0VHF/P       56 385 JO01PU CO
+END-OF-LOG:

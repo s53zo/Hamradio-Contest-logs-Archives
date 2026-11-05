@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4AWP
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02AH
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4465; excluded rows=1.
+QSO:   432 CW 2018-02-04 0923 G4AWP         599 1 JO02AH         G3PYE/P       599 10 JO02CE
+QSO:   432 PH 2018-02-04 0934 G4AWP         59 2 JO02AH          M1BXF         59 10 JO02FE
+QSO:   432 PH 2018-02-04 0936 G4AWP         59 3 JO02AH          G4ERO         59 18 JO02DJ
+QSO:   432 PH 2018-02-04 0939 G4AWP         57 4 JO02AH          G4KIY         57 10 IO92WN
+QSO:   432 PH 2018-02-04 0940 G4AWP         57 5 JO02AH          G4NBS         57 25 JO02AF
+QSO:   432 PH 2018-02-04 1006 G4AWP         59 6 JO02AH          G4ODA         59 60 IO92WS
+QSO:   432 PH 2018-02-04 1015 G4AWP         59 7 JO02AH          G4CWH/P       59 10 IO92XA
+END-OF-LOG:

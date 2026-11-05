@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: GW3TKH
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81JN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=171010&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6887; excluded rows=3.
+QSO:   432 PH 2017-10-10 1904 GW3TKH        59 1 IO81JN          G4ALY         55 1 IO70VL
+QSO:   432 PH 2017-10-10 1907 GW3TKH        59 2 IO81JN          M0GHZ         59 8 IO81VK
+QSO:   432 PH 2017-10-10 1910 GW3TKH        59 3 IO81JN          G4RRA         59 5 IO80BS
+QSO:   432 PH 2017-10-10 1913 GW3TKH        59 4 IO81JN          G7HYS/P       59 9 IO81PH
+QSO:   432 PH 2017-10-10 1917 GW3TKH        59 5 IO81JN          M0BAA/P       57 23 JO01KJ
+QSO:   432 PH 2017-10-10 1925 GW3TKH        55 6 IO81JN          M0WDF         33 16 JO01JK
+QSO:   432 PH 2017-10-10 1933 GW3TKH        57 7 IO81JN          G0HEL/P       58 26 IO81WG
+QSO:   432 CW 2017-10-10 1949 GW3TKH        559 8 IO81JN         G0GRI         559 10 IO81VH
+END-OF-LOG:

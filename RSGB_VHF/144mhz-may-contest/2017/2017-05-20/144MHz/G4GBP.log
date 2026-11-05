@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G4GBP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO90DX
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6302; excluded rows=10.
+QSO:   144 PH 2017-05-21 1316 G4GBP         59 1 IO90DX SP       G8W           59 352 IO90JO PO
+QSO:   144 PH 2017-05-21 1328 G4GBP         59 2 IO90DX SP       M9T           59 97 IO80AQ EX
+QSO:   144 PH 2017-05-21 1330 G4GBP         59 3 IO90DX SP       M4W           57 159 IO91CL SN
+QSO:   144 PH 2017-05-21 1333 G4GBP         59 4 IO90DX SP       G4ALE/P       59 37 IO80BO PL
+QSO:   144 PH 2017-05-21 1334 G4GBP         59 5 IO90DX SP       M0WCO         58 295 JO00EW TN
+QSO:   144 PH 2017-05-21 1339 G4GBP         56 6 IO90DX SP       G0VHF/P       53 451 JO01PU CO
+QSO:   144 PH 2017-05-21 1351 G4GBP         57 7 IO90DX SP       M0HQY/P       57 63 JO01KQ CM
+QSO:   144 PH 2017-05-21 1355 G4GBP         59 8 IO90DX SP       G3M           55 467 JO01QD CT
+QSO:   144 PH 2017-05-21 1359 G4GBP         57 9 IO90DX SP       G4NBS         55 100 JO02AF CB
+END-OF-LOG:

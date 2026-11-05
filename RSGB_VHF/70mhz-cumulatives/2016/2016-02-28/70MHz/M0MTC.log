@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: M0MTC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83KJ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=160228&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=667; excluded rows=1.
+QSO:    70 PH 2016-02-28 1119 M0MTC         59 1 IO83KJ          G8REQ         59 17 IO83KI
+QSO:    70 PH 2016-02-28 1122 M0MTC         59 2 IO83KJ          GW8ASD        59 25 IO83LB
+QSO:    70 PH 2016-02-28 1123 M0MTC         55 3 IO83KJ          G4ASR         57 48 IO81MX
+QSO:    70 PH 2016-02-28 1126 M0MTC         57 4 IO83KJ          G1SWH         57 10 IO83QO
+QSO:    70 PH 2016-02-28 1129 M0MTC         55 5 IO83KJ          G4BWP         53 53 JO02FH
+END-OF-LOG:

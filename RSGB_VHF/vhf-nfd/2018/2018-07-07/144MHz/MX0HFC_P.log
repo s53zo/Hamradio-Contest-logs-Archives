@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: MX0HFC/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93VR
+CATEGORY: L
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9766; excluded rows=11.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (2).
+QSO:   144 PH 2018-07-07 1903 MX0HFC/P      59 1 IO93VR          G0OLE/P       59 113 IO93PX
+QSO:   144 PH 2018-07-07 1912 MX0HFC/P      59 2 IO93VR          G6IPU/P       59 83 JO02QV
+QSO:   144 PH 2018-07-07 1916 MX0HFC/P      59 3 IO93VR          G4ZAP/P       59 252 JO01PU
+QSO:   144 PH 2018-07-08 0821 MX0HFC/P      59 4 IO93VR          M0BAA/P       59 390 JO01KJ
+QSO:   144 PH 2018-07-08 0923 MX0HFC/P      59 5 IO93VR          G3ZME/P       58 199 IO82NN
+QSO:   144 PH 2018-07-08 1015 MX0HFC/P      59 6 IO93VR          GW3ZTT/P      59 201 IO82KW
+QSO:   144 PH 2018-07-08 1052 MX0HFC/P      56 7 IO93VR          EI9E/P        54 287 IO62OM
+QSO:   144 PH 2018-07-08 1133 MX0HFC/P      55 8 IO93VR          G3WKS/P       53 119 JO01ED
+QSO:   144 PH 2018-07-08 1147 MX0HFC/P      56 9 IO93VR          M0NFD/P       54 188 IO94MJ
+QSO:   144 PH 2018-07-08 1202 MX0HFC/P      59 10 IO93VR         G3PYE/P       59 282 JO02CE
+QSO:   144 PH 2018-07-08 1303 MX0HFC/P      59 11 IO93VR         GW3SRT/P      58 215 IO82LQ
+QSO:   144 PH 2018-07-08 1308 MX0HFC/P      59 12 IO93VR         G0SAC/P       57 267 IO91XG
+QSO:   144 PH 2018-07-08 1358 MX0HFC/P      59 15 IO93VR         G4WAW/P       59 130 IO81QJ
+END-OF-LOG:

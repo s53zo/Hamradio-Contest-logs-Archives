@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3KAF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83WI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2003 G3KAF         59 1 IO83WI          G8ZRE         59 6 IO83NE
+QSO:    50 PH 2021-02-11 2005 G3KAF         59 2 IO83WI          GW4ZAR        53 3 IO83KF
+QSO:    50 PH 2021-02-11 2010 G3KAF         56 3 IO83WI          G8REQ         54 7 IO83KI
+QSO:    50 PH 2021-02-11 2014 G3KAF         56 4 IO83WI          G0CDA         55 10 IO83SJ
+QSO:    50 PH 2021-02-11 2016 G3KAF         57 5 IO83WI          M0ICK         57 3 IO83RM
+QSO:    50 CW 2021-02-11 2017 G3KAF         579 6 IO83WI         G8HXE         59 2 IO83TK
+QSO:    50 PH 2021-02-11 2018 G3KAF         56 7 IO83WI          M0XGS         55 3 IO83RM
+QSO:    50 PH 2021-02-11 2033 G3KAF         59 8 IO83WI          G4JLG         58 20 IO83TM
+QSO:    50 PH 2021-02-11 2043 G3KAF         59 9 IO83WI          G0XBU         59 8 IO83UF
+QSO:    50 PH 2021-02-11 2046 G3KAF         57 10 IO83WI         G4CLA         57 69 IO92JL
+QSO:    50 PH 2021-02-11 2050 G3KAF         57 11 IO83WI         G8MIA         55 4 IO92AS
+QSO:    50 PH 2021-02-11 2058 G3KAF         57 12 IO83WI         G3SDY         59 12 IO93DO
+QSO:    50 PH 2021-02-11 2107 G3KAF         57 13 IO83WI         G4ASR         52 71 IO81MX
+QSO:    50 PH 2021-02-11 2205 G3KAF         57 14 IO83WI         M0BEW         59 92 IO82RJ
+QSO:    50 PH 2021-02-11 2208 G3KAF         54 15 IO83WI         G8AQA         54 52 IO82QN
+QSO:    50 CW 2021-02-11 2217 G3KAF         539 16 IO83WI        GW4MBS        539 13 IO71XW
+QSO:    50 CW 2021-02-11 2223 G3KAF         599 17 IO83WI        G4BEE         599 15 IO83RQ
+END-OF-LOG:

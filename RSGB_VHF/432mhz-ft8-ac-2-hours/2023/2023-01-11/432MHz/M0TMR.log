@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: M0TMR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=230111&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=468; excluded rows=0.
+QSO:   432 FT8 2023-01-11 1944 M0TMR         -08 IO93             G0XBU         -10 IO83
+QSO:   432 FT8 2023-01-11 1942 M0TMR         -13 IO93             G4PDF         -18 IO93
+QSO:   432 FT8 2023-01-11 1939 M0TMR         +09 IO93             G0ISX         +14 IO93
+QSO:   432 FT8 2023-01-11 1938 M0TMR         +03 IO93             M0RSF         +00 IO93
+QSO:   432 FT8 2023-01-11 1936 M0TMR         +01 IO93             G8EEM         -02 IO93
+QSO:   432 FT8 2023-01-11 1922 M0TMR         -17 IO93             G0RKT         -19 IO93
+QSO:   432 FT8 2023-01-11 1920 M0TMR         -06 IO93             G4EII         -16 IO83
+QSO:   432 FT8 2023-01-11 1907 M0TMR         -15 IO93             2E0VOE        -13 IO93
+END-OF-LOG:

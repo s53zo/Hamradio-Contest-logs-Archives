@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: PE1EWR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: JO11SL
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1293; excluded rows=0.
+QSO:    70 PH 2024-07-07 0723 PE1EWR        59 1 JO11SL          PA1FZH        59 5 JO11TL
+QSO:    70 PH 2024-07-07 0755 PE1EWR        59 2 JO11SL          PA3HFJ        59 1 JO11VL
+QSO:    70 PH 2024-07-07 0909 PE1EWR        55 3 JO11SL          G0FBB/P       54 28 JO01LD
+QSO:    70 PH 2024-07-07 1257 PE1EWR        52 4 JO11SL          G5LK/P        59 60 JO01QD
+QSO:    70 PH 2024-07-07 1314 PE1EWR        53 5 JO11SL          G8SRC/P       53 76 IO91CL
+END-OF-LOG:

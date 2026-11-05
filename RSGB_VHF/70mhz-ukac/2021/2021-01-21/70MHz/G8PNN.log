@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G8PNN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO95EF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210121&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3279; excluded rows=1.
+QSO:    70 PH 2021-01-21 2000 G8PNN         57 1 IO95EF          GM4JTJ        55 1 IO86RP
+QSO:    70 PH 2021-01-21 2004 G8PNN         59 2 IO95EF          G4OIV         59 1 IO95FE
+QSO:    70 PH 2021-01-21 2007 G8PNN         59 3 IO95EF          G3ZWR         59 1 IO94FX
+QSO:    70 PH 2021-01-21 2020 G8PNN         55 4 IO95EF          G8KPD         55 1 IO95DB
+QSO:    70 PH 2021-01-21 2028 G8PNN         59 5 IO95EF          G8CYW         59 1 IO94CX
+QSO:    70 PH 2021-01-21 2030 G8PNN         59 6 IO95EF          G4KUX         59 21 IO94BP
+QSO:    70 PH 2021-01-21 2032 G8PNN         59 7 IO95EF          G4FZN         59 8 IO94EK
+QSO:    70 PH 2021-01-21 2101 G8PNN         52 8 IO95EF          G8DMU         52 24 IO93FX
+QSO:    70 PH 2021-01-21 2110 G8PNN         51 9 IO95EF          G4KCT         51 9 IO93LW
+QSO:    70 PH 2021-01-21 2117 G8PNN         56 10 IO95EF         G8AOE         56 6 IO94IM
+END-OF-LOG:

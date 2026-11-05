@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4CLA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO92JL
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=251125&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=51; excluded rows=0.
+QSO:   10G PH 2025-11-25 1950 G4CLA         55 1 IO92JL          G4RQI         57 2 IO93IR
+QSO:   10G PH 2025-11-25 2028 G4CLA         59 2 IO92JL          M0GHZ         59 2 IO81VK
+QSO:   10G PH 2025-11-25 2029 G4CLA         59 3 IO92JL          G4ZTR         59 8 JO01KW
+QSO:   10G PH 2025-11-25 2031 G4CLA         57 4 IO92JL          G0WZV         57 4 JO01KV
+QSO:   10G PH 2025-11-25 2042 G4CLA         59 5 IO92JL          G4HWA         59 4 IO92ME
+QSO:   10G PH 2025-11-25 2052 G4CLA         59 6 IO92JL          G8SEI         59 3 IO92FO
+QSO:   10G PH 2025-11-25 2115 G4CLA         59 7 IO92JL          G4LDR         59 2 IO91EC
+QSO:   10G CW 2025-11-25 2122 G4CLA         559 8 IO92JL         G3XDY         559 4 JO02OB
+QSO:   10G PH 2025-11-25 2138 G4CLA         59 9 IO92JL          G4ODA         59 5 IO92WS
+END-OF-LOG:

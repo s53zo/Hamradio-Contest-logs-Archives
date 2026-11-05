@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: MW0OMB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO81HN
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=210314&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=517; excluded rows=0.
+QSO:    70 PH 2021-03-14 1015 MW0OMB        57 1 IO81HN          G4TVR         53 8 IO92CI
+QSO:    70 PH 2021-03-14 1027 MW0OMB        57 2 IO81HN          G0ORG         55 8 JO02LB
+QSO:    70 PH 2021-03-14 1107 MW0OMB        55 3 IO81HN          M5TKA         57 17 IO91OX
+QSO:    70 PH 2021-03-14 1118 MW0OMB        55 4 IO81HN          G8CUL         51 23 IO91JO
+QSO:    70 PH 2021-03-14 1127 MW0OMB        55 5 IO81HN          GW4MBS        53 5 IO71XW
+END-OF-LOG:

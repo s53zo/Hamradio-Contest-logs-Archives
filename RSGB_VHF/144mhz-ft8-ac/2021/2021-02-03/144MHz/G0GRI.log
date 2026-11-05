@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G0GRI
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1911 G0GRI         +12 IO80             M0WEO         +05 IO90
+QSO:   144 FT8 2021-02-03 1911 G0GRI         -14 IO80             M0XTY         -17 JO01
+QSO:   144 FT8 2021-02-03 1919 G0GRI         -16 IO80             G0ORE         -21 IO92
+QSO:   144 FT8 2021-02-03 1920 G0GRI         -14 IO80             G0FVH         -10 IO80
+QSO:   144 FT8 2021-02-03 1925 G0GRI         +01 IO80             G7WIR         -02 JO01
+QSO:   144 FT8 2021-02-03 1930 G0GRI         -12 IO80             G3ZPB         -15 IO91
+QSO:   144 FT8 2021-02-03 1940 G0GRI         -06 IO80             M5AHQ         -10 IO90
+QSO:   144 FT8 2021-02-03 1941 G0GRI         -10 IO80             2E0IEI        -18 IO81
+QSO:   144 FT8 2021-02-03 1943 G0GRI         -15 IO80             M0BKV         -10 IO70
+QSO:   144 FT8 2021-02-03 1945 G0GRI         +12 IO80             G3PFM         -03 IO80
+QSO:   144 FT8 2021-02-03 1955 G0GRI         -13 IO80             G4FFY         -18 JO01
+QSO:   144 FT8 2021-02-03 2017 G0GRI         -16 IO80             GW1MNU        -24 IO71
+QSO:   144 FT8 2021-02-03 2021 G0GRI         -20 IO80             M0WID         -15 IO91
+QSO:   144 FT8 2021-02-03 2024 G0GRI         +02 IO80             G4FUP         -03 IO90
+QSO:   144 FT8 2021-02-03 2027 G0GRI         -04 IO80             M0TZZ         -01 JO01
+QSO:   144 FT8 2021-02-03 2038 G0GRI         -06 IO80             G8EKG         -17 IO92
+QSO:   144 FT8 2021-02-03 2045 G0GRI         -17 IO80             G4RRA         -18 IO80
+QSO:   144 FT8 2021-02-03 2048 G0GRI         -15 IO80             G8TTI         -23 IO81
+END-OF-LOG:

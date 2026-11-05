@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8XST
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80FL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220607&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11893; excluded rows=8.
+QSO:   144 PH 2022-06-07 1903 G8XST         59 1 IO80FL          G3WCB         59 2 IO80EI
+QSO:   144 PH 2022-06-07 1905 G8XST         57 2 IO80FL          G4RUL/P       57 4 JO00DR
+QSO:   144 PH 2022-06-07 1915 G8XST         59 3 IO80FL          G4CST         59 4 IO80FJ
+QSO:   144 PH 2022-06-07 1917 G8XST         59 4 IO80FL          M7NZL         59 4 IO80FK
+QSO:   144 PH 2022-06-07 1935 G8XST         57 5 IO80FL          2E0VCC/P      58 19 IO70SP
+QSO:   144 PH 2022-06-07 1955 G8XST         59 6 IO80FL          M0DXR/P       59 90 JO01DH
+QSO:   144 PH 2022-06-07 2010 G8XST         59 7 IO80FL          G6TEQ         59 9 IO80FL
+END-OF-LOG:

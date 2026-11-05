@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MGM-CONTEST
+CALLSIGN: MM1PTT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=MGM+contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from machine-generated-mode contest context; exact submode unavailable.
+SOAPBOX: Export source rows=1027; excluded rows=0.
+QSO:   144 DG 2021-08-07 1418 MM1PTT        -14 IO75             GM7PKT        -16 IO76
+QSO:   144 DG 2021-08-07 1446 MM1PTT        -19 IO75             GS8VL         -19 IO78
+QSO:   144 DG 2021-08-07 1448 MM1PTT        +15 IO75             MM0CEZ        +13 IO75
+QSO:   144 DG 2021-08-07 1457 MM1PTT        -12 IO75             G4HGI         -14 IO83
+QSO:   144 DG 2021-08-07 1511 MM1PTT        -11 IO75             G8EEM         -02 IO93
+QSO:   144 DG 2021-08-07 1552 MM1PTT        -09 IO75             G8GXP         -10 IO93
+QSO:   144 DG 2021-08-07 1742 MM1PTT        -20 IO75             MI0XZZ        -15 IO74
+QSO:   144 DG 2021-08-07 1801 MM1PTT        +13 IO75             GM8MJV        -02 IO85
+QSO:   144 DG 2021-08-08 0950 MM1PTT        -04 IO75             G4TRA         -02 IO81
+QSO:   144 DG 2021-08-08 1201 MM1PTT        -21 IO75             MM0ABM        -13 IO75
+QSO:   144 DG 2021-08-08 1203 MM1PTT        -17 IO75             GM4FVM        +11 IO85
+QSO:   144 DG 2021-08-08 1208 MM1PTT        -20 IO75             G3PWJ         -14 IO82
+QSO:   144 DG 2021-08-08 1224 MM1PTT        +00 IO75             G6EIH         -12 IO92
+QSO:   144 DG 2021-08-08 1359 MM1PTT        -19 IO75             M1AIX         -08 IO83
+END-OF-LOG:

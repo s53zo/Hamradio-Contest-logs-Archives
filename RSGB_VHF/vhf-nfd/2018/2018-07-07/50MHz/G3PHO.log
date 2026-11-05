@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G3PHO
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93GG
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3223; excluded rows=8.
+QSO:    50 PH 2018-07-07 1644 G3PHO         57 1 IO93GG          G8LED/P       57 44 IO92LE
+QSO:    50 PH 2018-07-07 1647 G3PHO         59 2 IO93GG          G4BRA/P       59 72 IO80ST
+QSO:    50 PH 2018-07-07 1648 G3PHO         59 3 IO93GG          GW3ZTT/P      59 76 IO82KW
+QSO:    50 PH 2018-07-07 1649 G3PHO         59 4 IO93GG          G3ZME/P       59 50 IO82NN
+QSO:    50 PH 2018-07-07 1650 G3PHO         59 5 IO93GG          G2LO/P        59 72 IO92GB
+QSO:    50 PH 2018-07-07 1652 G3PHO         57 6 IO93GG          M0RDK/P       57 41 IO91PD
+QSO:    50 CW 2018-07-07 1657 G3PHO         599 7 IO93GG         G0FBB/P       599 83 JO01LD
+QSO:    50 CW 2018-07-07 1708 G3PHO         599 8 IO93GG         EA5FX         559 0 IM99WV
+QSO:    50 PH 2018-07-07 1715 G3PHO         59 9 IO93GG          M0HRF/P       59 77 IO91GI
+QSO:    50 PH 2018-07-07 1716 G3PHO         59 10 IO93GG         G2BQY/P       59 92 IO81RF
+QSO:    50 PH 2018-07-07 1718 G3PHO         59 11 IO93GG         G3SVJ/P       59 56 IO91SX
+QSO:    50 PH 2018-07-07 1719 G3PHO         59 12 IO93GG         G3RCW/P       59 54 IO93ED
+QSO:    50 PH 2018-07-07 1731 G3PHO         59 13 IO93GG         G3TBK/P       59 49 IO93RA
+QSO:    50 PH 2018-07-07 1733 G3PHO         59 14 IO93GG         G4SWY         59 5 IO91TP
+QSO:    50 CW 2018-07-07 1739 G3PHO         599 15 IO93GG        G0SYP         599 3 IO83TK
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2E1SKY
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93KH
+CATEGORY: FL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170801&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=498; excluded rows=1.
+QSO:   144 FM 2017-08-01 1801 2E1SKY        59 1 IO93KH          M6JPQ         59 1 IO93KD
+QSO:   144 FM 2017-08-01 1805 2E1SKY        59 2 IO93KH          M3FVV         59 1 IO93IC
+QSO:   144 FM 2017-08-01 1812 2E1SKY        59 3 IO93KH          G7WKX         59 1 IO93JB
+QSO:   144 FM 2017-08-01 1813 2E1SKY        59 4 IO93KH          G3XDS         59 1 IO93KC
+QSO:   144 FM 2017-08-01 1818 2E1SKY        59 5 IO93KH          M0RTQ         55 3 IO93OM
+QSO:   144 FM 2017-08-01 1826 2E1SKY        53 6 IO93KH          M6KNS/P       59 5 IO93SO
+QSO:   144 FM 2017-08-01 1827 2E1SKY        59 7 IO93KH          M1DDD/P       59 19 IO93CH
+QSO:   144 FM 2017-08-01 1830 2E1SKY        57 8 IO93KH          GW3NWR/P      55 10 IO83JF
+QSO:   144 FM 2017-08-01 1832 2E1SKY        59 9 IO93KH          G0EAK/P       59 1 IO93NI
+QSO:   144 FM 2017-08-01 1835 2E1SKY        59 10 IO93KH         G8HQW/P       59 33 IO94JF
+QSO:   144 FM 2017-08-01 1838 2E1SKY        52 11 IO93KH         G1ZAR/P       55 5 IO92IR
+QSO:   144 FM 2017-08-01 1843 2E1SKY        59 12 IO93KH         G4PGJ         55 5 IO92ET
+QSO:   144 FM 2017-08-01 1846 2E1SKY        59 13 IO93KH         M0NRD         59 1 IO93OB
+QSO:   144 FM 2017-08-01 1850 2E1SKY        59 14 IO93KH         G3YPS         57 3 IO93OJ
+QSO:   144 FM 2017-08-01 1857 2E1SKY        59 15 IO93KH         G6JFL         59 1 IO93IE
+END-OF-LOG:

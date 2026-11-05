@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: M7TDV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=230201&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=998; excluded rows=0.
+QSO:   144 FT8 2023-02-01 1905 M7TDV         +07 IO91             G3WAG/P       +02 IO82
+QSO:   144 FT8 2023-02-01 1911 M7TDV         +18 IO91             G5TAM         +15 IO81
+QSO:   144 FT8 2023-02-01 1913 M7TDV         -02 IO91             2E0FGQ        -06 IO81
+QSO:   144 FT8 2023-02-01 1917 M7TDV         -13 IO91             M0ONY         -09 IO91
+QSO:   144 FT8 2023-02-01 1923 M7TDV         +17 IO91             G4ZAM         +08 IO91
+QSO:   144 FT8 2023-02-01 1935 M7TDV         -09 IO91             G4RFR         -13 IO90
+END-OF-LOG:

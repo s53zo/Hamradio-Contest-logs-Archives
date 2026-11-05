@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0KSE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83RN
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230103&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=624; excluded rows=0.
+QSO:   144 FM 2023-01-03 1902 M0KSE         59 1 IO83RN          M0MHW         59 1 IO83RO
+QSO:   144 FM 2023-01-03 1904 M0KSE         59 2 IO83RN          G6GVI         59 1 IO83SN
+QSO:   144 FM 2023-01-03 1907 M0KSE         59 3 IO83RN          G4HGI         59 2 IO83PL
+QSO:   144 FM 2023-01-03 1915 M0KSE         59 4 IO83RN          G0UXC         59 4 IO83OJ
+QSO:   144 FM 2023-01-03 1920 M0KSE         59 5 IO83RN          GW8ASD        59 6 IO83LB
+QSO:   144 FM 2023-01-03 1928 M0KSE         59 6 IO83RN          G0XBU         59 5 IO83UF
+QSO:   144 FM 2023-01-03 1940 M0KSE         59 7 IO83RN          G8ZRE         59 17 IO83NE
+QSO:   144 FM 2023-01-03 1943 M0KSE         59 8 IO83RN          GW0MDQ        - 0 IO83KC
+END-OF-LOG:

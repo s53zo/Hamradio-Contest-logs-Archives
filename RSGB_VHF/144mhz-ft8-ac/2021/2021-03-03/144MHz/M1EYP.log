@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M1EYP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210303&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1852; excluded rows=0.
+QSO:   144 FT8 2021-03-03 1922 M1EYP         -11 IO83             M1DDD         -14 IO93
+QSO:   144 FT8 2021-03-03 1942 M1EYP         +00 IO83             M3SMK         -13 IO83
+QSO:   144 FT8 2021-03-03 1943 M1EYP         +07 IO83             G6EIH         -14 IO92
+QSO:   144 FT8 2021-03-03 1946 M1EYP         -07 IO83             G8AOE         -17 IO94
+QSO:   144 FT8 2021-03-03 1949 M1EYP         -11 IO83             G8HXE         -17 IO83
+QSO:   144 FT8 2021-03-03 1953 M1EYP         +13 IO83             GW8ASD        +09 IO83
+QSO:   144 FT8 2021-03-03 1955 M1EYP         +15 IO83             G4APJ         -06 IO83
+QSO:   144 FT8 2021-03-03 1956 M1EYP         -03 IO83             G0DJA         -18 IO93
+QSO:   144 FT8 2021-03-03 2017 M1EYP         -04 IO83             GI6ATZ        -19 IO74
+QSO:   144 FT8 2021-03-03 2023 M1EYP         -14 IO83             G7WKX         -17 IO83
+QSO:   144 FT8 2021-03-03 2034 M1EYP         +00 IO83             GI4SNA        -14 IO64
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3WCB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80EI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210302&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=16095; excluded rows=6.
+QSO:   144 PH 2021-03-02 2008 G3WCB         59 1 IO80EI          G0DDF         59 3 IO80FL
+QSO:   144 PH 2021-03-02 2010 G3WCB         59 2 IO80EI          G7KTE         59 3 IO80FJ
+QSO:   144 PH 2021-03-02 2013 G3WCB         59 3 IO80EI          G4CST         59 3 IO80FJ
+QSO:   144 PH 2021-03-02 2022 G3WCB         54 4 IO80EI          G0SKA         54 25 IO91OQ
+QSO:   144 PH 2021-03-02 2116 G3WCB         55 5 IO80EI          G4CLA         55 206 IO92JL
+QSO:   144 PH 2021-03-02 2138 G3WCB         59 6 IO80EI          G0UHY         59 15 IO80EK
+QSO:   144 PH 2021-03-02 2148 G3WCB         52 7 IO80EI          G4GFI         52 45 IO91VH
+QSO:   144 PH 2021-03-02 2151 G3WCB         57 8 IO80EI          G3RGS         57 135 JO01DH
+QSO:   144 PH 2021-03-02 2216 G3WCB         55 9 IO80EI          G3TCU         55 74 IO91QE
+QSO:   144 PH 2021-03-02 2222 G3WCB         52 10 IO80EI         G0LTG         52 136 IO81RF
+END-OF-LOG:

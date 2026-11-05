@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4BJD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82PB
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5229; excluded rows=1.
+QSO:   144 PH 2021-07-04 1115 G4BJD         58 1 IO82PB          G3CKR/P       59 276 IO93AD
+QSO:   144 PH 2021-07-04 1116 G4BJD         59 2 IO82PB          GW1YBB/P      59 27 IO81KW
+QSO:   144 PH 2021-07-04 1116 G4BJD         59 3 IO82PB          GW4IDF/P      59 5 IO81NV
+QSO:   144 PH 2021-07-04 1126 G4BJD         57 4 IO82PB          G0ARC/P       55 214 IO91EH
+QSO:   144 PH 2021-07-04 1147 G4BJD         41 5 IO82PB          2E0VCC/P      53 21 IO70SP
+QSO:   144 PH 2021-07-04 1323 G4BJD         59 6 IO82PB          GW0JLF/P      57 16 IO82LG
+QSO:   144 PH 2021-07-04 1325 G4BJD         59 7 IO82PB          G0BKU/P       57 21 IO81WG
+END-OF-LOG:

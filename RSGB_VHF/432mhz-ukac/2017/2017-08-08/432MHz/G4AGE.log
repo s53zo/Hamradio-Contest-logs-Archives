@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4AGE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93IF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=170808&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5826; excluded rows=0.
+QSO:   432 PH 2017-08-08 2118 G4AGE         59 1 IO93IF          G8BUN         59 15 IO93EQ
+QSO:   432 PH 2017-08-08 2121 G4AGE         59 2 IO93IF          G3SQQ         59 47 IO93JC
+QSO:   432 PH 2017-08-08 2124 G4AGE         59 3 IO93IF          G0TVM         59 23 IO93CT
+QSO:   432 PH 2017-08-08 2126 G4AGE         59 4 IO93IF          M0VAA/P       59 34 IO93CH
+QSO:   432 PH 2017-08-08 2128 G4AGE         59 5 IO93IF          G0EAK/P       59 54 IO93NI
+END-OF-LOG:

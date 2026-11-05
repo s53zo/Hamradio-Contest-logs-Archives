@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4IGS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75QN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210202&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11067; excluded rows=8.
+QSO:   144 PH 2021-02-02 2001 GM4IGS        59 1 IO75QN          GM4PPT        59 1 IO75SK
+QSO:   144 PH 2021-02-02 2004 GM4IGS        58 2 IO75QN          GM3SEK        59 7 IO74SR
+QSO:   144 PH 2021-02-02 2016 GM4IGS        56 3 IO75QN          GM0GPZ        54 8 IO75WS
+QSO:   144 PH 2021-02-02 2025 GM4IGS        57 4 IO75QN          GM0OVQ        59 5 IO85AT
+QSO:   144 PH 2021-02-02 2028 GM4IGS        57 5 IO75QN          MM0GHM        57 5 IO75TO
+QSO:   144 PH 2021-02-02 2038 GM4IGS        59 6 IO75QN          GM3PMB        59 2 IO75QK
+QSO:   144 CW 2021-02-02 2048 GM4IGS        539 7 IO75QN         GM4DIJ        539 18 IO85IW
+QSO:   144 PH 2021-02-02 2053 GM4IGS        55 8 IO75QN          GM8GAX        57 14 IO86CD
+QSO:   144 PH 2021-02-02 2058 GM4IGS        57 9 IO75QN          GM0VAX        56 10 IO85AT
+QSO:   144 PH 2021-02-02 2059 GM4IGS        53 10 IO75QN         GM4GUF        52 13 IO85EP
+QSO:   144 PH 2021-02-02 2101 GM4IGS        52 11 IO75QN         GM0WRR        52 10 IO75VT
+QSO:   144 CW 2021-02-02 2114 GM4IGS        559 12 IO75QN        GM4VVX        559 8 IO78TA
+QSO:   144 CW 2021-02-02 2137 GM4IGS        599 13 IO75QN        GM4PWR        579 3 IO75KK
+QSO:   144 PH 2021-02-02 2143 GM4IGS        55 14 IO75QN         GM8IEM        54 15 IO78HF
+END-OF-LOG:

@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4BEE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83RQ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 PH 2021-02-07 0906 G4BEE         59 1 IO83RQ          G4HGI         59 8 IO83PL
+QSO:   432 PH 2021-02-07 0912 G4BEE         55 2 IO83RQ          GW4ZAR        55 6 IO83KF
+QSO:   432 PH 2021-02-07 0925 G4BEE         59 3 IO83RQ          G8REQ         59 9 IO83KI
+QSO:   432 PH 2021-02-07 0936 G4BEE         56 4 IO83RQ          G3TDH         58 10 IO83WI
+QSO:   432 PH 2021-02-07 0946 G4BEE         58 5 IO83RQ          G0XBU         58 13 IO83UF
+QSO:   432 PH 2021-02-07 1007 G4BEE         57 6 IO83RQ          GW3ATZ        57 12 IO83LE
+QSO:   432 PH 2021-02-07 1039 G4BEE         59 7 IO83RQ          G4ODA         58 67 IO92WS
+END-OF-LOG:

@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM0CEZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75XU
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160906&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12793; excluded rows=1.
+QSO:   144 PH 2016-09-06 1901 MM0CEZ        59 1 IO75XU          GM3SEK        59 3 IO74SR
+QSO:   144 PH 2016-09-06 1903 MM0CEZ        59 2 IO75XU          G8REQ         59 3 IO83KI
+QSO:   144 PH 2016-09-06 1908 MM0CEZ        55 3 IO75XU          G0WTD         55 3 IO83QP
+QSO:   144 PH 2016-09-06 1909 MM0CEZ        59 4 IO75XU          GM4JJJ        59 4 IO86GB
+QSO:   144 PH 2016-09-06 1910 MM0CEZ        59 5 IO75XU          GW4ZAR/P      59 8 IO83KF
+QSO:   144 PH 2016-09-06 1919 MM0CEZ        56 6 IO75XU          M0COP/P       59 15 IO82NN
+QSO:   144 PH 2016-09-06 1925 MM0CEZ        55 7 IO75XU          2M0ROT/P      57 5 IO75OW
+QSO:   144 PH 2016-09-06 1931 MM0CEZ        59 8 IO75XU          GS4AAF/P      59 14 IO86JF
+QSO:   144 PH 2016-09-06 1941 MM0CEZ        55 9 IO75XU          G3VCA         58 27 IO93MG
+QSO:   144 PH 2016-09-06 1943 MM0CEZ        55 10 IO75XU         G4ASR         59 54 IO81MX
+QSO:   144 PH 2016-09-06 1947 MM0CEZ        59 11 IO75XU         GM6JNJ        59 13 IO75SO
+QSO:   144 PH 2016-09-06 1948 MM0CEZ        59 12 IO75XU         GM4GUF        58 2 IO85EP
+QSO:   144 PH 2016-09-06 1954 MM0CEZ        59 13 IO75XU         GM3PMB        59 14 IO75QJ
+QSO:   144 PH 2016-09-06 2001 MM0CEZ        59 14 IO75XU         GM4ODA/P      59 16 IO66NL
+QSO:   144 PH 2016-09-06 2032 MM0CEZ        59 15 IO75XU         GM8EXI/MM     59 7 IO65XP
+QSO:   144 PH 2016-09-06 2035 MM0CEZ        59 16 IO75XU         GI4SNA        59 125 IO64XM
+QSO:   144 PH 2016-09-06 2043 MM0CEZ        53 17 IO75XU         M0PNN         58 68 IO82TS
+QSO:   144 CW 2016-09-06 2055 MM0CEZ        559 18 IO75XU        GM4VVX        579 13 IO78TA
+QSO:   144 CW 2016-09-06 2107 MM0CEZ        559 19 IO75XU        G0EAK/P       599 93 IO93NI
+QSO:   144 CW 2016-09-06 2112 MM0CEZ        529 20 IO75XU        GM4DIJ/A      539 15 IO74MT
+END-OF-LOG:

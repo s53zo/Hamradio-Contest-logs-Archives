@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4CLA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: IO92JL
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+5.7+GHz&Date=190528&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=47; excluded rows=0.
+QSO:  5.7G PH 2019-05-28 1843 G4CLA         59 1 IO92JL          M0GHZ         59 3 IO81VK
+QSO:  5.7G PH 2019-05-28 1847 G4CLA         59 2 IO92JL          G8DMU/P       57 1 IO94CB
+QSO:  5.7G PH 2019-05-28 1909 G4CLA         59 3 IO92JL          G0LGS/P       59 3 IO81XW
+QSO:  5.7G PH 2019-05-28 1909 G4CLA         59 4 IO92JL          G4FRE/P       59 3 IO81XW
+QSO:  5.7G PH 2019-05-28 1939 G4CLA         59 5 IO92JL          2E0MDJ/P      59 2 IO81XW
+QSO:  5.7G PH 2019-05-28 1940 G4CLA         53 6 IO92JL          G3VKV         53 4 IO81XV
+QSO:  5.7G CW 2019-05-28 2124 G4CLA         559 7 IO92JL         G3XDY         549 5 JO02OB
+QSO:  5.7G PH 2019-05-28 2128 G4CLA         59 8 IO92JL          G4LDR         59 4 IO91EC
+END-OF-LOG:

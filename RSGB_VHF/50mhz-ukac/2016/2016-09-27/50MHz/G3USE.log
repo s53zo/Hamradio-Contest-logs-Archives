@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80JT
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160927&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7625; excluded rows=4.
+QSO:    50 PH 2016-09-27 1907 G3USE         57 1 IO80JT          G3ZVW         53 16 IO80MS
+QSO:    50 PH 2016-09-27 1910 G3USE         57 2 IO80JT          M0COP/P       57 7 IO82NN
+QSO:    50 PH 2016-09-27 1912 G3USE         55 3 IO80JT          2E0LDZ/P      56 21 IO91MP
+QSO:    50 PH 2016-09-27 1914 G3USE         57 4 IO80JT          G3HRH         57 8 IO91HA
+QSO:    50 PH 2016-09-27 1915 G3USE         57 5 IO80JT          M0SAT         55 13 IO91TP
+QSO:    50 PH 2016-09-27 1916 G3USE         57 6 IO80JT          G0PEB/P       57 18 IO90JO
+QSO:    50 CW 2016-09-27 1923 G3USE         559 7 IO80JT         G3KSU         559 7 IO91AI
+QSO:    50 PH 2016-09-27 1925 G3USE         59 8 IO80JT          G8BCG         59 46 IO70RK
+QSO:    50 PH 2016-09-27 1928 G3USE         55 9 IO80JT          M0NKR         54 21 JO02HK
+QSO:    50 PH 2016-09-27 1929 G3USE         57 10 IO80JT         G3VCA         57 32 IO93MG
+QSO:    50 PH 2016-09-27 1931 G3USE         59 11 IO80JT         G4ASR         59 46 IO81MX
+QSO:    50 PH 2016-09-27 1934 G3USE         58 12 IO80JT         G3TBK/P       58 43 IO93RA
+QSO:    50 PH 2016-09-27 1937 G3USE         57 13 IO80JT         M5DWI/P       57 31 IO93EK
+QSO:    50 PH 2016-09-27 1939 G3USE         58 14 IO80JT         M1EYP/P       59 31 IO83WE
+QSO:    50 PH 2016-09-27 1940 G3USE         57 15 IO80JT         M0ICK/P       57 33 IO83RU
+QSO:    50 PH 2016-09-27 1944 G3USE         57 16 IO80JT         M0CGL         57 13 JO03BF
+QSO:    50 PH 2016-09-27 1945 G3USE         57 17 IO80JT         G0ODQ         57 32 IO91MR
+QSO:    50 PH 2016-09-27 1954 G3USE         57 18 IO80JT         G3TCT         57 41 IO81QC
+QSO:    50 PH 2016-09-27 1955 G3USE         57 19 IO80JT         GW3TKH        57 16 IO81JN
+QSO:    50 PH 2016-09-27 1957 G3USE         57 20 IO80JT         M0GAV/P       57 41 IO93EH
+END-OF-LOG:

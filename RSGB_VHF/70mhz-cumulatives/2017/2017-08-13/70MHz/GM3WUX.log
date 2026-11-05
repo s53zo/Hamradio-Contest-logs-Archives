@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: GM3WUX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO75UU
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170813&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=863; excluded rows=0.
+QSO:    70 PH 2017-08-13 1408 GM3WUX        59 1 IO75UU          GM4NFC        59 2 IO75RI
+QSO:    70 PH 2017-08-13 1415 GM3WUX        59 2 IO75UU          GM4ZMK        59 2 IO75TW
+QSO:    70 PH 2017-08-13 1417 GM3WUX        57 3 IO75UU          GM4DIJ        59 2 IO85IW
+QSO:    70 PH 2017-08-13 1419 GM3WUX        59 4 IO75UU          GM7GDE        59 1 IO75VS
+QSO:    70 PH 2017-08-13 1419 GM3WUX        59 5 IO75UU          GM0USI        59 2 IO75UV
+QSO:    70 PH 2017-08-13 1448 GM3WUX        59 6 IO75UU          GM4GUF        59 3 IO85EP
+END-OF-LOG:

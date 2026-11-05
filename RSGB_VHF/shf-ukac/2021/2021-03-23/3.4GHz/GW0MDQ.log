@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: GW0MDQ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO83KC
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=210323&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=134; excluded rows=0.
+QSO:  3.4G PH 2021-03-23 2000 GW0MDQ        59 1 IO83KC          G4CBW         59 1 IO83UB
+QSO:  3.4G CW 2021-03-23 2047 GW0MDQ        559 2 IO83KC         G4ODA         549 6 IO92WS
+QSO:  3.4G CW 2021-03-23 2111 GW0MDQ        559 3 IO83KC         G4CLA         539 10 IO92JL
+END-OF-LOG:

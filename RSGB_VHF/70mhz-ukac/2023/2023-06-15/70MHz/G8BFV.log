@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G8BFV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO81QE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=230615&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3958; excluded rows=5.
+QSO:    70 PH 2023-06-15 1943 G8BFV         59 1 IO81QE          M0BAO/P       59 15 IO80LV
+QSO:    70 PH 2023-06-15 1949 G8BFV         59 2 IO81QE          G3TCT         59 26 IO81QC
+QSO:    70 PH 2023-06-15 1951 G8BFV         59 3 IO81QE          2E0TKT/P      59 18 IO80UU
+QSO:    70 PH 2023-06-15 2005 G8BFV         58 4 IO81QE          G8DMN         59 8 IO81RD
+QSO:    70 PH 2023-06-15 2043 G8BFV         54 5 IO81QE          2E0VCC/P      55 48 IO70SP
+END-OF-LOG:

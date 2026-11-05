@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM3PMB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75QJ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160705&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12118; excluded rows=4.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2016-07-05 1905 GM3PMB        59 1 IO75QJ          GM4PPT        59 1 IO75SK
+QSO:   144 PH 2016-07-05 1906 GM3PMB        59 2 IO75QJ          GM3SEK        59 8 IO74SR
+QSO:   144 PH 2016-07-05 1911 GM3PMB        58 3 IO75QJ          M3OAT/P       58 9 IO84KP
+QSO:   144 PH 2016-07-05 1914 GM3PMB        56 4 IO75QJ          GW4BVE        57 12 IO82KQ
+QSO:   144 PH 2016-07-05 1917 GM3PMB        59 5 IO75QJ          MM0POV/P      59 5 IO75SI
+QSO:   144 PH 2016-07-05 1927 GM3PMB        58 7 IO75QJ          GM6JNJ        55 13 IO75SO
+QSO:   144 PH 2016-07-05 1931 GM3PMB        58 8 IO75QJ          GI4SNA        57 46 IO64XM
+QSO:   144 PH 2016-07-05 1950 GM3PMB        56 9 IO75QJ          G4CLA         59 118 IO92JL
+QSO:   144 PH 2016-07-05 1956 GM3PMB        55 10 IO75QJ         GM4JJJ        55 33 IO86GB
+QSO:   144 PH 2016-07-05 2005 GM3PMB        54 11 IO75QJ         G8REQ         53 36 IO83KI
+QSO:   144 PH 2016-07-05 2035 GM3PMB        58 12 IO75QJ         GD6ICR        59 15 IO74PF
+QSO:   144 PH 2016-07-05 2052 GM3PMB        55 13 IO75QJ         M1DDD/P       57 137 IO93CH
+QSO:   144 PH 2016-07-05 2052 GM3PMB        55 14 IO75QJ         M0VXX/P       55 159 IO82QL
+QSO:   144 PH 2016-07-05 2058 GM3PMB        55 15 IO75QJ         G7RAU         55 156 IO90IR
+END-OF-LOG:

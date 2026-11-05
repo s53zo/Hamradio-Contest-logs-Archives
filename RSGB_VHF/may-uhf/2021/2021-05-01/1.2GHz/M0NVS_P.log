@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: M0NVS/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO90VV
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=355; excluded rows=0.
+QSO:  1.2G PH 2021-05-01 1445 M0NVS/P       59 1 IO90VV          G4LDR         59 1 IO91EC
+QSO:  1.2G PH 2021-05-01 1455 M0NVS/P       51 2 IO90VV          G4CBZ         51 1 IO90XT
+QSO:  1.2G PH 2021-05-01 1503 M0NVS/P       59 3 IO90VV          M0FXX         59 1 IO91NM
+QSO:  1.2G PH 2021-05-01 1519 M0NVS/P       59 4 IO90VV          G0ODQ         59 1 IO91MR
+QSO:  1.2G PH 2021-05-01 1724 M0NVS/P       59 5 IO90VV          G3MEH         59 1 IO91QS
+END-OF-LOG:

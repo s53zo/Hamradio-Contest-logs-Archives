@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G8VPE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO02TP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=251111&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4819; excluded rows=2.
+QSO:   432 PH 2025-11-11 2008 G8VPE         59 1 JO02TP          G4AFF         59 7 JO02LO
+QSO:   432 PH 2025-11-11 2021 G8VPE         58 2 JO02TP          G4ODA         57 28 IO92WS
+QSO:   432 PH 2025-11-11 2031 G8VPE         59 3 JO02TP          G4LPP         59 4 JO02SS
+QSO:   432 CW 2025-11-11 2107 G8VPE         559 4 JO02TP         G4DYC         559 7 JO02MP
+QSO:   432 CW 2025-11-11 2110 G8VPE         599 5 JO02TP         G3YLA         599 4 JO02MP
+QSO:   432 PH 2025-11-11 2123 G8VPE         55 6 JO02TP          G7LRQ         53 76 JO03BC
+QSO:   432 PH 2025-11-11 2228 G8VPE         57 7 JO02TP          G3XDY         57 71 JO02OB
+END-OF-LOG:

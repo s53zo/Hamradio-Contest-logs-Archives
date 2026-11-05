@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G3USE
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80JT
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1292; excluded rows=0.
+QSO:   144 CW 2016-11-05 1613 G3USE         559 1 IO80JT         G8X           559 44 JO00EW
+QSO:   144 CW 2016-11-05 1618 G3USE         559 2 IO80JT         GK4LOH        599 13 IO70JC
+QSO:   144 CW 2016-11-05 1633 G3USE         559 3 IO80JT         F6DWG/P       599 63 JN19GL
+QSO:   144 CW 2016-11-05 1638 G3USE         559 4 IO80JT         M1EYP/P       579 15 IO93WE
+QSO:   144 CW 2016-11-05 1649 G3USE         559 5 IO80JT         G4CZB/P       559 26 IO92LH
+QSO:   144 CW 2016-11-05 1658 G3USE         559 6 IO80JT         M4M           559 13 IO82TS
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-50MHZ-CONTEST
+CALLSIGN: M5MC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02SL
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+50MHz+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1125; excluded rows=0.
+QSO:    50 PH 2019-04-14 0944 M5MC          59 1 JO02SL NR       G7APD         55 15 IO92JJ CV
+QSO:    50 PH 2019-04-14 1026 M5MC          57 2 JO02SL NR       G3MEH         54 27 IO91QS HP
+QSO:    50 PH 2019-04-14 1034 M5MC          51 3 JO02SL NR       G8LZE         55 19 IO91SO HA
+QSO:    50 PH 2019-04-14 1042 M5MC          52 4 JO02SL NR       G4FZN/P       55 50 IO94JF YO
+QSO:    50 PH 2019-04-14 1044 M5MC          59 5 JO02SL NR       G8DOH         59 59 IO92FA OX
+QSO:    50 PH 2019-04-14 1100 M5MC          57 6 JO02SL NR       G3TBK/P       57 58 IO93RA NG
+END-OF-LOG:

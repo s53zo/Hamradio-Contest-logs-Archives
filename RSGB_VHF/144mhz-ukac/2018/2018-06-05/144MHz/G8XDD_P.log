@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8XDD/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90MX
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180605&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=14538; excluded rows=4.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2018-06-05 1912 G8XDD/P       58 1 IO90MX          G3HRH         55 3 IO91HA
+QSO:   144 PH 2018-06-05 1913 G8XDD/P       59 2 IO90MX          G0GMY/P       59 10 IO90IO
+QSO:   144 PH 2018-06-05 1917 G8XDD/P       59 3 IO90MX          G4CZP/P       59 19 IO90JO
+QSO:   144 PH 2018-06-05 1918 G8XDD/P       59 4 IO90MX          G6DOD/P       59 9 IO90JO
+QSO:   144 PH 2018-06-05 1928 G8XDD/P       55 5 IO90MX          G3WCB/P       55 24 IO80EI
+QSO:   144 PH 2018-06-05 1929 G8XDD/P       59 6 IO90MX          F4VRB         53 8 IN98PT
+QSO:   144 PH 2018-06-05 1934 G8XDD/P       57 7 IO90MX          G6RC          57 36 IO91VC
+QSO:   144 PH 2018-06-05 1935 G8XDD/P       59 8 IO90MX          G4RVL/P       59 20 JO00DR
+QSO:   144 PH 2018-06-05 1946 G8XDD/P       58 9 IO90MX          G4TSW         55 39 IO80FV
+QSO:   144 PH 2018-06-05 1954 G8XDD/P       58 11 IO90MX         G3CKR/P       55 80 IO93AD
+QSO:   144 PH 2018-06-05 1957 G8XDD/P       56 12 IO90MX         G1YBB/P       58 77 IO81LB
+QSO:   144 PH 2018-06-05 2000 G8XDD/P       57 13 IO90MX         G0HEL/P       59 5 IO81WG
+QSO:   144 PH 2018-06-05 2001 G8XDD/P       59 14 IO90MX         M0BUL/P       59 94 IO82NG
+END-OF-LOG:

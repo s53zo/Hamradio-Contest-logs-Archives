@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM0GYX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO87IP
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190101&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10990; excluded rows=2.
+QSO:   144 PH 2019-01-01 2012 MM0GYX        57 1 IO87IP          GM4VVX        59 2 IO78TA
+QSO:   144 PH 2019-01-01 2017 MM0GYX        44 2 IO87IP          MM0GPZ        55 12 IO75WS
+QSO:   144 PH 2019-01-01 2032 MM0GYX        55 3 IO87IP          M0XVF         55 9 IO94EQ
+QSO:   144 CW 2019-01-01 2117 MM0GYX        559 4 IO87IP         GM1TGY        59 1 IO87IK
+END-OF-LOG:

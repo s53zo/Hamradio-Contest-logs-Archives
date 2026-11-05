@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: 2E0DXK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93GF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2001 2E0DXK        55 1 IO93GF          G0EAK         55 1 IO93MH
+QSO:    50 PH 2021-02-11 2002 2E0DXK        57 2 IO93GF          G3TBK         57 3 IO93QA
+QSO:    50 PH 2021-02-11 2003 2E0DXK        57 3 IO93GF          G4HVC         57 4 IO93QA
+QSO:    50 PH 2021-02-11 2008 2E0DXK        59 4 IO93GF          G3PXQ         59 11 IO92FW
+QSO:    50 PH 2021-02-11 2015 2E0DXK        58 5 IO93GF          G1HLT         58 8 IO93JD
+QSO:    50 PH 2021-02-11 2018 2E0DXK        59 6 IO93GF          G3VCA         59 18 IO93MG
+QSO:    50 PH 2021-02-11 2151 2E0DXK        53 7 IO93GF          M0LLW         55 41 IO93MK
+END-OF-LOG:

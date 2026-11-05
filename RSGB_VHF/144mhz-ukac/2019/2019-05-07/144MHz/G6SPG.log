@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G6SPG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83TK
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190507&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12041; excluded rows=5.
+QSO:   144 PH 2019-05-07 2048 G6SPG         53 1 IO83TK          MD0MAN/P      53 22 IO74SF
+QSO:   144 PH 2019-05-07 2053 G6SPG         59 2 IO83TK          G4NTY         59 15 IO83TM
+QSO:   144 PH 2019-05-07 2057 G6SPG         59 3 IO83TK          M0GAV/P       59 155 IO93EH
+QSO:   144 PH 2019-05-07 2111 G6SPG         59 4 IO83TK          G4ASD         57 43 IO83SJ
+QSO:   144 PH 2019-05-07 2120 G6SPG         59 5 IO83TK          M1EYP/P       59 78 IO83WE
+QSO:   144 PH 2019-05-07 2125 G6SPG         59 6 IO83TK          G4JLG         59 61 IO83TM
+END-OF-LOG:

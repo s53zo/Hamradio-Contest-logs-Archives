@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: 2E0GRR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92VT
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180614&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4459; excluded rows=1.
+QSO:    50 PH 2018-06-14 1902 2E0GRR        59 1 IO92VT          2E0VPX        59 1 IO92UX
+QSO:    50 PH 2018-06-14 1932 2E0GRR        59 2 IO92VT          G3TBK/P       59 26 IO93RA
+QSO:    50 PH 2018-06-14 1941 2E0GRR        59 3 IO92VT          M0CGL         59 20 JO03BF
+QSO:    50 PH 2018-06-14 1952 2E0GRR        59 4 IO92VT          G4ASR         59 49 IO81MX
+QSO:    50 PH 2018-06-14 2002 2E0GRR        59 5 IO92VT          G3CKR/P       59 61 IO93AD
+END-OF-LOG:

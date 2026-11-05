@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0VGA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93FX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=190514&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8449; excluded rows=3.
+QSO:   432 PH 2019-05-14 1902 M0VGA         59 1 IO93FX          G8DMU/P       59 3 IO94CB
+QSO:   432 PH 2019-05-14 1906 M0VGA         59 2 IO93FX          G0BFJ/P       59 3 IO93DO
+QSO:   432 PH 2019-05-14 1918 M0VGA         59 3 IO93FX          M1DDD/P       59 32 IO93CH
+QSO:   432 PH 2019-05-14 1924 M0VGA         59 4 IO93FX          M0GAV/P       59 41 IO93EH
+QSO:   432 PH 2019-05-14 1938 M0VGA         59 5 IO93FX          G3SDY/P       59 14 IO93DO
+QSO:   432 PH 2019-05-14 1948 M0VGA         53 6 IO93FX          G8RBW         51 14 IO93HE
+QSO:   432 PH 2019-05-14 2002 M0VGA         53 7 IO93FX          G0DOC         57 31 IO83WE
+END-OF-LOG:

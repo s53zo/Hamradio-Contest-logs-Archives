@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G0BWG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93GK
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3124; excluded rows=4.
+QSO:    50 PH 2017-10-22 1003 G0BWG         59 1 IO93GK SD       M0GAV         59 15 IO93GK SD
+QSO:    50 PH 2017-10-22 1005 G0BWG         59 2 IO93GK SD       M0NFD/P       57 29 IO94JF YO
+QSO:    50 PH 2017-10-22 1011 G0BWG         59 3 IO93GK SD       M0MDY         55 25 IO93HH SD
+QSO:    50 PH 2017-10-22 1137 G0BWG         59 4 IO93GK SD       2E0TJX        59 6 IO93GK SD
+END-OF-LOG:

@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GW0MDQ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83KC
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210617&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5886; excluded rows=2.
+QSO:    70 PH 2021-06-17 1900 GW0MDQ        59 1 IO83KC          G8REQ         59 1 IO83KI
+QSO:    70 PH 2021-06-17 1901 GW0MDQ        59 2 IO83KC          GW8ASD        59 2 IO83LB
+QSO:    70 PH 2021-06-17 1903 GW0MDQ        55 3 IO83KC          G4CLA         55 8 IO92JL
+QSO:    70 PH 2021-06-17 1904 GW0MDQ        57 4 IO83KC          G3TBK/P       57 8 IO93RA
+QSO:    70 PH 2021-06-17 1909 GW0MDQ        55 5 IO83KC          G0ODQ         55 3 IO91MR
+QSO:    70 PH 2021-06-17 1920 GW0MDQ        57 6 IO83KC          G0EAK/P       57 12 IO93NI
+QSO:    70 PH 2021-06-17 1921 GW0MDQ        59 7 IO83KC          G4NTY         59 10 IO83TM
+QSO:    70 PH 2021-06-17 1922 GW0MDQ        59 8 IO83KC          GW4ZAR/P      59 8 IO83JF
+QSO:    70 PH 2021-06-17 1929 GW0MDQ        59 9 IO83KC          G7LRQ/P       55 46 IO91RU
+QSO:    70 CW 2021-06-17 1937 GW0MDQ        559 10 IO83KC        M0RPK/P       559 10 IO93EJ
+QSO:    70 PH 2021-06-17 2000 GW0MDQ        57 11 IO83KC         G4OAR         57 12 IO82PV
+QSO:    70 PH 2021-06-17 2019 GW0MDQ        55 12 IO83KC         G4ASR         559 84 IO81MX
+QSO:    70 PH 2021-06-17 2030 GW0MDQ        57 13 IO83KC         GD0AMD/P      57 59 IO74QD
+QSO:    70 PH 2021-06-17 2042 GW0MDQ        55 14 IO83KC         G1DFL         55 65 IO91LO
+QSO:    70 PH 2021-06-17 2046 GW0MDQ        55 15 IO83KC         M0BUL         54 48 IO82NG
+END-OF-LOG:

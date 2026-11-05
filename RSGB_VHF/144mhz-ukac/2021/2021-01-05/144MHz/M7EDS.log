@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M7EDS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93FX
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210105&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10676; excluded rows=1.
+QSO:   144 PH 2021-01-05 2001 M7EDS         59 1 IO93FX          G6CP          59 4 IO94GA
+QSO:   144 PH 2021-01-05 2005 M7EDS         55 2 IO93FX          M0KOV         55 2 IO93HX
+QSO:   144 PH 2021-01-05 2010 M7EDS         59 3 IO93FX          G8DMU         59 5 IO93FX
+QSO:   144 PH 2021-01-05 2025 M7EDS         54 4 IO93FX          2E0BUI        54 6 IO94FA
+QSO:   144 PH 2021-01-05 2030 M7EDS         55 5 IO93FX          M0DCD         54 8 IO94HE
+QSO:   144 PH 2021-01-05 2040 M7EDS         59 6 IO93FX          G8BNE         59 8 IO94GA
+END-OF-LOG:

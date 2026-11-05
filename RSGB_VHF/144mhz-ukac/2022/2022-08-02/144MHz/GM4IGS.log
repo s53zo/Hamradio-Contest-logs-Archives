@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4IGS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75QN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220802&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12552; excluded rows=6.
+QSO:   144 PH 2022-08-02 1901 GM4IGS        59 1 IO75QN          GM3YDN/P      59 2 IO75RF
+QSO:   144 PH 2022-08-02 1905 GM4IGS        59 2 IO75QN          GM3MWX/P      57 3 IO75PS
+QSO:   144 PH 2022-08-02 1913 GM4IGS        59 3 IO75QN          GM3SEK        59 10 IO74SR
+QSO:   144 PH 2022-08-02 1915 GM4IGS        59 4 IO75QN          GM4PPT        59 8 IO75SK
+QSO:   144 PH 2022-08-02 1921 GM4IGS        57 5 IO75QN          GM4JTJ        57 15 IO86RP
+QSO:   144 PH 2022-08-02 1923 GM4IGS        59 6 IO75QN          MM6POV        59 7 IO75TH
+QSO:   144 PH 2022-08-02 1927 GM4IGS        55 7 IO75QN          GM0OQV        55 9 IO85AT
+QSO:   144 PH 2022-08-02 1929 GM4IGS        53 8 IO75QN          GM4DIJ        54 5 IO85IW
+QSO:   144 PH 2022-08-02 1940 GM4IGS        55 9 IO75QN          GM0HBK        59 7 IO77BC
+QSO:   144 PH 2022-08-02 1944 GM4IGS        54 10 IO75QN         GM7PKT        54 6 IO76JR
+QSO:   144 PH 2022-08-02 1946 GM4IGS        55 11 IO75QN         GM4VVX        53 3 IO78TA
+QSO:   144 PH 2022-08-02 1955 GM4IGS        57 12 IO75QN         GI4KSO        57 9 IO64XK
+QSO:   144 PH 2022-08-02 2009 GM4IGS        53 13 IO75QN         GM8IEM        51 10 IO78HF
+QSO:   144 PH 2022-08-02 2010 GM4IGS        59 14 IO75QN         MM0GHM        59 2 IO75TO
+QSO:   144 PH 2022-08-02 2023 GM4IGS        58 15 IO75QN         GM4VYQ        57 6 IO76GA
+QSO:   144 CW 2022-08-02 2033 GM4IGS        519 16 IO75QN        G4RQI         529 3 IO93IR
+QSO:   144 PH 2022-08-02 2043 GM4IGS        55 17 IO75QN         G4FZN/P       55 123 IO94JF
+END-OF-LOG:

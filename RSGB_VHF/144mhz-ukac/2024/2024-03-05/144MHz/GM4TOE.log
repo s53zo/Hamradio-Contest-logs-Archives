@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4TOE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO87RP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=240305&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10463; excluded rows=4.
+QSO:   144 PH 2024-03-05 2000 GM4TOE        59 1 IO87RP          GM4JTJ        59 1 IO86RP
+QSO:   144 PH 2024-03-05 2001 GM4TOE        59 2 IO87RP          G8PNN/P       59 1 IO95AF
+QSO:   144 PH 2024-03-05 2002 GM4TOE        59 3 IO87RP          G8KPD/P       59 1 IO85XF
+QSO:   144 PH 2024-03-05 2010 GM4TOE        55 4 IO87RP          G4ITR/P       55 6 IO95DB
+QSO:   144 PH 2024-03-05 2012 GM4TOE        55 5 IO87RP          G0UUU/P       55 7 IO94RJ
+QSO:   144 PH 2024-03-05 2020 GM4TOE        55 6 IO87RP          GM4BYF        54 11 IO85JV
+QSO:   144 PH 2024-03-05 2034 GM4TOE        59 7 IO87RP          GM4DIJ/P      59 23 IO74MU
+QSO:   144 PH 2024-03-05 2038 GM4TOE        59 8 IO87RP          G4CLA         59 83 IO92JL
+QSO:   144 PH 2024-03-05 2042 GM4TOE        59 9 IO87RP          GM0HTT        57 2 IO89JC
+QSO:   144 CW 2024-03-05 2052 GM4TOE        559 10 IO87RP        G0EAK/P       559 31 IO94ND
+QSO:   144 PH 2024-03-05 2125 GM4TOE        54 11 IO87RP         G4FZN/P       54 100 IO94JF
+QSO:   144 PH 2024-03-05 2142 GM4TOE        52 12 IO87RP         G4KUX         52 8 IO94BP
+END-OF-LOG:

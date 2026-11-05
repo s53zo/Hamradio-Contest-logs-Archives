@@ -1,0 +1,40 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0GLV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93US
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170404&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12720; excluded rows=7.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2017-04-04 1901 M0GLV         59 1 IO93US          M0HOM/P       59 1 IO93SP
+QSO:   144 PH 2017-04-04 1918 M0GLV         57 2 IO93US          G0BFJ/P       57 9 IO93CP
+QSO:   144 PH 2017-04-04 1923 M0GLV         55 3 IO93US          G6GNO         57 24 IO93JM
+QSO:   144 PH 2017-04-04 1930 M0GLV         55 5 IO93US          G4HDA         56 14 IO93ON
+QSO:   144 PH 2017-04-04 1932 M0GLV         59 6 IO93US          M1CJN/P       59 31 IO93OX
+QSO:   144 PH 2017-04-04 1936 M0GLV         59 7 IO93US          G8EQD/P       59 37 IO93FL
+QSO:   144 PH 2017-04-04 1948 M0GLV         55 8 IO93US          G4LDL/P       55 43 IO99DM
+QSO:   144 PH 2017-04-04 1955 M0GLV         56 9 IO93US          M0CGL         57 63 JO03BF
+QSO:   144 PH 2017-04-04 2000 M0GLV         55 10 IO93US         G1YBB/P       59 74 IO82LB
+QSO:   144 PH 2017-04-04 2004 M0GLV         55 11 IO93US         M5DWI/P       55 34 IO93EK
+QSO:   144 PH 2017-04-04 2006 M0GLV         59 12 IO93US         M0AVG/P       59 83 IO93EH
+QSO:   144 PH 2017-04-04 2015 M0GLV         59 13 IO93US         G3TBK/P       59 79 IO93RA
+QSO:   144 PH 2017-04-04 2024 M0GLV         55 14 IO93US         G4CLA         55 179 IO92JL
+QSO:   144 PH 2017-04-04 2026 M0GLV         59 15 IO93US         G4FZN/P       59 95 IO94JF
+QSO:   144 PH 2017-04-04 2038 M0GLV         59 16 IO93US         M0HFC         59 23 IO93VR
+QSO:   144 PH 2017-04-04 2043 M0GLV         55 17 IO93US         G3VCA         55 59 IO93MG
+QSO:   144 PH 2017-04-04 2052 M0GLV         55 18 IO93US         G4HVC         55 82 IO93QA
+QSO:   144 PH 2017-04-04 2058 M0GLV         56 19 IO93US         G3PYE/P       57 130 IO92CE
+QSO:   144 PH 2017-04-04 2104 M0GLV         56 20 IO93US         M0MDY         59 92 IO93HH
+QSO:   144 PH 2017-04-04 2108 M0GLV         56 21 IO93US         G0JJG         55 52 JO02LE
+QSO:   144 PH 2017-04-04 2115 M0GLV         55 22 IO93US         G4PDF         53 29 IO93VH
+QSO:   144 PH 2017-04-04 2116 M0GLV         56 23 IO93US         G4DBN         55 40 IO93NR
+END-OF-LOG:

@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4EHD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93BS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=161122&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5702; excluded rows=3.
+QSO:    50 PH 2016-11-22 2002 G4EHD         57 1 IO93BS          G0BWB         57 2 IO93CO
+QSO:    50 PH 2016-11-22 2007 G4EHD         54 2 IO93BS          G3RCW         52 7 IO93KH
+QSO:    50 PH 2016-11-22 2011 G4EHD         59 3 IO93BS          M6KMB         59 17 IO93EQ
+QSO:    50 PH 2016-11-22 2015 G4EHD         55 4 IO93BS          G4BEE/P       55 3 IO83VR
+QSO:    50 PH 2016-11-22 2032 G4EHD         57 5 IO93BS          M0YDB         55 21 IO93LL
+QSO:    50 PH 2016-11-22 2034 G4EHD         59 6 IO93BS          G3VCA         59 40 IO93MG
+QSO:    50 PH 2016-11-22 2145 G4EHD         59 7 IO93BS          G4LKD         59 47 IO93OQ
+QSO:    50 PH 2016-11-22 2150 G4EHD         59 8 IO93BS          G0BFJ/P       59 31 IO93DO
+QSO:    50 PH 2016-11-22 2202 G4EHD         54 9 IO93BS          G3UJE         52 37 IO83UH
+QSO:    50 PH 2016-11-22 2215 G4EHD         56 10 IO93BS         M6KTP/P       56 105 IO93DH
+END-OF-LOG:

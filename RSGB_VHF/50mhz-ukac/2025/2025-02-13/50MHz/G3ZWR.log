@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3ZWR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO94FX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250213&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4283; excluded rows=1.
+QSO:    50 PH 2025-02-13 2052 G3ZWR         55 1 IO94FX          G4FZN/P       57 47 IO94JF
+QSO:    50 PH 2025-02-13 2054 G3ZWR         55 2 IO94FX          G0CNN/P       55 38 IO94AI
+QSO:    50 PH 2025-02-13 2100 G3ZWR         55 3 IO94FX          G8KPD         51 2 IO95DB
+QSO:    50 PH 2025-02-13 2111 G3ZWR         55 4 IO94FX          G5ROC         55 74 IO93GE
+QSO:    50 PH 2025-02-13 2130 G3ZWR         55 5 IO94FX          G4BP          59 32 IO94TG
+QSO:    50 PH 2025-02-13 2149 G3ZWR         59 6 IO94FX          G4ITR         59 2 IO95CA
+END-OF-LOG:

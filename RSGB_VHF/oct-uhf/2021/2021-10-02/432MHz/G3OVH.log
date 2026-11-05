@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G3OVH
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92JP
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=582; excluded rows=3.
+QSO:   432 PH 2021-10-02 1648 G3OVH         59 1 IO92JP          G8DOH         59 28 IO92FA
+QSO:   432 PH 2021-10-03 1217 G3OVH         59 2 IO92JP          G8T           52 106 JO01KJ
+QSO:   432 CW 2021-10-03 1300 G3OVH         589 3 IO92JP         G4NBS         539 37 JO02AF
+END-OF-LOG:

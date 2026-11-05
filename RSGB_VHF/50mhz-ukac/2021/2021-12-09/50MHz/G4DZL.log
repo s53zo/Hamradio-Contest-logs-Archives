@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4DZL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92IS
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=211209&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3825; excluded rows=1.
+QSO:    50 PH 2021-12-09 2224 G4DZL         57 1 IO92IS          G3RCW/P       57 59 IO93NJ
+QSO:    50 PH 2021-12-09 2225 G4DZL         57 2 IO92IS          G6NUM         57 34 IO93MA
+QSO:    50 PH 2021-12-09 2227 G4DZL         58 3 IO92IS          G4ODA         58 61 IO92WS
+QSO:    50 PH 2021-12-09 2227 G4DZL         56 4 IO92IS          G4FZN/P       56 97 IO94JF
+QSO:    50 PH 2021-12-09 2229 G4DZL         59 5 IO92IS          G0EAK/P       59 56 IO93NI
+END-OF-LOG:

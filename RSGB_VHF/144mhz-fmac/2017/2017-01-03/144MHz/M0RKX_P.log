@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0RKX/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92BA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170103&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=620; excluded rows=1.
+QSO:   144 FM 2017-01-03 1956 M0RKX/P       59 1 IO92BA          G0LGS         47 14 IO81WV
+QSO:   144 FM 2017-01-03 1957 M0RKX/P       59 2 IO92BA          G7LAS/P       59 54 IO92IR
+QSO:   144 FM 2017-01-03 1958 M0RKX/P       59 3 IO92BA          G4VPD         59 25 IO92BJ
+END-OF-LOG:

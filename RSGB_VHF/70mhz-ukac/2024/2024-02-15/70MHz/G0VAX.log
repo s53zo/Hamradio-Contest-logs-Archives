@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0VAX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83JJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=240215&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3129; excluded rows=1.
+QSO:    70 PH 2024-02-15 2008 G0VAX         59 1 IO83JJ          M0WBG         59 3 IO83KJ
+QSO:    70 PH 2024-02-15 2029 G0VAX         59 2 IO83JJ          G0JSB         55 3 IO83KJ
+QSO:    70 PH 2024-02-15 2034 G0VAX         59 3 IO83JJ          G8REQ         59 17 IO83KI
+QSO:    70 PH 2024-02-15 2048 G0VAX         56 4 IO83JJ          G3TDH         56 16 IO83WI
+QSO:    70 PH 2024-02-15 2050 G0VAX         58 5 IO83JJ          M0KSE         59 10 IO83RN
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G3Z
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: IO82QL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=33; excluded rows=0.
+QSO:  5.7G PH 2016-05-07 1425 G3Z           59 1 IO82QL          G3VKV         59 1 IO81XV
+QSO:  5.7G PH 2016-05-07 1507 G3Z           59 2 IO82QL          G4LDR         59 1 IO91EC
+QSO:  5.7G PH 2016-05-07 1525 G3Z           59 3 IO82QL          G8OHM         59 1 IO92AJ
+QSO:  5.7G CW 2016-05-07 1549 G3Z           569 4 IO82QL         G3XDY         569 2 JO02OB
+QSO:  5.7G PH 2016-05-07 1655 G3Z           52 5 IO82QL          M1CRO/P       52 5 JO01PU
+QSO:  5.7G PH 2016-05-07 1717 G3Z           52 6 IO82QL          G4BRK         55 1 IO91HP
+END-OF-LOG:

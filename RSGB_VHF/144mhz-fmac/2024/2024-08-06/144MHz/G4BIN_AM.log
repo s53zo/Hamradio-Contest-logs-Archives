@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4BIN/AM
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO81LB
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=240806&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=515; excluded rows=0.
+QSO:   144 FM 2024-08-06 1802 G4BIN/AM      59 1 IO81LB          G4VUD         59 1 IO80EM
+QSO:   144 FM 2024-08-06 1807 G4BIN/AM      59 2 IO81LB          G6TEQ         59 3 IO80FM
+QSO:   144 FM 2024-08-06 1809 G4BIN/AM      59 3 IO81LB          G1NCS         59 1 IO82PB
+QSO:   144 FM 2024-08-06 1811 G4BIN/AM      59 4 IO81LB          G0GKH         59 1 IO81VH
+QSO:   144 FM 2024-08-06 1814 G4BIN/AM      59 5 IO81LB          GW1YBB/P      59 14 IO81KW
+QSO:   144 FM 2024-08-06 1816 G4BIN/AM      59 6 IO81LB          2W0JMK        59 1 IO71PV
+QSO:   144 FM 2024-08-06 1819 G4BIN/AM      59 7 IO81LB          G7KTE         59 4 IO80FJ
+QSO:   144 FM 2024-08-06 1820 G4BIN/AM      59 8 IO81LB          G3WCB         59 3 IO80EI
+QSO:   144 FM 2024-08-06 1828 G4BIN/AM      59 9 IO81LB          G2ZAF         55 1 JO00AS
+QSO:   144 FM 2024-08-06 1830 G4BIN/AM      59 10 IO81LB         M1JMH         59 1 IO70TX
+QSO:   144 FM 2024-08-06 1833 G4BIN/AM      59 11 IO81LB         M7TPE         53 11 IO81PV
+QSO:   144 FM 2024-08-06 1838 G4BIN/AM      59 12 IO81LB         G4ILI/P       59 29 IO81WU
+QSO:   144 FM 2024-08-06 1840 G4BIN/AM      59 13 IO81LB         G4CIB         59 10 IO81VX
+QSO:   144 FM 2024-08-06 1840 G4BIN/AM      59 14 IO81LB         M0UHF         59 8 IO91IP
+QSO:   144 FM 2024-08-06 1840 G4BIN/AM      59 15 IO81LB         M0BAO/P       59 22 IO80LV
+QSO:   144 FM 2024-08-06 1846 G4BIN/AM      59 16 IO81LB         G8GYX         59 19 IO91VH
+QSO:   144 FM 2024-08-06 1853 G4BIN/AM      59 17 IO81LB         M7HFD         59 6 IO82UE
+END-OF-LOG:

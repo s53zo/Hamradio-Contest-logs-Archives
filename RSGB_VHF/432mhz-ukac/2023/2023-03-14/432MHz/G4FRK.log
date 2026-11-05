@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4FRK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83LV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230314&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6732; excluded rows=3.
+QSO:   432 PH 2023-03-14 2002 G4FRK         55 1 IO83LV          GI6ATZ        59 2 IO74AJ
+QSO:   432 PH 2023-03-14 2005 G4FRK         59 2 IO83LV          G4BEE         57 2 IO83RQ
+QSO:   432 PH 2023-03-14 2015 G4FRK         59 3 IO83LV          G8TZJ         57 7 IO84OA
+QSO:   432 PH 2023-03-14 2018 G4FRK         59 4 IO83LV          2E0DGP        59 5 IO83QP
+QSO:   432 PH 2023-03-14 2033 G4FRK         55 5 IO83LV          GM3SEK        54 14 IO74SR
+END-OF-LOG:

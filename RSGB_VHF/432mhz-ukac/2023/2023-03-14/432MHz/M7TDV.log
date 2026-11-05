@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M7TDV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91AQ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230314&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6732; excluded rows=3.
+QSO:   432 PH 2023-03-14 2004 M7TDV         59 1 IO91AQ          G6UAJ/P       59 5 IO91CL
+QSO:   432 PH 2023-03-14 2006 M7TDV         59 2 IO91AQ          G4LDL/P       59 3 IO91DM
+QSO:   432 PH 2023-03-14 2013 M7TDV         55 3 IO91AQ          M0GHZ         52 13 IO81VK
+QSO:   432 PH 2023-03-14 2016 M7TDV         59 4 IO91AQ          G1DFL/P       59 16 IO91LO
+QSO:   432 PH 2023-03-14 2020 M7TDV         59 5 IO91AQ          2E0OUT        59 12 IO81WO
+END-OF-LOG:

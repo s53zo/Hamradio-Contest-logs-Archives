@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G4LDR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91EC
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1242; excluded rows=3.
+QSO:  1.2G PH 2023-10-07 1919 G4LDR         59 1 IO91EC          G3SQQQ        59 31 IO93JC
+QSO:  1.2G PH 2023-10-07 1953 G4LDR         56 2 IO91EC          G5TO          54 14 IO93GG
+QSO:  1.2G PH 2023-10-07 1956 G4LDR         55 3 IO91EC          G1HLT         55 18 IO93JD
+QSO:  1.2G PH 2023-10-07 2007 G4LDR         59 4 IO91EC          HB9XC         59 33 JN37MD
+QSO:  1.2G PH 2023-10-07 2011 G4LDR         57 5 IO91EC          DF2VJ         57 15 JN39LI
+QSO:  1.2G PH 2023-10-07 2013 G4LDR         59 6 IO91EC          M0UGA/P       59 67 JO01QD
+QSO:  1.2G PH 2023-10-07 2027 G4LDR         59 7 IO91EC          M1CRO/P       59 116 JO01PU
+QSO:  1.2G PH 2023-10-07 2040 G4LDR         59 8 IO91EC          DR9A          59 148 JN48GQ
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3HRH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91HA
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180208&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4187; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    50 PH 2018-02-08 2000 G3HRH         59 2 IO91HA          G4YUP         59 1 IO90IW
+QSO:    50 PH 2018-02-08 2001 G3HRH         59 3 IO91HA          M0BTZ         59 1 IO90GX
+QSO:    50 PH 2018-02-08 2001 G3HRH         57 4 IO91HA          G3VYI         57 1 IO91OF
+QSO:    50 PH 2018-02-08 2006 G3HRH         58 5 IO91HA          G4WEY         59 3 IO90AS
+QSO:    50 PH 2018-02-08 2007 G3HRH         57 6 IO91HA          M0RJL         57 3 IO90AR
+QSO:    50 PH 2018-02-08 2008 G3HRH         57 7 IO91HA          G4POF         59 1 IO90CW
+QSO:    50 PH 2018-02-08 2010 G3HRH         57 8 IO91HA          F1BHL/P       59 7 IN99PI
+QSO:    50 PH 2018-02-08 2021 G3HRH         43 9 IO91HA          GW8ASD        54 3 IO81AA
+QSO:    50 PH 2018-02-08 2023 G3HRH         56 10 IO91HA         G8FMC         56 5 IO91NW
+QSO:    50 PH 2018-02-08 2025 G3HRH         55 11 IO91HA         2E0OUT        55 10 IO81WO
+QSO:    50 PH 2018-02-08 2035 G3HRH         58 12 IO91HA         G7LRQ/P       59 47 IO91RU
+QSO:    50 PH 2018-02-08 2035 G3HRH         57 13 IO91HA         G4CLA         59 44 IO92JL
+QSO:    50 PH 2018-02-08 2037 G3HRH         54 14 IO91HA         G4ASR         58 58 IO81MX
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: PD3OES
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO32KR
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1492; excluded rows=0.
+QSO:   144 CW 2018-11-04 1226 PD3OES        599 1 JO32KR         DL0LN         599 209 JO30QX
+QSO:   144 CW 2018-11-04 1234 PD3OES        599 2 JO32KR         DP4E          599 260 JO32LA
+QSO:   144 CW 2018-11-04 1309 PD3OES        599 3 JO32KR         F1AKK/P       599 369 IN78RJ
+QSO:   144 CW 2018-11-04 1325 PD3OES        599 4 JO32KR         F6KFH         514 5 JN39OC
+QSO:   144 CW 2018-11-04 1345 PD3OES        599 5 JO32KR         DA0FF         599 728 JO40XL
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M7EGD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93KF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220414&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5403; excluded rows=36.
+QSO:    50 PH 2022-04-14 1901 M7EGD         58 1 IO93KF          G0EAK/P       58 1 IO93NI
+QSO:    50 PH 2022-04-14 1902 M7EGD         58 2 IO93KF          G3TBK/P       58 11 IO93RA
+QSO:    50 PH 2022-04-14 1909 M7EGD         54 3 IO93KF          G1YBB/P       56 19 IO82LB
+QSO:    50 PH 2022-04-14 1918 M7EGD         55 4 IO93KF          G0WUS/P       57 20 IO92MP
+QSO:    50 PH 2022-04-14 1936 M7EGD         55 5 IO93KF          M1MHZ         55 42 IO92WV
+QSO:    50 PH 2022-04-14 1952 M7EGD         55 6 IO93KF          G4FZN/P       54 49 IO94JF
+QSO:    50 PH 2022-04-14 1957 M7EGD         59 7 IO93KF          G1HLT         59 24 IO93JD
+QSO:    50 PH 2022-04-14 2004 M7EGD         52 8 IO93KF          G0CNN/P       51 57 IO94AI
+END-OF-LOG:

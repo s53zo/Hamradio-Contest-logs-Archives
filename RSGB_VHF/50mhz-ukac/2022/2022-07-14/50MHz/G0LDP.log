@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0LDP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92FL
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220714&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4618; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    50 PH 2022-07-14 1903 G0LDP         59 1 IO92FL          G8LYB         55 3 IO92JI
+QSO:    50 PH 2022-07-14 1909 G0LDP         59 2 IO92FL          G4CLA         59 14 IO92JL
+QSO:    50 PH 2022-07-14 1917 G0LDP         59 4 IO92FL          G0NZI/P       59 6 IO92EL
+QSO:    50 PH 2022-07-14 1921 G0LDP         58 5 IO92FL          G3TBK/P       57 30 IO93RA
+QSO:    50 PH 2022-07-14 1925 G0LDP         58 6 IO92FL          G3OVH         55 7 IO92JP
+QSO:    50 PH 2022-07-14 1930 G0LDP         58 7 IO92FL          M0SLO         59 7 IO92GL
+QSO:    50 PH 2022-07-14 1936 G0LDP         58 8 IO92FL          G1YYB/P       59 41 IO82LB
+QSO:    50 PH 2022-07-14 1945 G0LDP         58 9 IO92FL          G4FVZ         52 40 IO91OW
+QSO:    50 PH 2022-07-14 1953 G0LDP         58 10 IO92FL         G4EPA         55 29 IO92KI
+QSO:    50 PH 2022-07-14 2004 G0LDP         58 11 IO92FL         G1VNB         59 8 IO92GL
+QSO:    50 PH 2022-07-14 2018 G0LDP         55 12 IO92FL         G7LRQ/P       55 58 IO91RU
+QSO:    50 PH 2022-07-14 2030 G0LDP         57 13 IO92FL         G3MEH         54 60 IO91QS
+END-OF-LOG:

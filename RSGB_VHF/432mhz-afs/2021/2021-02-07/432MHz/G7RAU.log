@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G7RAU
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IN79JX
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 CW 2021-02-07 0909 G7RAU         599 1 IN79JX         F6APE         599 25 IN97PI
+QSO:   432 PH 2021-02-07 0913 G7RAU         59 2 IN79JX          G4RRA         55 4 IO80BS
+QSO:   432 PH 2021-02-07 0917 G7RAU         59 3 IN79JX          M1MHZ         59 9 IO92WV
+QSO:   432 PH 2021-02-07 0921 G7RAU         55 4 IN79JX          G3XDY         559 10 JO02OB
+QSO:   432 CW 2021-02-07 0923 G7RAU         559 5 IN79JX         G4ODA         539 23 IO92WS
+QSO:   432 CW 2021-02-07 0940 G7RAU         599 6 IN79JX         M0GHZ         559 15 IO81VK
+QSO:   432 CW 2021-02-07 0949 G7RAU         559 7 IN79JX         G4NBS         559 36 JO02AF
+QSO:   432 CW 2021-02-07 0955 G7RAU         559 8 IN79JX         G4BRK         539 25 IO91HP
+QSO:   432 PH 2021-02-07 1002 G7RAU         51 9 IN79JX          G8CUL         51 29 IO91JO
+QSO:   432 CW 2021-02-07 1152 G7RAU         599 10 IN79JX        G3SJX         599 33 IO91LC
+QSO:   432 PH 2021-02-07 1155 G7RAU         53 11 IN79JX         GD8EXI        53 86 IO74PC
+QSO:   432 PH 2021-02-07 1200 G7RAU         55 12 IN79JX         G0ODQ         55 79 IO91MR
+QSO:   432 CW 2021-02-07 1209 G7RAU         559 13 IN79JX        G4HGI         419 68 IO83PL
+QSO:   432 CW 2021-02-07 1223 G7RAU         559 14 IN79JX        G4ASR         519 81 IO81MX
+QSO:   432 PH 2021-02-07 1244 G7RAU         55 15 IN79JX         G3SED         55 22 IO90IV
+QSO:   432 CW 2021-02-07 1258 G7RAU         559 16 IN79JX        G4CWH         559 31 JO01BV
+END-OF-LOG:

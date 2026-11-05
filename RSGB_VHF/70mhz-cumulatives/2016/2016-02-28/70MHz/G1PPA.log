@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G1PPA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93OJ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=160228&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=667; excluded rows=1.
+QSO:    70 PH 2016-02-28 1000 G1PPA         59 1 IO93OJ          G8EOP         59 1 IO93EQ
+QSO:    70 PH 2016-02-28 1018 G1PPA         55 2 IO93OJ          G4ASR         55 20 IO81MX
+QSO:    70 PH 2016-02-28 1029 G1PPA         55 3 IO93OJ          G4BWP         55 28 JO02FH
+QSO:    70 PH 2016-02-28 1036 G1PPA         57 4 IO93OJ          G3NPI         44 24 IO92MA
+QSO:    70 PH 2016-02-28 1135 G1PPA         57 5 IO93OJ          G3OVH         57 20 IO92JP
+QSO:    70 PH 2016-02-28 1146 G1PPA         55 6 IO93OJ          G4CRF         53 10 IO91OX
+END-OF-LOG:

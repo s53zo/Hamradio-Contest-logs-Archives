@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: M0TMR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93CR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3643; excluded rows=0.
+QSO:   432 PH 2022-02-06 1059 M0TMR         58 1 IO93CR          G4HGT         59 30 IO93EV
+QSO:   432 PH 2022-02-06 1119 M0TMR         52 2 IO93CR          M1DDD/P       57 65 IO93CH
+QSO:   432 PH 2022-02-06 1139 M0TMR         59 3 IO93CR          M0GAV/P       59 33 IO93FL
+END-OF-LOG:

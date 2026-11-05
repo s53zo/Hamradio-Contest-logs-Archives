@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM0GPZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75WS
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=191203&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10707; excluded rows=1.
+QSO:   144 PH 2019-12-03 2001 MM0GPZ        59 1 IO75WS          GD6ICR        53 2 IO74PF
+QSO:   144 PH 2019-12-03 2002 MM0GPZ        59 2 IO75WS          MM0CEZ        59 3 IO75XU
+QSO:   144 PH 2019-12-03 2003 MM0GPZ        59 3 IO75WS          GM4GUF        59 2 IO85EP
+QSO:   144 PH 2019-12-03 2003 MM0GPZ        59 4 IO75WS          MM0RWJ        59 2 IO85AT
+QSO:   144 PH 2019-12-03 2009 MM0GPZ        59 5 IO75WS          GM3SEK        59 5 IO74SR
+QSO:   144 PH 2019-12-03 2229 MM0GPZ        59 6 IO75WS          GM4BYF        59 25 IO85JV
+END-OF-LOG:

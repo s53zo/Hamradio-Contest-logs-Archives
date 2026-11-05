@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: MW1B
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+GRID-LOCATOR: IO81KW
+CATEGORY: SO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4083; excluded rows=1.
+QSO:   144 PH 2025-05-04 0954 MW1B          59 1 IO81KW NP       M1L           59 17 IO81WV GL
+QSO:   144 PH 2025-05-04 1005 MW1B          59 2 IO81KW NP       G4ILI         59 25 IO81WV GL
+QSO:   144 PH 2025-05-04 1046 MW1B          59 3 IO81KW NP       G2P           59 56 IO82MA HR
+END-OF-LOG:

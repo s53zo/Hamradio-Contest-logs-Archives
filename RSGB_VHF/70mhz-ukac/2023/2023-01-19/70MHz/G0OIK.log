@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0OIK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91SU
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=230119&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2875; excluded rows=1.
+QSO:    70 PH 2023-01-19 2001 G0OIK         59 1 IO91SU          G7LRQ/P       59 2 IO91TU
+QSO:    70 PH 2023-01-19 2010 G0OIK         59 2 IO91SU          G3MEH         59 8 IO91QS
+QSO:    70 PH 2023-01-19 2056 G0OIK         55 3 IO91SU          GW1YBB/P      57 58 IO81KW
+QSO:    70 PH 2023-01-19 2104 G0OIK         53 4 IO91SU          G0SKA         57 47 IO91OQ
+QSO:    70 PH 2023-01-19 2111 G0OIK         59 5 IO91SU          G8GYX         58 31 IO91VH
+END-OF-LOG:

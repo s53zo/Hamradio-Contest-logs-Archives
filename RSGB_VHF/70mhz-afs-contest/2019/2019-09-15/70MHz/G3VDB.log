@@ -1,0 +1,37 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G3VDB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83UG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2748; excluded rows=2.
+QSO:    70 PH 2019-09-15 0901 G3VDB         59 1 IO83UG          M0ICK/P       55 2 IO93AD
+QSO:    70 PH 2019-09-15 0903 G3VDB         59 2 IO83UG          GW4ZAR/P      59 5 IO83JF
+QSO:    70 PH 2019-09-15 0921 G3VDB         58 3 IO83UG          M1MHZ         57 21 IO92WV
+QSO:    70 PH 2019-09-15 0934 G3VDB         57 4 IO83UG          G4ODA         57 41 IO92WS
+QSO:    70 PH 2019-09-15 0936 G3VDB         59 5 IO83UG          G3UVR         57 8 IO83KH
+QSO:    70 PH 2019-09-15 0945 G3VDB         58 6 IO83UG          G2BQY/P       59 46 IO81RF
+QSO:    70 PH 2019-09-15 0947 G3VDB         55 7 IO83UG          G3TBK/P       55 34 IO93RA
+QSO:    70 PH 2019-09-15 0952 G3VDB         57 8 IO83UG          G3TKF/P       57 46 IO81RI
+QSO:    70 PH 2019-09-15 0958 G3VDB         59 9 IO83UG          G3TDH         59 16 IO83WI
+QSO:    70 PH 2019-09-15 1008 G3VDB         55 10 IO83UG         G8LED/P       52 36 IO92LH
+QSO:    70 PH 2019-09-15 1013 G3VDB         56 11 IO83UG         G5PI/P        58 56 JO02EB
+QSO:    70 PH 2019-09-15 1038 G3VDB         57 12 IO83UG         G7LRQ/P       55 65 IO91RU
+QSO:    70 PH 2019-09-15 1042 G3VDB         59 13 IO83UG         G4CWH/P       59 54 IO92XA
+QSO:    70 PH 2019-09-15 1054 G3VDB         59 14 IO83UG         G8BUN         57 33 IO93EQ
+QSO:    70 PH 2019-09-15 1059 G3VDB         56 15 IO83UG         G4YHF         54 29 IO92XW
+QSO:    70 PH 2019-09-15 1103 G3VDB         56 16 IO83UG         G4AON/P       55 41 IO93QV
+QSO:    70 PH 2019-09-15 1127 G3VDB         59 17 IO83UG         G4ASR         59 77 IO81MX
+QSO:    70 PH 2019-09-15 1129 G3VDB         57 18 IO83UG         G3VGG         51 65 IO82XH
+QSO:    70 CW 2019-09-15 1143 G3VDB         599 19 IO83UG        G4BEE/P       599 31 IO84SA
+END-OF-LOG:

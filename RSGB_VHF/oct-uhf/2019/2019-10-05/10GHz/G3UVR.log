@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G3UVR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83KH
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=80; excluded rows=0.
+QSO:   10G CW 2019-10-05 1910 G3UVR         529 1 IO83KH         G3XDY         519 8 JO02OB
+QSO:   10G CW 2019-10-05 1915 G3UVR         559 2 IO83KH         M1CRO/P       529 9 JO01PU
+QSO:   10G CW 2019-10-05 1954 G3UVR         559 3 IO83KH         G4ODA         559 6 IO92WS
+QSO:   10G CW 2019-10-06 0850 G3UVR         579 4 IO83KH         G4BAO         579 3 JO02CG
+QSO:   10G PH 2019-10-06 0932 G3UVR         59 5 IO83KH          G4CBW         59 1 IO83UB
+QSO:   10G PH 2019-10-06 1202 G3UVR         57 6 IO83KH          G1PPA/P       559 4 IO93RI
+QSO:   10G CW 2019-10-06 1206 G3UVR         559 7 IO83KH         G4DBN         549 4 IO93NR
+END-OF-LOG:

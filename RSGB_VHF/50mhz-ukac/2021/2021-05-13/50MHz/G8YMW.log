@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8YMW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93MM
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210513&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7416; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    50 PH 2021-05-13 1914 G8YMW         59 2 IO93MM          G0UOK         58 26 IO94MJ
+QSO:    50 PH 2021-05-13 1916 G8YMW         59 3 IO93MM          M0LLW/P       55 16 IO93NJ
+QSO:    50 PH 2021-05-13 1922 G8YMW         59 4 IO93MM          G0EAK/P       59 21 IO93NI
+QSO:    50 PH 2021-05-13 1925 G8YMW         52 5 IO93MM          G0FVI/P       52 17 IO93RD
+QSO:    50 PH 2021-05-13 1928 G8YMW         59 6 IO93MM          G8DMU/P       59 18 IO94CB
+QSO:    50 PH 2021-05-13 1931 G8YMW         59 7 IO93MM          G4FZN/P       59 36 IO94JF
+QSO:    50 PH 2021-05-13 1945 G8YMW         59 8 IO93MM          G3TBK/P       58 56 IO93RA
+QSO:    50 PH 2021-05-13 2004 G8YMW         59 9 IO93MM          G4CLA         57 77 IO92JL
+QSO:    50 PH 2021-05-13 2012 G8YMW         59 10 IO93MM         G1YBB/P       59 101 IO82LB
+QSO:    50 PH 2021-05-13 2016 G8YMW         59 11 IO93MM         M1DDD/P       59 117 IO93CH
+QSO:    50 PH 2021-05-13 2024 G8YMW         55 12 IO93MM         GW4SHF        53 65 IO82HP
+QSO:    50 PH 2021-05-13 2035 G8YMW         59 13 IO93MM         G3VCA         59 39 IO93MG
+QSO:    50 PH 2021-05-13 2039 G8YMW         58 14 IO93MM         G7LRQ/P       57 146 IO91RU
+QSO:    50 PH 2021-05-13 2046 G8YMW         55 15 IO93MM         G4ASR         52 95 IO81MX
+END-OF-LOG:

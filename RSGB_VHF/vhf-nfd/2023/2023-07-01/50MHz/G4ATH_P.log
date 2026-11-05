@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4ATH/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83NU
+CATEGORY: R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3729; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:    50 PH 2023-07-01 1505 G4ATH/P       59 1 IO83NU          G0CDA         5 0
+QSO:    50 PH 2023-07-01 1506 G4ATH/P       59 2 IO83NU          GW3ZTT/P      59 24 IO82KW
+QSO:    50 PH 2023-07-01 1525 G4ATH/P       59 4 IO83NU          MM0CPS/P      55 26 IO84BT
+QSO:    50 PH 2023-07-01 1535 G4ATH/P       59 5 IO83NU          EI9E/P        59 20 IO62OM
+QSO:    50 PH 2023-07-01 1620 G4ATH/P       59 6 IO83NU          IS0BSR        59 81 JN40PQ
+QSO:    50 PH 2023-07-01 1744 G4ATH/P       59 7 IO83NU          SP9WZJ        59 16 JO90EB
+QSO:    50 PH 2023-07-01 1748 G4ATH/P       59 8 IO83NU          SP9KDA        59 42 JO90EU
+QSO:    50 PH 2023-07-01 1753 G4ATH/P       59 9 IO83NU          SQ9JYK        59 17 KN09OQ
+QSO:    50 PH 2023-07-01 1757 G4ATH/P       59 10 IO83NU         OK2PVF        59 9 JN99GU
+QSO:    50 PH 2023-07-01 1813 G4ATH/P       59 11 IO83NU         SP6JOE        59 21 JO80CW
+QSO:    50 PH 2023-07-01 1824 G4ATH/P       59 12 IO83NU         DL6MRM        59 19 JO52QS
+QSO:    50 PH 2023-07-01 1835 G4ATH/P       59 13 IO83NU         G2BQY         59 148 IO81RF
+QSO:    50 PH 2023-07-01 1843 G4ATH/P       59 14 IO83NU         IZ5EME        - 0
+QSO:    50 PH 2023-07-01 1858 G4ATH/P       59 15 IO83NU         IZ5EME        59 51 JN52NS
+QSO:    50 PH 2023-07-01 1924 G4ATH/P       55 16 IO83NU         G3PIA/P       55 82 IO91IN
+QSO:    50 PH 2023-07-01 1936 G4ATH/P       59 17 IO83NU         DL2OE         57 36 JO72AJ
+QSO:    50 PH 2023-07-01 2005 G4ATH/P       59 18 IO83NU         GW4HFT        59 62 IO82HP
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G4LDR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO91EC
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=230321&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2611; excluded rows=1.
+QSO:  1.2G PH 2023-03-21 2004 G4LDR         59 1 IO91EC          M0GHZ         55 3 IO81VK
+QSO:  1.2G PH 2023-03-21 2006 G4LDR         59 2 IO91EC          G4CLA         59 11 IO92JL
+QSO:  1.2G PH 2023-03-21 2014 G4LDR         59 3 IO91EC          G4ASR/P       57 15 IO82LB
+QSO:  1.2G PH 2023-03-21 2018 G4LDR         57 4 IO91EC          G8LNR/P       51 8 IO81VR
+QSO:  1.2G PH 2023-03-21 2027 G4LDR         55 5 IO91EC          F1BHL/P       51 20 IN99PI
+QSO:  1.2G PH 2023-03-21 2039 G4LDR         59 6 IO91EC          G0HEL/P       59 17 IO81WG
+QSO:  1.2G PH 2023-03-21 2045 G4LDR         59 7 IO91EC          G6UAJ         57 18 IO91CL
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G0TCD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91VX
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=160313&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1416; excluded rows=0.
+QSO:    70 PH 2016-03-13 1115 G0TCD         55 1 IO91VX          G8SFI/P       58 54 IO94KH
+QSO:    70 PH 2016-03-13 1119 G0TCD         59 2 IO91VX          G4BWP         57 60 JO02FH
+QSO:    70 PH 2016-03-13 1122 G0TCD         55 3 IO91VX          G8DOH         55 50 IO92FA
+QSO:    70 PH 2016-03-13 1124 G0TCD         55 4 IO91VX          M1BXF         57 3 JO02FE
+QSO:    70 PH 2016-03-13 1145 G0TCD         53 5 IO91VX          M0ICR         53 22 IO91SO
+QSO:    70 PH 2016-03-13 1147 G0TCD         57 6 IO91VX          G8CLY         57 10 IO91UT
+END-OF-LOG:

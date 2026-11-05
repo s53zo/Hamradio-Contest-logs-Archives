@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3WRA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82PB
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=181213&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3523; excluded rows=0.
+QSO:    50 PH 2018-12-13 2000 G3WRA         57 1 IO82PB          GW4SHF        59 1 IO82HP
+QSO:    50 PH 2018-12-13 2002 G3WRA         59 2 IO82PB          G8LNR         59 2 IO82PB
+QSO:    50 PH 2018-12-13 2003 G3WRA         59 3 IO82PB          G1YBB/P       59 10 IO82LB
+QSO:    50 PH 2018-12-13 2004 G3WRA         59 4 IO82PB          G4ASR         59 10 IO81MX
+QSO:    50 PH 2018-12-13 2005 G3WRA         59 5 IO82PB          G4ILI         59 5 IO81WV
+QSO:    50 PH 2018-12-13 2007 G3WRA         59 6 IO82PB          G0HEL/P       59 6 IO81WG
+QSO:    50 PH 2018-12-13 2009 G3WRA         59 7 IO82PB          M0NVS/P       59 6 IO91LO
+QSO:    50 PH 2018-12-13 2011 G3WRA         59 8 IO82PB          G8XYJ         59 6 IO82PJ
+QSO:    50 PH 2018-12-13 2018 G3WRA         59 9 IO82PB          G3TCT         59 8 IO81QC
+QSO:    50 PH 2018-12-13 2024 G3WRA         52 10 IO82PB         M1DDD/P       57 38 IO93CH
+QSO:    50 PH 2018-12-13 2028 G3WRA         59 11 IO82PB         M0JLA         59 5 IO82PB
+QSO:    50 PH 2018-12-13 2029 G3WRA         59 12 IO82PB         G4XTF         59 7 IO82OA
+QSO:    50 PH 2018-12-13 2044 G3WRA         55 13 IO82PB         2E0OUT        55 12 IO81WO
+QSO:    50 PH 2018-12-13 2207 G3WRA         52 14 IO82PB         GW4MBS        56 23 IO71XW
+QSO:    50 PH 2018-12-13 2211 G3WRA         59 15 IO82PB         M0GAV/P       59 114 IO93EH
+END-OF-LOG:

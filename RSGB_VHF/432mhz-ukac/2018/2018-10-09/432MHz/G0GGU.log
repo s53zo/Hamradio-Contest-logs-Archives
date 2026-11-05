@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0GGU
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92OG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=181009&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7765; excluded rows=2.
+QSO:   432 PH 2018-10-09 1906 G0GGU         59 1 IO92OG          G4CLA         59 11 IO92JL
+QSO:   432 PH 2018-10-09 1910 G0GGU         52 2 IO92OG          G3MEH         53 7 IO91QS
+QSO:   432 CW 2018-10-09 1921 G0GGU         529 3 IO92OG         G4CZB/P       549 8 IO92LH
+QSO:   432 PH 2018-10-09 1928 G0GGU         59 4 IO92OG          G6GEI/P       59 12 IO92RA
+END-OF-LOG:

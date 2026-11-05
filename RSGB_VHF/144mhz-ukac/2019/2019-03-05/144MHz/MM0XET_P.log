@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM0XET/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO86ON
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190305&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9504; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2019-03-05 2005 MM0XET/P      57 1 IO86ON          GM4JTJ        57 2 IO86RP
+QSO:   144 PH 2019-03-05 2011 MM0XET/P      57 3 IO86ON          GM4AFF        59 8 IO86TS
+QSO:   144 PH 2019-03-05 2028 MM0XET/P      53 4 IO86ON          GM4GUF        51 7 IO85EP
+QSO:   144 PH 2019-03-05 2046 MM0XET/P      57 5 IO86ON          G4ASR         57 56 IO81MX
+QSO:   144 PH 2019-03-05 2053 MM0XET/P      54 6 IO86ON          GM4CLQ        54 4 IO85AR
+QSO:   144 PH 2019-03-05 2102 MM0XET/P      58 7 IO86ON          2M0KAU        59 7 IO86JF
+QSO:   144 PH 2019-03-05 2107 MM0XET/P      59 8 IO86ON          G1DDD/P       59 91 IO93DH
+QSO:   144 PH 2019-03-05 2117 MM0XET/P      55 9 IO86ON          MM0GPZ        55 38 IO75WS
+END-OF-LOG:

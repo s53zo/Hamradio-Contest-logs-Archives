@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M7HCT
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92XX
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250107&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=357; excluded rows=0.
+QSO:   144 FM 2025-01-07 1905 M7HCT         59 1 IO92XX          2E0VPX        55 5 IO92UX
+QSO:   144 FM 2025-01-07 1910 M7HCT         35 2 IO92XX          M7LHE         35 2 IO92UX
+QSO:   144 FM 2025-01-07 1925 M7HCT         55 3 IO92XX          M7DQO         59 3 IO92XR
+QSO:   144 FM 2025-01-07 1932 M7HCT         57 4 IO92XX          G6AD/P        57 5 IO92LJ
+END-OF-LOG:

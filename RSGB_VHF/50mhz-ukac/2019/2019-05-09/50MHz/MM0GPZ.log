@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: MM0GPZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO75WS
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190509&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4275; excluded rows=0.
+QSO:    50 PH 2019-05-09 1902 MM0GPZ        59 1 IO75WS          MM0CEZ        59 2 IO75XU
+QSO:    50 PH 2019-05-09 1904 MM0GPZ        54 2 IO75WS          GM4AFF        53 3 IO86TS
+QSO:    50 PH 2019-05-09 1906 MM0GPZ        55 3 IO75WS          G3TBK/P       57 11 IO93RA
+QSO:    50 PH 2019-05-09 1959 MM0GPZ        59 4 IO75WS          GM0OQV        59 2 IO85AT
+QSO:    50 PH 2019-05-09 2000 MM0GPZ        59 5 IO75WS          MM0BSM        59 1 IO86AD
+QSO:    50 PH 2019-05-09 2010 MM0GPZ        54 6 IO75WS          G4ASR         54 76 IO81MX
+QSO:    50 PH 2019-05-09 2014 MM0GPZ        59 7 IO75WS          G4FZN/P       59 78 IO94JF
+END-OF-LOG:

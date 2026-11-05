@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0DJA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93IF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230112&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2400; excluded rows=1.
+QSO:    50 PH 2023-01-12 2030 G0DJA         59 1 IO93IF          G4FZN/P       58 28 IO94JF
+QSO:    50 PH 2023-01-12 2040 G0DJA         59 2 IO93IF          G1HLT         59 8 IO93JD
+QSO:    50 PH 2023-01-12 2045 G0DJA         59 3 IO93IF          G0WUS/P       59 37 IO92MP
+QSO:    50 PH 2023-01-12 2046 G0DJA         59 4 IO93IF          G0EAK/P       59 14 IO93NI
+QSO:    50 PH 2023-01-12 2053 G0DJA         59 5 IO93IF          2E0DXK        59 4 IO93GF
+QSO:    50 PH 2023-01-12 2053 G0DJA         59 6 IO93IF          G6NUM         59 11 IO93MA
+QSO:    50 CW 2023-01-12 2058 G0DJA         599 7 IO93IF         G3TBY         599 2 IO93QA
+QSO:    50 PH 2023-01-12 2108 G0DJA         59 8 IO93IF          G4CLA         59 71 IO92JL
+QSO:    50 PH 2023-01-12 2118 G0DJA         55 9 IO93IF          GD8EXI        55 26 IO74PC
+QSO:    50 PH 2023-01-12 2135 G0DJA         55 10 IO93IF         G6HPR/P       55 36 IO92MO
+QSO:    50 PH 2023-01-12 2135 G0DJA         59 11 IO93IF         G1ZAR/P       59 20 IO93KA
+QSO:    50 PH 2023-01-12 2136 G0DJA         55 12 IO93IF         GW8ASD        56 23 IO82LB
+QSO:    50 PH 2023-01-12 2219 G0DJA         51 13 IO93IF         GI4SNA        51 5 IO64XM
+END-OF-LOG:

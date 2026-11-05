@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G1VWC
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=211103&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1103; excluded rows=0.
+QSO:   144 FT8 2021-11-03 1905 G1VWC         +27 IO92             G4NBS         +14 JO02
+QSO:   144 FT8 2021-11-03 1909 G1VWC         -09 IO92             2E0DUE        -21 JO01
+QSO:   144 FT8 2021-11-03 1919 G1VWC         -12 IO92             G7RDX         -22 IO91
+QSO:   144 FT8 2021-11-03 1927 G1VWC         +13 IO92             M0SKT         +05 IO92
+QSO:   144 FT8 2021-11-03 1930 G1VWC         -01 IO92             M0KKM         -05 JO02
+QSO:   144 FT8 2021-11-03 1931 G1VWC         -13 IO92             G8IXK         -12 IO91
+QSO:   144 FT8 2021-11-03 1937 G1VWC         -17 IO92             G0JJG         -13 JO02
+QSO:   144 FT8 2021-11-03 2003 G1VWC         -16 IO92             M7ICL         -22 JO02
+QSO:   144 FT8 2021-11-03 2008 G1VWC         +06 IO92             M0IEP         -06 IO91
+QSO:   144 FT8 2021-11-03 2050 G1VWC         -08 IO92             G0BIX         -13 JO01
+QSO:   144 FT8 2021-11-03 2056 G1VWC         +05 IO92             G7LRQ         -21 IO91
+END-OF-LOG:

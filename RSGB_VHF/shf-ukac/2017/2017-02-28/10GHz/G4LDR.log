@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4LDR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO91EC
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=170228&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=32; excluded rows=0.
+QSO:   10G PH 2017-02-28 2015 G4LDR         55 1 IO91EC          G4BAO         55 1 JO02CG
+QSO:   10G PH 2017-02-28 2023 G4LDR         59 2 IO91EC          M0GHZ         59 2 IO81VK
+QSO:   10G PH 2017-02-28 2032 G4LDR         53 3 IO91EC          G8OHM         41 3 IO92AJ
+QSO:   10G PH 2017-02-28 2040 G4LDR         53 4 IO91EC          G4ALY         55 1 IO70VL
+QSO:   10G PH 2017-02-28 2107 G4LDR         54 5 IO91EC          G4ODA         52 4 IO92WS
+END-OF-LOG:

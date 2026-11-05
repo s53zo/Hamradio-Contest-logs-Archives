@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: GD0TFG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO74QC
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6102; excluded rows=2.
+QSO:   144 PH 2019-12-08 1042 GD0TFG        59 1 IO74QC          GD8EXI        59 30 IO74PC
+QSO:   144 PH 2019-12-08 1055 GD0TFG        56 2 IO74QC          G4ODA         56 54 IO92WS
+QSO:   144 PH 2019-12-08 1119 GD0TFG        57 3 IO74QC          M0GHZ/P       57 58 IO81UN
+END-OF-LOG:

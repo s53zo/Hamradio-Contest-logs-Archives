@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0AZE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81OK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160426&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5602; excluded rows=4.
+QSO:    50 PH 2016-04-26 0000 G0AZE         55 1 IO81OK          2E0LDZ/P      56 67 IO91MP
+QSO:    50 PH 2016-04-26 0000 G0AZE         56 2 IO81OK          G3TCT         56 23 IO81QC
+QSO:    50 PH 2016-04-26 0000 G0AZE         59 3 IO81OK          G4JQN         59 20 IO81VG
+QSO:    50 PH 2016-04-26 0000 G0AZE         55 4 IO81OK          G4ELJ         52 52 IO91PH
+QSO:    50 PH 2016-04-26 0000 G0AZE         55 5 IO81OK          G4GFI         55 40 IO91VH
+QSO:    50 PH 2016-04-26 0000 G0AZE         53 6 IO81OK          M0JKR         53 11 IO81VH
+QSO:    50 PH 2016-04-26 0000 G0AZE         54 7 IO81OK          G3ORX         54 7 IO81VK
+QSO:    50 PH 2016-04-26 0000 G0AZE         55 8 IO81OK          G3PFM         52 22 IO80XS
+QSO:    50 PH 2016-04-26 0000 G0AZE         55 9 IO81OK          G4RRA         55 13 IO80BS
+END-OF-LOG:

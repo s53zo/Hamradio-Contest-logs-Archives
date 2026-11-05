@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G0XDI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91RQ
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2177; excluded rows=1.
+QSO:    50 PH 2022-07-02 2121 G0XDI         55 1 IO91RQ          G3PIA/P       55 69 IO91IN
+QSO:    50 PH 2022-07-02 2121 G0XDI         59 2 IO91RQ          G3MDG         59 41 IO91QS
+QSO:    50 PH 2022-07-02 2126 G0XDI         51 3 IO91RQ          G3VEF/P       55 32 IO91JA
+END-OF-LOG:

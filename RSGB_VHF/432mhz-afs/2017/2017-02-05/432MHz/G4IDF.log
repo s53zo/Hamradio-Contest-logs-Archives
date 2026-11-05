@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4IDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82VE
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4266; excluded rows=2.
+QSO:   432 PH 2017-02-05 1000 G4IDF         55 1 IO82VE          G5BBL/P       58 17 IO81UC
+QSO:   432 PH 2017-02-05 1001 G4IDF         58 2 IO82VE          G2BQY/P       59 31 IO91AJ
+QSO:   432 PH 2017-02-05 1004 G4IDF         59 3 IO82VE          G4FSU/P       59 28 IO81QG
+QSO:   432 PH 2017-02-05 1006 G4IDF         59 4 IO82VE          M0GHZ/P       57 39 IO81UN
+QSO:   432 PH 2017-02-05 1011 G4IDF         57 5 IO82VE          GW3TKH/P      55 49 IO81LS
+QSO:   432 PH 2017-02-05 1013 G4IDF         57 6 IO82VE          M0WYB/P       57 39 IO80WX
+QSO:   432 PH 2017-02-05 1013 G4IDF         59 7 IO82VE          G4BVY         59 5 IO82UD
+QSO:   432 PH 2017-02-05 1022 G4IDF         59 8 IO82VE          G0LGS         59 8 IO81WV
+QSO:   432 PH 2017-02-05 1023 G4IDF         59 9 IO82VE          G4CIB         59 7 IO81VX
+QSO:   432 PH 2017-02-05 1029 G4IDF         57 10 IO82VE         G0ODQ         59 50 IO91MR
+QSO:   432 PH 2017-02-05 1102 G4IDF         57 11 IO82VE         G4ASR         55 45 IO81MX
+QSO:   432 PH 2017-02-05 1111 G4IDF         55 12 IO82VE         G4GFI         52 47 IO91VH
+QSO:   432 PH 2017-02-05 1122 G4IDF         55 13 IO82VE         G3ZVW         51 21 IO80MS
+QSO:   432 PH 2017-02-05 1134 G4IDF         56 14 IO82VE         G7LRQ         53 56 IO91TQ
+QSO:   432 PH 2017-02-05 1213 G4IDF         56 15 IO82VE         F8BRK         57 87 IN99VF
+QSO:   432 PH 2017-02-05 1219 G4IDF         55 16 IO82VE         G0HEL         52 32 IO81WH
+QSO:   432 PH 2017-02-05 1252 G4IDF         53 17 IO82VE         GD8EXI        52 90 IO74PC
+END-OF-LOG:

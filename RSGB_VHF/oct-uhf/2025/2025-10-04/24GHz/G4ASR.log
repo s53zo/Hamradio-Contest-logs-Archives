@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G4ASR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 1.25CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81MX
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=57; excluded rows=0.
+QSO:   24G PH 2025-10-05 0900 G4ASR         59 1 IO81MX          G7MHF/P       59 1 IO82QJ85
+QSO:   24G PH 2025-10-05 0911 G4ASR         59 2 IO81MX          G7KTP/P       59 1 IO82QL84
+QSO:   24G PH 2025-10-05 1135 G4ASR         59 3 IO81MX          G7KTP/P       59 7 IO82QJ85
+QSO:   24G CW 2025-10-05 1518 G4ASR         519 4 IO81MX         M0GHZ/P       519 18 IO81TK79
+END-OF-LOG:

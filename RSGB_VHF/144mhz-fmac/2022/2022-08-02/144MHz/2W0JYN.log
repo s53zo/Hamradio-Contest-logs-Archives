@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2W0JYN
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83LA
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=220802&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1021; excluded rows=0.
+QSO:   144 FM 2022-08-02 1802 2W0JYN        59 1 IO83LA          G3WRA         59 1 IO82RJ
+QSO:   144 FM 2022-08-02 1807 2W0JYN        59 2 IO83LA          GW8ASD        59 4 IO83LB
+QSO:   144 FM 2022-08-02 1808 2W0JYN        52 3 IO83LA          G8ZRE         52 5 IO83NE
+QSO:   144 FM 2022-08-02 1810 2W0JYN        55 4 IO83LA          G7FWE/P       59 1 JO02KI
+QSO:   144 FM 2022-08-02 1811 2W0JYN        59 5 IO83LA          G4KPZ         59 4 IO92WK
+QSO:   144 FM 2022-08-02 1815 2W0JYN        55 6 IO83LA          G0LGS/P       58 3 IO91AU
+QSO:   144 FM 2022-08-02 1817 2W0JYN        54 7 IO83LA          G4ODA         598 1 IO92WS
+QSO:   144 FM 2022-08-02 1824 2W0JYN        57 8 IO83LA          M0KYB/P       57 30 IO91FN
+QSO:   144 FM 2022-08-02 1828 2W0JYN        53 9 IO83LA          G4LDL/P       53 31 IO91DM
+QSO:   144 FM 2022-08-02 1830 2W0JYN        59 10 IO83LA         G1YYB/P       59 11 IO82LB
+QSO:   144 FM 2022-08-02 1832 2W0JYN        55 11 IO83LA         G1MZD/P       56 8 IO92NC
+QSO:   144 FM 2022-08-02 1838 2W0JYN        57 12 IO83LA         G4NPS         55 14 JO02AF
+END-OF-LOG:

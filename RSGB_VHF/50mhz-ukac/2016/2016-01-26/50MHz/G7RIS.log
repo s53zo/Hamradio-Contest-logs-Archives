@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G7RIS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92EU
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160126&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5089; excluded rows=69.
+QSO:    50 PH 2016-01-26 2007 G7RIS         59 1 IO92EU          M0VXX/P       59 13 IO82QL
+QSO:    50 PH 2016-01-26 2015 G7RIS         59 2 IO92EU          G4CLA         59 16 IO92JL
+QSO:    50 PH 2016-01-26 2023 G7RIS         53 3 IO92EU          M0WLF         53 17 IO81QJ
+QSO:    50 PH 2016-01-26 2051 G7RIS         51 4 IO92EU          M0PCF/P       51 19 IO93GC
+QSO:    50 PH 2016-01-26 2059 G7RIS         51 5 IO92EU          M1MHZ         56 64 IO92WV
+END-OF-LOG:

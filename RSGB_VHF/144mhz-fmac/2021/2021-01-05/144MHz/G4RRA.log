@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4RRA
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80BS
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210105&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=837; excluded rows=2.
+QSO:   144 FM 2021-01-05 1907 G4RRA         55 1 IO80BS          M0TCF/P       58 1 IO80FP
+QSO:   144 FM 2021-01-05 1910 G4RRA         59 2 IO80BS          G3WGN         59 3 IO80EJ
+QSO:   144 FM 2021-01-05 1916 G4RRA         57 3 IO80BS          G3WRA         57 9 IO82PB
+QSO:   144 FM 2021-01-05 1917 G4RRA         55 4 IO80BS          GW8ASD        58 10 IO83LB
+QSO:   144 FM 2021-01-05 1919 G4RRA         57 5 IO80BS          M0BUL         59 16 IO82NG
+QSO:   144 FM 2021-01-05 1921 G4RRA         55 6 IO80BS          GW4REX        57 1 IO81PP
+QSO:   144 FM 2021-01-05 1928 G4RRA         55 7 IO80BS          G8LNR         55 14 IO81UR
+QSO:   144 FM 2021-01-05 1930 G4RRA         55 8 IO80BS          G4ODA         58 12 IO92WS
+QSO:   144 FM 2021-01-05 1935 G4RRA         59 9 IO80BS          M0BAO         59 1 IO80QW
+QSO:   144 FM 2021-01-05 1941 G4RRA         55 10 IO80BS         G0XBU         55 14 IO83UF
+QSO:   144 FM 2021-01-05 1942 G4RRA         59 11 IO80BS         GW4SHF        59 19 IO82HP
+QSO:   144 FM 2021-01-05 1944 G4RRA         59 12 IO80BS         G0UHY         59 8 IO80EK
+QSO:   144 FM 2021-01-05 1946 G4RRA         55 13 IO80BS         M1MHZ         55 1 IO92WV
+QSO:   144 FM 2021-01-05 1947 G4RRA         59 14 IO80BS         G6WWY         59 4 IO80MS
+QSO:   144 FM 2021-01-05 1949 G4RRA         55 15 IO80BS         G1YOY         55 4 IO81QL
+QSO:   144 FM 2021-01-05 1955 G4RRA         59 16 IO80BS         MW6IVK        59 1 IO81BP
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: G4CTP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=230111&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=468; excluded rows=0.
+QSO:   432 FT8 2023-01-11 1905 G4CTP         -09 IO91             G7WIR         -13 JO01
+QSO:   432 FT8 2023-01-11 1906 G4CTP         -07 IO91             G0GJV         -12 IO91
+QSO:   432 FT8 2023-01-11 1941 G4CTP         -05 IO91             G3ZPB         -11 IO91
+QSO:   432 FT8 2023-01-11 1946 G4CTP         -11 IO91             G3WZK         -15 IO91
+QSO:   432 FT8 2023-01-11 1956 G4CTP         +04 IO91             G0BIX         -16 JO01
+QSO:   432 FT8 2023-01-11 1959 G4CTP         +10 IO91             G0XDI         -11 IO91
+END-OF-LOG:

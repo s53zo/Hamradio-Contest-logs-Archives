@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4CLN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80FK
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220705&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11582; excluded rows=6.
+QSO:   144 PH 2022-07-05 1905 G4CLN         57 1 IO80FK          G3WCB         57 2 IO80EI
+QSO:   144 PH 2022-07-05 1910 G4CLN         59 2 IO80FK          G7KTE         59 2 IO80FJ
+QSO:   144 PH 2022-07-05 1918 G4CLN         59 3 IO80FK          M7NZL         59 2 IO80FK
+END-OF-LOG:

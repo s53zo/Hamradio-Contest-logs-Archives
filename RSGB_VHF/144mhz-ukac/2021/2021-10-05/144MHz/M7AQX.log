@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M7AQX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83VG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=211005&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9745; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2021-10-05 1908 M7AQX         59 1 IO83VG          G0CNN/P       54 11 IO94AI
+QSO:   144 PH 2021-10-05 1910 M7AQX         55 2 IO83VG          G0ISX         55 4 IO93DP
+QSO:   144 PH 2021-10-05 1912 M7AQX         59 3 IO83VG          M0ICK/P       59 18 IO83RO
+QSO:   144 PH 2021-10-05 1931 M7AQX         55 5 IO83VG          G3WRA         55 35 IO82RJ
+QSO:   144 PH 2021-10-05 1937 M7AQX         57 6 IO83VG          GW0MDQ        59 23 IO83KC
+QSO:   144 PH 2021-10-05 1949 M7AQX         59 7 IO83VG          GW4ZAR        59 28 IO83KF
+QSO:   144 PH 2021-10-05 1953 M7AQX         59 8 IO83VG          G0XBU         59 25 IO83UF
+QSO:   144 PH 2021-10-05 2009 M7AQX         57 9 IO83VG          2W0JYN        59 16 IO83LA
+QSO:   144 PH 2021-10-05 2018 M7AQX         53 10 IO83VG         GW8ASD        55 36 IO83LB
+QSO:   144 PH 2021-10-05 2035 M7AQX         51 11 IO83VG         G3YYD         59 130 IO92NQ
+QSO:   144 PH 2021-10-05 2038 M7AQX         53 12 IO83VG         G8REQ         53 45 IO83KI
+QSO:   144 PH 2021-10-05 2048 M7AQX         52 13 IO83VG         G8YIG         51 12 IO83WK
+QSO:   144 PH 2021-10-05 2049 M7AQX         59 14 IO83VG         G4FZN/P       59 90 IO94JF
+QSO:   144 PH 2021-10-05 2100 M7AQX         55 15 IO83VG         M1DDD/P       55 147 IO93CH
+QSO:   144 PH 2021-10-05 2103 M7AQX         59 16 IO83VG         G4JLG         59 51 IO83TM
+END-OF-LOG:

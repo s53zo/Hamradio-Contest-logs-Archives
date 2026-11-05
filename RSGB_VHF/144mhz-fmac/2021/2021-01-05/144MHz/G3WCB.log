@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G3WCB
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80EI
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210105&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=837; excluded rows=2.
+QSO:   144 FM 2021-01-05 1901 G3WCB         59 1 IO80EI          G3WGN         59 1 IO80EJ
+QSO:   144 FM 2021-01-05 1913 G3WCB         57 2 IO80EI          G6WWY         56 2 IO80MS
+QSO:   144 FM 2021-01-05 1913 G3WCB         59 3 IO80EI          G8XTO         59 1 IO80FK
+QSO:   144 FM 2021-01-05 1915 G3WCB         59 4 IO80EI          G0UHY         59 2 IO80EK
+QSO:   144 FM 2021-01-05 1935 G3WCB         59 5 IO80EI          M0TCF/P       59 6 IO80FP
+QSO:   144 FM 2021-01-05 1943 G3WCB         59 6 IO80EI          G7KTE         55 1 IO80FJ
+QSO:   144 FM 2021-01-05 1946 G3WCB         59 7 IO80EI          G4IUG         59 3 IO80EI
+END-OF-LOG:

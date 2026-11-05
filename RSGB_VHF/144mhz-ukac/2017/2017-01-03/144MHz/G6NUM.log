@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G6NUM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93MA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170103&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11542; excluded rows=7.
+QSO:   144 PH 2017-01-03 2000 G6NUM         59 1 IO93MA          M0VSE         59 1 IO92JP
+QSO:   144 PH 2017-01-03 2002 G6NUM         59 2 IO93MA          M0MDY         57 3 IO93HH
+QSO:   144 PH 2017-01-03 2009 G6NUM         59 3 IO93MA          M0CGL         57 11 JO03BF
+QSO:   144 PH 2017-01-03 2016 G6NUM         58 4 IO93MA          2E0RET/P      57 15 IO93FE
+QSO:   144 PH 2017-01-03 2026 G6NUM         59 5 IO93MA          G4HVC         59 24 IO93QA
+QSO:   144 PH 2017-01-03 2051 G6NUM         59 6 IO93MA          G4WAC         53 22 IO92BJ
+QSO:   144 PH 2017-01-03 2053 G6NUM         59 7 IO93MA          M6OLT         59 10 IO93TB
+QSO:   144 PH 2017-01-03 2055 G6NUM         59 8 IO93MA          G4CLA         59 131 IO92JL
+QSO:   144 PH 2017-01-03 2112 G6NUM         59 9 IO93MA          M0BRA         57 72 IO91PK
+QSO:   144 PH 2017-01-03 2124 G6NUM         59 10 IO93MA         M0RKX/P       57 49 IO92BA
+QSO:   144 PH 2017-01-03 2133 G6NUM         59 11 IO93MA         G3VCA         59 66 IO93MG
+QSO:   144 PH 2017-01-03 2139 G6NUM         59 12 IO93MA         G3SQQ         54 69 IO93JC
+QSO:   144 PH 2017-01-03 2216 G6NUM         59 13 IO93MA         G3PYE/P       59 126 JO02CE
+QSO:   144 PH 2017-01-03 2220 G6NUM         59 14 IO93MA         G4NBS         57 88 JO02AF
+QSO:   144 PH 2017-01-03 2222 G6NUM         59 15 IO93MA         G0EAK/P       57 101 IO93NI
+QSO:   144 PH 2017-01-03 2228 G6NUM         59 16 IO93MA         M0VXX/P       55 187 IO82QL
+END-OF-LOG:

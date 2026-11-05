@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M6AGT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92DE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170207&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11266; excluded rows=3.
+QSO:   144 PH 2017-02-07 2019 M6AGT         59 1 IO92DE          G3WRAP        59 16 IO82RA
+QSO:   144 PH 2017-02-07 2032 M6AGT         55 2 IO92DE          G8XYJ         59 36 IO82RJ
+QSO:   144 PH 2017-02-07 2035 M6AGT         54 3 IO92DE          G4LDLP        59 26 IO91DM
+QSO:   144 PH 2017-02-07 2047 M6AGT         55 4 IO92DE          G4ASR         59 61 IO81MX
+END-OF-LOG:

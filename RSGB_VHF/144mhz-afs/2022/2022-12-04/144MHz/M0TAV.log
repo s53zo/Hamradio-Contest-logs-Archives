@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: M0TAV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92FK
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7394; excluded rows=0.
+QSO:   144 PH 2022-12-04 1301 M0TAV         59 1 IO92FK          G0SKA         59 105 IO91OQ
+QSO:   144 PH 2022-12-04 1303 M0TAV         52 2 IO92FK          G5WCG/P       59 111 IO91GI
+QSO:   144 PH 2022-12-04 1306 M0TAV         59 3 IO92FK          G3MEH         57 106 IO91QS
+QSO:   144 PH 2022-12-04 1312 M0TAV         54 4 IO92FK          M0NVS         55 24 IO91SR
+QSO:   144 PH 2022-12-04 1315 M0TAV         55 5 IO92FK          G4EFT         54 52 IO91VL
+QSO:   144 PH 2022-12-04 1318 M0TAV         56 6 IO92FK          M0SAT         57 86 IO91TP
+QSO:   144 PH 2022-12-04 1320 M0TAV         59 7 IO92FK          G4ODA         59 150 IO92WS
+QSO:   144 PH 2022-12-04 1325 M0TAV         58 8 IO92FK          M0ICK/P       57 100 IO83RO
+QSO:   144 PH 2022-12-04 1328 M0TAV         51 9 IO92FK          G4CZB/P       54 101 IO92LH
+QSO:   144 PH 2022-12-04 1333 M0TAV         55 10 IO92FK         G1SCT         52 60 IO92XT
+QSO:   144 PH 2022-12-04 1334 M0TAV         57 11 IO92FK         G3TBK/P       56 127 IO93RA
+QSO:   144 PH 2022-12-04 1336 M0TAV         55 12 IO92FK         G8DOH         59 127 IO92FA
+QSO:   144 PH 2022-12-04 1340 M0TAV         53 13 IO92FK         M1MHZ         57 135 IO92WV
+QSO:   144 PH 2022-12-04 1341 M0TAV         54 14 IO92FK         G0XDI         53 136 IO91RQ
+QSO:   144 PH 2022-12-04 1343 M0TAV         59 15 IO92FK         G8LYB         57 81 IO92JI
+QSO:   144 PH 2022-12-04 1348 M0TAV         55 16 IO92FK         G6NUM         55 50 IO93MA
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-LOW-POWER
+CALLSIGN: G0JCC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82MA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+Low+Power&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1960; excluded rows=2.
+QSO:   432 PH 2023-08-06 1039 G0JCC         59 1 IO82MA HR       GW1YBB/P      54 68 IO81KW NP
+QSO:   432 PH 2023-08-06 1040 G0JCC         59 2 IO82MA HR       G4ASR         59 61 IO81MX HR
+END-OF-LOG:

@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GM4AFF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO86TS
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=181220&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2398; excluded rows=0.
+QSO:    70 PH 2018-12-20 2001 GM4AFF        55 1 IO86TS          G4ASR         57 1 IO81MX
+QSO:    70 PH 2018-12-20 2002 GM4AFF        54 2 IO86TS          GW4ZAR        55 2 IO83KF
+QSO:    70 PH 2018-12-20 2009 GM4AFF        59 3 IO86TS          GM8MJV        59 1 IO85MU
+QSO:    70 PH 2018-12-20 2021 GM4AFF        54 4 IO86TS          G0CER         55 9 IO82RV
+QSO:    70 PH 2018-12-20 2023 GM4AFF        54 5 IO86TS          GW8ASD        56 7 IO83LB
+QSO:    70 PH 2018-12-20 2025 GM4AFF        56 6 IO86TS          G3UVR         57 25 IO83KH
+QSO:    70 CW 2018-12-20 2052 GM4AFF        559 7 IO86TS         G3XDY         579 17 JO02OB
+QSO:    70 CW 2018-12-20 2207 GM4AFF        559 8 IO86TS         G3TCU/P       559 75 IO91RF
+QSO:    70 CW 2018-12-20 2213 GM4AFF        559 9 IO86TS         G3LVP         559 3 IO81WV
+QSO:    70 CW 2018-12-20 2217 GM4AFF        559 10 IO86TS        G3VCA         559 73 IO93MG
+QSO:    70 PH 2018-12-20 2223 GM4AFF        52 11 IO86TS         G3NPI         55 48 IO92MA
+QSO:    70 PH 2018-12-20 2224 GM4AFF        54 12 IO86TS         2E0DXK/P      55 43 IO93FG
+END-OF-LOG:

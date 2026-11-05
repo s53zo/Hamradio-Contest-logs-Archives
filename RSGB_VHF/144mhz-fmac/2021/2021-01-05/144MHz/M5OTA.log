@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M5OTA
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81WR
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210105&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=837; excluded rows=2.
+QSO:   144 FM 2021-01-05 1902 M5OTA         57 1 IO81WR          2E0WHQ        59 3 IO91DN
+QSO:   144 FM 2021-01-05 1905 M5OTA         55 2 IO81WR          G4LDL         57 5 IO91DN
+QSO:   144 FM 2021-01-05 1915 M5OTA         59 3 IO81WR          G1ERM         59 8 IO91CN
+QSO:   144 FM 2021-01-05 1919 M5OTA         55 4 IO81WR          G0UWS         56 9 IO91CO
+QSO:   144 FM 2021-01-05 1926 M5OTA         55 5 IO81WR          M0GHZ         55 2 IO81VK
+QSO:   144 FM 2021-01-05 1929 M5OTA         59 6 IO81WR          G4GUG         59 10 IO81WQ
+QSO:   144 FM 2021-01-05 1937 M5OTA         59 7 IO81WR          M7APR         59 21 IO91DN
+QSO:   144 FM 2021-01-05 1948 M5OTA         57 8 IO81WR          G4HGV         59 7 IO91CO
+END-OF-LOG:

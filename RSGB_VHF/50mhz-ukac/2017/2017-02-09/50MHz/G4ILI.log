@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4ILI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81WV
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170209&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5801; excluded rows=0.
+QSO:    50 PH 2017-02-09 2001 G4ILI         59 1 IO81WV          G4ENZ         59 1 IO81VV
+QSO:    50 PH 2017-02-09 2003 G4ILI         59 2 IO81WV          G4BCA         59 1 IO81VV
+QSO:    50 PH 2017-02-09 2004 G4ILI         55 3 IO81WV          M0BUL         55 4 IO82NG
+QSO:    50 PH 2017-02-09 2005 G4ILI         55 4 IO81WV          M0RKX/P       57 3 IO92BA
+QSO:    50 PH 2017-02-09 2007 G4ILI         59 5 IO81WV          G4IDF         59 7 IO82VE
+QSO:    50 PH 2017-02-09 2010 G4ILI         59 6 IO81WV          G0LGS         59 5 IO81WV
+QSO:    50 PH 2017-02-09 2011 G4ILI         59 7 IO81WV          2E0GKY        59 1 IO81WV
+QSO:    50 PH 2017-02-09 2016 G4ILI         59 8 IO81WV          G4CLA         59 29 IO92JL
+QSO:    50 PH 2017-02-09 2019 G4ILI         59 9 IO81WV          G1YBB/P       59 34 IO82LB
+QSO:    50 PH 2017-02-09 2025 G4ILI         59 10 IO81WV         G4ASR         59 47 IO81MX
+QSO:    50 PH 2017-02-09 2033 G4ILI         57 11 IO81WV         G4FZN/P       57 47 IO94JF
+QSO:    50 PH 2017-02-09 2037 G4ILI         55 12 IO81WV         M0VXX/M       55 7 IO82UH
+QSO:    50 PH 2017-02-09 2041 G4ILI         56 13 IO81WV         G3VCA         51 51 IO92MG
+QSO:    50 PH 2017-02-09 2050 G4ILI         56 14 IO81WV         G1SWH         56 35 IO83QO
+QSO:    50 PH 2017-02-09 2109 G4ILI         55 15 IO81WV         GW0GEI        56 18 IO72WC
+QSO:    50 PH 2017-02-09 2124 G4ILI         55 16 IO81WV         M0BUX         57 21 IO82WA
+END-OF-LOG:

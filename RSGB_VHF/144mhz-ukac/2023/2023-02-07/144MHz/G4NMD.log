@@ -1,0 +1,40 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4NMD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91RE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230207&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13224; excluded rows=7.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2023-02-07 2000 G4NMD         59 1 IO91RE          G4EFT         59 2 IO91RG
+QSO:   144 PH 2023-02-07 2001 G4NMD         59 2 IO91RE          G0SKA         59 2 IO91OQ
+QSO:   144 PH 2023-02-07 2004 G4NMD         59 3 IO91RE          G4YPC         59 5 IO91RH
+QSO:   144 PH 2023-02-07 2005 G4NMD         59 4 IO91RE          M0NVS/P       59 10 IO91LT
+QSO:   144 PH 2023-02-07 2007 G4NMD         56 5 IO91RE          G0LBK         55 9 JO03BD
+QSO:   144 PH 2023-02-07 2010 G4NMD         59 6 IO91RE          G4CLA         59 27 IO92JL
+QSO:   144 PH 2023-02-07 2011 G4NMD         59 7 IO91RE          G3MEH         56 11 IO91QS
+QSO:   144 PH 2023-02-07 2013 G4NMD         59 8 IO91RE          M0ABT/P       59 14 JO00DR
+QSO:   144 PH 2023-02-07 2015 G4NMD         59 9 IO91RE          G0XDI         59 18 IO91RQ
+QSO:   144 PH 2023-02-07 2017 G4NMD         57 10 IO91RE         G0OVZ/P       57 11 JO01AV
+QSO:   144 PH 2023-02-07 2020 G4NMD         55 11 IO91RE         G4GFI         54 7 IO91VH
+QSO:   144 PH 2023-02-07 2022 G4NMD         57 12 IO91RE         G0GJV         59 11 IO91OQ
+QSO:   144 PH 2023-02-07 2025 G4NMD         57 13 IO91RE         G6UBM         57 8 JO01CE
+QSO:   144 PH 2023-02-07 2027 G4NMD         59 14 IO91RE         G0SWC         59 10 IO91RF
+QSO:   144 PH 2023-02-07 2028 G4NMD         57 15 IO91RE         G4FEV         57 14 IO92RG
+QSO:   144 PH 2023-02-07 2031 G4NMD         57 16 IO91RE         G4KQH         57 12 IO92JD
+QSO:   144 PH 2023-02-07 2045 G4NMD         56 17 IO91RE         M0SAT         55 31 IO91TP
+QSO:   144 PH 2023-02-07 2047 G4NMD         59 18 IO91RE         G8GYX         57 30 IO91VH
+QSO:   144 PH 2023-02-07 2056 G4NMD         59 20 IO91RE         G0NGI         59 10 IO91QH
+QSO:   144 PH 2023-02-07 2058 G4NMD         56 21 IO91RE         G8CUL         55 50 IO91JO
+QSO:   144 PH 2023-02-07 2100 G4NMD         59 22 IO91RE         M0IAM         59 18 IO91QE
+QSO:   144 PH 2023-02-07 2111 G4NMD         55 23 IO91RE         G3ZST         53 33 IO92HF
+QSO:   144 PH 2023-02-07 2114 G4NMD         59 24 IO91RE         M0JQT         59 17 JO01DF
+END-OF-LOG:

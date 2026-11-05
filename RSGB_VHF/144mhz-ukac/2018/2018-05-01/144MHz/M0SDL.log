@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0SDL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80JT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180501&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10647; excluded rows=12.
+QSO:   144 PH 2018-05-01 1900 M0SDL         59 1 IO80JT          M0MLZ/P       59 1 IO70UM
+QSO:   144 PH 2018-05-01 1909 M0SDL         59 2 IO80JT          G7RAU         57 6 IN79JX
+QSO:   144 PH 2018-05-01 1911 M0SDL         59 3 IO80JT          G3WCB/P       59 12 IO80EI
+QSO:   144 PH 2018-05-01 1919 M0SDL         55 4 IO80JT          G4FZN/P       57 27 IO94JO
+QSO:   144 PH 2018-05-01 1926 M0SDL         59 5 IO80JT          G3USE         59 5 IO80JT
+QSO:   144 PH 2018-05-01 1927 M0SDL         59 6 IO80JT          M0BAO/P       55 6 IO80LV
+END-OF-LOG:

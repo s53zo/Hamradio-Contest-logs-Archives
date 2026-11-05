@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M1DST
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91BN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230307&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10703; excluded rows=2.
+QSO:   144 PH 2023-03-07 2002 M1DST         59 1 IO91BN          G0HEL/P       59 3 IO81WG
+QSO:   144 PH 2023-03-07 2003 M1DST         59 2 IO91BN          G6UAJ/P       59 8 IO91CL
+QSO:   144 PH 2023-03-07 2004 M1DST         59 3 IO91BN          2E0NEY        55 8 IO81VK
+END-OF-LOG:

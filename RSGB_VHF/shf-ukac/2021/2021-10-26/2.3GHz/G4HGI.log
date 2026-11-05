@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4HGI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO83PL
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=211026&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=651; excluded rows=0.
+QSO:  2.3G PH 2021-10-26 1901 G4HGI         59 1 IO83PL          G4JLG/P       59 6 IO83RO
+QSO:  2.3G PH 2021-10-26 1904 G4HGI         59 2 IO83PL          GW0HRG        59 4 IO83JF
+QSO:  2.3G PH 2021-10-26 1905 G4HGI         57 3 IO83PL          G4ASR         55 4 IO81MX
+QSO:  2.3G PH 2021-10-26 1928 G4HGI         59 4 IO83PL          G8DMU/P       55 20 IO94CB
+QSO:  2.3G PH 2021-10-26 1930 G4HGI         59 5 IO83PL          G6GVI         59 8 IO83SN
+QSO:  2.3G PH 2021-10-26 1931 G4HGI         57 6 IO83PL          M0UFC         56 8 IO83UK
+QSO:  2.3G PH 2021-10-26 1933 G4HGI         59 7 IO83PL          G4AQB         59 9 IO83TN
+QSO:  2.3G PH 2021-10-26 1934 G4HGI         59 8 IO83PL          G4NTY         59 10 IO83TM
+QSO:  2.3G PH 2021-10-26 1936 G4HGI         58 9 IO83PL          G3SQQ         59 16 IO93JC
+QSO:  2.3G PH 2021-10-26 1940 G4HGI         57 10 IO83PL         G8CUL         55 14 IO91JO
+QSO:  2.3G PH 2021-10-26 1945 G4HGI         55 11 IO83PL         G4BRK         52 12 IO91HP
+QSO:  2.3G PH 2021-10-26 1947 G4HGI         59 12 IO83PL         GW0MDQ        59 4 IO83KC
+QSO:  2.3G PH 2021-10-26 1954 G4HGI         56 13 IO83PL         M0GHZ         55 7 IO81VK
+QSO:  2.3G CW 2021-10-26 2007 G4HGI         589 14 IO83PL        G4ZTR         559 12 JO01KW
+QSO:  2.3G PH 2021-10-26 2011 G4HGI         57 15 IO83PL         G4CLA         57 23 IO92JL
+QSO:  2.3G PH 2021-10-26 2020 G4HGI         57 16 IO83PL         G4ODA         56 18 IO92WS
+END-OF-LOG:

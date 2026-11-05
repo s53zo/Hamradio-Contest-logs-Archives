@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G4AGE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO93IF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=210921&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3740; excluded rows=1.
+QSO:  1.2G PH 2021-09-21 1945 G4AGE         57 1 IO93IF          G8KPD/P       57 27 IO85XF
+QSO:  1.2G PH 2021-09-21 1948 G4AGE         59 2 IO93IF          G4KUX         57 53 IO94BP
+QSO:  1.2G PH 2021-09-21 1952 G4AGE         59 3 IO93IF          GD0AMD/P      58 17 IO74QD
+QSO:  1.2G PH 2021-09-21 1958 G4AGE         55 4 IO93IF          GD8EXI        52 9 IO74PC
+QSO:  1.2G PH 2021-09-21 2002 G4AGE         55 5 IO93IF          GI6ATZ        55 49 IO74AJ
+END-OF-LOG:

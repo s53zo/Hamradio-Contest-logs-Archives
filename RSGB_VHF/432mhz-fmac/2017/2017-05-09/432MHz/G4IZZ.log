@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G4IZZ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81XX
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FMAC&Date=170509&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=241; excluded rows=0.
+QSO:   432 FM 2017-05-09 1802 G4IZZ         59 1 IO81XX          2E0FGQ/M      59 1 IO82WA
+QSO:   432 FM 2017-05-09 1803 G4IZZ         59 2 IO81XX          G0LGS/P       59 1 IO81WU
+QSO:   432 FM 2017-05-09 1804 G4IZZ         59 3 IO81XX          M0RKX/P       59 2 IO92BA
+QSO:   432 FM 2017-05-09 1807 G4IZZ         59 4 IO81XX          G4ASR         59 1 IO81MX
+QSO:   432 FM 2017-05-09 1808 G4IZZ         59 5 IO81XX          M0RON         59 1 IO81XW
+QSO:   432 FM 2017-05-09 1809 G4IZZ         59 6 IO81XX          M6AGT         59 1 IO92DE
+QSO:   432 FM 2017-05-09 1812 G4IZZ         59 7 IO81XX          G0ULH         59 1 IO81VU
+QSO:   432 FM 2017-05-09 1817 G4IZZ         59 8 IO81XX          M0HWT         59 1 IO81WU
+QSO:   432 FM 2017-05-09 1834 G4IZZ         59 9 IO81XX          G4BCA         59 1 IO81VV
+QSO:   432 FM 2017-05-09 1841 G4IZZ         59 10 IO81XX         G1EIX         59 3 IO92DE
+END-OF-LOG:

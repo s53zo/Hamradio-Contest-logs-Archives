@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4ZTR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: JO01KW
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=210727&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=488; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  2.3G PH 2021-07-27 1830 G4ZTR         59 1 JO01KW          G8CUL         59 1 IO91JO
+QSO:  2.3G PH 2021-07-27 1833 G4ZTR         57 2 JO01KW          G4ASR/P       59 2 IO81FD
+QSO:  2.3G PH 2021-07-27 1840 G4ZTR         57 3 JO01KW          G4HWA         59 2 IO92ME
+QSO:  2.3G PH 2021-07-27 1841 G4ZTR         57 4 JO01KW          G3SQQ         59 4 IO93JC
+QSO:  2.3G PH 2021-07-27 1842 G4ZTR         57 5 JO01KW          G0EAK/P       59 3 IO93NJ
+QSO:  2.3G PH 2021-07-27 1844 G4ZTR         59 6 JO01KW          G4ODA         59 4 IO92WS
+QSO:  2.3G PH 2021-07-27 1914 G4ZTR         53 7 JO01KW          M0GHZ         54 2 IO81VK
+QSO:  2.3G PH 2021-07-27 1932 G4ZTR         57 8 JO01KW          G1PPA/P       57 10 IO93RI
+QSO:  2.3G PH 2021-07-27 1942 G4ZTR         57 9 JO01KW          PA0S          55 7 JO21FW
+QSO:  2.3G CW 2021-07-27 1953 G4ZTR         539 10 JO01KW        G0WUS         539 10 IO92KO
+QSO:  2.3G PH 2021-07-27 2015 G4ZTR         59 11 JO01KW         G7LRQ         59 20 IO91TQ
+QSO:  2.3G PH 2021-07-27 2033 G4ZTR         53 13 JO01KW         G0NZI/P       57 6 IO92FM
+QSO:  2.3G PH 2021-07-27 2049 G4ZTR         59 14 JO01KW         G8OHM         59 28 IO92AJ
+QSO:  2.3G PH 2021-07-27 2059 G4ZTR         59 15 JO01KW         G4CLA         59 31 IO92JL
+QSO:  2.3G PH 2021-07-27 2121 G4ZTR         59 16 JO01KW         G4FEV         59 14 IO92RG
+QSO:  2.3G PH 2021-07-27 2127 G4ZTR         56 17 JO01KW         G4BRK         53 21 IO91HP
+QSO:  2.3G PH 2021-07-27 2128 G4ZTR         59 18 JO01KW         G3TCU/P       59 25 IO91RF
+END-OF-LOG:

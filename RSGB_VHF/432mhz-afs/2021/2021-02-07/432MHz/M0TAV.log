@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: M0TAV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92FK
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 PH 2021-02-07 1148 M0TAV         57 1 IO92FK          G4GSB         54 10 IO82XM
+QSO:   432 PH 2021-02-07 1151 M0TAV         54 2 IO92FK          GD8EXI        53 83 IO74PC
+QSO:   432 PH 2021-02-07 1200 M0TAV         53 3 IO92FK          M0NVS         55 47 IO91SR
+QSO:   432 PH 2021-02-07 1204 M0TAV         55 4 IO92FK          G4ERO         55 51 JO02DJ
+QSO:   432 PH 2021-02-07 1215 M0TAV         55 5 IO92FK          G4CZB         55 40 IO92MF
+QSO:   432 PH 2021-02-07 1223 M0TAV         58 6 IO92FK          G0ODQ         59 87 IO91MR
+QSO:   432 PH 2021-02-07 1224 M0TAV         53 7 IO92FK          G6NUM         57 35 IO93MA
+QSO:   432 PH 2021-02-07 1232 M0TAV         52 8 IO92FK          G4ODA         56 121 IO92WS
+QSO:   432 PH 2021-02-07 1235 M0TAV         53 9 IO92FK          G3SQQ         56 65 IO93JC
+QSO:   432 PH 2021-02-07 1239 M0TAV         59 10 IO92FK         G8DOH         59 86 IO92FA
+END-OF-LOG:

@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4CLA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO92JL
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=230523&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=181; excluded rows=0.
+QSO:  3.4G PH 2023-05-23 1831 G4CLA         59 1 IO92JL          G4HWA         59 1 IO92ME
+QSO:  3.4G PH 2023-05-23 1832 G4CLA         59 2 IO92JL          G0WUS/P       59 1 IO92MP
+QSO:  3.4G PH 2023-05-23 1835 G4CLA         59 3 IO92JL          G4ZTR         59 2 JO01KW
+QSO:  3.4G PH 2023-05-23 1847 G4CLA         55 4 IO92JL          G1LPS         55 3 IO94EQ
+QSO:  3.4G PH 2023-05-23 1908 G4CLA         59 5 IO92JL          2E0TXQ/P      59 1 IO92MO
+QSO:  3.4G PH 2023-05-23 1933 G4CLA         59 6 IO92JL          G4JLG/P       59 6 IO83RO
+QSO:  3.4G PH 2023-05-23 2005 G4CLA         59 7 IO92JL          G6UAJ/P       55 4 IO91CL
+QSO:  3.4G PH 2023-05-23 2009 G4CLA         59 8 IO92JL          G4ODA         59 4 IO92WS
+QSO:  3.4G PH 2023-05-23 2018 G4CLA         59 9 IO92JL          G7LRQ         55 4 IO91TQ
+QSO:  3.4G PH 2023-05-23 2020 G4CLA         59 10 IO92JL         G3XDY         59 3 JO02OB
+QSO:  3.4G PH 2023-05-23 2036 G4CLA         57 11 IO92JL         G8CUL         57 8 IO91JO
+QSO:  3.4G CW 2023-05-23 2048 G4CLA         539 12 IO92JL        G4BRK         539 10 IO91HP
+QSO:  3.4G PH 2023-05-23 2049 G4CLA         59 13 IO92JL         M0FXX/P       59 4 IO91IN
+QSO:  3.4G PH 2023-05-23 2104 G4CLA         59 14 IO92JL         G4LDR         58 7 IO91EC
+QSO:  3.4G PH 2023-05-23 2109 G4CLA         59 15 IO92JL         G1ZAR/P       59 4 IO93EI
+QSO:  3.4G PH 2023-05-23 2116 G4CLA         53 16 IO92JL         G3UKV         53 8 IO82RR
+QSO:  3.4G PH 2023-05-23 2120 G4CLA         53 17 IO92JL         G4AQB         53 5 IO83TN
+END-OF-LOG:

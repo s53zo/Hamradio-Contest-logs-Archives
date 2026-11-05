@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G7ENA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO03AJ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8160; excluded rows=11.
+QSO:   144 PH 2018-12-02 1106 G7ENA         59 1 JO03AJ          M0CGL         59 37 JO03BG
+QSO:   144 PH 2018-12-02 1319 G7ENA         55 2 JO03AJ          G6ZXN/P       54 110 IO80QS
+QSO:   144 PH 2018-12-02 1327 G7ENA         57 3 JO03AJ          G3TBK/P       57 120 IO93RA
+QSO:   144 PH 2018-12-02 1340 G7ENA         59 4 JO03AJ          G4ODA         59 151 IO92WS
+END-OF-LOG:

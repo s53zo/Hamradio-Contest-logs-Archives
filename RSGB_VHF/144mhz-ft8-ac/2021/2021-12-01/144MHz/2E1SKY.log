@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: 2E1SKY
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=211201&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=747; excluded rows=0.
+QSO:   144 FT8 2021-12-01 1902 2E1SKY        +15 IO93             G8REM         +02 IO93
+QSO:   144 FT8 2021-12-01 1905 2E1SKY        -13 IO93             G0ISX         -01 IO93
+QSO:   144 FT8 2021-12-01 1913 2E1SKY        -02 IO93             G7KHV         -14 IO93
+QSO:   144 FT8 2021-12-01 1918 2E1SKY        -17 IO93             G6OCE         -09 IO92
+QSO:   144 FT8 2021-12-01 1924 2E1SKY        -09 IO93             G8AOE/P       +00 IO94
+QSO:   144 FT8 2021-12-01 1928 2E1SKY        -10 IO93             G8EEM         +04 IO93
+QSO:   144 FT8 2021-12-01 1930 2E1SKY        +08 IO93             M0HHF         +24 IO93
+QSO:   144 FT8 2021-12-01 1936 2E1SKY        -14 IO93             GI6ATZ        -07 IO74
+QSO:   144 FT8 2021-12-01 1940 2E1SKY        -14 IO93             2E0RRJ        -10 IO93
+QSO:   144 FT8 2021-12-01 1944 2E1SKY        -07 IO93             G0BWG         -09 IO93
+QSO:   144 FT8 2021-12-01 1959 2E1SKY        -11 IO93             2E0TXE        -04 IO83
+QSO:   144 FT8 2021-12-01 2000 2E1SKY        +18 IO93             G4PDF         +16 IO93
+QSO:   144 FT8 2021-12-01 2031 2E1SKY        -09 IO93             G3WAG/P       -08 IO82
+END-OF-LOG:

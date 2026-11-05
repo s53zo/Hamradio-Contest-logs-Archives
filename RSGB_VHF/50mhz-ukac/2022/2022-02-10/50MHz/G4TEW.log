@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4TEW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO94HC
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220210&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5486; excluded rows=9.
+QSO:    50 PH 2022-02-10 2205 G4TEW         59 1 IO94HC          G0CNN/P       59 69 IO94AI
+QSO:    50 PH 2022-02-10 2208 G4TEW         59 2 IO94HC          G0UOK/P       59 51 IO94MJ
+QSO:    50 PH 2022-02-10 2212 G4TEW         59 3 IO94HC          G4FZN/P       59 119 IO94JF
+QSO:    50 PH 2022-02-10 2221 G4TEW         55 4 IO94HC          G3RCW/P       55 59 IO93NJ
+END-OF-LOG:

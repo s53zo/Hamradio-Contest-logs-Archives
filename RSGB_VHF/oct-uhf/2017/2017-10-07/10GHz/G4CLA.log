@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G4CLA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92JL
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=371; excluded rows=5.
+QSO:   10G PH 2017-10-07 1542 G4CLA         59 1 IO92JL          G5B           59 1 IO92WS
+QSO:   10G PH 2017-10-07 1619 G4CLA         59 2 IO92JL          M1CRO/P       55 10 JO01PU
+QSO:   10G PH 2017-10-07 1624 G4CLA         59 3 IO92JL          G4ASR         59 4 IO81MX
+QSO:   10G CW 2017-10-07 1647 G4CLA         559 4 IO92JL         G4ALY         519 1 IO70VL
+QSO:   10G CW 2017-10-07 2026 G4CLA         539 5 IO92JL         G3UVR         539 3 IO83KH
+QSO:   10G PH 2017-10-07 2121 G4CLA         57 6 IO92JL          G4CBW         55 1 IO83UB
+QSO:   10G CW 2017-10-08 0849 G4CLA         539 7 IO92JL         G3XDY         519 5 JO02OB
+QSO:   10G PH 2017-10-08 1016 G4CLA         59 8 IO92JL          G4LDR         59 6 IO91EC
+QSO:   10G PH 2017-10-08 1029 G4CLA         57 9 IO92JL          G8NEY         57 4 IO81VK
+END-OF-LOG:

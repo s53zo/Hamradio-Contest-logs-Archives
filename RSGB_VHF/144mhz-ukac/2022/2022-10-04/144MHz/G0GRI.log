@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0GRI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80SX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=221004&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11074; excluded rows=4.
+QSO:   144 PH 2022-10-04 1929 G0GRI         59 1 IO80SX          G0LTG         59 18 IO81RF
+QSO:   144 PH 2022-10-04 1930 G0GRI         58 2 IO80SX          G8DMN         59 4 IO81RD
+QSO:   144 PH 2022-10-04 1931 G0GRI         58 3 IO80SX          2E0NEY        59 20 IO81VK
+QSO:   144 PH 2022-10-04 1935 G0GRI         56 4 IO80SX          G8DER         56 9 IO81XB
+QSO:   144 PH 2022-10-04 1939 G0GRI         53 5 IO80SX          M0WLF         52 35 IO81QJ
+QSO:   144 PH 2022-10-04 2004 G0GRI         56 6 IO80SX          G4RUL/P       59 76 JO00DR
+QSO:   144 PH 2022-10-04 2008 G0GRI         57 7 IO80SX          2E0OUT        59 26 IO81WO
+QSO:   144 PH 2022-10-04 2009 G0GRI         53 8 IO80SX          G8LNR/P       55 21 IO81VR
+QSO:   144 PH 2022-10-04 2052 G0GRI         59 9 IO80SX          G3TKF         59 8 IO81RI
+QSO:   144 PH 2022-10-04 2055 G0GRI         55 10 IO80SX         G8IQL         58 42 IO90LX
+QSO:   144 PH 2022-10-04 2102 G0GRI         52 11 IO80SX         2E0JWJ        58 10 IO81VG
+QSO:   144 PH 2022-10-04 2104 G0GRI         52 12 IO80SX         2E0HFV        55 3 IO91BL
+QSO:   144 PH 2022-10-04 2107 G0GRI         52 13 IO80SX         G8YJM         55 33 IO81RR
+QSO:   144 PH 2022-10-04 2112 G0GRI         55 14 IO80SX         G4GTH         59 31 IO90BV
+QSO:   144 PH 2022-10-04 2117 G0GRI         53 15 IO80SX         G4CZP/P       55 120 IO90JO
+QSO:   144 PH 2022-10-04 2129 G0GRI         54 16 IO80SX         G4CLA         59 224 IO92JL
+END-OF-LOG:

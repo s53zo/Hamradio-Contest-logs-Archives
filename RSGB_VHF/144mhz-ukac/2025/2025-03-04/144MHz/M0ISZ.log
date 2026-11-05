@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0ISZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92ET
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250304&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11447; excluded rows=3.
+QSO:   144 PH 2025-03-04 2018 M0ISZ         59 1 IO92ET          G8EKG         59 12 IO92ES
+QSO:   144 PH 2025-03-04 2020 M0ISZ         59 2 IO92ET          G8SEI         59 22 IO92FO
+QSO:   144 PH 2025-03-04 2025 M0ISZ         59 3 IO92ET          G3NFC/P       59 11 IO92EQ
+QSO:   144 PH 2025-03-04 2033 M0ISZ         59 4 IO92ET          M0RSD         59 23 IO82WM
+QSO:   144 PH 2025-03-04 2033 M0ISZ         59 5 IO92ET          M1EYP/P       59 25 IO83WE
+QSO:   144 PH 2025-03-04 2040 M0ISZ         59 6 IO92ET          M0ICJ/P       55 59 IO83RO
+QSO:   144 PH 2025-03-04 2044 M0ISZ         59 7 IO92ET          G1YBB         59 87 IO82LB
+END-OF-LOG:

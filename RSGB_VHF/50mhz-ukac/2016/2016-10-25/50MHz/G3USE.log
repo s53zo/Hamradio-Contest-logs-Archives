@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80JT
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=161025&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6427; excluded rows=3.
+QSO:    50 PH 2016-10-25 1907 G3USE         57 1 IO80JT          G0HEL/P       57 15 IO81WG
+QSO:    50 PH 2016-10-25 1910 G3USE         59 2 IO80JT          G4FJK         59 6 IO80HV
+QSO:    50 PH 2016-10-25 1914 G3USE         58 3 IO80JT          G3TCT         58 13 IO81QC
+QSO:    50 PH 2016-10-25 1915 G3USE         55 4 IO80JT          M0SAT         53 14 IO91TP
+QSO:    50 PH 2016-10-25 1926 G3USE         55 5 IO80JT          M0WYB         55 27 IO81SH
+QSO:    50 PH 2016-10-25 1929 G3USE         55 6 IO80JT          G3TBK/P       55 53 IO93RA
+QSO:    50 PH 2016-10-25 1933 G3USE         55 7 IO80JT          G0ODQ         55 23 IO91MR
+QSO:    50 PH 2016-10-25 1937 G3USE         57 8 IO80JT          G7LRQ/P       57 54 IO91RU
+QSO:    50 PH 2016-10-25 2003 G3USE         55 9 IO80JT          G3MEH         53 64 IO91QS
+QSO:    50 PH 2016-10-25 2008 G3USE         57 10 IO80JT         2E0LDZ/P      57 91 IO91MP
+END-OF-LOG:

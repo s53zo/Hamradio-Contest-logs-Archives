@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M1EYP/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83WE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=231003&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10105; excluded rows=6.
+QSO:   144 PH 2023-10-03 1900 M1EYP/P       59 1 IO83WE          MW0LKX/P      59 3 IO82KL
+QSO:   144 PH 2023-10-03 1901 M1EYP/P       59 2 IO83WE          G0WUS/P       59 1 IO92MP
+QSO:   144 PH 2023-10-03 1903 M1EYP/P       57 3 IO83WE          GD8EXI        57 8 IO74PC
+QSO:   144 PH 2023-10-03 1905 M1EYP/P       59 4 IO83WE          G8EKG         59 9 IO92ES
+QSO:   144 PH 2023-10-03 1907 M1EYP/P       55 5 IO83WE          G4FAL         55 11 IO93EJ
+END-OF-LOG:

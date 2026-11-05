@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: GM4TOE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO87RP
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=180508&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7141; excluded rows=3.
+QSO:   432 PH 2018-05-08 1900 GM4TOE        57 1 IO87RP          GM4JTJ        55 1 IO86RP
+QSO:   432 PH 2018-05-08 1902 GM4TOE        55 2 IO87RP          G8KPD/P       56 1 IO85XF
+QSO:   432 PH 2018-05-08 1903 GM4TOE        55 3 IO87RP          G0EHV/P       55 1 IO84XT
+QSO:   432 CW 2018-05-08 1914 GM4TOE        429 4 IO87RP         GM4VVX        519 1 IO78TA
+QSO:   432 PH 2018-05-08 1922 GM4TOE        52 5 IO87RP          GM3SEK        52 8 IO74SR
+QSO:   432 PH 2018-05-08 1946 GM4TOE        52 6 IO87RP          G8DMU/P       55 38 IO94CB
+QSO:   432 PH 2018-05-08 1956 GM4TOE        59 7 IO87RP          MM3ERP        59 2 IO87RJ
+QSO:   432 PH 2018-05-08 2001 GM4TOE        58 8 IO87RP          GI6ATZ        57 54 IO74AJ
+QSO:   432 PH 2018-05-08 2030 GM4TOE        57 9 IO87RP          MM0GPZ        57 4 IO75WS
+QSO:   432 PH 2018-05-08 2034 GM4TOE        57 10 IO87RP         GM8IEM        57 1 IO78HF
+QSO:   432 CW 2018-05-08 2053 GM4TOE        519 11 IO87RP        GM4GUF        529 8 IO85EP
+QSO:   432 PH 2018-05-08 2105 GM4TOE        58 12 IO87RP         G4ODA         58 122 IO92WS
+END-OF-LOG:

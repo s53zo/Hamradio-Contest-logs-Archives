@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-70MHZ-CONTEST
+CALLSIGN: GM7GDE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO75VS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+70MHz+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1762; excluded rows=1.
+QSO:    70 PH 2016-04-03 0926 GM7GDE        59 1 IO75VS          GM0WUX        59 1 IO75UU
+QSO:    70 PH 2016-04-03 0953 GM7GDE        53 2 IO75VS          GM4JR         52 16 IO85FB
+QSO:    70 PH 2016-04-03 1009 GM7GDE        57 3 IO75VS          GM4DIJ        55 8 IO85IW
+QSO:    70 PH 2016-04-03 1014 GM7GDE        59 4 IO75VS          GM4NFC        59 18 IO75RI
+QSO:    70 PH 2016-04-03 1024 GM7GDE        59 5 IO75VS          GM0USI        59 2 IO75UV
+END-OF-LOG:

@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G3VDB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83UG
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=190718&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4306; excluded rows=2.
+QSO:    70 PH 2019-07-18 1904 G3VDB         59 1 IO83UG          G3UVR         59 6 IO83KH
+QSO:    70 PH 2019-07-18 1906 G3VDB         59 2 IO83UG          G4HGT/P       57 6 IO93BV
+QSO:    70 PH 2019-07-18 1911 G3VDB         56 3 IO83UG          G3WRA/P       55 12 IO82QJ
+QSO:    70 PH 2019-07-18 1925 G3VDB         55 4 IO83UG          M0OMB         55 12 IO83PO
+QSO:    70 PH 2019-07-18 1927 G3VDB         59 5 IO83UG          G4ASR         59 32 IO81MX
+QSO:    70 PH 2019-07-18 1929 G3VDB         57 6 IO83UG          G4NTY         57 16 IO83TM
+QSO:    70 PH 2019-07-18 1931 G3VDB         54 7 IO83UG          GW4ZAR/P      54 24 IO83JF
+QSO:    70 PH 2019-07-18 1942 G3VDB         59 8 IO83UG          M1DDD/P       59 59 IO93CH
+QSO:    70 PH 2019-07-18 1945 G3VDB         58 9 IO83UG          G4FZN/P       57 44 IO94JF
+QSO:    70 PH 2019-07-18 1957 G3VDB         57 10 IO83UG         G3TDH         59 12 IO83WI
+QSO:    70 PH 2019-07-18 2005 G3VDB         57 11 IO83UG         M6KMB         55 20 IO93EQ
+QSO:    70 CW 2019-07-18 2016 G3VDB         579 12 IO83UG        G4JHA         569 1 IO83SM
+END-OF-LOG:

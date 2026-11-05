@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-70MHZ-CONTEST
+CALLSIGN: G8GNI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91JV
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+70MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1536; excluded rows=2.
+QSO:    70 PH 2017-04-02 1019 G8GNI         53 1 IO91JV          G3TCU/P       59 68 IO91RF
+QSO:    70 PH 2017-04-02 1059 G8GNI         59 2 IO91JV          G3NPI         59 52 IO92MA
+QSO:    70 PH 2017-04-02 1104 G8GNI         55 3 IO91JV          M0SAT         59 42 IO91TP
+QSO:    70 PH 2017-04-02 1159 G8GNI         55 4 IO91JV          G3MXH         59 63 JO02LF
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G8ZAX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91RF
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3124; excluded rows=4.
+QSO:    50 PH 2017-10-22 1049 G8ZAX         59 1 IO91RF GU       G4YPC         57 24 IO91RH GU
+QSO:    50 PH 2017-10-22 1050 G8ZAX         59 2 IO91RF GU       G3MEH         57 41 IO91QS HP
+QSO:    50 PH 2017-10-22 1050 G8ZAX         59 3 IO91RF GU       G0ODQ         59 39 IO91MR OX
+END-OF-LOG:

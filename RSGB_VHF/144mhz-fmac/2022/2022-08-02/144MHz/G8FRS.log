@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G8FRS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92DE
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=220802&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1021; excluded rows=0.
+QSO:   144 FM 2022-08-02 1802 G8FRS         57 1 IO92DE          G4ILI/P       58 3 IO81WU
+QSO:   144 FM 2022-08-02 1804 G8FRS         59 2 IO92DE          G0PLA/P       59 3 IO82XJ
+QSO:   144 FM 2022-08-02 1807 G8FRS         55 3 IO92DE          G0KYB/P       58 10 IO91FN
+QSO:   144 FM 2022-08-02 1809 G8FRS         59 4 IO92DE          G0RMG/P       59 11 IO92BA
+QSO:   144 FM 2022-08-02 1814 G8FRS         58 5 IO92DE          G0ORE/P       55 13 IO82XJ
+QSO:   144 FM 2022-08-02 1817 G8FRS         57 6 IO92DE          G3WRA         55 10 IO82RJ
+QSO:   144 FM 2022-08-02 1820 G8FRS         59 7 IO92DE          M0TVZ         59 6 IO92DE
+QSO:   144 FM 2022-08-02 1821 G8FRS         59 8 IO92DE          M1CFK         59 8 IO92AG
+END-OF-LOG:

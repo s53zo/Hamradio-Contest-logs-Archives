@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G4VFL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO84FL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210121&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3279; excluded rows=1.
+QSO:    70 PH 2021-01-21 2004 G4VFL         54 1 IO84FL          G1OAE         58 1 IO84FP
+QSO:    70 PH 2021-01-21 2038 G4VFL         51 2 IO84FL          G0HIK         53 3 IO84JE
+QSO:    70 PH 2021-01-21 2040 G4VFL         51 3 IO84FL          M0KPW         52 2 IO84JE
+QSO:    70 PH 2021-01-21 2137 G4VFL         52 4 IO84FL          G3VCA         57 52 IO93MG
+QSO:    70 PH 2021-01-21 2157 G4VFL         51 5 IO84FL          G8REQ         52 25 IO83KI
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: M0MHW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83RO
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4819; excluded rows=1.
+QSO:   432 PH 2023-02-05 0951 M0MHW         52 1 IO83RO          G3DCT/P       53 19 IO84JE
+QSO:   432 PH 2023-02-05 1002 M0MHW         52 2 IO83RO          GW3ATZ        54 13 IO83LE
+QSO:   432 PH 2023-02-05 1007 M0MHW         59 3 IO83RO          M0ICK         59 40 IO83RO
+QSO:   432 PH 2023-02-05 1048 M0MHW         55 4 IO83RO          G3TDH         57 16 IO83WI
+QSO:   432 PH 2023-02-05 1143 M0MHW         53 5 IO83RO          GD8EXI        52 82 IO74PC
+END-OF-LOG:

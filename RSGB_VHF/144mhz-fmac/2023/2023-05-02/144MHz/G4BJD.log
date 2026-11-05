@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4BJD
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82PB
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230502&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=953; excluded rows=0.
+QSO:   144 FM 2023-05-02 1803 G4BJD         59 1 IO82PB          M7TPE         59 2 IO81PV
+QSO:   144 FM 2023-05-02 1809 G4BJD         55 2 IO82PB          G0PLA/P       57 9 IO82XJ
+QSO:   144 FM 2023-05-02 1821 G4BJD         55 3 IO82PB          G0LGS         54 8 IO91AU
+QSO:   144 FM 2023-05-02 1832 G4BJD         59 4 IO82PB          G3WRA         59 2 IO82PB
+QSO:   144 FM 2023-05-02 1834 G4BJD         58 5 IO82PB          G4ILI/P       58 31 IO81WU
+END-OF-LOG:

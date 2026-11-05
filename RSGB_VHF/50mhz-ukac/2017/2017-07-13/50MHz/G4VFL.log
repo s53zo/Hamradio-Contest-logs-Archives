@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4VFL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO84FL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170713&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5439; excluded rows=2.
+QSO:    50 PH 2017-07-13 2046 G4VFL         59 1 IO84FL          M1MHZ         55 105 IO92WV
+QSO:    50 PH 2017-07-13 2049 G4VFL         55 2 IO84FL          G3VCA         56 64 IO93MG
+QSO:    50 PH 2017-07-13 2053 G4VFL         55 3 IO84FL          M0MDY         54 74 IO93HH
+QSO:    50 PH 2017-07-13 2055 G4VFL         56 4 IO84FL          G3TBK/P       55 106 IO93RA
+QSO:    50 PH 2017-07-13 2103 G4VFL         55 5 IO84FL          GW4BVE        55 18 IO82KQ
+QSO:    50 PH 2017-07-13 2108 G4VFL         53 6 IO84FL          G4ASR         57 110 IO81MX
+QSO:    50 PH 2017-07-13 2109 G4VFL         55 7 IO84FL          2E0DGP        59 31 IO83QP
+QSO:    50 PH 2017-07-13 2113 G4VFL         59 8 IO84FL          GI4SNA        55 97 IO64XM
+QSO:    50 PH 2017-07-13 2127 G4VFL         56 9 IO84FL          GM4JJJ        55 28 IO86GB
+QSO:    50 PH 2017-07-13 2129 G4VFL         55 10 IO84FL         G4YHF         56 25 IO92XW
+END-OF-LOG:

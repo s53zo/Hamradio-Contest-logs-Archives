@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: F4HOG
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: JN09OJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=220215&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2127; excluded rows=2.
+QSO:  1.2G PH 2022-02-15 1804 F4HOG         54 1 JN09OJ          F1CBC         53 1 JN09BO
+QSO:  1.2G PH 2022-02-15 1812 F4HOG         52 2 JN09OJ          F1ASJ         52 2 IN99XG
+QSO:  1.2G CW 2022-02-15 1948 F4HOG         521 3 JN09OJ         PA5Y          52 3 JO21VO
+QSO:  1.2G PH 2022-02-15 2020 F4HOG         59 4 JN09OJ          G3XDY         59 7 JO02OB
+END-OF-LOG:

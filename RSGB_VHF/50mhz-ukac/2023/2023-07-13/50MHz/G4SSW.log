@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4SSW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92II
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230713&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5467; excluded rows=3.
+QSO:    50 PH 2023-07-13 1906 G4SSW         57 1 IO92II          M0BUL         57 8 IO82NG
+QSO:    50 PH 2023-07-13 1908 G4SSW         59 2 IO92II          G8SCI         59 2 IO92FO
+QSO:    50 PH 2023-07-13 1914 G4SSW         59 3 IO92II          M0IJS         59 3 IO92II
+QSO:    50 PH 2023-07-13 1918 G4SSW         59 4 IO92II          G4ODA         59 11 IO92WS
+QSO:    50 PH 2023-07-13 1922 G4SSW         55 5 IO92II          G0CNN/P       55 27 IO94AI
+QSO:    50 PH 2023-07-13 1925 G4SSW         59 6 IO92II          G1YBB/P       59 33 IO82LB
+QSO:    50 PH 2023-07-13 1929 G4SSW         59 7 IO92II          G6HPR/P       59 14 IO92MO
+QSO:    50 PH 2023-07-13 1931 G4SSW         59 8 IO92II          G0ODQ         59 24 IO91MR
+QSO:    50 PH 2023-07-13 1951 G4SSW         56 9 IO92II          GI4SNA        51 67 IO64XM
+QSO:    50 PH 2023-07-13 1953 G4SSW         59 10 IO92II         G0FEH/P       59 13 IO92HD
+END-OF-LOG:

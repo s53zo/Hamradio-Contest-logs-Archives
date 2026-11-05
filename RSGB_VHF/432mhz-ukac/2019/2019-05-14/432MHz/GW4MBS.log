@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: GW4MBS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO71XW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=190514&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8449; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   432 PH 2019-05-14 1915 GW4MBS        55 1 IO71XW          M1MHZ         58 19 IO92WV
+QSO:   432 PH 2019-05-14 1918 GW4MBS        58 2 IO71XW          G4ODA         58 33 IO92WS
+QSO:   432 PH 2019-05-14 1920 GW4MBS        58 3 IO71XW          G3UBX         58 8 IO82WN
+QSO:   432 PH 2019-05-14 1924 GW4MBS        59 4 IO71XW          MW0XOT/P      58 7 IO82FC
+QSO:   432 PH 2019-05-14 1934 GW4MBS        57 5 IO71XW          G8PNN/P       58 24 IO95AF
+QSO:   432 PH 2019-05-14 1938 GW4MBS        55 6 IO71XW          G0EHV/P       53 22 IO84XT
+QSO:   432 PH 2019-05-14 1948 GW4MBS        55 7 IO71XW          G8RBW         52 15 IO93HE
+QSO:   432 PH 2019-05-14 1951 GW4MBS        59 8 IO71XW          GI6ATZ        59 45 IO74AJ
+QSO:   432 PH 2019-05-14 2000 GW4MBS        59 10 IO71XW         G8HXE/P       59 38 IO83RO
+QSO:   432 PH 2019-05-14 2009 GW4MBS        58 11 IO71XW         G4RRA         55 36 IO80BS
+QSO:   432 PH 2019-05-14 2013 GW4MBS        58 12 IO71XW         GW0RHC        59 5 IO71UN
+QSO:   432 PH 2019-05-14 2022 GW4MBS        57 13 IO71XW         G4RQI         52 47 IO93IO
+QSO:   432 PH 2019-05-14 2055 GW4MBS        58 14 IO71XW         GW4SHF        57 36 IO82HP
+QSO:   432 PH 2019-05-14 2101 GW4MBS        54 15 IO71XW         G3XDY         55 125 JO02OB
+QSO:   432 PH 2019-05-14 2104 GW4MBS        57 16 IO71XW         G4ASR         54 76 IO81MX
+QSO:   432 PH 2019-05-14 2105 GW4MBS        58 17 IO71XW         G4JLG         58 59 IO83TM
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G4CTP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210901&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1213; excluded rows=0.
+QSO:   144 FT8 2021-09-01 1905 G4CTP         -06 IO91             2E0WHQ        -15 IO91
+QSO:   144 FT8 2021-09-01 1911 G4CTP         +01 IO91             G3WAG/P       -12 IO82
+QSO:   144 FT8 2021-09-01 1914 G4CTP         -04 IO91             G0ITL         -17 IO92
+QSO:   144 FT8 2021-09-01 1918 G4CTP         -02 IO91             M0ABT         -09 JO00
+QSO:   144 FT8 2021-09-01 1924 G4CTP         +16 IO91             G4FTC         +00 IO91
+QSO:   144 FT8 2021-09-01 1928 G4CTP         +05 IO91             M0BEW         -14 IO82
+QSO:   144 FT8 2021-09-01 1931 G4CTP         +18 IO91             G4EFT         +03 IO91
+QSO:   144 FT8 2021-09-01 1933 G4CTP         -02 IO91             M0XXJ         -10 IO91
+QSO:   144 FT8 2021-09-01 1938 G4CTP         -12 IO91             M7PLS         -11 IO91
+QSO:   144 FT8 2021-09-01 1954 G4CTP         -06 IO91             MW3ASG        +00 IO81
+QSO:   144 FT8 2021-09-01 2014 G4CTP         -10 IO91             GB75ISWL      -16 -
+QSO:   144 FT8 2021-09-01 2020 G4CTP         -09 IO91             2E0DBS        -20 JO02
+QSO:   144 FT8 2021-09-01 2033 G4CTP         -19 IO91             G1DFL         -16 IO91
+QSO:   144 FT8 2021-09-01 2039 G4CTP         -01 IO91             G0LUH         -10 IO91
+QSO:   144 FT8 2021-09-01 2056 G4CTP         -02 IO91             M0IEP         -15 IO91
+END-OF-LOG:

@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G1SCT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92XT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=231109&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3049; excluded rows=0.
+QSO:    50 PH 2023-11-09 2000 G1SCT         59 1 IO92XT          G3TBK/P       59 1 IO93RA
+QSO:    50 PH 2023-11-09 2001 G1SCT         59 2 IO92XT          G4ODA         59 3 IO92WS
+QSO:    50 PH 2023-11-09 2004 G1SCT         55 3 IO92XT          G3VCA         58 3 IO93MG
+QSO:    50 PH 2023-11-09 2005 G1SCT         59 4 IO92XT          M1MHZ         59 6 IO92WV
+QSO:    50 PH 2023-11-09 2007 G1SCT         59 5 IO92XT          2E0VPX        59 5 IO92UX
+QSO:    50 PH 2023-11-09 2013 G1SCT         55 6 IO92XT          G4ASR         57 19 IO81MX
+QSO:    50 PH 2023-11-09 2014 G1SCT         55 7 IO92XT          G0SDM         58 5 IO92VV
+QSO:    50 PH 2023-11-09 2015 G1SCT         55 8 IO92XT          G4CLA         56 26 IO92JL
+QSO:    50 PH 2023-11-09 2019 G1SCT         55 9 IO92XT          GI4SNA        551 21 IO64XM
+QSO:    50 PH 2023-11-09 2021 G1SCT         59 10 IO92XT         G8SEI         59 16 IO92FO
+QSO:    50 PH 2023-11-09 2026 G1SCT         55 11 IO92XT         G3LDI         59 11 JO02ON
+QSO:    50 PH 2023-11-09 2029 G1SCT         52 12 IO92XT         2E0SBM/P      55 10 IO92IR
+QSO:    50 PH 2023-11-09 2036 G1SCT         55 13 IO92XT         G8ZRE         59 26 IO83NE
+QSO:    50 PH 2023-11-09 2041 G1SCT         51 14 IO92XT         G3YLA         55 12 JO02MP
+QSO:    50 PH 2023-11-09 2054 G1SCT         52 15 IO92XT         G0EAK/P       58 24 IO93NI
+QSO:    50 PH 2023-11-09 2102 G1SCT         55 16 IO92XT         G4PFZ         55 22 JO02PP
+QSO:    50 PH 2023-11-09 2103 G1SCT         52 17 IO92XT         G4KQY         52 19 JO02OP
+QSO:    50 PH 2023-11-09 2106 G1SCT         57 18 IO92XT         G3PXT         57 17 JO02PP
+QSO:    50 PH 2023-11-09 2107 G1SCT         51 19 IO92XT         G3YOA         51 6 JO02QU
+QSO:    50 PH 2023-11-09 2108 G1SCT         55 20 IO92XT         G4LPP         55 21 JO02SS
+END-OF-LOG:

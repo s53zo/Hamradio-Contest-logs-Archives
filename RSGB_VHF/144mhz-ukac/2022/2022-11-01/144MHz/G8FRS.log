@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8FRS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92DE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=221101&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8484; excluded rows=2.
+QSO:   144 PH 2022-11-01 2004 G8FRS         59 1 IO92DE          M0KYB/P       58 2 IO91FN
+QSO:   144 PH 2022-11-01 2008 G8FRS         59 2 IO92DE          G4ILI/P       59 10 IO81WU
+QSO:   144 PH 2022-11-01 2009 G8FRS         59 3 IO92DE          G4ASR/P       59 17 IO82LB
+QSO:   144 PH 2022-11-01 2013 G8FRS         59 4 IO92DE          G4CLA         59 35 IO92JL
+QSO:   144 PH 2022-11-01 2023 G8FRS         57 5 IO92DE          G6HPR/P       55 12 IO92MO
+QSO:   144 PH 2022-11-01 2034 G8FRS         57 6 IO92DE          G8LYB         55 14 IO92JI
+QSO:   144 PH 2022-11-01 2043 G8FRS         55 7 IO92DE          G1EFL/P       55 53 IO91LO
+QSO:   144 PH 2022-11-01 2046 G8FRS         59 8 IO92DE          G4KQH         59 37 IO92JD
+QSO:   144 PH 2022-11-01 2052 G8FRS         59 9 IO92DE          G0SKA         59 48 IO91OQ
+QSO:   144 PH 2022-11-01 2057 G8FRS         55 10 IO92DE         G6UAJ/P       52 30 IO91CL
+END-OF-LOG:

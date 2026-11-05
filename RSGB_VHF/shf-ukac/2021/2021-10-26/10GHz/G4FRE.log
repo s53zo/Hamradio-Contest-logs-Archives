@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4FRE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO82UC
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=211026&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=151; excluded rows=0.
+QSO:   10G PH 2021-10-26 1847 G4FRE         53 1 IO82UC          2E0MDJ/P      41 1 IO81WU
+QSO:   10G PH 2021-10-26 1905 G4FRE         53 2 IO82UC          G0LGS/P       57 1 IO81WU
+QSO:   10G PH 2021-10-26 1925 G4FRE         53 3 IO82UC          G4CLA         53 7 IO92JL
+QSO:   10G PH 2021-10-26 2002 G4FRE         59 4 IO82UC          G4NZV         54 3 IO82WA
+QSO:   10G PH 2021-10-26 2027 G4FRE         54 5 IO82UC          G3VKV         54 4 IO81XV
+END-OF-LOG:

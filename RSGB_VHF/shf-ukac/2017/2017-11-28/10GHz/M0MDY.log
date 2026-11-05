@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: M0MDY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO93HH
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=171128&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=137; excluded rows=0.
+QSO:   10G PH 2017-11-28 2000 M0MDY         59 1 IO93HH          G3PHO         59 1 IO93GG
+QSO:   10G PH 2017-11-28 2006 M0MDY         59 2 IO93HH          G7AVU         59 1 IO93OJ
+QSO:   10G PH 2017-11-28 2015 M0MDY         57 3 IO93HH          G4CLA         55 3 IO92JL
+QSO:   10G PH 2017-11-28 2037 M0MDY         55 4 IO93HH          G3YJR         55 2 IO93FJ
+QSO:   10G PH 2017-11-28 2047 M0MDY         57 5 IO93HH          G0EWN         55 2 IO93FK
+END-OF-LOG:

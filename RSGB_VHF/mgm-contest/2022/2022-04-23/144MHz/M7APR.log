@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MGM-CONTEST
+CALLSIGN: M7APR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=MGM+contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from machine-generated-mode contest context; exact submode unavailable.
+SOAPBOX: Export source rows=2504; excluded rows=0.
+QSO:   144 DG 2022-04-23 1617 M7APR         +16 IO91             M0BUL         +11 IO82
+QSO:   144 DG 2022-04-23 1621 M7APR         +25 IO91             M0BUL         +11 IO82
+QSO:   144 DG 2022-04-23 1623 M7APR         +25 IO91             G0LGS         +13 IO81
+QSO:   144 DG 2022-04-23 1627 M7APR         +01 IO91             G4VPD         -19 IO92
+QSO:   144 DG 2022-04-23 1629 M7APR         +28 IO91             G4OED         +39 IO91
+QSO:   144 DG 2022-04-23 1631 M7APR         -07 IO91             M7REV         -11 IO82
+QSO:   144 DG 2022-04-23 1632 M7APR         +06 IO91             M0HKV         -13 IO81
+QSO:   144 DG 2022-04-23 1636 M7APR         -10 IO91             G4APJ         -10 IO83
+QSO:   144 DG 2022-04-23 1638 M7APR         +12 IO91             2E0IEI        -14 IO81
+QSO:   144 DG 2022-04-23 1645 M7APR         +19 IO91             G5ALF         +27 IO91
+QSO:   144 DG 2022-04-23 1646 M7APR         +03 IO91             EI2GLB        -17 IO63
+END-OF-LOG:

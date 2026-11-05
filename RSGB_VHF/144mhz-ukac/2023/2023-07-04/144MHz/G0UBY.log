@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0UBY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO93TS
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230704&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9826; excluded rows=6.
+QSO:   144 PH 2023-07-04 2050 G0UBY         51 1 IO93TS          M7ALE/P       53 29 IO93QT
+QSO:   144 PH 2023-07-04 2105 G0UBY         51 2 IO93TS          G4CLA         53 201 IO92JL
+QSO:   144 PH 2023-07-04 2120 G0UBY         51 3 IO93TS          M1DDD         58 166 IO93CH
+END-OF-LOG:

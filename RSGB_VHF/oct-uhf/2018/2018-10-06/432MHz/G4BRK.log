@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G4BRK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91HP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=958; excluded rows=2.
+QSO:   432 PH 2018-10-07 0803 G4BRK         53 1 IO91HP          G8T           53 128 JO01KJ
+QSO:   432 PH 2018-10-07 0822 G4BRK         59 2 IO91HP          M1CRO/P       59 180 JO01PU
+QSO:   432 PH 2018-10-07 0825 G4BRK         58 3 IO91HP          G3M           57 156 JO01QD
+QSO:   432 PH 2018-10-07 0840 G4BRK         55 4 IO91HP          F1FPL         55 25 JN09LE
+QSO:   432 PH 2018-10-07 0919 G4BRK         59 5 IO91HP          G4GFI         59 11 IO91VH
+END-OF-LOG:

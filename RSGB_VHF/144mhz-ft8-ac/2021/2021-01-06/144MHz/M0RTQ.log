@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M0RTQ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210106&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1217; excluded rows=1.
+QSO:   144 FT8 2021-01-06 1903 M0RTQ         +01 IO93             G0DJA         -05 IO93
+QSO:   144 FT8 2021-01-06 1905 M0RTQ         +01 IO93             G8PGO         -16 IO92
+QSO:   144 FT8 2021-01-06 1911 M0RTQ         +18 IO93             G8DMU         +14 IO93
+QSO:   144 FT8 2021-01-06 1913 M0RTQ         +15 IO93             G1PPA         +14 IO93
+QSO:   144 FT8 2021-01-06 1916 M0RTQ         -05 IO93             G8AOE         -13 IO94
+QSO:   144 FT8 2021-01-06 1923 M0RTQ         +02 IO93             M7GZZ         -05 IO93
+QSO:   144 FT8 2021-01-06 1936 M0RTQ         -03 IO93             G4JIX         -15 IO94
+QSO:   144 FT8 2021-01-06 1938 M0RTQ         -06 IO93             G0ISX         -20 IO93
+QSO:   144 FT8 2021-01-06 1948 M0RTQ         +24 IO93             G7COU         +37 IO93
+QSO:   144 FT8 2021-01-06 1958 M0RTQ         +29 IO93             M3CRJ         +23 IO93
+QSO:   144 FT8 2021-01-06 2003 M0RTQ         -05 IO93             G8DMU         -19 IO93
+QSO:   144 FT8 2021-01-06 2007 M0RTQ         -04 IO93             G8FEK         +12 IO93
+QSO:   144 FT8 2021-01-06 2012 M0RTQ         -14 IO93             M1BTR         -17 JO03
+QSO:   144 FT8 2021-01-06 2034 M0RTQ         +17 IO93             G8LZG         +15 IO93
+QSO:   144 FT8 2021-01-06 2036 M0RTQ         -13 IO93             G8AOE         -18 IO94
+QSO:   144 FT8 2021-01-06 2047 M0RTQ         -23 IO93             2E0HIL        -19 IO92
+END-OF-LOG:

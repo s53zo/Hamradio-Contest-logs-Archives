@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0HXR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92UU
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230110&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5300; excluded rows=3.
+QSO:   432 PH 2023-01-10 2002 G0HXR         59 1 IO92UU          G4ODA         59 6 IO92WS
+QSO:   432 PH 2023-01-10 2007 G0HXR         55 2 IO92UU          M7DQO         55 1 IO92XR
+QSO:   432 PH 2023-01-10 2011 G0HXR         54 3 IO92UU          G3SED         53 4 IO90IV
+QSO:   432 PH 2023-01-10 2021 G0HXR         59 4 IO92UU          G4CLA         55 31 IO92JL
+QSO:   432 PH 2023-01-10 2031 G0HXR         55 5 IO92UU          G1HLT         55 13 IO93JD
+QSO:   432 PH 2023-01-10 2038 G0HXR         55 6 IO92UU          G0EAK/P       56 23 IO93NI
+QSO:   432 CW 2023-01-10 2052 G0HXR         559 7 IO92UU         G0DJA         559 12 IO93IF
+QSO:   432 PH 2023-01-10 2134 G0HXR         55 8 IO92UU          G0XDI         51 58 IO91RQ
+QSO:   432 PH 2023-01-10 2138 G0HXR         59 9 IO92UU          G4FEV         57 48 IO92RG
+QSO:   432 PH 2023-01-10 2144 G0HXR         55 10 IO92UU         G0WUS/P       57 72 IO92MP
+QSO:   432 PH 2023-01-10 2154 G0HXR         59 11 IO92UU         G6SWZ         57 20 IO93RF
+QSO:   432 PH 2023-01-10 2207 G0HXR         55 12 IO92UU         G6AD/P        55 42 IO92LJ
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G0LGS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81WV
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7408; excluded rows=1.
+QSO:   144 PH 2017-12-03 1006 G0LGS         59 1 IO81WV          G4CLA         59 13 IO92JL
+QSO:   144 PH 2017-12-03 1010 G0LGS         59 2 IO81WV          G4ASR         59 8 IO81MX
+QSO:   144 PH 2017-12-03 1012 G0LGS         57 3 IO81WV          M1DDD/P       55 2 IO93CH
+QSO:   144 PH 2017-12-03 1013 G0LGS         57 4 IO81WV          G3TBK/P       57 15 IO93RA
+QSO:   144 PH 2017-12-03 1014 G0LGS         59 5 IO81WV          G4BVY/P       59 20 IO82LB
+QSO:   144 PH 2017-12-03 1018 G0LGS         57 6 IO81WV          G3ZXZ         57 11 IO93CU
+QSO:   144 PH 2017-12-03 1020 G0LGS         59 7 IO81WV          M0MAT/P       59 14 IO81EE
+QSO:   144 PH 2017-12-03 1031 G0LGS         59 8 IO81WV          M0WYB/P       59 21 IO80WX
+QSO:   144 PH 2017-12-03 1033 G0LGS         54 9 IO81WV          G3ZVW         52 31 IO80MS
+QSO:   144 PH 2017-12-03 1038 G0LGS         59 10 IO81WV         G4ODA         59 47 IO92WS
+QSO:   144 PH 2017-12-03 1041 G0LGS         59 11 IO81WV         M0IEP         59 18 IO91DP
+QSO:   144 PH 2017-12-03 1046 G0LGS         55 12 IO81WV         G4YPC         51 20 IO91RH
+QSO:   144 PH 2017-12-03 1049 G0LGS         59 13 IO81WV         G4FSU/P       59 9 IO81QG
+END-OF-LOG:

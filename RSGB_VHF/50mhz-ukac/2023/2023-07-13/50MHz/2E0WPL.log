@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: 2E0WPL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82PF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230713&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5467; excluded rows=3.
+QSO:    50 PH 2023-07-13 1938 2E0WPL        59 1 IO82PF          G4ASR         59 42 IO81MX
+QSO:    50 PH 2023-07-13 1948 2E0WPL        59 2 IO82PF          G0LGS/P       55 42 IO81WU
+QSO:    50 PH 2023-07-13 1950 2E0WPL        59 3 IO82PF          2E0KYX        59 9 IO82PH
+QSO:    50 PH 2023-07-13 1952 2E0WPL        59 4 IO82PF          MW0LKX/P      59 60 IO82KL
+QSO:    50 PH 2023-07-13 1958 2E0WPL        59 5 IO82PF          G1YBB/P       59 71 IO82LB
+END-OF-LOG:

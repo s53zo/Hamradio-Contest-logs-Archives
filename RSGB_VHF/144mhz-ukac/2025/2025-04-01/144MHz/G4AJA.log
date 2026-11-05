@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4AJA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91DP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250401&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9861; excluded rows=2.
+QSO:   144 PH 2025-04-01 1940 G4AJA         59 1 IO91DP          M0UHF         59 27 IO91IP
+QSO:   144 PH 2025-04-01 1944 G4AJA         59 2 IO91DP          GW6UAJ/P      59 54 IO81KR
+QSO:   144 PH 2025-04-01 1952 G4AJA         55 3 IO91DP          2E0NEY        55 36 IO81VK
+QSO:   144 PH 2025-04-01 2000 G4AJA         58 4 IO91DP          G4BRK         58 29 IO91HP
+QSO:   144 PH 2025-04-01 2005 G4AJA         59 5 IO91DP          G1DFL/P       59 66 IO91MP
+QSO:   144 PH 2025-04-01 2012 G4AJA         59 6 IO91DP          G0SKA         59 55 IO91OQ
+QSO:   144 PH 2025-04-01 2033 G4AJA         59 7 IO91DP          G4ASR/P       59 85 IO81MW
+QSO:   144 PH 2025-04-01 2037 G4AJA         59 8 IO91DP          M0GHZ/P       59 72 IO81UN
+QSO:   144 PH 2025-04-01 2041 G4AJA         59 9 IO91DP          G0LTG/P       59 98 IO81RF
+QSO:   144 PH 2025-04-01 2045 G4AJA         59 10 IO91DP         G4CLA         59 189 IO92JL
+QSO:   144 PH 2025-04-01 2050 G4AJA         59 11 IO91DP         G4CZP/P       59 102 IO90JO
+QSO:   144 PH 2025-04-01 2059 G4AJA         59 12 IO91DP         G4KQH         58 68 IO92JD
+END-OF-LOG:

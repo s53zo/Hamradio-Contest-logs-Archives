@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G8XST
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80FL
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=220405&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1140; excluded rows=3.
+QSO:   144 FM 2022-04-05 1803 G8XST         59 1 IO80FL          G3WCB         59 2 IO80EI
+QSO:   144 FM 2022-04-05 1807 G8XST         59 2 IO80FL          M0NZL         59 5 IO80FK
+QSO:   144 FM 2022-04-05 1810 G8XST         59 3 IO80FL          G4CLN         59 3 IO80FK
+QSO:   144 FM 2022-04-05 1812 G8XST         59 4 IO80FL          G8XTO         59 4 IO80FK
+END-OF-LOG:

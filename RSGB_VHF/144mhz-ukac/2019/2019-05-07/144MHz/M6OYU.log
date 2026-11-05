@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M6OYU
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93RE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190507&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12041; excluded rows=5.
+QSO:   144 PH 2019-05-07 1924 M6OYU         57 1 IO93RE          M0ZNF/P       57 26 IO93RJ
+QSO:   144 PH 2019-05-07 1945 M6OYU         52 2 IO93RE          G3VLG/P       53 29 IO92IR
+QSO:   144 PH 2019-05-07 1954 M6OYU         56 3 IO93RE          M1MHZ         56 67 IO92WV
+QSO:   144 PH 2019-05-07 2022 M6OYU         55 4 IO93RE          M0GAV/P       55 121 IO93EH
+QSO:   144 PH 2019-05-07 2036 M6OYU         55 5 IO93RE          G0EAK/P       58 73 IO93NI
+QSO:   144 CW 2019-05-07 2045 M6OYU         557 6 IO93RE         M0ZMF/P       57 58 IO93NJ
+QSO:   144 PH 2019-05-07 2050 M6OYU         56 7 IO93RE          G3TBK/P       56 120 IO93RA
+END-OF-LOG:

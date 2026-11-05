@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G1DRW
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82PB
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210504&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=982; excluded rows=1.
+QSO:   144 FM 2021-05-04 1829 G1DRW         59 1 IO82PB          G4ILI/P       59 22 IO81WU
+QSO:   144 FM 2021-05-04 1833 G1DRW         59 2 IO82PB          G3WRA         59 16 IO82PB
+QSO:   144 FM 2021-05-04 1837 G1DRW         59 3 IO82PB          G3TKF         59 16 IO81RI
+QSO:   144 FM 2021-05-04 1842 G1DRW         59 4 IO82PB          G7SET/P       59 32 IO82XJ
+END-OF-LOG:

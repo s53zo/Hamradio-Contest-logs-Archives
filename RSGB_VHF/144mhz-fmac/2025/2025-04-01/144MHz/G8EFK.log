@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G8EFK
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91CN
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250401&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=642; excluded rows=1.
+QSO:   144 FM 2025-04-01 1801 G8EFK         59 1 IO91CN          G0OIW/P       59 1 IO91LO
+QSO:   144 FM 2025-04-01 1811 G8EFK         59 2 IO91CN          M0KYB         59 5 IO91BN
+QSO:   144 FM 2025-04-01 1813 G8EFK         59 3 IO91CN          GW6UAJ/P      59 12 IO81KR
+QSO:   144 FM 2025-04-01 1828 G8EFK         59 4 IO91CN          2E0VGP        59 6 IO91BO
+QSO:   144 FM 2025-04-01 1833 G8EFK         59 5 IO91CN          G0RMG/P       59 24 IO91AW
+END-OF-LOG:

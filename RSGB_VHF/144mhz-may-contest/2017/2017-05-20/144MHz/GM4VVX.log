@@ -1,0 +1,43 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: GM4VVX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO78TA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6302; excluded rows=10.
+SOAPBOX: WARNING: 4 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (3).
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2017-05-20 1420 GM4VVX        59 1 IO78TA IV       GM6VXB        59 1 IO97AQ AB
+QSO:   144 PH 2017-05-20 1451 GM4VVX        52 2 IO78TA IV       GD6ICR        52 4 IO74PF IM
+QSO:   144 PH 2017-05-20 1545 GM4VVX        26 3 IO78TA IV       GW2R          26 18 IO82KQ SY
+QSO:   144 PH 2017-05-20 1815 GM4VVX        26 8 IO78TA IV       SM5KWU        26 1 JO89IP
+QSO:   144 CW 2017-05-20 1918 GM4VVX        559 9 IO78TA IV      MM0CEZ        559 5 IO75KU ML
+QSO:   144 PH 2017-05-20 1956 GM4VVX        59 10 IO78TA IV      GM4NFC        59 3 IO75RI KA
+QSO:   144 CW 2017-05-20 2005 GM4VVX        599 11 IO78TA IV     GM3WOJ        599 3 IO77WS IV
+QSO:   144 PH 2017-05-21 0502 GM4VVX        26 12 IO78TA IV      G3M           26 235 JO01QD CT
+QSO:   144 PH 2017-05-21 0652 GM4VVX        26 13 IO78TA IV      DL6BF         27 5 JO32QI
+QSO:   144 PH 2017-05-21 0749 GM4VVX        26 14 IO78TA IV      DL8SCO        26 1 JN48RV
+QSO:   144 PH 2017-05-21 0804 GM4VVX        37 15 IO78TA IV      PA5Y          37 1 JO21VO
+QSO:   144 PH 2017-05-21 0816 GM4VVX        59 16 IO78TA IV      GM8IEM        59 1 IO78HF IV
+QSO:   144 PH 2017-05-21 0845 GM4VVX        57 17 IO78TA IV      GM4TOE        52 1 IO87RP IV
+QSO:   144 PH 2017-05-21 0930 GM4VVX        26 18 IO78TA IV      DK3XT         26 5 JN49FE
+QSO:   144 PH 2017-05-21 1010 GM4VVX        26 19 IO78TA IV      SM6CEN        26 3 JO67AJ
+QSO:   144 PH 2017-05-21 1054 GM4VVX        59 20 IO78TA IV      GI6ATZ        57 18 IO74AJ BT
+QSO:   144 PH 2017-05-21 1105 GM4VVX        59 21 IO78TA IV      GW8ASD        59 54 IO83LB LL
+QSO:   144 PH 2017-05-21 1230 GM4VVX        26 22 IO78TA IV      DF1JC         26 17 JO31OG
+QSO:   144 PH 2017-05-21 1250 GM4VVX        26 23 IO78TA IV      OK2PMS        26 1 JN89WW
+QSO:   144 PH 2017-05-21 1316 GM4VVX        26 24 IO78TA IV      SP3UCA        26 1 JO92CG
+QSO:   144 PH 2017-05-21 1340 GM4VVX        55 25 IO78TA IV      GM8MJV        54 13 IO85MU EH
+QSO:   144 PH 2017-05-21 1345 GM4VVX        51 26 IO78TA IV      G0EHV/P       52 50 IO84XT CA
+END-OF-LOG:

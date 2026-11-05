@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0NGI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91QH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230110&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5300; excluded rows=3.
+QSO:   432 PH 2023-01-10 2019 G0NGI         55 1 IO91QH          G4YPC         53 7 IO91RH
+QSO:   432 PH 2023-01-10 2020 G0NGI         55 2 IO91QH          G0SWC         53 2 IO91RF
+QSO:   432 PH 2023-01-10 2023 G0NGI         55 3 IO91QH          G8YKM         58 3 IO91PF
+QSO:   432 PH 2023-01-10 2049 G0NGI         55 4 IO91QH          G4GFI         52 19 IO91VH
+QSO:   432 PH 2023-01-10 2053 G0NGI         58 5 IO91QH          G8GYX         58 26 IO91VH
+QSO:   432 PH 2023-01-10 2058 G0NGI         55 6 IO91QH          G0XDI         55 43 IO91RQ
+QSO:   432 PH 2023-01-10 2109 G0NGI         57 7 IO91QH          G0ODQ         59 45 IO91MR
+QSO:   432 PH 2023-01-10 2125 G0NGI         59 8 IO91QH          M0IAM         59 18 IO91QE
+END-OF-LOG:

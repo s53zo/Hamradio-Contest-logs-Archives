@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MI1ERL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO74AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160202&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11117; excluded rows=6.
+QSO:   144 PH 2016-02-02 2005 MI1ERL        51 1 IO74AL          F8BRK         55 2 IN99VF
+QSO:   144 PH 2016-02-02 2008 MI1ERL        59 2 IO74AL          G8EXI         59 11 IO74PC
+QSO:   144 PH 2016-02-02 2028 MI1ERL        55 3 IO74AL          G3PHO         59 17 IO93GG
+QSO:   144 PH 2016-02-02 2035 MI1ERL        59 4 IO74AL          M1MHZ         57 34 IO92WW
+QSO:   144 PH 2016-02-02 2045 MI1ERL        59 5 IO74AL          G3TCT         56 23 IO81QC
+QSO:   144 PH 2016-02-02 2106 MI1ERL        59 6 IO74AL          MI0SMK        59 12 IO64XL
+QSO:   144 PH 2016-02-02 2110 MI1ERL        59 7 IO74AL          G6UW          54 53 JO02AF
+QSO:   144 PH 2016-02-02 2120 MI1ERL        59 8 IO74AL          GI6ATZ        59 54 IO74AJ
+QSO:   144 PH 2016-02-02 2129 MI1ERL        59 9 IO74AL          GD6ICR        57 17 IO74PF
+QSO:   144 PH 2016-02-02 2223 MI1ERL        59 10 IO74AL         GI4SNA        59 108 IO64AM
+END-OF-LOG:

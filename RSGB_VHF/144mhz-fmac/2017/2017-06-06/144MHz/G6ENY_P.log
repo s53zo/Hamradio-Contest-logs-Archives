@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G6ENY/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90IO
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170606&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=305; excluded rows=0.
+QSO:   144 FM 2017-06-06 1805 G6ENY/P       59 1 IO90IO          G6DOD         59 1 IO90JO
+QSO:   144 FM 2017-06-06 1815 G6ENY/P       57 2 IO90IO          G3WCB/P       59 5 IO80EJ
+QSO:   144 FM 2017-06-06 1828 G6ENY/P       52 3 IO90IO          2E0PNO/P      52 7 IO91SF
+QSO:   144 FM 2017-06-06 1830 G6ENY/P       55 4 IO90IO          G0ACK         57 9 IO91TN
+QSO:   144 FM 2017-06-06 1835 G6ENY/P       58 5 IO90IO          G8HQW/P       58 31 IO94JF
+END-OF-LOG:

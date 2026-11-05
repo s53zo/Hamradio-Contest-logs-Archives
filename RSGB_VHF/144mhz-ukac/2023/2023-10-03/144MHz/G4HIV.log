@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4HIV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93QE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=231003&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10105; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2023-10-03 1900 G4HIV         59 1 IO93QE          G3VCA         59 2 IO93MG
+QSO:   144 PH 2023-10-03 1901 G4HIV         59 2 IO93QE          G0FVI/P       59 2 IO93RD
+QSO:   144 PH 2023-10-03 1927 G4HIV         59 4 IO93QE          G0WUS/P       59 27 IO92MP
+QSO:   144 PH 2023-10-03 1933 G4HIV         59 5 IO93QE          G0EAK/P       59 30 IO93NI
+QSO:   144 PH 2023-10-03 1939 G4HIV         59 6 IO93QE          G4FAL         59 32 IO93EJ
+END-OF-LOG:

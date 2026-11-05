@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G0BNC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91GT
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4480; excluded rows=1.
+QSO:   432 PH 2025-02-02 1005 G0BNC         59 1 IO91GT          G8DOH         59 31 IO92FA
+QSO:   432 PH 2025-02-02 1010 G0BNC         59 2 IO91GT          G4HLX/P       59 23 IO91GN
+QSO:   432 PH 2025-02-02 1014 G0BNC         59 3 IO91GT          G8NEY         59 42 IO81VK
+QSO:   432 PH 2025-02-02 1022 G0BNC         59 4 IO91GT          G8DVK         59 25 IO91IN
+QSO:   432 PH 2025-02-02 1025 G0BNC         59 5 IO91GT          G4GFI         56 47 IO91VH
+QSO:   432 PH 2025-02-02 1033 G0BNC         59 6 IO91GT          G4BRK         59 36 IO91HP
+QSO:   432 PH 2025-02-02 1047 G0BNC         59 7 IO91GT          G4ODA         59 81 IO91WS
+QSO:   432 PH 2025-02-02 1049 G0BNC         59 8 IO91GT          G3TKB/P       58 59 IO93RA
+QSO:   432 PH 2025-02-02 1058 G0BNC         59 9 IO91GT          G0XDI         59 50 IO91RP
+QSO:   432 PH 2025-02-02 1102 G0BNC         58 10 IO91GT         GD8EXI        552 68 IO74PC
+QSO:   432 PH 2025-02-02 1115 G0BNC         57 11 IO91GT         G3PYE/P       54 80 JO02CE
+QSO:   432 PH 2025-02-02 1130 G0BNC         59 12 IO91GT         G8FMC         57 40 IO91NW
+QSO:   432 PH 2025-02-02 1132 G0BNC         59 13 IO91GT         G0ODQ         556 74 IO91MR
+QSO:   432 PH 2025-02-02 1137 G0BNC         57 14 IO91GT         G4LIP         555 101 IO92JL
+QSO:   432 PH 2025-02-02 1247 G0BNC         59 15 IO91GT         G4HWA         59 87 IO92ME
+END-OF-LOG:

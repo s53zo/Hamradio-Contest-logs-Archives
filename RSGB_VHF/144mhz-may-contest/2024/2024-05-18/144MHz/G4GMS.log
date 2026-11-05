@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G4GMS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92TR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6313; excluded rows=2.
+QSO:   144 PH 2024-05-18 1434 G4GMS         59 1 IO92TR PE       G2N           59 29 JO02QV NK
+QSO:   144 PH 2024-05-18 1436 G4GMS         59 2 IO92TR PE       M7T           59 17 IO92NQ LE
+QSO:   144 PH 2024-05-18 1601 G4GMS         59 3 IO92TR PE       M1W           57 57 IO93AD ST
+QSO:   144 PH 2024-05-19 0948 G4GMS         59 4 IO92TR PE       M7DQO         57 20 IO92XR PE
+END-OF-LOG:

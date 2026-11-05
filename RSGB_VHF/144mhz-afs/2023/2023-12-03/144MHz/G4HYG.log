@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G4HYG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83TN
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5334; excluded rows=4.
+QSO:   144 PH 2023-12-03 1154 G4HYG         55 1 IO83TN          GD8EXI        53 67 IO74PC
+QSO:   144 PH 2023-12-03 1157 G4HYG         59 2 IO83TN          G0CDA         59 36 IO83SJ
+QSO:   144 PH 2023-12-03 1241 G4HYG         58 3 IO83TN          M0ICK/P       59 75 IO83RO
+END-OF-LOG:

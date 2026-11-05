@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4ASR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO81MX
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=191126&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=285; excluded rows=0.
+QSO:  2.3G PH 2019-11-26 1950 G4ASR         59 1 IO81MX          G3VKV         59 1 IO81XV
+QSO:  2.3G PH 2019-11-26 1956 G4ASR         57 2 IO81MX          G8DMU/P       52 9 IO94CB
+QSO:  2.3G CW 2019-11-26 2002 G4ASR         559 3 IO81MX         G3UVR         419 12 IO83KH
+QSO:  2.3G PH 2019-11-26 2010 G4ASR         59 4 IO81MX          G4CLA         57 10 IO92JL
+QSO:  2.3G PH 2019-11-26 2015 G4ASR         57 5 IO81MX          G4ODA         52 8 IO92WS
+QSO:  2.3G PH 2019-11-26 2033 G4ASR         59 6 IO81MX          G0LGS         59 1 IO81WV
+QSO:  2.3G PH 2019-11-26 2050 G4ASR         59 7 IO81MX          2E0MDJ        59 3 IO81WV
+QSO:  2.3G PH 2019-11-26 2112 G4ASR         59 8 IO81MX          G7LRQ         52 11 IO91TQ
+QSO:  2.3G PH 2019-11-26 2151 G4ASR         53 9 IO81MX          G1PPA/P       51 9 IO93RI
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-2ND-144MHZ-BACKPACKERS
+CALLSIGN: G7NBE/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92IS
+CATEGORY: 5B
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=2nd+144MHz+Backpackers&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1510; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2017-06-11 0920 G7NBE/P       59 1 IO92IS          G3NFC/P       59 15 IO93DH
+QSO:   144 PH 2017-06-11 0923 G7NBE/P       59 2 IO92IS          GW4WXM/P      59 20 IO82KW
+QSO:   144 PH 2017-06-11 0933 G7NBE/P       59 3 IO92IS          GW4XZL/P      58 25 IO82KA
+QSO:   144 PH 2017-06-11 0944 G7NBE/P       57 4 IO92IS          G0VHT/P       57 23 IO91GI
+QSO:   144 PH 2017-06-11 0947 G7NBE/P       59 5 IO92IS          G1POS/P       59 25 IO91AW
+QSO:   144 PH 2017-06-11 0951 G7NBE/P       59 6 IO92IS          G7LAS/P       59 42 IO93AE
+QSO:   144 PH 2017-06-11 0952 G7NBE/P       57 7 IO92IS          G4RLS/P       54 42 IO80WX
+QSO:   144 PH 2017-06-11 0954 G7NBE/P       57 8 IO92IS          G0HAS/P       57 33 IO81WG
+QSO:   144 PH 2017-06-11 0955 G7NBE/P       59 9 IO92IS          GW1YBB/P      59 57 IO81KW
+QSO:   144 PH 2017-06-11 1002 G7NBE/P       59 10 IO92IS         G4TCU/P       59 37 IO82QJ
+QSO:   144 PH 2017-06-11 1010 G7NBE/P       55 12 IO92IS         M0PCF/P       55 23 IO93EI
+QSO:   144 PH 2017-06-11 1018 G7NBE/P       55 13 IO92IS         2W0JYN/A      55 17 IO82LX
+QSO:   144 PH 2017-06-11 1037 G7NBE/P       55 14 IO92IS         G5TO/P        53 27 IO93FL
+END-OF-LOG:

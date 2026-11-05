@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: GW9J
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO72VE
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2023; excluded rows=1.
+QSO:   432 PH 2025-05-03 1428 GW9J          59 1 IO72VE          M1CRO/P       57 23 JO01PU
+QSO:   432 PH 2025-05-03 1443 GW9J          55 2 IO72VE          GW4CC         53 10 IO71UN
+QSO:   432 PH 2025-05-03 1456 GW9J          59 3 IO72VE          G3XDY         59 26 JO02OB
+QSO:   432 CW 2025-05-03 1504 GW9J          549 4 IO72VE         G4ASR         529 31 IO81MX
+QSO:   432 PH 2025-05-03 1512 GW9J          55 5 IO72VE          G3M           53 74 JO01QD
+QSO:   432 CW 2025-05-03 1522 GW9J          559 6 IO72VE         G4AFF         519 18 JO02LO
+QSO:   432 PH 2025-05-03 1730 GW9J          55 7 IO72VE          G4ODA         53 90 IO92WS
+QSO:   432 PH 2025-05-03 1800 GW9J          55 8 IO72VE          G0XDI         52 63 IO91RP
+END-OF-LOG:

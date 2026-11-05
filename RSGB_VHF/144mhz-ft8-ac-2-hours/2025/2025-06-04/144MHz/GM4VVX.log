@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: GM4VVX
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO78
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=250604&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=820; excluded rows=0.
+QSO:   144 FT8 2025-06-04 1901 GM4VVX        -11 IO78             GM4OAS        -15 IO76
+QSO:   144 FT8 2025-06-04 1912 GM4VVX        +05 IO78             GM8HWZ        -07 IO87
+QSO:   144 FT8 2025-06-04 1918 GM4VVX        -15 IO78             GM4YXI        -16 IO87
+QSO:   144 FT8 2025-06-04 1922 GM4VVX        -15 IO78             GM7PKT        -13 IO76
+QSO:   144 FT8 2025-06-04 1930 GM4VVX        -08 IO78             GM8MJV        -11 IO85
+QSO:   144 FT8 2025-06-04 1946 GM4VVX        -03 IO78             GM4JIB        +06 IO85
+QSO:   144 FT8 2025-06-04 2025 GM4VVX        -09 IO78             GW0WZL        -12 IO73
+QSO:   144 FT8 2025-06-04 2030 GM4VVX        -12 IO78             EI8HH         -13 IO53
+QSO:   144 FT8 2025-06-04 2034 GM4VVX        -06 IO78             G4KUX         -18 IO94
+QSO:   144 FT8 2025-06-04 2058 GM4VVX        -15 IO78             GM7GAX        -10 IO86
+END-OF-LOG:

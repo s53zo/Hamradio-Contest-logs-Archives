@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: M4J
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02MA
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=875; excluded rows=0.
+QSO:   144 CW 2023-11-05 1045 M4J           599 1 JO02MA         G2N           599 70 JO02SS
+QSO:   144 CW 2023-11-05 1051 M4J           599 2 JO02MA         TM7M          599 152 JO10HE
+QSO:   144 CW 2023-11-05 1052 M4J           599 3 JO02MA         F8BRK/P       599 93 JN19EN
+QSO:   144 CW 2023-11-05 1100 M4J           599 5 JO02MA         G3MXH         599 6 JO02LF
+QSO:   144 CW 2023-11-05 1109 M4J           599 6 JO02MA         F6DWG/P       599 231 JN19BQ
+QSO:   144 CW 2023-11-05 1112 M4J           599 7 JO02MA         G3LTF         599 43 IO91GG
+QSO:   144 CW 2023-11-05 1118 M4J           599 8 JO02MA         DF7DJ         599 88 JO31TO
+QSO:   144 CW 2023-11-05 1125 M4J           599 9 JO02MA         PI4MAX        599 172 JO21OJ
+QSO:   144 CW 2023-11-05 1131 M4J           599 10 JO02MA        G4KUX         599 2 IO94BP
+END-OF-LOG:

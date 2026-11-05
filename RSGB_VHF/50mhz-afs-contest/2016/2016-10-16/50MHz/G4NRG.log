@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G4NRG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02MM
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4822; excluded rows=4.
+QSO:    50 PH 2016-10-16 0906 G4NRG         59 1 JO02MM NR       G4BWP         59 4 JO02FH IP
+QSO:    50 PH 2016-10-16 0944 G4NRG         59 2 JO02MM NR       G3LDI         59 19 JO02ON NR
+QSO:    50 PH 2016-10-16 1035 G4NRG         55 3 JO02MM NR       G3PYE/P       59 76 JO02CE CB
+QSO:    50 PH 2016-10-16 1037 G4NRG         52 4 JO02MM NR       G4ERO         59 35 JO02DJ CB
+QSO:    50 PH 2016-10-16 1039 G4NRG         55 5 JO02MM NR       G4CWH         59 45 JO02FE CB
+QSO:    50 PH 2016-10-16 1051 G4NRG         51 6 JO02MM NR       G4MPN         59 2 JO02NN NR
+END-OF-LOG:

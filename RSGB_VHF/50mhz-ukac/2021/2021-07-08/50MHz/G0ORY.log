@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0ORY
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92JO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210708&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6596; excluded rows=5.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:    50 PH 2021-07-08 1901 G0ORY         59 1 IO92JO          G0WUS         59 2 IO92KO
+QSO:    50 CW 2021-07-08 1948 G0ORY         599 2 IO92JO         G0MCV         599 6 IO92KR
+QSO:    50 CW 2021-07-08 1953 G0ORY         579 3 IO92JO         IK1HWG        599 4 JN44DS
+QSO:    50 CW 2021-07-08 1958 G0ORY         559 4 IO92JO         IK1NOJ        599 5 JN61GV
+QSO:    50 CW 2021-07-08 2001 G0ORY         579 5 IO92JO         G7WHI         599 5 IO92IN
+QSO:    50 PH 2021-07-08 2009 G0ORY         59 6 IO92JO          IU5ICR        59 91 JN53HO
+QSO:    50 PH 2021-07-08 2011 G0ORY         59 7 IO92JO          IW0HLE        59 73 JN61WK
+QSO:    50 PH 2021-07-08 2014 G0ORY         59 8 IO92JO          G4CLA         59 72 IO92JL
+QSO:    50 PH 2021-07-08 2018 G0ORY         59 9 IO92JO          G6AD          59 31 IO92GL
+QSO:    50 PH 2021-07-08 2020 G0ORY         59 10 IO92JO         F4ARU         57 25 JN03MM
+QSO:    50 PH 2021-07-08 2022 G0ORY         59 11 IO92JO         G3TBK/P       59 47 IO93RA
+QSO:    50 PH 2021-07-08 2023 G0ORY         59 12 IO92JO         OH3RB         59 166 KP10AQ
+QSO:    50 PH 2021-07-08 2028 G0ORY         59 13 IO92JO         IW2HAJ        59 191 JN45NO
+QSO:    50 PH 2021-07-08 2033 G0ORY         59 14 IO92JO         G6HPR         59 15 IO92KO
+QSO:    50 PH 2021-07-08 2043 G0ORY         59 15 IO92JO         I2PJA         59 96 JN45PB
+QSO:    50 PH 2021-07-08 2048 G0ORY         59 16 IO92JO         IK2HKT        59 143 JN45VS
+QSO:    50 CW 2021-07-08 2107 G0ORY         589 18 IO92JO        IK3LLN        599 11 JN55OM
+END-OF-LOG:

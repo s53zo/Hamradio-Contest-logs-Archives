@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4RQI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO93IR
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=210727&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=295; excluded rows=17.
+SOAPBOX: WARNING: 3 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (3).
+QSO:   10G PH 2021-07-27 1908 G4RQI         59 1 IO93IR          G8DMU/P       59 6 IO94CB
+QSO:   10G PH 2021-07-27 1911 G4RQI         55 2 IO93IR          G3YJR         57 6 IO93FJ
+QSO:   10G PH 2021-07-27 1916 G4RQI         57 3 IO93IR          G1PPA/P       59 8 IO93RI
+QSO:   10G PH 2021-07-27 1935 G4RQI         52 5 IO93IR          G0LBK/P       54 11 IO93EH
+QSO:   10G CW 2021-07-27 1942 G4RQI         519 6 IO93IR         G4CLA         539 10 IO92JL
+QSO:   10G CW 2021-07-27 2013 G4RQI         529 7 IO93IR         G4ZTR         539 13 JO01KW
+QSO:   10G PH 2021-07-27 2017 G4RQI         55 8 IO93IR          G4ODA         58 12 IO92WS
+QSO:   10G PH 2021-07-27 2115 G4RQI         52 10 IO93IR         G0WZV         57 9 JO01KV
+END-OF-LOG:

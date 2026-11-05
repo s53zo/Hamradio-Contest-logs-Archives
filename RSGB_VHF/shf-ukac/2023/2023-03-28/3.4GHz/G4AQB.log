@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4AQB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO83TN
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=230328&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=140; excluded rows=0.
+QSO:  3.4G PH 2023-03-28 1843 G4AQB         59 1 IO83TN          G4JLG/P       59 2 IO83RO
+QSO:  3.4G PH 2023-03-28 1844 G4AQB         59 2 IO83TN          G6GVI         59 2 IO83SN
+QSO:  3.4G PH 2023-03-28 2026 G4AQB         56 3 IO83TN          M0UFC         53 3 IO83UK
+QSO:  3.4G PH 2023-03-28 2106 G4AQB         53 4 IO83TN          G4ODA         53 9 IO92WS
+QSO:  3.4G CW 2023-03-28 2125 G4AQB         559 5 IO83TN         G0EAK/P       429 9 IO93NI
+END-OF-LOG:

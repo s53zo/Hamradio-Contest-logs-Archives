@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: G4XPE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92GU
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2427; excluded rows=0.
+QSO:   144 PH 2017-08-05 1744 G4XPE         59 1 IO92GU DE       G3CKR/P       59 111 IO93AD ST
+QSO:   144 PH 2017-08-05 1748 G4XPE         59 2 IO92GU DE       F6KCZ/P       59 121 IN99PI
+QSO:   144 PH 2017-08-05 1750 G4XPE         56 3 IO92GU DE       G3WKS/P       56 42 JO01CE TN
+QSO:   144 PH 2017-08-05 1756 G4XPE         58 4 IO92GU DE       G3PHO         58 44 IO93GG SD
+QSO:   144 PH 2017-08-05 1758 G4XPE         59 5 IO92GU DE       G4ZAP/P       59 155 IO93EH SD
+QSO:   144 PH 2017-08-05 1803 G4XPE         57 6 IO92GU DE       M0VCT/P       59 99 IO90JO PO
+QSO:   144 PH 2017-08-05 1811 G4XPE         55 7 IO92GU DE       G1PPA/P       53 62 IO93UK LN
+QSO:   144 PH 2017-08-05 1844 G4XPE         57 8 IO92GU DE       G7LRQ         53 9 IO91TQ WD
+QSO:   144 PH 2017-08-05 1856 G4XPE         55 9 IO92GU DE       M0OMB         55 46 IO83PO WN
+QSO:   144 CW 2017-08-05 1918 G4XPE         559 10 IO92GU DE     G3RLE         599 28 IO83VO OL
+QSO:   144 PH 2017-08-05 1938 G4XPE         53 11 IO92GU DE      G3WJG         44 52 IO91RP WD
+END-OF-LOG:

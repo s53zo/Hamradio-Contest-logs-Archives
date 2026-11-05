@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: M0XCH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82UC
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4822; excluded rows=4.
+QSO:    50 PH 2016-10-16 0903 M0XCH         59 1 IO82UC WR       G4ASR         59 5 IO81MX HR
+QSO:    50 PH 2016-10-16 0919 M0XCH         59 2 IO82UC WR       G4BVY/P       59 7 IO82LB HR
+QSO:    50 PH 2016-10-16 0945 M0XCH         52 3 IO82UC WR       G4FSU/P       53 35 IO81QG BS
+QSO:    50 PH 2016-10-16 0951 M0XCH         55 4 IO82UC WR       GW3TKH/P      59 31 IO81LS NP
+QSO:    50 PH 2016-10-16 1000 M0XCH         53 5 IO82UC WR       G0LGS         53 17 IO81WV GL
+QSO:    50 PH 2016-10-16 1014 M0XCH         55 6 IO82UC WR       G6YB/P        59 68 IO81RI BA
+QSO:    50 PH 2016-10-16 1241 M0XCH         59 7 IO82UC WR       G4IDF         59 40 IO82VE WR
+END-OF-LOG:

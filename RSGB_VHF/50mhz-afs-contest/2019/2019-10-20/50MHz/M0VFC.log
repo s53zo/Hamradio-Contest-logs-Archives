@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: M0VFC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02BG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4127; excluded rows=1.
+QSO:    50 PH 2019-10-20 1241 M0VFC         59 1 JO02BG CB       G5PI/P        59 105 JO02EB CB
+QSO:    50 PH 2019-10-20 1242 M0VFC         59 2 JO02BG CB       G4ODA         59 105 IO92WS PE
+QSO:    50 PH 2019-10-20 1244 M0VFC         59 3 JO02BG CB       M1BXF         59 92 JO02FE CB
+QSO:    50 PH 2019-10-20 1246 M0VFC         59 4 JO02BG CB       G2BQY/P       57 111 IO81RF BA
+QSO:    50 PH 2019-10-20 1249 M0VFC         59 5 JO02BG CB       G7LRQ/P       59 105 IO91RU LU
+QSO:    50 PH 2019-10-20 1249 M0VFC         59 6 JO02BG CB       G4CWH/P       59 94 IO92XA SG
+QSO:    50 PH 2019-10-20 1251 M0VFC         59 7 JO02BG CB       G0DDX         59 53 JO02AF CB
+QSO:    50 PH 2019-10-20 1252 M0VFC         59 8 JO02BG CB       G8NEY/P       59 110 IO81UN BS
+QSO:    50 PH 2019-10-20 1254 M0VFC         57 9 JO02BG CB       G3MEH         57 91 IO91QS HP
+QSO:    50 PH 2019-10-20 1255 M0VFC         59 10 JO02BG CB      G3TBK/P       59 82 IO93RA NG
+QSO:    50 PH 2019-10-20 1257 M0VFC         59 11 JO02BG CB      M1MHZ         59 99 IO92WV PE
+END-OF-LOG:

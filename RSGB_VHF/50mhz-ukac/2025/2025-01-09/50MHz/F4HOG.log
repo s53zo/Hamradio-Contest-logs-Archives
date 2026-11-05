@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: F4HOG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JN09OJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250109&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2410; excluded rows=1.
+QSO:    50 PH 2025-01-09 1831 F4HOG         55 1 JN09OJ          F1DBE         55 1 JN17MU
+QSO:    50 PH 2025-01-09 2000 F4HOG         55 2 JN09OJ          F4HRD         55 1 JO00XX
+QSO:    50 PH 2025-01-09 2005 F4HOG         55 3 JN09OJ          G8NVI         55 2 IO91JO
+QSO:    50 PH 2025-01-09 2019 F4HOG         55 4 JN09OJ          G4ODA         55 17 IO92WS
+QSO:    50 PH 2025-01-09 2025 F4HOG         55 5 JN09OJ          G3MEH         53 16 IO91QS
+QSO:    50 PH 2025-01-09 2031 F4HOG         55 6 JN09OJ          G4CLA         55 40 IO92JL
+QSO:    50 PH 2025-01-09 2105 F4HOG         59 7 JN09OJ          F6BQG         59 1 IN98JC
+END-OF-LOG:

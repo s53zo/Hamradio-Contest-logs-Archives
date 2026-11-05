@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO85IW
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=180515&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2670; excluded rows=3.
+QSO:  1.2G PH 2018-05-15 1954 GM4DIJ        58 1 IO85IW          GM8MJV        52 1 IO85MU
+QSO:  1.2G PH 2018-05-15 2005 GM4DIJ        59 2 IO85IW          GM4BYF        59 2 IO85JV
+QSO:  1.2G PH 2018-05-15 2010 GM4DIJ        52 3 IO85IW          G0EHV/P       52 34 IO84XT
+QSO:  1.2G CW 2018-05-15 2123 GM4DIJ        559 4 IO85IW         G4KUX         519 18 IO94BP
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: M0UGA/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: JO01AX
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=210427&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=523; excluded rows=1.
+QSO:  2.3G PH 2021-04-27 1832 M0UGA/P       59 1 JO01AX          M0NVS/P       57 2 IO91RU
+QSO:  2.3G PH 2021-04-27 1840 M0UGA/P       59 2 JO01AX          G4FEV         59 2 IO92RG
+QSO:  2.3G PH 2021-04-27 1857 M0UGA/P       59 3 JO01AX          G7LRQ         59 4 IO91TQ
+QSO:  2.3G PH 2021-04-27 1916 M0UGA/P       59 4 JO01AX          G4HWA         59 3 IO92ME
+QSO:  2.3G PH 2021-04-27 2005 M0UGA/P       53 5 JO01AX          G8CUL         53 14 IO91JO
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: M0IDA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01LV
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1837; excluded rows=0.
+QSO:    70 PH 2025-09-21 0920 M0IDA         59 1 JO01LV CO       G5PI/P        53 15 JO02EB CB
+QSO:    70 PH 2025-09-21 0930 M0IDA         53 2 JO01LV CO       G3CWH/P       53 26 IO92XA SG
+QSO:    70 PH 2025-09-21 1000 M0IDA         53 3 JO01LV CO       G4ODA         54 35 IO92WS PE
+QSO:    70 PH 2025-09-21 1023 M0IDA         52 4 JO01LV CO       G4BWP         55 54 JO02FH IP
+END-OF-LOG:

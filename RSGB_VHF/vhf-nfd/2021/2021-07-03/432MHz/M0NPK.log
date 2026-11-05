@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: M0NPK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91OK
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1285; excluded rows=1.
+QSO:   432 PH 2021-07-03 2034 M0NPK         55 1 IO91OK          M0BAA/P       59 82 JO01KJ
+QSO:   432 PH 2021-07-03 2037 M0NPK         59 2 IO91OK          G3SRC/P       59 50 IO91XG
+QSO:   432 PH 2021-07-03 2042 M0NPK         59 3 IO91OK          G3PYE/P       59 42 JO02CE
+QSO:   432 PH 2021-07-03 2048 M0NPK         59 4 IO91OK          G4CDF         59 9 IO91NK
+QSO:   432 PH 2021-07-03 2053 M0NPK         57 5 IO91OK          G2BQY/P       57 42 IO81RF
+QSO:   432 PH 2021-07-04 1354 M0NPK         59 6 IO91OK          M0UHF         59 8 IO91IP
+END-OF-LOG:

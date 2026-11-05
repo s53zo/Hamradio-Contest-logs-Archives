@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4AWP
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO94LA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4480; excluded rows=1.
+QSO:   432 PH 2025-02-02 0912 G4AWP         57 1 IO94LA          G4NBS         57 16 JO02AF
+QSO:   432 PH 2025-02-02 0918 G4AWP         57 2 IO94LA          G4CWH/P       57 21 IO92XA
+QSO:   432 PH 2025-02-02 0923 G4AWP         59 3 IO94LA          M5DWI/P       59 13 IO93FL
+QSO:   432 CW 2025-02-02 0931 G4AWP         559 4 IO94LA         G3PYE/P       599 33 JO02CE
+QSO:   432 PH 2025-02-02 0939 G4AWP         58 5 IO94LA          G0EAK/P       58 21 IO93NI
+QSO:   432 PH 2025-02-02 0943 G4AWP         59 6 IO94LA          G4BWP         59 30 JO02FH
+QSO:   432 PH 2025-02-02 1014 G4AWP         58 7 IO94LA          G4ODA         58 56 IO92WS
+QSO:   432 PH 2025-02-02 1025 G4AWP         55 8 IO94LA          G3XDY         53 51 JO02OB
+QSO:   432 PH 2025-02-02 1055 G4AWP         55 9 IO94LA          G4LIP         55 87 IO92JL
+QSO:   432 CW 2025-02-02 1135 G4AWP         529 10 IO94LA        G3YJR         559 26 IO93FJ
+QSO:   432 PH 2025-02-02 1215 G4AWP         59 11 IO94LA         M7PAT/P       59 22 IO93FL
+QSO:   432 PH 2025-02-02 1232 G4AWP         53 12 IO94LA         G4HWA         539 86 IO92ME
+QSO:   432 CW 2025-02-02 1258 G4AWP         529 13 IO94LA        GM4BYF        529 40 IO85JV
+END-OF-LOG:

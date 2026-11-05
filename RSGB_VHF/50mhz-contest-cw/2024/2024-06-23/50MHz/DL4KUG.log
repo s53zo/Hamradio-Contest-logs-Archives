@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: DL4KUG
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: JO64PB
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=693; excluded rows=1.
+QSO:    50 CW 2024-06-23 1134 DL4KUG        599 1 JO64PB         G3TCU/P       599 37 IO91GI
+QSO:    50 CW 2024-06-23 1139 DL4KUG        599 2 JO64PB         G4AFF         599 46 JO02IO
+QSO:    50 CW 2024-06-23 1148 DL4KUG        599 3 JO64PB         GM3POI        599 24 IO88OW
+END-OF-LOG:

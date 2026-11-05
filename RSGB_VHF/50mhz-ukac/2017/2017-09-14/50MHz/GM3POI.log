@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM3POI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO88OW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170914&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4391; excluded rows=29.
+SOAPBOX: WARNING: 19 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (19).
+QSO:    50 CW 2017-09-14 1935 GM3POI        599 16 IO88OW        GM4ODA/P      599 1 IP90FL
+QSO:    50 PH 2017-09-14 2028 GM3POI        59 19 IO88OW         M1DDD/P       57 91 IO93CH
+QSO:    50 CW 2017-09-14 2047 GM3POI        599 22 IO88OW        GM8IEM        599 1 IO78HF
+END-OF-LOG:

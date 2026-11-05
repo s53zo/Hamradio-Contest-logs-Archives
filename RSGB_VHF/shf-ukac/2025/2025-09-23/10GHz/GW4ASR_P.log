@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: GW4ASR/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO71OP
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=250923&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=87; excluded rows=0.
+QSO:   10G PH 2025-09-23 1830 GW4ASR/P      59 1 IO71OP          GW4JQP        58 1 IO71KR
+QSO:   10G PH 2025-09-23 1832 GW4ASR/P      59 2 IO71OP          MW0CXH        59 1 IO71VQ
+QSO:   10G PH 2025-09-23 1843 GW4ASR/P      57 3 IO71OP          G4UVZ         55 2 IO80KX
+QSO:   10G CW 2025-09-23 1920 GW4ASR/P      519 4 IO71OP         GW4MBS        519 1 IO71XW
+QSO:   10G CW 2025-09-23 1932 GW4ASR/P      519 5 IO71OP         G4ZTR         519 5 JO01KW
+END-OF-LOG:

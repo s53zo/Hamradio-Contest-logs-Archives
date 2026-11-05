@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: GM4PPT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO75SK
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=211116&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2661; excluded rows=0.
+QSO:  1.2G PH 2021-11-16 2003 GM4PPT        59 1 IO75SK          GM0ICF        52 1 IO75PP
+QSO:  1.2G PH 2021-11-16 2006 GM4PPT        59 2 IO75SK          GM4VKI/P      57 2 IO75QN
+QSO:  1.2G PH 2021-11-16 2106 GM4PPT        53 3 IO75SK          GD1MIP        52 19 IO74TI
+QSO:  1.2G CW 2021-11-16 2119 GM4PPT        559 4 IO75SK         GM4DIJ        559 5 IO85IW
+QSO:  1.2G PH 2021-11-16 2144 GM4PPT        59 5 IO75SK          GM4JTJ        59 27 IO86RP
+QSO:  1.2G PH 2021-11-16 2152 GM4PPT        59 6 IO75SK          GI6ATZ        59 34 IO74AJ
+QSO:  1.2G PH 2021-11-16 2203 GM4PPT        55 7 IO75SK          G4ODA         51 69 IO92WS
+END-OF-LOG:

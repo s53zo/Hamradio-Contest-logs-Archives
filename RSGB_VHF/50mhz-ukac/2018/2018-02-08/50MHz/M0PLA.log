@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0PLA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82SP
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180208&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4187; excluded rows=1.
+QSO:    50 PH 2018-02-08 2003 M0PLA         59 1 IO82SP          G1YBB/P       59 7 IO82LB
+QSO:    50 PH 2018-02-08 2006 M0PLA         55 2 IO82SP          G4ILI/P       52 7 IO81WU
+QSO:    50 PH 2018-02-08 2008 M0PLA         59 3 IO82SP          G4ASR         59 17 IO81MX
+QSO:    50 PH 2018-02-08 2014 M0PLA         55 4 IO82SP          G7LRQ/P       55 22 IO91RU
+QSO:    50 PH 2018-02-08 2016 M0PLA         57 5 IO82SP          G4CLA         59 22 IO92JL
+QSO:    50 PH 2018-02-08 2053 M0PLA         57 6 IO82SP          M1MHZ         57 58 IO92WV
+QSO:    50 PH 2018-02-08 2101 M0PLA         55 7 IO82SP          G4FAD         55 21 IO82PC
+QSO:    50 PH 2018-02-08 2153 M0PLA         59 8 IO82SP          G3UKV         59 18 IO82RR
+END-OF-LOG:

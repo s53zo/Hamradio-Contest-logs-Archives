@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G0TAR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO01GI
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1447; excluded rows=1.
+QSO:   432 PH 2023-07-01 1850 G0TAR         59 1 JO01GI          G0VHF/P       59 84 JO01PU
+QSO:   432 PH 2023-07-01 1853 G0TAR         59 2 JO01GI          G0FBB/P       59 41 JO01LD
+QSO:   432 PH 2023-07-02 1031 G0TAR         55 3 JO01GI          G5LK/P        55 118 JO01QD
+QSO:   432 PH 2023-07-02 1035 G0TAR         57 4 JO01GI          G3PIA/P       57 52 IO91IN
+END-OF-LOG:

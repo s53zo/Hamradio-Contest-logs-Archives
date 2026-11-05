@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G1DFL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91NL
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3068; excluded rows=1.
+QSO:    50 PH 2019-07-06 1835 G1DFL         57 1 IO91NL          M0HRF/P       57 69 JO01JA
+QSO:    50 PH 2019-07-06 1837 G1DFL         59 2 IO91NL          G8SRC/P       59 98 IO91CL
+QSO:    50 PH 2019-07-06 1852 G1DFL         59 3 IO91NL          EI9E/P        59 130 IO62OM
+QSO:    50 PH 2019-07-06 1856 G1DFL         59 4 IO91NL          G4RFR/P       59 90 IO80ST
+QSO:    50 PH 2019-07-06 1900 G1DFL         59 5 IO91NL          G2LO/P        59 105 IO92GB
+QSO:    50 PH 2019-07-06 1904 G1DFL         59 6 IO91NL          G4ALE/P       55 63 IO91XG
+QSO:    50 PH 2019-07-06 2115 G1DFL         57 7 IO91NL          G5LK/P        54 94 JO01QD
+END-OF-LOG:

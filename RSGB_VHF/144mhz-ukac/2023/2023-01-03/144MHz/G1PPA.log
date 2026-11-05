@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G1PPA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93OJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230103&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8055; excluded rows=0.
+QSO:   144 PH 2023-01-03 2126 G1PPA         59 1 IO93OJ          G0EAK/P       59 42 IO93NI
+QSO:   144 PH 2023-01-03 2129 G1PPA         59 2 IO93OJ          2E0IGD/P      56 41 IO93NJ
+QSO:   144 PH 2023-01-03 2137 G1PPA         55 3 IO93OJ          G4FZN/P       59 105 IO94JF
+QSO:   144 PH 2023-01-03 2140 G1PPA         51 4 IO93OJ          G1ZAR/P       55 40 IO92IR
+QSO:   144 PH 2023-01-03 2141 G1PPA         59 5 IO93OJ          G6SWZ         59 18 IO93RF
+QSO:   144 PH 2023-01-03 2143 G1PPA         55 6 IO93OJ          M6XAK         54 13 IO93MH
+QSO:   144 PH 2023-01-03 2200 G1PPA         51 7 IO93OJ          G3SQQ         51 69 IO93JC
+END-OF-LOG:

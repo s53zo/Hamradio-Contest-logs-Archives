@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0CER
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82RV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2000 G0CER         59 1 IO82RV          G8AQA         59 1 IO82QN
+QSO:    50 PH 2021-02-11 2002 G0CER         59 2 IO82RV          G0CDA         59 2 IO83SJ
+QSO:    50 PH 2021-02-11 2003 G0CER         59 3 IO82RV          G4NTY         59 4 IO83TM
+QSO:    50 PH 2021-02-11 2006 G0CER         55 4 IO82RV          G8ZRE         55 8 IO83NE
+QSO:    50 PH 2021-02-11 2008 G0CER         54 5 IO82RV          GW4ZAR        51 7 IO83KF
+QSO:    50 PH 2021-02-11 2016 G0CER         58 6 IO82RV          G3TDH         56 11 IO83WI
+QSO:    50 PH 2021-02-11 2018 G0CER         54 7 IO82RV          G0UFE         54 7 IO82SP
+QSO:    50 PH 2021-02-11 2024 G0CER         59 8 IO82RV          G4JLG         58 13 IO83TM
+QSO:    50 PH 2021-02-11 2024 G0CER         59 9 IO82RV          G0XBU         59 4 IO83UF
+QSO:    50 PH 2021-02-11 2037 G0CER         53 10 IO82RV         G3VCA         53 35 IO93MG
+QSO:    50 PH 2021-02-11 2101 G0CER         55 11 IO82RV         GI4SNA        53 15 IO64XM
+QSO:    50 PH 2021-02-11 2107 G0CER         54 12 IO82RV         GW4SHF        53 33 IO82HP
+QSO:    50 PH 2021-02-11 2110 G0CER         57 13 IO82RV         GW4OKT        57 16 IO83LE
+QSO:    50 PH 2021-02-11 2110 G0CER         58 14 IO82RV         G8REQ         59 27 IO83KI
+QSO:    50 PH 2021-02-11 2117 G0CER         53 15 IO82RV         G8YIG         51 7 IO83WK
+QSO:    50 PH 2021-02-11 2206 G0CER         59 16 IO82RV         M0BEW         59 94 IO82RJ
+QSO:    50 PH 2021-02-11 2212 G0CER         59 17 IO82RV         G4ASR         59 109 IO81MX
+QSO:    50 PH 2021-02-11 2214 G0CER         57 18 IO82RV         G0JCC         57 54 IO82MA
+END-OF-LOG:

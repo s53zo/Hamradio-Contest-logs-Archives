@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: M3RNX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83TO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=160329&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4737; excluded rows=2.
+QSO:    70 PH 2016-03-29 1907 M3RNX         59 1 IO83TO          G3UVR         57 9 IO83KH
+QSO:    70 PH 2016-03-29 1931 M3RNX         59 2 IO83TO          G6GVI         59 8 IO83SN
+QSO:    70 PH 2016-03-29 1936 M3RNX         59 3 IO83TO          G4VFL         52 8 IO84IH
+QSO:    70 PH 2016-03-29 1958 M3RNX         59 4 IO83TO          G0CTO         59 2 IO83SN
+QSO:    70 PH 2016-03-29 2011 M3RNX         59 5 IO83TO          2E1GNZ        59 1 IO83TO
+QSO:    70 PH 2016-03-29 2019 M3RNX         59 6 IO83TO          GW4EVX        55 30 IO83KE
+QSO:    70 PH 2016-03-29 2035 M3RNX         59 7 IO83TO          GW4BVE        57 37 IO82KQ
+END-OF-LOG:

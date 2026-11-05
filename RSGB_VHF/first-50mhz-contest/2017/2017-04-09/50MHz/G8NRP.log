@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-50MHZ-CONTEST
+CALLSIGN: G8NRP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91IQ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+50MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1898; excluded rows=1.
+QSO:    50 PH 2017-04-09 0935 G8NRP         59 1 IO91IQ OX       M0DDT         55 20 IO91JR OX
+QSO:    50 PH 2017-04-09 0943 G8NRP         59 2 IO91IQ OX       G0DQ          55 21 IO91MR OX
+QSO:    50 PH 2017-04-09 0958 G8NRP         55 3 IO91IQ OX       G4SGM/P       53 9 IO91TF RH
+QSO:    50 PH 2017-04-09 1007 G8NRP         59 4 IO91IQ OX       G3MEH         54 38 IO91QS HP
+END-OF-LOG:

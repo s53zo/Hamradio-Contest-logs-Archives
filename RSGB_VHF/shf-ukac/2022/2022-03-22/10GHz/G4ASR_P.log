@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4ASR/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO82LB
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=220322&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=165; excluded rows=0.
+QSO:   10G PH 2022-03-22 1935 G4ASR/P       55 1 IO82LB          G4ZTR         55 1 JO01KW
+QSO:   10G PH 2022-03-22 1935 G4ASR/P       57 2 IO82LB          G4BXD         57 1 IO82UJ
+QSO:   10G PH 2022-03-22 1942 G4ASR/P       59 3 IO82LB          G0LGS/P       59 1 IO81WU
+QSO:   10G PH 2022-03-22 1945 G4ASR/P       59 4 IO82LB          G3VKV         59 1 IO81XV
+QSO:   10G PH 2022-03-22 1956 G4ASR/P       52 5 IO82LB          G4YTL         52 1 IO92MB
+QSO:   10G PH 2022-03-22 2000 G4ASR/P       59 6 IO82LB          2E0MDJ/P      59 3 IO81WU
+QSO:   10G CW 2022-03-22 2010 G4ASR/P       559 7 IO82LB         G3PHO         529 2 IO93GG
+QSO:   10G PH 2022-03-22 2015 G4ASR/P       57 8 IO82LB          G1ZAR/P       59 2 IO92IR
+QSO:   10G PH 2022-03-22 2020 G4ASR/P       57 9 IO82LB          G0LBK         57 5 JO03BD
+QSO:   10G PH 2022-03-22 2030 G4ASR/P       59 10 IO82LB         G4CLA         59 10 IO92JL
+QSO:   10G PH 2022-03-22 2044 G4ASR/P       56 11 IO82LB         G4DBN         56 3 IO93NR
+QSO:   10G CW 2022-03-22 2055 G4ASR/P       559 12 IO82LB        G3XDY         559 6 JO02OB
+QSO:   10G CW 2022-03-22 2100 G4ASR/P       529 13 IO82LB        M0GHZ         529 8 IO81VK
+QSO:   10G CW 2022-03-22 2133 G4ASR/P       519 14 IO82LB        G4HWA         519 5 IO92ME
+QSO:   10G PH 2022-03-22 2142 G4ASR/P       52 15 IO82LB         G0WZV         53 8 JO01KV
+QSO:   10G PH 2022-03-22 2200 G4ASR/P       55 16 IO82LB         G4ODA         57 7 IO92WS
+QSO:   10G PH 2022-03-22 2204 G4ASR/P       52 17 IO82LB         G8DMU/P       52 7 IO94CB
+END-OF-LOG:

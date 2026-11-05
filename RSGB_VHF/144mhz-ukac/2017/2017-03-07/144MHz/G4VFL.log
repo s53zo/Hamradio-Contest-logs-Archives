@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4VFL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO84FL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170307&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10422; excluded rows=8.
+QSO:   144 PH 2017-03-07 2123 G4VFL         56 1 IO84FL          GI6ATZ        57 77 IO74AJ
+QSO:   144 PH 2017-03-07 2125 G4VFL         59 2 IO84FL          MM0GPZ/P      59 86 IO85AK
+QSO:   144 PH 2017-03-07 2127 G4VFL         57 3 IO84FL          GM4PPT        59 48 IO75SK
+QSO:   144 PH 2017-03-07 2137 G4VFL         52 4 IO84FL          G4RRA         59 84 IO80BS
+QSO:   144 PH 2017-03-07 2140 G4VFL         58 5 IO84FL          G8XVJ/P       56 152 IO93AD
+QSO:   144 PH 2017-03-07 2151 G4VFL         52 6 IO84FL          GI4SNA        53 25 IO64XM
+QSO:   144 PH 2017-03-07 2152 G4VFL         59 7 IO84FL          GD1MIP        59 3 IO74TI
+QSO:   144 PH 2017-03-07 2211 G4VFL         52 8 IO84FL          M0BUL/P       55 159 IO82OI
+QSO:   144 PH 2017-03-07 2213 G4VFL         59 9 IO84FL          G8ONK         59 32 IO83MR
+QSO:   144 PH 2017-03-07 2216 G4VFL         57 10 IO84FL         M0OMB         57 45 IO83PO
+END-OF-LOG:

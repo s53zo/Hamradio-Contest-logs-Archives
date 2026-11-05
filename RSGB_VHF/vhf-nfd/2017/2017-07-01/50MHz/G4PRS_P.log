@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4PRS/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80XO
+CATEGORY: MS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3744; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:    50 PH 2017-07-01 1400 G4PRS/P       59 1 IO80XO          G2BQY/P       59 4 IO81RF
+QSO:    50 PH 2017-07-01 1403 G4PRS/P       59 2 IO80XO          G4BRA/P       55 6 IO80ST
+QSO:    50 PH 2017-07-01 1430 G4PRS/P       59 4 IO80XO          G0FVH         57 2 IO80XR
+QSO:    50 PH 2017-07-01 1453 G4PRS/P       55 5 IO80XO          G3ZME/P       56 22 IO82NN
+QSO:    50 PH 2017-07-01 1454 G4PRS/P       55 6 IO80XO          M0HRF         55 30 IO91GI
+QSO:    50 PH 2017-07-01 1529 G4PRS/P       55 7 IO80XO          M0MCG         55 14 IO80AQ
+QSO:    50 PH 2017-07-01 1556 G4PRS/P       55 8 IO80XO          G3XBZ         55 14 IO90BR
+QSO:    50 CW 2017-07-01 1616 G4PRS/P       559 9 IO80XO         G3ZME/P       559 3 IO82NN
+QSO:    50 CW 2017-07-01 1629 G4PRS/P       599 10 IO80XO        G0FBB/P       599 63 JO01LD
+QSO:    50 PH 2017-07-01 1755 G4PRS/P       53 13 IO80XO         G0ARC/P       59 53 IO91EH
+END-OF-LOG:

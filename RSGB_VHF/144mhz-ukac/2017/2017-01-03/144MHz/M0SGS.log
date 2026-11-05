@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0SGS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93DT
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170103&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11542; excluded rows=7.
+QSO:   144 PH 2017-01-03 2031 M0SGS         59 1 IO93DT          2E0SHT        59 2 IO93BR
+QSO:   144 PH 2017-01-03 2033 M0SGS         59 2 IO93DT          G0BFJ/P       59 18 IO93DO
+QSO:   144 PH 2017-01-03 2035 M0SGS         55 3 IO93DT          G4DBN         55 18 IO93NR
+QSO:   144 PH 2017-01-03 2037 M0SGS         57 4 IO93DT          M0HOM         57 14 IO93QO
+QSO:   144 PH 2017-01-03 2040 M0SGS         59 5 IO93DT          G4HGT/P       59 47 IO93DV
+QSO:   144 PH 2017-01-03 2042 M0SGS         59 6 IO93DT          G4FZN/P       59 32 IO94JF
+QSO:   144 PH 2017-01-03 2044 M0SGS         59 7 IO93DT          G4HBA         59 13 IO93FN
+QSO:   144 PH 2017-01-03 2048 M0SGS         59 8 IO93DT          M6KMB         59 17 IO93EQ
+QSO:   144 PH 2017-01-03 2050 M0SGS         55 9 IO93DT          G3VCA         55 38 IO93MG
+QSO:   144 PH 2017-01-03 2051 M0SGS         59 10 IO93DT         G3XNO         59 7 IO93DW
+QSO:   144 PH 2017-01-03 2053 M0SGS         59 11 IO93DT         G3SEQ         59 6 IO93EQ
+QSO:   144 PH 2017-01-03 2104 M0SGS         59 12 IO93DT         G8DMU/P       59 31 IO94CB
+QSO:   144 PH 2017-01-03 2110 M0SGS         53 13 IO93DT         2E0DXK/P      53 48 IO93FG
+QSO:   144 PH 2017-01-03 2113 M0SGS         57 14 IO93DT         M0YDB         58 15 IO93LL
+QSO:   144 PH 2017-01-03 2122 M0SGS         55 15 IO93DT         M0DCD/P       55 17 IO94FD
+QSO:   144 PH 2017-01-03 2136 M0SGS         53 16 IO93DT         G4LKD         51 36 IO93OQ
+QSO:   144 PH 2017-01-03 2141 M0SGS         58 17 IO93DT         G8EEM         59 36 IO93MX
+QSO:   144 PH 2017-01-03 2153 M0SGS         59 18 IO93DT         G0TVM         59 25 IO93CT
+QSO:   144 PH 2017-01-03 2157 M0SGS         57 19 IO93DT         G0EAK/P       53 84 IO93NI
+QSO:   144 PH 2017-01-03 2206 M0SGS         57 20 IO93DT         G3SDY         59 8 IO93DO
+END-OF-LOG:

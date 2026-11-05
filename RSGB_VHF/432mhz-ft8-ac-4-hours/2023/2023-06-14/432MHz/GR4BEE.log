@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-4-HOURS
+CALLSIGN: GR4BEE
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=230614&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=770; excluded rows=0.
+QSO:   432 FT8 2023-06-14 2039 GR4BEE        -08 IO83             G8EEM         -08 IO93
+QSO:   432 FT8 2023-06-14 2040 GR4BEE        -04 IO83             M1DDD         -02 IO93
+QSO:   432 FT8 2023-06-14 2043 GR4BEE        +21 IO83             G4EII         +21 IO83
+QSO:   432 FT8 2023-06-14 2050 GR4BEE        +05 IO83             OV3T          -06 JO46
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G8DMU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO93FX
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=210223&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=90; excluded rows=2.
+QSO:   10G PH 2021-02-23 1930 G8DMU         51 1 IO93FX          G4CLA         53 1 IO92JL
+QSO:   10G PH 2021-02-23 1953 G8DMU         54 2 IO93FX          G4ODA         56 4 IO92WS
+QSO:   10G PH 2021-02-23 2002 G8DMU         51 3 IO93FX          G4ZTR         51 2 JO01KW
+QSO:   10G PH 2021-02-23 2027 G8DMU         52 4 IO93FX          G3YJR         53 4 IO93FJ
+QSO:   10G PH 2021-02-23 2035 G8DMU         59 5 IO93FX          G4DBN         59 2 IO93NR
+QSO:   10G PH 2021-02-23 2053 G8DMU         51 6 IO93FX          G3XDY         51 1 JO02OB
+END-OF-LOG:

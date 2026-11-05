@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G3UVR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83KH
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6690; excluded rows=1.
+QSO:   144 PH 2019-05-18 1943 G3UVR         59 1 IO83KH CH       G3YJR         58 37 IO93FJ SD
+QSO:   144 CW 2019-05-18 2224 G3UVR         589 2 IO83KH CH      G8T           599 232 JO01KJ ME
+QSO:   144 PH 2019-05-18 2228 G3UVR         58 3 IO83KH CH       G0VHF/P       57 218 JO01PU CO
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G3XDY
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02OB
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=371; excluded rows=5.
+QSO:   10G PH 2017-10-07 1424 G3XDY         53 1 JO02OB          DK2MN         56 2 JO32MC
+QSO:   10G CW 2017-10-07 1440 G3XDY         579 2 JO02OB         DF0MU         599 4 JO32PC
+QSO:   10G PH 2017-10-07 1740 G3XDY         59 3 JO02OB          G4BAO         59 2 JO02CG
+QSO:   10G CW 2017-10-07 1859 G3XDY         529 4 JO02OB         G8NEY         559 3 IO81VK
+QSO:   10G CW 2017-10-08 0849 G3XDY         519 5 JO02OB         G4CLA         549 8 IO92JL
+QSO:   10G CW 2017-10-08 1053 G3XDY         529 6 JO02OB         G5B           539 7 IO92WS
+QSO:   10G CW 2017-10-08 1119 G3XDY         539 7 JO02OB         G4LDR         529 7 IO91EC
+QSO:   10G PH 2017-10-08 1126 G3XDY         59 8 JO02OB          M1CRO/P       59 22 JO01PU
+QSO:   10G CW 2017-10-08 1252 G3XDY         539 9 JO02OB         G4ASR         529 8 IO81MX
+END-OF-LOG:

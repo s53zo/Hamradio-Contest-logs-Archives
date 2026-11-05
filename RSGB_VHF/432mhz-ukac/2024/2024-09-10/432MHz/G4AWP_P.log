@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4AWP/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO94MJ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=240910&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4659; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   432 PH 2024-09-10 1932 G4AWP/P       59 1 IO94MJ          G4RQI         55 13 IO93IR
+QSO:   432 PH 2024-09-10 1942 G4AWP/P       52 2 IO94MJ          G8NRY/P       54 6 IO93AT
+QSO:   432 PH 2024-09-10 1952 G4AWP/P       52 4 IO94MJ          G0CNN/P       51 32 IO94AI
+QSO:   432 PH 2024-09-10 2000 G4AWP/P       52 5 IO94MJ          G4CLA         55 96 IO92JL
+QSO:   432 PH 2024-09-10 2003 G4AWP/P       57 6 IO94MJ          G3TBK/P       57 47 IO93RA
+QSO:   432 PH 2024-09-10 2047 G4AWP/P       59 7 IO94MJ          G4KUX         59 16 IO94BP
+END-OF-LOG:

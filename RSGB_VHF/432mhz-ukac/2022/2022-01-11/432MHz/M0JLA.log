@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0JLA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO82PB
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=220111&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10446; excluded rows=0.
+QSO:   432 PH 2022-01-11 2001 M0JLA         59 1 IO82PB          G1YBB/P       59 2 IO82LB
+QSO:   432 PH 2022-01-11 2005 M0JLA         57 2 IO82PB          M0BUL         59 6 IO82NG
+QSO:   432 PH 2022-01-11 2016 M0JLA         59 3 IO82PB          G0JCC         59 20 IO82MA
+QSO:   432 PH 2022-01-11 2023 M0JLA         51 4 IO82PB          G0HEL/P       54 30 IO81WG
+QSO:   432 PH 2022-01-11 2028 M0JLA         58 5 IO82PB          G4ILI/P       56 40 IO81WU
+END-OF-LOG:

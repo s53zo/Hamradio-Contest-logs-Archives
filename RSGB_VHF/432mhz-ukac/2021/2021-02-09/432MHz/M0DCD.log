@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0DCD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO94HE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210209&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8128; excluded rows=1.
+QSO:   432 PH 2021-02-09 2000 M0DCD         59 1 IO94HE          M0KOV         59 1 IO93HX
+QSO:   432 PH 2021-02-09 2008 M0DCD         53 2 IO94HE          G3SDY         57 12 IO93DO
+QSO:   432 PH 2021-02-09 2012 M0DCD         57 3 IO94HE          G1LPS         59 10 IO94EQ
+QSO:   432 PH 2021-02-09 2031 M0DCD         57 4 IO94HE          G8BNE         54 7 IO94GA
+QSO:   432 PH 2021-02-09 2037 M0DCD         59 5 IO94HE          G4FZN         59 5 IO94EK
+QSO:   432 PH 2021-02-09 2124 M0DCD         53 6 IO94HE          M1MHZ         52 57 IO92WV
+QSO:   432 PH 2021-02-09 2127 M0DCD         59 7 IO94HE          G4KUX         59 19 IO94BP
+END-OF-LOG:

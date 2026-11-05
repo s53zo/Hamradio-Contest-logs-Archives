@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM0SCA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO85HO
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2011 GM0SCA        59 1 IO85HO          MM0OKG        55 2 IO86DB
+QSO:    50 PH 2021-02-11 2011 GM0SCA        55 2 IO85HO          GM4AFF        55 1 IO86TS
+QSO:    50 PH 2021-02-11 2032 GM0SCA        57 3 IO85HO          GM3TAL        58 5 IO86GA
+QSO:    50 PH 2021-02-11 2119 GM0SCA        53 4 IO85HO          MM0SKX        54 2 IO86GA
+QSO:    50 PH 2021-02-11 2130 GM0SCA        55 5 IO85HO          GM4JTJ        57 12 IO86RP
+QSO:    50 PH 2021-02-11 2205 GM0SCA        57 6 IO85HO          GI4SNA        55 42 IO64XM
+END-OF-LOG:

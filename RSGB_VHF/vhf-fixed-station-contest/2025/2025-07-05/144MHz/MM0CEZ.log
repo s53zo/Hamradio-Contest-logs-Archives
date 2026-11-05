@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: MM0CEZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75XU
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1360; excluded rows=1.
+QSO:   144 PH 2025-07-06 1045 MM0CEZ        59 1 IO75XU          G8SRC/P       59 161 IO91CL
+QSO:   144 PH 2025-07-06 1105 MM0CEZ        59 2 IO75XU          G5LK/P        59 530 JO01QD
+QSO:   144 PH 2025-07-06 1111 MM0CEZ        59 3 IO75XU          G3CKR/P       59 209 IO93AD
+QSO:   144 PH 2025-07-06 1136 MM0CEZ        59 4 IO75XU          2M0KAU/P      59 4 IO86JF
+QSO:   144 PH 2025-07-06 1150 MM0CEZ        59 5 IO75XU          G0FBB/P       59 152 JO01LD
+QSO:   144 PH 2025-07-06 1218 MM0CEZ        59 6 IO75XU          GM4JXP/P      59 4 IO86KS
+QSO:   144 PH 2025-07-06 1241 MM0CEZ        59 7 IO75XU          G3PYE/P       59 175 JO02CE
+QSO:   144 PH 2025-07-06 1243 MM0CEZ        57 8 IO75XU          G0XDI         57 99 IO91RP
+QSO:   144 PH 2025-07-06 1314 MM0CEZ        58 9 IO75XU          GW3ZTT/P      58 199 IO82KW
+END-OF-LOG:

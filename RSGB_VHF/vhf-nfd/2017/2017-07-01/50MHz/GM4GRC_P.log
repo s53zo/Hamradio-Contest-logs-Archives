@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: GM4GRC/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO86JF
+CATEGORY: L
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3744; excluded rows=2.
+QSO:    50 PH 2017-07-01 1412 GM4GRC/P      59 1 IO86JF          MM0CPS/P      59 6 IO85OQ
+QSO:    50 PH 2017-07-01 1418 GM4GRC/P      59 2 IO86JF          GM4AFF/P      59 2 IO86TS
+QSO:    50 PH 2017-07-01 1421 GM4GRC/P      55 3 IO86JF          MM0GRK/P      55 1 IO85EX
+QSO:    50 PH 2017-07-01 1428 GM4GRC/P      55 4 IO86JF          GM3HAM/P      45 5 IO74WV
+QSO:    50 PH 2017-07-01 1434 GM4GRC/P      59 5 IO86JF          GM4ZUK/P      59 17 IO86RW
+QSO:    50 PH 2017-07-01 1437 GM4GRC/P      59 6 IO86JF          GM0FRC/P      55 6 IO85DW
+QSO:    50 PH 2017-07-01 1521 GM4GRC/P      59 7 IO86JF          GM4LRU        59 6 IO85MX
+QSO:    50 PH 2017-07-01 1613 GM4GRC/P      59 8 IO86JF          GM4JJJ        59 4 IO86GB
+END-OF-LOG:

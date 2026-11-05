@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: 2E0MDJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81WV
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2211; excluded rows=0.
+QSO:   144 PH 2025-08-02 1527 2E0MDJ        59 1 IO81WV GL       GW1YBB/P      59 90 IO81KW NP
+QSO:   144 PH 2025-08-02 1528 2E0MDJ        59 2 IO81WV GL       G4TCU/P       59 41 IO82WJ DY
+QSO:   144 PH 2025-08-02 1530 2E0MDJ        59 3 IO81WV GL       G4ASR         59 57 IO81MX HR
+QSO:   144 PH 2025-08-02 1534 2E0MDJ        59 4 IO81WV GL       G8LNR/P       59 27 IO81VR GL
+END-OF-LOG:

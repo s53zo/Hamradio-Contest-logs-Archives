@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0BQE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82WG
+CATEGORY: 10V
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=180306&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=411; excluded rows=0.
+QSO:   144 FM 2018-03-06 1907 M0BQE         59 1 IO82WG          M0RKX/P       59 1 IO92BA
+QSO:   144 FM 2018-03-06 1910 M0BQE         59 2 IO82WG          G3VGG         59 4 IO82XH
+QSO:   144 FM 2018-03-06 1914 M0BQE         59 3 IO82WG          G6NYG         59 2 IO82WH
+QSO:   144 FM 2018-03-06 1921 M0BQE         46 4 IO82WG          M6KSX         46 3 IO81NX
+END-OF-LOG:

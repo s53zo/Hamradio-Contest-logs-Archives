@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G8ZAX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91RF
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4093; excluded rows=1.
+QSO:   432 PH 2019-02-03 1230 G8ZAX         59 1 IO91RF          G0SKA         59 33 IO91OQ
+QSO:   432 PH 2019-02-03 1237 G8ZAX         59 2 IO91RF          G4ODQ         55 80 IO91MR
+QSO:   432 PH 2019-02-03 1242 G8ZAX         59 3 IO91RF          G4YPC         59 47 IO91RH
+QSO:   432 PH 2019-02-03 1244 G8ZAX         59 4 IO91RF          G8KQH         55 11 IO91RI
+QSO:   432 PH 2019-02-03 1252 G8ZAX         59 5 IO91RF          G3MEH         57 78 IO91QS
+END-OF-LOG:

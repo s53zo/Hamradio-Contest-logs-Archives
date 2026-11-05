@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: MM7SWM
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75UT
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=221004&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=927; excluded rows=0.
+QSO:   144 FM 2022-10-04 1801 MM7SWM        59 1 IO75UT          GM3ZDH        59 1 IO75UU
+QSO:   144 FM 2022-10-04 1801 MM7SWM        59 2 IO75UT          MM1ESW        59 1 IO75UT
+QSO:   144 FM 2022-10-04 1805 MM7SWM        59 3 IO75UT          GM0WRR        59 1 IO75VT
+QSO:   144 FM 2022-10-04 1810 MM7SWM        59 4 IO75UT          GM4CLQ        59 1 IO85AR
+QSO:   144 FM 2022-10-04 1823 MM7SWM        59 5 IO75UT          GM4CXM        59 1 IO75TW
+QSO:   144 FM 2022-10-04 1835 MM7SWM        59 6 IO75UT          GM3VTB        59 1 IO75UW
+QSO:   144 FM 2022-10-04 1839 MM7SWM        59 7 IO75UT          MM7DCD        59 1 IO75SV
+QSO:   144 FM 2022-10-04 1844 MM7SWM        59 8 IO75UT          GM8GAX        59 1 IO86CD
+QSO:   144 FM 2022-10-04 1849 MM7SWM        59 9 IO75UT          MM0WCT        56 1 IO76TE
+QSO:   144 FM 2022-10-04 1853 MM7SWM        59 10 IO75UT         GM0VEK        59 1 IO75WW
+END-OF-LOG:

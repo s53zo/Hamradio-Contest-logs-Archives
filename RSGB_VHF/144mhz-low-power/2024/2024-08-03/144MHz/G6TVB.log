@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: G6TVB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92NG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2829; excluded rows=0.
+QSO:   144 PH 2024-08-03 1400 G6TVB         59 1 IO92NG NN       G4CZB/P       59 1 IO92KG NN
+QSO:   144 PH 2024-08-03 1401 G6TVB         59 2 IO92NG NN       G1MZD         59 2 IO92NB NN
+QSO:   144 PH 2024-08-03 1433 G6TVB         57 3 IO92NG NN       G0EAK/P       57 28 JO03AE LN
+QSO:   144 PH 2024-08-03 1440 G6TVB         59 4 IO92NG NN       G3TBK/P       59 36 IO93RA NG
+END-OF-LOG:

@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0JSB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83KJ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210819&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4531; excluded rows=0.
+QSO:    70 PH 2021-08-19 1900 G0JSB         59 1 IO83KJ          G8REQ         59 2 IO83KI
+QSO:    70 PH 2021-08-19 1902 G0JSB         59 2 IO83KJ          G0VAX         59 3 IO83JJ
+QSO:    70 PH 2021-08-19 1905 G0JSB         59 3 IO83KJ          GW4ZAR        59 4 IO83KF
+QSO:    70 PH 2021-08-19 1907 G0JSB         59 4 IO83KJ          M0HWO         59 1 IO83MI
+QSO:    70 PH 2021-08-19 1938 G0JSB         55 5 IO83KJ          MM0CEZ        51 12 IO75XU
+QSO:    70 PH 2021-08-19 1939 G0JSB         59 6 IO83KJ          GD0AMD/P      58 12 IO74QD
+QSO:    70 PH 2021-08-19 1941 G0JSB         59 7 IO83KJ          GI4SNA        57 38 IO64XM
+QSO:    70 PH 2021-08-19 1955 G0JSB         59 8 IO83KJ          G4NTY         55 18 IO83TM
+QSO:    70 PH 2021-08-19 2011 G0JSB         55 9 IO83KJ          G8SFI/P       52 70 IO94KH
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G8VPE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02TP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1837; excluded rows=0.
+QSO:    70 PH 2025-09-21 0909 G8VPE         59 1 JO02TP NK       G4LPP         59 2 JO02SS NK
+QSO:    70 PH 2025-09-21 0914 G8VPE         59 2 JO02TP NK       G4ODA         58 16 IO92WS PE
+QSO:    70 PH 2025-09-21 0916 G8VPE         57 3 JO02TP NK       G3TBK/P       57 14 IO93RA NG
+QSO:    70 PH 2025-09-21 0923 G8VPE         55 4 JO02TP NK       G0ODQ         53 22 IO91MR OX
+QSO:    70 PH 2025-09-21 0928 G8VPE         59 5 JO02TP NK       G5PI/P        58 20 JO02EB CB
+QSO:    70 PH 2025-09-21 0931 G8VPE         57 6 JO02TP NK       G4CWH/P       56 26 IO92XA SG
+QSO:    70 PH 2025-09-21 1007 G8VPE         57 7 JO02TP NK       G4BWP         59 47 JO02FH IP
+QSO:    70 PH 2025-09-21 1040 G8VPE         57 8 JO02TP NK       G0SKA         53 50 IO91OQ HP
+QSO:    70 CW 2025-09-21 1050 G8VPE         559 9 JO02TP NK      G4DYC         559 2 JO02MP NK
+END-OF-LOG:

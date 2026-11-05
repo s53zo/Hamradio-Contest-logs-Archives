@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G4BCA
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81VV
+CATEGORY: FLL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=240109&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=281; excluded rows=0.
+QSO:   432 FM 2024-01-09 1901 G4BCA         59 1 IO81VV          G0PLA/P       59 2 IO82XJ
+QSO:   432 FM 2024-01-09 1903 G4BCA         59 2 IO81VV          G4ILI         59 5 IO81WV
+QSO:   432 FM 2024-01-09 1910 G4BCA         57 3 IO81VV          MW0LKX/P      57 6 IO82KL
+QSO:   432 FM 2024-01-09 1927 G4BCA         59 4 IO81VV          G1YBB/P       59 15 IO82LB
+QSO:   432 FM 2024-01-09 1945 G4BCA         59 5 IO81VV          G8JAY         59 9 IO81WV
+END-OF-LOG:

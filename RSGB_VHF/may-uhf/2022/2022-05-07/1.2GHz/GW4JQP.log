@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: GW4JQP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO71KR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=477; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  1.2G PH 2022-05-08 0817 GW4JQP        56 1 IO71KR          G4BRK         55 3 IO91HP
+QSO:  1.2G PH 2022-05-08 0903 GW4JQP        59 2 IO71KR          GW4HXO        59 1 IO71JV
+QSO:  1.2G PH 2022-05-08 0917 GW4JQP        59 3 IO71KR          GW3LEW        59 1 IO71PS
+QSO:  1.2G PH 2022-05-08 1045 GW4JQP        59 4 IO71KR          M0HNA/P       57 30 IO91GI
+QSO:  1.2G PH 2022-05-08 1110 GW4JQP        59 6 IO71KR          EI8KN         59 4 IO62IE
+QSO:  1.2G PH 2022-05-08 1133 GW4JQP        58 7 IO71KR          MW0CXH        59 1 IO71VQ
+QSO:  1.2G PH 2022-05-08 1142 GW4JQP        53 8 IO71KR          M0GHZ         52 13 IO81VK
+QSO:  1.2G PH 2022-05-08 1205 GW4JQP        56 9 IO71KR          G7L           57 26 IO91TQ
+QSO:  1.2G PH 2022-05-08 1239 GW4JQP        57 10 IO71KR         M1CRO/P       57 72 JO01PU
+QSO:  1.2G PH 2022-05-08 1248 GW4JQP        55 11 IO71KR         GW3XJQ        57 2 IO71RR
+QSO:  1.2G PH 2022-05-08 1315 GW4JQP        56 12 IO71KR         MW0RLD        57 2 IO71RR
+QSO:  1.2G PH 2022-05-08 1323 GW4JQP        56 13 IO71KR         G3XDY         55 16 JO02OB
+END-OF-LOG:

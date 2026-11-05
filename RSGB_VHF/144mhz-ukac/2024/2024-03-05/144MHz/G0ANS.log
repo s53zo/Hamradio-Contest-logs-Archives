@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0ANS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01FI
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=240305&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10463; excluded rows=4.
+QSO:   144 PH 2024-03-05 2041 G0ANS         57 1 JO01FI          F5RZC         57 48 JO10AR
+QSO:   144 PH 2024-03-05 2050 G0ANS         59 2 JO01FI          G0XDI         59 39 IO91RQ
+QSO:   144 PH 2024-03-05 2054 G0ANS         59 3 JO01FI          G7ULL         59 27 JO01AK
+QSO:   144 PH 2024-03-05 2058 G0ANS         59 4 JO01FI          F4HRD         59 25 JO00XX
+QSO:   144 PH 2024-03-05 2226 G0ANS         55 5 JO01FI          G0UOK/P       55 140 IO94MJ
+END-OF-LOG:

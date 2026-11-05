@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G6SWZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93RF
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=191212&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2280; excluded rows=1.
+QSO:    50 PH 2019-12-12 2046 G6SWZ         53 1 IO93RF          2E1SKY        52 17 IO93KH
+QSO:    50 CW 2019-12-12 2052 G6SWZ         569 2 IO93RF         G4ODA         59 26 IO92WS
+QSO:    50 PH 2019-12-12 2103 G6SWZ         57 3 IO93RF          G0BFJ/A       59 40 IO93FR
+QSO:    50 PH 2019-12-12 2109 G6SWZ         56 4 IO93RF          M6KMB         57 25 IO93EQ
+QSO:    50 PH 2019-12-12 2126 G6SWZ         55 5 IO93RF          M1MHZ         59 34 IO92WV
+QSO:    50 PH 2019-12-12 2146 G6SWZ         54 6 IO93RF          G7LRQ/P       57 83 IO91RU
+QSO:    50 PH 2019-12-12 2213 G6SWZ         57 7 IO93RF          G4CLA         59 90 IO92JL
+QSO:    50 PH 2019-12-12 2222 G6SWZ         57 8 IO93RF          G4YHF         59 23 IO92XW
+END-OF-LOG:

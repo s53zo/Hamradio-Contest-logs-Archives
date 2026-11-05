@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G4NTY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83TM
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6313; excluded rows=2.
+QSO:   144 PH 2024-05-18 1420 G4NTY         59 1 IO83TM MR       GM3HA/P       59 6 IO74WV WV
+QSO:   144 PH 2024-05-18 1424 G4NTY         59 2 IO83TM MR       M1W           59 28 IO93AD ST
+QSO:   144 PH 2024-05-18 1427 G4NTY         55 3 IO83TM MR       M1T           59 17 IO91CL SN
+QSO:   144 PH 2024-05-18 1437 G4NTY         52 4 IO83TM MR       M0UHF         55 16 IO91HP OX
+END-OF-LOG:

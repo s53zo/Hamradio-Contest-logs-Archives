@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G0MCV
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92KR
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1130; excluded rows=3.
+QSO:   144 CW 2019-11-02 1844 G0MCV         599 1 IO92KR         G4HVC         599 12 IO93QA
+QSO:   144 CW 2019-11-02 1854 G0MCV         599 2 IO92KR         F6DWG/P       599 132 JN19BQ
+QSO:   144 CW 2019-11-02 1902 G0MCV         599 3 IO92KR         OR6T          599 157 JO20KV
+QSO:   144 CW 2019-11-02 1913 G0MCV         559 4 IO92KR         G7HAH         559 17 IO93NT
+QSO:   144 CW 2019-11-02 1920 G0MCV         599 5 IO92KR         G4RGK         599 36 IO91ON
+QSO:   144 CW 2019-11-02 1950 G0MCV         519 6 IO92KR         G3TCU         519 20 IO91QE
+QSO:   144 CW 2019-11-02 2000 G0MCV         599 7 IO92KR         DF1JM         599 118 JO30FQ
+QSO:   144 CW 2019-11-02 2025 G0MCV         519 8 IO92KR         GW9J          519 12 IO72VE
+QSO:   144 CW 2019-11-02 2029 G0MCV         559 9 IO92KR         M0PNN         559 18 IO82TS
+END-OF-LOG:

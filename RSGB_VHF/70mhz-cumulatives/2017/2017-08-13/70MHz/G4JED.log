@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4JED
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01CF
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170813&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=863; excluded rows=0.
+QSO:    70 PH 2017-08-13 1403 G4JED         59 1 JO01CF          M0WCO/P       59 5 JO00EW
+QSO:    70 PH 2017-08-13 1413 G4JED         54 2 JO01CF          G8LZE         55 7 IO91SO
+QSO:    70 PH 2017-08-13 1416 G4JED         56 3 JO01CF          G4BWP         59 26 JO02FH
+QSO:    70 PH 2017-08-13 1420 G4JED         55 4 JO01CF          G4FKK         55 13 IO91WI
+QSO:    70 PH 2017-08-13 1428 G4JED         52 5 JO01CF          G4GFI         52 13 IO91VH
+QSO:    70 PH 2017-08-13 1430 G4JED         54 6 JO01CF          G4ASR         52 26 IO81MX
+QSO:    70 PH 2017-08-13 1431 G4JED         53 7 JO01CF          G4BRK         54 1 IO91HP
+QSO:    70 PH 2017-08-13 1440 G4JED         56 8 JO01CF          G4SJH/P       57 32 IO91RF
+END-OF-LOG:

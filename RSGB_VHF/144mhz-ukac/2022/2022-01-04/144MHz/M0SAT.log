@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0SAT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91TP
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220104&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11936; excluded rows=1.
+QSO:   144 PH 2022-01-04 2039 M0SAT         59 1 IO91TP          G0SKA         59 56 IO91OQ
+QSO:   144 PH 2022-01-04 2041 M0SAT         59 2 IO91TP          G8CUL         59 29 IO91JO
+QSO:   144 PH 2022-01-04 2044 M0SAT         57 3 IO91TP          M0BUL         59 35 IO82NG
+QSO:   144 PH 2022-01-04 2047 M0SAT         55 4 IO91TP          G4RRA         55 67 IO80BS
+QSO:   144 PH 2022-01-04 2052 M0SAT         57 5 IO91TP          F1BHL/P       58 60 IN99CQ
+QSO:   144 PH 2022-01-04 2059 M0SAT         59 6 IO91TP          M0UGA/P       59 48 IO90VV
+QSO:   144 PH 2022-01-04 2108 M0SAT         55 7 IO91TP          GM3SEK        54 63 IO74SR
+QSO:   144 PH 2022-01-04 2112 M0SAT         57 8 IO91TP          GD8EXI        53 88 IO74PC
+QSO:   144 PH 2022-01-04 2116 M0SAT         59 9 IO91TP          G4RUL/P       59 56 JO00DR
+QSO:   144 PH 2022-01-04 2121 M0SAT         59 10 IO91TP         G8ZZK         59 37 JO01DI
+QSO:   144 PH 2022-01-04 2126 M0SAT         59 11 IO91TP         G8XTJ         59 26 IO91PQ
+QSO:   144 PH 2022-01-04 2127 M0SAT         57 12 IO91TP         M0NVS/P       57 94 IO91LT
+QSO:   144 PH 2022-01-04 2129 M0SAT         59 13 IO91TP         G0XDI         59 76 IO91RQ
+QSO:   144 PH 2022-01-04 2131 M0SAT         59 14 IO91TP         M0DXR/P       59 130 JO01DH
+QSO:   144 PH 2022-01-04 2133 M0SAT         55 15 IO91TP         G4VZV         51 46 IO93IK
+QSO:   144 PH 2022-01-04 2136 M0SAT         59 16 IO91TP         G4CLA         59 175 IO92JL
+QSO:   144 PH 2022-01-04 2145 M0SAT         55 17 IO91TP         M6LSC         53 3 IO91VO
+QSO:   144 PH 2022-01-04 2147 M0SAT         59 18 IO91TP         M7NEO         59 21 IO91SM
+QSO:   144 PH 2022-01-04 2147 M0SAT         59 19 IO91TP         G4EFT         59 37 IO91RG
+QSO:   144 PH 2022-01-04 2153 M0SAT         59 20 IO91TP         G3MEH         59 100 IO91QS
+END-OF-LOG:

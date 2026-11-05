@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: GM4VVX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO78TA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170528&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=913; excluded rows=0.
+QSO:    70 PH 2017-05-28 1434 GM4VVX        59 1 IO78TA          GM6VXB        55 1 IO97AQ
+QSO:    70 PH 2017-05-28 1448 GM4VVX        26 2 IO78TA          OK1DIG        26 3 JO60XJ
+QSO:    70 PH 2017-05-28 1503 GM4VVX        26 3 IO78TA          PA5Y          26 15 JO21VO
+QSO:    70 PH 2017-05-28 1519 GM4VVX        26 4 IO78TA          G8BCG         26 22 IO70RK
+QSO:    70 PH 2017-05-28 1527 GM4VVX        26 5 IO78TA          GI4SNA        599 16 IO64XM
+END-OF-LOG:

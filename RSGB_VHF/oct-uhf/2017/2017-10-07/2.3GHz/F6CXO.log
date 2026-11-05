@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: F6CXO
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: JN03SL
+CATEGORY: IARULOGS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=674; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  2.3G PH 2017-10-08 0713 F6CXO         51 2 JN03SL          F6DZR         51 8 IN96RT
+QSO:  2.3G PH 2017-10-08 0816 F6CXO         59 3 JN03SL          F6HTJ         59 2 JN12KQ
+END-OF-LOG:

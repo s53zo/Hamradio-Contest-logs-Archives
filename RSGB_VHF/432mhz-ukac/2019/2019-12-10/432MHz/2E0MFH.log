@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: 2E0MFH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81WV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=191210&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3490; excluded rows=1.
+QSO:   432 PH 2019-12-10 2002 2E0MFH        54 1 IO81WV          M0RSD         55 2 IO82WM
+QSO:   432 PH 2019-12-10 2006 2E0MFH        59 2 IO81WV          G4BCA         59 3 IO81VV
+QSO:   432 PH 2019-12-10 2009 2E0MFH        59 3 IO81WV          G4ILI         59 5 IO81WV
+QSO:   432 PH 2019-12-10 2028 2E0MFH        52 4 IO81WV          GD8EXI        52 26 IO74PC
+QSO:   432 PH 2019-12-10 2035 2E0MFH        56 5 IO81WV          M0BUL         57 6 IO82NG
+QSO:   432 PH 2019-12-10 2044 2E0MFH        59 6 IO81WV          G0JCC         59 9 IO82MA
+QSO:   432 PH 2019-12-10 2052 2E0MFH        52 7 IO81WV          2E0OUT        57 8 IO81WO
+QSO:   432 PH 2019-12-10 2056 2E0MFH        56 8 IO81WV          M0GHZ         57 38 IO81VK
+END-OF-LOG:

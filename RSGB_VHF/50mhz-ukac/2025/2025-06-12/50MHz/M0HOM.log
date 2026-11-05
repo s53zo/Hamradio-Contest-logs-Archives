@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0HOM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93QO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250612&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3777; excluded rows=0.
+QSO:    50 PH 2025-06-12 1905 M0HOM         59 1 IO93QO          M5BFL         59 6 JO02RJ
+QSO:    50 PH 2025-06-12 1907 M0HOM         57 2 IO93QO          M7DQO/P       59 3 JO03AH
+QSO:    50 PH 2025-06-12 1919 M0HOM         57 3 IO93QO          GI4SNA        51 18 IO64XM
+QSO:    50 PH 2025-06-12 1925 M0HOM         55 4 IO93QO          G3TBK/P       59 28 IO93RA
+QSO:    50 PH 2025-06-12 1926 M0HOM         59 5 IO93QO          G0EAK/P       59 17 IO93NI
+QSO:    50 PH 2025-06-12 1930 M0HOM         55 6 IO93QO          G0CNN/P       55 21 IO94AI
+QSO:    50 PH 2025-06-12 1931 M0HOM         59 7 IO93QO          G4FZN/P       59 26 IO94JF
+QSO:    50 CW 2025-06-12 1938 M0HOM         559 8 IO93QO         G3YLA         549 14 JO02MP
+QSO:    50 CW 2025-06-12 1939 M0HOM         559 9 IO93QO         G4LPP         559 17 JO02SS
+QSO:    50 CW 2025-06-12 1941 M0HOM         559 10 IO93QO        G3LDI         579 17 JO02ON
+QSO:    50 CW 2025-06-12 1944 M0HOM         559 11 IO93QO        G8VPE         559 12 JO02TP
+QSO:    50 CW 2025-06-12 1950 M0HOM         559 12 IO93QO        G0UUU/P       559 7 IO94SE
+QSO:    50 CW 2025-06-12 2004 M0HOM         559 13 IO93QO        G4AWP         559 3 IO94LA
+END-OF-LOG:

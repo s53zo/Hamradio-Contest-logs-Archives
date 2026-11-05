@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0VDC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93QE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220705&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11582; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2022-07-05 1903 M0VDC         59 1 IO93QE          G3SQQ         59 3 IO93JC
+QSO:   144 PH 2022-07-05 1908 M0VDC         59 2 IO93QE          GD0AMD/P      59 8 IO74QD
+QSO:   144 PH 2022-07-05 1918 M0VDC         59 4 IO93QE          G0CNN/P       57 24 IO94AI
+QSO:   144 PH 2022-07-05 1921 M0VDC         59 5 IO93QE          MM0CEZ        59 20 IO75XU
+QSO:   144 PH 2022-07-05 1924 M0VDC         59 6 IO93QE          G0EAK/P       59 23 IO93NI
+QSO:   144 PH 2022-07-05 1930 M0VDC         59 7 IO93QE          GM4DIJ/P      59 24 IO74MU
+QSO:   144 PH 2022-07-05 1938 M0VDC         59 8 IO93QE          G0WUS/P       59 34 IO92MP
+QSO:   144 PH 2022-07-05 1944 M0VDC         59 9 IO93QE          G1PPA/P       59 21 JO03AE
+QSO:   144 PH 2022-07-05 1951 M0VDC         59 10 IO93QE         G8DMU/P       59 68 IO94CB
+QSO:   144 PH 2022-07-05 1954 M0VDC         59 11 IO93QE         G4VZV         59 17 IO93IK
+QSO:   144 PH 2022-07-05 1957 M0VDC         59 12 IO93QE         M0HOM         55 23 IO93QO
+QSO:   144 PH 2022-07-05 2002 M0VDC         59 13 IO93QE         G0SKA         59 74 IO91OQ
+QSO:   144 PH 2022-07-05 2016 M0VDC         59 14 IO93QE         GI4SNA        59 78 IO64XM
+END-OF-LOG:

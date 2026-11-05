@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G8VPE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02TP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7408; excluded rows=1.
+QSO:   144 PH 2017-12-03 1449 G8VPE         57 1 JO02TP          G4ODA         58 183 IO92WS
+QSO:   144 PH 2017-12-03 1458 G8VPE         53 2 JO02TP          G5PI/P        52 196 JO02EB
+QSO:   144 PH 2017-12-03 1526 G8VPE         55 3 JO02TP          M0BAA/P       56 249 JO01KJ
+END-OF-LOG:

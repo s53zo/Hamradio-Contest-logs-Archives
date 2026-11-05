@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G8HXE
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1902 G8HXE         -21 IO83             M0VXX         -13 IO82
+QSO:   144 FT8 2021-02-03 1904 G8HXE         -14 IO83             2E0TXE        -24 IO83
+QSO:   144 FT8 2021-02-03 1907 G8HXE         +07 IO83             G4HGI         +10 IO83
+QSO:   144 FT8 2021-02-03 1911 G8HXE         -08 IO83             M3SMK         -10 IO83
+QSO:   144 FT8 2021-02-03 1914 G8HXE         +05 IO83             G6MHO         +03 IO83
+QSO:   144 FT8 2021-02-03 1920 G8HXE         -02 IO83             M3AUB         +04 IO83
+QSO:   144 FT8 2021-02-03 1938 G8HXE         -02 IO83             G4DPZ         -04 IO82
+QSO:   144 FT8 2021-02-03 1942 G8HXE         -17 IO83             G4RRA         -19 IO80
+QSO:   144 FT8 2021-02-03 1944 G8HXE         -03 IO83             G8EKG         -18 IO92
+QSO:   144 FT8 2021-02-03 1949 G8HXE         -12 IO83             G0ISX         -09 IO93
+QSO:   144 FT8 2021-02-03 1959 G8HXE         -10 IO83             G4DPZ         -01 IO82
+QSO:   144 FT8 2021-02-03 2011 G8HXE         -14 IO83             M0IEP         -24 IO91
+QSO:   144 FT8 2021-02-03 2020 G8HXE         -08 IO83             G4SDL         +08 IO83
+QSO:   144 FT8 2021-02-03 2028 G8HXE         -15 IO83             GI6ATZ        -19 IO74
+QSO:   144 FT8 2021-02-03 2037 G8HXE         +03 IO83             G4APJ         +05 IO83
+QSO:   144 FT8 2021-02-03 2050 G8HXE         -12 IO83             MM0GPZ        -24 IO75
+END-OF-LOG:

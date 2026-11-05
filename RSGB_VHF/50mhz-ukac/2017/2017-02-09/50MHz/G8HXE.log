@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8HXE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83TK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170209&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5801; excluded rows=0.
+QSO:    50 PH 2017-02-09 2018 G8HXE         59 1 IO83TK          G2ANC         56 10 IO83RM
+QSO:    50 PH 2017-02-09 2057 G8HXE         59 2 IO83TK          G4NTY         57 29 IO83TM
+QSO:    50 PH 2017-02-09 2100 G8HXE         55 3 IO83TK          G4FZN/P       59 72 IO94JF
+QSO:    50 CW 2017-02-09 2138 G8HXE         599 4 IO83TK         OZ1PIF        26 0 JO65AN
+END-OF-LOG:

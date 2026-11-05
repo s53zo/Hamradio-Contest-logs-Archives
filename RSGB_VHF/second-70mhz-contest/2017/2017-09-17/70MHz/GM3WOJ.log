@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SECOND-70MHZ-CONTEST
+CALLSIGN: GM3WOJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO77WS
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Second+70MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=715; excluded rows=2.
+QSO:    70 CW 2017-09-17 1122 GM3WOJ        559 1 IO77WS         MM0CEZ        539 13 IO75XU
+QSO:    70 PH 2017-09-17 1127 GM3WOJ        57 2 IO77WS          G0EHV/P       57 41 IO84XT
+QSO:    70 PH 2017-09-17 1154 GM3WOJ        59 3 IO77WS          GM4AFF        59 24 IO86TS
+END-OF-LOG:

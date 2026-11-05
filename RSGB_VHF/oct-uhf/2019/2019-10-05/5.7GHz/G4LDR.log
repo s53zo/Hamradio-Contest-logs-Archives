@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G4LDR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91EC
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=30; excluded rows=0.
+QSO:  5.7G PH 2019-10-06 1053 G4LDR         57 1 IO91EC          G3VPF/P       57 1 IO80QR
+QSO:  5.7G PH 2019-10-06 1115 G4LDR         53 2 IO91EC          G3XDY         53 8 JO02OB
+QSO:  5.7G PH 2019-10-06 1124 G4LDR         55 3 IO91EC          M1CRO/P       57 7 JO01PU
+QSO:  5.7G CW 2019-10-06 1319 G4LDR         559 4 IO91EC         PI4Z          559 8 JO11WM
+END-OF-LOG:

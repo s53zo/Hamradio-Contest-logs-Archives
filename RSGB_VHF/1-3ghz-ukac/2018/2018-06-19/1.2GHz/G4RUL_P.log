@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G4RUL/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: JO00DR
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=180619&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2300; excluded rows=1.
+QSO:  1.2G PH 2018-06-19 1939 G4RUL/P       57 1 JO00DR          G3TCU/P       57 26 IO91RF
+QSO:  1.2G PH 2018-06-19 1941 G4RUL/P       59 2 JO00DR          G4GFI/P       58 7 IO90VV
+QSO:  1.2G PH 2018-06-19 2000 G4RUL/P       54 3 JO00DR          G8OHM         55 30 IO92AJ
+QSO:  1.2G PH 2018-06-19 2013 G4RUL/P       53 4 JO00DR          F6DKW         55 2 JN18CK
+END-OF-LOG:

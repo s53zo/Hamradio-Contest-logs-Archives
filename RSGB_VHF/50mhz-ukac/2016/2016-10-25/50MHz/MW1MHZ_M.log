@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: MW1MHZ/M
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO73TJ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=161025&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6427; excluded rows=3.
+QSO:    50 PH 2016-10-25 1903 MW1MHZ/M      59 1 IO73TJ          GD8EXI        58 2 IO74PC
+QSO:    50 PH 2016-10-25 1908 MW1MHZ/M      59 2 IO73TJ          GI4SNA        57 10 IO64XM
+QSO:    50 PH 2016-10-25 1912 MW1MHZ/M      56 3 IO73TJ          G3TBK/P       55 22 IO93RA
+QSO:    50 PH 2016-10-25 1951 MW1MHZ/M      59 4 IO73TJ          MW1CFN        57 1 IO73TJ
+QSO:    50 PH 2016-10-25 2004 MW1MHZ/M      59 5 IO73TJ          MD0MAN/P      59 2 IO74SF
+QSO:    50 PH 2016-10-25 2013 MW1MHZ/M      55 6 IO73TJ          G0EAK/P       55 53 IO93NI
+QSO:    50 PH 2016-10-25 2024 MW1MHZ/M      57 7 IO73TJ          GM3SEK        55 12 IO74SR
+END-OF-LOG:

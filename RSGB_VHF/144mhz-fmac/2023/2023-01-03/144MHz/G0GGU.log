@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G0GGU
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92MG
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230103&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=624; excluded rows=0.
+QSO:   144 FM 2023-01-03 1902 G0GGU         55 1 IO92MG          G1MZD         56 1 IO92NB
+QSO:   144 FM 2023-01-03 1905 G0GGU         59 2 IO92MG          M0LXV         59 2 IO92NG
+QSO:   144 FM 2023-01-03 1907 G0GGU         58 3 IO92MG          G6AD/P        59 1 IO92MJ
+QSO:   144 FM 2023-01-03 1909 G0GGU         59 4 IO92MG          G4SCJ         59 1 IO92NG
+QSO:   144 FM 2023-01-03 1923 G0GGU         55 5 IO92MG          G0XDI         52 9 IO91RQ
+END-OF-LOG:

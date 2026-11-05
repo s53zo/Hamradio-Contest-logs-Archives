@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80JT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220210&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5486; excluded rows=9.
+QSO:    50 PH 2022-02-10 2001 G3USE         59 1 IO80JT          G3TKF         59 1 IO81RI
+QSO:    50 PH 2022-02-10 2003 G3USE         59 2 IO80JT          M0GHZ         59 3 IO81VK
+QSO:    50 PH 2022-02-10 2007 G3USE         57 3 IO80JT          2E0VCC/P      57 5 IO70SP
+QSO:    50 PH 2022-02-10 2020 G3USE         57 4 IO80JT          G3PYE/P       57 33 JO02CE
+QSO:    50 PH 2022-02-10 2027 G3USE         53 5 IO80JT          G0ODQ         53 19 IO91MR
+QSO:    50 PH 2022-02-10 2029 G3USE         55 6 IO80JT          G4CLA         57 28 IO92JL
+QSO:    50 PH 2022-02-10 2041 G3USE         55 7 IO80JT          G3ZST         55 29 IO92HF
+QSO:    50 PH 2022-02-10 2053 G3USE         58 8 IO80JT          G1YBB/P       58 67 IO82LB
+QSO:    50 PH 2022-02-10 2057 G3USE         58 9 IO80JT          M1MHZ         58 40 IO92WV
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0CWX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82XK
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230704&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9826; excluded rows=6.
+QSO:   144 PH 2023-07-04 1930 M0CWX         53 1 IO82XK          G4KQH         54 28 IO92JD
+QSO:   144 PH 2023-07-04 1940 M0CWX         58 2 IO82XK          GW4SHF        57 32 IO82HP
+QSO:   144 PH 2023-07-04 1943 M0CWX         59 3 IO82XK          G1YBB/P       59 68 IO82LB
+QSO:   144 PH 2023-07-04 1944 M0CWX         55 4 IO82XK          MW0LKX/P      59 45 IO82KL
+QSO:   144 PH 2023-07-04 1946 M0CWX         55 5 IO82XK          G4ASR/P       55 54 IO81MW
+QSO:   144 PH 2023-07-04 1951 M0CWX         59 6 IO82XK          M0BUL         59 40 IO82NG
+QSO:   144 PH 2023-07-04 1955 M0CWX         59 7 IO82XK          G4CLA         59 115 IO92JL
+END-OF-LOG:

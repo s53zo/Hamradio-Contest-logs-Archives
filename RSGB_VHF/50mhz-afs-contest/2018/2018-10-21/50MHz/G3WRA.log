@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G3WRA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82PB
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4273; excluded rows=0.
+QSO:    50 PH 2018-10-21 1142 G3WRA         59 1 IO82PB HR       G0FRE/P       59 72 IO82LB HR
+QSO:    50 PH 2018-10-21 1150 G3WRA         59 2 IO82PB HR       G4ASR         59 100 IO81MX HR
+QSO:    50 PH 2018-10-21 1226 G3WRA         59 3 IO82PB HR       G8NEY/P       59 81 IO81UN BA
+QSO:    50 PH 2018-10-21 1231 G3WRA         57 4 IO82PB HR       M1GEO         59 33 JO02OK IP
+QSO:    50 PH 2018-10-21 1233 G3WRA         59 5 IO82PB HR       G0LGS/P       59 81 IO81WU GL
+QSO:    50 PH 2018-10-21 1235 G3WRA         59 6 IO82PB HR       G4CWH/P       59 96 IO92XA CB
+QSO:    50 PH 2018-10-21 1240 G3WRA         59 7 IO82PB HR       G4ODA         59 114 IO92WS PE
+QSO:    50 PH 2018-10-21 1241 G3WRA         59 8 IO82PB HR       G3ZVW         55 92 IO80MS EX
+QSO:    50 PH 2018-10-21 1242 G3WRA         59 9 IO82PB HR       M0ICR         59 63 IO91SO HA
+QSO:    50 PH 2018-10-21 1244 G3WRA         59 10 IO82PB HR      G5PI/P        57 113 JO02EB CB
+QSO:    50 PH 2018-10-21 1245 G3WRA         59 11 IO82PB HR      G3MEH         57 92 IO91QS HP
+QSO:    50 PH 2018-10-21 1247 G3WRA         57 12 IO82PB HR      G3ODQ         57 65 IO91MR OX
+QSO:    50 PH 2018-10-21 1254 G3WRA         55 13 IO82PB HR      M1BXF         57 102 JO02FE CB
+QSO:    50 PH 2018-10-21 1256 G3WRA         59 14 IO82PB HR      G8GRS/P       59 61 IO81QJ BS
+END-OF-LOG:

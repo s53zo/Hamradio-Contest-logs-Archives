@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: M0SDL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO80JT
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2427; excluded rows=0.
+QSO:   144 PH 2017-08-05 1429 M0SDL         55 1 IO80JT EX       M0VCT/P       54 24 IO90JO PO
+QSO:   144 PH 2017-08-05 1442 M0SDL         59 2 IO80JT EX       M0IHT         59 1 IO80FR EX
+QSO:   144 PH 2017-08-05 1529 M0SDL         59 3 IO80JT EX       G4PDS         59 13 IO80LR EX
+QSO:   144 PH 2017-08-05 1541 M0SDL         55 4 IO80JT EX       GW1YBB/P      59 100 IO81KW NP
+QSO:   144 PH 2017-08-05 1547 M0SDL         55 5 IO80JT EX       M0BAO/P       53 39 IO80LV TA
+QSO:   144 PH 2017-08-05 1600 M0SDL         59 6 IO80JT EX       M6IXJ         59 2 IO70RX EX
+QSO:   144 PH 2017-08-05 1737 M0SDL         55 7 IO80JT EX       G4ZAP/P       59 149 IO93EH SD
+END-OF-LOG:

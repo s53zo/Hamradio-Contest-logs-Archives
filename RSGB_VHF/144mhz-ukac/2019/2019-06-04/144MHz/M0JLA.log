@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0JLA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82PB
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190604&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11058; excluded rows=6.
+QSO:   144 PH 2019-06-04 1900 M0JLA         59 1 IO82PB          G1YBB/P       59 2 IO82LB
+QSO:   144 PH 2019-06-04 1901 M0JLA         59 2 IO82PB          G4ASR         59 3 IO81MX
+QSO:   144 PH 2019-06-04 1909 M0JLA         53 3 IO82PB          G0HEL/P       55 14 IO81WG
+QSO:   144 PH 2019-06-04 1919 M0JLA         59 4 IO82PB          M0RSD         59 18 IO82WM
+QSO:   144 PH 2019-06-04 1930 M0JLA         55 5 IO82PB          G8TIC         52 29 IO82VF
+QSO:   144 PH 2019-06-04 1934 M0JLA         52 6 IO82PB          G4CLA         59 80 IO92JL
+QSO:   144 PH 2019-06-04 1936 M0JLA         59 7 IO82PB          G3WAG/P       59 30 IO82QE
+QSO:   144 PH 2019-06-04 1943 M0JLA         59 8 IO82PB          M0VXX/P       59 73 IO82QL
+QSO:   144 PH 2019-06-04 1951 M0JLA         59 9 IO82PB          G4FAD         59 19 IO82PC
+QSO:   144 PH 2019-06-04 1954 M0JLA         59 10 IO82PB         G0JCC         59 15 IO82MA
+QSO:   144 PH 2019-06-04 1958 M0JLA         59 11 IO82PB         G4XTF         59 14 IO82OA
+QSO:   144 PH 2019-06-04 2002 M0JLA         59 12 IO82PB         G7RHF         57 14 IO82QK
+QSO:   144 PH 2019-06-04 2006 M0JLA         53 13 IO82PB         G8OVZ/P       55 9 IO82WK
+QSO:   144 PH 2019-06-04 2020 M0JLA         54 14 IO82PB         2E1HNK/P      57 63 IO92BA
+QSO:   144 PH 2019-06-04 2039 M0JLA         53 15 IO82PB         G3TBK         55 114 IO93RA
+END-OF-LOG:

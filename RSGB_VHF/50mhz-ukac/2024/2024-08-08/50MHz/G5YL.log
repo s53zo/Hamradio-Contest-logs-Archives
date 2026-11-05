@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G5YL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93GI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=240808&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3837; excluded rows=2.
+QSO:    50 PH 2024-08-08 1902 G5YL          59 1 IO93GI          G3TBK/P       55 1 IO93RA
+QSO:    50 PH 2024-08-08 1906 G5YL          55 2 IO93GI          G0EAK/P       57 5 IO93NI
+QSO:    50 PH 2024-08-08 1916 G5YL          59 3 IO93GI          2E0RVX        59 1 IO93GI
+QSO:    50 PH 2024-08-08 1945 G5YL          55 4 IO93GI          G1HLT         55 14 IO93JD
+QSO:    50 PH 2024-08-08 1959 G5YL          57 5 IO93GI          G4FZN/P       57 35 IO94JF
+END-OF-LOG:

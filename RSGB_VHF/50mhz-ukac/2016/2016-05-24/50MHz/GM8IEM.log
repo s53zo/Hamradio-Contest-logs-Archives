@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM8IEM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO78HF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160524&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7105; excluded rows=1.
+QSO:    50 PH 2016-05-24 2048 GM8IEM        52 1 IO78HF          GI4SNA        55 105 IO64XM
+QSO:    50 CW 2016-05-24 2058 GM8IEM        539 2 IO78HF         EI3KD         519 11 IO51VW
+QSO:    50 PH 2016-05-24 2107 GM8IEM        59 3 IO78HF          GM4VVX        55 5 IO78TA
+END-OF-LOG:

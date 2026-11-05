@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G1EXK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO95FB
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=161108&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5632; excluded rows=1.
+QSO:   432 PH 2016-11-08 2009 G1EXK         59 1 IO95FB          G8PNN/P       59 9 IO95AF
+QSO:   432 PH 2016-11-08 2018 G1EXK         59 2 IO95FB          G4TMI         59 3 IO94CR
+QSO:   432 PH 2016-11-08 2019 G1EXK         59 3 IO95FB          G4OIV         59 1 IO95FE
+QSO:   432 PH 2016-11-08 2020 G1EXK         59 4 IO95FB          G4XWR         59 2
+QSO:   432 PH 2016-11-08 2022 G1EXK         59 5 IO95FB          G8CYW         59 3 IO94CX
+QSO:   432 PH 2016-11-08 2023 G1EXK         59 6 IO95FB          G0EHV         59 1 IO94FU
+QSO:   432 PH 2016-11-08 2024 G1EXK         59 7 IO95FB          G3ZWR         59 1 IO94FX
+QSO:   432 PH 2016-11-08 2035 G1EXK         59 8 IO95FB          G8KPD         59 2 IO95DB
+END-OF-LOG:

@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G4OED
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91CN
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=220712&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=747; excluded rows=1.
+QSO:   432 FM 2022-07-12 1800 G4OED         59 1 IO91CN          M1DST         59 1 IO91BN
+QSO:   432 FM 2022-07-12 1801 G4OED         59 2 IO91CN          2E0YCC/P      59 1 IO91CM
+QSO:   432 FM 2022-07-12 1802 G4OED         59 3 IO91CN          2E0WHQ/P      59 2 IO91CL
+QSO:   432 FM 2022-07-12 1802 G4OED         59 4 IO91CN          M0KYB/P       59 4 IO91FN
+QSO:   432 FM 2022-07-12 1804 G4OED         59 5 IO91CN          G3WRA         59 7 IO82RJ
+QSO:   432 FM 2022-07-12 1805 G4OED         59 6 IO91CN          M5CBS/P       59 7 IO91CL
+QSO:   432 FM 2022-07-12 1808 G4OED         59 7 IO91CN          G4LDL/P       59 9 IO91DM
+QSO:   432 FM 2022-07-12 1809 G4OED         59 8 IO91CN          G4WQG         59 12 IO91BL
+QSO:   432 FM 2022-07-12 1812 G4OED         59 9 IO91CN          G8EFK         59 6 IO91CN
+QSO:   432 FM 2022-07-12 1815 G4OED         59 10 IO91CN         G8LNR/P       59 10 IO81VR
+QSO:   432 FM 2022-07-12 1816 G4OED         59 11 IO91CN         M0NYY         59 9 IO91AR
+QSO:   432 FM 2022-07-12 1822 G4OED         54 12 IO91CN         G4ILI/P       54 20 IO81WU
+QSO:   432 FM 2022-07-12 1839 G4OED         55 13 IO91CN         G0OIW/P       57 17 IO91MP
+END-OF-LOG:

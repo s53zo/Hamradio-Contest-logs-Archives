@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: PE1EWR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO11SL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=231214&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3558; excluded rows=1.
+QSO:    50 PH 2023-12-14 2013 PE1EWR        55 1 JO11SL          G4ASR         57 7 IO81MX
+QSO:    50 PH 2023-12-14 2030 PE1EWR        52 2 JO11SL          G4ODA         59 17 IO92WS
+QSO:    50 PH 2023-12-14 2055 PE1EWR        52 3 JO11SL          G4HWA         55 61 IO92ME
+QSO:    50 PH 2023-12-14 2103 PE1EWR        59 4 JO11SL          G4CLA         55 58 IO92JL
+QSO:    50 CW 2023-12-14 2114 PE1EWR        529 5 JO11SL         G3MEH         529 37 IO91QS
+QSO:    50 PH 2023-12-14 2135 PE1EWR        59 6 JO11SL          M1MHZ         59 67 IO92WV
+QSO:    50 PH 2023-12-14 2139 PE1EWR        55 7 JO11SL          M5BFL         59 21 JO02RJ
+QSO:    50 PH 2023-12-14 2145 PE1EWR        51 8 JO11SL          G3SQQ         51 41 IO93JC
+QSO:    50 PH 2023-12-14 2149 PE1EWR        59 9 JO11SL          G7LRQ/P       59 91 IO91TU
+QSO:    50 PH 2023-12-14 2201 PE1EWR        57 10 JO11SL         G4LPP         57 45 JO02SS
+QSO:    50 PH 2023-12-14 2224 PE1EWR        51 11 JO11SL         G0ODQ         53 64 IO91MR
+QSO:    50 PH 2023-12-14 2229 PE1EWR        55 12 JO11SL         G8DOH         55 52 IO92FA
+END-OF-LOG:

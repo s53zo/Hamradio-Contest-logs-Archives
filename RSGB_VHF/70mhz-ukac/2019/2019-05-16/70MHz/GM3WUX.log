@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GM3WUX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO75UU
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=190516&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4475; excluded rows=0.
+QSO:    70 PH 2019-05-16 1911 GM3WUX        59 1 IO75UU          MM0CEZ        59 3 IO75XU
+QSO:    70 CW 2019-05-16 1913 GM3WUX        599 2 IO75UU         GM6NX         579 1 IO86BC
+QSO:    70 CW 2019-05-16 1921 GM3WUX        599 3 IO75UU         MM0GPZ        599 2 IO75WS
+QSO:    70 PH 2019-05-16 1931 GM3WUX        59 4 IO75UU          GM0OQV        59 5 IO85AT
+END-OF-LOG:

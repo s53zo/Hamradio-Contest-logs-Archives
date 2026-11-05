@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G4BRK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91HP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=163; excluded rows=0.
+QSO:  2.3G PH 2019-05-04 1713 G4BRK         53 1 IO91HP          M0NVS/P       53 2 IO80WP
+QSO:  2.3G PH 2019-05-05 0809 G4BRK         59 2 IO91HP          M3P           59 1 IO91JO
+QSO:  2.3G PH 2019-05-05 0828 G4BRK         59 3 IO91HP          M1CRO/P       58 21 JO01PU
+QSO:  2.3G PH 2019-05-05 0859 G4BRK         41 4 IO91HP          GM4JTJ        52 2 IO86RP
+QSO:  2.3G PH 2019-05-05 0904 G4BRK         59 5 IO91HP          M0HNA/P       59 1 IO91RF
+END-OF-LOG:

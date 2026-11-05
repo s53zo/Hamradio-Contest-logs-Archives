@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: M0IAM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91QE
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4822; excluded rows=4.
+QSO:    50 PH 2016-10-16 1050 M0IAM         56 1 IO91QE GU       G6RC          59 65 IO91VC RH
+QSO:    50 PH 2016-10-16 1112 M0IAM         57 2 IO91QE GU       G4YPC         59 48 IO91RH GU
+QSO:    50 PH 2016-10-16 1114 M0IAM         54 3 IO91QE GU       M0SBT         57 7 IO91RF GU
+QSO:    50 PH 2016-10-16 1126 M0IAM         54 4 IO91QE GU       G4SDM/P       59 34 IO91TF RH
+QSO:    50 PH 2016-10-16 1140 M0IAM         54 5 IO91QE GU       G3PYE/P       57 103 JO02CE CB
+QSO:    50 PH 2016-10-16 1159 M0IAM         54 6 IO91QE GU       G6YB/P        59 119 IO81RI BA
+QSO:    50 PH 2016-10-16 1225 M0IAM         53 7 IO91QE GU       G1KAR/P       58 47 JO00DR BN
+END-OF-LOG:

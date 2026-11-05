@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: 2M0RRT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO86ML
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160301&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10593; excluded rows=4.
+QSO:   144 PH 2016-03-01 2000 2M0RRT        57 1 IO86ML          GM4JJJ        57 1 IO86GB
+QSO:   144 PH 2016-03-01 2005 2M0RRT        57 2 IO86ML          GM4AFF        51 3 IO86TS
+QSO:   144 PH 2016-03-01 2010 2M0RRT        57 3 IO86ML          GM4BYF        55 3 IO85JV
+QSO:   144 PH 2016-03-01 2011 2M0RRT        57 4 IO86ML          GM4DIJ        55 5 IO85IW
+QSO:   144 PH 2016-03-01 2014 2M0RRT        59 5 IO86ML          GM4JTJ        59 5 IO86RP
+END-OF-LOG:

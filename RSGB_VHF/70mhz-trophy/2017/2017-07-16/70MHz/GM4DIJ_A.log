@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-TROPHY
+CALLSIGN: GM4DIJ/A
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+GRID-LOCATOR: IO74MT
+CATEGORY: SO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+Trophy&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2772; excluded rows=143.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:    70 PH 2017-07-16 1106 GM4DIJ/A      59 1 IO74MT DG       GI4SNA        59 6 IO64XM BT
+QSO:    70 PH 2017-07-16 1113 GM4DIJ/A      57 2 IO74MT DG       G0EHV/P       53 35 IO84XT DL
+QSO:    70 PH 2017-07-16 1120 GM4DIJ/A      57 3 IO74MT DG       G4FZN/P       57 49 IO84WK DL
+QSO:    70 CW 2017-07-16 1127 GM4DIJ/A      559 4 IO74MT DG      GM4ZUK/P      559 31 IO86RW AB
+QSO:    70 CW 2017-07-16 1138 GM4DIJ/A      539 5 IO74MT DG      G0VHF/P       559 59 JO01PU CO
+QSO:    70 PH 2017-07-16 1426 GM4DIJ/A      55 6 IO74MT DG       G8XVJ/P       55 131 IO84SA BB
+END-OF-LOG:

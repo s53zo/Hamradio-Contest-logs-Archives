@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4AAX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO95FF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230808&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8462; excluded rows=1.
+QSO:   432 PH 2023-08-08 1914 G4AAX         59 1 IO95FF          G8PNN/P       559 6 IO95AF
+QSO:   432 CW 2023-08-08 1928 G4AAX         599 2 IO95FF         G4ITR/P       555 13 IO95DC
+QSO:   432 CW 2023-08-08 1942 G4AAX         559 3 IO95FF         GM4JTJ        59 30 IO86RP
+QSO:   432 PH 2023-08-08 1956 G4AAX         59 4 IO95FF          G3ZWR         59 9 IO84XT
+QSO:   432 PH 2023-08-08 2027 G4AAX         59 5 IO95FF          G4CLA         59 30 IO92JL
+END-OF-LOG:

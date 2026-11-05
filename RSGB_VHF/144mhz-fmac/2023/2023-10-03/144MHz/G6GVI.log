@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G6GVI
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83SN
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=231003&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=672; excluded rows=0.
+QSO:   144 FM 2023-10-03 1803 G6GVI         59 1 IO83SN          G4JLG         58 2 IO83TM
+QSO:   144 FM 2023-10-03 1804 G6GVI         56 2 IO83SN          2E0DGP        59 3 IO83QP
+QSO:   144 FM 2023-10-03 1808 G6GVI         59 3 IO83SN          M1EYP/P       59 7 IO83WE
+QSO:   144 FM 2023-10-03 1810 G6GVI         53 4 IO83SN          M0KSE         59 5 IO83RN
+QSO:   144 FM 2023-10-03 1813 G6GVI         56 5 IO83SN          G4NTY         59 9 IO83TM
+QSO:   144 FM 2023-10-03 1823 G6GVI         57 6 IO83SN          G0UXC         59 9 IO83OJ
+QSO:   144 FM 2023-10-03 1826 G6GVI         55 7 IO83SN          M7ENW         58 7 IO83WG
+END-OF-LOG:

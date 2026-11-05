@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: 2E0MDJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81WV
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5229; excluded rows=1.
+QSO:   144 PH 2021-07-04 1323 2E0MDJ        59 1 IO81WV          GW1YBB/P      59 110 IO81KW
+QSO:   144 PH 2021-07-04 1323 2E0MDJ        59 2 IO81WV          G0ARC/P       59 252 IO91EH
+QSO:   144 PH 2021-07-04 1326 2E0MDJ        59 3 IO81WV          GW0JLF/P      59 17 IO82LG
+QSO:   144 PH 2021-07-04 1327 2E0MDJ        59 4 IO81WV          G0BKU/P       59 28 IO81WG
+QSO:   144 PH 2021-07-04 1330 2E0MDJ        55 5 IO81WV          M0BAA/P       51 531 JO01KJ
+QSO:   144 PH 2021-07-04 1332 2E0MDJ        56 6 IO81WV          G0FBB/P       59 180 JO01LD
+QSO:   144 PH 2021-07-04 1334 2E0MDJ        57 7 IO81WV          GW4IDF/P      59 56 IO81NV
+QSO:   144 PH 2021-07-04 1341 2E0MDJ        59 8 IO81WV          G3PYE/P       59 242 JO02CE
+QSO:   144 PH 2021-07-04 1356 2E0MDJ        55 9 IO81WV          2E0VCC/P      57 38 IO70SP
+QSO:   144 PH 2021-07-04 1359 2E0MDJ        59 10 IO81WV         G3CKR/P       59 346 IO93AD
+QSO:   144 PH 2021-07-04 1402 2E0MDJ        59 11 IO81WV         G1UK/P        59 63 IO93GD
+QSO:   144 PH 2021-07-04 1407 2E0MDJ        59 12 IO81WV         M1MLM/P       59 32 IO93AD
+END-OF-LOG:

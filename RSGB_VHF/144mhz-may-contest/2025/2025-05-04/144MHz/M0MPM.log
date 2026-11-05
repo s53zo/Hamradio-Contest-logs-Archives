@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: M0MPM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91LJ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4083; excluded rows=1.
+QSO:   144 PH 2025-05-04 1224 M0MPM         53 1 IO91LJ RG       G8NEY/P       55 118 IO81UN BS
+QSO:   144 PH 2025-05-04 1239 M0MPM         59 2 IO91LJ RG       M0N           59 107 IO91RR HP
+QSO:   144 PH 2025-05-04 1242 M0MPM         59 3 IO91LJ RG       G1V           59 88 IO90JO PO
+QSO:   144 PH 2025-05-04 1247 M0MPM         59 4 IO91LJ RG       G4PIQ         59 173 JO02OD IP
+QSO:   144 PH 2025-05-04 1259 M0MPM         59 5 IO91LJ RG       M0UHF         59 52 IO91IP OX
+QSO:   144 PH 2025-05-04 1303 M0MPM         59 6 IO91LJ RG       G0OIW/P       59 33 IO91MP OX
+QSO:   144 PH 2025-05-04 1308 M0MPM         59 7 IO91LJ RG       G4XZL/P       59 33 IO90MX GU
+END-OF-LOG:

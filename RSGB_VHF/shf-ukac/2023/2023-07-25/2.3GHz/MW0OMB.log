@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: MW0OMB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO81HN
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=230725&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=596; excluded rows=1.
+QSO:  2.3G PH 2023-07-25 1848 MW0OMB        57 1 IO81HN          G6UAJ/P       52 6 IO91CL
+QSO:  2.3G CW 2023-07-25 1949 MW0OMB        549 2 IO81HN         G3XDY         599 5 JO02OB
+QSO:  2.3G PH 2023-07-25 2002 MW0OMB        53 3 IO81HN          G1YBB/P       59 29 IO82LA
+QSO:  2.3G PH 2023-07-25 2108 MW0OMB        53 4 IO81HN          G4LDR         51 6 IO91EC
+QSO:  2.3G PH 2023-07-25 2116 MW0OMB        51 5 IO81HN          G0LGS/P       51 10 IO81XW
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G1SCT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO92XT
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=240416&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2463; excluded rows=2.
+QSO:  1.2G PH 2024-04-16 1901 G1SCT         59 1 IO92XT          G1PPA/P       59 4 JO03AE
+QSO:  1.2G PH 2024-04-16 1902 G1SCT         59 2 IO92XT          G4ODA         59 3 IO92WS
+QSO:  1.2G PH 2024-04-16 1903 G1SCT         59 3 IO92XT          G0FVI/P       59 4 IO93RD
+QSO:  1.2G PH 2024-04-16 1909 G1SCT         53 4 IO92XT          G4FEV         57 6 IO92RG
+QSO:  1.2G PH 2024-04-16 1910 G1SCT         55 5 IO92XT          G4CLA         55 8 IO92JL
+QSO:  1.2G PH 2024-04-16 1912 G1SCT         59 6 IO92XT          2E0VPX        59 4 IO92UX
+QSO:  1.2G PH 2024-04-16 1932 G1SCT         52 7 IO92XT          G4ZTR         57 8 JO01KW
+QSO:  1.2G CW 2024-04-16 1938 G1SCT         529 8 IO92XT         G0EAK/P       579 9 IO93NI
+QSO:  1.2G PH 2024-04-16 1949 G1SCT         59 9 IO92XT          G3XDY         55 28 JO02OB
+END-OF-LOG:

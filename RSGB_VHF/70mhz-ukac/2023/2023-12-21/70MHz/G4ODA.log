@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G4ODA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92WS
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=231221&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1059; excluded rows=1.
+QSO:    70 PH 2023-12-21 2003 G4ODA         59 1 IO92WS          G0ODQ         59 2 IO91MR
+QSO:    70 CW 2023-12-21 2008 G4ODA         559 2 IO92WS         G3WGV         559 1 IO84QN
+QSO:    70 PH 2023-12-21 2009 G4ODA         59 3 IO92WS          G4ASR         59 13 IO81MX
+QSO:    70 PH 2023-12-21 2012 G4ODA         58 4 IO92WS          G3TCT         54 6 IO81QC
+QSO:    70 PH 2023-12-21 2014 G4ODA         55 5 IO92WS          G4NTY         55 10 IO83TM
+QSO:    70 PH 2023-12-21 2018 G4ODA         55 6 IO92WS          G8REQ         55 10 IO83KI
+QSO:    70 PH 2023-12-21 2025 G4ODA         59 7 IO92WS          G6UAJ/P       59 21 IO91CL
+QSO:    70 PH 2023-12-21 2026 G4ODA         58 8 IO92WS          G4KQH         56 16 IO92JD
+QSO:    70 PH 2023-12-21 2031 G4ODA         59 9 IO92WS          G4HWA         59 13 IO92ME
+QSO:    70 PH 2023-12-21 2033 G4ODA         59 10 IO92WS         G0NZI/P       59 10 IO92FM
+QSO:    70 PH 2023-12-21 2040 G4ODA         55 11 IO92WS         G4YPC         53 12 IO91RH
+QSO:    70 CW 2023-12-21 2048 G4ODA         419 12 IO92WS        G4LPP         319 8 JO02SS
+QSO:    70 PH 2023-12-21 2058 G4ODA         58 13 IO92WS         GW8ASD        57 16 IO83LB
+QSO:    70 PH 2023-12-21 2109 G4ODA         57 14 IO92WS         G4SJH         55 18 IO91PI
+END-OF-LOG:

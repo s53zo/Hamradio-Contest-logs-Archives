@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G3VDB
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83UG
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250805&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=462; excluded rows=0.
+QSO:   144 FM 2025-08-05 1800 G3VDB         56 1 IO83UG          G3RKF         56 1 IO83VH
+QSO:   144 FM 2025-08-05 1803 G3VDB         59 2 IO83UG          M1EYP/P       59 4 IO83WE
+QSO:   144 FM 2025-08-05 1805 G3VDB         59 3 IO83UG          G3UJE         59 1 IO83UH
+QSO:   144 FM 2025-08-05 1814 G3VDB         59 4 IO83UG          M0XXD/P       59 14 IO83RP
+QSO:   144 FM 2025-08-05 1816 G3VDB         59 5 IO83UG          2E0DGP/P      59 23 IO83RO
+QSO:   144 FM 2025-08-05 1819 G3VDB         59 6 IO83UG          M7GHW/P       59 14 IO83PN
+QSO:   144 FM 2025-08-05 1822 G3VDB         59 7 IO83UG          G0XBU/P       59 20 IO83XO
+END-OF-LOG:

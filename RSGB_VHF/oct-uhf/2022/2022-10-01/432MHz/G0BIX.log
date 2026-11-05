@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G0BIX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01GI
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1218; excluded rows=1.
+QSO:   432 PH 2022-10-02 0858 G0BIX         59 1 JO01GI          G3M           59 231 JO01QD
+QSO:   432 PH 2022-10-02 0904 G0BIX         59 2 JO01GI          M1CRO/P       59 164 JO01PU
+QSO:   432 PH 2022-10-02 0914 G0BIX         59 3 JO01GI          M0UHF         59 19 IO91IP
+QSO:   432 PH 2022-10-02 0944 G0BIX         57 4 JO01GI          G4GFI         53 23 IO91VH
+END-OF-LOG:

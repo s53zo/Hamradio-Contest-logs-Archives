@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G0MET/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO82XJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=230815&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2972; excluded rows=1.
+QSO:  1.2G PH 2023-08-15 1900 G0MET/P       59 1 IO82XJ          G1YBB/P       59 2 IO82LB
+QSO:  1.2G PH 2023-08-15 1915 G0MET/P       59 2 IO82XJ          G4ILI/P       59 8 IO81WU
+QSO:  1.2G PH 2023-08-15 1935 G0MET/P       55 3 IO82XJ          G6HPRT/P      55 17 IO92MO
+QSO:  1.2G PH 2023-08-15 1947 G0MET/P       59 4 IO82XJ          G4CLA         59 38 IO92JL
+END-OF-LOG:

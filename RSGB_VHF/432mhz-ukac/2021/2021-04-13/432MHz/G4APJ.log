@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4APJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83UP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210413&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9592; excluded rows=3.
+QSO:   432 PH 2021-04-13 1912 G4APJ         59 1 IO83UP          G0CNN/P       57 8 IO94AI
+QSO:   432 PH 2021-04-13 1921 G4APJ         59 2 IO83UP          M0KPW/P       57 15 IO84JE
+QSO:   432 PH 2021-04-13 1927 G4APJ         57 3 IO83UP          GD0AMD/P      55 20 IO74QD
+QSO:   432 PH 2021-04-13 1930 G4APJ         59 4 IO83UP          GW8ASD        59 21 IO83LB
+QSO:   432 PH 2021-04-13 1951 G4APJ         54 5 IO83UP          GI6ATZ        57 34 IO74AJ
+END-OF-LOG:

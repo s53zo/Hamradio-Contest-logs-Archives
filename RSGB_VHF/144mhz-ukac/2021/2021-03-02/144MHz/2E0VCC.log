@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: 2E0VCC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO70TP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210302&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=16095; excluded rows=6.
+QSO:   144 PH 2021-03-02 2001 2E0VCC        53 1 IO70TP          M0PIR         51 1 IO80BT
+QSO:   144 PH 2021-03-02 2003 2E0VCC        58 2 IO70TP          G3USE         57 3 IO80JT
+QSO:   144 PH 2021-03-02 2006 2E0VCC        59 3 IO70TP          G4RRA         59 8 IO80BS
+QSO:   144 PH 2021-03-02 2020 2E0VCC        59 4 IO70TP          G4ELI         59 3 IO70KC
+QSO:   144 PH 2021-03-02 2023 2E0VCC        55 5 IO70TP          2E0OUT        55 9 IO81WO
+QSO:   144 PH 2021-03-02 2043 2E0VCC        57 6 IO70TP          G0ODQ         55 43 IO91MR
+END-OF-LOG:

@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0HOM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93QO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210812&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5832; excluded rows=2.
+QSO:    50 PH 2021-08-12 1924 M0HOM         52 1 IO93QO          G0CNN/P       52 26 IO94AI
+QSO:    50 PH 2021-08-12 1931 M0HOM         55 2 IO93QO          G4FZN/P       59 46 IO94JF
+QSO:    50 PH 2021-08-12 1934 M0HOM         52 3 IO93QO          GI4SNA        51 33 IO64XM
+QSO:    50 PH 2021-08-12 1939 M0HOM         57 4 IO93QO          G8DMU/P       59 36 IO94CB
+QSO:    50 CW 2021-08-12 1951 M0HOM         559 5 IO93QO         G3TBK/P       599 61 IO93RA
+QSO:    50 PH 2021-08-12 1957 M0HOM         55 6 IO93QO          IW0HLE        59 44 JN61WK
+QSO:    50 CW 2021-08-12 2008 M0HOM         559 7 IO93QO         IK5ZWU        599 20 JN53VB
+QSO:    50 CW 2021-08-12 2029 M0HOM         559 8 IO93QO         G0UUU/P       559 19 IO94SE
+QSO:    50 PH 2021-08-12 2031 M0HOM         55 9 IO93QO          M0WLF         55 38 IO81QJ
+QSO:    50 PH 2021-08-12 2032 M0HOM         55 10 IO93QO         G4FVZ         58 45 IO91OW
+QSO:    50 PH 2021-08-12 2034 M0HOM         57 11 IO93QO         G1PPA/P       59 42 IO93RI
+QSO:    50 PH 2021-08-12 2037 M0HOM         53 12 IO93QO         M0BEW         59 34 IO82RJ
+QSO:    50 PH 2021-08-12 2042 M0HOM         57 13 IO93QO         G4CLA         59 131 IO92JL
+QSO:    50 PH 2021-08-12 2047 M0HOM         59 14 IO93QO         M7ALE         53 6 IO93NR
+QSO:    50 PH 2021-08-12 2116 M0HOM         55 15 IO93QO         G0FVI/P       58 51 IO93RD
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0PCF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93HI
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210209&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8128; excluded rows=1.
+QSO:   432 PH 2021-02-09 2001 M0PCF         57 1 IO93HI          G1PPA         57 1 IO93OJ
+QSO:   432 PH 2021-02-09 2006 M0PCF         59 2 IO93HI          M5DWI         59 4 IO93HL
+QSO:   432 PH 2021-02-09 2017 M0PCF         59 3 IO93HI          G1HLT         59 15 IO93JD
+QSO:   432 PH 2021-02-09 2026 M0PCF         55 4 IO93HI          G8SFI         52 5 IO93LW
+QSO:   432 PH 2021-02-09 2054 M0PCF         52 5 IO93HI          2E0DXK        52 11 IO93GF
+QSO:   432 PH 2021-02-09 2058 M0PCF         59 6 IO93HI          G4HZG         59 30 IO93HE
+END-OF-LOG:

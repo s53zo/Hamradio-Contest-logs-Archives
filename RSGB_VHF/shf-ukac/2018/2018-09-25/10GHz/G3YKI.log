@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G3YKI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO92BD
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=180925&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=126; excluded rows=0.
+QSO:   10G PH 2018-09-25 1836 G3YKI         55 1 IO92BD          G4ASR         54 2 IO81MX
+QSO:   10G PH 2018-09-25 1840 G3YKI         59 2 IO92BD          G3VKV         59 3 IO81XV
+QSO:   10G PH 2018-09-25 1846 G3YKI         56 3 IO92BD          G8DMU/P       51 6 IO94CB
+QSO:   10G CW 2018-09-25 1958 G3YKI         559 4 IO92BD         G4KUX         549 12 IO94BP
+QSO:   10G PH 2018-09-25 2047 G3YKI         57 5 IO92BD          M0GHZ         52 7 IO81VK
+QSO:   10G PH 2018-09-25 2056 G3YKI         59 6 IO92BD          G0LGS/P       57 7 IO81XW
+END-OF-LOG:

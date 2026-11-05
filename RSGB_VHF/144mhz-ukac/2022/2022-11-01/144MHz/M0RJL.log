@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0RJL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90AR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=221101&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8484; excluded rows=2.
+QSO:   144 PH 2022-11-01 2000 M0RJL         59 1 IO90AR          G4WEY         59 1 IO90AS
+QSO:   144 PH 2022-11-01 2002 M0RJL         59 2 IO90AR          G0FVH         59 2 IO80XR
+QSO:   144 PH 2022-11-01 2006 M0RJL         59 3 IO90AR          G4GTH         59 1 IO90BV
+QSO:   144 PH 2022-11-01 2012 M0RJL         55 4 IO90AR          G3WGN         55 3 IO80EJ
+QSO:   144 PH 2022-11-01 2020 M0RJL         55 5 IO90AR          G4LDL/P       55 12 IO91DM
+QSO:   144 PH 2022-11-01 2026 M0RJL         55 6 IO90AR          G4CLA         59 54 IO92JL
+QSO:   144 PH 2022-11-01 2031 M0RJL         55 7 IO90AR          G0GRI         55 8 IO80SX
+QSO:   144 PH 2022-11-01 2040 M0RJL         54 8 IO90AR          G0LTG         55 38 IO81RF
+QSO:   144 PH 2022-11-01 2047 M0RJL         53 9 IO90AR          G6RST         54 9 IO90LU
+QSO:   144 PH 2022-11-01 2048 M0RJL         58 10 IO90AR         G4LDR         56 10 IO91EC
+END-OF-LOG:

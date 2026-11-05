@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0BAO/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80PT
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230307&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=811; excluded rows=1.
+QSO:   144 FM 2023-03-07 1902 M0BAO/P       55 1 IO80PT          2E0VCC/P      58 2 IO70SP
+QSO:   144 FM 2023-03-07 1904 M0BAO/P       55 2 IO80PT          G3WCB         57 4 IO80EI
+QSO:   144 FM 2023-03-07 1906 M0BAO/P       59 3 IO80PT          G3WGN         59 4 IO80EJ
+QSO:   144 FM 2023-03-07 1918 M0BAO/P       55 4 IO80PT          G3WIE/P       54 6 IO91JA
+QSO:   144 FM 2023-03-07 1923 M0BAO/P       55 5 IO80PT          G6TEQ         57 4 IO80FL
+END-OF-LOG:

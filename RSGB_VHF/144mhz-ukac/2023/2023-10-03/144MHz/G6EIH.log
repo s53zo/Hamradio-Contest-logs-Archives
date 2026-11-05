@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G6EIH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92EU
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=231003&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10105; excluded rows=6.
+QSO:   144 PH 2023-10-03 1901 G6EIH         59 1 IO92EU          G4HZG/P       59 2 IO93BD
+QSO:   144 PH 2023-10-03 1904 G6EIH         59 2 IO92EU          G3TBK/P       59 9 IO93RA
+QSO:   144 PH 2023-10-03 1908 G6EIH         59 3 IO92EU          G8EKG         59 11 IO92ES
+QSO:   144 PH 2023-10-03 1913 G6EIH         57 4 IO92EU          MW0LKX/P      57 18 IO82KL
+QSO:   144 PH 2023-10-03 1925 G6EIH         57 5 IO92EU          G0XDI         57 25 IO91RQ
+END-OF-LOG:

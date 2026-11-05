@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4FFY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO01DF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2003 G4FFY         59 1 JO01DF          2E0VKH        59 1 JO01EF
+QSO:    50 PH 2021-02-11 2006 G4FFY         59 2 JO01DF          G4JED         59 4 JO01CF
+QSO:    50 PH 2021-02-11 2009 G4FFY         59 3 JO01DF          G4TPJ         59 2 JO01DE
+QSO:    50 PH 2021-02-11 2033 G4FFY         55 4 JO01DF          M0RYK         58 1 JO01DD
+QSO:    50 PH 2021-02-11 2042 G4FFY         51 5 JO01DF          G6TXB         55 5 JO01GI
+QSO:    50 PH 2021-02-11 2052 G4FFY         59 6 JO01DF          G6UBM         59 10 JO01CE
+END-OF-LOG:

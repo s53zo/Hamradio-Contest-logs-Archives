@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0TVZ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92DE
+CATEGORY: FLL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=241001&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=275; excluded rows=0.
+QSO:   144 FM 2024-10-01 1813 M0TVZ         59 1 IO92DE          G4CIB         59 8 IO81VX
+QSO:   144 FM 2024-10-01 1814 M0TVZ         59 2 IO92DE          GW6UAJ/P      59 18 IO81KR
+QSO:   144 FM 2024-10-01 1816 M0TVZ         59 3 IO92DE          2E0YCC/P      59 11 IO91CL
+QSO:   144 FM 2024-10-01 1817 M0TVZ         59 4 IO92DE          G1WVK         59 6 IO81WV
+QSO:   144 FM 2024-10-01 1832 M0TVZ         59 5 IO92DE          G8JAY         59 12 IO81WV
+END-OF-LOG:

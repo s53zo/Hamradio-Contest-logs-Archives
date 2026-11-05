@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G0JJG
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: JO02ME
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=357; excluded rows=0.
+QSO:  1.2G PH 2025-07-05 2013 G0JJG         59 1 JO02ME          G5LK/P        59 39 JO01QD
+QSO:  1.2G PH 2025-07-05 2026 G0JJG         51 2 JO02ME          PI4GN         59 29 JO33II
+QSO:  1.2G PH 2025-07-06 0937 G0JJG         59 3 JO02ME          G3XDY         59 31 JO02OB
+QSO:  1.2G PH 2025-07-06 0943 G0JJG         59 4 JO02ME          G2BQY/P       59 26 IO81RF
+QSO:  1.2G PH 2025-07-06 0954 G0JJG         59 5 JO02ME          G6IPU/P       59 22 JO02QV
+QSO:  1.2G PH 2025-07-06 0955 G0JJG         58 6 JO02ME          G4ZTR         57 26 JO01KW
+QSO:  1.2G PH 2025-07-06 1002 G0JJG         59 7 JO02ME          G8CUL         59 23 IO91JO
+QSO:  1.2G CW 2025-07-06 1007 G0JJG         529 8 JO02ME         M0NFD/P       529 8 IO94MJ
+QSO:  1.2G PH 2025-07-06 1011 G0JJG         57 9 JO02ME          G0ARC/P       55 27 IO91EH
+QSO:  1.2G PH 2025-07-06 1015 G0JJG         55 10 JO02ME         G3CKR/P       58 24 IO93AD
+QSO:  1.2G PH 2025-07-06 1324 G0JJG         58 11 JO02ME         G3MDG/P       58 20 IO91QS
+END-OF-LOG:

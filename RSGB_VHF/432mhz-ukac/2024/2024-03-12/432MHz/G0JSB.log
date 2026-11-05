@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0JSB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83KJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=240312&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6046; excluded rows=3.
+QSO:   432 PH 2024-03-12 2000 G0JSB         59 1 IO83KJ          G8REQ         59 1 IO83KI
+QSO:   432 PH 2024-03-12 2000 G0JSB         59 2 IO83KJ          M0WBG         59 1 IO83KJ
+QSO:   432 PH 2024-03-12 2003 G0JSB         57 3 IO83KJ          MW0LKX/P      59 8 IO82KL
+QSO:   432 PH 2024-03-12 2008 G0JSB         59 4 IO83KJ          GD8EXI        58 6 IO74PC
+QSO:   432 PH 2024-03-12 2013 G0JSB         59 5 IO83KJ          GW4ZAR        59 6 IO83KF
+QSO:   432 PH 2024-03-12 2022 G0JSB         54 6 IO83KJ          GW1YBB/P      56 29 IO81KL
+QSO:   432 PH 2024-03-12 2029 G0JSB         57 7 IO83KJ          GW8ASD        57 14 IO83LB
+QSO:   432 PH 2024-03-12 2052 G0JSB         54 8 IO83KJ          GM4DIJ/P      54 19 IO74MU
+QSO:   432 PH 2024-03-12 2057 G0JSB         57 9 IO83KJ          GM4JTJ        55 44 IO86RP
+QSO:   432 PH 2024-03-12 2105 G0JSB         55 10 IO83KJ         G4CLA         53 87 IO92JL
+QSO:   432 CW 2024-03-12 2112 G0JSB         555 11 IO83KJ        G4AFF         55 44 JO02LO
+QSO:   432 PH 2024-03-12 2114 G0JSB         59 12 IO83KJ         M1MLM/P       59 50 IO93AD
+QSO:   432 PH 2024-03-12 2117 G0JSB         53 13 IO83KJ         G8ZRE         53 17 IO83NE
+QSO:   432 PH 2024-03-12 2151 G0JSB         55 14 IO83KJ         G4ASR         52 47 IO81MX
+QSO:   432 PH 2024-03-12 2155 G0JSB         57 15 IO83KJ         GM3SEK        57 72 IO74SE
+QSO:   432 PH 2024-03-12 2217 G0JSB         59 16 IO83KJ         G8XVJ         55 45 IO83QK
+QSO:   432 PH 2024-03-12 2224 G0JSB         51 17 IO83KJ         G8SEI         51 68 IO92FO
+END-OF-LOG:

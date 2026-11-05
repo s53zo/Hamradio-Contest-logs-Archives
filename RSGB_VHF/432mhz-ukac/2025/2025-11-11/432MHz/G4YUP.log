@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4YUP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO90IW
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=251111&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4819; excluded rows=2.
+QSO:   432 PH 2025-11-11 2003 G4YUP         59 1 IO90IW          G8IQL/P       59 2 IO90LX
+QSO:   432 PH 2025-11-11 2021 G4YUP         53 2 IO90IW          M0FXX         53 15 IO91NM
+QSO:   432 PH 2025-11-11 2027 G4YUP         57 3 IO90IW          G4RGK         57 18 IO91NO
+QSO:   432 PH 2025-11-11 2129 G4YUP         59 4 IO90IW          G4CLA         59 116 IO92JL
+QSO:   432 PH 2025-11-11 2141 G4YUP         55 5 IO90IW          G4ODA         55 88 IO92WS
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GW0GEI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO72WC
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=161206&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12538; excluded rows=7.
+QSO:   144 PH 2016-12-06 2145 GW0GEI        55 1 IO72WC          2E0NEY        55 50 IO81VK
+QSO:   144 PH 2016-12-06 2217 GW0GEI        59 2 IO72WC          GD8EXI        53 158 IO74PC
+QSO:   144 PH 2016-12-06 2220 GW0GEI        55 3 IO72WC          GI4SNA        41 137 IO64XM
+QSO:   144 CW 2016-12-06 2229 GW0GEI        599 4 IO72WC         G7RAU         599 204 IO90IR
+END-OF-LOG:

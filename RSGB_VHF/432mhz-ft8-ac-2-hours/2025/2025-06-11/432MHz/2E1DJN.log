@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: 2E1DJN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO82
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=250611&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=691; excluded rows=0.
+QSO:   432 FT8 2025-06-11 1903 2E1DJN        -07 IO82             G4VPD         -08 IO92
+QSO:   432 FT8 2025-06-11 1912 2E1DJN        -07 IO82             G8SEI         -14 IO92
+QSO:   432 FT8 2025-06-11 1937 2E1DJN        +12 IO82             GD0TEP        -02 IO74
+QSO:   432 FT8 2025-06-11 1938 2E1DJN        +11 IO82             GI4SNA        +04 IO64
+QSO:   432 FT8 2025-06-11 1942 2E1DJN        -18 IO82             G3XBY         -14 IO92
+QSO:   432 FT8 2025-06-11 1949 2E1DJN        -18 IO82             G4FLM         -10 IO94
+QSO:   432 FT8 2025-06-11 1958 2E1DJN        -09 IO82             G7LRQ         -13 JO03
+END-OF-LOG:

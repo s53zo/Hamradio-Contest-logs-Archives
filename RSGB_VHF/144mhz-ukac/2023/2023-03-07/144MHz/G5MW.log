@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G5MW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01GI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230307&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10703; excluded rows=2.
+QSO:   144 PH 2023-03-07 2155 G5MW          54 1 JO01GI          F5RZC         59 110 JO10AR
+QSO:   144 PH 2023-03-07 2157 G5MW          55 2 JO01GI          G3MEH         55 102 IO91QS
+QSO:   144 PH 2023-03-07 2202 G5MW          53 3 JO01GI          G4ZTR         57 64 JO01KW
+QSO:   144 PH 2023-03-07 2207 G5MW          54 4 JO01GI          G8DOH         59 61 IO92FA
+QSO:   144 PH 2023-03-07 2226 G5MW          55 5 JO01GI          G3MGQ         59 8 JO01DF
+END-OF-LOG:

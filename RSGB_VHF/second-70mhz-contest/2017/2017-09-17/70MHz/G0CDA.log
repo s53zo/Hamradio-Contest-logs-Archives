@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SECOND-70MHZ-CONTEST
+CALLSIGN: G0CDA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83SJ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Second+70MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=715; excluded rows=2.
+QSO:    70 PH 2017-09-17 1103 G0CDA         55 1 IO83SJ          GW4ZAR        57 16 IO83KF
+QSO:    70 PH 2017-09-17 1128 G0CDA         59 2 IO83SJ          GW8ASD        58 33 IO83LB
+QSO:    70 PH 2017-09-17 1142 G0CDA         55 3 IO83SJ          G0EHV/P       53 45 IO84XT
+END-OF-LOG:

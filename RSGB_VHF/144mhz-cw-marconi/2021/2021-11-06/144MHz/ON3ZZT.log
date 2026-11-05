@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: ON3ZZT
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO20GP
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1146; excluded rows=1.
+QSO:   144 CW 2021-11-07 1112 ON3ZZT        599 1 JO20GP         OR6T          599 299 JO20KV
+QSO:   144 CW 2021-11-07 1136 ON3ZZT        599 2 JO20GP         F6DWG/P       599 342 JN19BQ
+QSO:   144 CW 2021-11-07 1201 ON3ZZT        599 3 JO20GP         TM7M          599 240 JO10HE
+END-OF-LOG:

@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: 2E0LKC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83VI
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170801&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12483; excluded rows=6.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (2).
+QSO:   144 PH 2017-08-01 1906 2E0LKC        59 1 IO83VI          G3KAF         59 3 IO83WI
+QSO:   144 PH 2017-08-01 1908 2E0LKC        59 2 IO83VI          M6HMK         59 2 IO93AK
+QSO:   144 PH 2017-08-01 1911 2E0LKC        59 3 IO83VI          G8HXE/P       59 4 IO83RO
+QSO:   144 PH 2017-08-01 1915 2E0LKC        59 4 IO83VI          G4JLG         59 5 IO83TM
+QSO:   144 PH 2017-08-01 1924 2E0LKC        59 5 IO83VI          G4EII         59 8 IO83PM
+QSO:   144 PH 2017-08-01 1933 2E0LKC        59 6 IO83VI          G3UVR         59 26 IO83KH
+QSO:   144 PH 2017-08-01 1947 2E0LKC        59 8 IO83VI          M1DDD         59 69 IO93CH
+QSO:   144 PH 2017-08-01 1950 2E0LKC        59 9 IO83VI          GW4DAR/P      59 35 IO83JF
+QSO:   144 PH 2017-08-01 2008 2E0LKC        59 11 IO83VI         G4EBK/P       59 37 IO93UK
+QSO:   144 PH 2017-08-01 2022 2E0LKC        59 12 IO83VI         G4NTY         59 43 IO83TM
+QSO:   144 PH 2017-08-01 2039 2E0LKC        59 13 IO83VI         M0OMB         59 49 IO83PO
+QSO:   144 PH 2017-08-01 2045 2E0LKC        59 14 IO83VI         M0ICK/P       59 49 IO83RU
+QSO:   144 PH 2017-08-01 2052 2E0LKC        59 15 IO83VI         G4VFL/P       59 37 IO84IH
+QSO:   144 PH 2017-08-01 2057 2E0LKC        59 16 IO83VI         M0VAA         59 15 IO93CH
+END-OF-LOG:

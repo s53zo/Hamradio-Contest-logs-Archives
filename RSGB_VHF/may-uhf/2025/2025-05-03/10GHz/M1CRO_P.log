@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: M1CRO/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: JO01PU
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=140; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   10G PH 2025-05-03 1408 M1CRO/P       53 1 JO01PU          G4LDR         59 1 IO91EC
+QSO:   10G CW 2025-05-03 1434 M1CRO/P       529 3 JO01PU         ON4CJQ/P      559 2 JO20KW
+QSO:   10G CW 2025-05-03 1640 M1CRO/P       529 4 JO01PU         DK0PU         559 6 JO31JN
+QSO:   10G CW 2025-05-03 1718 M1CRO/P       519 5 JO01PU         DL5EBS        519 5 JO31NH
+QSO:   10G PH 2025-05-03 1746 M1CRO/P       57 6 JO01PU          G0WZV         59 1 JO01KV
+QSO:   10G CW 2025-05-03 1829 M1CRO/P       419 7 JO01PU         M0GHZ         539 1 IO81VK
+QSO:   10G CW 2025-05-03 2006 M1CRO/P       549 8 JO01PU         ON4KHG        559 6 JO10XO
+END-OF-LOG:

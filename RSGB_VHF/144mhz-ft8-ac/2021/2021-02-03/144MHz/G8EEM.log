@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G8EEM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1901 G8EEM         +27 IO93             G8DMU         +19 IO93
+QSO:   144 FT8 2021-02-03 1904 G8EEM         +20 IO93             G4FZN         +16 IO94
+QSO:   144 FT8 2021-02-03 1916 G8EEM         -10 IO93             M0IEP         -12 IO91
+QSO:   144 FT8 2021-02-03 1921 G8EEM         -13 IO93             G0GJV         -10 IO91
+QSO:   144 FT8 2021-02-03 1922 G8EEM         -16 IO93             G0CNN         -17 IO94
+QSO:   144 FT8 2021-02-03 1929 G8EEM         -12 IO93             G0DJA         -10 IO93
+QSO:   144 FT8 2021-02-03 1933 G8EEM         +02 IO93             G1PPA         -05 IO93
+QSO:   144 FT8 2021-02-03 1945 G8EEM         -21 IO93             G8AOE         -21 IO94
+QSO:   144 FT8 2021-02-03 2006 G8EEM         -08 IO93             G3YDY         -18 JO01
+QSO:   144 FT8 2021-02-03 2010 G8EEM         -08 IO93             G4NBS         +00 JO02
+QSO:   144 FT8 2021-02-03 2019 G8EEM         -02 IO93             M0RTQ         +08 IO93
+QSO:   144 FT8 2021-02-03 2039 G8EEM         -03 IO93             G8NRY         -11 IO93
+QSO:   144 FT8 2021-02-03 2042 G8EEM         -02 IO93             G3ZNI         -19 IO91
+QSO:   144 FT8 2021-02-03 2048 G8EEM         +03 IO93             2E0ATT        +01 IO93
+QSO:   144 FT8 2021-02-03 2052 G8EEM         -17 IO93             M7SPS         -04 IO92
+QSO:   144 FT8 2021-02-03 2053 G8EEM         +02 IO93             M7GZZ         +03 IO93
+END-OF-LOG:

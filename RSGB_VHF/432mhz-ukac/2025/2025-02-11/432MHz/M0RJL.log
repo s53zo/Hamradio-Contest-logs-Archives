@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0RJL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO90AR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=250211&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6778; excluded rows=1.
+QSO:   432 PH 2025-02-11 2000 M0RJL         59 1 IO90AR          M0WEO         59 1 IO90BT
+QSO:   432 PH 2025-02-11 2002 M0RJL         59 2 IO90AR          G0FVH         59 1 IO80XR
+QSO:   432 PH 2025-02-11 2007 M0RJL         57 3 IO90AR          G7WHI/P       54 7 IO80TP
+QSO:   432 PH 2025-02-11 2023 M0RJL         59 4 IO90AR          G4ODA         59 34 IO92WS
+QSO:   432 PH 2025-02-11 2038 M0RJL         57 5 IO90AR          G3MEH         57 23 IO91QS
+QSO:   432 PH 2025-02-11 2047 M0RJL         59 6 IO90AR          G4CLA         59 76 IO92JL
+END-OF-LOG:

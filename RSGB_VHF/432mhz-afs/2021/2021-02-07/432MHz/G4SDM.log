@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4SDM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91SI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 PH 2021-02-07 1045 G4SDM         55 1 IO91SI          G0XDI         55 69 IO91RQ
+QSO:   432 PH 2021-02-07 1047 G4SDM         59 2 IO91SI          G4EFT         59 22 IO91RG
+QSO:   432 PH 2021-02-07 1053 G4SDM         55 3 IO91SI          G3MEH         55 49 IO91QS
+QSO:   432 PH 2021-02-07 1057 G4SDM         55 4 IO91SI          G0SKA         55 44 IO91OQ
+QSO:   432 PH 2021-02-07 1100 G4SDM         59 5 IO91SI          G0OQK         59 18 IO91PP
+QSO:   432 PH 2021-02-07 1106 G4SDM         57 6 IO91SI          G4YPC         57 27 IO91RH
+QSO:   432 PH 2021-02-07 1118 G4SDM         53 7 IO91SI          G4SJH         56 28 IO91PI
+QSO:   432 PH 2021-02-07 1126 G4SDM         55 8 IO91SI          G3SRC         56 32 IO91WJ
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: 2E0VCC/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO70SP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=191008&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5959; excluded rows=1.
+QSO:   432 PH 2019-10-08 1901 2E0VCC/P      55 1 IO70SP          G4ASR         55 1 IO81MX
+QSO:   432 PH 2019-10-08 1903 2E0VCC/P      59 2 IO70SP          G4RRA         59 3 IO80BS
+QSO:   432 PH 2019-10-08 1904 2E0VCC/P      55 3 IO70SP          2E0MDJ/P      55 2 IO81XV
+QSO:   432 PH 2019-10-08 1907 2E0VCC/P      57 4 IO70SP          G4ALY         57 3 IO70VL
+QSO:   432 PH 2019-10-08 1908 2E0VCC/P      53 5 IO70SP          M0BUL         53 1 IO82NG
+QSO:   432 PH 2019-10-08 1928 2E0VCC/P      58 6 IO70SP          G4CLA         57 66 IO92JL
+QSO:   432 PH 2019-10-08 1953 2E0VCC/P      57 7 IO70SP          G3WAG/P       56 28 IO82SE
+END-OF-LOG:

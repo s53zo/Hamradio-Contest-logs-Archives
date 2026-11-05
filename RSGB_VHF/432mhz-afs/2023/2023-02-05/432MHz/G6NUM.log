@@ -1,0 +1,40 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G6NUM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93MA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4819; excluded rows=1.
+QSO:   432 PH 2023-02-05 0900 G6NUM         59 1 IO93MA          M1MHZ         59 2 IO92WV
+QSO:   432 PH 2023-02-05 0902 G6NUM         59 2 IO93MA          G0EAK/P       59 1 IO93MI
+QSO:   432 PH 2023-02-05 0904 G6NUM         59 3 IO93MA          G3TBK/P       59 6 IO93RA
+QSO:   432 PH 2023-02-05 0914 G6NUM         59 4 IO93MA          G0HEL/P       55 11 IO81WG
+QSO:   432 PH 2023-02-05 0923 G6NUM         59 5 IO93MA          G4ODA         59 24 IO92WS
+QSO:   432 PH 2023-02-05 0925 G6NUM         57 6 IO93MA          G8DOH         57 20 IO92FA
+QSO:   432 PH 2023-02-05 0929 G6NUM         59 7 IO93MA          G1PPA/P       59 15 JO03AE
+QSO:   432 PH 2023-02-05 0936 G6NUM         55 8 IO93MA          M5DWI/P       53 15 IO93FL
+QSO:   432 PH 2023-02-05 0939 G6NUM         59 9 IO93MA          G3SQQ         59 24 IO93JC
+QSO:   432 PH 2023-02-05 0946 G6NUM         57 10 IO93MA         G6UW          59 18 JO02AF
+QSO:   432 PH 2023-02-05 1004 G6NUM         59 11 IO93MA         G3PYE/P       59 34 JO02CE
+QSO:   432 PH 2023-02-05 1010 G6NUM         57 12 IO93MA         2E0IGD/P      57 25 IO93FG
+QSO:   432 PH 2023-02-05 1050 G6NUM         57 13 IO93MA         G4BRK         53 48 IO91HP
+QSO:   432 PH 2023-02-05 1056 G6NUM         59 14 IO93MA         G4NBS         57 75 JO02AF
+QSO:   432 PH 2023-02-05 1058 G6NUM         57 15 IO93MA         G0ODQ         54 63 IO91MR
+QSO:   432 PH 2023-02-05 1109 G6NUM         58 16 IO93MA         G0XDI         55 66 IO91RQ
+QSO:   432 PH 2023-02-05 1120 G6NUM         57 17 IO93MA         G4CWH/P       56 57 IO92XA
+QSO:   432 PH 2023-02-05 1124 G6NUM         59 18 IO93MA         G4LPD         59 12 IO92KW
+QSO:   432 PH 2023-02-05 1126 G6NUM         57 19 IO93MA         G4YHF         57 9 IO92XW
+QSO:   432 PH 2023-02-05 1139 G6NUM         58 20 IO93MA         GD8EXI        53 79 IO74PC
+QSO:   432 PH 2023-02-05 1148 G6NUM         57 21 IO93MA         G1SCT         55 42 IO92XT
+QSO:   432 PH 2023-02-05 1156 G6NUM         57 22 IO93MA         G8CUL         55 68 IO91JO
+QSO:   432 PH 2023-02-05 1202 G6NUM         58 23 IO93MA         GX5BBC        58 33 IO92GM
+END-OF-LOG:

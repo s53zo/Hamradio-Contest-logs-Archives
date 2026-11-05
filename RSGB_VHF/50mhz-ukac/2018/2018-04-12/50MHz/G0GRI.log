@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0GRI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81UH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180412&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4752; excluded rows=2.
+QSO:    50 PH 2018-04-12 2029 G0GRI         59 1 IO81UH          M0KJR         59 15 IO81VH
+QSO:    50 PH 2018-04-12 2030 G0GRI         59 2 IO81UH          G0HAS/A       59 1 IO81VH
+QSO:    50 PH 2018-04-12 2039 G0GRI         59 3 IO81UH          G3ZNH         59 1 IO81VE
+QSO:    50 PH 2018-04-12 2044 G0GRI         55 4 IO81UH          G8GRS         55 10 IO81QJ
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0TNI
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92VQ
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250401&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=642; excluded rows=1.
+QSO:   144 FM 2025-04-01 1806 M0TNI         59 1 IO92VQ          M7DQO         59 1 IO92XR
+QSO:   144 FM 2025-04-01 1809 M0TNI         44 2 IO92VQ          G4FZN/P       59 1 IO94JF
+QSO:   144 FM 2025-04-01 1815 M0TNI         44 3 IO92VQ          G0UOK/P       59 7 IO94MJ
+QSO:   144 FM 2025-04-01 1831 M0TNI         55 4 IO92VQ          G4KPZ         57 2 IO92WK
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8CXT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92OC
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160322&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8160; excluded rows=9.
+QSO:    50 PH 2016-03-22 2102 G8CXT         56 1 IO92OC          G7LRQ/P       53 95 IO91RU
+QSO:    50 PH 2016-03-22 2106 G8CXT         58 2 IO92OC          G3MEH         56 73 IO91QS
+QSO:    50 PH 2016-03-22 2111 G8CXT         56 3 IO92OC          2E0LZD/P      56 79 IO91MP
+QSO:    50 PH 2016-03-22 2120 G8CXT         56 4 IO92OC          G8FMC         56 27 IO91NW
+QSO:    50 PH 2016-03-22 2125 G8CXT         56 5 IO92OC          2E0VPX        52 37 IO91QV
+QSO:    50 PH 2016-03-22 2128 G8CXT         56 6 IO92OC          G1MZD         53 17 IO92NB
+END-OF-LOG:

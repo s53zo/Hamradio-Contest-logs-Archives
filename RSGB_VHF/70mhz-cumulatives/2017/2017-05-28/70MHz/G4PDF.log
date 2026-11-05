@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4PDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93VH
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170528&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=913; excluded rows=0.
+QSO:    70 PH 2017-05-28 1410 G4PDF         55 1 IO93VH          G4BWP         59 15 JO02FH
+QSO:    70 PH 2017-05-28 1418 G4PDF         59 2 IO93VH          G1PPA/P       59 7 IO93UK
+QSO:    70 PH 2017-05-28 1421 G4PDF         59 3 IO93VH          G4YHF         59 11 IO92XW
+QSO:    70 PH 2017-05-28 1422 G4PDF         55 4 IO93VH          G3MXH         55 20 JO02LF
+QSO:    70 PH 2017-05-28 1427 G4PDF         53 5 IO93VH          G4HGT/P       56 27 IO93BV
+QSO:    70 PH 2017-05-28 1437 G4PDF         54 6 IO93VH          G4ASR         54 28 IO81MX
+QSO:    70 PH 2017-05-28 1439 G4PDF         52 7 IO93VH          M0SNB         52 22 JO01BR
+QSO:    70 PH 2017-05-28 1447 G4PDF         52 8 IO93VH          G3NPI         55 22 IO92MA
+END-OF-LOG:

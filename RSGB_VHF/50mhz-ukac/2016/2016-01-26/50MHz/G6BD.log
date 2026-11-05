@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G6BD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93SG
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160126&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5089; excluded rows=69.
+QSO:    50 PH 2016-01-26 2001 G6BD          59 1 IO93SG          M1MHZ         57 1 IO92WV
+QSO:    50 PH 2016-01-26 2009 G6BD          59 2 IO93SG          M0MDY         54 10 IO93HH
+QSO:    50 PH 2016-01-26 2015 G6BD          59 3 IO93SG          2E0DKY        59 5 IO93SF
+QSO:    50 PH 2016-01-26 2029 G6BD          53 4 IO93SG          G3VCA         51 23 IO93MG
+QSO:    50 PH 2016-01-26 2031 G6BD          57 5 IO93SG          M6KTP/P       57 18 IO93EK
+QSO:    50 PH 2016-01-26 2048 G6BD          56 6 IO93SG          G0EUN         55 24 IO93QE
+END-OF-LOG:

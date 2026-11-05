@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3VRE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81WL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210907&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=16007; excluded rows=7.
+QSO:   144 PH 2021-09-07 1906 G3VRE         59 1 IO81WL          2E0OUT        59 5 IO81WO
+QSO:   144 PH 2021-09-07 1915 G3VRE         57 2 IO81WL          G0LTG         59 25 IO81RF
+QSO:   144 PH 2021-09-07 1927 G3VRE         59 3 IO81WL          M0GHZ/P       59 21 IO81UN
+QSO:   144 PH 2021-09-07 1931 G3VRE         59 4 IO81WL          G4FZN/P       59 46 IO94JF
+QSO:   144 PH 2021-09-07 1935 G3VRE         59 5 IO81WL          G4CLA         59 87 IO92JL
+QSO:   144 PH 2021-09-07 1938 G3VRE         59 6 IO81WL          M0WYB         59 28 IO81SH
+QSO:   144 PH 2021-09-07 1947 G3VRE         59 7 IO81WL          G4ODA         59 73 IO92WS
+QSO:   144 PH 2021-09-07 2001 G3VRE         59 8 IO81WL          F1BHL/P       59 78 IN99CQ
+QSO:   144 PH 2021-09-07 2016 G3VRE         59 9 IO81WL          MW1LCR/P      59 107 IO81NV
+QSO:   144 PH 2021-09-07 2027 G3VRE         59 10 IO81WL         G0BNC/P       59 40 IO91EU
+QSO:   144 PH 2021-09-07 2032 G3VRE         59 11 IO81WL         G4ILI/P       59 66 IO81WU
+QSO:   144 PH 2021-09-07 2042 G3VRE         59 12 IO81WL         M0KYB         59 31 IO91BN
+END-OF-LOG:

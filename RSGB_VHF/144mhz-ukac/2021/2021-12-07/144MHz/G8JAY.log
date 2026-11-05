@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8JAY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81WV
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=211207&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6901; excluded rows=4.
+QSO:   144 PH 2021-12-07 2003 G8JAY         59 1 IO81WV          G0HEL/P       59 5 IO81WG
+QSO:   144 PH 2021-12-07 2011 G8JAY         59 2 IO81WV          G0LTG         57 10 IO81RF
+QSO:   144 PH 2021-12-07 2029 G8JAY         59 3 IO81WV          G4ILI/P       59 34 IO81WU
+QSO:   144 PH 2021-12-07 2033 G8JAY         59 4 IO81WV          G0LGS         59 10 IO81WV
+QSO:   144 PH 2021-12-07 2108 G8JAY         58 5 IO81WV          G4CLA         57 116 IO92JL
+QSO:   144 PH 2021-12-07 2204 G8JAY         59 6 IO81WV          2E0OUT        57 25 IO81WO
+QSO:   144 PH 2021-12-07 2210 G8JAY         59 7 IO81WV          M0XAC         59 7 IO81VU
+END-OF-LOG:

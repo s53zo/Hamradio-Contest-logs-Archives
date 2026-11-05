@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M0JFE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83LW
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=250211&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=362; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   432 FM 2025-02-11 1910 M0JFE         59 1 IO83LW          2E0SQK        59 4 IO83QR
+QSO:   432 FM 2025-02-11 1913 M0JFE         59 2 IO83LW          2E0DGP        59 10 IO83QP
+QSO:   432 FM 2025-02-11 1917 M0JFE         59 3 IO83LW          M0LOR         59 3 IO83OR
+QSO:   432 FM 2025-02-11 1918 M0JFE         59 4 IO83LW          2E0UBA        59 4 IO83LU
+END-OF-LOG:

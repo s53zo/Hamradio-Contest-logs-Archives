@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G2L
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO92XA
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=59; excluded rows=0.
+QSO:  3.4G PH 2017-05-06 1614 G2L           59 1 IO92XA          G4BAO         59 2 JO02CG
+QSO:  3.4G PH 2017-05-06 1622 G2L           59 2 IO92XA          G3XDY         55 5 JO02OB
+QSO:  3.4G PH 2017-05-06 1708 G2L           51 3 IO92XA          G4LDR         51 2 IO91EC
+QSO:  3.4G PH 2017-05-06 1741 G2L           55 4 IO92XA          G5B           53 2 IO92WS
+QSO:  3.4G PH 2017-05-06 2105 G2L           55 5 IO92XA          M1CRO/P       57 7 JO01PU
+QSO:  3.4G PH 2017-05-07 0835 G2L           59 6 IO92XA          M0HNA/P       59 1 IO91RF
+END-OF-LOG:

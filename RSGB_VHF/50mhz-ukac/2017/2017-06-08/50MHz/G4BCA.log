@@ -1,0 +1,36 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4BCA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81VV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170608&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5198; excluded rows=4.
+QSO:    50 CW 2017-06-08 1901 G4BCA         599 1 IO81VV         G4ENZ         599 1 IO81VV
+QSO:    50 CW 2017-06-08 1902 G4BCA         599 2 IO81VV         G4IZZ         599 1 IO81XX
+QSO:    50 CW 2017-06-08 1910 G4BCA         599 3 IO81VV         OM3CLS        599 3 JN99FC
+QSO:    50 CW 2017-06-08 1912 G4BCA         599 4 IO81VV         M0BUL         599 2 IO82NG
+QSO:    50 CW 2017-06-08 1918 G4BCA         599 5 IO81VV         OK1SI         599 2 JO70DO
+QSO:    50 CW 2017-06-08 1923 G4BCA         599 6 IO81VV         UR5WA         599 0 KN92AT
+QSO:    50 PH 2017-06-08 1925 G4BCA         59 7 IO81VV          G0LGS/P       59 15 IO81WU
+QSO:    50 PH 2017-06-08 1927 G4BCA         59 8 IO81VV          M0VXX/P       59 29 IO82RJ
+QSO:    50 PH 2017-06-08 1930 G4BCA         59 9 IO81VV          OK2HF         59 23 JN89JI
+QSO:    50 PH 2017-06-08 1933 G4BCA         59 10 IO81VV         G4ASR         59 26 IO81MX
+QSO:    50 PH 2017-06-08 1936 G4BCA         59 11 IO81VV         G1YBB/P       59 29 IO82LB
+QSO:    50 CW 2017-06-08 1942 G4BCA         599 12 IO81VV        OK2IT         599 35 JN89DG
+QSO:    50 CW 2017-06-08 1947 G4BCA         599 13 IO81VV        HA5JI         599 12 JN97KN
+QSO:    50 PH 2017-06-08 1951 G4BCA         59 14 IO81VV         G3WAG         59 8 IO82PB
+QSO:    50 CW 2017-06-08 1958 G4BCA         599 15 IO81VV        EA5VK         599 2 IM99XX
+QSO:    50 PH 2017-06-08 2004 G4BCA         59 16 IO81VV         OK1MIQ        59 28 JO70OR
+QSO:    50 PH 2017-06-08 2006 G4BCA         59 17 IO81VV         G4XRS         59 13 IO82PB
+QSO:    50 PH 2017-06-08 2009 G4BCA         59 18 IO81VV         OK2SGY        59 46 JN89UJ
+QSO:    50 PH 2017-06-08 2034 G4BCA         59 19 IO81VV         G8CMU         59 15 IO81RW
+QSO:    50 PH 2017-06-08 2035 G4BCA         59 20 IO81VV         G4ILI/P       59 30 IO81RU
+END-OF-LOG:

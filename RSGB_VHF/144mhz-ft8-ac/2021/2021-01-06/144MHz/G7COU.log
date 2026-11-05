@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G7COU
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210106&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1217; excluded rows=1.
+QSO:   144 FT8 2021-01-06 1948 G7COU         +37 IO93             M0RTQ         +24 IO93
+QSO:   144 FT8 2021-01-06 1950 G7COU         +21 IO93             M3CRJ         +10 IO93
+QSO:   144 FT8 2021-01-06 1953 G7COU         -11 IO93             G0ISX         -23 IO93
+QSO:   144 FT8 2021-01-06 1958 G7COU         -08 IO93             G0DJA         -18 IO93
+QSO:   144 FT8 2021-01-06 2014 G7COU         +17 IO93             M0AGJ         +04 IO93
+QSO:   144 FT8 2021-01-06 2027 G7COU         -09 IO93             G1SCT         -17 IO92
+QSO:   144 FT8 2021-01-06 2028 G7COU         -09 IO93             G1SCT         -17 IO92
+QSO:   144 FT8 2021-01-06 2042 G7COU         -09 IO93             G4JIX         -19 IO94
+QSO:   144 FT8 2021-01-06 2051 G7COU         +06 IO93             G8DMU         -05 IO93
+QSO:   144 FT8 2021-01-06 2058 G7COU         +07 IO93             G1PPA         -07 IO93
+END-OF-LOG:

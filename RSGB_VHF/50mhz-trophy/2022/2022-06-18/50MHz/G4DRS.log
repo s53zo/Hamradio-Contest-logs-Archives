@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-TROPHY
+CALLSIGN: G4DRS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO80UQ
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Trophy&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9374; excluded rows=2.
+QSO:    50 CW 2022-06-18 1509 G4DRS         599 1 IO80UQ         G8X           599 45 IO80EW
+QSO:    50 PH 2022-06-18 1520 G4DRS         59 2 IO80UQ          G4JBH         59 11 IO80QW
+QSO:    50 PH 2022-06-18 1521 G4DRS         59 3 IO80UQ          2E0NEY        59 33 IO81VK
+QSO:    50 CW 2022-06-18 1532 G4DRS         599 4 IO80UQ         MQ5W          599 20 IO80FV
+QSO:    50 PH 2022-06-18 1627 G4DRS         59 5 IO80UQ          M4W           59 73 IO91CK
+QSO:    50 PH 2022-06-18 1629 G4DRS         59 6 IO80UQ          G8T           59 66 IN79JX
+END-OF-LOG:

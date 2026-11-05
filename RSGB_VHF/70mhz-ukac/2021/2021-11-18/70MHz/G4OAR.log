@@ -1,0 +1,36 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G4OAR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO82PV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=211118&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4594; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:    70 PH 2021-11-18 2004 G4OAR         55 1 IO82PV          G3MEH         55 7 IO91QS
+QSO:    70 PH 2021-11-18 2010 G4OAR         59 2 IO82PV          G4ASR         59 13 IO81MX
+QSO:    70 PH 2021-11-18 2012 G4OAR         55 3 IO82PV          G3TCU/P       55 21 IO91RF
+QSO:    70 PH 2021-11-18 2029 G4OAR         59 4 IO82PV          GD0AMD/P      59 22 IO74QD
+QSO:    70 PH 2021-11-18 2038 G4OAR         55 5 IO82PV          G4KUX         55 51 IO94BP
+QSO:    70 PH 2021-11-18 2039 G4OAR         58 6 IO82PV          G8REQ         58 20 IO83KI
+QSO:    70 PH 2021-11-18 2042 G4OAR         59 7 IO82PV          GW1YBB/P      59 64 IO81KW
+QSO:    70 PH 2021-11-18 2044 G4OAR         52 8 IO82PV          G8PNN/P       52 29 IO95AF
+QSO:    70 PH 2021-11-18 2050 G4OAR         58 9 IO82PV          G3TBK/P       58 44 IO93RA
+QSO:    70 PH 2021-11-18 2057 G4OAR         56 10 IO82PV         G0WUS         56 28 IO92KO
+QSO:    70 PH 2021-11-18 2105 G4OAR         55 11 IO82PV         G4ODA         55 42 IO92WS
+QSO:    70 PH 2021-11-18 2111 G4OAR         55 12 IO82PV         GI4SNA        55 30 IO64XM
+QSO:    70 PH 2021-11-18 2122 G4OAR         56 13 IO82PV         G8DVK         56 36 IO91IN
+QSO:    70 PH 2021-11-18 2129 G4OAR         55 14 IO82PV         G4TVR         55 25 IO92CI
+QSO:    70 PH 2021-11-18 2142 G4OAR         55 15 IO82PV         G4HWA         55 46 IO92ME
+QSO:    70 PH 2021-11-18 2147 G4OAR         59 16 IO82PV         GW8ASD        59 52 IO83LB
+QSO:    70 PH 2021-11-18 2152 G4OAR         55 17 IO82PV         G3VCA         55 61 IO93MG
+QSO:    70 PH 2021-11-18 2208 G4OAR         57 19 IO82PV         G4CLA         57 114 IO92JL
+QSO:    70 PH 2021-11-18 2217 G4OAR         58 20 IO82PV         G4FZN/P       58 120 IO94JF
+END-OF-LOG:

@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4ASR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO81MX
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=170822&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=151; excluded rows=4.
+QSO:   10G PH 2017-08-22 1902 G4ASR         55 1 IO81MX          G4ODA         55 1 IO92WS
+QSO:   10G PH 2017-08-22 1908 G4ASR         51 2 IO81MX          G8OHM         41 1 IO92AJ
+QSO:   10G CW 2017-08-22 1916 G4ASR         529 3 IO81MX         G3PHO         529 3 IO93GG
+QSO:   10G PH 2017-08-22 1921 G4ASR         58 4 IO81MX          G4CBW         58 4 IO83UB
+QSO:   10G PH 2017-08-22 1930 G4ASR         55 5 IO81MX          G4LDR         55 2 IO91EC
+QSO:   10G PH 2017-08-22 1949 G4ASR         51 6 IO81MX          G3YKI         56 6 IO92BD
+QSO:   10G PH 2017-08-22 1954 G4ASR         55 7 IO81MX          G3XDY         54 4 JO02OB
+QSO:   10G PH 2017-08-22 2003 G4ASR         59 8 IO81MX          G0LGS/P       59 2 IO81XW
+QSO:   10G PH 2017-08-22 2027 G4ASR         59 9 IO81MX          G4CLA         59 6 IO92JL
+QSO:   10G PH 2017-08-22 2029 G4ASR         55 10 IO81MX         M0RKX/P       59 2 IO92DB
+END-OF-LOG:

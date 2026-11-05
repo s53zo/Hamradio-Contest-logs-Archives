@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2W0JYN/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83LC
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170801&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=498; excluded rows=1.
+QSO:   144 FM 2017-08-01 1800 2W0JYN/P      59 1 IO83LC          M0VAL         59 1 IO84LV
+QSO:   144 FM 2017-08-01 1801 2W0JYN/P      59 2 IO83LC          M0DGD         59 1 IO84LV
+QSO:   144 FM 2017-08-01 1802 2W0JYN/P      59 3 IO83LC          GW8ASD        59 2 IO83LB
+QSO:   144 FM 2017-08-01 1803 2W0JYN/P      59 4 IO83LC          MW6SHJ        59 1 IO83LA
+QSO:   144 FM 2017-08-01 1804 2W0JYN/P      59 5 IO83LC          G8ZRE         59 3 IO83NE
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M1PRO
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91TM
+CATEGORY: FL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170502&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=507; excluded rows=1.
+QSO:   144 FM 2017-05-02 1801 M1PRO         52 1 IO91TM          M6AXN/P       59 1 IO91RF
+QSO:   144 FM 2017-05-02 1806 M1PRO         53 2 IO91TM          M0ICR         57 3 IO91SO
+QSO:   144 FM 2017-05-02 1811 M1PRO         59 3 IO91TM          M6ODL         59 1 IO91SM
+QSO:   144 FM 2017-05-02 1813 M1PRO         57 4 IO91TM          G3WJG         57 5 IO91RP
+QSO:   144 FM 2017-05-02 1817 M1PRO         55 5 IO91TM          G0OIW/P       57 6 IO91MO
+QSO:   144 FM 2017-05-02 1818 M1PRO         59 6 IO91TM          G0ACK/P       59 7 IO91TO
+QSO:   144 FM 2017-05-02 1821 M1PRO         59 7 IO91TM          M6TVX         59 3 IO91TM
+QSO:   144 FM 2017-05-02 1825 M1PRO         57 8 IO91TM          G8FKH         56 2 IO91SN
+QSO:   144 FM 2017-05-02 1829 M1PRO         59 9 IO91TM          G0KLX         59 1 IO91TN
+QSO:   144 FM 2017-05-02 1830 M1PRO         59 10 IO91TM         G0KRT         59 5 IO91VJ
+QSO:   144 FM 2017-05-02 1832 M1PRO         59 11 IO91TM         G1XNS         59 1 IO91TN
+QSO:   144 FM 2017-05-02 1833 M1PRO         58 12 IO91TM         M0PES         59 1 IO91QH
+QSO:   144 FM 2017-05-02 1834 M1PRO         59 13 IO91TM         G8LZE         59 2 IO91SO
+QSO:   144 FM 2017-05-02 1837 M1PRO         59 14 IO91TM         M1GWZ         59 2 IO91TJ
+QSO:   144 FM 2017-05-02 1838 M1PRO         55 15 IO91TM         M0WID         59 6 IO91WF
+END-OF-LOG:

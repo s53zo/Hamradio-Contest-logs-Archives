@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4XPE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92GU
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3223; excluded rows=8.
+QSO:    50 PH 2018-07-07 1714 G4XPE         58 1 IO92GU          GW3ZTT/P      55 81 IO82KW
+QSO:    50 PH 2018-07-07 1734 G4XPE         59 2 IO92GU          G3RCW/P       59 56 IO93ED
+QSO:    50 PH 2018-07-07 1742 G4XPE         56 3 IO92GU          M0NFD/P       51 74 IO94MJ
+QSO:    50 PH 2018-07-07 1746 G4XPE         59 4 IO92GU          EI9E/P        59 124 IO62OM
+END-OF-LOG:

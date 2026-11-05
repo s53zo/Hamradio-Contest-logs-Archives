@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: GM4VVX
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO78TA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=439; excluded rows=0.
+QSO:    50 CW 2017-06-25 0923 GM4VVX        559 1 IO78TA         GM3POI        599 3 IO88OW
+QSO:    50 CW 2017-06-25 0932 GM4VVX        599 2 IO78TA         GM3WUX        599 4 IO75UU
+QSO:    50 CW 2017-06-25 1100 GM4VVX        599 3 IO78TA         MD0CCE        559 11 IO74TI
+QSO:    50 CW 2017-06-25 1203 GM4VVX        519 4 IO78TA         SM6CVX        559 7 JO78BK
+END-OF-LOG:

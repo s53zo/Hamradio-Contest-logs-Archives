@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G6HPR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO90OV
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=211216&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5693; excluded rows=0.
+QSO:    70 PH 2021-12-16 2012 G6HPR         56 1 IO90OV          G3MEH         56 13 IO91QS
+QSO:    70 PH 2021-12-16 2038 G6HPR         59 2 IO90OV          G3TCU/P       59 50 IO91RF
+QSO:    70 PH 2021-12-16 2044 G6HPR         51 3 IO90OV          G3SED         51 11 IO90IV
+QSO:    70 PH 2021-12-16 2045 G6HPR         55 4 IO90OV          G8XDD         54 3 IO90MX
+END-OF-LOG:

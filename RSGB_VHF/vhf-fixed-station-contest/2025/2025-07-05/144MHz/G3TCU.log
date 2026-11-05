@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G3TCU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91QE
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1360; excluded rows=1.
+QSO:   144 PH 2025-07-05 1858 G3TCU         59 1 IO91QE          TM5R          59 296 JN19BQ
+QSO:   144 PH 2025-07-05 1901 G3TCU         59 2 IO91QE          G8SRC/P       59 109 IO91CL
+QSO:   144 PH 2025-07-05 1905 G3TCU         59 3 IO91QE          G5LK/P        59 257 JO01QD
+QSO:   144 PH 2025-07-06 1041 G3TCU         59 4 IO91QE          G3PYE/P       59 150 JO02QD
+END-OF-LOG:

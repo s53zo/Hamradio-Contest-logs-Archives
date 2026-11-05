@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM8IEM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO78HF
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210302&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=16095; excluded rows=6.
+QSO:   144 PH 2021-03-02 2021 GM8IEM        56 1 IO78HF          GM4MOX        56 4 IO87BS
+QSO:   144 PH 2021-03-02 2032 GM8IEM        59 2 IO78HF          GM0HBK        59 6 IO77BC
+QSO:   144 PH 2021-03-02 2035 GM8IEM        57 3 IO78HF          GM7PKT        57 4 IO76JR
+QSO:   144 PH 2021-03-02 2037 GM8IEM        58 4 IO78HF          GM4OAS        59 4 IO76CX
+QSO:   144 PH 2021-03-02 2045 GM8IEM        57 5 IO78HF          GD6ICR        57 25 IO74PF
+QSO:   144 PH 2021-03-02 2048 GM8IEM        59 6 IO78HF          GI0OTC        59 1 IO65QE
+QSO:   144 PH 2021-03-02 2057 GM8IEM        52 7 IO78HF          MM0ULL        56 1 IO77KV
+QSO:   144 PH 2021-03-02 2058 GM8IEM        54 8 IO78HF          GM4VVX        55 8 IO78TA
+QSO:   144 PH 2021-03-02 2101 GM8IEM        54 9 IO78HF          GM0OQV        52 23 IO85AT
+QSO:   144 PH 2021-03-02 2104 GM8IEM        59 10 IO78HF         GM4JTJ        57 49 IO86RP
+QSO:   144 PH 2021-03-02 2126 GM8IEM        54 11 IO78HF         G4KUX         55 128 IO94BP
+QSO:   144 PH 2021-03-02 2143 GM8IEM        59 12 IO78HF         GM4YXI        59 113 IO87WK
+QSO:   144 CW 2021-03-02 2152 GM8IEM        579 13 IO78HF        MM0GPZ        529 57 IO75WS
+QSO:   144 PH 2021-03-02 2208 GM8IEM        54 14 IO78HF         GI4SNA        55 179 IO64XM
+QSO:   144 PH 2021-03-02 2212 GM8IEM        58 15 IO78HF         MI0XZZ        54 16 IO74CU
+QSO:   144 PH 2021-03-02 2214 GM8IEM        54 16 IO78HF         GM4GUF        51 33 IO85EP
+QSO:   144 PH 2021-03-02 2227 GM8IEM        54 17 IO78HF         GM3SEK        52 184 IO74SR
+END-OF-LOG:

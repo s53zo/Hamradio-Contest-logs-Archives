@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: M9DJN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO82
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=251210&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=470; excluded rows=0.
+QSO:   432 FT8 2025-12-10 1940 M9DJN         -08 IO82             G8YPE         -03 IO92
+QSO:   432 FT8 2025-12-10 1945 M9DJN         -06 IO82             G4VPD         -11 IO92
+QSO:   432 FT8 2025-12-10 1952 M9DJN         -13 IO82             GI6ATZ        -17 IO74
+QSO:   432 FT8 2025-12-10 1956 M9DJN         -13 IO82             G8SEI         +01 IO92
+QSO:   432 FT8 2025-12-10 2026 M9DJN         -03 IO82             G4APJ         -06 IO83
+QSO:   432 FT8 2025-12-10 2037 M9DJN         -07 IO82             G8VHI         -10 IO92
+END-OF-LOG:

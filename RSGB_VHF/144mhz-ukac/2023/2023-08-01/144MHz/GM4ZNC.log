@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4ZNC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75SP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230801&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12122; excluded rows=4.
+QSO:   144 PH 2023-08-01 1903 GM4ZNC        59 1 IO75SP          GM4PPT        59 2 IO75SK
+QSO:   144 PH 2023-08-01 1906 GM4ZNC        59 2 IO75SP          GM3YDN/P      59 6 IO75SH
+QSO:   144 PH 2023-08-01 1910 GM4ZNC        59 3 IO75SP          GM4NFC        59 3 IO75QK
+QSO:   144 PH 2023-08-01 1917 GM4ZNC        55 4 IO75SP          MM7POL        55 6 IO75OX
+QSO:   144 PH 2023-08-01 1918 GM4ZNC        55 5 IO75SP          GM3MWX/P      59 2 IO75OQ
+QSO:   144 PH 2023-08-01 1921 GM4ZNC        59 6 IO75SP          GM4LVW        59 8 IO75QL
+QSO:   144 PH 2023-08-01 1922 GM4ZNC        59 7 IO75SP          GM6JNJ        59 8 IO75SO
+QSO:   144 PH 2023-08-01 1923 GM4ZNC        59 8 IO75SP          GM4SLY        59 4 IO75QN
+QSO:   144 PH 2023-08-01 1936 GM4ZNC        59 9 IO75SP          MM0CEZ        59 25 IO75XU
+QSO:   144 PH 2023-08-01 1940 GM4ZNC        59 10 IO75SP         MM0GPZ        59 22 IO75WS
+QSO:   144 PH 2023-08-01 1943 GM4ZNC        59 11 IO75SP         GM4IGS        57 11 IO75QN
+QSO:   144 PH 2023-08-01 1947 GM4ZNC        59 12 IO75SP         MM0GHM        59 6 IO75TO
+QSO:   144 PH 2023-08-01 1956 GM4ZNC        59 13 IO75SP         GM0OQV        59 19 IO85AT
+END-OF-LOG:

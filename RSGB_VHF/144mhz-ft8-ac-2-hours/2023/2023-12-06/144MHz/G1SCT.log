@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: G1SCT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=231206&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=946; excluded rows=0.
+QSO:   144 FT8 2023-12-06 1953 G1SCT         -03 IO92             G0JJG         +01 JO02
+QSO:   144 FT8 2023-12-06 1955 G1SCT         -04 IO92             G0BIX         -06 JO01
+QSO:   144 FT8 2023-12-06 1956 G1SCT         -06 IO92             G4PDF         -06 IO93
+QSO:   144 FT8 2023-12-06 1957 G1SCT         -01 IO92             G7WIR         -10 JO01
+QSO:   144 FT8 2023-12-06 1958 G1SCT         -04 IO92             G8IXK         +05 IO91
+QSO:   144 FT8 2023-12-06 2001 G1SCT         -07 IO92             G0BIX         -03 -
+QSO:   144 FT8 2023-12-06 2002 G1SCT         +04 IO92             G0JJG         -05 JO02
+QSO:   144 FT8 2023-12-06 2007 G1SCT         -14 IO92             G7COU         -13 IO93
+QSO:   144 FT8 2023-12-06 2010 G1SCT         +05 IO92             G7LII/P       -13 -
+QSO:   144 FT8 2023-12-06 2013 G1SCT         +02 IO92             G4ZTR         -11 JO01
+QSO:   144 FT8 2023-12-06 2014 G1SCT         +04 IO92             G0LBK         -11 -
+QSO:   144 FT8 2023-12-06 2016 G1SCT         +21 IO92             PE1KL         +00 JO21
+QSO:   144 FT8 2023-12-06 2017 G1SCT         -01 IO92             PD2NBE        -11 JO21
+QSO:   144 FT8 2023-12-06 2021 G1SCT         +04 IO92             OS7P          -03 JO21
+QSO:   144 FT8 2023-12-06 2023 G1SCT         -18 IO92             ON8NT         -20 JO11
+QSO:   144 FT8 2023-12-06 2026 G1SCT         +03 IO92             DL5EBS        -05 JO31
+QSO:   144 FT8 2023-12-06 2026 G1SCT         -06 IO92             PD7RON        -24 JO22
+QSO:   144 FT8 2023-12-06 2029 G1SCT         -11 IO92             PE1IWT        -15 JO32
+QSO:   144 FT8 2023-12-06 2032 G1SCT         -02 IO92             M7REV         -17 IO82
+QSO:   144 FT8 2023-12-06 2034 G1SCT         -02 IO92             M1EYP/P       -04 IO83
+END-OF-LOG:

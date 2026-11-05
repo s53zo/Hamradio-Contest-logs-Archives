@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80LR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250603&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9591; excluded rows=3.
+QSO:   144 PH 2025-06-03 1906 G3USE         59 1 IO80LR          G0LTG/P       59 10 IO81RF
+QSO:   144 PH 2025-06-03 1908 G3USE         59 2 IO80LR          G4CLA         59 18 IO92JL
+QSO:   144 PH 2025-06-03 1910 G3USE         57 3 IO80LR          G0UOK/P       56 14 IO94MJ
+QSO:   144 PH 2025-06-03 1912 G3USE         55 4 IO80LR          M0GHZ/P       53 9 IO81UN
+QSO:   144 PH 2025-06-03 1918 G3USE         59 5 IO80LR          G7RAU         59 1 IN79JX
+QSO:   144 PH 2025-06-03 1930 G3USE         56 6 IO80LR          2E0VCC/P      55 47 IO70SP
+QSO:   144 PH 2025-06-03 1933 G3USE         56 7 IO80LR          G3TBK/P       56 41 IO93RA
+QSO:   144 PH 2025-06-03 1935 G3USE         56 8 IO80LR          G4FZN/P       55 36 IO94JF
+QSO:   144 PH 2025-06-03 1953 G3USE         55 9 IO80LR          G7RIS/P       55 72 IO93DB
+END-OF-LOG:

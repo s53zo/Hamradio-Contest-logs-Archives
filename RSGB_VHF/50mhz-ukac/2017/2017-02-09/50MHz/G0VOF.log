@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0VOF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83SS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170209&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5801; excluded rows=0.
+QSO:    50 PH 2017-02-09 2004 G0VOF         59 1 IO83SS          G4ASR         59 10 IO81MX
+QSO:    50 PH 2017-02-09 2009 G0VOF         57 2 IO83SS          G1YBB/P       57 20 IO82LB
+QSO:    50 PH 2017-02-09 2017 G0VOF         57 3 IO83SS          G2ANC         56 9 IO83RM
+QSO:    50 PH 2017-02-09 2022 G0VOF         59 4 IO83SS          G8REQ         58 15 IO83KI
+QSO:    50 PH 2017-02-09 2024 G0VOF         59 5 IO83SS          G8XVJ         57 15 IO83QK
+QSO:    50 PH 2017-02-09 2025 G0VOF         59 6 IO83SS          GW4ZAR        59 22 IO83KF
+QSO:    50 PH 2017-02-09 2041 G0VOF         57 7 IO83SS          G8EEM/P       58 32 IO84VG
+QSO:    50 PH 2017-02-09 2044 G0VOF         57 8 IO83SS          G4CLA         55 67 IO92JL
+QSO:    50 PH 2017-02-09 2047 G0VOF         59 9 IO83SS          M1EYP/P       59 25 IO83WE
+QSO:    50 CW 2017-02-09 2052 G0VOF         559 10 IO83SS        G0JCQ         529 8 IO83MP
+QSO:    50 CW 2017-02-09 2059 G0VOF         579 11 IO83SS        G3UVR         579 21 IO83KH
+QSO:    50 PH 2017-02-09 2110 G0VOF         57 12 IO83SS         M1MHZ         55 83 IO92WV
+QSO:    50 PH 2017-02-09 2133 G0VOF         59 13 IO83SS         G1SWH         58 55 IO83QO
+QSO:    50 PH 2017-02-09 2156 G0VOF         57 14 IO83SS         G8BUN         51 19 IO93EQ
+QSO:    50 PH 2017-02-09 2157 G0VOF         57 15 IO83SS         M0OMB         56 31 IO83PO
+QSO:    50 PH 2017-02-09 2203 G0VOF         57 16 IO83SS         G3LDI         57 64 JO02ON
+QSO:    50 PH 2017-02-09 2215 G0VOF         57 17 IO83SS         2E0DXK/P      57 82 IO93FG
+END-OF-LOG:

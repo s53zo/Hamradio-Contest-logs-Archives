@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: G4OED
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=231213&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=641; excluded rows=0.
+QSO:   432 FT8 2023-12-13 1943 G4OED         +20 IO91             M0IEP         +21 IO91
+QSO:   432 FT8 2023-12-13 1951 G4OED         +15 IO91             2E0LMI        +29 IO91
+QSO:   432 FT8 2023-12-13 1957 G4OED         -08 IO91             G4BRK         -04 IO91
+QSO:   432 FT8 2023-12-13 2002 G4OED         -08 IO91             EI8KN         -08 IO62
+QSO:   432 FT8 2023-12-13 2006 G4OED         -19 IO91             EI3KD         -13 IO51
+QSO:   432 FT8 2023-12-13 2015 G4OED         -06 IO91             G7WIR         -12 JO01
+QSO:   432 FT8 2023-12-13 2027 G4OED         +02 IO91             G4VPD         +00 IO92
+QSO:   432 FT8 2023-12-13 2030 G4OED         +04 IO91             G4EII         +01 IO83
+QSO:   432 FT8 2023-12-13 2032 G4OED         -09 IO91             MM0CEZ        -08 IO75
+QSO:   432 FT8 2023-12-13 2052 G4OED         -13 IO91             2E1FMS        -25 IO82
+END-OF-LOG:

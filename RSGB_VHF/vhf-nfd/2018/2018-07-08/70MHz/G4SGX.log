@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4SGX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: JO02PS
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2661; excluded rows=3.
+QSO:    70 PH 2018-07-08 0946 G4SGX         59 1 JO02PS          M0NFD/P       59 47 IO94MJ
+QSO:    70 PH 2018-07-08 0949 G4SGX         55 2 JO02PS          GM4ZUK/P      55 55 IO86RW
+QSO:    70 PH 2018-07-08 0956 G4SGX         59 3 JO02PS          G2BQY/P       59 66 IO81RF
+QSO:    70 PH 2018-07-08 0959 G4SGX         59 4 JO02PS          G3SVJ/P       59 63 IO91SX
+QSO:    70 PH 2018-07-08 1103 G4SGX         59 5 JO02PS          G0OLE/P       59 36 IO93PX
+QSO:    70 CW 2018-07-08 1125 G4SGX         599 6 JO02PS         G0FBB/P       599 77 JO01LD
+QSO:    70 PH 2018-07-08 1159 G4SGX         55 7 JO02PS          GW3ZTT/P      55 52 IO82KW
+QSO:    70 PH 2018-07-08 1202 G4SGX         57 8 JO02PS          G3PIA/P       57 47 IO91IN
+QSO:    70 PH 2018-07-08 1250 G4SGX         59 9 JO02PS          G4RFR/P       57 88 IO80SE
+QSO:    70 PH 2018-07-08 1257 G4SGX         59 10 JO02PS         EI9E/P        59 106 IO62OM
+QSO:    70 PH 2018-07-08 1302 G4SGX         55 11 JO02PS         G3RCV/P       51 70 IO93ED
+QSO:    70 PH 2018-07-08 1313 G4SGX         59 12 JO02PS         M0RDK/P       59 72 IO91PD
+QSO:    70 CW 2018-07-08 1323 G4SGX         559 13 JO02PS        GM3HAM/P      579 102 IO74WV
+QSO:    70 PH 2018-07-08 1326 G4SGX         55 14 JO02PS         GM6MD/P       55 84 IO75VG
+QSO:    70 CW 2018-07-08 1334 G4SGX         559 15 JO02PS        G0VHF/P       559 110 JO01PU
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GW4ZAR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83KF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220310&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4405; excluded rows=1.
+QSO:    50 PH 2022-03-10 2105 GW4ZAR        59 1 IO83KF          G4BEE         53 14 IO83RQ
+QSO:    50 PH 2022-03-10 2109 GW4ZAR        59 2 IO83KF          G8ZRE         59 33 IO83NE
+QSO:    50 PH 2022-03-10 2117 GW4ZAR        52 3 IO83KF          G0CNN/P       53 56 IO94AI
+QSO:    50 PH 2022-03-10 2124 GW4ZAR        53 4 IO83KF          G3TBK/P       55 71 IO93RA
+END-OF-LOG:

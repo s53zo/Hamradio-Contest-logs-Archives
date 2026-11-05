@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8CXT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92OC
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160301&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10593; excluded rows=4.
+QSO:   144 PH 2016-03-01 2133 G8CXT         59 1 IO92OC          M0DXR/P       57 136 JO01DH
+QSO:   144 PH 2016-03-01 2139 G8CXT         59 2 IO92OC          G4CLA         59 171 IO92JL
+QSO:   144 PH 2016-03-01 2140 G8CXT         59 3 IO92OC          G0ODQ         55 47 IO91MR
+QSO:   144 PH 2016-03-01 2146 G8CXT         55 4 IO92OC          G8XVJ/P       57 128 IO93AD
+QSO:   144 PH 2016-03-01 2151 G8CXT         59 5 IO92OC          G3MEH         59 96 IO91QS
+QSO:   144 PH 2016-03-01 2154 G8CXT         59 6 IO92OC          G1MZD         59 30 IO92NB
+QSO:   144 PH 2016-03-01 2200 G8CXT         55 7 IO92OC          2E0VPX        55 45 IO91QV
+QSO:   144 PH 2016-03-01 2203 G8CXT         53 8 IO92OC          G8OHM         33 52 IO92AJ
+END-OF-LOG:

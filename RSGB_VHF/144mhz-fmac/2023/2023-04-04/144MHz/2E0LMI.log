@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2E0LMI
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91AQ
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230404&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=915; excluded rows=1.
+QSO:   144 FM 2023-04-04 1801 2E0LMI        57 1 IO91AQ          G0RMG/P       57 2 IO92BA
+QSO:   144 FM 2023-04-04 1803 2E0LMI        59 2 IO91AQ          M5CBS/P       59 3 IO91CL
+QSO:   144 FM 2023-04-04 1806 2E0LMI        59 3 IO91AQ          G8EFK         59 5 IO91CN
+QSO:   144 FM 2023-04-04 1809 2E0LMI        59 4 IO91AQ          2E0YCC/P      59 9 IO91CM
+QSO:   144 FM 2023-04-04 1810 2E0LMI        59 5 IO91AQ          M1DST         59 7 IO91BN
+QSO:   144 FM 2023-04-04 1818 2E0LMI        59 6 IO91AQ          M0KYB/P       58 16 IO91FN
+QSO:   144 FM 2023-04-04 1827 2E0LMI        57 7 IO91AQ          G0OIW/P       57 10 IO91LO
+QSO:   144 FM 2023-04-04 1829 2E0LMI        59 9 IO91AQ          M0NYY         59 13 IO91AR
+END-OF-LOG:

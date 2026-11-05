@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G0GRI
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210804&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1357; excluded rows=0.
+QSO:   144 FT8 2021-08-04 1901 G0GRI         -22 IO80             G4TCI         -19 IO81
+QSO:   144 FT8 2021-08-04 1904 G0GRI         -16 IO80             F4FJH         -12 IN88
+QSO:   144 FT8 2021-08-04 1908 G0GRI         -05 IO80             2E1EMK        +09 IO91
+QSO:   144 FT8 2021-08-04 1912 G0GRI         -17 IO80             MW3ASG        +10 IO81
+QSO:   144 FT8 2021-08-04 1914 G0GRI         -08 IO80             GW0MAV        -03 IO81
+QSO:   144 FT8 2021-08-04 1915 G0GRI         -03 IO80             G4HGV         -16 IO91
+QSO:   144 FT8 2021-08-04 1916 G0GRI         -16 IO80             M0BKV         -16 IO70
+QSO:   144 FT8 2021-08-04 1918 G0GRI         -12 IO80             M0XTY         -13 JO01
+QSO:   144 FT8 2021-08-04 1929 G0GRI         -17 IO80             G4OED         -19 IO91
+QSO:   144 FT8 2021-08-04 1936 G0GRI         -06 IO80             M0ABT         -05 JO00
+QSO:   144 FT8 2021-08-04 1949 G0GRI         -02 IO80             G4GFI         -03 IO91
+QSO:   144 FT8 2021-08-04 1954 G0GRI         +10 IO80             G4GUG         +11 IO81
+QSO:   144 FT8 2021-08-04 1956 G0GRI         -13 IO80             G0BIX         -13 JO01
+QSO:   144 FT8 2021-08-04 1958 G0GRI         -14 IO80             M0IEP         -24 IO91
+QSO:   144 FT8 2021-08-04 2000 G0GRI         -14 IO80             2E0DUE        -20 JO01
+QSO:   144 FT8 2021-08-04 2027 G0GRI         -18 IO80             G4OED         -18 IO91
+END-OF-LOG:

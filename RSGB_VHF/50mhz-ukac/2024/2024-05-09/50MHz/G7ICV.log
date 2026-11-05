@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G7ICV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO01GI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=240509&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4646; excluded rows=4.
+QSO:    50 PH 2024-05-09 1912 G7ICV         59 1 JO01GI          G0GDA         57 7 JO01IJ
+QSO:    50 PH 2024-05-09 1914 G7ICV         59 2 JO01GI          G0TAR         59 3 JO01GI
+QSO:    50 PH 2024-05-09 1928 G7ICV         57 3 JO01GI          G8CUL         55 15 IO91JO
+QSO:    50 PH 2024-05-09 1932 G7ICV         59 4 JO01GI          G4CLA         55 58 IO92JL
+QSO:    50 PH 2024-05-09 1947 G7ICV         57 5 JO01GI          G3TBK/P       56 57 IO93RA
+QSO:    50 PH 2024-05-09 1955 G7ICV         59 6 JO01GI          G0SKA         59 28 IO91OQ
+QSO:    50 PH 2024-05-09 2025 G7ICV         59 7 JO01GI          G1KAR/P       57 68 JO00DR
+END-OF-LOG:

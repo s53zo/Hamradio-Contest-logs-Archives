@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM4JTJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO86RP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220210&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5486; excluded rows=9.
+SOAPBOX: WARNING: 3 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (3).
+QSO:    50 PH 2022-02-10 2025 GM4JTJ        26 3 IO86RP          IW2HAJ        26 0 JN45NO
+QSO:    50 PH 2022-02-10 2043 GM4JTJ        26 4 IO86RP          SM3BEI        26 0 JP81NG
+QSO:    50 PH 2022-02-10 2052 GM4JTJ        51 5 IO86RP          G4ASR         52 52 IO81MX
+QSO:    50 PH 2022-02-10 2102 GM4JTJ        51 7 IO86RP          G1YBB/P       54 75 IO82LB
+QSO:    50 PH 2022-02-10 2122 GM4JTJ        26 8 IO86RP          IK2HKT        26 0 JN45VS
+QSO:    50 PH 2022-02-10 2143 GM4JTJ        26 9 IO86RP          LC1V          26 0 JP50JA
+QSO:    50 PH 2022-02-10 2146 GM4JTJ        55 10 IO86RP         G4CLA         55 91 IO92JL
+QSO:    50 PH 2022-02-10 2151 GM4JTJ        51 11 IO86RP         M1MHZ         51 65 IO92WV
+QSO:    50 PH 2022-02-10 2159 GM4JTJ        51 12 IO86RP         GI4SNA        41 69 IO64XM
+QSO:    50 PH 2022-02-10 2204 GM4JTJ        26 13 IO86RP         SM6YNO        26 0 JO67GG
+QSO:    50 PH 2022-02-10 2212 GM4JTJ        55 14 IO86RP         G8AOE/P       55 16 IO84XQ
+QSO:    50 PH 2022-02-10 2214 GM4JTJ        51 15 IO86RP         G4FZN/P       51 121 IO94JF
+QSO:    50 PH 2022-02-10 2220 GM4JTJ        51 16 IO86RP         G8DMU/P       51 32 IO94CB
+QSO:    50 CW 2022-02-10 2227 GM4JTJ        559 17 IO86RP        GM4CXM        519 4 IO75TW
+END-OF-LOG:

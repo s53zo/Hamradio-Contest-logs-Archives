@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4JED
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO01CF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230110&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5300; excluded rows=3.
+QSO:   432 PH 2023-01-10 2016 G4JED         59 1 JO01CF          M0JQT         59 1 JO01DF
+QSO:   432 PH 2023-01-10 2023 G4JED         59 2 JO01CF          G4FFY         59 2 JO01DF
+QSO:   432 PH 2023-01-10 2032 G4JED         57 3 JO01CF          G0XDI         57 27 IO91RQ
+END-OF-LOG:

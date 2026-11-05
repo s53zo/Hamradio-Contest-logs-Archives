@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: M7KJW
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01DE
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=6102; excluded rows=2.
+QSO:   144 CW 2019-12-08 1355 M7KJW         599 1 JO01DE         M0BAA         599 133 JO01KJ
+QSO:   144 CW 2019-12-08 1520 M7KJW         599 2 JO01DE         G4OTV         599 2 JO01CB
+QSO:   144 CW 2019-12-08 1520 M7KJW         599 3 JO01DE         G4JED         599 3 JO01CF
+END-OF-LOG:

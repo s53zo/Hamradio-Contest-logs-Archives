@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G3YLA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02MP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7394; excluded rows=0.
+QSO:   144 PH 2022-12-04 1227 G3YLA         56 1 JO02MP          GW4CC         54 84 IO81UN
+QSO:   144 PH 2022-12-04 1300 G3YLA         56 2 JO02MP          G4PFZ         55 37 JO02PP
+QSO:   144 PH 2022-12-04 1303 G3YLA         59 3 JO02MP          G4DYC         59 19 JO02MP
+QSO:   144 PH 2022-12-04 1303 G3YLA         59 4 JO02MP          G4LPP         59 70 JO02SS
+QSO:   144 PH 2022-12-04 1331 G3YLA         59 5 JO02MP          G4ODA         59 153 IO92WS
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G6GVI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83SN
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2244; excluded rows=0.
+QSO:   432 PH 2023-10-07 1505 G6GVI         56 1 IO83SN          G3M           53 91 JO01QD
+QSO:   432 PH 2023-10-07 1517 G6GVI         53 2 IO83SN          G0HIK/P       53 3 IO84KD
+QSO:   432 PH 2023-10-08 1326 G6GVI         55 3 IO83SN          G3MEH         42 61 IO91QS
+QSO:   432 PH 2023-10-08 1331 G6GVI         57 4 IO83SN          G0XDI         55 146 IO91RQ
+QSO:   432 PH 2023-10-08 1343 G6GVI         56 5 IO83SN          F5RZC         55 251 JO10AR
+END-OF-LOG:

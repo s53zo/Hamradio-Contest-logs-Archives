@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0XGL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81VU
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210311&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3441; excluded rows=1.
+QSO:    50 PH 2021-03-11 2028 M0XGL         59 1 IO81VU          G4BCA         59 9 IO81VV
+QSO:    50 PH 2021-03-11 2042 M0XGL         59 2 IO81VU          G7ITD         59 8 IO81UT
+QSO:    50 PH 2021-03-11 2044 M0XGL         58 3 IO81VU          G8LNR         54 14 IO81UR
+QSO:    50 PH 2021-03-11 2112 M0XGL         57 4 IO81VU          G4CIB         55 11 IO81VX
+QSO:    50 PH 2021-03-11 2126 M0XGL         57 5 IO81VU          M0BEW         59 21 IO82RJ
+QSO:    50 PH 2021-03-11 2137 M0XGL         58 6 IO81VU          G0LGS         56 10 IO81WV
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: GU0UVH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IN89VR
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5229; excluded rows=1.
+QSO:   144 PH 2021-07-03 1550 GU0UVH        57 1 IN89VR          G0ARC/P       56 79 IN91EH
+QSO:   144 PH 2021-07-03 1609 GU0UVH        57 2 IN89VR          G3PYE/P       59 60 JO02CE
+QSO:   144 PH 2021-07-03 1614 GU0UVH        59 3 IN89VR          G5LK/P        59 134 JO01QD
+QSO:   144 PH 2021-07-03 1628 GU0UVH        59 4 IN89VR          M0BAA/P       55 148 JO01KJ
+QSO:   144 PH 2021-07-03 1729 GU0UVH        57 5 IN89VR          G4ZAP/P       56 173 JO01PU
+QSO:   144 PH 2021-07-03 1739 GU0UVH        56 6 IN89VR          GM3HAM/P      53 50 IO74WV
+QSO:   144 PH 2021-07-04 0752 GU0UVH        59 7 IN89VR          G2BQY/P       59 102 IO81RF
+QSO:   144 PH 2021-07-04 1123 GU0UVH        59 8 IN89VR          G3CKR/P       59 282 IO93AD
+QSO:   144 PH 2021-07-04 1134 GU0UVH        57 9 IN89VR          G0OLE/P       57 122 IO93PX
+QSO:   144 PH 2021-07-04 1136 GU0UVH        57 10 IN89VR         G4XZL/P       59 14 IO90MX
+QSO:   144 PH 2021-07-04 1237 GU0UVH        59 11 IN89VR         G0LTG         59 64 IO81RF
+QSO:   144 PH 2021-07-04 1319 GU0UVH        57 12 IN89VR         GW4IDF/P      59 55 IO81NV
+END-OF-LOG:

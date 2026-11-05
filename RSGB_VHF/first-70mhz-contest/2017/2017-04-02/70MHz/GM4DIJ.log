@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-70MHZ-CONTEST
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO85IW
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+70MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1536; excluded rows=2.
+QSO:    70 PH 2017-04-02 1126 GM4DIJ        59 1 IO85IW          GM4JJJ        59 28 IO86GB
+QSO:    70 CW 2017-04-02 1152 GM4DIJ        519 2 IO85IW         G4BWP         559 84 JO02FH
+QSO:    70 CW 2017-04-02 1155 GM4DIJ        579 3 IO85IW         GI4SNA        59 45 IO64XM
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: GM4VVX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO78TA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5965; excluded rows=20.
+SOAPBOX: WARNING: 13 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (13).
+QSO:   144 PH 2016-05-21 1640 GM4VVX        59 1 IO78TA IV       GM4NFC        57 9 IO75RI KA
+QSO:   144 PH 2016-05-21 2026 GM4VVX        37 2 IO78TA IV       G4SWX         R26 1 JO02RF IP
+QSO:   144 PH 2016-05-21 2054 GM4VVX        37 3 IO78TA IV       GD1MIP        57 5 IO74TM IM
+QSO:   144 PH 2016-05-21 2114 GM4VVX        51 4 IO78TA IV       GI4SNA        51 13 IO64XM BT
+QSO:   144 PH 2016-05-21 2120 GM4VVX        59 5 IO78TA IV       GM8IEM        59 2 IO78HF IV
+QSO:   144 PH 2016-05-21 2238 GM4VVX        26 7 IO78TA IV       DJ2TX         R26 15 JO33SA
+QSO:   144 PH 2016-05-22 0916 GM4VVX        59 16 IO78TA IV      GM4WJA        57 6 IO87MN AB
+QSO:   144 CW 2016-05-22 0953 GM4VVX        539 17 IO78TA IV     G4KUX         539 1 IO94BP DL
+QSO:   144 PH 2016-05-22 1000 GM4VVX        59 18 IO78TA IV      GM0HHT        59 1 IO89JC KW
+QSO:   144 PH 2016-05-22 1013 GM4VVX        53 19 IO78TA IV      GM4JJJ        52 2 IO86GB KY
+QSO:   144 PH 2016-05-22 1037 GM4VVX        51 20 IO78TA IV      GW8ASD        52 42 IO83LB LL
+QSO:   144 CW 2016-05-22 1346 GM4VVX        559 25 IO78TA IV     GM0EPO        529 1 IO75QK KA
+QSO:   144 CW 2016-05-22 1350 GM4VVX        549 26 IO78TA IV     GM8RTX        579 9 IO75CD KA
+END-OF-LOG:

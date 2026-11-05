@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: GM8IEM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO78
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210505&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1171; excluded rows=1.
+QSO:   144 FT8 2021-05-05 1900 GM8IEM        -02 IO78             MM0ULL        -01 IO77
+QSO:   144 FT8 2021-05-05 1901 GM8IEM        -02 IO78             GM4VVX        -07 IO78
+QSO:   144 FT8 2021-05-05 1903 GM8IEM        +07 IO78             MI0XZZ        +15 IO74
+QSO:   144 FT8 2021-05-05 1904 GM8IEM        +09 IO78             GI6ATZ        +08 IO74
+QSO:   144 FT8 2021-05-05 1908 GM8IEM        -03 IO78             GM8MJV        -09 IO85
+QSO:   144 FT8 2021-05-05 1918 GM8IEM        -08 IO78             GM4JTJ        -13 IO86
+QSO:   144 FT8 2021-05-05 1919 GM8IEM        -01 IO78             GM8GAX        -01 IO86
+QSO:   144 FT8 2021-05-05 1921 GM8IEM        -01 IO78             GM7PKT        +01 IO76
+QSO:   144 FT8 2021-05-05 1923 GM8IEM        +20 IO78             GM0EWX        -07 IO67
+QSO:   144 FT8 2021-05-05 1925 GM8IEM        +08 IO78             GM4OAS        +16 IO76
+QSO:   144 FT8 2021-05-05 1926 GM8IEM        -02 IO78             GI4SNA        +01 IO64
+QSO:   144 FT8 2021-05-05 1932 GM8IEM        -12 IO78             G8AOE         -21 IO94
+QSO:   144 FT8 2021-05-05 1938 GM8IEM        -14 IO78             G4OBK         -22 IO94
+QSO:   144 FT8 2021-05-05 1949 GM8IEM        +17 IO78             GM0HBK        +13 IO77
+QSO:   144 FT8 2021-05-05 2041 GM8IEM        -14 IO78             EI8KN         -19 IO62
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0BWG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93GK
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=211109&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8713; excluded rows=2.
+QSO:   432 PH 2021-11-09 2005 G0BWG         59 1 IO93GK          M0RPK/P       57 1 IO93FL
+QSO:   432 PH 2021-11-09 2007 G0BWG         58 2 IO93GK          G4HGT/P       54 9 IO93DV
+QSO:   432 PH 2021-11-09 2045 G0BWG         59 3 IO93GK          G4FZN/P       57 39 IO94JF
+QSO:   432 PH 2021-11-09 2140 G0BWG         55 4 IO93GK          G4RQI         51 48 IO93IR
+QSO:   432 PH 2021-11-09 2144 G0BWG         57 5 IO93GK          G3VCA         51 45 IO93MG
+END-OF-LOG:

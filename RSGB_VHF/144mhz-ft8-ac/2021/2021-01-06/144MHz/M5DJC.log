@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M5DJC
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210106&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1217; excluded rows=1.
+QSO:   144 FT8 2021-01-06 1932 M5DJC         +14 IO92             G0DJA         +05 IO93
+QSO:   144 FT8 2021-01-06 1938 M5DJC         -06 IO92             G3YDY         -15 JO01
+QSO:   144 FT8 2021-01-06 1940 M5DJC         +00 IO92             G1PPA         +04 IO93
+QSO:   144 FT8 2021-01-06 1942 M5DJC         -13 IO92             2E0DUE        -17 JO01
+QSO:   144 FT8 2021-01-06 1952 M5DJC         +01 IO92             M0KKM         -10 JO02
+QSO:   144 FT8 2021-01-06 1959 M5DJC         +07 IO92             G4GMS         -04 IO92
+QSO:   144 FT8 2021-01-06 2004 M5DJC         +11 IO92             G6EIH         +01 IO92
+QSO:   144 FT8 2021-01-06 2012 M5DJC         -01 IO92             G7LRQ         -24 IO91
+QSO:   144 FT8 2021-01-06 2015 M5DJC         -01 IO92             M0KKM         -10 JO02
+QSO:   144 FT8 2021-01-06 2044 M5DJC         -10 IO92             G8DMU         -19 IO93
+QSO:   144 FT8 2021-01-06 2050 M5DJC         -01 IO92             G0ISX         -09 IO93
+QSO:   144 FT8 2021-01-06 2059 M5DJC         -18 IO92             GW4HDR        -21 IO83
+END-OF-LOG:

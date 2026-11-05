@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0EUK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO95CA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220104&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11936; excluded rows=1.
+QSO:   144 PH 2022-01-04 2004 M0EUK         59 1 IO95CA          G8PNN/P       59 2 IO95AF
+QSO:   144 PH 2022-01-04 2006 M0EUK         59 2 IO95CA          G8KPD/P       59 3 IO85XF
+QSO:   144 PH 2022-01-04 2025 M0EUK         56 3 IO95CA          G3ZWR         59 4 IO94FX
+QSO:   144 PH 2022-01-04 2028 M0EUK         59 4 IO95CA          G8CYW         59 3 IO94CX
+QSO:   144 PH 2022-01-04 2029 M0EUK         56 5 IO95CA          2E0NMK        52 3 IO94GR
+QSO:   144 PH 2022-01-04 2031 M0EUK         52 6 IO95CA          M0XLZ         54 2 IO94FU
+QSO:   144 PH 2022-01-04 2032 M0EUK         55 7 IO95CA          M0ZID         57 1 IO94GW
+QSO:   144 PH 2022-01-04 2033 M0EUK         58 8 IO95CA          M0CLD         59 2 IO94DV
+QSO:   144 PH 2022-01-04 2213 M0EUK         59 9 IO95CA          G4ITR         59 4 IO95CA
+END-OF-LOG:

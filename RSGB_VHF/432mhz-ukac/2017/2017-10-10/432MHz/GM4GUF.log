@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: GM4GUF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO85EP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=171010&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6887; excluded rows=3.
+QSO:   432 PH 2017-10-10 1925 GM4GUF        59 1 IO85EP          GM6CMQ        59 1 IO86GB
+QSO:   432 PH 2017-10-10 1931 GM4GUF        59 2 IO85EP          GM4JJJ        59 6 IO86GB
+QSO:   432 PH 2017-10-10 1942 GM4GUF        59 3 IO85EP          GM0USI        59 2 IO75UV
+QSO:   432 PH 2017-10-10 2032 GM4GUF        57 4 IO85EP          GM4JTJ        56 35 IO86RP
+QSO:   432 PH 2017-10-10 2040 GM4GUF        57 5 IO85EP          GI6ATZ        55 74 IO74AJ
+QSO:   432 CW 2017-10-10 2057 GM4GUF        529 6 IO85EP         GM8IEM        529 6 IO78HF
+QSO:   432 CW 2017-10-10 2106 GM4GUF        529 7 IO85EP         GM4TOE        529 11 IO87RP
+QSO:   432 PH 2017-10-10 2128 GM4GUF        59 8 IO85EP          GM3RXF        59 1 IO85EP
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4EHD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93BS
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180308&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3778; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:    50 PH 2018-03-08 2006 G4EHD         59 1 IO93BS          G4FZN/P       59 10 IO94JF
+QSO:    50 PH 2018-03-08 2020 G4EHD         59 2 IO93BS          G0HDV/P       59 13 IO93ST
+QSO:    50 PH 2018-03-08 2024 G4EHD         59 3 IO93BS          G0EAK/P       59 29 IO93NI
+QSO:    50 PH 2018-03-08 2032 G4EHD         59 4 IO93BS          G3VCA         59 32 IO93MG
+QSO:    50 PH 2018-03-08 2044 G4EHD         56 5 IO93BS          G4CLA         55 47 IO92JL
+QSO:    50 PH 2018-03-08 2055 G4EHD         57 6 IO93BS          G0UUU/P       57 7 IO94SG
+QSO:    50 PH 2018-03-08 2102 G4EHD         56 8 IO93BS          GI4SNA        51 43 IO64XM
+QSO:    50 PH 2018-03-08 2117 G4EHD         59 9 IO93BS          G4ASR         59 74 IO81MX
+QSO:    50 PH 2018-03-08 2146 G4EHD         56 10 IO93BS         G8ZRE         52 49 IO83NE
+QSO:    50 PH 2018-03-08 2155 G4EHD         59 11 IO93BS         G4LKD         59 37 IO93OQ
+END-OF-LOG:

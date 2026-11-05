@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M7ALE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93NR
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=221108&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=576; excluded rows=0.
+QSO:   432 FM 2022-11-08 1929 M7ALE         51 1 IO93NR          GW8ASD        53 10 IO83LB
+QSO:   432 FM 2022-11-08 1934 M7ALE         53 2 IO93NR          M0ICK         53 9 IO83RM
+QSO:   432 FM 2022-11-08 1938 M7ALE         53 3 IO93NR          G0WUS/P       58 1 IO92MP
+QSO:   432 FM 2022-11-08 1943 M7ALE         59 4 IO93NR          G3VLR         59 1 IO93NQ
+QSO:   432 FM 2022-11-08 1952 M7ALE         51 5 IO93NR          M0KYB/P       57 28 IO91FN
+END-OF-LOG:

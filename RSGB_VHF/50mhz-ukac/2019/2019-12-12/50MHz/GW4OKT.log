@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GW4OKT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83LE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=191212&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2280; excluded rows=1.
+QSO:    50 PH 2019-12-12 2025 GW4OKT        59 1 IO83LE          G8ZRE         59 17 IO83NE
+QSO:    50 PH 2019-12-12 2026 GW4OKT        57 2 IO83LE          GW4ZAR        59 18 IO83KF
+QSO:    50 PH 2019-12-12 2030 GW4OKT        59 3 IO83LE          MW0XAD/P      59 10 IO83LC
+QSO:    50 PH 2019-12-12 2034 GW4OKT        57 4 IO83LE          G3UVR         59 18 IO83KH
+QSO:    50 PH 2019-12-12 2040 GW4OKT        55 5 IO83LE          GW0MDQ        59 4 IO83KC
+QSO:    50 CW 2019-12-12 2045 GW4OKT        559 6 IO83LE         G3RKF         559 9 IO83VH
+QSO:    50 PH 2019-12-12 2106 GW4OKT        55 7 IO83LE          G8REQ         58 32 IO83KI
+QSO:    50 CW 2019-12-12 2123 GW4OKT        559 8 IO83LE         M0WBG         599 15 IO83KJ
+END-OF-LOG:

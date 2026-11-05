@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: M7APV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=230607&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1202; excluded rows=1.
+QSO:   144 FT8 2023-06-07 1903 M7APV         +07 JO01             GR0KUC        +01 IO91
+QSO:   144 FT8 2023-06-07 1906 M7APV         -16 JO01             M7ICL         -11 JO02
+QSO:   144 FT8 2023-06-07 1913 M7APV         -08 JO01             G7WIR         -09 JO01
+QSO:   144 FT8 2023-06-07 1922 M7APV         +22 JO01             G7LRQ         -06 IO91
+QSO:   144 FT8 2023-06-07 1924 M7APV         -02 JO01             2E0DUE        -20 JO01
+QSO:   144 FT8 2023-06-07 1930 M7APV         +03 JO01             G1PQR         -18 IO92
+QSO:   144 FT8 2023-06-07 1931 M7APV         -02 JO01             MR0DGD        -18 JO01
+QSO:   144 FT8 2023-06-07 2002 M7APV         +02 JO01             M0BWU         +05 JO02
+QSO:   144 FT8 2023-06-07 2011 M7APV         +00 JO01             2E0OUR        -05 IO91
+QSO:   144 FT8 2023-06-07 2020 M7APV         +03 JO01             GR4PDF        -13 IO93
+QSO:   144 FT8 2023-06-07 2022 M7APV         +08 JO01             G8IXK         -03 IO91
+QSO:   144 FT8 2023-06-07 2047 M7APV         +20 JO01             G8HZQ         +03 IO91
+END-OF-LOG:

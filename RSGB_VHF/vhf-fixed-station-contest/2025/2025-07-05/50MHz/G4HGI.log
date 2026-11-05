@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G4HGI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83PL
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=483; excluded rows=0.
+QSO:    50 PH 2025-07-05 1401 G4HGI         59 1 IO83PL          M0RDX         59 1 IO83WB
+QSO:    50 PH 2025-07-05 1405 G4HGI         59 2 IO83PL          M0UNG         59 3 IO83WJ
+QSO:    50 PH 2025-07-05 1406 G4HGI         59 3 IO83PL          M0TNX         59 2 IO83ML
+QSO:    50 PH 2025-07-05 1407 G4HGI         57 4 IO83PL          M0NFD/P       55 3 IO94MJ
+QSO:    50 PH 2025-07-05 1409 G4HGI         57 5 IO83PL          G8SRC/P       57 11 IO91CL
+QSO:    50 PH 2025-07-05 1410 G4HGI         59 6 IO83PL          G2BQY/P       59 18 IO81RF
+QSO:    50 PH 2025-07-05 1411 G4HGI         59 7 IO83PL          G0CDA         59 3 IO83SJ
+QSO:    50 PH 2025-07-05 1418 G4HGI         59 8 IO83PL          G3PYE/P       59 14 JO02CE
+QSO:    50 PH 2025-07-05 1433 G4HGI         59 9 IO83PL          G4ASR         59 16 IO81MX
+QSO:    50 PH 2025-07-05 1438 G4HGI         57 10 IO83PL         G4ATH/P       53 5 IO83NU
+QSO:    50 PH 2025-07-05 1440 G4HGI         59 11 IO83PL         G3RLE         59 7 IO83VO
+QSO:    50 PH 2025-07-05 1510 G4HGI         59 12 IO83PL         G4DSP/P       59 19 IO92VU
+QSO:    50 PH 2025-07-05 1523 G4HGI         59 13 IO83PL         G3SRT/P       59 23 IO82KV
+QSO:    50 PH 2025-07-05 1531 G4HGI         57 14 IO83PL         G5LK/P        59 45 JO01QG
+QSO:    50 PH 2025-07-05 1608 G4HGI         59 15 IO83PL         G8DVR         59 6 IO83SK
+QSO:    50 PH 2025-07-05 1837 G4HGI         59 16 IO83PL         G3CKR/P       59 47 IO93AD
+QSO:    50 PH 2025-07-05 1956 G4HGI         55 17 IO83PL         G8NVI         53 36 IO91JO
+END-OF-LOG:

@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4ZVB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93IO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2019 G4ZVB         59 1 IO93IO          G3VCA         59 20 IO93MG
+QSO:    50 PH 2021-02-11 2021 G4ZVB         55 2 IO93IO          G0BFJ         44 10 IO93CP
+QSO:    50 PH 2021-02-11 2027 G4ZVB         59 3 IO93IO          G8SFI         59 11 IO93LW
+QSO:    50 PH 2021-02-11 2032 G4ZVB         55 4 IO93IO          G4HVC         56 26 IO93QA
+QSO:    50 PH 2021-02-11 2034 G4ZVB         59 5 IO93IO          G0TVM         59 13 IO93CT
+QSO:    50 PH 2021-02-11 2045 G4ZVB         55 6 IO93IO          G0BWB         59 26 IO93CO
+QSO:    50 PH 2021-02-11 2057 G4ZVB         59 7 IO93IO          G3TBK         57 54 IO93QA
+QSO:    50 PH 2021-02-11 2104 G4ZVB         59 8 IO93IO          G3SDY         59 16 IO93DO
+QSO:    50 PH 2021-02-11 2210 G4ZVB         57 9 IO93IO          G0EAK         44 26 IO93MH
+END-OF-LOG:

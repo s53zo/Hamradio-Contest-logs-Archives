@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4HWA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO92ME
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=240423&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=69; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   10G PH 2024-04-23 1831 G4HWA         59 1 IO92ME          G4CLA         59 1 IO92JL
+QSO:   10G PH 2024-04-23 1846 G4HWA         57 3 IO92ME          G1PPA/P       59 2 IO93RJ
+QSO:   10G PH 2024-04-23 1852 G4HWA         57 4 IO92ME          G4ZTR         57 4 JO01KW
+QSO:   10G PH 2024-04-23 1901 G4HWA         57 5 IO92ME          M0GHZ         56 2 IO81VK
+QSO:   10G PH 2024-04-23 1935 G4HWA         57 6 IO92ME          G0WZV         57 4 JO01KV
+QSO:   10G PH 2024-04-23 2105 G4HWA         54 7 IO92ME          G8SEI         55 2 IO92FO
+QSO:   10G CW 2024-04-23 2116 G4HWA         519 8 IO92ME         G7WHI/P       539 3 IO81JD
+QSO:   10G PH 2024-04-23 2127 G4HWA         58 9 IO92ME          G4LDR         59 7 IO91EC
+END-OF-LOG:

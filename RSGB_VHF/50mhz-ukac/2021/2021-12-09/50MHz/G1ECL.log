@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G1ECL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92QB
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=211209&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3825; excluded rows=1.
+QSO:    50 PH 2021-12-09 2013 G1ECL         53 1 IO92QB          G6GCM         47 1 IO92PC
+QSO:    50 PH 2021-12-09 2020 G1ECL         55 2 IO92QB          G3MEH         59 29 IO01QS
+QSO:    50 PH 2021-12-09 2041 G1ECL         59 3 IO92QB          M7NCN         59 14 IO92QB
+QSO:    50 PH 2021-12-09 2052 G1ECL         59 4 IO92QB          G6GEI/P       59 0 IO92RA
+QSO:    50 PH 2021-12-09 2110 G1ECL         58 5 IO92QB          G4FVZ         59 21 IO91OW
+QSO:    50 PH 2021-12-09 2129 G1ECL         46 6 IO92QB          G3PYE/P       55 78 JO02CE
+END-OF-LOG:

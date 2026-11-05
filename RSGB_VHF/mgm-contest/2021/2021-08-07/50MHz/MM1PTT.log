@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MGM-CONTEST
+CALLSIGN: MM1PTT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO75
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=MGM+contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from machine-generated-mode contest context; exact submode unavailable.
+SOAPBOX: Export source rows=911; excluded rows=0.
+QSO:    50 DG 2021-08-08 1005 MM1PTT        +17 IO75             MM0CEZ        +10 IO75
+QSO:    50 DG 2021-08-08 1148 MM1PTT        +13 IO75             MM0GOR        -02 IO85
+QSO:    50 DG 2021-08-08 1153 MM1PTT        -17 IO75             GS8VL         -14 IO78
+QSO:    50 DG 2021-08-08 1317 MM1PTT        -19 IO75             G7KHF         -15 IO94
+END-OF-LOG:

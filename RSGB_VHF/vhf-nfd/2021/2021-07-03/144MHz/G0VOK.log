@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G0VOK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83RG
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5229; excluded rows=1.
+QSO:   144 PH 2021-07-03 1644 G0VOK         55 1 IO83RG          MM0CPS/P      59 49 IO85SS
+QSO:   144 PH 2021-07-03 1656 G0VOK         59 2 IO83RG          G3CKR/P       59 126 IO93AD
+QSO:   144 PH 2021-07-03 1711 G0VOK         55 3 IO83RG          G0SAC/P       56 80 IO91XG
+QSO:   144 PH 2021-07-03 1717 G0VOK         55 4 IO83RG          M0BAA/P       55 185 JO01KJ
+QSO:   144 PH 2021-07-03 1728 G0VOK         59 5 IO83RG          G0OLE/P       59 39 IO93PX
+QSO:   144 PH 2021-07-03 1750 G0VOK         59 6 IO83RG          G3VLG/P       55 66 IO92IR
+QSO:   144 PH 2021-07-03 1757 G0VOK         59 7 IO83RG          G4ZAP/P       59 192 JO01PU
+QSO:   144 PH 2021-07-04 0907 G0VOK         59 8 IO83RG          G3PYE/P       59 177 JO02CE
+QSO:   144 PH 2021-07-04 1119 G0VOK         55 9 IO83RG          GM3HAM/P      56 89 IO74WV
+END-OF-LOG:

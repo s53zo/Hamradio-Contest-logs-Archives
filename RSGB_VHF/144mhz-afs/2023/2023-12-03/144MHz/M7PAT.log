@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: M7PAT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93HL
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5334; excluded rows=4.
+QSO:   144 PH 2023-12-03 1139 M7PAT         59 1 IO93HL          G0EAK/P       59 46 IO93NI
+QSO:   144 PH 2023-12-03 1142 M7PAT         59 2 IO93HL          G4ODA         59 98 IO92WS
+QSO:   144 PH 2023-12-03 1150 M7PAT         54 3 IO93HL          G4BWP         55 90 JO02FH
+QSO:   144 PH 2023-12-03 1151 M7PAT         59 4 IO93HL          G0HSA         59 24 IO93GH
+QSO:   144 PH 2023-12-03 1156 M7PAT         59 5 IO93HL          2E0IGD/P      59 35 IO93JH
+QSO:   144 PH 2023-12-03 1202 M7PAT         55 6 IO93HL          G3TBK/P       56 52 IO93RA
+QSO:   144 PH 2023-12-03 1208 M7PAT         55 7 IO93HL          G4FAL         53 47 IO93EJ
+QSO:   144 PH 2023-12-03 1223 M7PAT         59 8 IO93HL          G0XDI         55 94 IO91RQ
+QSO:   144 PH 2023-12-03 1228 M7PAT         57 9 IO93HL          G3YJR         59 27 IO93FJ
+QSO:   144 PH 2023-12-03 1230 M7PAT         59 10 IO93HL         G3PYE/P       53 84 JO02CE
+END-OF-LOG:

@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: M0SDL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80JT
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9766; excluded rows=11.
+QSO:   144 PH 2018-07-07 1410 M0SDL         59 1 IO80JT          G2BQY/P       59 6 IO81RF
+QSO:   144 PH 2018-07-07 1418 M0SDL         59 2 IO80JT          EI9E/P        59 15 IO62OM
+QSO:   144 PH 2018-07-07 1425 M0SDL         59 3 IO80JT          G4RFR/P       59 7 IO80ST
+QSO:   144 PH 2018-07-07 1444 M0SDL         55 4 IO80JT          GW3ZTT/P      58 14 IO82KW
+QSO:   144 PH 2018-07-07 1622 M0SDL         55 5 IO80JT          GM3HAM/P      54 68 IO74WV
+QSO:   144 PH 2018-07-07 1638 M0SDL         53 6 IO80JT          G4NPH/P       52 32 IO92TH
+QSO:   144 PH 2018-07-07 1640 M0SDL         53 7 IO80JT          G0OLE/P       53 48 IO93PX
+QSO:   144 PH 2018-07-07 1712 M0SDL         55 8 IO80JT          F5SGT/P       59 155 IN88KD
+QSO:   144 PH 2018-07-07 1725 M0SDL         54 9 IO80JT          G3PYE/P       59 0
+QSO:   144 PH 2018-07-07 1744 M0SDL         59 10 IO80JT         GW3SRT/P      59 79 IO82LQ
+QSO:   144 PH 2018-07-07 1806 M0SDL         59 11 IO80JT         M0MCG/P       59 15 IO80AQ
+QSO:   144 PH 2018-07-07 1811 M0SDL         55 12 IO80JT         GI4GY/P       59 34 IO74AI
+QSO:   144 PH 2018-07-07 1856 M0SDL         59 13 IO80JT         G4WAW/P       59 61 IO81QJ
+END-OF-LOG:

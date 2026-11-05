@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: G4OED
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=231011&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=523; excluded rows=0.
+QSO:   432 FT8 2023-10-11 1932 G4OED         +17 IO91             M0IEP         -25 IO91
+QSO:   432 FT8 2023-10-11 1941 G4OED         -03 IO91             GM8MJV        -06 IO85
+QSO:   432 FT8 2023-10-11 1956 G4OED         +01 IO91             G0XDI         -16 IO91
+END-OF-LOG:

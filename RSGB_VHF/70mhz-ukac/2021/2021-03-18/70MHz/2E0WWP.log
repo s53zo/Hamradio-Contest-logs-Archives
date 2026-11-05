@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: 2E0WWP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93RG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210318&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4879; excluded rows=2.
+QSO:    70 PH 2021-03-18 2000 2E0WWP        59 1 IO93RG          G3VCA         59 1 IO93MG
+QSO:    70 PH 2021-03-18 2004 2E0WWP        55 2 IO93RG          M0LLW         55 5 IO93MK
+QSO:    70 PH 2021-03-18 2013 2E0WWP        55 3 IO93RG          G3TBK         56 12 IO93QA
+QSO:    70 PH 2021-03-18 2019 2E0WWP        59 4 IO93RG          2E0BMA        59 8 IO93QG
+QSO:    70 PH 2021-03-18 2022 2E0WWP        57 5 IO93RG          G4HIV         55 5 IO93QE
+QSO:    70 PH 2021-03-18 2111 2E0WWP        53 6 IO93RG          G4CLA         53 76 IO92JL
+END-OF-LOG:

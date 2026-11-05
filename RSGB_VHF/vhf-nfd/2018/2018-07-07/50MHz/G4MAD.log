@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4MAD
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92IH
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3223; excluded rows=8.
+QSO:    50 PH 2018-07-07 1445 G4MAD         59 1 IO92IH          GW3ZTT/P      59 24 IO82KW
+QSO:    50 PH 2018-07-07 1450 G4MAD         59 2 IO92IH          G2BYQ/P       59 40 IO81RF
+QSO:    50 PH 2018-07-07 1453 G4MAD         59 3 IO92IH          G2LO/P        59 35 IO92GB
+QSO:    50 PH 2018-07-07 1503 G4MAD         59 4 IO92IH          EI9E/P        59 53 IO62OM
+QSO:    50 PH 2018-07-07 1507 G4MAD         59 5 IO92IH          G3RCW/P       59 30 IO93ED
+QSO:    50 PH 2018-07-07 1518 G4MAD         59 6 IO92IH          G3VLG/P       59 12 IO92GE
+QSO:    50 CW 2018-07-07 1554 G4MAD         599 7 IO92IH         G3RLE         599 16 IO83VO
+QSO:    50 CW 2018-07-07 1557 G4MAD         599 8 IO92IH         G0FBB/P       599 61 JO01LD
+QSO:    50 PH 2018-07-07 1600 G4MAD         57 9 IO92IH          G4ELJ         53 40 IO91PH
+QSO:    50 PH 2018-07-07 1603 G4MAD         59 10 IO92IH         M0NFD/P       57 46 IO94MJ
+QSO:    50 PH 2018-07-07 1613 G4MAD         59 11 IO92IH         G7APD/P       59 21 IO92LI
+QSO:    50 PH 2018-07-07 1620 G4MAD         59 12 IO92IH         G8LED         59 40 IO92LE
+QSO:    50 PH 2018-07-07 1621 G4MAD         59 13 IO92IH         G3ZME/P       59 40 IO82NN
+QSO:    50 PH 2018-07-07 1624 G4MAD         59 14 IO92IH         G3SVJ/P       59 41 IO91SX
+QSO:    50 PH 2018-07-07 1626 G4MAD         55 15 IO92IH         GM3HAM/P      55 54 IO74WV
+QSO:    50 CW 2018-07-07 1652 G4MAD         599 16 IO92IH        G8IB/P        599 30 IO91KR
+END-OF-LOG:

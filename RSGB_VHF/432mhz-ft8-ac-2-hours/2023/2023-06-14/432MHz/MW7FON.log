@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: MW7FON
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO73
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=230614&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=767; excluded rows=0.
+QSO:   432 FT8 2023-06-14 1903 MW7FON        -17 IO73             GM8MJV        -10 IO85
+QSO:   432 FT8 2023-06-14 1916 MW7FON        -09 IO73             EI8KN         -09 IO62
+QSO:   432 FT8 2023-06-14 1917 MW7FON        -13 IO73             MI0IHH        -06 IO74
+QSO:   432 FT8 2023-06-14 1920 MW7FON        -15 IO73             EI9KP         -10 IO54
+QSO:   432 FT8 2023-06-14 1934 MW7FON        -15 IO73             EI2FG         -12 IO61
+END-OF-LOG:

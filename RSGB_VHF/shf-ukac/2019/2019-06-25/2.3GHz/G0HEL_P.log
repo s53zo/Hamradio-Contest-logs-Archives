@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G0HEL/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO81WG
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=190625&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=362; excluded rows=0.
+QSO:  2.3G PH 2019-06-25 2035 G0HEL/P       59 1 IO81WG          M0GHZ         59 1 IO81VK
+QSO:  2.3G PH 2019-06-25 2042 G0HEL/P       59 2 IO81WG          2E0MDS/P      59 4 IO81XW
+QSO:  2.3G PH 2019-06-25 2043 G0HEL/P       59 3 IO81WG          M0UGA/P       54 4 IO91GI
+QSO:  2.3G PH 2019-06-25 2047 G0HEL/P       59 4 IO81WG          G4LDR         59 2 IO91EC
+END-OF-LOG:

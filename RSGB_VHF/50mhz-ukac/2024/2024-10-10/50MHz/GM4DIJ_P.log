@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM4DIJ/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO74MU
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=241010&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3336; excluded rows=367.
+SOAPBOX: WARNING: 40 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (40).
+QSO:    50 PH 2024-10-10 2014 GM4DIJ/P      59 28 IO74MU         GM3WOJ        59A 59 IO77WS
+QSO:    50 PH 2024-10-10 2015 GM4DIJ/P      55 29 IO74MU         G0CNN/P       55 35 IO94AI
+QSO:    50 PH 2024-10-10 2032 GM4DIJ/P      55 34 IO74MU         G4CLA         55 65 IO92JL
+QSO:    50 PH 2024-10-10 2120 GM4DIJ/P      59 44 IO74MU         G8REQ         55 35 IO83KI
+QSO:    50 PH 2024-10-10 2122 GM4DIJ/P      54 45 IO74MU         M0WBG         53 15 IO83KJ
+END-OF-LOG:

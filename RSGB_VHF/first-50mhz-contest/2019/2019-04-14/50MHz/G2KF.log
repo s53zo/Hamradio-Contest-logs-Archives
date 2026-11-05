@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-50MHZ-CONTEST
+CALLSIGN: G2KF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO70NI
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+50MHz+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1125; excluded rows=0.
+QSO:    50 PH 2019-04-14 0902 G2KF          57 1 IO70NI PL       M1AWX         55 1 IO70LJ TR
+QSO:    50 PH 2019-04-14 0909 G2KF          51 2 IO70NI PL       M0BHG         55 1 IO70VJ PL
+QSO:    50 PH 2019-04-14 0913 G2KF          59 3 IO70NI PL       G4CDY         59 1 IO70JA TR
+QSO:    50 PH 2019-04-14 0945 G2KF          59 4 IO70NI PL       G8GRS/P       59 12 IO81QJ BS
+QSO:    50 PH 2019-04-14 0948 G2KF          59 5 IO70NI PL       M0ZCP         57 1 IO80AK PL
+QSO:    50 PH 2019-04-14 0955 G2KF          55 6 IO70NI PL       G4EZV         52 3 IO80FK TQ
+QSO:    50 PH 2019-04-14 1028 G2KF          59 7 IO70NI PL       G8DOH         57 53 IO92FA OX
+QSO:    50 PH 2019-04-14 1034 G2KF          59 8 IO70NI PL       G0LGS/P       59 25 IO81XV GL
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4PDF
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93VH
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170606&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=305; excluded rows=0.
+QSO:   144 FM 2017-06-06 1801 G4PDF         59 1 IO93VH          G8HQW/P       59 2 IO94JF
+QSO:   144 FM 2017-06-06 1808 G4PDF         59 2 IO93VH          M6KNS/P       59 2 IO93SO
+QSO:   144 FM 2017-06-06 1809 G4PDF         55 3 IO93VH          2E1SKY        57 1 IO93KH
+QSO:   144 FM 2017-06-06 1811 G4PDF         59 4 IO93VH          G7FAR/A       59 1 IO93RE
+QSO:   144 FM 2017-06-06 1812 G4PDF         55 5 IO93VH          2E0GBD        59 1 IO93QN
+QSO:   144 FM 2017-06-06 1813 G4PDF         54 6 IO93VH          M0HQC         59 1 IO92PR
+QSO:   144 FM 2017-06-06 1818 G4PDF         59 7 IO93VH          G0JRB         59 2 IO93QN
+QSO:   144 FM 2017-06-06 1819 G4PDF         59 8 IO93VH          M0KBH         59 2 IO93QN
+QSO:   144 FM 2017-06-06 1828 G4PDF         57 9 IO93VH          G4DBN         55 4 IO93NR
+QSO:   144 FM 2017-06-06 1829 G4PDF         59 10 IO93VH         M0PXS         56 3 IO93TP
+END-OF-LOG:

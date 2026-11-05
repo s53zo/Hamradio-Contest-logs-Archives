@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3YLA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO02MP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220201&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12850; excluded rows=11.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   144 PH 2022-02-01 2125 G3YLA         59 1 JO02MP          G4CLA         59 186 IO92JL
+QSO:   144 PH 2022-02-01 2126 G3YLA         59 2 JO02MP          G4PFZ         59 20 JO02PP
+QSO:   144 PH 2022-02-01 2130 G3YLA         58 4 JO02MP          M1MHZ         57 51 IO92WV
+QSO:   144 PH 2022-02-01 2131 G3YLA         55 5 JO02MP          G8PNN/P       55 75 IO95AF
+QSO:   144 PH 2022-02-01 2133 G3YLA         59 6 JO02MP          G4DYC         59 7 JO02MP
+QSO:   144 PH 2022-02-01 2140 G3YLA         55 7 JO02MP          GM3SEK        54 109 IO74SR
+QSO:   144 PH 2022-02-01 2145 G3YLA         54 8 JO02MP          2W0JYN        53 26 IO83LA
+QSO:   144 PH 2022-02-01 2148 G3YLA         58 9 JO02MP          G0CNN/P       54 84 IO94AI
+QSO:   144 PH 2022-02-01 2158 G3YLA         56 10 JO02MP         M5MC/P        59 58 JO02QI
+QSO:   144 PH 2022-02-01 2204 G3YLA         55 11 JO02MP         GD8EXI        53 145 IO74PC
+QSO:   144 PH 2022-02-01 2220 G3YLA         55 12 JO02MP         GD0AMD/P      55 116 IO74QD
+QSO:   144 PH 2022-02-01 2226 G3YLA         59 13 JO02MP         G0AJJ         59 24 JO02QT
+END-OF-LOG:

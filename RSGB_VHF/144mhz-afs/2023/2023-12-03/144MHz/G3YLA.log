@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G3YLA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02MP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5334; excluded rows=4.
+QSO:   144 PH 2023-12-03 1011 G3YLA         59 1 JO02MP          G4PFZ         59 5 JO02PP
+QSO:   144 PH 2023-12-03 1012 G3YLA         59 2 JO02MP          G3PXT         59 4 JO02PP
+QSO:   144 PH 2023-12-03 1014 G3YLA         59 3 JO02MP          M1MHZ         59 12 IO92WV
+QSO:   144 PH 2023-12-03 1016 G3YLA         57 4 JO02MP          G4BWP         55 18 JO02FH
+QSO:   144 PH 2023-12-03 1018 G3YLA         57 5 JO02MP          G4ODA         55 26 IO92WS
+QSO:   144 PH 2023-12-03 1037 G3YLA         54 6 JO02MP          GD8EXI        55 30 IO74PC
+QSO:   144 PH 2023-12-03 1046 G3YLA         53 7 JO02MP          M0HOM         55 17 IO92QO
+QSO:   144 PH 2023-12-03 1217 G3YLA         58 8 JO02MP          G3PYE         57 79 JO02CE
+QSO:   144 PH 2023-12-03 1218 G3YLA         59 9 JO02MP          G4DYC         59 13 JO02MP
+QSO:   144 CW 2023-12-03 1233 G3YLA         599 10 JO02MP        G1SCT         599 49 IO92XT
+QSO:   144 CW 2023-12-03 1235 G3YLA         599 11 JO02MP        G4BEW         599 18 JO02OP
+QSO:   144 PH 2023-12-03 1238 G3YLA         59 12 JO02MP         G3LDI         59 16 JO02ON
+QSO:   144 PH 2023-12-03 1241 G3YLA         59 13 JO02MP         G4LPP         59 61 JO02SS
+QSO:   144 PH 2023-12-03 1243 G3YLA         59 14 JO02MP         M1AFQ         59 4 JO02PP
+QSO:   144 PH 2023-12-03 1359 G3YLA         58 15 JO02MP         G3TBK/P       57 108 IO93RA
+END-OF-LOG:

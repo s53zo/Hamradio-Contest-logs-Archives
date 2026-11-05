@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: M0IMS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81UI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6102; excluded rows=2.
+QSO:   144 PH 2019-12-08 1257 M0IMS         55 1 IO81UI          M0GHZ/P       53 114 IO81UN
+QSO:   144 PH 2019-12-08 1259 M0IMS         59 2 IO81UI          G6ZXN/P       59 60 IO80UU
+QSO:   144 PH 2019-12-08 1303 M0IMS         59 3 IO81UI          G8GRS/A       59 46 IO81RF
+QSO:   144 PH 2019-12-08 1305 M0IMS         57 4 IO81UI          G5PI/P        56 116 IO92XA
+QSO:   144 PH 2019-12-08 1315 M0IMS         57 5 IO81UI          G7RAU         55 98 IN79JX
+QSO:   144 PH 2019-12-08 1324 M0IMS         55 6 IO81UI          M0BAA         55 128 JO01KJ
+QSO:   144 PH 2019-12-08 1330 M0IMS         55 7 IO81UI          G3TBK/P       57 113 IO93RA
+QSO:   144 PH 2019-12-08 1526 M0IMS         59 8 IO81UI          G4JQN         59 25 IO81VG
+QSO:   144 PH 2019-12-08 1531 M0IMS         55 9 IO81UI          G3YPC         54 90 IO91RH
+QSO:   144 PH 2019-12-08 1543 M0IMS         57 10 IO81UI         M5IC/P        57 78 JO01GH
+QSO:   144 PH 2019-12-08 1545 M0IMS         55 11 IO81UI         G0LTG         56 53 IO81RF
+QSO:   144 PH 2019-12-08 1555 M0IMS         57 12 IO81UI         G5LK          56 127 IO91SG
+END-OF-LOG:

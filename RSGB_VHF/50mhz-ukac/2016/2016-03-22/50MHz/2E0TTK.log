@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: 2E0TTK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO94GA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160322&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8160; excluded rows=9.
+QSO:    50 PH 2016-03-22 2004 2E0TTK        56 1 IO94GA          GW4BVE        44 2 IO82KQ
+QSO:    50 PH 2016-03-22 2008 2E0TTK        54 2 IO94GA          M6KTP/P       55 8 IO93EK
+QSO:    50 PH 2016-03-22 2041 2E0TTK        34 3 IO94GA          M1DDD/P       52 57 IO93CH
+QSO:    50 PH 2016-03-22 2058 2E0TTK        53 4 IO94GA          G3TBK/P       55 85 IO93RA
+QSO:    50 PH 2016-03-22 2106 2E0TTK        43 5 IO94GA          G4LKD         54 34 IO93OQ
+END-OF-LOG:

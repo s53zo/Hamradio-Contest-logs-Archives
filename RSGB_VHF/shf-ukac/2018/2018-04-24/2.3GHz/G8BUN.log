@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G8BUN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO93EQ
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=180424&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=361; excluded rows=0.
+QSO:  2.3G PH 2018-04-24 2003 G8BUN         59 1 IO93EQ          M0MDY         59 5 IO93HH
+QSO:  2.3G PH 2018-04-24 2017 G8BUN         59 2 IO93EQ          G8EOP         59 1 IO93EQ
+QSO:  2.3G PH 2018-04-24 2043 G8BUN         41 3 IO93EQ          G3SQQ         52 7 IO93JC
+QSO:  2.3G PH 2018-04-24 2110 G8BUN         59 4 IO93EQ          G8DMU/P       58 17 IO94CB
+QSO:  2.3G PH 2018-04-24 2129 G8BUN         52 5 IO93EQ          G4CLA         55 26 IO92JL
+END-OF-LOG:

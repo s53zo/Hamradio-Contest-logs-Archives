@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G8ZRE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83NE
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210406&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1304; excluded rows=0.
+QSO:   144 FM 2021-04-06 1801 G8ZRE         59 1 IO83NE          GW3ATZ        59 2 IO83LE
+QSO:   144 FM 2021-04-06 1802 G8ZRE         59 2 IO83NE          GW8ASD        59 3 IO83LB
+QSO:   144 FM 2021-04-06 1804 G8ZRE         59 3 IO83NE          GW4OKT        59 1 IO83LE
+QSO:   144 FM 2021-04-06 1804 G8ZRE         59 4 IO83NE          G0XBU         59 3 IO83UF
+QSO:   144 FM 2021-04-06 1805 G8ZRE         59 5 IO83NE          2W0JYN        59 1 IO83LA
+QSO:   144 FM 2021-04-06 1815 G8ZRE         59 6 IO83NE          M1EYP/P       59 5 IO83WE
+QSO:   144 FM 2021-04-06 1820 G8ZRE         52 7 IO83NE          G7WKX         52 4 IO83NI
+QSO:   144 FM 2021-04-06 1827 G8ZRE         52 8 IO83NE          M1DDD/P       52 24 IO93DH
+QSO:   144 FM 2021-04-06 1833 G8ZRE         59 9 IO83NE          GW4ZAR        59 14 IO83KF
+QSO:   144 FM 2021-04-06 1836 G8ZRE         56 10 IO83NE         GW4SHF        54 5 IO82HP
+QSO:   144 FM 2021-04-06 1837 G8ZRE         55 11 IO83NE         G0UXC         55 9 IO83OJ
+QSO:   144 FM 2021-04-06 1842 G8ZRE         59 12 IO83NE         G0NAJ         59 12 IO83XL
+END-OF-LOG:

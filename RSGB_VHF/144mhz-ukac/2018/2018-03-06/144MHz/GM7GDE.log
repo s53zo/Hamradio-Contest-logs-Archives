@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM7GDE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75VS
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180306&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10864; excluded rows=3.
+QSO:   144 PH 2018-03-06 2003 GM7GDE        55 1 IO75VS          GM4PPT        57 1 IO75SK
+QSO:   144 PH 2018-03-06 2008 GM7GDE        59 2 IO75VS          GM7OIN        59 2 IO75QK
+QSO:   144 PH 2018-03-06 2012 GM7GDE        59 3 IO75VS          MM0GPZ        59 2 IO75WS
+QSO:   144 PH 2018-03-06 2021 GM7GDE        59 4 IO75VS          GM4NFC        59 7 IO75RI
+QSO:   144 PH 2018-03-06 2047 GM7GDE        55 5 IO75VS          GM4GUF        54 5 IO85EP
+END-OF-LOG:

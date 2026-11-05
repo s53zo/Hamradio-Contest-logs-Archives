@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: F4HOG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: JN09OJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=220920&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3269; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:  1.2G PH 2022-09-20 1705 F4HOG         59 2 JN09OJ          F1BHL/P       59 1 IN99QI
+QSO:  1.2G PH 2022-09-20 1710 F4HOG         59 3 JN09OJ          F1MKG         59 1 JN08KQ
+QSO:  1.2G PH 2022-09-20 1739 F4HOG         59 4 JN09OJ          F4CHA         59 2 JN08GS
+QSO:  1.2G PH 2022-09-20 1750 F4HOG         54 5 JN09OJ          F5RZC         54 2 JO10AR
+QSO:  1.2G PH 2022-09-20 1900 F4HOG         59 6 JN09OJ          F6APE         59 2 IN97PI
+QSO:  1.2G PH 2022-09-20 1923 F4HOG         59 7 JN09OJ          G3MEH         59 17 IO91QS
+QSO:  1.2G PH 2022-09-20 1934 F4HOG         53 8 JN09OJ          M0ABT/P       53 12 JO00DR
+QSO:  1.2G PH 2022-09-20 1937 F4HOG         57 9 JN09OJ          G7LRQ         57 13 IO91TQ
+QSO:  1.2G PH 2022-09-20 1952 F4HOG         51 10 JN09OJ         G3TCT         51 11 IO81QC
+QSO:  1.2G PH 2022-09-20 1956 F4HOG         55 11 JN09OJ         G32XDY        55 18 JO02OB
+QSO:  1.2G PH 2022-09-20 2020 F4HOG         55 12 JN09OJ         F4HRD         55 6 JO00XX
+QSO:  1.2G PH 2022-09-20 2110 F4HOG         52 13 JN09OJ         G4HWA         52 66 IO92ME
+QSO:  1.2G PH 2022-09-20 2114 F4HOG         59 14 JN09OJ         G4ASR         59 61 IO91MX
+END-OF-LOG:

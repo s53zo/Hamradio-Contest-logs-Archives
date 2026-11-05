@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: M9VGP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=251112&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=614; excluded rows=0.
+QSO:   432 FT8 2025-11-12 1906 M9VGP         -21 IO91             G0RAS         -12 IO91
+QSO:   432 FT8 2025-11-12 1924 M9VGP         -14 IO91             EI8KN         -20 IO62
+QSO:   432 FT8 2025-11-12 1932 M9VGP         -13 IO91             G0JJG         -20 JO02
+QSO:   432 FT8 2025-11-12 1941 M9VGP         -09 IO91             G7LRQ         -16 JO03
+QSO:   432 FT8 2025-11-12 1944 M9VGP         -03 IO91             G0FEH         -07 IO92
+QSO:   432 FT8 2025-11-12 1952 M9VGP         -09 IO91             G4ZTR         -24 JO01
+QSO:   432 FT8 2025-11-12 2004 M9VGP         -07 IO91             2E0MRK        -24 IO91
+QSO:   432 FT8 2025-11-12 2016 M9VGP         -02 IO91             G4CSD         +05 IO91
+QSO:   432 FT8 2025-11-12 2048 M9VGP         +13 IO91             G4BRK         +10 IO91
+QSO:   432 FT8 2025-11-12 2057 M9VGP         -05 IO91             G3YDY         -13 JO01
+END-OF-LOG:

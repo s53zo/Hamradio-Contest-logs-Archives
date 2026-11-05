@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: M7LHE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92UX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=251218&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1528; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:    70 PH 2025-12-18 2011 M7LHE         59 2 IO92UX          G4ODA         59 6 IO92WS
+QSO:    70 PH 2025-12-18 2019 M7LHE         59 3 IO92UX          G4FZN/P       58 22 IO94JF
+QSO:    70 PH 2025-12-18 2032 M7LHE         59 4 IO92UX          G0FEH/P       59 19 IO93FF
+QSO:    70 PH 2025-12-18 2042 M7LHE         59 5 IO92UX          MW0LKX/P      59 32 IO82KL
+QSO:    70 PH 2025-12-18 2154 M7LHE         59 6 IO92UX          G4CLA         55 69 IO92JL
+QSO:    70 PH 2025-12-18 2218 M7LHE         59 7 IO92UX          G3SQQ         59 31 IO93JC
+QSO:    70 PH 2025-12-18 2225 M7LHE         59 8 IO92UX          G0EAK/P       59 28 IO93NI
+QSO:    70 PH 2025-12-18 2227 M7LHE         59 9 IO92UX          G8MMP         52 12 IO93KB
+END-OF-LOG:

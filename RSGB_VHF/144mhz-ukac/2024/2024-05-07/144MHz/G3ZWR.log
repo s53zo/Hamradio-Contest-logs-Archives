@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3ZWR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO94FX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=240507&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10947; excluded rows=5.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2024-05-07 1916 G3ZWR         53 1 IO94FX          M0AIA/P       53 13 IO93DO
+QSO:   144 PH 2024-05-07 1920 G3ZWR         59 2 IO94FX          G4ITR/P       59 7 IO95DB
+QSO:   144 PH 2024-05-07 1923 G3ZWR         57 3 IO94FX          MW0LKX/P      57 24 IO82KL
+QSO:   144 PH 2024-05-07 1936 G3ZWR         57 5 IO94FX          G4HWA         57 32 IO92ME
+QSO:   144 PH 2024-05-07 1945 G3ZWR         59 6 IO94FX          G8PNN/P       59 22 IO95AF
+QSO:   144 PH 2024-05-07 1953 G3ZWR         55 7 IO94FX          GM4JTJ        55 45 IO86RP
+QSO:   144 PH 2024-05-07 1958 G3ZWR         59 8 IO94FX          G8KPD/P       59 26 IO85XF
+QSO:   144 PH 2024-05-07 2021 G3ZWR         59 9 IO94FX          G4CLA         59 144 IO92JL
+QSO:   144 PH 2024-05-07 2029 G3ZWR         55 10 IO94FX         G8SEI         55 82 IO92FO
+QSO:   144 PH 2024-05-07 2039 G3ZWR         57 11 IO94FX         GM4BYF        57 39 IO85JV
+QSO:   144 PH 2024-05-07 2102 G3ZWR         57 12 IO94FX         G3TBK/P       57 116 IO93RA
+END-OF-LOG:

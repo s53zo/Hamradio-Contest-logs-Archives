@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-LOW-POWER
+CALLSIGN: G0BWG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93GK
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+Low+Power&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1297; excluded rows=0.
+QSO:   432 PH 2019-08-04 0808 G0BWG         59 1 IO93GK SD       M0GAV/P       59 7 IO93EH SD
+QSO:   432 PH 2019-08-04 0811 G0BWG         59 2 IO93GK SD       G5TO/P        59 7 IO93FL SD
+QSO:   432 PH 2019-08-04 0926 G0BWG         59 3 IO93GK SD       G3YJR         57 17 IO93FJ SD
+QSO:   432 PH 2019-08-04 1038 G0BWG         59 4 IO93GK SD       G8EQD/P       59 10 IO93FL SD
+END-OF-LOG:

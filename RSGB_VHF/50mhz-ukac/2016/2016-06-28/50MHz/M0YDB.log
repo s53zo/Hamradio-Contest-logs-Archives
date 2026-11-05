@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0YDB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93LL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160628&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6312; excluded rows=5.
+QSO:    50 PH 2016-06-28 1901 M0YDB         59 1 IO93LL          G0EAK/P       59 2 IO93NI
+QSO:    50 PH 2016-06-28 1902 M0YDB         59 2 IO93LL          2E0RET/P      59 1 IO93FE
+QSO:    50 PH 2016-06-28 1905 M0YDB         58 3 IO93LL          M5DWI/P       58 6 IO93JJ
+QSO:    50 PH 2016-06-28 1906 M0YDB         57 4 IO93LL          2E0DXK/P      57 6 IO93FG
+QSO:    50 PH 2016-06-28 1923 M0YDB         57 5 IO93LL          G3TBK/P       57 31 IO93RA
+QSO:    50 PH 2016-06-28 1923 M0YDB         59 6 IO93LL          G0BFJ/P       59 17 IO93DO
+QSO:    50 PH 2016-06-28 1930 M0YDB         59 7 IO93LL          G8AJM/P       59 20 IO93UL
+QSO:    50 PH 2016-06-28 1931 M0YDB         57 8 IO93LL          M0MDY         57 27 IO93HH
+QSO:    50 PH 2016-06-28 1948 M0YDB         59 9 IO93LL          G3RCW         59 23 IO93KH
+QSO:    50 PH 2016-06-28 1958 M0YDB         57 10 IO93LL         G8EQD/P       57 24 IO93FL
+QSO:    50 PH 2016-06-28 2001 M0YDB         59 11 IO93LL         G0BWB         59 17 IO93CO
+QSO:    50 PH 2016-06-28 2005 M0YDB         55 12 IO93LL         M1DDD/P       55 74 IO93DH
+QSO:    50 PH 2016-06-28 2007 M0YDB         59 13 IO93LL         M0MCT/P       59 16 IO93JK
+QSO:    50 PH 2016-06-28 2014 M0YDB         59 14 IO93LL         G3VCA         59 31 IO93MG
+QSO:    50 PH 2016-06-28 2020 M0YDB         58 15 IO93LL         G8EOP         58 14 IO93EQ
+END-OF-LOG:

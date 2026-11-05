@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4LBH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO90AS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=160614&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6208; excluded rows=3.
+QSO:   432 PH 2016-06-14 1901 G4LBH         55 1 IO90AS          M1MHZ         57 2 IO92WV
+QSO:   432 PH 2016-06-14 1902 G4LBH         56 2 IO90AS          G6DOD/P       56 2 IO90JO
+QSO:   432 PH 2016-06-14 1904 G4LBH         59 3 IO90AS          G0PEB/P       59 4 IO90JO
+QSO:   432 PH 2016-06-14 1905 G4LBH         59 4 IO90AS          G4CZP/P       59 5 IO90JO
+QSO:   432 PH 2016-06-14 1915 G4LBH         58 5 IO90AS          G4LDR         59 1 IO91EC
+QSO:   432 PH 2016-06-14 1919 G4LBH         59 6 IO90AS          M0BAO/P       55 5 IO80LV
+QSO:   432 PH 2016-06-14 1920 G4LBH         56 7 IO90AS          GW3TKH        55 5 IO81JN
+QSO:   432 PH 2016-06-14 1922 G4LBH         57 8 IO90AS          M0IMS         55 6 IO81UI
+QSO:   432 PH 2016-06-14 1930 G4LBH         59 9 IO90AS          G3WCB/P       59 12 IO80EJ
+QSO:   432 PH 2016-06-14 1935 G4LBH         59 10 IO90AS         G6MCX/P       57 16 IO91HB
+QSO:   432 PH 2016-06-14 1938 G4LBH         58 11 IO90AS         G4GTH         59 1 IO90BV
+END-OF-LOG:

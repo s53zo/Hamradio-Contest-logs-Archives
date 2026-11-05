@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G5IIA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92MG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250313&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3811; excluded rows=5.
+QSO:    50 PH 2025-03-13 2159 G5IIA         51 1 IO92MG          G7LII/P       53 50 IO92KF
+QSO:    50 PH 2025-03-13 2202 G5IIA         59 2 IO92MG          G4HWA         59 53 IO92ME
+QSO:    50 PH 2025-03-13 2205 G5IIA         59 3 IO92MG          G4CLA         59 100 IO92JL
+QSO:    50 PH 2025-03-13 2209 G5IIA         59 4 IO92MG          G6HPR/P       59 50 IO92MO
+QSO:    50 PH 2025-03-13 2212 G5IIA         55 5 IO92MG          G4FEV         55 33 IO92RG
+QSO:    50 PH 2025-03-13 2220 G5IIA         52 6 IO92MG          G4ODA         55 57 IO92WL
+QSO:    50 PH 2025-03-13 2227 G5IIA         51 7 IO92MG          G8SEI         59 46 IO92FO
+END-OF-LOG:

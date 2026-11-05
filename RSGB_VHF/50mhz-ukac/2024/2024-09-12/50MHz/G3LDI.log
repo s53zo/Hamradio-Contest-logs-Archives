@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3LDI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02ON
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=240912&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3216; excluded rows=124.
+SOAPBOX: WARNING: 8 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (8).
+QSO:    50 CW 2024-09-12 1904 G3LDI         599 2 JO02ON         G4LPP         599 2 JO02SS
+QSO:    50 CW 2024-09-12 1909 G3LDI         599 5 JO02ON         G4PFZ         599 2 JO02PP
+QSO:    50 CW 2024-09-12 1910 G3LDI         599 6 JO02ON         G8VPE         599 2 JO02TP
+QSO:    50 CW 2024-09-12 1911 G3LDI         599 7 JO02ON         M1AFQ         599 1 JO02PP
+QSO:    50 CW 2024-09-12 1919 G3LDI         599 11 JO02ON        G3YLA         599 6 JO02MP
+QSO:    50 PH 2024-09-12 1947 G3LDI         55 14 JO02ON         G4YPC         52 18 IO91RH
+QSO:    50 PH 2024-09-12 1949 G3LDI         59 15 JO02ON         M0NKR         59 2 JO02HK
+QSO:    50 PH 2024-09-12 2002 G3LDI         59 16 JO02ON         G4KQY         59 11 JO02OP
+QSO:    50 PH 2024-09-12 2006 G3LDI         59 17 JO02ON         F4HRD         59 17 JO00XX
+QSO:    50 PH 2024-09-12 2009 G3LDI         59 18 JO02ON         M0RDX         59 38 IO83WB
+QSO:    50 PH 2024-09-12 2017 G3LDI         55 19 JO02ON         GI4SNA        51 59 IO64XM
+QSO:    50 PH 2024-09-12 2025 G3LDI         55 20 JO02ON         G0FEH/P       57 29 IO92HD
+QSO:    50 PH 2024-09-12 2029 G3LDI         59 21 JO02ON         G4CLA         59 84 IO92JL
+QSO:    50 PH 2024-09-12 2033 G3LDI         59 22 JO02ON         GW1YBB/P      59 81 IO81KW
+QSO:    50 PH 2024-09-12 2040 G3LDI         55 23 JO02ON         GW6UAJ/P      55 52 IO81KR
+END-OF-LOG:

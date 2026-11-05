@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G3UQW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO90ES
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=250909&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5591; excluded rows=3.
+QSO:   432 PH 2025-09-09 2037 G3UQW         57 1 IO90ES          G8IQL/P       57 57 IO90LX
+QSO:   432 PH 2025-09-09 2044 G3UQW         59 2 IO90ES          G4CLA         59 135 IO92JL
+QSO:   432 PH 2025-09-09 2120 G3UQW         59 3 IO90ES          G4ODA         59 109 IO92WS
+QSO:   432 PH 2025-09-09 2123 G3UQW         53 4 IO90ES          G3WGN         59 29 IO80HJ
+QSO:   432 PH 2025-09-09 2129 G3UQW         55 5 IO90ES          M5JFS/P       55 65 IO90KU
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM4PPT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO75SK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160126&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5089; excluded rows=69.
+QSO:    50 PH 2016-01-26 2022 GM4PPT        55 1 IO75SK          GW4WND        55 1 IO84KM
+QSO:    50 CW 2016-01-26 2030 GM4PPT        529 2 IO75SK         GM3PPE        439 1 IO85SP
+QSO:    50 PH 2016-01-26 2043 GM4PPT        59 3 IO75SK          GM4JR         59 6 IO85FB
+QSO:    50 PH 2016-01-26 2054 GM4PPT        54 4 IO75SK          G3VCA         55 42 IO93MG
+QSO:    50 PH 2016-01-26 2102 GM4PPT        54 5 IO75SK          G0WTD         53 21 IO83QP
+QSO:    50 PH 2016-01-26 2117 GM4PPT        54 6 IO75SK          M1MHZ         54 79 IO92WV
+QSO:    50 CW 2016-01-26 2126 GM4PPT        559 7 IO75SK         GM4DIJ        559 4 IO85IW
+QSO:    50 PH 2016-01-26 2130 GM4PPT        59 8 IO75SK          GI4SNA        51 55 IO64XM
+QSO:    50 PH 2016-01-26 2132 GM4PPT        54 9 IO75SK          GM3SEK        54 3 IO74SR
+QSO:    50 PH 2016-01-26 2205 GM4PPT        55 10 IO75SK         G3TBK/P       55 91 IO83RA
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G4OED
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91CN
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=210608&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=810; excluded rows=2.
+QSO:   432 FM 2021-06-08 1803 G4OED         59 1 IO91CN          M0KYB         59 5 IO91BN
+QSO:   432 FM 2021-06-08 1819 G4OED         59 2 IO91CN          M0ZGB         59 6 IO91CM
+QSO:   432 FM 2021-06-08 1825 G4OED         59 3 IO91CN          2E0WHQ        59 9 IO91DM
+QSO:   432 FM 2021-06-08 1826 G4OED         59 4 IO91CN          G4LDL/P       59 9 IO91DM
+QSO:   432 FM 2021-06-08 1832 G4OED         59 6 IO91CN          M0VXX/P       55 36 IO82QL
+QSO:   432 FM 2021-06-08 1836 G4OED         59 7 IO91CN          G0LGS/P       57 18 IO81WU
+END-OF-LOG:

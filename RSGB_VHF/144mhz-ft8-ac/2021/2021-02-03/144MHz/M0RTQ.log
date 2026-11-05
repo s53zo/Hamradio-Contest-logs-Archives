@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M0RTQ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1920 M0RTQ         -14 IO93             G0LGS         -18 IO81
+QSO:   144 FT8 2021-02-03 1926 M0RTQ         -03 IO93             G8NRY         -03 IO93
+QSO:   144 FT8 2021-02-03 1931 M0RTQ         -08 IO93             G4HZG         -16 IO93
+QSO:   144 FT8 2021-02-03 1936 M0RTQ         -09 IO93             G4PLZ         -02 JO02
+QSO:   144 FT8 2021-02-03 1944 M0RTQ         -04 IO93             M0KKM         -16 JO02
+QSO:   144 FT8 2021-02-03 1952 M0RTQ         +13 IO93             G4PDF         +01 IO93
+QSO:   144 FT8 2021-02-03 1956 M0RTQ         +06 IO93             ON4QJ         -08 JO20
+QSO:   144 FT8 2021-02-03 1957 M0RTQ         +02 IO93             PA2RO         -18 JO22
+QSO:   144 FT8 2021-02-03 1958 M0RTQ         -04 IO93             DL6YBF        -11 JO31
+QSO:   144 FT8 2021-02-03 2003 M0RTQ         +02 IO93             PA7PYR        -19 JO21
+QSO:   144 FT8 2021-02-03 2011 M0RTQ         -07 IO93             G3YDY         -21 JO01
+QSO:   144 FT8 2021-02-03 2020 M0RTQ         +08 IO93             G8EEM         -02 IO93
+QSO:   144 FT8 2021-02-03 2028 M0RTQ         +04 IO93             G4NBS         -14 JO02
+QSO:   144 FT8 2021-02-03 2039 M0RTQ         -14 IO93             G4DPZ         -14 IO82
+QSO:   144 FT8 2021-02-03 2043 M0RTQ         -09 IO93             M7SPS         -18 IO92
+QSO:   144 FT8 2021-02-03 2055 M0RTQ         -14 IO93             M0NPT         -16 IO92
+QSO:   144 FT8 2021-02-03 2059 M0RTQ         -09 IO93             GW6TEO        -08 IO71
+QSO:   144 FT8 2021-02-03 1947 M0RTQ         +00 IO93             PD0NUD        -10 JO21
+END-OF-LOG:

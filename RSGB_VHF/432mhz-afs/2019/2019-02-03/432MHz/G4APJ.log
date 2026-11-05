@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4APJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83UP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4093; excluded rows=1.
+QSO:   432 PH 2019-02-03 1053 G4APJ         59 1 IO83UP          G4ERO         59 61 JO02DJ
+QSO:   432 PH 2019-02-03 1056 G4APJ         58 2 IO83UP          G3SQQ         57 49 IO93JC
+QSO:   432 PH 2019-02-03 1101 G4APJ         57 3 IO83UP          G8NEY         59 61 IO81VK
+QSO:   432 PH 2019-02-03 1119 G4APJ         57 4 IO83UP          G8CUL         59 64 IO91JO
+QSO:   432 PH 2019-02-03 1122 G4APJ         56 5 IO83UP          G8DOH         58 80 IO92FA
+END-OF-LOG:

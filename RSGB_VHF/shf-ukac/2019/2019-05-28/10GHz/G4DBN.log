@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4DBN
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO93NR
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=190528&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=153; excluded rows=1.
+QSO:   10G PH 2019-05-28 1853 G4DBN         59 1 IO93NR          M1CJN/P       59 4 IO93OX
+QSO:   10G PH 2019-05-28 1859 G4DBN         59 2 IO93NR          G8DMU/P       59 4 IO94CB
+QSO:   10G PH 2019-05-28 1908 G4DBN         55 3 IO93NR          G4ZTR         56 4 JO01KW
+QSO:   10G PH 2019-05-28 1924 G4DBN         56 4 IO93NR          G3YJR         57 5 IO93FJ
+QSO:   10G CW 2019-05-28 1926 G4DBN         569 5 IO93NR         G3UVR         569 10 IO83KH
+QSO:   10G CW 2019-05-28 1946 G4DBN         559 6 IO93NR         G3PHO         559 6 IO93GG
+QSO:   10G PH 2019-05-28 1948 G4DBN         56 7 IO93NR          G4RQI         57 8 IO93IR
+QSO:   10G CW 2019-05-28 2008 G4DBN         599 8 IO93NR         G3XDY         599 9 JO02OB
+QSO:   10G CW 2019-05-28 2020 G4DBN         559 9 IO93NR         G4CLA         559 13 IO92JL
+QSO:   10G PH 2019-05-28 2107 G4DBN         59 10 IO93NR         G4KUX         59 1 IO94BP
+END-OF-LOG:

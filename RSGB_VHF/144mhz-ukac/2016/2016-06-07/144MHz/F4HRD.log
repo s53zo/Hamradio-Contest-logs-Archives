@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: F4HRD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO00XX
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160607&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11226; excluded rows=6.
+QSO:   144 PH 2016-06-07 1907 F4HRD         55 1 JO00XX          M0GGO         51 1 JO01PD
+QSO:   144 PH 2016-06-07 1919 F4HRD         51 2 JO00XX          G4IRC         55 16 JO02OD
+QSO:   144 PH 2016-06-07 1926 F4HRD         55 3 JO00XX          G4DBW         57 12 JO01NI
+QSO:   144 PH 2016-06-07 1938 F4HRD         55 4 JO00XX          G0JJG         59 13 JO02LE
+QSO:   144 PH 2016-06-07 1944 F4HRD         55 5 JO00XX          G8HGN         57 21 JO01FO
+QSO:   144 PH 2016-06-07 1954 F4HRD         55 6 JO00XX          G0GQT         57 39 JO01GJ
+END-OF-LOG:

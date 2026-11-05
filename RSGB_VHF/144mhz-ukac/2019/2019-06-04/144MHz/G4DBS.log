@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4DBS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93SE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190604&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11058; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   144 PH 2019-06-04 1917 G4DBS         59 1 IO93SE          G0FRX         59 13 IO93OQ
+QSO:   144 PH 2019-06-04 1917 G4DBS         59 2 IO93SE          M0ZMF/P       59 19 IO93NJ
+QSO:   144 PH 2019-06-04 1923 G4DBS         59 3 IO93SE          2E0VPX        59 9 IO92UX
+QSO:   144 PH 2019-06-04 1935 G4DBS         58 4 IO93SE          M6OYU/P       55 2 JO03AI
+QSO:   144 PH 2019-06-04 1938 G4DBS         59 5 IO93SE          G0EAK/P       59 29 IO93NI
+QSO:   144 PH 2019-06-04 1940 G4DBS         59 6 IO93SE          G3TBK/P       59 87 IO93RA
+QSO:   144 PH 2019-06-04 1953 G4DBS         57 7 IO93SE          2E0DXK/P      55 33 IO93FG
+QSO:   144 PH 2019-06-04 1959 G4DBS         59 8 IO93SE          G4FZN/P       59 83 IO94JF
+QSO:   144 PH 2019-06-04 2006 G4DBS         59 9 IO93SE          G4VZV         59 43 IO93IK
+QSO:   144 PH 2019-06-04 2019 G4DBS         59 10 IO93SE         G4AFF/A       59 70 JO02FE
+QSO:   144 PH 2019-06-04 2035 G4DBS         55 11 IO93SE         G8YMW/P       55 23 IO93MM
+QSO:   144 PH 2019-06-04 2044 G4DBS         59 12 IO93SE         G3VCA         59 49 IO93MG
+END-OF-LOG:

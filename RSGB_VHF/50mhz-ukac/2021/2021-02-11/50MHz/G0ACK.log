@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0ACK
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91TN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2115 G0ACK         59 1 IO91TN          G4LHT         59 20 IO91SO
+QSO:    50 PH 2021-02-11 2124 G0ACK         57 2 IO91TN          G3ZNU         53 43 IO91PQ
+QSO:    50 PH 2021-02-11 2127 G0ACK         59 3 IO91TN          M0BB          59 68 IO91PK
+QSO:    50 PH 2021-02-11 2138 G0ACK         59 4 IO91TN          M0ICR         59 21 IO91SO
+QSO:    50 PH 2021-02-11 2140 G0ACK         57 5 IO91TN          M0NVS         57 18 IO91SR
+QSO:    50 PH 2021-02-11 2141 G0ACK         59 6 IO91TN          G8FKH         59 9 IO91SN
+QSO:    50 PH 2021-02-11 2146 G0ACK         59 7 IO91TN          G8GYX         59 66 IO91VH
+QSO:    50 PH 2021-02-11 2148 G0ACK         55 8 IO91TN          G0SKA         52 56 IO91OQ
+QSO:    50 PH 2021-02-11 2152 G0ACK         58 9 IO91TN          G1DFL         57 47 IO91NL
+QSO:    50 CW 2021-02-11 2206 G0ACK         579 10 IO91TN        G4YPC         559 24 IO91RH
+QSO:    50 PH 2021-02-11 2211 G0ACK         55 11 IO91TN         G0GJV         52 36 IO91OK
+END-OF-LOG:

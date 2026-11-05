@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G1YBB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO82PA
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210112&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8205; excluded rows=3.
+QSO:   432 PH 2021-01-12 2000 G1YBB         59 1 IO82PA          G3WAG         59 1 IO82PB
+QSO:   432 PH 2021-01-12 2002 G1YBB         59 2 IO82PA          M0JLA         59 2 IO82PB
+QSO:   432 PH 2021-01-12 2003 G1YBB         59 3 IO82PA          G3WRA         59 2 IO82PB
+QSO:   432 PH 2021-01-12 2004 G1YBB         59 4 IO82PA          G4BJD         59 3 IO82PB
+QSO:   432 PH 2021-01-12 2013 G1YBB         59 5 IO82PA          G0JCC         59 25 IO82MA
+QSO:   432 PH 2021-01-12 2018 G1YBB         59 6 IO82PA          M0BUL         59 15 IO82NG
+QSO:   432 PH 2021-01-12 2032 G1YBB         59 7 IO82PA          G1DRW         59 7 IO82PB
+QSO:   432 PH 2021-01-12 2044 G1YBB         59 8 IO82PA          G4ASR         59 22 IO81MX
+QSO:   432 PH 2021-01-12 2049 G1YBB         54 9 IO82PA          2E0MDJ        54 14 IO81WV
+QSO:   432 PH 2021-01-12 2051 G1YBB         54 10 IO82PA         G0LGS         54 16 IO81WV
+QSO:   432 PH 2021-01-12 2053 G1YBB         52 11 IO82PA         G8XYJ         51 15 IO82PJ
+QSO:   432 PH 2021-01-12 2059 G1YBB         59 12 IO82PA         G4CLA         59 150 IO92JL
+QSO:   432 PH 2021-01-12 2130 G1YBB         52 13 IO82PA         G4ILI         51 31 IO81WV
+END-OF-LOG:

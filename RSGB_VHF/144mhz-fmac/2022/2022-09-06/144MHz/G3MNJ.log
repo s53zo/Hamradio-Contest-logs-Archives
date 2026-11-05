@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G3MNJ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91ER
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=220906&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=847; excluded rows=0.
+QSO:   144 FM 2022-09-06 1802 G3MNJ         59 1 IO91ER          M1DST         55 3 IO91BN
+QSO:   144 FM 2022-09-06 1811 G3MNJ         59 2 IO91ER          M0KYB/P       59 16 IO91FN
+QSO:   144 FM 2022-09-06 1815 G3MNJ         59 3 IO91ER          2E0WHQ/P      59 15 IO91CL
+QSO:   144 FM 2022-09-06 1818 G3MNJ         59 4 IO91ER          G4LDL/P       59 16 IO91DM
+QSO:   144 FM 2022-09-06 1822 G3MNJ         59 5 IO91ER          G4WQG         59 8 IO91BL
+QSO:   144 FM 2022-09-06 1838 G3MNJ         59 6 IO91ER          G0UWS/P       59 24 IO91FN
+QSO:   144 FM 2022-09-06 1854 G3MNJ         55 7 IO91ER          2E0YCC/P      55 24 IO91CL
+END-OF-LOG:

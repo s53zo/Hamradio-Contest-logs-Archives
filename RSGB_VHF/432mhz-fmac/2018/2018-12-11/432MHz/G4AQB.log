@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G4AQB
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83TN
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FMAC&Date=181211&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=172; excluded rows=0.
+QSO:   432 FM 2018-12-11 1910 G4AQB         59 1 IO83TN          2E0SAE        57 1 IO83WN
+QSO:   432 FM 2018-12-11 1912 G4AQB         59 2 IO83TN          2E0IXM/M      58 2 IO83VL
+QSO:   432 FM 2018-12-11 1916 G4AQB         57 3 IO83TN          M0XGS         58 3 IO83RM
+QSO:   432 FM 2018-12-11 1917 G4AQB         59 4 IO83TN          GW8ASD        59 3 IO83LB
+QSO:   432 FM 2018-12-11 1923 G4AQB         59 5 IO83TN          GW3ATZ        59 8 IO83LE
+END-OF-LOG:

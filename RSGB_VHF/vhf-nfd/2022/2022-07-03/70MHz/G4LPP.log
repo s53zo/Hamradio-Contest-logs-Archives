@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4LPP
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: JO02SS
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1622; excluded rows=0.
+QSO:    70 PH 2022-07-03 1253 G4LPP         59 1 JO02SS          G0VHF/P       59 80 JO01PU
+QSO:    70 CW 2022-07-03 1258 G4LPP         529 2 JO02SS         G3PIA/P       539 47 IO91IN
+QSO:    70 PH 2022-07-03 1301 G4LPP         59 3 JO02SS          G2BQY/P       59 69 IO81RF
+QSO:    70 PH 2022-07-03 1303 G4LPP         56 4 JO02SS          G3WKS/P       58 17 JO01ED
+QSO:    70 CW 2022-07-03 1306 G4LPP         599 5 JO02SS         G0FBB/P       599 51 JO01LD
+QSO:    70 PH 2022-07-03 1310 G4LPP         59 6 JO02SS          G0OLE/P       59 50 IO93PX
+QSO:    70 PH 2022-07-03 1317 G4LPP         54 7 JO02SS          G3CKR/P       54 79 IO93AD
+QSO:    70 PH 2022-07-03 1320 G4LPP         55 8 JO02SS          GM3HAM/P      55 52 IO74WV
+QSO:    70 PH 2022-07-03 1322 G4LPP         59 9 JO02SS          EI9E/P        59 68 IO62OM
+QSO:    70 PH 2022-07-03 1324 G4LPP         55 10 JO02SS         G8SRC/P       55 79 IO91CL
+QSO:    70 PH 2022-07-03 1327 G4LPP         55 11 JO02SS         G5LK/P        55 73 JO01QD
+QSO:    70 PH 2022-07-03 1334 G4LPP         55 12 JO02SS         G3PYE/P       55 62 JO02CE
+QSO:    70 PH 2022-07-03 1336 G4LPP         59 13 JO02SS         M5MK/P        59 40 IO92RA
+QSO:    70 PH 2022-07-03 1350 G4LPP         55 14 JO02SS         GM4ZUK/P      55 68 IO86RW
+QSO:    70 PH 2022-07-03 1352 G4LPP         54 15 JO02SS         M0NFD/P       56 54 IO94MJ
+END-OF-LOG:

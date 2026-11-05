@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G3UVR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83KH
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3241; excluded rows=20.
+QSO:    50 PH 2016-07-02 1652 G3UVR         59 1 IO83KH          MW0TWC/P      57 98 IO82JG
+QSO:    50 PH 2016-07-02 1653 G3UVR         59 2 IO83KH          GW3ZTT/P      59 77 IO82KW
+QSO:    50 PH 2016-07-02 1723 G3UVR         59 3 IO83KH          GI4GTY/P      59 49 IO74AI
+QSO:    50 PH 2016-07-02 1730 G3UVR         59 4 IO83KH          EI9E/P        59 93 IO62OM
+QSO:    50 PH 2016-07-02 1750 G3UVR         59 5 IO83KH          G5TO/P        59 56 IO93FL
+QSO:    50 PH 2016-07-02 1752 G3UVR         59 6 IO83KH          G4VFL/P       59 21 IO84IH
+QSO:    50 PH 2016-07-02 1833 G3UVR         59 7 IO83KH          M0ICK/P       59 2 IO83RU
+END-OF-LOG:

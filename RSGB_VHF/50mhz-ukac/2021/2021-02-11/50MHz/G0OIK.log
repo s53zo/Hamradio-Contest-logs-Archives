@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0OIK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91SU
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2013 G0OIK         59 1 IO91SU          G8GYX         58 16 IO91VH
+QSO:    50 PH 2021-02-11 2016 G0OIK         55 2 IO91SU          M0BB          59 15 IO91PK
+QSO:    50 PH 2021-02-11 2041 G0OIK         59 3 IO91SU          G4FVZ         59 40 IO91OW
+QSO:    50 PH 2021-02-11 2044 G0OIK         54 4 IO91SU          G8LZE         57 15 IO91SO
+QSO:    50 PH 2021-02-11 2046 G0OIK         53 5 IO91SU          G3ZNU         57 21 IO91PQ
+END-OF-LOG:

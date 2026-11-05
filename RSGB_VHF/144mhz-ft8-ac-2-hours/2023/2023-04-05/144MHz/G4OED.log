@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: G4OED
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=230405&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=914; excluded rows=0.
+QSO:   144 FT8 2023-04-05 1902 G4OED         +07 IO91             G0XDI         -10 IO91
+QSO:   144 FT8 2023-04-05 1908 G4OED         -10 IO91             G7LII/P       -11 IO92
+QSO:   144 FT8 2023-04-05 1909 G4OED         +10 IO91             M0IEP         +10 IO91
+QSO:   144 FT8 2023-04-05 1911 G4OED         +32 IO91             G4HGV         +31 IO91
+QSO:   144 FT8 2023-04-05 1919 G4OED         -13 IO91             M0BKV         -26 IO70
+QSO:   144 FT8 2023-04-05 1928 G4OED         -09 IO91             EI8KN         -08 IO62
+QSO:   144 FT8 2023-04-05 1931 G4OED         -02 IO91             G3WAG/P       +05 IO82
+QSO:   144 FT8 2023-04-05 1936 G4OED         -01 IO91             F4FET         -08 JO00
+QSO:   144 FT8 2023-04-05 1939 G4OED         -16 IO91             M0LMK         -08 JO01
+QSO:   144 FT8 2023-04-05 1943 G4OED         -12 IO91             2E1FMS        -25 IO82
+QSO:   144 FT8 2023-04-05 1946 G4OED         -11 IO91             G4ZTR         -12 JO01
+QSO:   144 FT8 2023-04-05 2004 G4OED         -15 IO91             G0JJG         -12 JO02
+QSO:   144 FT8 2023-04-05 2025 G4OED         -09 IO91             G8SEI         -12 IO92
+QSO:   144 FT8 2023-04-05 2035 G4OED         -11 IO91             OS7P          -17 JO21
+QSO:   144 FT8 2023-04-05 2042 G4OED         -10 IO91             GI6ATZ        -08 IO74
+QSO:   144 FT8 2023-04-05 2049 G4OED         -14 IO91             2E0SNB        -17 IO91
+END-OF-LOG:

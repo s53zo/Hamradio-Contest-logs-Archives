@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G8FCQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92KO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=190718&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4306; excluded rows=2.
+QSO:    70 PH 2019-07-18 1901 G8FCQ         59 1 IO92KO          G0WUS         59 2 IO92KO
+QSO:    70 PH 2019-07-18 1903 G8FCQ         55 2 IO92KO          G3LRS/P       59 3 IO92IR
+QSO:    70 PH 2019-07-18 1904 G8FCQ         59 3 IO92KO          M1DDD/P       55 9 IO93CH
+QSO:    70 PH 2019-07-18 1912 G8FCQ         55 4 IO92KO          G7LRQ/P       53 15 IO91RU
+QSO:    70 PH 2019-07-18 1920 G8FCQ         59 5 IO92KO          G3OVH         56 9 IO92JP
+QSO:    70 PH 2019-07-18 1951 G8FCQ         59 6 IO92KO          G6HPR         59 6 IO92KO
+END-OF-LOG:

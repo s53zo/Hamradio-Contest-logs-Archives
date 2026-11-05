@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G1DFL/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO91FN
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=190326&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=160; excluded rows=1.
+QSO:   10G PH 2019-03-26 2048 G1DFL/P       56 1 IO91FN          G4ASR/P       55 11 IO82LB
+QSO:   10G PH 2019-03-26 2052 G1DFL/P       59 2 IO91FN          G0LGS/P       57 4 IO81XW
+QSO:   10G PH 2019-03-26 2116 G1DFL/P       57 3 IO91FN          M0GHZ         54 8 IO81VK
+QSO:   10G PH 2019-03-26 2120 G1DFL/P       59 4 IO91FN          2E0MDJ/P      59 6 IO81XW
+END-OF-LOG:

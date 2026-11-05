@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8DIR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82MP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=231003&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10105; excluded rows=6.
+QSO:   144 PH 2023-10-03 1900 G8DIR         55 1 IO82MP          G0CNN/P       55 1 IO94AI
+QSO:   144 PH 2023-10-03 1902 G8DIR         59 2 IO82MP          G4KUY/P       59 2 IO83XN
+QSO:   144 PH 2023-10-03 1904 G8DIR         59 3 IO82MP          MW0LKX/P      59 4 IO82KL
+QSO:   144 PH 2023-10-03 1908 G8DIR         59 4 IO82MP          G4FAL         59 12 IO93EJ
+QSO:   144 PH 2023-10-03 1912 G8DIR         59 5 IO82MP          GW0RHHC       58 15 IO71UN
+QSO:   144 PH 2023-10-03 1915 G8DIR         55 6 IO82MP          G4ILY         55 14 IO81WU
+QSO:   144 PH 2023-10-03 1918 G8DIR         59 7 IO82MP          GD8EXI        59 30 IO74PC
+QSO:   144 PH 2023-10-03 1920 G8DIR         59 8 IO82MP          G4ASR/P       59 25 IO82LB
+QSO:   144 PH 2023-10-03 1923 G8DIR         58 9 IO82MP          G4JLG         58 14 IO83TM
+QSO:   144 PH 2023-10-03 1927 G8DIR         59 10 IO82MP         MW0DX         59 15 IO71OT
+QSO:   144 PH 2023-10-03 1928 G8DIR         58 11 IO82MP         G0JCC         59 37 IO82MA
+QSO:   144 PH 2023-10-03 1931 G8DIR         59 12 IO82MP         G0EAK/P       59 29 IO93NI
+QSO:   144 PH 2023-10-03 1933 G8DIR         55 13 IO82MP         GM4YXI        59 34 IO87WK
+QSO:   144 PH 2023-10-03 1937 G8DIR         57 14 IO82MP         G8PNN/P       58 29 IO95AF
+QSO:   144 PH 2023-10-03 1939 G8DIR         57 15 IO82MP         GM3SEK        57 38 IO74SR
+QSO:   144 PH 2023-10-03 1941 G8DIR         59 16 IO82MP         G4CLA         59 96 IO92JL
+QSO:   144 PH 2023-10-03 1947 G8DIR         59 17 IO82MP         GI4SNA        59 54 IO64XM
+QSO:   144 PH 2023-10-03 1949 G8DIR         59 18 IO82MP         G3WRA         59 20 IO82RJ
+QSO:   144 PH 2023-10-03 1954 G8DIR         59 19 IO82MP         G3NFC/P       59 28 IO92EQ
+END-OF-LOG:

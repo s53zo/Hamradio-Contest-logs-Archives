@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8DMN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81RD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=241001&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7607; excluded rows=1.
+QSO:   144 PH 2024-10-01 1917 G8DMN         59 1 IO81RD          G0LTG/P       59 17 IO81RF
+QSO:   144 PH 2024-10-01 1931 G8DMN         59 2 IO81RD          GW6UAJ/P      59 41 IO81KR
+QSO:   144 PH 2024-10-01 1936 G8DMN         57 3 IO81RD          GW1YBB/P      57 63 IO81KW
+QSO:   144 PH 2024-10-01 1953 G8DMN         58 4 IO81RD          G0XDI         57 50 IO91RP
+QSO:   144 PH 2024-10-01 2006 G8DMN         56 5 IO81RD          GD8EXI        55 88 IO74PC
+END-OF-LOG:

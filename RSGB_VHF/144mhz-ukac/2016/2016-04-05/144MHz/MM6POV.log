@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM6POV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75TH
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160405&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12814; excluded rows=26.
+QSO:   144 PH 2016-04-05 1905 MM6POV        59 1 IO75TH          GM3SEK        59 0 IO74SR
+QSO:   144 PH 2016-04-05 1907 MM6POV        59 2 IO75TH          GM4SLY        57 1 IO75QN
+QSO:   144 PH 2016-04-05 1922 MM6POV        59 3 IO75TH          GM6JNJ        57 11 IO75SO
+QSO:   144 PH 2016-04-05 1928 MM6POV        59 4 IO75TH          GM4PPT        59 16 IO75SK
+QSO:   144 PH 2016-04-05 1946 MM6POV        55 5 IO75TH          GM7OIN        52 4 IO75QK
+QSO:   144 PH 2016-04-05 2037 MM6POV        59 6 IO75TH          GD1MIP        55 45 IO74TI
+QSO:   144 PH 2016-04-05 2042 MM6POV        55 7 IO75TH          G4RRA         55 17 IO80BS
+QSO:   144 PH 2016-04-05 2054 MM6POV        59 8 IO75TH          GI4SNA        57 131 IO64XM
+END-OF-LOG:

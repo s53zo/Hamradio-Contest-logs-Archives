@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G0LGS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81WV
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210504&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=982; excluded rows=1.
+QSO:   144 FM 2021-05-04 1800 G0LGS         59 1 IO81WV          G4ILI/P       59 1 IO81WU
+QSO:   144 FM 2021-05-04 1802 G0LGS         59 2 IO81WV          M0XAC         54 2 IO81VU
+QSO:   144 FM 2021-05-04 1803 G0LGS         59 3 IO81WV          G4BCA/P       59 2 IO81VU
+QSO:   144 FM 2021-05-04 1804 G0LGS         59 4 IO81WV          2E0MDJ        59 3 IO81WV
+QSO:   144 FM 2021-05-04 1807 G0LGS         59 5 IO81WV          M7LOZ/P       59 8 IO92BA
+QSO:   144 FM 2021-05-04 1811 G0LGS         59 6 IO81WV          G7SET/P       59 14 IO82XJ
+QSO:   144 FM 2021-05-04 1812 G0LGS         59 7 IO81WV          G4IZZ         59 17 IO81XX
+QSO:   144 FM 2021-05-04 1820 G0LGS         59 8 IO81WV          G3TKF         59 6 IO81RI
+QSO:   144 FM 2021-05-04 1826 G0LGS         55 9 IO81WV          G3WRA         55 12 IO82PB
+QSO:   144 FM 2021-05-04 1835 G0LGS         59 10 IO81WV         G1YBB/P       59 12 IO82LB
+END-OF-LOG:

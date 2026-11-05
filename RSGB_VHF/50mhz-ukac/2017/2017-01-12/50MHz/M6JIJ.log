@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M6JIJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93GI
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170112&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3122; excluded rows=5.
+QSO:    50 PH 2017-01-12 2001 M6JIJ         56 1 IO93GI          G3PHO         54 1 IO93GG
+QSO:    50 PH 2017-01-12 2002 M6JIJ         59 2 IO93GI          M0GDX         59 2 IO93GJ
+QSO:    50 PH 2017-01-12 2019 M6JIJ         59 3 IO93GI          2E0RET/P      58 16 IO93FE
+QSO:    50 PH 2017-01-12 2021 M6JIJ         59 4 IO93GI          2E0DXK/P      59 21 IO93FG
+QSO:    50 PH 2017-01-12 2035 M6JIJ         54 5 IO93GI          M6KMB         41 32 IO93EQ
+QSO:    50 PH 2017-01-12 2042 M6JIJ         56 6 IO93GI          G3RCW         54 15 IO93KH
+QSO:    50 PH 2017-01-12 2043 M6JIJ         59 7 IO93GI          M0MDY         59 18 IO93HH
+QSO:    50 PH 2017-01-12 2128 M6JIJ         57 8 IO93GI          G3VCA         55 61 IO93MG
+QSO:    50 PH 2017-01-12 2130 M6JIJ         58 9 IO93GI          G4HBA         56 35 IO93FN
+END-OF-LOG:

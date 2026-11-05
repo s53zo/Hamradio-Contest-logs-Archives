@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3XNO
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93DW
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170606&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8084; excluded rows=4.
+QSO:   144 PH 2017-06-06 1902 G3XNO         59 1 IO93DW          G0BFJ/P       59 2 IO93DO
+QSO:   144 PH 2017-06-06 1908 G3XNO         58 2 IO93DW          M1CJN/P       58 8 IO93OX
+QSO:   144 PH 2017-06-06 1919 G3XNO         57 3 IO93DW          G8EEM         57 8 IO93MX
+QSO:   144 PH 2017-06-06 1929 G3XNO         59 4 IO93DW          G4FZN/P       59 33 IO94JF
+QSO:   144 PH 2017-06-06 1930 G3XNO         55 5 IO93DW          G0TVM         58 10 IO93CT
+QSO:   144 PH 2017-06-06 1939 G3XNO         56 6 IO93DW          G4LKD         56 20 IO93OQ
+QSO:   144 PH 2017-06-06 1947 G3XNO         59 7 IO93DW          M6KMB         59 11 IO93EQ
+QSO:   144 PH 2017-06-06 2049 G3XNO         59 8 IO93DW          M0TNG/P       59 12 IO93DO
+END-OF-LOG:

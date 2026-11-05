@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: MM0CEZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO75XU
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=210314&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=517; excluded rows=0.
+QSO:    70 PH 2021-03-14 1001 MM0CEZ        59 1 IO75XU          GM4DIJ        59 1 IO85IW
+QSO:    70 PH 2021-03-14 1019 MM0CEZ        54 2 IO75XU          GM4AFF        54 3 IO86TS
+QSO:    70 PH 2021-03-14 1021 MM0CEZ        59 3 IO75XU          GM0OQV        59 1 IO85AT
+QSO:    70 PH 2021-03-14 1042 MM0CEZ        51 4 IO75XU          GW8ASD        53 8 IO83LB
+QSO:    70 PH 2021-03-14 1048 MM0CEZ        54 5 IO75XU          M5TKA         56 12 IO91OX
+QSO:    70 PH 2021-03-14 1059 MM0CEZ        52 6 IO75XU          G4KUX         56 18 IO94BP
+QSO:    70 PH 2021-03-14 1104 MM0CEZ        55 7 IO75XU          G4FZN         54 9 IO94EK
+QSO:    70 PH 2021-03-14 1125 MM0CEZ        59 8 IO75XU          GM4GUF        59 1 IO85EP
+END-OF-LOG:

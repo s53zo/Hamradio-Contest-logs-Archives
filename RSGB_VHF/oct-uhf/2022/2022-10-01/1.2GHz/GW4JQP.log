@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: GW4JQP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO71KR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=518; excluded rows=2.
+QSO:  1.2G PH 2022-10-01 1403 GW4JQP        59 1 IO71KR          MW0CXH        59 1 IO71VQ
+QSO:  1.2G PH 2022-10-01 1456 GW4JQP        53 2 IO71KR          G0ODQ         54 7 IO91MR
+QSO:  1.2G PH 2022-10-01 1625 GW4JQP        55 3 IO71KR          G7L           55 23 IO91TQ
+QSO:  1.2G PH 2022-10-01 1721 GW4JQP        52 4 IO71KR          G3XDY         53 11 JO02OB
+QSO:  1.2G PH 2022-10-01 1724 GW4JQP        52 5 IO71KR          M1CRO/P       53 55 JO01PU
+QSO:  1.2G PH 2022-10-01 1909 GW4JQP        56 6 IO71KR          MW0VLO        56 1 IO72SC
+QSO:  1.2G PH 2022-10-01 1939 GW4JQP        58 7 IO71KR          2W0LLJ        56 1 IO72SC
+END-OF-LOG:

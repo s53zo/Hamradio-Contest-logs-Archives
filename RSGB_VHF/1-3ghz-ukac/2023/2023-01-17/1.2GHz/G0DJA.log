@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G0DJA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO93IF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=230117&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2384; excluded rows=2.
+QSO:  1.2G PH 2023-01-17 2010 G0DJA         59 1 IO93IF          G1HLT         59 3 IO93JD
+QSO:  1.2G PH 2023-01-17 2015 G0DJA         59 2 IO93IF          G5ROC         59 6 IO93GE
+QSO:  1.2G PH 2023-01-17 2031 G0DJA         59 3 IO93IF          G4ODA         57 8 IO92WS
+QSO:  1.2G PH 2023-01-17 2041 G0DJA         59 4 IO93IF          G3SQQ         59 15 IO93JC
+QSO:  1.2G CW 2023-01-17 2104 G0DJA         559 5 IO93IF         G3VCA         559 9 IO93MG
+QSO:  1.2G PH 2023-01-17 2120 G0DJA         59 6 IO93IF          G0WUS/P       59 49 IO92MP
+END-OF-LOG:

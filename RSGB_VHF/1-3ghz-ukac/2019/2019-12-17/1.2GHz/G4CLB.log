@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G4CLB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO92HM
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=191217&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1596; excluded rows=2.
+QSO:  1.2G PH 2019-12-17 2008 G4CLB         59 1 IO92HM          G4CAJ         59 1 IO92HN
+QSO:  1.2G PH 2019-12-17 2009 G4CLB         57 2 IO92HM          G8BFF         57 1 IO92HN
+QSO:  1.2G PH 2019-12-17 2040 G4CLB         59 3 IO92HM          G1ZAR/P       59 6 IO92IR
+QSO:  1.2G PH 2019-12-17 2114 G4CLB         57 4 IO92HM          G4ODA         54 35 IO92WS
+QSO:  1.2G PH 2019-12-17 2125 G4CLB         56 5 IO92HM          G4EPA         56 9 IO92KI
+END-OF-LOG:

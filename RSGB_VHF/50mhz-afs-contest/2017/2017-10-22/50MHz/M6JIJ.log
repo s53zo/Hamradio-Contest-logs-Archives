@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: M6JIJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93GI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3124; excluded rows=4.
+QSO:    50 PH 2017-10-22 1234 M6JIJ         57 1 IO93GI SD       M0PJA         54 12 IO93II SD
+QSO:    50 PH 2017-10-22 1237 M6JIJ         57 2 IO93GI SD       M0NFD/P       52 71 IO94JF YO
+QSO:    50 PH 2017-10-22 1248 M6JIJ         59 3 IO93GI SD       G3YJR         59 19 IO93FJ SD
+QSO:    50 PH 2017-10-22 1250 M6JIJ         59 4 IO93GI SD       G3PHO         55 51 IO93GG SD
+QSO:    50 PH 2017-10-22 1251 M6JIJ         59 5 IO93GI SD       M0GAV         59 53 IO93GK SD
+QSO:    50 PH 2017-10-22 1255 M6JIJ         54 6 IO93GI SD       M5DWI         52 2 IO93HL SD
+QSO:    50 PH 2017-10-22 1258 M6JIJ         57 7 IO93GI SD       G3TBK/P       55 67 IO93RA NG
+END-OF-LOG:

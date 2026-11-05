@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G1HCM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO90JR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=170808&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5826; excluded rows=0.
+QSO:   432 PH 2017-08-08 1901 G1HCM         59 1 IO90JR          G6DOD/P       59 1 IO90JO
+QSO:   432 PH 2017-08-08 1910 G1HCM         59 2 IO90JR          G4CZP/P       59 3 IO90JO
+QSO:   432 PH 2017-08-08 1933 G1HCM         59 3 IO90JR          G0GJV         56 15 IO91OK
+QSO:   432 PH 2017-08-08 1938 G1HCM         59 4 IO90JR          G0GMY/P       59 13 IO90IO
+QSO:   432 PH 2017-08-08 1952 G1HCM         59 5 IO90JR          G3HRH/P       59 16 IO91HB
+QSO:   432 PH 2017-08-08 2020 G1HCM         59 6 IO90JR          M1CNK         59 18 IO90HX
+END-OF-LOG:

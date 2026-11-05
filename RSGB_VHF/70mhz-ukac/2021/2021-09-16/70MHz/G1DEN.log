@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G1DEN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93DO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210916&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4928; excluded rows=2.
+QSO:    70 PH 2021-09-16 2104 G1DEN         59 1 IO93DO          GM4AFF        54 55 IO86TS
+QSO:    70 PH 2021-09-16 2105 G1DEN         59 2 IO93DO          G4KUX         59 94 IO94BP
+QSO:    70 PH 2021-09-16 2106 G1DEN         59 3 IO93DO          G3TCU/P       57 105 IO91RF
+QSO:    70 PH 2021-09-16 2109 G1DEN         59 4 IO93DO          G3VCA         59 67 IO93MG
+QSO:    70 PH 2021-09-16 2110 G1DEN         59 5 IO93DO          M0LLW/P       55 69 IO93NJ
+QSO:    70 PH 2021-09-16 2111 G1DEN         59 6 IO93DO          G4FZN/P       59 97 IO84XT
+QSO:    70 PH 2021-09-16 2112 G1DEN         59 7 IO93DO          G4CLA         59 109 IO92JL
+QSO:    70 PH 2021-09-16 2118 G1DEN         59 8 IO93DO          G4ODA         59 87 IO92WS
+QSO:    70 PH 2021-09-16 2121 G1DEN         59 9 IO93DO          G4FVZ         53 88 IO91OW
+QSO:    70 PH 2021-09-16 2122 G1DEN         59 10 IO93DO         GW4ZAR        51 29 IO83KF
+END-OF-LOG:

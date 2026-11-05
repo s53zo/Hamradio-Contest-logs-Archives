@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: 2E0EKW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92DE
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6690; excluded rows=1.
+QSO:   144 PH 2019-05-19 0832 2E0EKW        59 1 IO92DE CV       G4L           57 47 IO91CL SN
+QSO:   144 PH 2019-05-19 0840 2E0EKW        59 2 IO92DE CV       G4ASR         57 160 IO81MX HR
+QSO:   144 PH 2019-05-19 0845 2E0EKW        59 3 IO92DE CV       M0ICK/P       55 150 IO93AD ST
+QSO:   144 PH 2019-05-19 1210 2E0EKW        59 4 IO92DE CV       G0RMG/P       59 28 IO82XJ BM
+QSO:   144 PH 2019-05-19 1213 2E0EKW        59 5 IO92DE CV       GW1YBB/P      59 79 IO81KW NP
+QSO:   144 PH 2019-05-19 1248 2E0EKW        55 6 IO92DE CV       G8T           51 405 IO01KJ ME
+END-OF-LOG:

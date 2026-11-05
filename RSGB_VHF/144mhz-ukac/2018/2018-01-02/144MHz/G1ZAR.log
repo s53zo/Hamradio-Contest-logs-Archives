@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G1ZAR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92IS
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180102&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8479; excluded rows=1.
+QSO:   144 PH 2018-01-02 2027 G1ZAR         57 1 IO92IS          G3SQQ         58 22 IO93JC
+QSO:   144 PH 2018-01-02 2042 G1ZAR         53 2 IO92IS          G3PHO         53 20 IO93GG
+QSO:   144 PH 2018-01-02 2044 G1ZAR         53 3 IO92IS          M0MDY         56 39 IO93HH
+QSO:   144 PH 2018-01-02 2053 G1ZAR         53 4 IO92IS          2E0DXK/P      55 40 IO93FG
+QSO:   144 PH 2018-01-02 2109 G1ZAR         55 5 IO92IS          M0GAV         55 46 IO93GK
+END-OF-LOG:

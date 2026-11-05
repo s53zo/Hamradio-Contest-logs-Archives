@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3ZWR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO94FX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=231107&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10130; excluded rows=2.
+QSO:   144 PH 2023-11-07 2008 G3ZWR         59 1 IO94FX          G8KPD/P       59 2 IO85XF
+QSO:   144 PH 2023-11-07 2010 G3ZWR         59 2 IO94FX          G4FZN/P       59 12 IO94AK
+QSO:   144 PH 2023-11-07 2012 G3ZWR         55 3 IO94FX          G0LTG/P       55 14 IO81RF
+QSO:   144 PH 2023-11-07 2015 G3ZWR         59 4 IO94FX          G4CLA         55 35 IO92JL
+QSO:   144 PH 2023-11-07 2035 G3ZWR         57 5 IO94FX          GM4JTJ        57 23 IO86RP
+QSO:   144 PH 2023-11-07 2050 G3ZWR         59 6 IO94FX          MW0LKX/P      59 56 IO82RF
+QSO:   144 PH 2023-11-07 2110 G3ZWR         57 7 IO94FX          GM4BYF        57 19 IO85JV
+END-OF-LOG:

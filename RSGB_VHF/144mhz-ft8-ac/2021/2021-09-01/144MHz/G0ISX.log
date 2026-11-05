@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G0ISX
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210901&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1213; excluded rows=0.
+QSO:   144 FT8 2021-09-01 1910 G0ISX         -14 IO93             G0BWG         -15 IO93
+QSO:   144 FT8 2021-09-01 1922 G0ISX         -09 IO93             G4PDF         -08 IO93
+QSO:   144 FT8 2021-09-01 1927 G0ISX         -15 IO93             G8IXK         -02 IO91
+QSO:   144 FT8 2021-09-01 1942 G0ISX         -13 IO93             G3WZK         -24 IO91
+QSO:   144 FT8 2021-09-01 1945 G0ISX         +01 IO93             G0JEI         -02 IO93
+QSO:   144 FT8 2021-09-01 1951 G0ISX         -13 IO93             2E0DBS        -02 JO02
+QSO:   144 FT8 2021-09-01 1954 G0ISX         +04 IO93             G7RDI         +01 IO92
+QSO:   144 FT8 2021-09-01 2008 G0ISX         -16 IO93             G4HGI         -18 IO83
+QSO:   144 FT8 2021-09-01 2011 G0ISX         -06 IO93             G6OPV         -04 IO83
+QSO:   144 FT8 2021-09-01 2017 G0ISX         +01 IO93             G8AOE/P       +02 IO94
+QSO:   144 FT8 2021-09-01 2026 G0ISX         +07 IO93             G0XDI         -09 IO91
+QSO:   144 FT8 2021-09-01 2027 G0ISX         -06 IO93             G0BIX         -24 JO01
+QSO:   144 FT8 2021-09-01 2028 G0ISX         -04 IO93             M0KKM         -07 JO02
+QSO:   144 FT8 2021-09-01 2029 G0ISX         -06 IO93             G0CNN         -12 IO94
+QSO:   144 FT8 2021-09-01 2038 G0ISX         -12 IO93             2E1SKY        -18 IO93
+QSO:   144 FT8 2021-09-01 2041 G0ISX         -06 IO93             GI4SNA        -09 IO64
+QSO:   144 FT8 2021-09-01 2047 G0ISX         -13 IO93             G0TFD         -16 IO82
+QSO:   144 FT8 2021-09-01 2056 G0ISX         +11 IO93             G0UXC         -08 IO83
+QSO:   144 FT8 2021-09-01 2058 G0ISX         -02 IO93             M0NPT         -01 IO92
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G8DIR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO82MP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=250211&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6778; excluded rows=1.
+QSO:   432 PH 2025-02-11 2000 G8DIR         59 1 IO82MP          GW4SHF        59 1 IO82HP
+QSO:   432 PH 2025-02-11 2002 G8DIR         59 2 IO82MP          M1MLM/P       59 2 IO93AD
+QSO:   432 PH 2025-02-11 2003 G8DIR         59 3 IO82MP          MW0LKX/P      59 4 IO82KL
+QSO:   432 PH 2025-02-11 2005 G8DIR         59 4 IO82MP          G4JLG         59 2 IO83TM
+QSO:   432 PH 2025-02-11 2006 G8DIR         59 5 IO82MP          GD8EXI        59 7 IO74PC
+QSO:   432 PH 2025-02-11 2010 G8DIR         55 6 IO82MP          MD0MAN/P      59 3 IO74SE
+QSO:   432 PH 2025-02-11 2016 G8DIR         59 7 IO82MP          G8XVJ         59 3 IO83QK
+QSO:   432 PH 2025-02-11 2032 G8DIR         59 8 IO82MP          M0KSE         59 11 IO83RN
+QSO:   432 PH 2025-02-11 2040 G8DIR         55 9 IO82MP          M7GHW/P       55 16 IO83PN
+QSO:   432 PH 2025-02-11 2046 G8DIR         57 10 IO82MP         G8ZRE         59 20 IO83NE
+END-OF-LOG:

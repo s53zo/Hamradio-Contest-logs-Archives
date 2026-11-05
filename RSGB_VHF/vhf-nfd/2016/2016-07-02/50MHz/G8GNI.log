@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G8GNI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91JV
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3241; excluded rows=20.
+QSO:    50 PH 2016-07-02 1417 G8GNI         56 1 IO91JV          G5LK/P        59 16 JO01QD
+QSO:    50 PH 2016-07-02 1419 G8GNI         59 2 IO91JV          M0MDG/P       59 12 IO91MP
+QSO:    50 PH 2016-07-02 1423 G8GNI         59 3 IO91JV          G2LO/P        59 17 IO92GB
+QSO:    50 PH 2016-07-02 1445 G8GNI         59 4 IO91JV          MW0TWC/P      59 40 IO82JG
+QSO:    50 PH 2016-07-02 1511 G8GNI         59 5 IO91JV          G0FBB/P       59 47 JO01LD
+QSO:    50 PH 2016-07-02 1513 G8GNI         59 6 IO91JV          M0HRF/P       57 41 IO91OQ
+QSO:    50 PH 2016-07-02 1520 G8GNI         59 7 IO91JV          G8LED/P       59 41 IO92LH
+QSO:    50 PH 2016-07-02 1521 G8GNI         59 8 IO91JV          G3SAD/P       59 32 IO91VW
+QSO:    50 PH 2016-07-02 1523 G8GNI         59 9 IO91JV          M0BAA/P       59 50 JO01KJ
+QSO:    50 PH 2016-07-02 1943 G8GNI         59 10 IO91JV         G8SRC/P       59 96 IO91CH
+QSO:    50 PH 2016-07-02 2044 G8GNI         59 11 IO91JV         G3PYE/P       59 108 JO02CE
+QSO:    50 PH 2016-07-02 2150 G8GNI         56 12 IO91JV         G2BQY/P       57 148 IO81RF
+END-OF-LOG:

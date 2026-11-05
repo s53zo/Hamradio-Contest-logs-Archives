@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1ST-MGM-CONTEST
+CALLSIGN: UT8LE
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: KN79
+CATEGORY: EUL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1st+MGM+contest&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from machine-generated-mode contest context; exact submode unavailable.
+SOAPBOX: Export source rows=1732; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   144 DG 2018-04-21 1629 UT8LE         599 KN79             RA3RF         599 LO03
+QSO:   144 DG 2018-04-21 1656 UT8LE         599 KN79             UT8AL         599 KO61
+QSO:   144 DG 2018-04-21 1810 UT8LE         599 KN79             US5MJK        599 KN98
+QSO:   144 DG 2018-04-21 1821 UT8LE         599 KN79             UR4LSK        599 KO80
+QSO:   144 DG 2018-04-21 1952 UT8LE         599 KN79             R6CS          599 KN95
+QSO:   144 DG 2018-04-22 0558 UT8LE         599 KN79             SQ6POM        599 JO81
+QSO:   144 DG 2018-04-22 0956 UT8LE         599 KN79             SM4GGC        599 JO69
+QSO:   144 DG 2018-04-22 1304 UT8LE         599 KN79             UA3WM         599 KO72
+QSO:   144 DG 2018-04-22 1311 UT8LE         599 KN79             US5EII        599 KN78
+QSO:   144 DG 2018-04-22 1331 UT8LE         599 KN79             US0GB         599 KN67
+END-OF-LOG:

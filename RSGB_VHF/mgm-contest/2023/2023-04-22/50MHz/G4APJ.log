@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MGM-CONTEST
+CALLSIGN: G4APJ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83
+CATEGORY: UKL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=MGM+contest&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from machine-generated-mode contest context; exact submode unavailable.
+SOAPBOX: Export source rows=673; excluded rows=0.
+QSO:    50 DG 2023-04-22 1523 G4APJ         -03 IO83             2E1FMS        -22 IO82
+QSO:    50 DG 2023-04-22 1524 G4APJ         -06 IO83             G0JCC         +01 IO82
+QSO:    50 DG 2023-04-22 1540 G4APJ         -18 IO83             G4NBS         -12 JO02
+QSO:    50 DG 2023-04-22 1615 G4APJ         +00 IO83             G4RRA         -10 IO80
+QSO:    50 DG 2023-04-22 1640 G4APJ         -09 IO83             IT9JNR        -03 JM67
+QSO:    50 DG 2023-04-22 1643 G4APJ         -07 IO83             G0DJA         -01 IO93
+QSO:    50 DG 2023-04-22 1646 G4APJ         -17 IO83             G0OFC         -01 IO92
+END-OF-LOG:

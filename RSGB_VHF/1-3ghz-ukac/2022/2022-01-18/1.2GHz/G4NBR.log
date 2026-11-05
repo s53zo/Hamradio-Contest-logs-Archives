@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G4NBR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO92VU
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=220118&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2757; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  1.2G PH 2022-01-18 2000 G4NBR         59 1 IO92VU          G4ODA         59 1 IO92WS
+QSO:  1.2G PH 2022-01-18 2007 G4NBR         59 2 IO92VU          G4CLA         59 6 IO92JL
+QSO:  1.2G PH 2022-01-18 2024 G4NBR         56 3 IO92VU          G0NZI/P       56 7 IO92FM
+QSO:  1.2G PH 2022-01-18 2025 G4NBR         59 4 IO92VU          G1SCT         59 8 IO92XT
+QSO:  1.2G PH 2022-01-18 2027 G4NBR         57 5 IO92VU          G3VCA         57 9 IO93MG
+QSO:  1.2G PH 2022-01-18 2040 G4NBR         55 6 IO92VU          G4HWA         55 31 IO92ME
+QSO:  1.2G PH 2022-01-18 2045 G4NBR         54 7 IO92VU          G4ZTR         54 9 JO01KW
+QSO:  1.2G PH 2022-01-18 2053 G4NBR         55 8 IO92VU          G3ZYC         55 30 IO93GB
+QSO:  1.2G PH 2022-01-18 2104 G4NBR         59 10 IO92VU         G6GEI/P       59 26 IO92RA
+QSO:  1.2G PH 2022-01-18 2110 G4NBR         55 11 IO92VU         G4AWP         55 12 JO02AH
+QSO:  1.2G PH 2022-01-18 2115 G4NBR         55 12 IO92VU         G8OVZ/P       52 24 JO01AV
+QSO:  1.2G PH 2022-01-18 2134 G4NBR         55 13 IO92VU         G3MEH         55 42 IO91QS
+QSO:  1.2G PH 2022-01-18 2140 G4NBR         59 14 IO92VU         M1MHZ         59 29 IO92WV
+QSO:  1.2G PH 2022-01-18 2150 G4NBR         54 15 IO92VU         G3XDY         54 61 JO02OB
+QSO:  1.2G PH 2022-01-18 2210 G4NBR         52 16 IO92VU         G4GFI         52 33 IO91VH
+QSO:  1.2G PH 2022-01-18 2215 G4NBR         52 17 IO92VU         F1MKG         52 21 JN08KQ
+END-OF-LOG:

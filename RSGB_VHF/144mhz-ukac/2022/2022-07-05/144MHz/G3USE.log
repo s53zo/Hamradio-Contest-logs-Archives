@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3USE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80JT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220705&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11582; excluded rows=6.
+QSO:   144 PH 2022-07-05 1900 G3USE         59 1 IO80JT          M1MHZ         59 2 IO92WV
+QSO:   144 PH 2022-07-05 1902 G3USE         59 2 IO80JT          G0LTG         59 3 IO81RF
+QSO:   144 PH 2022-07-05 1904 G3USE         59 3 IO80JT          M0AFJ/P       59 7 IO70JF
+QSO:   144 PH 2022-07-05 1909 G3USE         59 4 IO80JT          G8YJT/P       59 2 IO80FO
+QSO:   144 PH 2022-07-05 1911 G3USE         59 5 IO80JT          M0BKV         59 7 IO70RR
+QSO:   144 PH 2022-07-05 1915 G3USE         59 6 IO80JT          2E0UMS/P      59 3 IO81PF
+QSO:   144 PH 2022-07-05 1917 G3USE         59 7 IO80JT          G3TBK/P       59 27 IO93RA
+QSO:   144 PH 2022-07-05 1918 G3USE         57 8 IO80JT          M0GHZ/P       56 28 IO81UN
+QSO:   144 PH 2022-07-05 1922 G3USE         59 9 IO80JT          G3NFC/P       59 20 IO92EQ
+QSO:   144 PH 2022-07-05 1922 G3USE         59 10 IO80JT         G4CLA         59 43 IO92JL
+QSO:   144 PH 2022-07-05 1924 G3USE         59 11 IO80JT         M1MBZ/P       59 5 IO81TL
+QSO:   144 PH 2022-07-05 1927 G3USE         57 12 IO80JT         G4JLG         56 14 IO83TM
+QSO:   144 PH 2022-07-05 1931 G3USE         57 13 IO80JT         G3SQQ         57 26 IO93JC
+QSO:   144 PH 2022-07-05 1938 G3USE         58 14 IO80JT         G0XBU         58 28 IO83UF
+QSO:   144 PH 2022-07-05 1942 G3USE         57 15 IO80JT         GW0RHC        55 48 IO71UN
+QSO:   144 PH 2022-07-05 1948 G3USE         59 16 IO80JT         M0BUL         59 15 IO82NG
+END-OF-LOG:

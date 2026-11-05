@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: GU0UVH
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IN89
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=230906&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1263; excluded rows=0.
+QSO:   144 FT8 2023-09-06 1903 GU0UVH        +21 IN89             GW4HDF        -12 IO81
+QSO:   144 FT8 2023-09-06 1908 GU0UVH        +01 IN89             2E0IEI        -02 IO81
+QSO:   144 FT8 2023-09-06 1915 GU0UVH        +01 IN89             M7WFG         -08 IO81
+QSO:   144 FT8 2023-09-06 1917 GU0UVH        -04 IN89             G4CTP         -15 IO91
+QSO:   144 FT8 2023-09-06 1922 GU0UVH        +28 IN89             G7RAU         -13 IN79
+QSO:   144 FT8 2023-09-06 1928 GU0UVH        +08 IN89             G3ZNU         -04 IO91
+QSO:   144 FT8 2023-09-06 1935 GU0UVH        +05 IN89             G8AOE/P       -01 IO84
+QSO:   144 FT8 2023-09-06 1938 GU0UVH        -15 IN89             EI4GGB        -11 IO63
+QSO:   144 FT8 2023-09-06 1943 GU0UVH        -14 IN89             G8DER         -17 IO81
+END-OF-LOG:

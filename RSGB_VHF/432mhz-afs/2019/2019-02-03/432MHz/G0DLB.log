@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G0DLB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92JI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4093; excluded rows=1.
+QSO:   432 PH 2019-02-03 0931 G0DLB         59 1 IO92JI          G8LYB         59 2 IO92JI
+QSO:   432 PH 2019-02-03 0935 G0DLB         58 2 IO92JI          G8DOH         58 17 IO92EA
+QSO:   432 PH 2019-02-03 0937 G0DLB         59 3 IO92JI          G3SQQ         559 22 IO93JC
+QSO:   432 PH 2019-02-03 0943 G0DLB         59 4 IO92JI          G4ODA         57 43 IO92WS
+QSO:   432 PH 2019-02-03 0950 G0DLB         59 5 IO92JI          G7APD         59 20 IO92JJ
+QSO:   432 PH 2019-02-03 0953 G0DLB         59 6 IO92JI          G3MEH         56 28 IO91QS
+QSO:   432 PH 2019-02-03 0957 G0DLB         57 7 IO92JI          2E0PUT/P      55 27 IO91RV
+QSO:   432 PH 2019-02-03 1004 G0DLB         55 8 IO92JI          G8LED/P       53 22 IO92LH
+QSO:   432 PH 2019-02-03 1052 G0DLB         53 9 IO92JI          G0EAK/P       55 34 IO93NI
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: M0RHS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO80UT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=180118&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2830; excluded rows=0.
+QSO:    70 PH 2018-01-18 2012 M0RHS         59 1 IO80UT          G0HEL/P       59 8 IO81WG
+QSO:    70 PH 2018-01-18 2021 M0RHS         58 2 IO80UT          G3WRA/P       58 15 IO82QE
+QSO:    70 PH 2018-01-18 2047 M0RHS         59 3 IO80UT          G4WEY         59 3 IO90AS
+QSO:    70 PH 2018-01-18 2058 M0RHS         54 4 IO80UT          G3WCB/P       54 13 IO80EI
+QSO:    70 PH 2018-01-18 2110 M0RHS         53 5 IO80UT          GW4JQP/P      51 12 IO81AS
+END-OF-LOG:

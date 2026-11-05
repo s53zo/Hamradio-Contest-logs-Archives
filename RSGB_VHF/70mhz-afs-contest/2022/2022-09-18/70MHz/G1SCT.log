@@ -1,0 +1,43 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G1SCT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92XT
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2038; excluded rows=1.
+QSO:    70 PH 2022-09-18 1002 G1SCT         59 1 IO92XT          G4ODA         59 57 IO92WS
+QSO:    70 PH 2022-09-18 1003 G1SCT         59 2 IO92XT          M1MHZ         59 43 IO92WV
+QSO:    70 PH 2022-09-18 1004 G1SCT         55 3 IO92XT          G3TBK/P       59 38 IO93RA
+QSO:    70 CW 2022-09-18 1017 G1SCT         559 4 IO92XT         G4LPP         559 22 JO02SS
+QSO:    70 PH 2022-09-18 1022 G1SCT         59 5 IO92XT          G1PPA/P       59 40 IO93RI
+QSO:    70 PH 2022-09-18 1025 G1SCT         52 6 IO92XT          G4CLB         52 17 IO92HM
+QSO:    70 PH 2022-09-18 1032 G1SCT         59 7 IO92XT          G5PI/P        59 61 JO02EB
+QSO:    70 PH 2022-09-18 1033 G1SCT         59 8 IO92XT          G3PYE/P       59 63 JO02CE
+QSO:    70 PH 2022-09-18 1035 G1SCT         59 9 IO92XT          M5DWI/P       59 42 IO93FL
+QSO:    70 PH 2022-09-18 1037 G1SCT         56 10 IO92XT         G4CWH/P       57 44 IO92XA
+QSO:    70 CW 2022-09-18 1046 G1SCT         559 11 IO92XT        G4KUX         549 30 IO94BP
+QSO:    70 PH 2022-09-18 1048 G1SCT         55 12 IO92XT         G6UW          57 45 JO02AF
+QSO:    70 PH 2022-09-18 1058 G1SCT         55 13 IO92XT         G3RCW/P       55 32 IO93NI
+QSO:    70 PH 2022-09-18 1100 G1SCT         52 14 IO92XT         G1HLT         54 36 IO93JD
+QSO:    70 PH 2022-09-18 1104 G1SCT         55 15 IO92XT         G3SQQ         57 36 IO93JC
+QSO:    70 PH 2022-09-18 1105 G1SCT         55 16 IO92XT         GW8ASD        57 33 IO83LB
+QSO:    70 PH 2022-09-18 1112 G1SCT         52 17 IO92XT         M7PAT         53 16 IO93HL
+QSO:    70 CW 2022-09-18 1115 G1SCT         529 18 IO92XT        G3MPN         559 6 JO02NN
+QSO:    70 PH 2022-09-18 1120 G1SCT         59 19 IO92XT         G4YHF         59 10 IO92XW
+QSO:    70 PH 2022-09-18 1122 G1SCT         53 20 IO92XT         G5TO          57 36 IO93GG
+QSO:    70 PH 2022-09-18 1125 G1SCT         54 21 IO92XT         G4CZB/P       55 38 IO92LH
+QSO:    70 CW 2022-09-18 1133 G1SCT         559 22 IO92XT        G0DVJ         599 21 JO02MA
+QSO:    70 PH 2022-09-18 1140 G1SCT         55 23 IO92XT         G0ODQ         59 64 IO91MR
+QSO:    70 PH 2022-09-18 1144 G1SCT         55 24 IO92XT         G8LYB         57 42 IO92JI
+QSO:    70 PH 2022-09-18 1155 G1SCT         55 25 IO92XT         G1EZF         55 16 IO93FT
+END-OF-LOG:

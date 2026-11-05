@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4VUD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80EM
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230502&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13496; excluded rows=3.
+QSO:   144 PH 2023-05-02 1904 G4VUD         57 1 IO80EM          M0AFJ/P       57 5 IO70JF
+QSO:   144 PH 2023-05-02 1906 G4VUD         59 2 IO80EM          G0ORK/P       59 3 IO80CN
+QSO:   144 PH 2023-05-02 1915 G4VUD         59 3 IO80EM          G0DDF         59 4 IO80FL
+QSO:   144 PH 2023-05-02 1923 G4VUD         59 4 IO80EM          G4RRA         59 32 IO80BS
+QSO:   144 PH 2023-05-02 1932 G4VUD         59 5 IO80EM          G3WGN         59 23 IO80EJ
+END-OF-LOG:

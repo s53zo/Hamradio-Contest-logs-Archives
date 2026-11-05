@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M3RNX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83TO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=171003&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12071; excluded rows=2.
+QSO:   144 PH 2017-10-03 1903 M3RNX         59 1 IO83TO          G3UVR         59 4 IO83KH
+QSO:   144 PH 2017-10-03 1907 M3RNX         59 2 IO83TO          G8ZRE         59 7 IO83NE
+QSO:   144 PH 2017-10-03 1909 M3RNX         59 3 IO83TO          GW4ZAR        57 5 IO83KF
+QSO:   144 PH 2017-10-03 1929 M3RNX         59 4 IO83TO          M0VXX/P       55 42 IO82QL
+QSO:   144 PH 2017-10-03 1940 M3RNX         59 5 IO83TO          G8HXE/P       59 21 IO83RO
+QSO:   144 PH 2017-10-03 1949 M3RNX         59 6 IO83TO          GW4BVE        59 21 IO82KQ
+QSO:   144 PH 2017-10-03 1952 M3RNX         59 7 IO83TO          M0PNN         57 31 IO82TS
+END-OF-LOG:

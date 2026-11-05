@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4EDX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92KX
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=161025&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6427; excluded rows=3.
+QSO:    50 PH 2016-10-25 1912 G4EDX         55 1 IO92KX          M0MDY         53 14 IO93HH
+QSO:    50 PH 2016-10-25 1913 G4EDX         57 2 IO92KX          G3TBK/P       57 23 IO93RA
+QSO:    50 PH 2016-10-25 1922 G4EDX         59 3 IO92KX          G3SQQ         59 13 IO93JC
+QSO:    50 PH 2016-10-25 1925 G4EDX         57 4 IO92KX          2E0RET/P      55 15 IO93FE
+QSO:    50 PH 2016-10-25 1935 G4EDX         51 5 IO92KX          M0GAV/P       51 29 IO93EH
+END-OF-LOG:

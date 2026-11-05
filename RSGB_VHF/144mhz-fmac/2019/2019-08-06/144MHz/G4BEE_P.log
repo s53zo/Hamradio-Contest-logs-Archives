@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4BEE/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO84SA
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=190806&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=397; excluded rows=0.
+QSO:   144 CW 2019-08-06 1817 G4BEE/P       557 1 IO84SA         G7LAS/P       57 25 IO93BL
+QSO:   144 FM 2019-08-06 1822 G4BEE/P       57 2 IO84SA          2W0JYN/P      59 13 IO83LC
+QSO:   144 FM 2019-08-06 1844 G4BEE/P       55 3 IO84SA          GW4SHF        55 12 IO82HP
+END-OF-LOG:

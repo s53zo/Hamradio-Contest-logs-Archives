@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G1MZD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92NB
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3779; excluded rows=2.
+QSO:   432 PH 2016-02-07 1019 G1MZD         55 1 IO92NB          M0XII/P       57 33 IO91MP
+QSO:   432 PH 2016-02-07 1034 G1MZD         54 2 IO92NB          G4CRF         51 26 IO91OX
+QSO:   432 PH 2016-02-07 1126 G1MZD         53 3 IO92NB          G3MEH         42 56 IO91QS
+QSO:   432 PH 2016-02-07 1207 G1MZD         55 4 IO92NB          G8FMC         54 17 IO91NW
+QSO:   432 PH 2016-02-07 1228 G1MZD         54 5 IO92NB          G8CUL         53 73 IO91JO
+END-OF-LOG:

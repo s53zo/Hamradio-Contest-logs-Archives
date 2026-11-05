@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G4AWA
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=211201&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=747; excluded rows=0.
+QSO:   144 FT8 2021-12-01 1905 G4AWA         +03 IO90             GW0PRM        -07 IO83
+QSO:   144 FT8 2021-12-01 1907 G4AWA         -11 IO90             G7GXK         -16 IO90
+QSO:   144 FT8 2021-12-01 1908 G4AWA         +19 IO90             M0WEO         +17 IO90
+QSO:   144 FT8 2021-12-01 1911 G4AWA         +09 IO90             GW4HDF        -08 IO81
+QSO:   144 FT8 2021-12-01 1917 G4AWA         -09 IO90             G8EEM         -14 IO93
+QSO:   144 FT8 2021-12-01 1924 G4AWA         -24 IO90             G4NBS         -13 JO02
+QSO:   144 FT8 2021-12-01 1931 G4AWA         +05 IO90             2E0GTD        +10 IO91
+QSO:   144 FT8 2021-12-01 1935 G4AWA         +06 IO90             MW3ASG        +00 IO81
+QSO:   144 FT8 2021-12-01 1940 G4AWA         +21 IO90             G3WAG/P       +00 IO82
+QSO:   144 FT8 2021-12-01 1941 G4AWA         -06 IO90             GI6ATZ        -19 IO74
+QSO:   144 FT8 2021-12-01 1953 G4AWA         -13 IO90             M0IEP         -15 IO91
+QSO:   144 FT8 2021-12-01 2004 G4AWA         -12 IO90             G8AOE/P       -08 IO94
+QSO:   144 FT8 2021-12-01 2011 G4AWA         +03 IO90             F4HRD         +04 JO00
+QSO:   144 FT8 2021-12-01 2015 G4AWA         +02 IO90             G7WIR         -21 JO01
+QSO:   144 FT8 2021-12-01 2023 G4AWA         -06 IO90             G8IXK         -06 IO91
+QSO:   144 FT8 2021-12-01 2025 G4AWA         -03 IO90             2E0SNB        -14 IO91
+QSO:   144 FT8 2021-12-01 2030 G4AWA         +07 IO90             2E1EMK        +02 IO91
+QSO:   144 FT8 2021-12-01 2040 G4AWA         +10 IO90             GM4CXM        -16 IO75
+QSO:   144 FT8 2021-12-01 2044 G4AWA         +04 IO90             GW4FRX        -10 IO82
+END-OF-LOG:

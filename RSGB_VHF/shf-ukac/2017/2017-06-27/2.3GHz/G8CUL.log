@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G8CUL
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO91JO
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=170627&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=169; excluded rows=0.
+QSO:  2.3G PH 2017-06-27 2033 G8CUL         59 1 IO91JO          G4KIY         59 1 IO92WN
+QSO:  2.3G PH 2017-06-27 2040 G8CUL         59 2 IO91JO          G4BRK         59 2 IO91HP
+QSO:  2.3G CW 2017-06-27 2100 G8CUL         519 3 IO91JO         G4ALY         529 2 IO70VL
+QSO:  2.3G PH 2017-06-27 2102 G8CUL         59 4 IO91JO          G0JBA         57 2 JO01PG
+QSO:  2.3G PH 2017-06-27 2104 G8CUL         59 5 IO91JO          G4LDR         59 3 IO91EC
+QSO:  2.3G PH 2017-06-27 2106 G8CUL         57 6 IO91JO          G4KCT         58 8 IO93LW
+QSO:  2.3G PH 2017-06-27 2109 G8CUL         53 7 IO91JO          G3UVR         56 9 IO83KH
+QSO:  2.3G PH 2017-06-27 2111 G8CUL         51 8 IO91JO          GW8ASD        55 5 IO83LB
+QSO:  2.3G PH 2017-06-27 2111 G8CUL         57 9 IO91JO          G4CLA         59 6 IO92JL
+QSO:  2.3G PH 2017-06-27 2114 G8CUL         57 10 IO91JO         G4JLG/P       56 6 IO83RO
+QSO:  2.3G PH 2017-06-27 2128 G8CUL         51 11 IO91JO         G8REQ         54 8 IO83KI
+QSO:  2.3G PH 2017-06-27 2131 G8CUL         53 12 IO91JO         M0ORO         53 6 IO93EQ
+QSO:  2.3G PH 2017-06-27 2133 G8CUL         53 13 IO91JO         G8SFI         55 1 IO93LW
+QSO:  2.3G PH 2017-06-27 2140 G8CUL         51 14 IO91JO         G4DBN         52 8 IO93NR
+QSO:  2.3G PH 2017-06-27 2142 G8CUL         57 15 IO91JO         G3XDY         57 13 JO02OB
+QSO:  2.3G PH 2017-06-27 2153 G8CUL         51 16 IO91JO         G8BUN         51 3 IO93EQ
+END-OF-LOG:

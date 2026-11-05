@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4NMD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91RE
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4819; excluded rows=1.
+QSO:   432 PH 2023-02-05 0900 G4NMD         59 1 IO91RE          G0XDI         59 1 IO91RQ
+QSO:   432 PH 2023-02-05 0902 G4NMD         59 2 IO91RE          G0SKA         59 2 IO91OQ
+QSO:   432 PH 2023-02-05 0903 G4NMD         59 3 IO91RE          G4EFT         59 2 IO91RG
+QSO:   432 PH 2023-02-05 0905 G4NMD         59 4 IO91RE          M0NVS/P       59 2 IO91SR
+QSO:   432 PH 2023-02-05 0906 G4NMD         55 5 IO91RE          G4YPC         55 5 IO91RH
+QSO:   432 PH 2023-02-05 0909 G4NMD         55 6 IO91RE          G8CUL         55 4 IO91JO
+QSO:   432 PH 2023-02-05 0912 G4NMD         57 7 IO91RE          G3MEH         57 7 IO91QS
+QSO:   432 PH 2023-02-05 0920 G4NMD         59 8 IO91RE          F4FET         59 22 JO00TQ
+QSO:   432 PH 2023-02-05 0925 G4NMD         59 9 IO91RE          M0IAM         59 9 IO91QE
+QSO:   432 PH 2023-02-05 0932 G4NMD         56 10 IO91RE         G4CWH/P       53 9 IO92XA
+QSO:   432 PH 2023-02-05 0944 G4NMD         59 11 IO91RE         G0ODQ         59 35 IO91MR
+QSO:   432 PH 2023-02-05 0947 G4NMD         55 12 IO91RE         G1KAR/P       55 9 JO00DR
+QSO:   432 PH 2023-02-05 0958 G4NMD         59 13 IO91RE         G3VYI         59 23 IO91OF
+QSO:   432 PH 2023-02-05 1045 G4NMD         55 14 IO91RE         G8DOH         53 61 IO92FA
+END-OF-LOG:

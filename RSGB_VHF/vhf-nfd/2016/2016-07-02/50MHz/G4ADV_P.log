@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4ADV/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO70NK
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3241; excluded rows=20.
+QSO:    50 PH 2016-07-02 1438 G4ADV/P       59 1 IO70NK          EI9E/P        59 24 IO62OM
+QSO:    50 PH 2016-07-02 1452 G4ADV/P       59 2 IO70NK          M1AWX         59 1 IO70LJ
+QSO:    50 PH 2016-07-02 1505 G4ADV/P       59 3 IO70NK          M0MCG/P       53 18 IO80AQ
+QSO:    50 PH 2016-07-02 1544 G4ADV/P       57 4 IO70NK          G2BKY/P       53 68 IO81RF
+END-OF-LOG:

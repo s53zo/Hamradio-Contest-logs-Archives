@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M0MDS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91WO
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=210209&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=682; excluded rows=0.
+QSO:   432 FM 2021-02-09 1907 M0MDS         59 1 IO91WO          M7MRF         59 1 JO01AP
+QSO:   432 FM 2021-02-09 1907 M0MDS         59 2 IO91WO          G0UJA         59 3 JO01BJ
+QSO:   432 FM 2021-02-09 1925 M0MDS         59 3 IO91WO          G7WIR         57 5 JO01BJ
+QSO:   432 FM 2021-02-09 1926 M0MDS         59 4 IO91WO          2E0RCW        59 2 JO01AQ
+QSO:   432 FM 2021-02-09 1927 M0MDS         59 5 IO91WO          G8GYX         55 9 IO91VH
+QSO:   432 FM 2021-02-09 1928 M0MDS         55 6 IO91WO          2E0GHH        59 4 IO91WI
+QSO:   432 FM 2021-02-09 1928 M0MDS         52 7 IO91WO          G1HRD         41 4 IO91VI
+QSO:   432 FM 2021-02-09 1930 M0MDS         59 8 IO91WO          2E0ECC        59 2 IO91XT
+QSO:   432 FM 2021-02-09 1931 M0MDS         59 9 IO91WO          2E0WOB        59 5 IO91XP
+END-OF-LOG:

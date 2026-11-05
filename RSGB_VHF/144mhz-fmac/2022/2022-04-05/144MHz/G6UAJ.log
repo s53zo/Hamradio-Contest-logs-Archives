@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G6UAJ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91CN
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=220405&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1140; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 FM 2022-04-05 1809 G6UAJ         59 1 IO91CN          M1DST         59 12 IO91BN
+QSO:   144 FM 2022-04-05 1811 G6UAJ         59 2 IO91CN          2E0YCC/P      59 13 IO91CM
+QSO:   144 FM 2022-04-05 1812 G6UAJ         59 3 IO91CN          M5CBS/P       59 14 IO91CL
+QSO:   144 FM 2022-04-05 1814 G6UAJ         59 4 IO91CN          2E0WHQ/P      59 12 IO91CL
+QSO:   144 FM 2022-04-05 1816 G6UAJ         59 5 IO91CN          M0ACM         59 8 IO91CO
+QSO:   144 FM 2022-04-05 1822 G6UAJ         59 6 IO91CN          G3YBY         59 19 IO91BO
+QSO:   144 FM 2022-04-05 1829 G6UAJ         59 7 IO91CN          G1ERM         59 10 IO91CN
+QSO:   144 FM 2022-04-05 1830 G6UAJ         59 8 IO91CN          G7HEU         59 6 IO91CM
+QSO:   144 FM 2022-04-05 1833 G6UAJ         59 9 IO91CN          G4ILI/P       59 29 IO81WU
+QSO:   144 FM 2022-04-05 1839 G6UAJ         59 11 IO91CN         G1DFL/P       59 20 IO91LO
+QSO:   144 FM 2022-04-05 1840 G6UAJ         59 12 IO91CN         G4HGV         59 13 IO91CO
+QSO:   144 FM 2022-04-05 1850 G6UAJ         55 13 IO91CN         G4RRA         55 38 IO80BS
+QSO:   144 FM 2022-04-05 1852 G6UAJ         59 14 IO91CN         G0VTA         59 14 IO91CN
+QSO:   144 FM 2022-04-05 1854 G6UAJ         59 15 IO91CN         M0NYY         59 11 IO91AR
+END-OF-LOG:

@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: G4LDR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91EC
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4656; excluded rows=3.
+QSO:   144 PH 2017-03-04 2123 G4LDR         55 1 IO91EC          F8KID         553 328 JN38AT
+QSO:   144 PH 2017-03-04 2125 G4LDR         58 2 IO91EC          G3M           56 312 JO01QD
+QSO:   144 PH 2017-03-04 2130 G4LDR         55 3 IO91EC          DK5DQ         55 237 JO31QH
+QSO:   144 PH 2017-03-04 2135 G4LDR         59 4 IO91EC          F6HPP/P       59 298 JN19PG
+QSO:   144 PH 2017-03-04 2137 G4LDR         59 5 IO91EC          G8T           59 361 JO01KJ
+QSO:   144 PH 2017-03-04 2140 G4LDR         59 6 IO91EC          G8W           59 187 IO90JO
+QSO:   144 PH 2017-03-04 2142 G4LDR         59 7 IO91EC          M0WCO         59 121 JO00EW
+END-OF-LOG:

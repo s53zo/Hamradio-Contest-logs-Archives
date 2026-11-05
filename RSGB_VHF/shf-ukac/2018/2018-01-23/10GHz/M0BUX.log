@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: M0BUX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO82WA
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=180123&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=99; excluded rows=0.
+QSO:   10G PH 2018-01-23 1936 M0BUX         59 1 IO82WA          2E0MDJ/P      59 1 IO81WU
+QSO:   10G PH 2018-01-23 1949 M0BUX         59 2 IO82WA          G0LGS/P       59 4 IO81WU
+QSO:   10G PH 2018-01-23 1950 M0BUX         57 3 IO82WA          G3VKV         55 5 IO81XV
+QSO:   10G PH 2018-01-23 2039 M0BUX         59 4 IO82WA          M0RKX/P       59 5 IO92DB
+END-OF-LOG:

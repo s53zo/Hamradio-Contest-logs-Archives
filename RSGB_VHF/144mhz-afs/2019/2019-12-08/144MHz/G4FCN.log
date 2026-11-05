@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G4FCN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO80EL
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6102; excluded rows=2.
+QSO:   144 PH 2019-12-08 1032 G4FCN         59 1 IO80EL          G7RAU         59 9 IN79JX
+QSO:   144 PH 2019-12-08 1043 G4FCN         59 2 IO80EL          G5LK          54 47 IO91SG
+QSO:   144 PH 2019-12-08 1100 G4FCN         57 3 IO80EL          G6ZXN/P       53 27 IO80UU
+QSO:   144 PH 2019-12-08 1128 G4FCN         57 4 IO80EL          G4BWP         59 57 JO02FH
+QSO:   144 PH 2019-12-08 1133 G4FCN         54 5 IO80EL          M0BAA         55 81 JO01KJ
+QSO:   144 PH 2019-12-08 1234 G4FCN         57 6 IO80EL          G4ODA         58 112 IO92WS
+QSO:   144 PH 2019-12-08 1242 G4FCN         55 7 IO80EL          G4YPC         51 57 IO91RH
+QSO:   144 PH 2019-12-08 1409 G4FCN         57 8 IO80EL          G5PI/P        56 132 IO92XA
+QSO:   144 PH 2019-12-08 1409 G4FCN         59 9 IO80EL          G3WCB         59 7 IO80EI
+QSO:   144 PH 2019-12-08 1447 G4FCN         55 10 IO80EL         G3MEH         54 110 IO91QS
+END-OF-LOG:

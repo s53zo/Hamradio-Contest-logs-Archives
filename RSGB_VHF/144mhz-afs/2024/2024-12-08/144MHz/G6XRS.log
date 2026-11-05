@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G6XRS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92IM
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2725; excluded rows=0.
+QSO:   144 PH 2024-12-08 1003 G6XRS         59 1 IO92IM          G2AA          59 1 IO92JP
+QSO:   144 PH 2024-12-08 1006 G6XRS         59 2 IO92IM          G4LIP         59 6 IO92JL
+QSO:   144 PH 2024-12-08 1049 G6XRS         59 3 IO92IM          GD8EXI        59 30 IO74PC
+QSO:   144 PH 2024-12-08 1058 G6XRS         59 4 IO92IM          G4ODA         59 39 IO92WS
+QSO:   144 PH 2024-12-08 1115 G6XRS         59 5 IO92IM          G0XDI         59 47 IO91RP
+QSO:   144 PH 2024-12-08 1120 G6XRS         59 6 IO92IM          G3TBK         58 30 IO93QA
+QSO:   144 PH 2024-12-08 1126 G6XRS         59 7 IO92IM          G8DOH         59 30 IO92FA
+QSO:   144 PH 2024-12-08 1236 G6XRS         59 8 IO92IM          G4HWA         59 41 IO92ME
+QSO:   144 PH 2024-12-08 1314 G6XRS         59 9 IO92IM          G5TO          59 39 IO93GG
+QSO:   144 PH 2024-12-08 1329 G6XRS         59 10 IO92IM         G3OVH         59 14 IO92JP
+END-OF-LOG:

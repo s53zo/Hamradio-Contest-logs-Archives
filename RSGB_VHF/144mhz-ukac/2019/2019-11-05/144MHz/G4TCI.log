@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4TCI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81OI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=191105&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9579; excluded rows=0.
+QSO:   144 PH 2019-11-05 2001 G4TCI         55 1 IO81OI          G4ASR         52 2 IO81MX
+QSO:   144 PH 2019-11-05 2004 G4TCI         57 2 IO81OI          2E0VCC/P      58 4 IO70SP
+QSO:   144 PH 2019-11-05 2010 G4TCI         59 3 IO81OI          G0LTG         59 9 IO81RF
+QSO:   144 PH 2019-11-05 2030 G4TCI         59 4 IO81OI          G0ALI/M       59 1 IO81OK
+QSO:   144 PH 2019-11-05 2032 G4TCI         55 5 IO81OI          G8GRS         57 8 IO81QJ
+QSO:   144 PH 2019-11-05 2133 G4TCI         55 6 IO81OI          GW0HYU        55 9 IO81KM
+QSO:   144 PH 2019-11-05 2154 G4TCI         55 7 IO81OI          G4RUL/P       56 74 JO00DR
+QSO:   144 PH 2019-11-05 2208 G4TCI         59 8 IO81OI          G4CLA         59 214 IO92JL
+END-OF-LOG:

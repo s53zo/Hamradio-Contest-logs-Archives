@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: M0HPI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91QG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2914; excluded rows=3.
+QSO:    50 PH 2023-10-22 1141 M0HPI         59 1 IO91QG GU       G4YPC         55 37 IO91RH GU
+QSO:    50 PH 2023-10-22 1146 M0HPI         56 2 IO91QG GU       G4GFI         51 61 IO91VH KT
+QSO:    50 PH 2023-10-22 1154 M0HPI         58 3 IO91QG GU       G0SKA         52 55 IO91OQ HP
+QSO:    50 PH 2023-10-22 1155 M0HPI         58 4 IO91QG GU       G4EFT         59 41 IO91RG GU
+QSO:    50 PH 2023-10-22 1201 M0HPI         58 5 IO91QG GU       G3MEH         42 61 IO91QS HP
+QSO:    50 PH 2023-10-22 1207 M0HPI         53 6 IO91QG GU       G0ODQ         54 70 IO91MR OX
+QSO:    50 PH 2023-10-22 1214 M0HPI         58 7 IO91QG GU       G0XDI         55 61 IO91RQ HP
+QSO:    50 PH 2023-10-22 1222 M0HPI         58 8 IO91QG GU       G4SDM         57 18 IO91SI KT
+QSO:    50 PH 2023-10-22 1230 M0HPI         58 9 IO91QG GU       G4CTP         55 18 IO91RG GU
+END-OF-LOG:

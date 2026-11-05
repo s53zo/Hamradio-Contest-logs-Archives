@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4VYP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83MP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190402&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11652; excluded rows=2.
+QSO:   144 PH 2019-04-02 1909 G4VYP         59 1 IO83MP          M1MHZ         59 15 IO92WV
+QSO:   144 PH 2019-04-02 1912 G4VYP         59 2 IO83MP          M1EYP/P       59 14 IO83WE
+QSO:   144 PH 2019-04-02 1918 G4VYP         59 3 IO83MP          M0OMB         59 14 IO83PO
+QSO:   144 PH 2019-04-02 1940 G4VYP         59 4 IO83MP          G8HXE/P       59 17 IO83RO
+QSO:   144 PH 2019-04-02 1941 G4VYP         57 5 IO83MP          GD0AMD/P      57 24 IO74QD
+QSO:   144 PH 2019-04-02 1946 G4VYP         56 6 IO83MP          GD8EXI        55 55 IO74PC
+QSO:   144 PH 2019-04-02 2000 G4VYP         57 7 IO83MP          G8REQ         59 27 IO83KI
+END-OF-LOG:

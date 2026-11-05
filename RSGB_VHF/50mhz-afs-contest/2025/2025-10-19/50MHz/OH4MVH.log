@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: OH4MVH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: KP32PG
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2706; excluded rows=0.
+QSO:    50 PH 2025-10-19 1105 OH4MVH        26 1 KP32PG #        G4CWH/P       26 58 IO92XA 26
+QSO:    50 PH 2025-10-19 1135 OH4MVH        26 2 KP32PG #        G5PI/P        26 76 JO02EB
+QSO:    50 PH 2025-10-19 1155 OH4MVH        26 3 KP32PG #        G4BWP         26 82 JO02FH IP
+END-OF-LOG:

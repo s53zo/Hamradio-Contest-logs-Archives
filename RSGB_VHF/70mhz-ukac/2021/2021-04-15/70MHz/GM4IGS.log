@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GM4IGS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO75QN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210415&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6069; excluded rows=2.
+QSO:    70 PH 2021-04-15 1923 GM4IGS        56 1 IO75QN          MM0GHW        57 1 IO75TO
+QSO:    70 CW 2021-04-15 1954 GM4IGS        559 2 IO75QN         GM4DIJ        549 7 IO85IW
+QSO:    70 CW 2021-04-15 1957 GM4IGS        559 3 IO75QN         MM0GOR        529 3 IO85AU
+QSO:    70 PH 2021-04-15 2022 GM4IGS        57 4 IO75QN          GM4JTJ        539 26 IO86RP
+QSO:    70 PH 2021-04-15 2028 GM4IGS        56 5 IO75QN          GM4AFF        55 27 IO86TS
+END-OF-LOG:

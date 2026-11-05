@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GW4MBS
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO71XW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250506&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=11760; excluded rows=7.
+QSO:   144 CW 2025-05-06 2023 GW4MBS        539 1 IO71XW         G4BEE/P       549 32 IO84SA
+QSO:   144 CW 2025-05-06 2027 GW4MBS        539 2 IO71XW         G3TDH         559 34 IO83WI
+QSO:   144 CW 2025-05-06 2031 GW4MBS        539 3 IO71XW         G0CDA         559 33 IO83SJ
+QSO:   144 CW 2025-05-06 2038 GW4MBS        539 4 IO71XW         G3WGN         539 43 IO80EJ
+QSO:   144 CW 2025-05-06 2057 GW4MBS        539 5 IO71XW         G0UUU/P       559 31 IO94RJ
+QSO:   144 CW 2025-05-06 2100 GW4MBS        539 6 IO71XW         G4BP          559 59 IO94OF
+QSO:   144 CW 2025-05-06 2111 GW4MBS        539 7 IO71XW         G4GUF/P       569 29 IO93PV
+END-OF-LOG:

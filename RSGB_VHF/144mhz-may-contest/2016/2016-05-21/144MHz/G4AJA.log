@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G4AJA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91DP
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5965; excluded rows=20.
+QSO:   144 PH 2016-05-21 2011 G4AJA         59 1 IO91DP SN       M0MDG/P       59 91 IO91MP HP
+QSO:   144 PH 2016-05-21 2024 G4AJA         55 2 IO91DP SN       G3M           53 176 JO01QD CT
+QSO:   144 PH 2016-05-21 2034 G4AJA         59 3 IO91DP SN       M4W           59 74 IO91CL SN
+QSO:   144 PH 2016-05-21 2045 G4AJA         55 4 IO91DP SN       G3WIR/P       53 75 IO91PK RG
+QSO:   144 PH 2016-05-21 2100 G4AJA         55 5 IO91DP SN       G0VHF/P       52 208 JO01PU CO
+END-OF-LOG:

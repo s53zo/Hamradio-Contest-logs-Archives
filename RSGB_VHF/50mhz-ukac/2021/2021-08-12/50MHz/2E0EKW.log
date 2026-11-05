@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: 2E0EKW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92DE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210812&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5832; excluded rows=2.
+QSO:    50 PH 2021-08-12 1900 2E0EKW        55 1 IO92DE          G6AD          52 1 IO92GL
+QSO:    50 PH 2021-08-12 1902 2E0EKW        59 2 IO92DE          G4ASR         59 3 IO81MX
+QSO:    50 PH 2021-08-12 1905 2E0EKW        57 3 IO92DE          GW4SHF        52 5 IO82HP
+QSO:    50 PH 2021-08-12 1907 2E0EKW        59 4 IO92DE          MW1LCR/P      59 5 IO81NV
+QSO:    50 PH 2021-08-12 1910 2E0EKW        57 5 IO92DE          G4EPA         55 5 IO92KI
+QSO:    50 PH 2021-08-12 1911 2E0EKW        59 6 IO92DE          G4CLA         59 18 IO92JL
+QSO:    50 PH 2021-08-12 1917 2E0EKW        59 7 IO92DE          G3TBK/P       57 27 IO93RA
+QSO:    50 PH 2021-08-12 1925 2E0EKW        59 8 IO92DE          G4ILI/P       57 7 IO81WU
+QSO:    50 PH 2021-08-12 1930 2E0EKW        59 9 IO92DE          G4TVR         59 19 IO92CI
+QSO:    50 PH 2021-08-12 1935 2E0EKW        59 10 IO92DE         GW0GEI        55 21 IO72VE
+QSO:    50 PH 2021-08-12 1950 2E0EKW        59 11 IO92DE         M0NVS/P       53 47 IO91RU
+QSO:    50 PH 2021-08-12 1955 2E0EKW        59 12 IO92DE         2E0VCC/P      57 36 IO70SP
+END-OF-LOG:

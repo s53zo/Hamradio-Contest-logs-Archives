@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G8NSZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81XV
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6704; excluded rows=2.
+QSO:   144 PH 2021-05-15 1400 G8NSZ         59 1 IO81XV GL       G0JCC         59 2 IO82MA HR
+QSO:   144 PH 2021-05-15 1418 G8NSZ         58 2 IO81XV GL       G0LGS         57 7 IO81WV GL
+QSO:   144 PH 2021-05-15 1433 G8NSZ         59 3 IO81XV GL       G4ASR         57 13 IO81NX HR
+QSO:   144 PH 2021-05-15 2017 G8NSZ         59 4 IO81XV GL       G4ILI         59 34 IO81WV GL
+QSO:   144 PH 2021-05-15 2021 G8NSZ         59 5 IO81XV GL       M0BUL         57 44 IO82NG HR
+QSO:   144 PH 2021-05-15 2029 G8NSZ         58 6 IO81XV GL       M0ICK/P       55 144 IO93AD ST
+QSO:   144 PH 2021-05-15 2043 G8NSZ         55 7 IO81XV GL       M0IEP         52 46 IO91DP SN
+QSO:   144 PH 2021-05-15 2056 G8NSZ         58 8 IO81XV GL       G4CIB         55 13 IO81VX GL
+QSO:   144 PH 2021-05-16 1021 G8NSZ         57 9 IO81XV GL       2E0EKW/P      54 41 IO92DE CV
+QSO:   144 PH 2021-05-16 1037 G8NSZ         57 10 IO81XV GL      G8CMU         59 11 IO81RW HR
+QSO:   144 PH 2021-05-16 1040 G8NSZ         59 11 IO81XV GL      G1HRW/P       55 92 IO91GI RG
+QSO:   144 PH 2021-05-16 1107 G8NSZ         59 12 IO81XV GL      GW1YBB/P      59 20 IO81KW NP
+QSO:   144 PH 2021-05-16 1111 G8NSZ         57 13 IO81XV GL      2E0IEI        53 24 IO81VL GL
+END-OF-LOG:

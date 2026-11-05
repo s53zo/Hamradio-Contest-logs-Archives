@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M7DQO
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92XR
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230704&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=826; excluded rows=0.
+QSO:   144 FM 2023-07-04 1801 M7DQO         59 1 IO92XR          M7ALE/P       53 1 IO93QT
+QSO:   144 FM 2023-07-04 1801 M7DQO         59 2 IO92XR          G4ODA         59 1 IO92WS
+QSO:   144 FM 2023-07-04 1809 M7DQO         59 3 IO92XR          G1DSP         59 1 IO92WU
+QSO:   144 FM 2023-07-04 1814 M7DQO         59 4 IO92XR          M7TNI         59 2 IO92VQ
+QSO:   144 FM 2023-07-04 1817 M7DQO         59 5 IO92XR          G1YBB/P       59 9 IO82LB
+QSO:   144 FM 2023-07-04 1834 M7DQO         58 6 IO92XR          G0FVI/P       58 5 IO93RD
+QSO:   144 FM 2023-07-04 1847 M7DQO         59 7 IO92XR          M1DDD/P       59 29 IO93CH
+QSO:   144 FM 2023-07-04 1850 M7DQO         59 8 IO92XR          G0HGH         59 1 IO92WS
+END-OF-LOG:

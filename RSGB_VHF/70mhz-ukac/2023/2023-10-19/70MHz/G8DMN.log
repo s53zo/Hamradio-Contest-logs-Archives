@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G8DMN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO81RD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=231019&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2689; excluded rows=0.
+QSO:    70 PH 2023-10-19 1900 G8DMN         59 1 IO81RD          G6UAJ/P       59 1 IO91CL
+QSO:    70 PH 2023-10-19 1900 G8DMN         59 2 IO81RD          G3TCT         59 2 IO81QC
+QSO:    70 PH 2023-10-19 1900 G8DMN         59 3 IO81RD          G3TKF         59 2 IO81RI
+QSO:    70 PH 2023-10-19 1900 G8DMN         56 4 IO81RD          G0ODQ         57 24 IO91MR
+QSO:    70 PH 2023-10-19 1900 G8DMN         54 5 IO81RD          G4CIZ         54 21 IO91FG
+END-OF-LOG:

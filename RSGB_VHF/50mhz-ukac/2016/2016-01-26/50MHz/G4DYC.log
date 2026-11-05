@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4DYC
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02MP
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160126&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5089; excluded rows=69.
+QSO:    50 PH 2016-01-26 2014 G4DYC         59 1 JO02MP          G3LDI         59 1 JO02ON
+QSO:    50 PH 2016-01-26 2024 G4DYC         59 2 JO02MP          G3YOA         59 5 JO02QU
+QSO:    50 PH 2016-01-26 2027 G4DYC         55 3 JO02MP          G4NRG         51 2 JO02MM
+QSO:    50 PH 2016-01-26 2037 G4DYC         59 4 JO02MP          G4DCJ         59 5 JO02IT
+QSO:    50 PH 2016-01-26 2051 G4DYC         53 5 JO02MP          G4CLA         55 60 IO92JL
+QSO:    50 CW 2016-01-26 2134 G4DYC         559 6 JO02MP         G8VPE         599 2 JO02TP
+END-OF-LOG:

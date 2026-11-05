@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4ASR/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81MW
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230404&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13527; excluded rows=7.
+QSO:   144 PH 2023-04-04 1900 G4ASR/P       59 1 IO81MW          G0LGS         59 1 IO81WV
+QSO:   144 PH 2023-04-04 1900 G4ASR/P       59 2 IO81MW          M7TPE         59 1 IO81PV
+QSO:   144 PH 2023-04-04 1902 G4ASR/P       59 3 IO81MW          G4XTF         59 2 IO82OA
+QSO:   144 PH 2023-04-04 1903 G4ASR/P       59 4 IO81MW          G6AHX         59 2 IO82WA
+QSO:   144 PH 2023-04-04 1903 G4ASR/P       59 5 IO81MW          G8LNR/P       59 3 IO81VR
+QSO:   144 PH 2023-04-04 1904 G4ASR/P       59 6 IO81MW          G4ILI/P       59 3 IO81WU
+QSO:   144 PH 2023-04-04 1905 G4ASR/P       57 7 IO81MW          G8OVZ/P       58 3 JO01AV
+QSO:   144 PH 2023-04-04 1909 G4ASR/P       57 8 IO81MW          2E0VCC/P      57 15 IO70SP
+QSO:   144 PH 2023-04-04 1915 G4ASR/P       59 9 IO81MW          M0BUL/P       59 18 IO82NG
+QSO:   144 PH 2023-04-04 1916 G4ASR/P       59 10 IO81MW         G1YBB/P       59 35 IO82LB
+QSO:   144 PH 2023-04-04 1918 G4ASR/P       58 11 IO81MW         G0JCC         59 21 IO82MA
+QSO:   144 PH 2023-04-04 1920 G4ASR/P       59 12 IO81MW         G3TBK/P       59 25 IO93RA
+QSO:   144 PH 2023-04-04 1921 G4ASR/P       59 13 IO81MW         GW0RHC        59 27 IO71UN
+END-OF-LOG:

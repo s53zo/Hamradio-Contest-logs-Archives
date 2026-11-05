@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0VGA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93FX
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160301&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10593; excluded rows=4.
+QSO:   144 PH 2016-03-01 2051 M0VGA         59 1 IO93FX          G4FZN/P       59 68 IO94JF
+QSO:   144 PH 2016-03-01 2111 M0VGA         59 2 IO93FX          M6KTP/P       59 43 IO93EK
+QSO:   144 PH 2016-03-01 2121 M0VGA         57 3 IO93FX          G0EAK/P       57 66 IO93NI
+QSO:   144 PH 2016-03-01 2146 M0VGA         59 4 IO93FX          G4HGP/P       57 68 IO93DV
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G3SGC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: JO02TS
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=221020&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3025; excluded rows=2.
+QSO:    70 PH 2022-10-20 1902 G3SGC         59 1 JO02TS          G4LPP         59 2 JO02SS
+QSO:    70 PH 2022-10-20 1904 G3SGC         55 2 JO02TS          G4PFZ         55 3 JO02PP
+QSO:    70 PH 2022-10-20 1909 G3SGC         53 3 JO02TS          G4AFF         53 5 JO02LO
+QSO:    70 PH 2022-10-20 1915 G3SGC         57 4 JO02TS          G3XDY         57 11 JO02OB
+QSO:    70 PH 2022-10-20 1927 G3SGC         52 5 JO02TS          G1SCT         52 14 IO92XT
+QSO:    70 PH 2022-10-20 1931 G3SGC         57 6 JO02TS          M1MHZ         57 26 IO92WV
+QSO:    70 PH 2022-10-20 1933 G3SGC         57 7 JO02TS          G7LRQ/P       57 25 IO91TU
+QSO:    70 PH 2022-10-20 1943 G3SGC         59 8 JO02TS          G4ODA         59 26 IO92WS
+QSO:    70 PH 2022-10-20 1954 G3SGC         57 9 JO02TS          G4CLA         57 65 IO92JL
+QSO:    70 PH 2022-10-20 2113 G3SGC         52 10 JO02TS         PE1EWR        52 14 JO11SL
+QSO:    70 PH 2022-10-20 2124 G3SGC         52 11 JO02TS         G4ASR         52 88 IO81MX
+QSO:    70 PH 2022-10-20 2129 G3SGC         57 12 JO02TS         G1YBB/P       57 84 IO82LB
+END-OF-LOG:

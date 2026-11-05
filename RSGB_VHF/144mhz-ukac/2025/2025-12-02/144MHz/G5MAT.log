@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G5MAT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92GL
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=251202&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7305; excluded rows=3.
+QSO:   144 PH 2025-12-02 2121 G5MAT         59 1 IO92GL          G3SQQ         58 52 IO93JC
+QSO:   144 PH 2025-12-02 2137 G5MAT         57 2 IO92GL          G4ZTR         57 50 JO01KW
+QSO:   144 PH 2025-12-02 2138 G5MAT         57 3 IO92GL          G4PIQ         59 91 JO02OD
+QSO:   144 PH 2025-12-02 2146 G5MAT         55 4 IO92GL          GD8EXI        53 110 IO74PC
+QSO:   144 PH 2025-12-02 2148 G5MAT         59 5 IO92GL          G3NFC/P       59 47 IO92EQ
+QSO:   144 PH 2025-12-02 2150 G5MAT         59 6 IO92GL          M1EYP/P       59 71 IO83WE
+QSO:   144 PH 2025-12-02 2155 G5MAT         55 7 IO92GL          G0LTG/P       52 100 IO81RF
+QSO:   144 PH 2025-12-02 2159 G5MAT         55 8 IO92GL          M8VCC/P       56 90 IO70SP
+QSO:   144 PH 2025-12-02 2202 G5MAT         59 9 IO92GL          MW0LKX/P      59 120 IO82KL
+QSO:   144 PH 2025-12-02 2206 G5MAT         57 10 IO92GL         M0NVS/P       57 84 IO91RR
+QSO:   144 PH 2025-12-02 2212 G5MAT         59 11 IO92GL         G0ODQ         59 81 IO91MR
+QSO:   144 PH 2025-12-02 2213 G5MAT         59 12 IO92GL         G4CLA         59 194 IO92JL
+QSO:   144 PH 2025-12-02 2215 G5MAT         59 13 IO92GL         G0FEH/P       59 75 IO92HD
+QSO:   144 PH 2025-12-02 2217 G5MAT         59 14 IO92GL         G8SEI         59 93 IO92FO
+QSO:   144 PH 2025-12-02 2225 G5MAT         59 15 IO92GL         G0NZI/P       59 55 IO92FM
+END-OF-LOG:

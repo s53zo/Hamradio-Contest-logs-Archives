@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M6YTU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO90WX
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=161108&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5632; excluded rows=1.
+QSO:   432 PH 2016-11-08 2016 M6YTU         53 1 IO90WX          G6DOD/P       54 8 IO90JO
+QSO:   432 PH 2016-11-08 2020 M6YTU         56 2 IO90WX          G0XDI/P       55 29 JO01KJ
+QSO:   432 PH 2016-11-08 2033 M6YTU         53 3 IO90WX          G4GFI         53 13 IO91VH
+QSO:   432 PH 2016-11-08 2041 M6YTU         51 4 IO90WX          G4CLA         55 77 IO92JL
+QSO:   432 PH 2016-11-08 2052 M6YTU         51 5 IO90WX          G7LRQ         55 37 IO91TQ
+QSO:   432 PH 2016-11-08 2112 M6YTU         51 6 IO90WX          M6PWD         31 16 JO00HV
+END-OF-LOG:

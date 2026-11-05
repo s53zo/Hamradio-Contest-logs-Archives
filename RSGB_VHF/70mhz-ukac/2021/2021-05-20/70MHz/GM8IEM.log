@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GM8IEM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO78HF
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210520&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2775; excluded rows=2.
+QSO:    70 PH 2021-05-20 1902 GM8IEM        59 1 IO78HF          GM4VVX        59 1 IO78TA
+QSO:    70 PH 2021-05-20 1906 GM8IEM        54 2 IO78HF          GM4JTJ        56 3 IO86RP
+QSO:    70 PH 2021-05-20 1909 GM8IEM        51 3 IO78HF          GI4SNA        51 3 IO64XM
+QSO:    70 PH 2021-05-20 2011 GM8IEM        26 4 IO78HF          LC1V          26 0 JP50JA
+QSO:    70 PH 2021-05-20 2049 GM8IEM        26 5 IO78HF          OZ5KM         26 0 JO45VX
+QSO:    70 PH 2021-05-20 2120 GM8IEM        26 6 IO78HF          G4ASR         26 72 IO81MX
+QSO:    70 CW 2021-05-20 2127 GM8IEM        549 7 IO78HF         G4KUX         559 13 IO94BP
+END-OF-LOG:

@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0NES
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92BJ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=170119&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4296; excluded rows=3.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (2).
+QSO:    70 PH 2017-01-19 2008 G0NES         55 1 IO92BJ          G3VCA         52 8 IO93MG
+QSO:    70 PH 2017-01-19 2017 G0NES         55 2 IO92BJ          G0HEL/P       58 19 IO81WG
+QSO:    70 PH 2017-01-19 2018 G0NES         55 3 IO92BJ          G7LRQ/P       55 30 IO91RU
+QSO:    70 PH 2017-01-19 2022 G0NES         55 4 IO92BJ          G3SQQ         55 12 IO93JC
+QSO:    70 PH 2017-01-19 2030 G0NES         53 5 IO92BJ          G4ODA         56 36 IO92WS
+QSO:    70 PH 2017-01-19 2036 G0NES         57 6 IO92BJ          G3MXH         54 34 JO02LF
+QSO:    70 PH 2017-01-19 2052 G0NES         55 7 IO92BJ          2E0RET/P      57 21 IO93FE
+QSO:    70 PH 2017-01-19 2058 G0NES         57 8 IO92BJ          G0VVE         59 54 IO91SG
+QSO:    70 PH 2017-01-19 2101 G0NES         55 9 IO92BJ          G8CUL         51 37 IO91JO
+QSO:    70 PH 2017-01-19 2114 G0NES         59 10 IO92BJ         G4CLA         59 73 IO92JL
+QSO:    70 PH 2017-01-19 2119 G0NES         59 11 IO92BJ         G4FEV         55 47 IO92RG
+QSO:    70 PH 2017-01-19 2125 G0NES         55 12 IO92BJ         G4FZN/P       42 82 IO94JF
+QSO:    70 PH 2017-01-19 2157 G0NES         55 15 IO92BJ         G4BWP         55 114 JO02FH
+QSO:    70 PH 2017-01-19 2202 G0NES         55 16 IO92BJ         G4NTY         52 58 IO83TM
+END-OF-LOG:

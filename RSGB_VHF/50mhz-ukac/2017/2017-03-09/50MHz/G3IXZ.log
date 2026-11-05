@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3IXZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82PD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170309&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4744; excluded rows=1.
+QSO:    50 PH 2017-03-09 2131 G3IXZ         59 1 IO82PD          G4ASR         59 79 IO81MX
+QSO:    50 PH 2017-03-09 2141 G3IXZ         57 2 IO82PD          M0KJR         57 34 IO81VH
+QSO:    50 PH 2017-03-09 2150 G3IXZ         59 3 IO82PD          G3WRA/P       59 58 IO82QE
+QSO:    50 PH 2017-03-09 2151 G3IXZ         59 4 IO82PD          G1YBB/P       59 103 IO82LB
+QSO:    50 PH 2017-03-09 2205 G3IXZ         59 5 IO82PD          G4FAD         59 27 IO82PC
+QSO:    50 PH 2017-03-09 2210 G3IXZ         56 6 IO82PD          G1DRW         59 4 IO82PB
+END-OF-LOG:

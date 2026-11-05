@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0EUK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO95CA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210105&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10676; excluded rows=1.
+QSO:   144 PH 2021-01-05 2055 M0EUK         59 1 IO95CA          G3ZWR         59 4 IO94FX
+QSO:   144 PH 2021-01-05 2058 M0EUK         59 2 IO95CA          G8KPD         59 2 IO95DB
+QSO:   144 PH 2021-01-05 2104 M0EUK         59 3 IO95CA          G8AOE         59 10 IO94IM
+QSO:   144 PH 2021-01-05 2128 M0EUK         56 4 IO95CA          G3YYD         59 123 IO92NQ
+QSO:   144 PH 2021-01-05 2219 M0EUK         51 5 IO95CA          G4ODA         53 77 IO92WS
+QSO:   144 PH 2021-01-05 2222 M0EUK         52 6 IO95CA          G0LBK         41 56 IO93IK
+END-OF-LOG:

@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GW0RHC
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO71UN
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210504&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12915; excluded rows=5.
+QSO:   144 PH 2021-05-04 1901 GW0RHC        57 1 IO71UN          MW0UCL        59 1 IO81AO
+QSO:   144 PH 2021-05-04 1903 GW0RHC        59 2 IO71UN          G4CIB/P       59 2 IO71QD
+QSO:   144 PH 2021-05-04 1905 GW0RHC        57 3 IO71UN          M0BKV         59 1 IO70RR
+QSO:   144 PH 2021-05-04 1907 GW0RHC        57 4 IO71UN          EI2FG         55 4 IO61AX
+QSO:   144 PH 2021-05-04 1908 GW0RHC        57 5 IO71UN          MW0OMB        57 1 IO81HN
+QSO:   144 PH 2021-05-04 1918 GW0RHC        45 6 IO71UN          2E0OUT        59 4 IO81WO
+QSO:   144 PH 2021-05-04 1920 GW0RHC        57 7 IO71UN          M0WLF         55 9 IO81QJ
+QSO:   144 PH 2021-05-04 1921 GW0RHC        55 8 IO71UN          G3USE         56 5 IO80JT
+QSO:   144 PH 2021-05-04 1925 GW0RHC        57 9 IO71UN          G0EOB         58 1 IO81CA
+QSO:   144 PH 2021-05-04 1926 GW0RHC        58 10 IO71UN         G0FJY         59 1 IO71VA
+QSO:   144 PH 2021-05-04 1928 GW0RHC        59 11 IO71UN         G4XWQ         59 6 IO71XB
+QSO:   144 PH 2021-05-04 1930 GW0RHC        58 12 IO71UN         2W0PUT        58 13 IO81HP
+QSO:   144 CW 2021-05-04 1933 GW0RHC        599 13 IO71UN        G0XDI         59 41 IO91RQ
+QSO:   144 PH 2021-05-04 1937 GW0RHC        55 14 IO71UN         M0BB          59 40 IO91PK
+QSO:   144 PH 2021-05-04 1938 GW0RHC        55 15 IO71UN         2E0RIV/P      54 2 IO70WT
+QSO:   144 PH 2021-05-04 1941 GW0RHC        57 16 IO71UN         G8KOD         56 8 IO91FS
+QSO:   144 PH 2021-05-04 1942 GW0RHC        59 17 IO71UN         G6ASK         59 3 IO81EA
+END-OF-LOG:

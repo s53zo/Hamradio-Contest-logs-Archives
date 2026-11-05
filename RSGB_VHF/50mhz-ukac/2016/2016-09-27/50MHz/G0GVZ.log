@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0GVZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02BE
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160927&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7625; excluded rows=4.
+QSO:    50 PH 2016-09-27 2000 G0GVZ         59 1 JO02BE          G6KWA         59 1 JO02AD
+QSO:    50 PH 2016-09-27 2036 G0GVZ         56 2 JO02BE          G0HEL/P       55 22 IO81WG
+QSO:    50 PH 2016-09-27 2037 G0GVZ         57 3 JO02BE          G3WIR/A       59 21 IO91PK
+QSO:    50 PH 2016-09-27 2038 G0GVZ         59 4 JO02BE          2E0LZD/P      59 37 IO91MP
+QSO:    50 PH 2016-09-27 2039 G0GVZ         55 5 JO02BE          M0NKR         55 20 JO02HK
+QSO:    50 PH 2016-09-27 2040 G0GVZ         54 6 JO02BE          G4JED         53 25 JO01CF
+END-OF-LOG:

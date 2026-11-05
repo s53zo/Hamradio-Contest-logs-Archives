@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8AOE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO94IM
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210408&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6375; excluded rows=1.
+QSO:    50 PH 2021-04-08 1918 G8AOE         59 1 IO94IM          G0CNN         59 1 IO94GM
+QSO:    50 PH 2021-04-08 1921 G8AOE         59 2 IO94IM          G0UOK/P       58 18 IO94MJ
+QSO:    50 PH 2021-04-08 1940 G8AOE         57 3 IO94IM          G4FZN/P       57 54 IO94JF
+QSO:    50 PH 2021-04-08 1950 G8AOE         55 4 IO94IM          GI4SNA        53 43 IO64XM
+QSO:    50 PH 2021-04-08 2035 G8AOE         55 5 IO94IM          M1DDD/P       55 120 IO93CH
+QSO:    50 PH 2021-04-08 2046 G8AOE         59 6 IO94IM          G1DFN         59 2 IO94DO
+END-OF-LOG:

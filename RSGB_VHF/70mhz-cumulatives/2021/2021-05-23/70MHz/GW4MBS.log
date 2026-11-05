@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: GW4MBS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO71XW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=210523&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=376; excluded rows=0.
+QSO:    70 PH 2021-05-23 1407 GW4MBS        52 1 IO71XW          G4PLL         56 4 JO02PT
+QSO:    70 PH 2021-05-23 1420 GW4MBS        59 2 IO71XW          G4FZN/P       59 17 IO94JF
+QSO:    70 PH 2021-05-23 1427 GW4MBS        53 3 IO71XW          M0JCQ/P       51 16 IO91RU
+QSO:    70 PH 2021-05-23 1433 GW4MBS        22 4 IO71XW          G4DHF/M       54 4 JO03CE
+QSO:    70 PH 2021-05-23 1436 GW4MBS        55 5 IO71XW          G4ODA         57 13 IO92WS
+QSO:    70 PH 2021-05-23 1504 GW4MBS        54 6 IO71XW          GW4JQP        54 2 IO71KR
+QSO:    70 PH 2021-05-23 1510 GW4MBS        55 7 IO71XW          GW6TEO        57 2 IO71LP
+END-OF-LOG:

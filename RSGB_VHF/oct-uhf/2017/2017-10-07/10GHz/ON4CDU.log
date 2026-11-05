@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: ON4CDU
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: JO20GS
+CATEGORY: IARULOGS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=371; excluded rows=5.
+QSO:   10G CW 2017-10-08 0811 ON4CDU        529 1 JO20GS         DF0MU         559 32 JO32PC
+QSO:   10G PH 2017-10-08 0827 ON4CDU        51 2 JO20GS          ON5TA         559 7 JO20ES
+QSO:   10G CW 2017-10-08 0949 ON4CDU        559 3 JO20GS         DL0LN         599 3 JO31QX
+QSO:   10G CW 2017-10-08 1029 ON4CDU        529 4 JO20GS         M1CRO/P       529 29 JO01PU
+END-OF-LOG:

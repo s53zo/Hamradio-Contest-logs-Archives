@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: GM4VVX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO78TA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2788; excluded rows=3.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (2).
+QSO:   144 PH 2016-03-05 1450 GM4VVX        52 1 IO78TA          GM8IEM        52 1 IO78HF
+QSO:   144 PH 2016-03-05 1544 GM4VVX        51 2 IO78TA          GM4JR         51 9 IO85FB
+QSO:   144 PH 2016-03-05 2015 GM4VVX        59 4 IO78TA          GM0HTT        59 1 IO89JC
+QSO:   144 PH 2016-03-06 0911 GM4VVX        57 6 IO78TA          GM4PPT        54 7 IO75SK
+QSO:   144 PH 2016-03-06 1041 GM4VVX        57 7 IO78TA          GW4ASD        55 25 IO83LB
+QSO:   144 CW 2016-03-06 1050 GM4VVX        559 8 IO78TA         GM3SEK        559 11 IO74SR
+QSO:   144 PH 2016-03-06 1057 GM4VVX        59 9 IO78TA          GM4NFC        57 4 IO75RI
+QSO:   144 PH 2016-03-06 1155 GM4VVX        26 10 IO78TA         PE1RLF        R26 8 JO32CG
+QSO:   144 CW 2016-03-06 1215 GM4VVX        539 11 IO78TA        GM8OEG/P      539 3 IO86NN
+END-OF-LOG:

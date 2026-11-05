@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G3WCB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO80EI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=190611&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5310; excluded rows=1.
+QSO:   432 PH 2019-06-11 1934 G3WCB         51 1 IO80EI          G1DFL/P       51 19 IO91MJ
+QSO:   432 PH 2019-06-11 1951 G3WCB         55 2 IO80EI          G7LRQ         55 52 IO91TQ
+QSO:   432 PH 2019-06-11 2007 G3WCB         51 3 IO80EI          G3VCA         51 38 IO93MG
+QSO:   432 PH 2019-06-11 2019 G3WCB         55 4 IO80EI          G8IKP/P       55 11 IO80SQ
+QSO:   432 PH 2019-06-11 2022 G3WCB         51 5 IO80EI          G4RUL/P       53 31 JO00DR
+QSO:   432 PH 2019-06-11 2106 G3WCB         53 6 IO80EI          M0GHZ         53 82 IO81VK
+QSO:   432 PH 2019-06-11 2114 G3WCB         55 7 IO80EI          G4CLA         55 178 IO92JL
+END-OF-LOG:

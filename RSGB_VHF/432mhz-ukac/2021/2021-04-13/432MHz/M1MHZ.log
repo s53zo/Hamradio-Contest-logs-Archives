@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M1MHZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92WV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210413&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9592; excluded rows=3.
+QSO:   432 PH 2021-04-13 1903 M1MHZ         59 1 IO92WV          G6SWZ         59 1 IO93RF
+QSO:   432 PH 2021-04-13 1904 M1MHZ         59 2 IO92WV          M5DWI/P       59 3 IO93FL
+QSO:   432 PH 2021-04-13 1904 M1MHZ         59 3 IO92WV          G4DBS         59 2 IO93SE
+QSO:   432 PH 2021-04-13 1905 M1MHZ         59 4 IO92WV          2E0WWP        59 3 IO93RG
+QSO:   432 PH 2021-04-13 1906 M1MHZ         55 5 IO92WV          M0WGD         55 5 IO93QE
+QSO:   432 PH 2021-04-13 1906 M1MHZ         59 6 IO92WV          G0FVI/P       59 7 IO93RD
+QSO:   432 PH 2021-04-13 1909 M1MHZ         59 7 IO92WV          G4NBS         59 6 JO02AF
+QSO:   432 PH 2021-04-13 1913 M1MHZ         58 8 IO92WV          G3PHO         59 11 IO93GG
+QSO:   432 PH 2021-04-13 1916 M1MHZ         59 9 IO92WV          G3TBK/P       59 22 IO93RA
+QSO:   432 PH 2021-04-13 1918 M1MHZ         59 10 IO92WV         M1DDD/P       59 27 IO93CH
+QSO:   432 PH 2021-04-13 1932 M1MHZ         55 11 IO92WV         GM4JTJ        57 16 IO86RP
+QSO:   432 PH 2021-04-13 1938 M1MHZ         59 12 IO92WV         G1PPA/P       59 30 JO03AE
+QSO:   432 PH 2021-04-13 1939 M1MHZ         59 13 IO92WV         G3ZUD         59 30 IO92LU
+QSO:   432 PH 2021-04-13 1941 M1MHZ         59 14 IO92WV         G8SFI/P       59 41 IO93OX
+QSO:   432 PH 2021-04-13 1947 M1MHZ         55 15 IO92WV         G4RRA         55 13 IO80BS
+END-OF-LOG:

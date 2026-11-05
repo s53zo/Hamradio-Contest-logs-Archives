@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M6HRQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93US
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=171107&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10244; excluded rows=1.
+QSO:   144 PH 2017-11-07 2005 M6HRQ         59 1 IO93US          M6HRU         59 1 IO93SS
+QSO:   144 PH 2017-11-07 2013 M6HRQ         59 2 IO93US          G4FZN/P       59 19 IO94JF
+QSO:   144 PH 2017-11-07 2019 M6HRQ         59 3 IO93US          M0GAV/P       59 14 IO93EH
+QSO:   144 PH 2017-11-07 2024 M6HRQ         58 4 IO93US          2E0RET/P      54 16 IO93FE
+QSO:   144 PH 2017-11-07 2035 M6HRQ         53 5 IO93US          G0UUU/P       53 17 IO94RJ
+QSO:   144 PH 2017-11-07 2042 M6HRQ         58 6 IO93US          G0EAK/P       53 43 IO93NI
+QSO:   144 PH 2017-11-07 2058 M6HRQ         58 7 IO93US          G4ODA/P       58 685 IO92WS
+QSO:   144 PH 2017-11-07 2141 M6HRQ         59 8 IO93US          M5DWI/P       58 59 IO93FL
+END-OF-LOG:

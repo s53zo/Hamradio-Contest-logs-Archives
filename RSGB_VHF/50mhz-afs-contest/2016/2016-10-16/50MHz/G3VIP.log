@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G3VIP
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93XM
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4822; excluded rows=4.
+QSO:    50 PH 2016-10-16 0929 G3VIP         57 1 IO93XM DN       G4EBK/P       55 9 IO93UK LN
+QSO:    50 PH 2016-10-16 0950 G3VIP         57 2 IO93XM DN       G3LAS         579 17 IO93UC LN
+QSO:    50 PH 2016-10-16 1110 G3VIP         57 3 IO93XM DN       M1MHZ         57 71 IO92WV PE
+QSO:    50 PH 2016-10-16 1113 G3VIP         57 4 IO93XM DN       M0CTP         52 56 IO93QV YO
+QSO:    50 PH 2016-10-16 1118 G3VIP         59 5 IO93XM DN       G6YB/P        59 102 IO81RI BA
+QSO:    50 PH 2016-10-16 1123 G3VIP         57 6 IO93XM DN       M1DDD/P       55 72 IO93CH SK
+QSO:    50 PH 2016-10-16 1136 G3VIP         57 7 IO93XM DN       G4FSU/P       55 89 IO81QG BS
+QSO:    50 PH 2016-10-16 1147 G3VIP         57 8 IO93XM DN       G4BWP         59 114 JO02FH IP
+QSO:    50 PH 2016-10-16 1214 G3VIP         57 9 IO93XM DN       G3TBK/P       57 96 IO93QA NG
+QSO:    50 CW 2016-10-16 1219 G3VIP         579 10 IO93XM DN     G4HVC         559 59 IO93QA NG
+QSO:    50 PH 2016-10-16 1221 G3VIP         59 11 IO93XM DN      G3PYE/P       57 113 JO02CE CB
+END-OF-LOG:

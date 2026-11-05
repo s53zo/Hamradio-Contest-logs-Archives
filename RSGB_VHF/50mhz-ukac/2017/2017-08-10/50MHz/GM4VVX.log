@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM4VVX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO78TA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170810&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6485; excluded rows=1.
+QSO:    50 PH 2017-08-10 1909 GM4VVX        53 1 IO78TA          GM4NFC        55 4 IO75RI
+QSO:    50 CW 2017-08-10 1950 GM4VVX        519 2 IO78TA         GM3IBU        01 2 IO88MX
+QSO:    50 PH 2017-08-10 2004 GM4VVX        26 3 IO78TA          OZ9KY         26 14 JO45VX
+QSO:    50 PH 2017-08-10 2010 GM4VVX        26 4 IO78TA          OZ1PIF        26 0 JO65AN
+QSO:    50 PH 2017-08-10 2020 GM4VVX        26 5 IO78TA          PA5Y          26 14 JO21VO
+QSO:    50 PH 2017-08-10 2040 GM4VVX        26 6 IO78TA          EI/G4CLA      26 33 IO61AX
+QSO:    50 PH 2017-08-10 2046 GM4VVX        37 7 IO78TA          GM6VXB        57 1 IO97AQ
+QSO:    50 PH 2017-08-10 2105 GM4VVX        57 8 IO78TA          GM8IEM        57 11 IO78HF
+QSO:    50 PH 2017-08-10 2114 GM4VVX        37 9 IO78TA          EI3KD         26 24 IO51VW
+END-OF-LOG:

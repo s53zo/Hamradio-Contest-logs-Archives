@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G5UM
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92KR
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170207&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=396; excluded rows=1.
+QSO:   144 FM 2017-02-07 1901 G5UM          59 1 IO92KR          M0VTD         59 2 IO92BQ
+QSO:   144 FM 2017-02-07 1907 G5UM          59 2 IO92KR          M6EIF         59 1 IO92KJ
+QSO:   144 FM 2017-02-07 1914 G5UM          59 3 IO92KR          2E0UAC        59 4 IO92FJ
+QSO:   144 FM 2017-02-07 1915 G5UM          59 4 IO92KR          G4XPE         59 5 IO92GU
+QSO:   144 FM 2017-02-07 1916 G5UM          59 5 IO92KR          G4PGJ         58 5 IO92ET
+QSO:   144 FM 2017-02-07 1927 G5UM          59 6 IO92KR          M1DDD/P       59 26 IO93CH
+QSO:   144 FM 2017-02-07 1934 G5UM          55 7 IO92KR          G4DBN         55 6 IO92NR
+QSO:   144 FM 2017-02-07 1935 G5UM          57 8 IO92KR          G8XVJ         57 8 IO83QK
+QSO:   144 FM 2017-02-07 1945 G5UM          59 9 IO92KR          G8HQW/P       59 34 IO94JF
+END-OF-LOG:

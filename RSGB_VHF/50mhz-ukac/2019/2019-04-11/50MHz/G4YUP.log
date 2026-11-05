@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4YUP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO90IW
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190411&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4807; excluded rows=0.
+QSO:    50 PH 2019-04-11 1905 G4YUP         59 1 IO90IW          G0SKA         55 5 IO91OQ
+QSO:    50 PH 2019-04-11 1908 G4YUP         59 2 IO90IW          M0VCT/P       59 2 IO90JO
+QSO:    50 PH 2019-04-11 1912 G4YUP         56 3 IO90IW          M0JSB/P       56 7 IO80WX
+QSO:    50 PH 2019-04-11 1917 G4YUP         55 4 IO90IW          M0BTZ         55 6 IO90GX
+QSO:    50 PH 2019-04-11 1939 G4YUP         57 5 IO90IW          G3VYI         57 8 IO91OF
+QSO:    50 PH 2019-04-11 1953 G4YUP         57 6 IO90IW          M1MHZ         57 68 IO92WV
+END-OF-LOG:

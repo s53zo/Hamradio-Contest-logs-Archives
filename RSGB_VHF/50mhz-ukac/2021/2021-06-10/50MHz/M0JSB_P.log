@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0JSB/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91SF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210610&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8469; excluded rows=2.
+QSO:    50 PH 2021-06-10 1957 M0JSB/P       59 1 IO91SF          HB9HLM        59 95 JN36KW
+QSO:    50 PH 2021-06-10 2021 M0JSB/P       55 2 IO91SF          G8GYX         55 15 IO91VH
+QSO:    50 PH 2021-06-10 2022 M0JSB/P       59 3 IO91SF          G4SDM         59 18 IO91SI
+QSO:    50 PH 2021-06-10 2034 M0JSB/P       59 4 IO91SF          M0BB          59 35 IO91PK
+QSO:    50 CW 2021-06-10 2043 M0JSB/P       599 5 IO91SF         ES7GN         559 1 KO28TI
+QSO:    50 PH 2021-06-10 2046 M0JSB/P       59 6 IO91SF          G4YPC         59 22 IO91RH
+QSO:    50 CW 2021-06-10 2056 M0JSB/P       559 7 IO91SF         OE6NZM        559 18 JN77SB
+QSO:    50 CW 2021-06-10 2103 M0JSB/P       599 8 IO91SF         ES5QA         599 1 KO38CS
+QSO:    50 CW 2021-06-10 2113 M0JSB/P       599 9 IO91SF         OZ7BQ         599 1 JO65FV
+END-OF-LOG:

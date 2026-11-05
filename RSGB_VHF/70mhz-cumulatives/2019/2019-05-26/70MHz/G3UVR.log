@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G3UVR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83KH
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=190526&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=514; excluded rows=0.
+QSO:    70 PH 2019-05-26 1546 G3UVR         59 1 IO83KH          GW8ASD        59 17 IO83LB
+QSO:    70 CW 2019-05-26 1551 G3UVR         579 2 IO83KH         GW0GEI        599 13 IO72VE
+QSO:    70 PH 2019-05-26 1552 G3UVR         55 3 IO83KH          G1PPA         57 19 IO93OJ
+QSO:    70 PH 2019-05-26 1552 G3UVR         57 4 IO83KH          G1HLT         57 16 IO93JD
+QSO:    70 PH 2019-05-26 1553 G3UVR         52 5 IO83KH          G4BRK         54 24 IO91HP
+QSO:    70 PH 2019-05-26 1555 G3UVR         56 6 IO83KH          G3MXH         56 43 JO02LF
+QSO:    70 PH 2019-05-26 1556 G3UVR         55 7 IO83KH          G3XDY         56 7 JO02OB
+QSO:    70 PH 2019-05-26 1557 G3UVR         55 8 IO83KH          G3NPI         58 33 IO92MA
+QSO:    70 PH 2019-05-26 1557 G3UVR         55 9 IO83KH          G0LGS/P       57 36 IO81XW
+END-OF-LOG:

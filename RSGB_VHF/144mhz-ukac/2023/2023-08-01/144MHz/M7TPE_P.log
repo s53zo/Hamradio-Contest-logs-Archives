@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M7TPE/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81OV
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230801&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12122; excluded rows=4.
+QSO:   144 PH 2023-08-01 1902 M7TPE/P       53 1 IO81OV          G1YBB/P       54 5 IO82LB
+QSO:   144 PH 2023-08-01 1904 M7TPE/P       58 2 IO81OV          G4ASR/P       59 4 IO81MW
+QSO:   144 PH 2023-08-01 1913 M7TPE/P       58 3 IO81OV          G0JCC         57 12 IO82MA
+QSO:   144 PH 2023-08-01 1915 M7TPE/P       57 4 IO81OV          G0LTG/P       51 19 IO81RF
+QSO:   144 PH 2023-08-01 1930 M7TPE/P       58 5 IO81OV          G4ILI/P       55 21 IO81WU
+QSO:   144 PH 2023-08-01 1932 M7TPE/P       55 6 IO81OV          G5JJ/P        55 14 IO80MV
+QSO:   144 PH 2023-08-01 1954 M7TPE/P       52 7 IO81OV          GW4SHF        52 70 IO82HP
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2E1SKY
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93KH
+CATEGORY: FL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170502&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=507; excluded rows=1.
+QSO:   144 FM 2017-05-02 1803 2E1SKY        59 1 IO93KH          G8HQW/P       59 3 IO94JF
+QSO:   144 FM 2017-05-02 1807 2E1SKY        59 2 IO93KH          G3RCW         59 1 IO93KH
+QSO:   144 FM 2017-05-02 1812 2E1SKY        52 3 IO93KH          G8DRQ         59 1 IO93IK
+QSO:   144 FM 2017-05-02 1814 2E1SKY        59 4 IO93KH          M0JWJ         59 1 IO93KH
+QSO:   144 FM 2017-05-02 1815 2E1SKY        57 5 IO93KH          M0ZMF/P       59 1 IO93KH
+QSO:   144 FM 2017-05-02 1816 2E1SKY        59 6 IO93KH          M0LLW/P       59 1 IO93KH
+QSO:   144 FM 2017-05-02 1818 2E1SKY        59 7 IO93KH          2E0EHP/P      59 1 IO93KH
+QSO:   144 FM 2017-05-02 1827 2E1SKY        59 8 IO93KH          G0TLT         59 2 IO93KE
+QSO:   144 FM 2017-05-02 1835 2E1SKY        56 9 IO93KH          G0BUB         53 1 IO92RX
+QSO:   144 FM 2017-05-02 1837 2E1SKY        59 10 IO93KH         G0EAK/P       59 1 IO93NI
+QSO:   144 FM 2017-05-02 1840 2E1SKY        51 11 IO93KH         M6JIJ         57 1 IO93GI
+QSO:   144 FM 2017-05-02 1841 2E1SKY        59 12 IO93KH         G0NRY         59 3 IO93JI
+END-OF-LOG:

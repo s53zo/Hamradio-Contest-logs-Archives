@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G4BRK
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91HP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=55; excluded rows=0.
+QSO:  3.4G CW 2022-05-08 0807 G4BRK         539 1 IO91HP         DK5EZ         599 5 JO31NH
+QSO:  3.4G PH 2022-05-08 0824 G4BRK         58 2 IO91HP          M0GHZ         59 2 IO81VK
+QSO:  3.4G PH 2022-05-08 0836 G4BRK         56 3 IO91HP          PI4Z          57 5 JO11WM
+QSO:  3.4G PH 2022-05-08 1026 G4BRK         58 4 IO91HP          G0HEL/P       57 1 IO81WG
+QSO:  3.4G PH 2022-05-08 1053 G4BRK         59 5 IO91HP          M0HNA/P       59 7 IO91GI
+QSO:  3.4G PH 2022-05-08 1132 G4BRK         56 6 IO91HP          G4ODA         55 6 IO92WS
+QSO:  3.4G CW 2022-05-08 1237 G4BRK         529 7 IO91HP         G3XDY         539 1 JO02OB
+QSO:  3.4G PH 2022-05-08 1247 G4BRK         59 8 IO91HP          G4LDR         59 7 IO91EC
+QSO:  3.4G CW 2022-05-08 1335 G4BRK         529 9 IO91HP         G0HIK/P       529 2 IO84JE
+END-OF-LOG:

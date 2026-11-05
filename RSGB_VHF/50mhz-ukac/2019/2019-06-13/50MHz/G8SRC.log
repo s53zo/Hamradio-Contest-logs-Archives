@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8SRC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91CN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190613&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4618; excluded rows=1.
+QSO:    50 PH 2019-06-13 1903 G8SRC         55 1 IO91CN          2E0OUT        57 4 IO81WO
+QSO:    50 PH 2019-06-13 1927 G8SRC         58 2 IO91CN          G1DFL         59 18 IO91NL
+QSO:    50 PH 2019-06-13 1931 G8SRC         56 3 IO91CN          G4WJS/P       56 26 IO91NQ
+QSO:    50 PH 2019-06-13 1945 G8SRC         53 4 IO91CN          G4GFI         52 12 IO91VH
+QSO:    50 PH 2019-06-13 2026 G8SRC         51 5 IO91CN          G4SDM/P       51 43 IO90QV
+END-OF-LOG:

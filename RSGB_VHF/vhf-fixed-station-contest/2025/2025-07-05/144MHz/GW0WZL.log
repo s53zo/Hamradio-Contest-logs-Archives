@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: GW0WZL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO73UB
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1360; excluded rows=1.
+QSO:   144 PH 2025-07-05 1528 GW0WZL        59 1 IO73UB          GI4GTY/P      59 16 IO74AI
+QSO:   144 PH 2025-07-05 1532 GW0WZL        59 2 IO73UB          GI3VFW/P      59 24 IO74AD
+QSO:   144 PH 2025-07-05 1535 GW0WZL        59 3 IO73UB          G3CKR/P       59 69 IO93AD
+QSO:   144 PH 2025-07-05 1615 GW0WZL        57 4 IO73UB          F5SGT/P       57 73 IN88KD
+END-OF-LOG:

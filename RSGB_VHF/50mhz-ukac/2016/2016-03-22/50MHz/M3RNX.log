@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M3RNX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83TO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160322&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8160; excluded rows=9.
+QSO:    50 PH 2016-03-22 2001 M3RNX         59 1 IO83TO          GW4BVE        59 1 IO83KQ
+QSO:    50 PH 2016-03-22 2005 M3RNX         59 2 IO83TO          G2ANC         55 4 IO83RM
+QSO:    50 PH 2016-03-22 2011 M3RNX         59 3 IO83TO          GW4ZAR/P      54 13 IO83JF
+QSO:    50 PH 2016-03-22 2014 M3RNX         59 4 IO83TO          G8ZRE         56 15 IO83NE
+QSO:    50 PH 2016-03-22 2028 M3RNX         59 5 IO83TO          G4NTY         59 13 IO83TM
+QSO:    50 PH 2016-03-22 2030 M3RNX         59 6 IO83TO          G4AQB         59 2 IO83TN
+QSO:    50 PH 2016-03-22 2040 M3RNX         59 7 IO83TO          M0PCF/P       33 44 IO93EI
+QSO:    50 PH 2016-03-22 2051 M3RNX         59 8 IO83TO          M1DDD/P       55 61 IO93CH
+QSO:    50 PH 2016-03-22 2059 M3RNX         59 9 IO83TO          G3SMT         57 27 IO82KV
+QSO:    50 PH 2016-03-22 2108 M3RNX         59 10 IO83TO         G8HXE/P       57 33 IO83RO
+QSO:    50 PH 2016-03-22 2136 M3RNX         59 11 IO83TO         M1EYP/P       59 50 IO83WE
+QSO:    50 PH 2016-03-22 2138 M3RNX         59 12 IO83TO         G8XVJ/P       59 118 IO93AD
+END-OF-LOG:

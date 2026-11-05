@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4EFT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91RG
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250508&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5001; excluded rows=1.
+QSO:    50 PH 2025-05-08 1919 G4EFT         59 1 IO91RG          G4YPC         59 12 IO91RH
+QSO:    50 PH 2025-05-08 1925 G4EFT         59 2 IO91RG          G3VYI         59 5 IO91OF
+QSO:    50 PH 2025-05-08 1927 G4EFT         55 3 IO91RG          G0SKA         55 22 IO91OQ
+QSO:    50 PH 2025-05-08 1949 G4EFT         59 4 IO91RG          G8KQH         59 5 IO91RI
+QSO:    50 PH 2025-05-08 2005 G4EFT         59 5 IO91RG          G1DFL         59 19 IO91NL
+QSO:    50 PH 2025-05-08 2008 G4EFT         57 6 IO91RG          G3MEH         57 46 IO91QS
+QSO:    50 PH 2025-05-08 2053 G4EFT         59 7 IO91RG          G8GYX         59 38 IO91VH
+END-OF-LOG:

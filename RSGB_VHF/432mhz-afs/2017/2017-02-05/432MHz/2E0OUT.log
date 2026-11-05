@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: 2E0OUT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81WO
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4266; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   432 PH 2017-02-05 0906 2E0OUT        59 1 IO81WO          G2BQY/P       59 4 IO91AJ
+QSO:   432 PH 2017-02-05 0912 2E0OUT        59 2 IO81WO          G8DOH         57 10 IO92FA
+QSO:   432 PH 2017-02-05 0914 2E0OUT        59 3 IO81WO          M0WYB/P       59 11 IO80WX
+QSO:   432 PH 2017-02-05 0916 2E0OUT        59 4 IO81WO          G4FSU/P       59 11 IO81QG
+QSO:   432 PH 2017-02-05 0922 2E0OUT        59 5 IO81WO          G5BBL/P       58 5 IO81UC
+QSO:   432 PH 2017-02-05 1211 2E0OUT        59 7 IO81WO          G0HEL         55 30 IO81WH
+QSO:   432 PH 2017-02-05 1216 2E0OUT        55 8 IO81WO          2E0JWJ        55 11 IO81VG
+QSO:   432 PH 2017-02-05 1222 2E0OUT        59 9 IO81WO          GW3TKH/P      59 83 IO81LS
+QSO:   432 PH 2017-02-05 1247 2E0OUT        59 10 IO81WO         G4ASR         59 63 IO81MX
+QSO:   432 PH 2017-02-05 1250 2E0OUT        59 11 IO81WO         GD8EXI        53 89 IO74PC
+QSO:   432 PH 2017-02-05 1257 2E0OUT        59 12 IO81WO         M0VAA         59 55 IO93CH
+END-OF-LOG:

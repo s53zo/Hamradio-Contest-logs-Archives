@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SECOND-70MHZ-CONTEST
+CALLSIGN: M6OXO
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83KI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Second+70MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=715; excluded rows=2.
+QSO:    70 PH 2017-09-17 0909 M6OXO         59 1 IO83KI          GW4ZAR        59 2 IO83KF
+QSO:    70 PH 2017-09-17 0952 M6OXO         59 2 IO83KI          GW8ASD        59 16 IO83LB
+QSO:    70 PH 2017-09-17 0957 M6OXO         59 3 IO83KI          2E0OLG        59 5 IO83MN
+QSO:    70 PH 2017-09-17 1000 M6OXO         55 4 IO83KI          G4IOQ         55 9 IO82KT
+QSO:    70 PH 2017-09-17 1026 M6OXO         59 5 IO83KI          G3UVR         59 2 IO83KH
+QSO:    70 PH 2017-09-17 1107 M6OXO         55 6 IO83KI          G3PHO         53 10 IO93GG
+QSO:    70 PH 2017-09-17 1124 M6OXO         59 7 IO83KI          G8LED/P       55 39 IO92LH
+END-OF-LOG:

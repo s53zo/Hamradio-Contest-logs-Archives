@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G3TDH
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83WI
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1360; excluded rows=1.
+QSO:   144 PH 2025-07-06 0823 G3TDH         59 1 IO83WI          GW3ZTT/P      59 152 IO82KW
+QSO:   144 PH 2025-07-06 0827 G3TDH         57 2 IO83WI          GM3HAM/P      55 78 IO74WV
+QSO:   144 PH 2025-07-06 0830 G3TDH         59 3 IO83WI          G3CKR/P       59 173 IO93AD
+QSO:   144 PH 2025-07-06 0832 G3TDH         59 4 IO83WI          G3SRT/P       59 103 IO82KV
+QSO:   144 PH 2025-07-06 0922 G3TDH         55 5 IO83WI          MM0CAS/P      55 52 IO85SS
+QSO:   144 CW 2025-07-06 0939 G3TDH         599 6 IO83WI         G0FBB/P       599 122 JO01LD
+QSO:   144 PH 2025-07-06 0942 G3TDH         54 7 IO83WI          G8ZRE         54 23 IO83NE
+QSO:   144 PH 2025-07-06 0959 G3TDH         59 8 IO83WI          G8SRC/P       59 155 IO91CL
+QSO:   144 PH 2025-07-06 1005 G3TDH         59 9 IO83WI          TM5R          59 601 JN19BQ
+QSO:   144 CW 2025-07-06 1025 G3TDH         559 10 IO83WI        G3YPZ         559 14 JO02BS
+END-OF-LOG:

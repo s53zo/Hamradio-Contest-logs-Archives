@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M7TPE
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81PV
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250805&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=462; excluded rows=0.
+QSO:   144 FM 2025-08-05 1800 M7TPE         55 1 IO81PV          G7CSM         55 1 IO81VU
+QSO:   144 FM 2025-08-05 1802 M7TPE         55 2 IO81PV          M0BAO/P       55 1 IO80LV
+QSO:   144 FM 2025-08-05 1804 M7TPE         52 3 IO81PV          G0ORE/P       51 3 IO82XJ
+QSO:   144 FM 2025-08-05 1805 M7TPE         59 4 IO81PV          G1YBB/P       59 5 IO82LB
+QSO:   144 FM 2025-08-05 1806 M7TPE         59 5 IO81PV          G8JAY         59 2 IO81WV
+QSO:   144 FM 2025-08-05 1814 M7TPE         59 6 IO81PV          G0LGS         59 2 IO81WV
+END-OF-LOG:

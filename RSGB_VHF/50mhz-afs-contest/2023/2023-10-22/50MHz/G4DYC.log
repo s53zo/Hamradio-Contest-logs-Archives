@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G4DYC
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02MP
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2914; excluded rows=3.
+QSO:    50 CW 2023-10-22 1006 G4DYC         599 1 JO02MP NK      G3YLA         599 7 JO02MP NK
+QSO:    50 PH 2023-10-22 1011 G4DYC         59 2 JO02MP NK       G4PFZ         59 13 JO02PP NK
+QSO:    50 PH 2023-10-22 1014 G4DYC         59 3 JO02MP NK       G3MPN         59 6 JO02NN NK
+QSO:    50 CW 2023-10-22 1022 G4DYC         599 4 JO02MP NK      IS0GQX        599 0 JM49OH
+QSO:    50 PH 2023-10-22 1029 G4DYC         57 5 JO02MP NK       G4ODA         57 57 IO92WS PE
+QSO:    50 PH 2023-10-22 1043 G4DYC         59 6 JO02MP NK       IK0VWO        59 53 JN62LH
+QSO:    50 PH 2023-10-22 1048 G4DYC         59 7 JO02MP NK       G4CWH/P       59 60 IO92XA SG
+QSO:    50 PH 2023-10-22 1116 G4DYC         58 8 JO02MP NK       G4FZN/P       55 56 IO94JF YO
+QSO:    50 PH 2023-10-22 1120 G4DYC         57 9 JO02MP NK       M1MHZ         55 64 IO92WV PE
+QSO:    50 PH 2023-10-22 1243 G4DYC         59 10 JO02MP NK      G3PXT         59 4 JO02PP NK
+QSO:    50 PH 2023-10-22 1253 G4DYC         57 11 JO02MP NK      G5PI/P        57 89 JO02EB CB
+END-OF-LOG:

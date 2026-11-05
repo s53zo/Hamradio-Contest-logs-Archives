@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: M0GHZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: IO81VK
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+5.7+GHz&Date=210727&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=57; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:  5.7G CW 2021-07-27 1941 M0GHZ         569 2 IO81VK         G0WUS         51 4 IO92KO
+QSO:  5.7G PH 2021-07-27 1955 M0GHZ         59 3 IO81VK          G4BRK         59 3 IO91HP
+QSO:  5.7G PH 2021-07-27 2045 M0GHZ         56 4 IO81VK          G4ODA         59 5 IO92WS
+QSO:  5.7G PH 2021-07-27 2050 M0GHZ         55 5 IO81VK          G4CLA         57 7 IO92JL
+QSO:  5.7G PH 2021-07-27 2104 M0GHZ         59 6 IO81VK          G4LDR         59 6 IO91EC
+QSO:  5.7G CW 2021-07-27 2117 M0GHZ         539 7 IO81VK         G3XDY         529 4 JO02OB
+QSO:  5.7G PH 2021-07-27 2123 M0GHZ         55 8 IO81VK          G7LRQ         57 6 IO91TQ
+END-OF-LOG:

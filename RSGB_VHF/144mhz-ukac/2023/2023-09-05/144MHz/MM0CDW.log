@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM0CDW
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75NV
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230905&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13184; excluded rows=4.
+QSO:   144 PH 2023-09-05 1901 MM0CDW        59 1 IO75NV          GM3YDN/P      59 1 IO75SH
+QSO:   144 PH 2023-09-05 1905 MM0CDW        59 2 IO75NV          OZ1BEF        59 116 JO46OE
+QSO:   144 PH 2023-09-05 1910 MM0CDW        57 3 IO75NV          MM0GPZ        57 9 IO75WS
+QSO:   144 PH 2023-09-05 1915 MM0CDW        59 4 IO75NV          GM3SEK        59 12 IO74SR
+QSO:   144 PH 2023-09-05 1922 MM0CDW        59 5 IO75NV          OV3T          59 138 JO46CM
+QSO:   144 CW 2023-09-05 1940 MM0CDW        559 6 IO75NV         GM4VVX        559 6 IO78TA
+QSO:   144 PH 2023-09-05 1952 MM0CDW        52 7 IO75NV          EI4GGB        51 9 IO63IK
+QSO:   144 PH 2023-09-05 2002 MM0CDW        59 8 IO75NV          GM4PPT        59 25 IO75SK
+QSO:   144 PH 2023-09-05 2017 MM0CDW        59 9 IO75NV          GM0HBK        57 11 IO77BC
+QSO:   144 PH 2023-09-05 2020 MM0CDW        53 10 IO75NV         GM0HBF        55 4 IO67IN
+QSO:   144 PH 2023-09-05 2035 MM0CDW        57 11 IO75NV         GM4IGS        55 13 IO75QN
+QSO:   144 PH 2023-09-05 2040 MM0CDW        53 12 IO75NV         MM6OEC        53 5 IO68UG
+QSO:   144 PH 2023-09-05 2120 MM0CDW        59 13 IO75NV         GM3MWX/P      55 27 IO75OQ
+QSO:   144 PH 2023-09-05 2125 MM0CDW        55 14 IO75NV         GM4CXM        55 3 IO75TW
+END-OF-LOG:

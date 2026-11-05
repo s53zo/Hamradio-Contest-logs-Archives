@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: GM4TOE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO87RP
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=170815&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2502; excluded rows=1.
+QSO:  1.2G PH 2017-08-15 1903 GM4TOE        53 1 IO87RP          G0EHV/P       53 1 IO84XT
+QSO:  1.2G PH 2017-08-15 1904 GM4TOE        52 2 IO87RP          G8PNN         52 1 IO95EF
+QSO:  1.2G PH 2017-08-15 1905 GM4TOE        58 3 IO87RP          GM4JTJ        52 1 IO86RP
+QSO:  1.2G PH 2017-08-15 1920 GM4TOE        58 4 IO87RP          GM4BYF/P      59 1 IO88BA
+QSO:  1.2G PH 2017-08-15 1948 GM4TOE        55 5 IO87RP          G4DBN         55 18 IO93NR
+QSO:  1.2G PH 2017-08-15 2014 GM4TOE        52 6 IO87RP          GI6ATZ        52 27 IO74AJ
+QSO:  1.2G PH 2017-08-15 2050 GM4TOE        55 7 IO87RP          G4CLA         55 51 IO92JL
+QSO:  1.2G PH 2017-08-15 2116 GM4TOE        55 8 IO87RP          G8DMU/P       55 45 IO94CB
+QSO:  1.2G CW 2017-08-15 2121 GM4TOE        559 9 IO87RP         G4KUX         559 2 IO94BP
+END-OF-LOG:

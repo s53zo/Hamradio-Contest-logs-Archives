@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4FKA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO81SM
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3729; excluded rows=1.
+QSO:    50 PH 2023-07-01 1720 G4FKA         59 1 IO81SM          G2BQY/P       59 126 IO81RF
+QSO:    50 PH 2023-07-01 1722 G4FKA         59 2 IO81SM          G4WAW/P       59 18 IO81QJ
+QSO:    50 PH 2023-07-01 1724 G4FKA         59 3 IO81SM          EI9E/P        59 126 IO62OM
+QSO:    50 PH 2023-07-01 1728 G4FKA         59 4 IO81SM          G8SRC/P       59 90 IO91CL
+QSO:    50 PH 2023-07-01 1730 G4FKA         59 5 IO81SM          G4BAD/P       59 48 IO81RI
+QSO:    50 PH 2023-07-01 1952 G4FKA         55 6 IO81SM          G3PYE/P       57 82 JO02CE
+QSO:    50 PH 2023-07-01 1953 G4FKA         59 7 IO81SM          G5LK/P        59 112 JO01QD
+QSO:    50 PH 2023-07-01 1955 G4FKA         59 8 IO81SM          SN9J          59 40 JO90GE
+QSO:    50 PH 2023-07-01 1957 G4FKA         59 9 IO81SM          SQ9JYK        59 62 KN09OQ
+QSO:    50 PH 2023-07-01 1959 G4FKA         59 10 IO81SM         IZ5EME        59 87 JN52NS
+QSO:    50 PH 2023-07-01 2134 G4FKA         59 11 IO81SM         GW3ZTT/P      59 117 IO82KW
+QSO:    50 PH 2023-07-01 2136 G4FKA         59 12 IO81SM         G3ZME/P       59 119 IO82NN
+QSO:    50 PH 2023-07-01 2140 G4FKA         55 13 IO81SM         MM0CPS/P      55 155 IO84BT
+QSO:    50 PH 2023-07-01 2142 G4FKA         59 14 IO81SM         G3PIA/P       59 102 IO91IN
+QSO:    50 PH 2023-07-01 2143 G4FKA         59 15 IO81SM         G0FBB/P       59 99 JO01LD
+QSO:    50 PH 2023-07-01 2147 G4FKA         59 16 IO81SM         M0AAA/P       59 47 IO91LM
+QSO:    50 PH 2023-07-01 2150 G4FKA         59 17 IO81SM         G3TCR/P       59 57 IO91JG
+END-OF-LOG:

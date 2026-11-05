@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-LOW-POWER
+CALLSIGN: G4IZZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81XX
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+Low+Power&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1612; excluded rows=1.
+QSO:   432 PH 2022-08-07 0958 G4IZZ         57 1 IO81XX GL       M0BUL         54 14 IO82NG HR
+QSO:   432 PH 2022-08-07 1011 G4IZZ         59 2 IO81XX GL       GW1YBB/P      59 75 IO81KW NP
+QSO:   432 PH 2022-08-07 1022 G4IZZ         59 3 IO81XX GL       2E0MDJ/P      59 27 IO81WU GL
+QSO:   432 PH 2022-08-07 1119 G4IZZ         59 4 IO81XX GL       G0LGS/P       59 29 IO81WU GL
+END-OF-LOG:

@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G4ASR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO81MX
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=610; excluded rows=0.
+QSO:   432 PH 2025-07-05 1406 G4ASR         59 1 IO81MX          G4DSP/P       59 2 IO92VU
+QSO:   432 PH 2025-07-05 1409 G4ASR         59 2 IO81MX          G1YBB         59 1 IO82PA
+QSO:   432 PH 2025-07-05 1432 G4ASR         59 3 IO81MX          G4HGI         59 3 IO83PL
+QSO:   432 PH 2025-07-05 1451 G4ASR         59 4 IO81MX          G0KDV/P       59 9 JO01BI
+QSO:   432 PH 2025-07-05 1454 G4ASR         55 5 IO81MX          G3SRC/P       55 16 IO91XG
+QSO:   432 PH 2025-07-05 1501 G4ASR         59 6 IO81MX          G0ARC/P       58 14 IO91EH
+QSO:   432 PH 2025-07-05 1502 G4ASR         59 7 IO81MX          G2BQY/P       57 22 IO81RF
+QSO:   432 PH 2025-07-05 1952 G4ASR         59 8 IO81MX          G3CKR/P       59 75 IO93AD
+QSO:   432 PH 2025-07-05 1954 G4ASR         59 9 IO81MX          G4BRK         59 23 IO91HP
+QSO:   432 PH 2025-07-05 1956 G4ASR         59 10 IO81MX         G3SRT/P       59 37 IO82KV
+QSO:   432 PH 2025-07-05 2001 G4ASR         59 11 IO81MX         M0NDA/P       59 11 IO92EM
+QSO:   432 PH 2025-07-05 2009 G4ASR         52 12 IO81MX         M0NFD/P       55 34 IO94MJ
+QSO:   432 PH 2025-07-05 2014 G4ASR         59 13 IO81MX         G5LK/P        59 143 JO01QD
+QSO:   432 PH 2025-07-05 2016 G4ASR         59 14 IO81MX         G4AFF         59 29 JO02LO
+QSO:   432 CW 2025-07-05 2029 G4ASR         599 15 IO81MX        DL6AA         599 66 JO43JH
+END-OF-LOG:

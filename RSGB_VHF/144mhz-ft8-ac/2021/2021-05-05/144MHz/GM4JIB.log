@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: GM4JIB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210505&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1171; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 FT8 2021-05-05 1926 GM4JIB        -05 IO85             G8AOE         -19 IO94
+QSO:   144 FT8 2021-05-05 1934 GM4JIB        +04 IO85             GM8MJV        -10 IO85
+QSO:   144 FT8 2021-05-05 1938 GM4JIB        +02 IO85             G6EIH         -24 IO92
+QSO:   144 FT8 2021-05-05 2000 GM4JIB        -11 IO85             GW4FRX        -15 IO82
+QSO:   144 FT8 2021-05-05 2027 GM4JIB        -09 IO85             GM4JTJ        -19 IO86
+QSO:   144 FT8 2021-05-05 2040 GM4JIB        -01 IO85             G4OBK         -20 IO94
+QSO:   144 FT8 2021-05-05 2048 GM4JIB        -03 IO85             G0JCC         -09 IO82
+END-OF-LOG:

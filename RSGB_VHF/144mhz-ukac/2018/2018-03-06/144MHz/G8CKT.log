@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8CKT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91SA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180306&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10864; excluded rows=3.
+QSO:   144 PH 2018-03-06 2002 G8CKT         55 1 IO91SA          G0VVE         55 1 IO91SG
+QSO:   144 PH 2018-03-06 2006 G8CKT         56 2 IO91SA          G3MEH         56 6 IO91QS
+QSO:   144 PH 2018-03-06 2010 G8CKT         53 3 IO91SA          G4RUL/P       53 5 JO00DR
+QSO:   144 PH 2018-03-06 2012 G8CKT         57 4 IO91SA          G6RC          57 11 IO91VC
+QSO:   144 PH 2018-03-06 2014 G8CKT         59 5 IO91SA          2E0NKC        59 3 IO91UB
+QSO:   144 PH 2018-03-06 2020 G8CKT         59 6 IO91SA          G4TSQ         59 9 IO90QT
+QSO:   144 PH 2018-03-06 2031 G8CKT         57 7 IO91SA          M0NVS         57 17 IO91SR
+QSO:   144 PH 2018-03-06 2036 G8CKT         57 8 IO91SA          M0BRA         53 42 IO91PK
+QSO:   144 PH 2018-03-06 2039 G8CKT         59 9 IO91SA          G6DOD/P       59 24 IO90JO
+QSO:   144 PH 2018-03-06 2100 G8CKT         59 10 IO91SA         G0GMY/P       59 30 IO90IO
+END-OF-LOG:

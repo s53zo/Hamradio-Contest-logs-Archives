@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: G3PLE
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO70JB
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=743; excluded rows=0.
+QSO:    50 CW 2018-06-24 1005 G3PLE         559 1 IO70JB         IK5ZWU        559 1 JN53VB
+QSO:    50 CW 2018-06-24 1016 G3PLE         559 2 IO70JB         HB9AOF        559 5 JN36LM
+QSO:    50 CW 2018-06-24 1025 G3PLE         599 3 IO70JB         G7RAU         599 6 IN79JX
+QSO:    50 CW 2018-06-24 1032 G3PLE         599 4 IO70JB         S53OQ         599 3 JN76GE
+QSO:    50 CW 2018-06-24 1037 G3PLE         559 5 IO70JB         IV3SKB        559 2 JN66OA
+END-OF-LOG:

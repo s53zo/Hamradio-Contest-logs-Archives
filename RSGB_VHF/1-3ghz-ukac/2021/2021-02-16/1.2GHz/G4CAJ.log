@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G4CAJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO92HN
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=210216&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2536; excluded rows=0.
+QSO:  1.2G PH 2021-02-16 2008 G4CAJ         59 1 IO92HN          G8BFF         59 2 IO92HN
+QSO:  1.2G PH 2021-02-16 2009 G4CAJ         57 2 IO92HN          G4CLB         57 3 IO92HM
+QSO:  1.2G PH 2021-02-16 2015 G4CAJ         55 3 IO92HN          G3XPU         55 4 IO92HM
+QSO:  1.2G PH 2021-02-16 2016 G4CAJ         59 4 IO92HN          G8CGW         59 4 IO92HN
+QSO:  1.2G CW 2021-02-16 2036 G4CAJ         539 5 IO92HN         G4HWA         55 26 IO92ME
+QSO:  1.2G PH 2021-02-16 2050 G4CAJ         59 6 IO92HN          G4CLA         59 35 IO92JL
+END-OF-LOG:

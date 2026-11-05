@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3RKF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83VH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210812&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5832; excluded rows=2.
+QSO:    50 PH 2021-08-12 1901 G3RKF         59 1 IO83VH          G3TBK/P       57 4 IO93RA
+QSO:    50 PH 2021-08-12 1903 G3RKF         59 2 IO83VH          G4ASR         59 4 IO81MX
+QSO:    50 PH 2021-08-12 1906 G3RKF         59 3 IO83VH          GW4ZAR/P      55 7 IO83JF
+QSO:    50 PH 2021-08-12 1909 G3RKF         59 4 IO83VH          G8REQ         58 6 IO83KI
+QSO:    50 PH 2021-08-12 1910 G3RKF         59 5 IO83VH          G0XBU         59 4 IO83UF
+QSO:    50 PH 2021-08-12 1913 G3RKF         59 6 IO83VH          G3KAF         59 4 IO83WI
+QSO:    50 PH 2021-08-12 2005 G3RKF         59 7 IO83VH          G0CDA         59 27 IO83SJ
+QSO:    50 PH 2021-08-12 2007 G3RKF         59 8 IO83VH          G8YIG         57 2 IO83WK
+QSO:    50 PH 2021-08-12 2017 G3RKF         58 9 IO83VH          G8DMU/P       57 64 IO94CB
+QSO:    50 PH 2021-08-12 2022 G3RKF         53 10 IO83VH         G0CNN/P       53 64 IO94AI
+QSO:    50 PH 2021-08-12 2026 G3RKF         59 11 IO83VH         G3TDH         59 25 IO83WI
+QSO:    50 CW 2021-08-12 2040 G3RKF         539 12 IO83VH        GW4OKT        559 12 IO83LE
+QSO:    50 PH 2021-08-12 2045 G3RKF         56 13 IO83VH         G4FZN/P       58 104 IO94JF
+END-OF-LOG:

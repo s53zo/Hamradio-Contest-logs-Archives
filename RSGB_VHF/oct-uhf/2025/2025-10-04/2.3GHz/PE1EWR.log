@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: PE1EWR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO11SL
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=89; excluded rows=0.
+QSO:  2.3G CW 2025-10-04 1910 PE1EWR        559 1 JO11SL         PE1ITR        599 3 JO21QK
+QSO:  2.3G CW 2025-10-04 2113 PE1EWR        559 2 JO11SL         PI4GN         559 23 JO33II
+QSO:  2.3G PH 2025-10-05 0748 PE1EWR        59 3 JO11SL          PA1FZH        59 2 JO11TL
+QSO:  2.3G PH 2025-10-05 1357 PE1EWR        59 4 JO11SL          DL3IAE        59 26 JN49DG
+END-OF-LOG:

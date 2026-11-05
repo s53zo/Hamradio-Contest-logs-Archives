@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G4WEY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO90AS
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6651; excluded rows=1.
+QSO:   144 PH 2021-12-05 1147 G4WEY         56 1 IO90AS          G8FMC         59 38 IO91NW
+QSO:   144 PH 2021-12-05 1154 G4WEY         59 2 IO90AS          G0SKA         57 73 IO91OQ
+QSO:   144 PH 2021-12-05 1157 G4WEY         56 3 IO90AS          G8DOH         58 92 IO92FA
+QSO:   144 PH 2021-12-05 1205 G4WEY         57 4 IO90AS          G0VVE         55 97 IO91SG
+QSO:   144 PH 2021-12-05 1209 G4WEY         57 5 IO90AS          G3TBK/P       57 93 IO93RA
+QSO:   144 PH 2021-12-05 1217 G4WEY         59 6 IO90AS          G4ODA         59 123 IO92WS
+QSO:   144 PH 2021-12-05 1219 G4WEY         59 7 IO90AS          G1PPA/P       57 81 JO03AE
+QSO:   144 PH 2021-12-05 1227 G4WEY         59 8 IO90AS          G4DHF/M       57 76 IO93WG
+QSO:   144 PH 2021-12-05 1231 G4WEY         58 9 IO90AS          G6NUM         54 50 IO93MA
+QSO:   144 PH 2021-12-05 1240 G4WEY         58 10 IO90AS         G0JLF/P       57 44 IO81EE
+END-OF-LOG:

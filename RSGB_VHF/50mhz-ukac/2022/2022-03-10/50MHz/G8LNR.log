@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8LNR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81VR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220310&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4405; excluded rows=1.
+QSO:    50 PH 2022-03-10 2108 G8LNR         59 1 IO81VR          G1YBB/P       57 80 IO82LB
+QSO:    50 PH 2022-03-10 2110 G8LNR         59 2 IO81VR          G4ASR         59 77 IO81MX
+QSO:    50 PH 2022-03-10 2113 G8LNR         55 3 IO81VR          2E0VCC/P      55 35 IO70SP
+QSO:    50 PH 2022-03-10 2128 G8LNR         55 4 IO81VR          G4ILI         57 25 IO81WV
+QSO:    50 PH 2022-03-10 2136 G8LNR         54 5 IO81VR          GW0RHC        54 67 IO71UN
+QSO:    50 PH 2022-03-10 2139 G8LNR         59 6 IO81VR          G3TKF         59 36 IO81RI
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0RYK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01DD
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230801&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12122; excluded rows=4.
+QSO:   144 PH 2023-08-01 1937 M0RYK         59 1 JO01DD          G3MGQ         59 4 JO01DF
+QSO:   144 PH 2023-08-01 1948 M0RYK         59 2 JO01DD          M7KJW         59 5 JO01DE
+QSO:   144 PH 2023-08-01 1959 M0RYK         59 3 JO01DD          M0JQT         59 7 JO01DF
+QSO:   144 PH 2023-08-01 2007 M0RYK         59 4 JO01DD          G4OTV         59 29 JO01CB
+QSO:   144 PH 2023-08-01 2009 M0RYK         59 5 JO01DD          G3YCR         54 15 IO91WH
+QSO:   144 PH 2023-08-01 2015 M0RYK         59 6 JO01DD          G4JED         57 26 JO01CF
+QSO:   144 PH 2023-08-01 2026 M0RYK         57 7 JO01DD          G4GFI         52 24 IO91VH
+END-OF-LOG:

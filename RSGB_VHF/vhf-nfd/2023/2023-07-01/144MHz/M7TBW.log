@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: M7TBW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO81TI
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6579; excluded rows=6.
+QSO:   144 PH 2023-07-01 1427 M7TBW         59 1 IO81TI          G8SRC/P       59 19 IO91CL
+QSO:   144 PH 2023-07-01 1430 M7TBW         59 2 IO81TI          G2BQY/P       53 11 IO81RF
+QSO:   144 PH 2023-07-01 1451 M7TBW         44 3 IO81TI          G3ZME/P       41 33 IO82NN
+QSO:   144 PH 2023-07-02 1202 M7TBW         55 4 IO81TI          GW1YBB/P      42 68 IO81KW
+END-OF-LOG:

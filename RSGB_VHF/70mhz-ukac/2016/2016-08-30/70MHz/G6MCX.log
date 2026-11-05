@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G6MCX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO90HX
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=160830&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6063; excluded rows=1.
+QSO:    70 PH 2016-08-30 1906 G6MCX         59 1 IO90HX          G4YUP         59 1 IO91JA
+QSO:    70 PH 2016-08-30 1906 G6MCX         59 2 IO90HX          M0ACL         59 1 IO90HX
+QSO:    70 PH 2016-08-30 1915 G6MCX         59 3 IO90HX          G0PEB/P       59 6 IO90JO
+QSO:    70 PH 2016-08-30 1919 G6MCX         57 4 IO90HX          G3MEH         54 19 IO91QS
+QSO:    70 PH 2016-08-30 1930 G6MCX         55 5 IO90HX          G3TCU/P       56 32 IO91RF
+END-OF-LOG:

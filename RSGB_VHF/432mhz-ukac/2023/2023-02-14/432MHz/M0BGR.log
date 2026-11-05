@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0BGR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO01AL
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230214&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10343; excluded rows=6.
+QSO:   432 PH 2023-02-14 2026 M0BGR         57 1 JO01AL          G0XDI         59 34 IO91RQ
+QSO:   432 PH 2023-02-14 2028 M0BGR         52 2 JO01AL          M0SAT         55 18 IO91TP
+QSO:   432 PH 2023-02-14 2044 M0BGR         56 3 JO01AL          G4GFI         54 30 IO91VH
+QSO:   432 PH 2023-02-14 2101 M0BGR         56 4 JO01AL          G4KQH         54 71 IO92JD
+QSO:   432 PH 2023-02-14 2105 M0BGR         58 5 JO01AL          G8GYX         55 38 IO91VH
+QSO:   432 PH 2023-02-14 2115 M0BGR         59 6 JO01AL          G8ZZK         59 42 JO01DI
+QSO:   432 PH 2023-02-14 2129 M0BGR         57 7 JO01AL          G3LTF         54 10 IO91GG
+QSO:   432 PH 2023-02-14 2134 M0BGR         55 8 JO01AL          G1DFL/P       52 78 IO91LO
+QSO:   432 PH 2023-02-14 2138 M0BGR         59 9 JO01AL          G7LRQ         57 52 IO91TQ
+QSO:   432 PH 2023-02-14 2211 M0BGR         57 10 JO01AL         G8DOH         54 80 IO92FA
+END-OF-LOG:

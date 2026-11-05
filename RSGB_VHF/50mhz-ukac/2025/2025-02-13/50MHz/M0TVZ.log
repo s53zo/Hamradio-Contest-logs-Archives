@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0TVZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92DE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250213&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4283; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    50 PH 2025-02-13 2002 M0TVZ         59 1 IO92DE          G0ODQ         59 3 IO91MR
+QSO:    50 PH 2025-02-13 2006 M0TVZ         59 2 IO92DE          M0RDX         59 10 IO83WB
+QSO:    50 PH 2025-02-13 2008 M0TVZ         59 3 IO92DE          G4CLA         59 21 IO92JL
+QSO:    50 PH 2025-02-13 2021 M0TVZ         59 4 IO92DE          G4EPA         57 11 IO92KI
+QSO:    50 PH 2025-02-13 2036 M0TVZ         59 3 IO92DE          G4ASR         59 38 IO81MX
+QSO:    50 PH 2025-02-13 2050 M0TVZ         59 7 IO92DE          G0SKA         54 26 IO91OQ
+QSO:    50 PH 2025-02-13 2055 M0TVZ         59 8 IO92DE          G0UFE         57 25 IO82SP
+END-OF-LOG:

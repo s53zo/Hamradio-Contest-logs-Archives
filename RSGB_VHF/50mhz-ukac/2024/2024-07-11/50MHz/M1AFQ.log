@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M1AFQ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02PP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=240711&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3663; excluded rows=2.
+QSO:    50 PH 2024-07-11 1904 M1AFQ         59 1 JO02PP          G4PFZ         59 4 JO02PP
+QSO:    50 CW 2024-07-11 1911 M1AFQ         599 2 JO02PP         G3LDI         599 4 JO02ON
+QSO:    50 PH 2024-07-11 1914 M1AFQ         59 3 JO02PP          G4LPP         59 10 JO02SS
+QSO:    50 PH 2024-07-11 2102 M1AFQ         59 4 JO02PP          G4KQY         59 14 JO03OP
+END-OF-LOG:

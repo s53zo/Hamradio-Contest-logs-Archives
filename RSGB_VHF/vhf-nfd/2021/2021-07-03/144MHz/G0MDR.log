@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G0MDR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91VR
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5229; excluded rows=1.
+QSO:   144 PH 2021-07-03 1742 G0MDR         59 1 IO91VR          G5LK/P        59 166 JO01QD
+QSO:   144 PH 2021-07-03 1751 G0MDR         59 2 IO91VR          M0BAA/P       59 207 JO01KJ
+QSO:   144 PH 2021-07-03 1755 G0MDR         55 3 IO91VR          G0FBB/P       55 57 JO01LD
+QSO:   144 PH 2021-07-03 1811 G0MDR         59 4 IO91VR          G0SAC/P       59 95 IO91XG
+QSO:   144 PH 2021-07-04 0800 G0MDR         55 5 IO91VR          G4ZAP/P       55 403 JO01PU
+QSO:   144 PH 2021-07-04 0805 G0MDR         58 6 IO91VR          M0NFD/P       58 100 IO94MJ
+QSO:   144 PH 2021-07-04 0818 G0MDR         52 7 IO91VR          G0ARC/P       52 180 IO91EH
+QSO:   144 PH 2021-07-04 0830 G0MDR         59 8 IO91VR          M5MK/P        59 78 IO92RA
+END-OF-LOG:

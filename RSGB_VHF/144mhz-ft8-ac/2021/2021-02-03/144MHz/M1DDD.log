@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M1DDD
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1929 M1DDD         +05 IO93             G4HZG         -01 IO93
+QSO:   144 FT8 2021-02-03 1930 M1DDD         +14 IO93             G1VDP         -16 IO92
+QSO:   144 FT8 2021-02-03 1933 M1DDD         +08 IO93             GI6ATZ        -07 IO74
+QSO:   144 FT8 2021-02-03 1937 M1DDD         -17 IO93             EI3KD         -23 IO51
+QSO:   144 FT8 2021-02-03 1940 M1DDD         +10 IO93             G6EIH         -06 IO92
+QSO:   144 FT8 2021-02-03 1941 M1DDD         -01 IO93             G4DPZ         +00 IO82
+QSO:   144 FT8 2021-02-03 1952 M1DDD         -04 IO93             2E0TXE        -14 IO83
+QSO:   144 FT8 2021-02-03 1956 M1DDD         -01 IO93             M0OLT         -07 IO92
+QSO:   144 FT8 2021-02-03 2000 M1DDD         +12 IO93             G0DJA         +06 IO93
+QSO:   144 FT8 2021-02-03 2002 M1DDD         +00 IO93             M0NPT         -06 IO92
+QSO:   144 FT8 2021-02-03 2010 M1DDD         -18 IO93             M7SPS         -19 IO92
+QSO:   144 FT8 2021-02-03 2013 M1DDD         -06 IO93             G3YDY         -20 JO01
+QSO:   144 FT8 2021-02-03 2018 M1DDD         +00 IO93             G4NBS         -07 JO02
+QSO:   144 FT8 2021-02-03 2025 M1DDD         +07 IO93             G0JEI         -09 IO93
+QSO:   144 FT8 2021-02-03 2042 M1DDD         -07 IO93             2E1SKY        -04 IO93
+QSO:   144 FT8 2021-02-03 2053 M1DDD         +02 IO93             G0XDI         -16 IO91
+END-OF-LOG:

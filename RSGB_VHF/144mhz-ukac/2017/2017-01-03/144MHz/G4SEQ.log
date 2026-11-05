@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4SEQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93EQ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170103&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11542; excluded rows=7.
+QSO:   144 PH 2017-01-03 2006 G4SEQ         59 1 IO93EQ          G4HGT/P       59 3 IO93DV
+QSO:   144 PH 2017-01-03 2009 G4SEQ         59 2 IO93EQ          G8DMU/P       58 15 IO94CB
+QSO:   144 PH 2017-01-03 2014 G4SEQ         59 3 IO93EQ          G8EOP         59 10 IO93EQ
+QSO:   144 PH 2017-01-03 2042 G4SEQ         59 4 IO93EQ          G4FZN/P       59 31 IO94JF
+QSO:   144 PH 2017-01-03 2044 G4SEQ         59 5 IO93EQ          G4HBA         59 14 IO93FN
+QSO:   144 PH 2017-01-03 2052 G4SEQ         59 6 IO93EQ          M0SGS         59 11 IO93DT
+QSO:   144 PH 2017-01-03 2111 G4SEQ         59 7 IO93EQ          G0BFJ/P       59 33 IO93DO
+QSO:   144 PH 2017-01-03 2112 G4SEQ         59 8 IO93EQ          G0TVM         59 15 IO93CT
+QSO:   144 PH 2017-01-03 2210 G4SEQ         59 9 IO93EQ          G8BUN         59 24 IO93EQ
+QSO:   144 PH 2017-01-03 2220 G4SEQ         59 10 IO93EQ         G4AHJ/P       59 39 IO93DO
+END-OF-LOG:

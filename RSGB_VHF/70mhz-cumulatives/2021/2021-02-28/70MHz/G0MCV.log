@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G0MCV
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92KR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=210228&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=871; excluded rows=0.
+QSO:    70 PH 2021-02-28 1002 G0MCV         57 1 IO92KR          G4KUX         57 4 IO94BP
+QSO:    70 PH 2021-02-28 1005 G0MCV         54 2 IO92KR          G4FZN         54 3 IO94EK
+QSO:    70 PH 2021-02-28 1009 G0MCV         59 3 IO92KR          G3OVH         59 2 IO92JP
+QSO:    70 PH 2021-02-28 1019 G0MCV         57 4 IO92KR          G4CLB         57 2 IO92HM
+QSO:    70 PH 2021-02-28 1022 G0MCV         59 5 IO92KR          M5TKA         58 10 IO91OX
+QSO:    70 PH 2021-02-28 1023 G0MCV         59 6 IO92KR          G4KPZ         59 2 IO92WK
+QSO:    70 PH 2021-02-28 1025 G0MCV         59 7 IO92KR          G8DVK         56 1 IO91IN
+QSO:    70 PH 2021-02-28 1027 G0MCV         55 8 IO92KR          GW8ASD        55 8 IO83LB
+QSO:    70 PH 2021-02-28 1029 G0MCV         57 9 IO92KR          G4IOQ         59 1 IO82KT
+QSO:    70 PH 2021-02-28 1029 G0MCV         52 10 IO92KR         G4PLZ         55 9 JO02PT
+QSO:    70 PH 2021-02-28 1035 G0MCV         57 11 IO92KR         G4TVR         52 2 IO92CI
+QSO:    70 CW 2021-02-28 1048 G0MCV         539 12 IO92KR        GW4MBS        559 5 IO71XW
+QSO:    70 CW 2021-02-28 1050 G0MCV         579 13 IO92KR        G4CAJ         579 6 IO92HN
+QSO:    70 CW 2021-02-28 1131 G0MCV         579 14 IO92KR        G3MXH         559 51 JO02LF
+QSO:    70 PH 2021-02-28 1137 G0MCV         59 15 IO92KR         G8AKE         59 2 IO92NS
+QSO:    70 PH 2021-02-28 1145 G0MCV         59 16 IO92KR         G3RIR         59 9 IO92JL
+END-OF-LOG:

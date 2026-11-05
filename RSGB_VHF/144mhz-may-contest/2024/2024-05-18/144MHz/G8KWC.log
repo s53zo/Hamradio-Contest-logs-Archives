@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G8KWC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91DN
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6313; excluded rows=2.
+QSO:   144 PH 2024-05-18 1755 G8KWC         59 1 IO91DN SN       M1T           59 59 IO91CL SN
+QSO:   144 PH 2024-05-18 1756 G8KWC         59 2 IO91DN SN       M0IEP         59 30 IO91DP SN
+QSO:   144 PH 2024-05-18 1940 G8KWC         59 3 IO91DN SN       M1G           59 65 IO91CL SN
+QSO:   144 PH 2024-05-19 0835 G8KWC         59 4 IO91DN SN       M4W           59 25 IO91CL SN
+END-OF-LOG:

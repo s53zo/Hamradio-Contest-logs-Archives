@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G4DRS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80UQ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4822; excluded rows=4.
+QSO:    50 PH 2016-10-16 1054 G4DRS         55 4 IO80UQ DT       G4BWP         55 95 JO02FH IP
+QSO:    50 PH 2016-10-16 1054 G4DRS         55 3 IO80UQ DT       G3ZAY         54 38 JO02AF CB
+QSO:    50 PH 2016-10-16 1056 G4DRS         55 5 IO80UQ DT       G4ODA         57 77 IO92WS PE
+QSO:    50 PH 2016-10-16 1100 G4DRS         55 6 IO80UQ DT       G4FSU/P       55 75 IO81QG BS
+QSO:    50 PH 2016-10-16 1101 G4DRS         58 7 IO80UQ DT       G4ASR         55 79 IO81MX HR
+QSO:    50 PH 2016-10-16 1107 G4DRS         59 8 IO80UQ DT       G3ZVW         55 46 IO80MS EX
+QSO:    50 PH 2016-10-16 1027 G4DRS         57 2 IO80UQ DT       G4JQN         57 6 IO81VG BA
+QSO:    50 PH 2016-10-16 1030 G4DRS         57 3 IO80UQ DT       M0TCP         55 37 IO93QV YO
+QSO:    50 PH 2016-10-16 1121 G4DRS         55 11 IO80UQ DT      M1MHZ         58 78 IO92WV PE
+END-OF-LOG:

@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G4LDR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91EC
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=175; excluded rows=0.
+QSO:   10G PH 2021-05-02 0833 G4LDR         55 1 IO91EC          G4ASR         55 3 IO81MX
+QSO:   10G PH 2021-05-02 0934 G4LDR         59 2 IO91EC          M0GHZ         59 3 IO81VK
+QSO:   10G PH 2021-05-02 0949 G4LDR         57 3 IO91EC          G3Z           56 6 IO82QL
+QSO:   10G PH 2021-05-02 1012 G4LDR         59 4 IO91EC          G4ODA         59 11 IO92WS
+QSO:   10G PH 2021-05-02 1033 G4LDR         53 5 IO91EC          PA0JCA        57 3 JO22JG
+QSO:   10G PH 2021-05-02 1048 G4LDR         52 6 IO91EC          G4KUX         53 9 IO94BP
+QSO:   10G PH 2021-05-02 1110 G4LDR         55 7 IO91EC          G4HWA         56 6 IO92ME
+QSO:   10G PH 2021-05-02 1127 G4LDR         51 8 IO91EC          G8DMU/P       41 10 IO94CB
+QSO:   10G PH 2021-05-02 1135 G4LDR         59 9 IO91EC          G4UVZ         59 3 IO80KX
+QSO:   10G PH 2021-05-02 1210 G4LDR         53 10 IO91EC         GW4MBS/P      56 4 IO71XW
+QSO:   10G PH 2021-05-02 1233 G4LDR         54 11 IO91EC         G3PHO         53 5 IO93GG
+QSO:   10G PH 2021-05-02 1324 G4LDR         59 12 IO91EC         G1DFL/P       59 3 IO91JM
+QSO:   10G PH 2021-05-02 1334 G4LDR         56 13 IO91EC         G4ZTR         57 16 JO01KW
+QSO:   10G PH 2021-05-02 1340 G4LDR         54 14 IO91EC         G3XDY         55 13 JO02OB
+QSO:   10G CW 2021-05-02 1348 G4LDR         519 15 IO91EC        G0LBK         539 12 IO93IK
+QSO:   10G PH 2021-05-02 1356 G4LDR         55 16 IO91EC         F6DKW         55 1 JN18CS
+END-OF-LOG:

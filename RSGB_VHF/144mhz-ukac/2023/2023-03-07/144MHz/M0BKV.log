@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0BKV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO70RR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230307&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10703; excluded rows=2.
+QSO:   144 PH 2023-03-07 2021 M0BKV         59 1 IO70RR          2E0FEH        58 3 IO70VJ
+QSO:   144 PH 2023-03-07 2023 M0BKV         59 2 IO70RR          2E0VCC/P      59 20 IO70SP
+QSO:   144 PH 2023-03-07 2027 M0BKV         59 3 IO70RR          G8RIR         59 3 IO80AU
+QSO:   144 PH 2023-03-07 2031 M0BKV         59 4 IO70RR          GW0RHC        59 22 IO71UN
+QSO:   144 PH 2023-03-07 2036 M0BKV         57 5 IO70RR          G4CLA         55 80 IO92JL
+QSO:   144 PH 2023-03-07 2040 M0BKV         59 6 IO70RR          G8EKG         59 38 IO92ES
+QSO:   144 PH 2023-03-07 2055 M0BKV         55 7 IO70RR          G0LTG         55 50 IO81RF
+QSO:   144 PH 2023-03-07 2104 M0BKV         58 8 IO70RR          G8IQL         57 22 IO90LX
+QSO:   144 PH 2023-03-07 2108 M0BKV         59 9 IO70RR          G8XDD/P       57 30 IO90MX
+QSO:   144 PH 2023-03-07 2117 M0BKV         57 10 IO70RR         G0HEL/P       57 63 IO81WG
+QSO:   144 PH 2023-03-07 2122 M0BKV         53 11 IO70RR         G1DFL/P       55 71 IO91LO
+QSO:   144 PH 2023-03-07 2136 M0BKV         53 12 IO70RR         M1MHZ         59 80 IO92WV
+QSO:   144 PH 2023-03-07 2140 M0BKV         56 13 IO70RR         G8DVK         56 69 IO91IN
+QSO:   144 PH 2023-03-07 2217 M0BKV         59 14 IO70RR         M0NVS/P       59 139 IO91LT
+QSO:   144 PH 2023-03-07 2227 M0BKV         59 15 IO70RR         G8DOH         58 84 IO92FA
+END-OF-LOG:

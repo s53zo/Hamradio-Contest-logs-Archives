@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8NVX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93IK
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180614&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4459; excluded rows=1.
+QSO:    50 PH 2018-06-14 1919 G8NVX         59 1 IO93IK          S01WS         59 0 IL46RD
+QSO:    50 PH 2018-06-14 1939 G8NVX         59 2 IO93IK          G0BFJ/P       59 34 IO93DO
+QSO:    50 PH 2018-06-14 2002 G8NVX         59 3 IO93IK          EA2VE         59 0 IN82PU
+QSO:    50 PH 2018-06-14 2020 G8NVX         59 4 IO93IK          M1MHZ         59 79 IO92WV
+QSO:    50 PH 2018-06-14 2026 G8NVX         59 5 IO93IK          G3CKR/P       59 97 IO93AD
+QSO:    50 PH 2018-06-14 2030 G8NVX         53 6 IO93IK          G3PHO         53 32 IO93GG
+QSO:    50 PH 2018-06-14 2037 G8NVX         59 7 IO93IK          G3TBK/P       59 71 IO93RA
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: G0GRI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO80SX
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5139; excluded rows=2.
+QSO:   144 PH 2019-03-02 1531 G0GRI         54 1 IO80SX          G8OFA         57 11 IO91DC
+QSO:   144 PH 2019-03-02 1534 G0GRI         43 2 IO80SX          G8W           58 43 IO90JO
+QSO:   144 PH 2019-03-02 1538 G0GRI         59 3 IO80SX          G3TKF/P       59 38 IO81SH
+QSO:   144 PH 2019-03-02 1544 G0GRI         55 4 IO80SX          2E0NEY        57 17 IO81VK
+END-OF-LOG:

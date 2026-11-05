@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: M0HFY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO81UT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=171221&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3406; excluded rows=0.
+QSO:    70 PH 2017-12-21 2020 M0HFY         59 1 IO81UT          G4ASR         59 21 IO81MX
+QSO:    70 PH 2017-12-21 2025 M0HFY         59 2 IO81UT          G0HEL/P       57 14 IO81WG
+QSO:    70 PH 2017-12-21 2034 M0HFY         59 3 IO81UT          G1YBB/P       58 25 IO82LB
+QSO:    70 PH 2017-12-21 2037 M0HFY         55 4 IO81UT          G3WAG/P       57 20 IO82SE
+QSO:    70 PH 2017-12-21 2058 M0HFY         59 5 IO81UT          G3LVP         57 7 IO81WV
+END-OF-LOG:

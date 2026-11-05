@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GW4OKT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83LE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230502&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13496; excluded rows=3.
+QSO:   144 PH 2023-05-02 1901 GW4OKT        59 1 IO83LE          GW4ZAR        59 2 IO83KF
+QSO:   144 PH 2023-05-02 1901 GW4OKT        59 2 IO83LE          G8ZRE         59 1 IO83NE
+QSO:   144 PH 2023-05-02 1904 GW4OKT        59 3 IO83LE          M7PMK         59 2 IO83OG
+QSO:   144 PH 2023-05-02 1915 GW4OKT        59 4 IO83LE          M1MLM/P       59 8 IO83VC
+QSO:   144 PH 2023-05-02 1923 GW4OKT        59 5 IO83LE          GW8ASD        59 13 IO83LB
+QSO:   144 PH 2023-05-02 1932 GW4OKT        55 6 IO83LE          MW0LKX/P      52 48 IO82KL
+QSO:   144 PH 2023-05-02 1934 GW4OKT        54 7 IO83LE          G0CDA         52 23 IO83SJ
+QSO:   144 PH 2023-05-02 1944 GW4OKT        57 8 IO83LE          G8XVJ/P       58 59 IO93AD
+QSO:   144 PH 2023-05-02 2005 GW4OKT        55 9 IO83LE          M0MHW         55 9 IO83RO
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GD0TFG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO74PD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210909&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4681; excluded rows=0.
+QSO:    50 PH 2021-09-09 1900 GD0TFG        59 1 IO74PD          GD0AMD/P      59 1 IO74QD
+QSO:    50 PH 2021-09-09 1906 GD0TFG        53 2 IO74PD          GI4SNA        53 5 IO64XM
+QSO:    50 PH 2021-09-09 1918 GD0TFG        59 3 IO74PD          GW0GEI        59 2 IO72VE
+QSO:    50 PH 2021-09-09 1918 GD0TFG        59 4 IO74PD          GD8EXI        59 7 IO74PC
+QSO:    50 PH 2021-09-09 1926 GD0TFG        51 5 IO74PD          G4RRA         51 25 IO80BS
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: G4EBK
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93WN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=281; excluded rows=1.
+QSO:    50 CW 2019-06-23 1015 G4EBK         559 1 IO93WN         G3TCU/P       579 26 IO91GI
+QSO:    50 CW 2019-06-23 1025 G4EBK         559 2 IO93WN         G3TBK/P       599 27 IO93RA
+QSO:    50 CW 2019-06-23 1036 G4EBK         559 3 IO93WN         M0BEW         599 28 IO82RJ
+QSO:    50 CW 2019-06-23 1100 G4EBK         599 4 IO93WN         G4CZB/P       599 27 IO92LH
+END-OF-LOG:

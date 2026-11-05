@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0MDR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91VR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210909&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4681; excluded rows=0.
+QSO:    50 PH 2021-09-09 1901 G0MDR         59 1 IO91VR          G0SKA         59 2 IO91OQ
+QSO:    50 PH 2021-09-09 1904 G0MDR         58 2 IO91VR          G4FVZ         59 5 IO91OW
+QSO:    50 PH 2021-09-09 1907 G0MDR         57 3 IO91VR          G8GYX         57 11 IO91VH
+QSO:    50 PH 2021-09-09 1915 G0MDR         59 4 IO91VR          G8CUL         59 10 IO91JO
+QSO:    50 PH 2021-09-09 1923 G0MDR         55 5 IO91VR          G4JED         55 12 JO01CF
+END-OF-LOG:

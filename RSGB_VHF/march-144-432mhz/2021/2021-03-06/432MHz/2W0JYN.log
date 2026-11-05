@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: 2W0JYN
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83LA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2457; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   432 PH 2021-03-06 1528 2W0JYN        57 1 IO83LA          G0ODQ         57 20 IO91MR
+QSO:   432 PH 2021-03-06 1609 2W0JYN        59 2 IO83LA          G0XBU         59 1 IO83UF
+QSO:   432 PH 2021-03-06 1954 2W0JYN        59 3 IO83LA          GW8ASD        59 3 IO83LB
+QSO:   432 PH 2021-03-06 1955 2W0JYN        55 4 IO83LA          GW4TQD        55 1 IO72RD
+QSO:   432 CW 2021-03-06 1956 2W0JYN        559 5 IO83LA         GW0WZZ        59 1 IO82LX
+QSO:   432 PH 2021-03-07 1318 2W0JYN        55 7 IO83LA          G8DIR         57 23 IO82MP
+END-OF-LOG:

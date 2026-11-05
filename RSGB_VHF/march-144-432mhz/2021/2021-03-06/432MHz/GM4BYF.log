@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: GM4BYF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO85JV
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2457; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   432 PH 2021-03-06 1603 GM4BYF        57 1 IO85JV          G3XDY         55 27 JO02OB
+QSO:   432 PH 2021-03-06 1604 GM4BYF        59 2 IO85JV          G4ODA         59 27 IO92WS
+QSO:   432 PH 2021-03-07 0950 GM4BYF        52 4 IO85JV          G4ASR         52 63 IO81MX
+QSO:   432 PH 2021-03-07 1009 GM4BYF        56 5 IO85JV          G0XDI         53 81 IO91RQ
+QSO:   432 CW 2021-03-07 1016 GM4BYF        529 6 IO85JV         G3YJR         53 27 IO93FJ
+QSO:   432 PH 2021-03-07 1018 GM4BYF        56 7 IO85JV          G4KCT         58 16 IO93LW
+QSO:   432 PH 2021-03-07 1059 GM4BYF        59 9 IO85JV          G4PLZ         57 26 JO02PT
+QSO:   432 PH 2021-03-07 1128 GM4BYF        52 10 IO85JV         M0SAT         52 8 IO91TP
+QSO:   432 PH 2021-03-07 1136 GM4BYF        53 11 IO85JV         G1HLT         55 39 IO93JD
+QSO:   432 PH 2021-03-07 1153 GM4BYF        53 12 IO85JV         M0XVF         59 1 IO94EQ
+QSO:   432 PH 2021-03-07 1154 GM4BYF        53 13 IO85JV         G7LRQ         55 57 IO91TQ
+QSO:   432 PH 2021-03-07 1156 GM4BYF        57 14 IO85JV         G4CLA         59 38 IO92JL
+QSO:   432 PH 2021-03-07 1237 GM4BYF        52 15 IO85JV         G3SED         52 25 IO90IV
+END-OF-LOG:

@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: MM0CEZ
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO75XU
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=439; excluded rows=0.
+QSO:    50 CW 2017-06-25 0924 MM0CEZ        599 1 IO75XU         GM3WUX        599 3 IO75UU
+QSO:    50 CW 2017-06-25 0932 MM0CEZ        599 2 IO75XU         G4ASR         599 16 IO81MX
+QSO:    50 CW 2017-06-25 0941 MM0CEZ        599 3 IO75XU         G4BWP         599 29 JO02FH
+QSO:    50 CW 2017-06-25 0947 MM0CEZ        599 4 IO75XU         G3RLE         599 10 IO83VO
+QSO:    50 CW 2017-06-25 0959 MM0CEZ        599 5 IO75XU         GM3POI        599 11 IO88OW
+QSO:    50 CW 2017-06-25 1007 MM0CEZ        599 6 IO75XU         GM4UBJ        599 2 IO75XT
+QSO:    50 CW 2017-06-25 1020 MM0CEZ        599 7 IO75XU         MD0CCE        599 1 IO74TI
+QSO:    50 CW 2017-06-25 1029 MM0CEZ        599 8 IO75XU         MM0RYR        599 2 IO85OE
+QSO:    50 CW 2017-06-25 1051 MM0CEZ        529 9 IO75XU         M0PNN         559 8 IO82TS
+END-OF-LOG:

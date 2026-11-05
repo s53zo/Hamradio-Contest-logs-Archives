@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: M7PAT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93HL
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2914; excluded rows=3.
+QSO:    50 PH 2023-10-22 1003 M7PAT         59 1 IO93HL SD       G0EAK/P       59 27 IO93NI DN
+QSO:    50 PH 2023-10-22 1020 M7PAT         57 2 IO93HL SD       G3YJR         59 14 IO93FJ SD
+QSO:    50 PH 2023-10-22 1051 M7PAT         59 3 IO93HL SD       G3TBK/P       59 55 IO93RA NG
+QSO:    50 PH 2023-10-22 1101 M7PAT         57 4 IO93HL SD       G4FZN/P       58 51 IO94JF YO
+END-OF-LOG:

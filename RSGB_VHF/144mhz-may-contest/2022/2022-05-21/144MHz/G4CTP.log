@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G4CTP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91RG
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8218; excluded rows=5.
+QSO:   144 PH 2022-05-21 1430 G4CTP         55 1 IO91RG GU       G0SKA         55 23 IO91OQ HP
+QSO:   144 PH 2022-05-21 1434 G4CTP         59 2 IO91RG GU       M0MPM/P       55 11 IO91GI RG
+QSO:   144 PH 2022-05-22 0708 G4CTP         59 3 IO91RG GU       G0ODQ         59 61 IO91MR OX
+QSO:   144 PH 2022-05-22 0727 G4CTP         55 4 IO91RG GU       G0BBB         57 13 IO91PK RG
+QSO:   144 PH 2022-05-22 1113 G4CTP         55 5 IO91RG GU       G0GJV         55 37 IO91OK RG
+QSO:   144 PH 2022-05-22 1117 G4CTP         59 6 IO91RG GU       G8T           57 396 JO01KJ ME
+QSO:   144 PH 2022-05-22 1118 G4CTP         59 7 IO91RG GU       M0N           59 38 IO91SR HP
+QSO:   144 PH 2022-05-22 1130 G4CTP         59 8 IO91RG GU       G3MEH         59 86 IO91QS HP
+QSO:   144 PH 2022-05-22 1135 G4CTP         59 9 IO91RG GU       G0VHF/P       57 333 JO01PU CO
+QSO:   144 PH 2022-05-22 1151 G4CTP         55 10 IO91RG GU      G8W           53 144 IO90JO PO
+QSO:   144 PH 2022-05-22 1314 G4CTP         57 11 IO91RG GU      M3P           53 88 IO91JO OX
+QSO:   144 PH 2022-05-22 1354 G4CTP         55 12 IO91RG GU      M1N           53 138 IO91CL SN
+END-OF-LOG:

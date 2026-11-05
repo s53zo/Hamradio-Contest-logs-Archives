@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0TBQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82SQ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210909&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4681; excluded rows=0.
+QSO:    50 PH 2021-09-09 1903 M0TBQ         59 1 IO82SQ          MW1LCR/P      59 2 IO81NV
+QSO:    50 PH 2021-09-09 1913 M0TBQ         57 2 IO82SQ          G1YBB/P       59 19 IO82LB
+QSO:    50 PH 2021-09-09 1916 M0TBQ         59 3 IO82SQ          G4ASR         59 31 IO81MX
+QSO:    50 PH 2021-09-09 1926 M0TBQ         59 4 IO82SQ          G8ZRE         59 16 IO83NE
+QSO:    50 PH 2021-09-09 1943 M0TBQ         57 5 IO82SQ          G4TVR         59 31 IO92CI
+QSO:    50 PH 2021-09-09 1947 M0TBQ         59 6 IO82SQ          G4CLA         59 68 IO92JL
+QSO:    50 PH 2021-09-09 1959 M0TBQ         59 7 IO82SQ          GW4SHF        59 27 IO82HP
+END-OF-LOG:

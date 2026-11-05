@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: 2E0GPU
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1903 2E0GPU        +03 IO92             M0KKM         +11 JO02
+QSO:   144 FT8 2021-02-03 1904 2E0GPU        +00 IO92             G4NBS         +00 JO02
+QSO:   144 FT8 2021-02-03 1905 2E0GPU        +14 IO92             M7ICL         +17 JO02
+QSO:   144 FT8 2021-02-03 1909 2E0GPU        -21 IO92             G4HZG         -09 IO93
+QSO:   144 FT8 2021-02-03 1911 2E0GPU        -20 IO92             M0OLT         -14 IO92
+QSO:   144 FT8 2021-02-03 1923 2E0GPU        -04 IO92             G4PDF         -06 IO93
+QSO:   144 FT8 2021-02-03 1927 2E0GPU        -07 IO92             M0KKM         +11 JO02
+QSO:   144 FT8 2021-02-03 1930 2E0GPU        -06 IO92             G4PDF         +03 IO93
+QSO:   144 FT8 2021-02-03 1942 2E0GPU        -15 IO92             2E1ART        -13 IO92
+QSO:   144 FT8 2021-02-03 1944 2E0GPU        -17 IO92             G4TUH         -16 IO92
+QSO:   144 FT8 2021-02-03 1947 2E0GPU        -12 IO92             M7SPS         -07 IO92
+QSO:   144 FT8 2021-02-03 1955 2E0GPU        -14 IO92             G0DDJ         -12 IO92
+QSO:   144 FT8 2021-02-03 2000 2E0GPU        -01 IO92             2E0HED        -07 IO92
+QSO:   144 FT8 2021-02-03 2004 2E0GPU        -14 IO92             G1JSP         +00 IO92
+QSO:   144 FT8 2021-02-03 2005 2E0GPU        -15 IO92             G1JSP         +00 IO92
+QSO:   144 FT8 2021-02-03 2017 2E0GPU        -16 IO92             G7RDX         -16 IO91
+QSO:   144 FT8 2021-02-03 2036 2E0GPU        -15 IO92             G3YDY         -14 JO01
+END-OF-LOG:

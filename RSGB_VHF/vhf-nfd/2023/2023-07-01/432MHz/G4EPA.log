@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4EPA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92KI
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1447; excluded rows=1.
+QSO:   432 PH 2023-07-02 0853 G4EPA         59 1 IO92KI          G3CKR/P       59 74 IO93AD
+QSO:   432 PH 2023-07-02 0855 G4EPA         55 2 IO92KI          G3SRT/P       59 32 IO82KV
+QSO:   432 PH 2023-07-02 0858 G4EPA         55 3 IO92KI          G0ARC/P       56 49 IO91EH
+QSO:   432 PH 2023-07-02 0931 G4EPA         55 4 IO92KI          EI9E/P        57 76 IO62OM
+END-OF-LOG:

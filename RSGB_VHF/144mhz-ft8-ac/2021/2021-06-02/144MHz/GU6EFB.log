@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: GU6EFB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IN89
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210602&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1442; excluded rows=1.
+QSO:   144 FT8 2021-06-02 1912 GU6EFB        +10 IN89             G4CBZ         +05 IO90
+QSO:   144 FT8 2021-06-02 1915 GU6EFB        -10 IN89             G4NBS         -15 JO02
+QSO:   144 FT8 2021-06-02 1917 GU6EFB        +12 IN89             G4GFI         -01 IO91
+QSO:   144 FT8 2021-06-02 1920 GU6EFB        -06 IN89             2E0IEI        -08 IO81
+QSO:   144 FT8 2021-06-02 1928 GU6EFB        +06 IN89             G3WAG         +02 IO82
+QSO:   144 FT8 2021-06-02 1933 GU6EFB        -02 IN89             G7WIR         -04 JO01
+QSO:   144 FT8 2021-06-02 2030 GU6EFB        +10 IN89             G7LRQ         -15 IO91
+QSO:   144 FT8 2021-06-02 2032 GU6EFB        -08 IN89             G0TKZ         -18 JO01
+QSO:   144 FT8 2021-06-02 2045 GU6EFB        -20 IN89             G4RQI         -20 IO93
+QSO:   144 FT8 2021-06-02 2051 GU6EFB        +02 IN89             MW0UCL        -14 IO81
+QSO:   144 FT8 2021-06-02 2055 GU6EFB        +22 IN89             G4BRK         -05 -
+END-OF-LOG:

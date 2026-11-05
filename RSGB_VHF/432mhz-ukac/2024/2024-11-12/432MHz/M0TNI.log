@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0TNI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92VQ
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=241112&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6791; excluded rows=1.
+QSO:   432 PH 2024-11-12 2000 M0TNI         59 1 IO92VQ          G4ODA         59 1 IO92WS
+QSO:   432 PH 2024-11-12 2014 M0TNI         51 2 IO92VQ          G4CLA         59 39 IO92JL
+QSO:   432 PH 2024-11-12 2017 M0TNI         41 3 IO92VQ          G4PDF         53 10 IO93VH
+QSO:   432 PH 2024-11-12 2038 M0TNI         53 4 IO92VQ          M1MLM/P       55 56 IO93AD
+QSO:   432 PH 2024-11-12 2046 M0TNI         51 5 IO92VQ          2E0VPX        59 18 IO92UX
+QSO:   432 PH 2024-11-12 2051 M0TNI         59 6 IO92VQ          G3TBK/P       59 48 IO93RA
+QSO:   432 PH 2024-11-12 2056 M0TNI         55 7 IO92VQ          G4FEV         57 29 IO92RG
+END-OF-LOG:

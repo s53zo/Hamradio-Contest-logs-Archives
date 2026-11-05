@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G4OAR/A
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO82PV
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=191015&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2377; excluded rows=0.
+QSO:  1.2G PH 2019-10-15 1901 G4OAR/A       59 1 IO82PV          GW8REQ/P      59 1 IO82KW
+QSO:  1.2G PH 2019-10-15 1928 G4OAR/A       51 2 IO82PV          GD8EXI        42 9 IO74PC
+QSO:  1.2G PH 2019-10-15 2010 G4OAR/A       52 3 IO82PV          G4ASR         52 35 IO81MX
+QSO:  1.2G PH 2019-10-15 2021 G4OAR/A       57 4 IO82PV          G1YBB/P       57 39 IO82LB
+END-OF-LOG:

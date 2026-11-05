@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: GW4MBS/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO71XW
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=83; excluded rows=4.
+QSO:   10G PH 2023-05-07 0909 GW4MBS/P      55 1 IO71XW          G4UVZ         55 1 IO80KX
+QSO:   10G CW 2023-05-07 0929 GW4MBS/P      539 2 IO71XW         G4ASR         539 6 IO81MX
+QSO:   10G CW 2023-05-07 1006 GW4MBS/P      539 3 IO71XW         G4ODA         539 2 IO92WS
+QSO:   10G PH 2023-05-07 1134 GW4MBS/P      43 4 IO71XW          G3VPF/P       45 3 IO80QR
+QSO:   10G PH 2023-05-07 1135 GW4MBS/P      33 5 IO71XW          G8IKP/P       54 3 IO80RQ
+QSO:   10G PH 2023-05-07 1320 GW4MBS/P      53 6 IO71XW          G4LDR         52 14 IO91EC
+QSO:   10G PH 2023-05-07 1329 GW4MBS/P      53 7 IO71XW          GW4JQP        57 1 IO71KR
+END-OF-LOG:

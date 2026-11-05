@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: M0DGD
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=230104&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=864; excluded rows=0.
+QSO:   144 FT8 2023-01-04 1941 M0DGD         +05 JO01             G0BIX         +24 JO01
+QSO:   144 FT8 2023-01-04 1942 M0DGD         -16 JO01             G4CTP         -14 IO91
+QSO:   144 FT8 2023-01-04 1945 M0DGD         -13 JO01             G7WIR         -07 JO01
+QSO:   144 FT8 2023-01-04 1951 M0DGD         +01 JO01             G4FFY         +08 JO01
+QSO:   144 FT8 2023-01-04 2005 M0DGD         -11 JO01             2E0DUE        -14 JO01
+QSO:   144 FT8 2023-01-04 2008 M0DGD         -15 JO01             M0KYB         -14 IO91
+QSO:   144 FT8 2023-01-04 2012 M0DGD         -08 JO01             G4ZZL         -17 JO01
+QSO:   144 FT8 2023-01-04 2025 M0DGD         -09 JO01             M0NVS         -18 IO91
+QSO:   144 FT8 2023-01-04 2043 M0DGD         -15 JO01             PD7RON        -25 JO22
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM0SCA/A
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85GO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=240305&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10463; excluded rows=4.
+QSO:   144 PH 2024-03-05 2003 GM0SCA/A      55 1 IO85GO          G6AD/P        55 4 IO92LJ
+QSO:   144 PH 2024-03-05 2005 GM0SCA/A      59 2 IO85GO          G8KPD/P       59 3 IO85XF
+QSO:   144 PH 2024-03-05 2023 GM0SCA/A      59 3 IO85GO          MM0GOG        55 4 IO85DU
+QSO:   144 PH 2024-03-05 2031 GM0SCA/A      55 4 IO85GO          GM4PPT        55 16 IO75SK
+QSO:   144 PH 2024-03-05 2037 GM0SCA/A      55 5 IO85GO          MM6POV        55 11 IO75TH
+QSO:   144 PH 2024-03-05 2056 GM0SCA/A      55 6 IO85GO          G4GUF/P       55 7 IO93PU
+QSO:   144 PH 2024-03-05 2111 GM0SCA/A      55 7 IO85GO          G8SEI         55 59 IO92FO
+END-OF-LOG:

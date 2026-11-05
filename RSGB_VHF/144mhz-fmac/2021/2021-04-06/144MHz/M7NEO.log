@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M7NEO
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91SM
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210406&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1304; excluded rows=0.
+QSO:   144 FM 2021-04-06 1815 M7NEO         59 1 IO91SM          G0ACK         59 5 IO91TN
+QSO:   144 FM 2021-04-06 1820 M7NEO         59 2 IO91SM          G7WIR         59 8 JO01BJ
+QSO:   144 FM 2021-04-06 1824 M7NEO         59 3 IO91SM          M0JSB/P       59 6 IO91SF
+QSO:   144 FM 2021-04-06 1836 M7NEO         59 4 IO91SM          M0XTY         59 5 JO01AK
+QSO:   144 FM 2021-04-06 1839 M7NEO         59 5 IO91SM          G8GYX         58 15 IO91VH
+QSO:   144 FM 2021-04-06 1844 M7NEO         59 6 IO91SM          G8FKH         59 1 IO91SN
+QSO:   144 FM 2021-04-06 1845 M7NEO         59 7 IO91SM          2E0RUS        59 3 IO91TK
+QSO:   144 FM 2021-04-06 1846 M7NEO         59 8 IO91SM          M0XXJ         59 1 IO91TK
+QSO:   144 FM 2021-04-06 1849 M7NEO         59 9 IO91SM          G4GFI         59 2 IO91VH
+QSO:   144 FM 2021-04-06 1851 M7NEO         59 10 IO91SM         G0BBB         59 1 IO91PK
+END-OF-LOG:

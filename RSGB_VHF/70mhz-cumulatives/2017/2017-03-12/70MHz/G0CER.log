@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G0CER
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82RV
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170312&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1073; excluded rows=1.
+QSO:    70 PH 2017-03-12 1034 G0CER         58 1 IO82RV          G4HGT/P       56 26 IO93BV
+QSO:    70 PH 2017-03-12 1037 G0CER         58 2 IO82RV          G4FZN/P       57 29 IO94JF
+QSO:    70 PH 2017-03-12 1039 G0CER         56 3 IO82RV          G0EHV/P       55 14 IO84XT
+QSO:    70 PH 2017-03-12 1048 G0CER         58 4 IO82RV          G4HGI         58 17 IO83PL
+QSO:    70 PH 2017-03-12 1059 G0CER         56 5 IO82RV          G4YHF         56 14 IO92XW
+QSO:    70 PH 2017-03-12 1102 G0CER         59 6 IO82RV          G4ASR         59 44 IO81MX
+QSO:    70 PH 2017-03-12 1123 G0CER         57 7 IO82RV          GI4SNA        57 6 IO64XM
+QSO:    70 PH 2017-03-12 1136 G0CER         57 8 IO82RV          GW8ASD        57 29 IO83LB
+QSO:    70 PH 2017-03-12 1159 G0CER         56 9 IO82RV          G3MEH         55 54 IO91QS
+END-OF-LOG:

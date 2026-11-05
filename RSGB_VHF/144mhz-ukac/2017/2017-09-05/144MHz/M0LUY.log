@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0LUY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93RE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170905&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11528; excluded rows=1.
+QSO:   144 PH 2017-09-05 1935 M0LUY         59 1 IO93RE          G0EAK/P       59 27 IO93NI
+QSO:   144 PH 2017-09-05 2007 M0LUY         59 2 IO93RE          G0EUN         59 19 IO93QE
+QSO:   144 PH 2017-09-05 2028 M0LUY         59 3 IO93RE          M0MDY         59 73 IO93HH
+QSO:   144 PH 2017-09-05 2118 M0LUY         59 4 IO93RE          G3VCA         57 75 IO93MG
+QSO:   144 PH 2017-09-05 2129 M0LUY         55 5 IO93RE          M5DWI/P       55 86 IO93FL
+END-OF-LOG:

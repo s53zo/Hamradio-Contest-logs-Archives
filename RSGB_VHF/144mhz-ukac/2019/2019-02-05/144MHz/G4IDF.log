@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4IDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82VE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190205&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10597; excluded rows=3.
+QSO:   144 PH 2019-02-05 2000 G4IDF         59 1 IO82VE          G1YBB/P       59 1 IO82LB
+QSO:   144 PH 2019-02-05 2001 G4IDF         59 2 IO82VE          G4ILI/P       59 3 IO81WU
+QSO:   144 PH 2019-02-05 2003 G4IDF         59 3 IO82VE          GW4SHF        57 3 IO82HP
+QSO:   144 PH 2019-02-05 2005 G4IDF         59 4 IO82VE          M0BUL         57 4 IO82NG
+QSO:   144 PH 2019-02-05 2008 G4IDF         59 5 IO82VE          G4ASR         59 9 IO81MX
+QSO:   144 PH 2019-02-05 2015 G4IDF         57 6 IO82VE          M0SJV         57 4 IO82WM
+QSO:   144 PH 2019-02-05 2017 G4IDF         57 7 IO82VE          G0LGS         57 6 IO81WV
+QSO:   144 PH 2019-02-05 2019 G4IDF         59 8 IO82VE          M0RSD         59 13 IO82WM
+QSO:   144 PH 2019-02-05 2024 G4IDF         59 9 IO82VE          2E0NEY        59 17 IO81VK
+QSO:   144 PH 2019-02-05 2026 G4IDF         59 10 IO82VE         M0UGA/P       57 35 IO92HD
+QSO:   144 PH 2019-02-05 2031 G4IDF         53 11 IO82VE         F1BHL/P       51 23 IN99PI
+QSO:   144 PH 2019-02-05 2032 G4IDF         59 12 IO82VE         G8JLY         57 10 IO82WG
+QSO:   144 PH 2019-02-05 2035 G4IDF         55 13 IO82VE         GD8EXI        57 47 IO74PC
+QSO:   144 PH 2019-02-05 2055 G4IDF         57 14 IO82VE         G8CUL         53 45 IO91JO
+QSO:   144 PH 2019-02-05 2056 G4IDF         57 15 IO82VE         G8DVK         52 39 IO91IN
+QSO:   144 PH 2019-02-05 2112 G4IDF         59 16 IO82VE         G8OHM         55 30 IO92AJ
+QSO:   144 PH 2019-02-05 2114 G4IDF         57 17 IO82VE         2E1HNK/P      57 26 IO91AW
+QSO:   144 PH 2019-02-05 2120 G4IDF         56 18 IO82VE         GM3SEK        52 81 IO74SR
+QSO:   144 PH 2019-02-05 2133 G4IDF         54 19 IO82VE         G7RAU         55 72 IN79JX
+QSO:   144 PH 2019-02-05 2143 G4IDF         55 20 IO82VE         G3ZXZ         51 110 IO93CU
+END-OF-LOG:

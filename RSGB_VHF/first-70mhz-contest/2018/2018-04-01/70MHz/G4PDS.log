@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-70MHZ-CONTEST
+CALLSIGN: G4PDS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO80LR
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+70MHz+Contest&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=851; excluded rows=1.
+QSO:    70 PH 2018-04-01 0901 G4PDS         59 1 IO80LR          G4BWP         59 3 JO02FH
+QSO:    70 PH 2018-04-01 0904 G4PDS         57 2 IO80LR          G8CUL         57 4 IO91JO
+QSO:    70 PH 2018-04-01 0908 G4PDS         57 3 IO80LR          G4RFR         55 4 IO90AS
+QSO:    70 PH 2018-04-01 0911 G4PDS         59 4 IO80LR          G3NPI         57 8 IO92MA
+QSO:    70 PH 2018-04-01 0918 G4PDS         59 5 IO80LR          G3MEH         57 16 IO91QS
+QSO:    70 PH 2018-04-01 0931 G4PDS         57 6 IO80LR          G3TCU/P       52 24 IO91RF
+QSO:    70 PH 2018-04-01 0938 G4PDS         57 7 IO80LR          G4FZN/P       57 24 IO94JF
+QSO:    70 PH 2018-04-01 0957 G4PDS         57 8 IO80LR          G4SJH         54 13 IO91PI
+QSO:    70 PH 2018-04-01 1031 G4PDS         55 9 IO80LR          G4YPC         53 13 IO91RH
+QSO:    70 PH 2018-04-01 1157 G4PDS         55 10 IO80LR         G6UBM         52 16 JO01CE
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M7GOT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82WO
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=221206&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9135; excluded rows=3.
+QSO:   144 PH 2022-12-06 2004 M7GOT         53 1 IO82WO          G4ILI         51 3 IO81WU
+QSO:   144 PH 2022-12-06 2034 M7GOT         57 2 IO82WO          G3UDA         59 13 IO82OQ
+QSO:   144 PH 2022-12-06 2054 M7GOT         57 3 IO82WO          G0LTG         57 42 IO81RF
+QSO:   144 PH 2022-12-06 2131 M7GOT         57 4 IO82WO          G3UKV         52 20 IO82RR
+QSO:   144 PH 2022-12-06 2145 M7GOT         55 5 IO82WO          G8EKG         55 44 IO92ES
+QSO:   144 PH 2022-12-06 2157 M7GOT         52 6 IO82WO          G0NZI         52 52 IO92FM
+QSO:   144 PH 2022-12-06 2202 M7GOT         54 7 IO82WO          M0BUL         54 52 IO82NG
+QSO:   144 PH 2022-12-06 2216 M7GOT         54 8 IO82WO          GW8ASD        59 56 IO83LB
+END-OF-LOG:

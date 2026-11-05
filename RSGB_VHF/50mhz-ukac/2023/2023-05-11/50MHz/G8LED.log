@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8LED
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92NF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230511&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5103; excluded rows=2.
+QSO:    50 PH 2023-05-11 1901 G8LED         55 1 IO92NF          G1MZD/P       56 2 IO92NC
+QSO:    50 PH 2023-05-11 1902 G8LED         57 2 IO92NF          G0GGU         56 2 IO92MG
+QSO:    50 PH 2023-05-11 1904 G8LED         59 3 IO92NF          G4HWA         59 3 IO92ME
+QSO:    50 PH 2023-05-11 1911 G8LED         59 4 IO92NF          G4FVZ         58 13 IO91OW
+QSO:    50 PH 2023-05-11 1920 G8LED         57 5 IO92NF          G6HPR/P       57 8 IO92MO
+QSO:    50 PH 2023-05-11 1946 G8LED         55 6 IO92NF          G8GYX         54 18 IO91VH
+QSO:    50 PH 2023-05-11 1948 G8LED         59 7 IO92NF          G4CLA         59 75 IO92JL
+QSO:    50 PH 2023-05-11 1950 G8LED         59 8 IO92NF          M5TKA         59 27 IO91OX
+END-OF-LOG:

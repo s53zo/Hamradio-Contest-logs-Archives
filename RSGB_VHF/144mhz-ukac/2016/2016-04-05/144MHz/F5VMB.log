@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: F5VMB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IN98MJ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160405&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12814; excluded rows=26.
+QSO:   144 PH 2016-04-05 1902 F5VMB         59 1 IN98MJ          G4CZP/P       59 2 IO90JO
+QSO:   144 PH 2016-04-05 1916 F5VMB         55 2 IN98MJ          G6DOD/P       55 25 IO90JO
+QSO:   144 PH 2016-04-05 1923 F5VMB         59 3 IN98MJ          F6KSU         59 1 IN98OB
+QSO:   144 PH 2016-04-05 1930 F5VMB         55 4 IN98MJ          M1DDD/P       55 45 IO93CH
+QSO:   144 PH 2016-04-05 1933 F5VMB         59 5 IN98MJ          F4VQT         59 5 IN98OP
+END-OF-LOG:

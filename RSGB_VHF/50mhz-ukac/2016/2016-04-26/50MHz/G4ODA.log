@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4ODA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92WS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160426&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5602; excluded rows=4.
+QSO:    50 PH 2016-04-26 1900 G4ODA         59 1 IO92WS          G4YHF         59 1 IO92XW
+QSO:    50 PH 2016-04-26 1907 G4ODA         56 2 IO92WS          GI4SNA        51 8 IO64XM
+QSO:    50 PH 2016-04-26 1936 G4ODA         58 3 IO92WS          G4HBA         57 30 IO93FN
+QSO:    50 PH 2016-04-26 2000 G4ODA         59 4 IO92WS          G3MEH         56 59 IO91QS
+QSO:    50 PH 2016-04-26 2003 G4ODA         57 5 IO92WS          G4JQN         55 21 IO81VG
+QSO:    50 PH 2016-04-26 2049 G4ODA         56 6 IO92WS          G4VFL/P       52 35 IO84IH
+QSO:    50 PH 2016-04-26 2103 G4ODA         58 7 IO92WS          G8CRB         52 15 JO02BF
+END-OF-LOG:

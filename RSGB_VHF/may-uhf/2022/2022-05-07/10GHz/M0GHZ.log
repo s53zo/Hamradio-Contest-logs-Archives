@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: M0GHZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81VK
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=76; excluded rows=0.
+QSO:   10G PH 2022-05-08 0806 M0GHZ         59 1 IO81VK          G0HEL/P       59 1 IO81WG
+QSO:   10G PH 2022-05-08 0832 M0GHZ         53 2 IO81VK          G4ASR         53 4 IO81MX
+QSO:   10G CW 2022-05-08 0902 M0GHZ         519 3 IO81VK         ON/PA0MHE     519 1 JO11PF
+QSO:   10G CW 2022-05-08 0920 M0GHZ         569 4 IO81VK         G3Z           57 6 IO82QL
+QSO:   10G CW 2022-05-08 1015 M0GHZ         539 5 IO81VK         G0VHF/P       519 8 JO01PU
+QSO:   10G PH 2022-05-08 1034 M0GHZ         55 6 IO81VK          G1YFG/P       55 3 IO82QJ
+QSO:   10G PH 2022-05-08 1112 M0GHZ         59 7 IO81VK          G4LDR         59 5 IO91EC
+QSO:   10G PH 2022-05-08 1124 M0GHZ         57 8 IO81VK          G4ODA         56 14 IO92WS
+QSO:   10G PH 2022-05-08 1211 M0GHZ         55 9 IO81VK          G4CBW         54 10 IO83UB
+QSO:   10G CW 2022-05-08 1219 M0GHZ         559 10 IO81VK        G4DBN         559 8 IO93NR
+END-OF-LOG:

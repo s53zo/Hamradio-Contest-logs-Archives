@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0RDY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93GX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=191203&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10707; excluded rows=1.
+QSO:   144 PH 2019-12-03 2003 M0RDY         58 1 IO93GX          M0KOV         58 5 IO93HX
+QSO:   144 PH 2019-12-03 2004 M0RDY         59 2 IO93GX          M0DCD/P       59 2 IO94FD
+QSO:   144 PH 2019-12-03 2005 M0RDY         53 3 IO93GX          G4TEW         53 2 IO94FD
+QSO:   144 PH 2019-12-03 2006 M0RDY         54 4 IO93GX          2E0VZZ        54 2 IO94IE
+QSO:   144 PH 2019-12-03 2007 M0RDY         59 5 IO93GX          M0VGA         59 2 IO93FX
+END-OF-LOG:

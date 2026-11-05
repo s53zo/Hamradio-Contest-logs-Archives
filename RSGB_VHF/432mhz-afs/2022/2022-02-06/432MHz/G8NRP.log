@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G8NRP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91IQ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3643; excluded rows=0.
+QSO:   432 PH 2022-02-06 1009 G8NRP         59 1 IO91IQ          G8CUL         59 35 IO91JO
+QSO:   432 PH 2022-02-06 1011 G8NRP         59 2 IO91IQ          G4BRK         59 32 IO91HP
+QSO:   432 PH 2022-02-06 1016 G8NRP         59 3 IO91IQ          M0UHF         59 24 IO91IN
+QSO:   432 PH 2022-02-06 1024 G8NRP         59 4 IO91IQ          G0ODQ         59 46 IO91MR
+QSO:   432 PH 2022-02-06 1028 G8NRP         59 5 IO91IQ          G8NEY/P       53 46 IO81UN
+END-OF-LOG:

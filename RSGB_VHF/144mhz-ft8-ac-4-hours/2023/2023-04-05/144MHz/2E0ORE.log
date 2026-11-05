@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: 2E0ORE
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=230405&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=883; excluded rows=0.
+QSO:   144 FT8 2023-04-05 1701 2E0ORE        +06 IO92             M0IEP         -01 IO91
+QSO:   144 FT8 2023-04-05 1705 2E0ORE        +22 IO92             G7LII/P       +14 IO92
+QSO:   144 FT8 2023-04-05 1707 2E0ORE        -03 IO92             G8HZQ         -07 IO91
+QSO:   144 FT8 2023-04-05 1710 2E0ORE        -07 IO92             G0BIX         -06 JO01
+QSO:   144 FT8 2023-04-05 1725 2E0ORE        -13 IO92             G8KUZ         -11 IO83
+QSO:   144 FT8 2023-04-05 1734 2E0ORE        +01 IO92             G7WIR         -13 JO01
+QSO:   144 FT8 2023-04-05 1819 2E0ORE        -05 IO92             G4YFT         -02 IO82
+QSO:   144 FT8 2023-04-05 1825 2E0ORE        -14 IO92             M0CFV         -12 IO91
+QSO:   144 FT8 2023-04-05 1851 2E0ORE        +12 IO92             G7LII/P       +00 IO92
+QSO:   144 FT8 2023-04-05 1915 2E0ORE        -11 IO92             G0BSX         -19 IO93
+QSO:   144 FT8 2023-04-05 1921 2E0ORE        -11 IO92             G3WZK         -24 IO91
+QSO:   144 FT8 2023-04-05 1926 2E0ORE        -12 IO92             G4HGV         -17 IO91
+QSO:   144 FT8 2023-04-05 1944 2E0ORE        -13 IO92             G8DMN         -15 IO81
+QSO:   144 FT8 2023-04-05 2001 2E0ORE        -05 IO92             G8EEM         -23 IO93
+QSO:   144 FT8 2023-04-05 2019 2E0ORE        -16 IO92             G4DCV         -16 IO91
+END-OF-LOG:

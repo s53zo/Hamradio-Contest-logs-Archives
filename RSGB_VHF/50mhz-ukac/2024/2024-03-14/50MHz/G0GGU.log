@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0GGU
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92MG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=240314&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3729; excluded rows=2.
+QSO:    50 PH 2024-03-14 2000 G0GGU         53 1 IO92MG          G1MZD         55 1 IO92NB
+QSO:    50 PH 2024-03-14 2002 G0GGU         53 2 IO92MG          G6HPR/P       55 1 IO92MO
+QSO:    50 PH 2024-03-14 2005 G0GGU         58 3 IO92MG          G4CLA         59 8 IO92JL
+QSO:    50 PH 2024-03-14 2009 G0GGU         52 4 IO92MG          G5RAC         59 12 IO93GE
+QSO:    50 PH 2024-03-14 2010 G0GGU         55 5 IO92MG          G4HWA         59 7 IO92ME
+QSO:    50 PH 2024-03-14 2014 G0GGU         51 6 IO92MG          G0SKA         54 6 IO91OQ
+QSO:    50 PH 2024-03-14 2019 G0GGU         54 7 IO92MG          G4EPA         58 6 IO92KI
+QSO:    50 PH 2024-03-14 2049 G0GGU         51 8 IO92MG          G4ASR         51 62 IO81MX
+QSO:    50 PH 2024-03-14 2054 G0GGU         52 9 IO92MG          G7LRQ/P       55 46 IO91TU
+QSO:    50 CW 2024-03-14 2123 G0GGU         559 10 IO92MG        G3MEH         599 38 IO91QS
+QSO:    50 PH 2024-03-14 2145 G0GGU         54 11 IO92MG         G3TBK/P       55 73 IO93RA
+END-OF-LOG:

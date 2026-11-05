@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0DJA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93IF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=191212&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2280; excluded rows=1.
+QSO:    50 PH 2019-12-12 2012 G0DJA         59 1 IO93IF          G0BFJ/A       59 15 IO93FR
+QSO:    50 PH 2019-12-12 2021 G0DJA         58 2 IO93IF          2E1SKY        56 8 IO93KH
+QSO:    50 PH 2019-12-12 2024 G0DJA         56 3 IO93IF          G8DMU/P       54 15 IO94CB
+QSO:    50 PH 2019-12-12 2101 G0DJA         59 4 IO93IF          G1HLT         59 22 IO93JT
+QSO:    50 PH 2019-12-12 2107 G0DJA         55 5 IO93IF          M6KMB         59 23 IO93EQ
+QSO:    50 PH 2019-12-12 2112 G0DJA         59 6 IO93IF          G3RCW         55 13 IO93JH
+QSO:    50 PH 2019-12-12 2131 G0DJA         55 7 IO93IF          G3SQQ         57 30 IO93JC
+END-OF-LOG:

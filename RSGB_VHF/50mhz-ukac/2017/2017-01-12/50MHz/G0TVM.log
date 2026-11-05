@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0TVM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93CT
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170112&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3122; excluded rows=5.
+QSO:    50 PH 2017-01-12 2001 G0TVM         55 1 IO93CT          M6KMB         55 3 IO93EQ
+QSO:    50 PH 2017-01-12 2002 G0TVM         55 2 IO93CT          G7HAH         57 1 IO93NN
+QSO:    50 PH 2017-01-12 2017 G0TVM         57 3 IO93CT          G3VCA         59 16 IO93MG
+QSO:    50 PH 2017-01-12 2022 G0TVM         59 4 IO93CT          G4FZN/P       59 26 IO94JF
+QSO:    50 PH 2017-01-12 2030 G0TVM         55 5 IO93CT          G0BFJ         55 10 IO93CP
+QSO:    50 PH 2017-01-12 2032 G0TVM         59 6 IO93CT          G4HBA         59 18 IO93FN
+QSO:    50 PH 2017-01-12 2034 G0TVM         59 7 IO93CT          G4EHD         59 3 IO93BS
+QSO:    50 PH 2017-01-12 2035 G0TVM         59 8 IO93CT          G1FFH         59 10 IO93HO
+QSO:    50 PH 2017-01-12 2041 G0TVM         55 9 IO93CT          M0YDB         57 12 IO93LL
+QSO:    50 PH 2017-01-12 2044 G0TVM         55 10 IO93CT         G3YPE         57 7 IO93CN
+QSO:    50 PH 2017-01-12 2052 G0TVM         55 11 IO93CT         2E0DXK/P      59 34 IO93FG
+QSO:    50 PH 2017-01-12 2111 G0TVM         52 12 IO93CT         R3RCW         59 21 IO93KH
+QSO:    50 PH 2017-01-12 2114 G0TVM         52 13 IO93CT         G4HVC         55 37 IO93QA
+QSO:    50 PH 2017-01-12 2131 G0TVM         52 14 IO93CT         2E0RET/P      58 46 IO93FE
+QSO:    50 PH 2017-01-12 2140 G0TVM         55 15 IO93CT         G8BUN         55 9 IO93EQ
+QSO:    50 PH 2017-01-12 2154 G0TVM         59 16 IO93CT         G3SDY         59 17 IO93DO
+QSO:    50 PH 2017-01-12 2157 G0TVM         55 17 IO93CT         M0GDX         57 24 IO93GJ
+QSO:    50 PH 2017-01-12 2208 G0TVM         53 18 IO93CT         G4SEQ         59 5 IO93EQ
+END-OF-LOG:

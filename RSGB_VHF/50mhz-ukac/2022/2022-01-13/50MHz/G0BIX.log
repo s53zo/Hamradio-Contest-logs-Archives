@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0BIX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO01GI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220113&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7655; excluded rows=2.
+QSO:    50 PH 2022-01-13 2003 G0BIX         57 1 JO01GI          G3MEH         56 3 IO91QS
+QSO:    50 PH 2022-01-13 2015 G0BIX         59 2 JO01GI          G0TAR         59 4 JO01GI
+QSO:    50 PH 2022-01-13 2052 G0BIX         54 3 JO01GI          M0FXX         53 19 IO91NM
+END-OF-LOG:

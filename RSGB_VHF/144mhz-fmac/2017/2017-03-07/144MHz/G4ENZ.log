@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4ENZ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81VV
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170307&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=407; excluded rows=0.
+QSO:   144 FM 2017-03-07 1928 G4ENZ         59 1 IO81VV          G4IZZ         59 11 IO81XX
+QSO:   144 FM 2017-03-07 1929 G4ENZ         59 2 IO81VV          G0NES         59 5 IO92BJ
+QSO:   144 FM 2017-03-07 1930 G4ENZ         55 3 IO81VV          G4VPD         57 11 IO92BJ
+QSO:   144 FM 2017-03-07 1933 G4ENZ         59 4 IO81VV          G0LGS         59 9 IO81WV
+QSO:   144 FM 2017-03-07 1938 G4ENZ         55 5 IO81VV          G0IOW/P       59 7 IO91MO
+QSO:   144 FM 2017-03-07 1944 G4ENZ         57 6 IO81VV          M0HWT         59 3 IO81WU
+QSO:   144 FM 2017-03-07 1945 G4ENZ         57 7 IO81VV          2E0UAC        59 5 IO92FJ
+QSO:   144 FM 2017-03-07 1947 G4ENZ         58 8 IO81VV          G1EIX         59 3 IO92DE
+QSO:   144 FM 2017-03-07 1951 G4ENZ         59 9 IO81VV          M0XAC         59 4 IO81VU
+QSO:   144 FM 2017-03-07 1953 G4ENZ         59 10 IO81VV         G0ULH         59 4 IO81VU
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M7HCT
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92XX
+CATEGORY: FND
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=240910&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=193; excluded rows=1.
+QSO:   432 FM 2024-09-10 1810 M7HCT         56 1 IO92XX          M0TNI         59 2 IO92VQ
+QSO:   432 FM 2024-09-10 1815 M7HCT         53 2 IO92XX          2E0VPX        59 2 IO92UX
+QSO:   432 FM 2024-09-10 1820 M7HCT         59 3 IO92XX          G4ODA         59 10 IO92WS
+QSO:   432 FM 2024-09-10 1830 M7HCT         59 4 IO92XX          G0FVI         59 29 IO93RD
+QSO:   432 FM 2024-09-10 1850 M7HCT         59 5 IO92XX          M7LHE         59 1 IO92UX
+END-OF-LOG:

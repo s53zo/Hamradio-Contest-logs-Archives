@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: M0WCZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92II
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5139; excluded rows=2.
+QSO:   144 PH 2019-03-02 1531 M0WCZ         59 1 IO92II          G7APD         59 3 IO92JJ
+QSO:   144 PH 2019-03-02 1547 M0WCZ         59 2 IO92II          M0SPS         59 3 IO92KI
+QSO:   144 PH 2019-03-02 1652 M0WCZ         59 3 IO92II          GW3YDD/P      57 75 IO81KW
+QSO:   144 PH 2019-03-02 1720 M0WCZ         51 4 IO92II          G8T           55 239 JO01KJ
+QSO:   144 PH 2019-03-02 1802 M0WCZ         51 5 IO92II          G0ODQ         53 19 IO91MR
+QSO:   144 PH 2019-03-02 2021 M0WCZ         53 6 IO92II          M0KEA/P       57 30 IO92LH
+END-OF-LOG:

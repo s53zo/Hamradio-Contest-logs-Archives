@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G6NUM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93MA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3779; excluded rows=2.
+QSO:   432 PH 2016-02-07 1002 G6NUM         59 1 IO93MA          G4HVC         59 18 IO93QA
+QSO:   432 PH 2016-02-07 1004 G6NUM         59 2 IO93MA          G3TBK/P       59 29 IO93RA
+QSO:   432 PH 2016-02-07 1009 G6NUM         57 3 IO93MA          G4DHF/M       57 1 JO03AE
+QSO:   432 PH 2016-02-07 1012 G6NUM         58 4 IO93MA          M1DDD/P       55 45 IO93CH
+QSO:   432 PH 2016-02-07 1020 G6NUM         59 5 IO93MA          G4YHF         59 18 IO92XW
+QSO:   432 PH 2016-02-07 1031 G6NUM         59 6 IO93MA          G4LPD         59 17 IO92KW
+END-OF-LOG:

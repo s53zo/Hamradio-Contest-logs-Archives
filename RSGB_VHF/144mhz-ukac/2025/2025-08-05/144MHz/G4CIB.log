@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4CIB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81VX
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250805&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8847; excluded rows=3.
+QSO:   144 PH 2025-08-05 1901 G4CIB         53 1 IO81VX          MW0DX         53 3 IO71OT
+QSO:   144 PH 2025-08-05 1907 G4CIB         59 2 IO81VX          G1YBB/P       59 21 IO82LB
+QSO:   144 PH 2025-08-05 1910 G4CIB         59 3 IO81VX          G4ASR/P       59 12 IO81MW
+QSO:   144 PH 2025-08-05 1921 G4CIB         56 4 IO81VX          G0RMG/P       56 9 IO91AW
+QSO:   144 PH 2025-08-05 1922 G4CIB         59 5 IO81VX          M0GHZ/P       59 27 IO81UN
+END-OF-LOG:

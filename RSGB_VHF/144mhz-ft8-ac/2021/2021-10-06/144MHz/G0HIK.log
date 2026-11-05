@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G0HIK
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO84
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=211006&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1320; excluded rows=0.
+QSO:   144 FT8 2021-10-06 1902 G0HIK         +00 IO84             MM0CEZ        -05 IO75
+QSO:   144 FT8 2021-10-06 1905 G0HIK         -09 IO84             GI4SJQ        -10 IO64
+QSO:   144 FT8 2021-10-06 1907 G0HIK         -15 IO84             GM7PKT        -18 IO76
+QSO:   144 FT8 2021-10-06 1908 G0HIK         -03 IO84             EI5IN         +01 IO63
+QSO:   144 FT8 2021-10-06 1918 G0HIK         -17 IO84             MC5WRG        -11 IO72
+QSO:   144 FT8 2021-10-06 1920 G0HIK         +23 IO84             GI6ATZ        +17 IO74
+QSO:   144 FT8 2021-10-06 1943 G0HIK         -18 IO84             GM0HTT        -18 IO89
+QSO:   144 FT8 2021-10-06 1951 G0HIK         -02 IO84             GI4SJQ        -01 IO64
+QSO:   144 FT8 2021-10-06 1959 G0HIK         -15 IO84             GM4JIB        -01 -
+QSO:   144 FT8 2021-10-06 2010 G0HIK         -11 IO84             MM0CEZ        -16 IO75
+QSO:   144 FT8 2021-10-06 2012 G0HIK         +19 IO84             GI6ATZ        +14 -
+QSO:   144 FT8 2021-10-06 2027 G0HIK         -02 IO84             MI0IHH        +14 IO74
+QSO:   144 FT8 2021-10-06 2044 G0HIK         -22 IO84             GM4GUF        -16 IO85
+END-OF-LOG:

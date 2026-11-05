@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G6NUM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93MA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190912&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4790; excluded rows=2.
+QSO:    50 PH 2019-09-12 1901 G6NUM         59 1 IO93MA          G0WUS/P       59 2 IO92IR
+QSO:    50 PH 2019-09-12 1910 G6NUM         59 2 IO93MA          M0GAV/P       59 19 IO93EH
+QSO:    50 PH 2019-09-12 1913 G6NUM         59 3 IO93MA          G3TBK/P       59 26 IO93RA
+QSO:    50 PH 2019-09-12 1919 G6NUM         57 4 IO93MA          G7LRQ/P       59 30 IO91RU
+QSO:    50 PH 2019-09-12 1925 G6NUM         57 5 IO93MA          G4ODA         59 17 IO92WS
+QSO:    50 PH 2019-09-12 1928 G6NUM         59 6 IO93MA          G4CLA         59 32 IO92JL
+QSO:    50 PH 2019-09-12 1934 G6NUM         59 7 IO93MA          M6VUK/P       59 21 IO93GD
+QSO:    50 PH 2019-09-12 1935 G6NUM         57 8 IO93MA          M7DON         59 13 IO93KD
+QSO:    50 PH 2019-09-12 1942 G6NUM         56 9 IO93MA          G8DMU/P       58 37 IO94CB
+QSO:    50 PH 2019-09-12 1958 G6NUM         59 10 IO93MA         G4ASR         59 80 IO81MX
+QSO:    50 PH 2019-09-12 2036 G6NUM         59 11 IO93MA         M1MHZ         59 38 IO92WV
+QSO:    50 PH 2019-09-12 2044 G6NUM         58 12 IO93MA         G0EAK/P       59 57 IO93NI
+QSO:    50 PH 2019-09-12 2050 G6NUM         59 13 IO93MA         G3VCA         59 78 IO93MG
+QSO:    50 PH 2019-09-12 2052 G6NUM         59 14 IO93MA         G3SQQ         59 37 IO93JC
+QSO:    50 PH 2019-09-12 2054 G6NUM         59 15 IO93MA         G1HLT         59 41 IO93JD
+QSO:    50 PH 2019-09-12 2108 G6NUM         55 16 IO93MA         G4SDM/P       57 92 IO90QV
+END-OF-LOG:

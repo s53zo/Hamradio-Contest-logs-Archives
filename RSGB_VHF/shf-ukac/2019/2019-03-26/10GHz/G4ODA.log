@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4ODA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO92WS
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=190326&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=160; excluded rows=1.
+QSO:   10G PH 2019-03-26 1954 G4ODA         59 1 IO92WS          G8DMU/P       59 4 IO94CB
+QSO:   10G PH 2019-03-26 2011 G4ODA         56 2 IO92WS          G4ASR/P       56 5 IO82LB
+QSO:   10G CW 2019-03-26 2028 G4ODA         569 3 IO92WS         G4ZTR         559 4 JO01KW
+QSO:   10G CW 2019-03-26 2036 G4ODA         559 4 IO92WS         G3PHO         559 6 IO93GG
+QSO:   10G PH 2019-03-26 2102 G4ODA         58 5 IO92WS          G3UVR         58 6 IO83KH
+QSO:   10G PH 2019-03-26 2127 G4ODA         58 6 IO92WS          G4DBN         57 7 IO93NR
+QSO:   10G PH 2019-03-26 2144 G4ODA         59 7 IO92WS          G4LDR         59 7 IO91EC
+QSO:   10G PH 2019-03-26 2153 G4ODA         55 8 IO92WS          2E0MDJ/P      55 7 IO81XW
+QSO:   10G CW 2019-03-26 2214 G4ODA         549 9 IO92WS         G3XDY         539 8 JO02OB
+QSO:   10G PH 2019-03-26 2218 G4ODA         59 10 IO92WS         M0GHZ         59 11 IO81VK
+QSO:   10G PH 2019-03-26 2227 G4ODA         59 11 IO92WS         G4CLA         59 114 IO92JL
+QSO:   10G PH 2019-03-26 2228 G4ODA         59 12 IO92WS         G1YBB/P       59 11 IO82LB
+END-OF-LOG:

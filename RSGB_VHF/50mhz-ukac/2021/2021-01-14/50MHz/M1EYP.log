@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M1EYP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83WG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210114&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4780; excluded rows=0.
+QSO:    50 PH 2021-01-14 2212 M1EYP         57 1 IO83WG          G8ZRE         57 37 IO83NE
+QSO:    50 PH 2021-01-14 2213 M1EYP         57 2 IO83WG          G4JLG         54 33 IO83TM
+QSO:    50 PH 2021-01-14 2214 M1EYP         59 3 IO83WG          G3TDH         59 28 IO83WI
+QSO:    50 PH 2021-01-14 2214 M1EYP         57 4 IO83WG          G4NTY         57 30 IO83TM
+QSO:    50 PH 2021-01-14 2215 M1EYP         59 5 IO83WG          G3KAF         59 13 IO83WI
+QSO:    50 PH 2021-01-14 2216 M1EYP         55 6 IO83WG          G8REQ         51 38 IO83KI
+QSO:    50 PH 2021-01-14 2219 M1EYP         55 7 IO83WG          G0CDA         52 38 IO83SJ
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0VGP
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92AN
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=220705&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=979; excluded rows=0.
+QSO:   144 CW 2022-07-05 1802 M0VGP         599 1 IO92AN         G3WRA         599 5 IO82RJ
+QSO:   144 CW 2022-07-05 1807 M0VGP         599 2 IO92AN         G5ROC         599 3 IO93GE
+QSO:   144 CW 2022-07-05 1814 M0VGP         599 3 IO92AN         M1EYP/P       599 10 IO83WE
+QSO:   144 CW 2022-07-05 1818 M0VGP         599 4 IO92AN         G0PLA/P       599 17 IO82XJ
+QSO:   144 CW 2022-07-05 1827 M0VGP         599 5 IO92AN         G1YBB/P       599 12 IO82LB
+END-OF-LOG:

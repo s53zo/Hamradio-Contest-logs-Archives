@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: M0NVS/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO91OR
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=180828&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=489; excluded rows=1.
+QSO:  2.3G PH 2018-08-28 1933 M0NVS/P       59 1 IO91OR          G4BRK         57 3 IO91HP
+QSO:  2.3G PH 2018-08-28 1935 M0NVS/P       59 2 IO91OR          M0ICR/P       59 2 IO91MP
+QSO:  2.3G PH 2018-08-28 1954 M0NVS/P       59 3 IO91OR          G7LRQ         59 2 IO91TQ
+QSO:  2.3G PH 2018-08-28 2020 M0NVS/P       59 4 IO91OR          M0SAT         59 1 IO91TQ
+QSO:  2.3G PH 2018-08-28 2023 M0NVS/P       55 5 IO91OR          G0OHM         54 15 IO92AJ
+QSO:  2.3G PH 2018-08-28 2035 M0NVS/P       52 6 IO91OR          G4ASR         54 4 IO81MX
+QSO:  2.3G PH 2018-08-28 2052 M0NVS/P       55 7 IO91OR          G3UVR         52 20 IO83KH
+END-OF-LOG:

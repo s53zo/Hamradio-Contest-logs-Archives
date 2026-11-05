@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: F4VQX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IN87LX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=170307&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10422; excluded rows=8.
+QSO:   144 PH 2017-03-07 2000 F4VQX         55 1 IN87LX          G6DOD/P       57 1 IO90JO
+QSO:   144 PH 2017-03-07 2019 F4VQX         55 2 IN87LX          G0GMY/P       58 8 IO90IO
+QSO:   144 PH 2017-03-07 2120 F4VQX         59 3 IN87LX          G8XVJ/P       59 126 IO93AD
+QSO:   144 PH 2017-03-07 2131 F4VQX         55 4 IN87LX          G4RRA         59 78 IO80BS
+END-OF-LOG:

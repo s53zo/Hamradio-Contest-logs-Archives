@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO85IW
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170209&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5801; excluded rows=0.
+QSO:    50 PH 2017-02-09 2003 GM4DIJ        59 1 IO85IW          GM4JJJ        59 2 IO86GB
+QSO:    50 PH 2017-02-09 2008 GM4DIJ        59 2 IO85IW          MM0ZBH        59 3 IO86IB
+QSO:    50 PH 2017-02-09 2015 GM4DIJ        54 3 IO85IW          GM0WDD        59 1 IO85LV
+QSO:    50 PH 2017-02-09 2024 GM4DIJ        57 4 IO85IW          MM0GPZ        53 6 IO75WS
+QSO:    50 PH 2017-02-09 2027 GM4DIJ        54 5 IO85IW          GM8OEG        54 5 IO86NM
+QSO:    50 PH 2017-02-09 2134 GM4DIJ        59 6 IO85IW          GM3TAL        59 4 IO86GA
+END-OF-LOG:

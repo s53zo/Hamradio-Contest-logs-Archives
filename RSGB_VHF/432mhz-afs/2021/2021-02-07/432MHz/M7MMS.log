@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: M7MMS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91TK
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 PH 2021-02-07 1037 M7MMS         55 1 IO91TK          G8CUL         45 46 IO91JO
+QSO:   432 PH 2021-02-07 1052 M7MMS         59 2 IO91TK          G3ZPB         59 16 IO91WH
+QSO:   432 PH 2021-02-07 1058 M7MMS         56 3 IO91TK          M0NVS         53 35 IO91SR
+QSO:   432 PH 2021-02-07 1109 M7MMS         51 4 IO91TK          G4SJH         56 27 IO91PI
+QSO:   432 PH 2021-02-07 1123 M7MMS         58 5 IO91TK          G3SRC         59 31 IO91WJ
+QSO:   432 PH 2021-02-07 1237 M7MMS         53 6 IO91TK          G1DFL         58 61 IO91NL
+QSO:   432 PH 2021-02-07 1246 M7MMS         51 7 IO91TK          G0UJA         58 26 JO01BJ
+END-OF-LOG:

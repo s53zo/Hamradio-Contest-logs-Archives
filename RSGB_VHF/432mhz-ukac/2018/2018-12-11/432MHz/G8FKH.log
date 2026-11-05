@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G8FKH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91SN
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=181211&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6298; excluded rows=2.
+QSO:   432 PH 2018-12-11 2118 G8FKH         59 1 IO91SN          G4GFI         59 44 IO91VH
+QSO:   432 PH 2018-12-11 2123 G8FKH         59 2 IO91SN          G0JOS/P       57 21 IO91VH
+QSO:   432 PH 2018-12-11 2125 G8FKH         58 3 IO91SN          G8GYX         58 27 IO91VH
+QSO:   432 PH 2018-12-11 2127 G8FKH         59 4 IO91SN          G3MEH         55 64 IO91QS
+QSO:   432 PH 2018-12-11 2130 G8FKH         55 5 IO91SN          M0SAT         57 58 IO91TP
+END-OF-LOG:

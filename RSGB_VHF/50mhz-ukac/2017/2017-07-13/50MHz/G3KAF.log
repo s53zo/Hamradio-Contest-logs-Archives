@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3KAF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83WI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170713&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5439; excluded rows=2.
+QSO:    50 CW 2017-07-13 1901 G3KAF         599 1 IO83WI         G3RKF         599 1 IO83VH
+QSO:    50 CW 2017-07-13 1904 G3KAF         599 2 IO83WI         M1EYP/P       599 4 IO83WE
+QSO:    50 PH 2017-07-13 1911 G3KAF         57 3 IO83WI          G2ANC         58 9 IO83RM
+QSO:    50 PH 2017-07-13 1920 G3KAF         58 4 IO83WI          G4FZN/P       58 30 IO94JF
+END-OF-LOG:

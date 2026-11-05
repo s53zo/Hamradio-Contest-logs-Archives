@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: 2E0HIL
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1920 2E0HIL        +02 IO92             G4WKY         -05 -
+QSO:   144 FT8 2021-02-03 1923 2E0HIL        +21 IO92             M1EAU         +25 IO92
+QSO:   144 FT8 2021-02-03 1942 2E0HIL        -05 IO92             G4TUH         -04 IO92
+QSO:   144 FT8 2021-02-03 1945 2E0HIL        +01 IO92             M0OLT         +03 IO92
+QSO:   144 FT8 2021-02-03 1948 2E0HIL        +19 IO92             G4DPZ         +03 IO82
+QSO:   144 FT8 2021-02-03 1953 2E0HIL        +04 IO92             M7REV         -04 IO82
+QSO:   144 FT8 2021-02-03 1957 2E0HIL        -02 IO92             G4VPD         +17 IO92
+QSO:   144 FT8 2021-02-03 2001 2E0HIL        +11 IO92             G7IGC         -02 IO92
+QSO:   144 FT8 2021-02-03 2002 2E0HIL        - IO92               G4PDF         -14 -
+QSO:   144 FT8 2021-02-03 2058 2E0HIL        +22 IO92             GX2HDF        +19 IO82
+END-OF-LOG:

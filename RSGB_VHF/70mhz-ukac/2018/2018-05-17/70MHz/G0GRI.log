@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0GRI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO81UH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=180517&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4303; excluded rows=1.
+QSO:    70 PH 2018-05-17 1904 G0GRI         57 1 IO81UH          G4BWP         59 8 JO02FH
+QSO:    70 PH 2018-05-17 1909 G0GRI         53 2 IO81UH          G3MXH         57 10 JO02LF
+QSO:    70 PH 2018-05-17 1916 G0GRI         57 3 IO81UH          G0LTG         57 6 IO81QJ
+QSO:    70 PH 2018-05-17 1919 G0GRI         53 4 IO81UH          2E0NEY        53 5 IO81VK
+QSO:    70 PH 2018-05-17 1924 G0GRI         55 5 IO81UH          G0SKA         57 12 IO91QN
+QSO:    70 PH 2018-05-17 1932 G0GRI         54 6 IO81UH          G3MEH         55 24 IO91QS
+QSO:    70 PH 2018-05-17 1936 G0GRI         53 7 IO81UH          M0ICR         55 20 IO91SO
+QSO:    70 PH 2018-05-17 1940 G0GRI         54 8 IO81UH          G8CUL         55 20 IO91JO
+QSO:    70 PH 2018-05-17 1944 G0GRI         54 9 IO81UH          G4EFE/P       53 11 IO91GI
+QSO:    70 PH 2018-05-17 1949 G0GRI         53 10 IO81UH         G4ASR         52 62 IO91MX
+QSO:    70 CW 2018-05-17 2040 G0GRI         559 11 IO81UH        G4PDS         559 26 IO80LR
+QSO:    70 PH 2018-05-17 2119 G0GRI         54 12 IO81UH         G4SDM/P       55 49 IO90QV
+END-OF-LOG:

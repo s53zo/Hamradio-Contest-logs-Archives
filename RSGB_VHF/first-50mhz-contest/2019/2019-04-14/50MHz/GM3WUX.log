@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-50MHZ-CONTEST
+CALLSIGN: GM3WUX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO75UU
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+50MHz+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1125; excluded rows=0.
+QSO:    50 CW 2019-04-14 0915 GM3WUX        599 1 IO75UU GS      MM0CEZ        599 3 IO75XU ML
+QSO:    50 PH 2019-04-14 0949 GM3WUX        59 2 IO75UU GS       GM0OQV        59 3 IO85AT ML
+QSO:    50 PH 2019-04-14 0958 GM3WUX        55 3 IO75UU GS       G3TBK/P       57 40 IO93RA NG
+END-OF-LOG:

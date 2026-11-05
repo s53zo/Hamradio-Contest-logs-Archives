@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3ZBU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91UB
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180102&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8479; excluded rows=1.
+QSO:   144 PH 2018-01-02 2009 G3ZBU         59 1 IO91UB          2E0NKC        59 2 IO91UB
+QSO:   144 PH 2018-01-02 2016 G3ZBU         59 2 IO91UB          G4TMC         59 1 IO91UB
+QSO:   144 PH 2018-01-02 2032 G3ZBU         55 3 IO91UB          G4TSQ         57 4 IO90QT
+QSO:   144 PH 2018-01-02 2041 G3ZBU         53 4 IO91UB          G3YSX         53 20 IO91WG
+QSO:   144 PH 2018-01-02 2056 G3ZBU         55 5 IO91UB          G4ODA         57 36 IO92WS
+QSO:   144 PH 2018-01-02 2059 G3ZBU         52 6 IO91UB          G6DOD/P       57 36 IO90JO
+QSO:   144 PH 2018-01-02 2102 G3ZBU         55 7 IO91UB          G3MEH         57 31 IO91QS
+QSO:   144 PH 2018-01-02 2108 G3ZBU         59 8 IO91UB          M0DXR/P       59 97 JO01DH
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4NRG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO02MM
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3779; excluded rows=2.
+QSO:   432 PH 2016-02-07 0914 G4NRG         51 1 JO02MM          G3XDY         53 6 JO02OB
+QSO:   432 PH 2016-02-07 0937 G4NRG         53 2 JO02MM          M1BXF         57 8 JO02FE
+QSO:   432 PH 2016-02-07 1245 G4NRG         51 3 JO02MM          G3MEH         42 74 IO91QS
+QSO:   432 PH 2016-02-07 1250 G4NRG         52 4 JO02MM          G4ODA         43 82 IO92WS
+QSO:   432 PH 2016-02-07 1253 G4NRG         53 5 JO02MM          G0CZR         56 23 JO02GL
+END-OF-LOG:

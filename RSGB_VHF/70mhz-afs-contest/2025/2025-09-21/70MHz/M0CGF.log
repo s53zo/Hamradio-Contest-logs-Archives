@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: M0CGF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91XI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1837; excluded rows=0.
+QSO:    70 PH 2025-09-21 0937 M0CGF         59 1 IO91XI CR       G4CWH/P       58 31 IO92XA SG
+QSO:    70 PH 2025-09-21 0939 M0CGF         59 2 IO91XI CR       G5PI/P        58 27 JO02EB CB
+QSO:    70 PH 2025-09-21 0940 M0CGF         59 3 IO91XI CR       G0SKA         59 25 IO91OQ HP
+QSO:    70 PH 2025-09-21 0943 M0CGF         59 4 IO91XI CR       M0JRU         59 15 IO92VU PE
+END-OF-LOG:

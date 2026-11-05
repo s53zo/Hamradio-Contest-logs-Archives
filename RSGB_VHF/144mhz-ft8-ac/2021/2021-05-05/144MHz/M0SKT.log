@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M0SKT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210505&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1171; excluded rows=1.
+QSO:   144 FT8 2021-05-05 1902 M0SKT         +04 IO92             G1VWC         +08 IO92
+QSO:   144 FT8 2021-05-05 1904 M0SKT         -17 IO92             G8IXK         -11 IO91
+QSO:   144 FT8 2021-05-05 1905 M0SKT         -02 IO92             M7OLA         -02 IO92
+QSO:   144 FT8 2021-05-05 1908 M0SKT         -18 IO92             M7ICL         -06 JO02
+QSO:   144 FT8 2021-05-05 1914 M0SKT         -16 IO92             M3SXA         -10 IO91
+QSO:   144 FT8 2021-05-05 1925 M0SKT         -05 IO92             M7OLA         -08 IO92
+QSO:   144 FT8 2021-05-05 1931 M0SKT         -05 IO92             G3YDY         -17 JO01
+QSO:   144 FT8 2021-05-05 1937 M0SKT         +01 IO92             G0VDE         -14 JO02
+QSO:   144 FT8 2021-05-05 1956 M0SKT         -15 IO92             M7LOZ/P       -08 IO92
+QSO:   144 FT8 2021-05-05 2010 M0SKT         -09 IO92             G1VWC         +00 IO92
+QSO:   144 FT8 2021-05-05 2017 M0SKT         -09 IO92             G8PMA         -10 IO92
+QSO:   144 FT8 2021-05-05 2025 M0SKT         -14 IO92             G1JSP         -02 IO92
+QSO:   144 FT8 2021-05-05 2042 M0SKT         -14 IO92             M7SPS         -14 IO92
+QSO:   144 FT8 2021-05-05 2049 M0SKT         -03 IO92             M7OLA         -04 IO92
+QSO:   144 FT8 2021-05-05 2058 M0SKT         -02 IO92             G7WIR         -07 JO01
+END-OF-LOG:

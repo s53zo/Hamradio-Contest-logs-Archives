@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: MI0SMK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO64XL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160628&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6312; excluded rows=5.
+QSO:    50 PH 2016-06-28 1905 MI0SMK        57 1 IO64XL          GM3SEK        58 3 IO74SR
+QSO:    50 PH 2016-06-28 1907 MI0SMK        57 2 IO64XL          GM6TVR        59 2 IO84JX
+QSO:    50 PH 2016-06-28 1910 MI0SMK        59 3 IO64XL          MI1ERL        59 1 IO74AL
+QSO:    50 PH 2016-06-28 1911 MI0SMK        59 4 IO64XL          GI0UVD        59 1 IO64XM
+QSO:    50 PH 2016-06-28 1917 MI0SMK        55 5 IO64XL          G3TBK/P       55 24 IO93RA
+QSO:    50 PH 2016-06-28 1924 MI0SMK        55 6 IO64XL          G0UWK         52 4 IO83VC
+QSO:    50 PH 2016-06-28 1928 MI0SMK        59 7 IO64XL          SQ2LYF        59 1 JO93GX
+QSO:    50 PH 2016-06-28 2004 MI0SMK        59 8 IO64XL          SP1MVG        59 28 JO74JA
+QSO:    50 PH 2016-06-28 2007 MI0SMK        59 9 IO64XL          OZ7EDR        57 28 JO55EJ
+QSO:    50 PH 2016-06-28 2110 MI0SMK        55 10 IO64XL         M1DDD/P       55 75 IO93DH
+END-OF-LOG:

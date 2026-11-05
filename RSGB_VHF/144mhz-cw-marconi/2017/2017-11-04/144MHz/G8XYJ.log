@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: G8XYJ
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82PJ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1712; excluded rows=1.
+QSO:   144 CW 2017-11-04 1410 G8XYJ         599 1 IO82PJ         G4ASR         599 3 IO81MX
+QSO:   144 CW 2017-11-04 1545 G8XYJ         599 2 IO82PJ         G4CZB/P       599 19 IO92LH
+QSO:   144 CW 2017-11-05 1127 G8XYJ         599 3 IO82PJ         M0BUL         599 10 IO82NG
+QSO:   144 CW 2017-11-05 1133 G8XYJ         599 4 IO82PJ         G4FAD         599 27 IO82PC
+QSO:   144 CW 2017-11-05 1143 G8XYJ         599 5 IO82PJ         MM0CEZ        599 31 IO75XU
+END-OF-LOG:

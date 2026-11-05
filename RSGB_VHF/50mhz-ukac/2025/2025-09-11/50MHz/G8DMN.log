@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8DMN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81RD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250911&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2728; excluded rows=0.
+QSO:    50 PH 2025-09-11 1921 G8DMN         57 1 IO81RD          G3ASR         54 16 IO81MX
+QSO:    50 PH 2025-09-11 1925 G8DMN         59 2 IO81RD          G3TKF         59 10 IO81RI
+QSO:    50 PH 2025-09-11 1929 G8DMN         59 3 IO81RD          G3TCT         59 13 IO81QC
+QSO:    50 PH 2025-09-11 1935 G8DMN         57 4 IO81RD          2E0VCC/P      57 22 IO70SP
+QSO:    50 PH 2025-09-11 1942 G8DMN         54 5 IO81RD          G8IQL/P       59 20 IO90LX
+QSO:    50 PH 2025-09-11 1951 G8DMN         56 6 IO81RD          MW0OMB        55 12 IO81HN
+END-OF-LOG:

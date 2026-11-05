@@ -1,0 +1,37 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0JSB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83KJ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=220721&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3923; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    70 PH 2022-07-21 1900 G0JSB         59 1 IO83KJ          G8REQ         59 1 IO83KI
+QSO:    70 PH 2022-07-21 1905 G0JSB         59 2 IO83KJ          GW1YBB/P      59 11 IO81KW
+QSO:    70 PH 2022-07-21 1908 G0JSB         57 3 IO83KJ          GD0AMD/P      55 7 IO74QD
+QSO:    70 PH 2022-07-21 1910 G0JSB         59 4 IO83KJ          GI4SNA        55 11 IO64XM
+QSO:    70 PH 2022-07-21 1913 G0JSB         59 5 IO83KJ          G4ASR         59 0 IO81MX
+QSO:    70 PH 2022-07-21 1945 G0JSB         59 6 IO83KJ          G4CLA         55 51 IO92JL
+QSO:    70 PH 2022-07-21 1947 G0JSB         59 7 IO83KJ          G4FZN/P       57 58 IO94JF
+QSO:    70 PH 2022-07-21 2002 G0JSB         57 8 IO83KJ          G3TKF         57 41 IO81RI
+QSO:    70 PH 2022-07-21 2004 G0JSB         59 9 IO83KJ          G4ASR         57 62 IO81MX
+QSO:    70 PH 2022-07-21 2013 G0JSB         59 10 IO83KJ         G8DMU/P       59 74 IO94CB
+QSO:    70 PH 2022-07-21 2036 G0JSB         59 12 IO83KJ         GW4ZAR        55 23 IO83KF
+QSO:    70 PH 2022-07-21 2037 G0JSB         59 13 IO83KJ         GW8ASD        59 50 IO83LB
+QSO:    70 PH 2022-07-21 2040 G0JSB         57 14 IO83KJ         G4KPZ         56 40 IO92WK
+QSO:    70 PH 2022-07-21 2044 G0JSB         55 15 IO83KJ         G8AOE/P       55 31 IO94MJ
+QSO:    70 PH 2022-07-21 2046 G0JSB         59 16 IO83KJ         G4KUX         58 60 IO94BP
+QSO:    70 PH 2022-07-21 2050 G0JSB         55 17 IO83KJ         GM4JTJ        51 38 IO86RP
+QSO:    70 CW 2022-07-21 2110 G0JSB         419 18 IO83KJ        G4CZB/P       5 0
+QSO:    70 PH 2022-07-21 2117 G0JSB         59 19 IO83KJ         GW4SHF        56 72 IO82HP
+QSO:    70 PH 2022-07-21 2118 G0JSB         55 20 IO83KJ         GW4MBS        52 21 IO71XW
+END-OF-LOG:

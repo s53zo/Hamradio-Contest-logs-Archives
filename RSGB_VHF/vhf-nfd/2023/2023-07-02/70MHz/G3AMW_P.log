@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G3AMW/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: JO03BP
+CATEGORY: Open
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1806; excluded rows=0.
+QSO:    70 PH 2023-07-02 0906 G3AMW/P       59 1 JO03BP          G3OYE/P       59 37 JO02CE
+QSO:    70 PH 2023-07-02 0916 G3AMW/P       59 2 JO03BP          G0OLE/P       59 18 IO93PX
+QSO:    70 PH 2023-07-02 0951 G3AMW/P       55 3 JO03BP          G8SRC/P       55 22 IO91CL
+QSO:    70 PH 2023-07-02 1039 G3AMW/P       51 4 JO03BP          G5LK/P        53 56 JO01QD
+QSO:    70 PH 2023-07-02 1042 G3AMW/P       51 5 JO03BP          G0VHF/P       53 54 JO01PU
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M0NVS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91SR
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FMAC&Date=181211&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=172; excluded rows=0.
+QSO:   432 FM 2018-12-11 1916 M0NVS         59 1 IO91SR          G0ACK/P       59 3 IO91TO
+QSO:   432 FM 2018-12-11 1918 M0NVS         59 2 IO91SR          G8GYX         59 2 IO91VH
+QSO:   432 FM 2018-12-11 1919 M0NVS         59 3 IO91SR          M6YUG         53 3 IO91UN
+QSO:   432 FM 2018-12-11 1925 M0NVS         59 4 IO91SR          G4GFI         59 2 IO91VH
+QSO:   432 FM 2018-12-11 1927 M0NVS         59 5 IO91SR          M1DDD/P       59 18 IO93CH
+QSO:   432 FM 2018-12-11 1946 M0NVS         55 6 IO91SR          F1BHL/P       56 14 IN99PI
+END-OF-LOG:

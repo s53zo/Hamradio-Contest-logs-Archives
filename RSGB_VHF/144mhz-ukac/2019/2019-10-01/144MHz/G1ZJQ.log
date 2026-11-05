@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G1ZJQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO95EC
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=191001&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9983; excluded rows=1.
+QSO:   144 PH 2019-10-01 1902 G1ZJQ         58 1 IO95EC          G0EHV/P       59 2 IO84XT
+QSO:   144 PH 2019-10-01 1911 G1ZJQ         58 2 IO95EC          G8PNN/P       59 11 IO95AF
+QSO:   144 PH 2019-10-01 1935 G1ZJQ         58 3 IO95EC          G8KPD/P       58 15 IO85XF
+QSO:   144 PH 2019-10-01 2010 G1ZJQ         58 4 IO95EC          G0CNN/P       51 59 IO94AI
+QSO:   144 PH 2019-10-01 2014 G1ZJQ         57 5 IO95EC          G1YBB/P       57 89 IO82LB
+QSO:   144 PH 2019-10-01 2104 G1ZJQ         57 6 IO95EC          GM4AFF        53 92 IO86TS
+END-OF-LOG:

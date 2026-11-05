@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4NMD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91RE
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230110&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5300; excluded rows=3.
+QSO:   432 PH 2023-01-10 2002 G4NMD         57 1 IO91RE          M0NVS         57 2 IO91SR
+QSO:   432 PH 2023-01-10 2004 G4NMD         59 2 IO91RE          G0SKA         59 3 IO91OQ
+QSO:   432 PH 2023-01-10 2005 G4NMD         55 3 IO91RE          G4YPC         53 5 IO91RH
+QSO:   432 PH 2023-01-10 2011 G4NMD         55 4 IO91RE          G8CUL         53 9 IO91JO
+QSO:   432 PH 2023-01-10 2017 G4NMD         58 5 IO91RE          G0SWC         56 3 IO91RF
+QSO:   432 PH 2023-01-10 2030 G4NMD         55 6 IO91RE          G4EFT         55 7 IO91RG
+QSO:   432 PH 2023-01-10 2034 G4NMD         55 7 IO91RE          G4CLA         54 55 IO92JL
+QSO:   432 PH 2023-01-10 2037 G4NMD         56 8 IO91RE          G4GFI         56 14 IO91VH
+QSO:   432 PH 2023-01-10 2040 G4NMD         58 9 IO91RE          2E0TKT/P      57 11 IO91JA
+QSO:   432 PH 2023-01-10 2052 G4NMD         58 10 IO91RE         G8GYX         55 27 IO91VH
+END-OF-LOG:

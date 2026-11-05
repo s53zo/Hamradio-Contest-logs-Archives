@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: F4VRB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IN98PT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220908&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3138; excluded rows=1.
+QSO:    50 PH 2022-09-08 1844 F4VRB         57 1 IN98PT          F1CBC         59 2 JN09BO
+QSO:    50 PH 2022-09-08 1856 F4VRB         57 2 IN98PT          F4HOG         57 2 JN09OJ
+QSO:    50 PH 2022-09-08 1902 F4VRB         53 3 IN98PT          M0GHZ         53 1 IO81VK
+QSO:    50 PH 2022-09-08 1907 F4VRB         53 4 IN98PT          G3TKF         529 6 IO81RI
+QSO:    50 PH 2022-09-08 1911 F4VRB         53 5 IN98PT          G0SKA         52 11 IO91OQ
+QSO:    50 PH 2022-09-08 1917 F4VRB         53 6 IN98PT          G0ODQ         53 12 IO91MR
+QSO:    50 PH 2022-09-08 1925 F4VRB         53 7 IN98PT          G3MEH         52 16 IO91QS
+QSO:    50 PH 2022-09-08 1952 F4VRB         51 8 IN98PT          G4ASR         52 62 IO81MX
+QSO:    50 PH 2022-09-08 2019 F4VRB         53 9 IN98PT          G4CLA         53 75 IO92JL
+QSO:    50 CW 2022-09-08 2047 F4VRB         519 10 IN98PT        G0WUS/P       519 62 IO92MP
+QSO:    50 PH 2022-09-08 2101 F4VRB         51 11 IN98PT         G1YBB/P       53 93 IO82LB
+QSO:    50 CW 2022-09-08 2111 F4VRB         539 12 IN98PT        G3MEH         559 60 IO91QS
+QSO:    50 PH 2022-09-08 2129 F4VRB         51 13 IN98PT         GI4SNA        51 75 IO64XM
+END-OF-LOG:

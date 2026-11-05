@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: 2E0PNO/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91SF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=171012&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5402; excluded rows=3.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    50 PH 2017-10-12 1928 2E0PNO/P      59 1 IO91SF          G3MEH         56 24 IO91QS
+QSO:    50 PH 2017-10-12 1934 2E0PNO/P      59 2 IO91SF          G1YBB/P       58 38 IO82LB
+QSO:    50 PH 2017-10-12 1936 2E0PNO/P      55 3 IO91SF          G4JED         51 12 JO01CF
+QSO:    50 PH 2017-10-12 1941 2E0PNO/P      59 4 IO91SF          G7LRQ/P       59 47 IO91RU
+QSO:    50 PH 2017-10-12 1943 2E0PNO/P      59 5 IO91SF          G4GFI         59 13 IO91VH
+QSO:    50 PH 2017-10-12 1946 2E0PNO/P      55 6 IO91SF          G4ASR         54 59 IO81MX
+QSO:    50 PH 2017-10-12 2008 2E0PNO/P      59 8 IO91SF          G8IYS         59 21 IO91XH
+QSO:    50 PH 2017-10-12 2018 2E0PNO/P      59 9 IO91SF          G0GJV         59 7 IO91OK
+QSO:    50 PH 2017-10-12 2023 2E0PNO/P      55 10 IO91SF         G0ODQ         53 34 IO91MR
+QSO:    50 PH 2017-10-12 2031 2E0PNO/P      51 11 IO91SF         G7RIS/P       52 21 IO93DA
+QSO:    50 PH 2017-10-12 2033 2E0PNO/P      52 12 IO91SF         M0RKX/P       52 40 IO92BA
+QSO:    50 PH 2017-10-12 2036 2E0PNO/P      54 13 IO91SF         M0GAV/P       52 105 IO93EH
+END-OF-LOG:

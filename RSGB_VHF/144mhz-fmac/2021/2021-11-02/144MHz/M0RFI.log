@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0RFI
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91CJ
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=211102&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=850; excluded rows=0.
+QSO:   144 FM 2021-11-02 1920 M0RFI         59 1 IO91CJ          2E0WHQ/P      59 19 IO91CL
+QSO:   144 FM 2021-11-02 1924 M0RFI         59 2 IO91CJ          M5CBS/P       59 22 IO91CL
+QSO:   144 FM 2021-11-02 1927 M0RFI         59 3 IO91CJ          2E0YCC/P      55 12 IO81WQ
+END-OF-LOG:

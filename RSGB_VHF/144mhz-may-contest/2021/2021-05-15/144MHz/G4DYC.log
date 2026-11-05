@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G4DYC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02MP
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6704; excluded rows=2.
+QSO:   144 PH 2021-05-16 1314 G4DYC         59 1 JO02MP NR       G4ODA         59 209 IO92WS PE
+QSO:   144 PH 2021-05-16 1319 G4DYC         59 2 JO02MP NR       G4LPP         59 41 JO02SS NR
+QSO:   144 PH 2021-05-16 1347 G4DYC         59 3 JO02MP NR       M0NVT         59 7 JO02NN NR
+QSO:   144 PH 2021-05-16 1359 G4DYC         59 4 JO02MP NR       M0ITX         59 14 JO02MH IP
+END-OF-LOG:

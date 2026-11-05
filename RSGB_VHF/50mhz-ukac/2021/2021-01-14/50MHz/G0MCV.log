@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0MCV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92KR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210114&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4780; excluded rows=0.
+QSO:    50 PH 2021-01-14 2000 G0MCV         59 1 IO92KR          G0WUS         59 3 IO92KO
+QSO:    50 PH 2021-01-14 2002 G0MCV         59 2 IO92KR          G4CLA         59 4 IO92JL
+QSO:    50 PH 2021-01-14 2003 G0MCV         59 3 IO92KR          G0ORY         59 3 IO92JO
+QSO:    50 PH 2021-01-14 2004 G0MCV         57 4 IO92KR          G3ZUD         57 3 IO92LU
+QSO:    50 PH 2021-01-14 2008 G0MCV         57 5 IO92KR          G3TBK         57 15 IO93QA
+QSO:    50 PH 2021-01-14 2011 G0MCV         56 6 IO92KR          G3VCA         56 16 IO93MG
+QSO:    50 PH 2021-01-14 2024 G0MCV         59 7 IO92KR          M1MHZ         59 17 IO92WV
+QSO:    50 PH 2021-01-14 2030 G0MCV         59 8 IO92KR          G3OVH         59 11 IO92JP
+QSO:    50 PH 2021-01-14 2032 G0MCV         55 9 IO92KR          G8FCQ         57 9 IO92KO
+QSO:    50 PH 2021-01-14 2044 G0MCV         59 10 IO92KR         G6HPR         59 10 IO92KO
+QSO:    50 PH 2021-01-14 2050 G0MCV         59 11 IO92KR         G3SQQ         59 24 IO93JC
+QSO:    50 PH 2021-01-14 2052 G0MCV         55 12 IO92KR         G6AD          55 30 IO92GL
+QSO:    50 PH 2021-01-14 2106 G0MCV         52 13 IO92KR         G4FVZ         52 58 IO91OW
+QSO:    50 PH 2021-01-14 2112 G0MCV         53 14 IO92KR         G3MEH         53 68 IO91QS
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0RPK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93FJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210209&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8128; excluded rows=1.
+QSO:   432 PH 2021-02-09 2053 M0RPK         59 1 IO93FJ          M5DWI         55 27 IO93HL
+QSO:   432 PH 2021-02-09 2124 M0RPK         59 2 IO93FJ          G8BUN         59 28 IO93EQ
+QSO:   432 PH 2021-02-09 2131 M0RPK         53 3 IO93FJ          G0BWG         57 4 IO93GK
+QSO:   432 PH 2021-02-09 2139 M0RPK         55 4 IO93FJ          G8SFI         55 24 IO93LW
+QSO:   432 PH 2021-02-09 2204 M0RPK         55 5 IO93FJ          G3SDY         55 39 IO93DO
+END-OF-LOG:

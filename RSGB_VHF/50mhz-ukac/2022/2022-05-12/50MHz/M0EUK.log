@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0EUK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO95CA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220512&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5638; excluded rows=3.
+QSO:    50 PH 2022-05-12 1900 M0EUK         59 1 IO95CA          G8KPD         59 1 IO95DB
+QSO:    50 PH 2022-05-12 1902 M0EUK         59 2 IO95CA          G4ITR         59 2 IO95CA
+QSO:    50 PH 2022-05-12 1904 M0EUK         59 3 IO95CA          M0XVF         59 1 IO94EQ
+QSO:    50 PH 2022-05-12 1905 M0EUK         59 4 IO95CA          G8SFA         59 1 IO94BW
+QSO:    50 PH 2022-05-12 1906 M0EUK         59 5 IO95CA          G8AOE/P       59 3 IO84XQ
+QSO:    50 PH 2022-05-12 1908 M0EUK         59 6 IO95CA          G3TBK/P       59 16 IO93RA
+QSO:    50 PH 2022-05-12 1911 M0EUK         59 7 IO95CA          G3ZWR         59 1 IO94FX
+QSO:    50 PH 2022-05-12 1917 M0EUK         57 8 IO95CA          G0UOK/P       58 22 IO94MJ
+QSO:    50 PH 2022-05-12 1932 M0EUK         56 9 IO95CA          G3VCA         55 17 IO93MG
+QSO:    50 PH 2022-05-12 1936 M0EUK         59 10 IO95CA         G4CLA         53 64 IO92JL
+QSO:    50 PH 2022-05-12 1942 M0EUK         59 11 IO95CA         M1MHZ         59 36 IO92WV
+QSO:    50 PH 2022-05-12 1949 M0EUK         55 12 IO95CA         G3SDY         55 18 IO93DO
+QSO:    50 PH 2022-05-12 1956 M0EUK         59 13 IO95CA         G0CNN/P       59 34 IO94AI
+QSO:    50 PH 2022-05-12 1958 M0EUK         55 14 IO95CA         G4FZN/P       54 68 IO94JF
+END-OF-LOG:

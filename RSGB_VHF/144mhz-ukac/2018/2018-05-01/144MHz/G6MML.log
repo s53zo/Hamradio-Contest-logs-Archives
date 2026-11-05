@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G6MML
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83SO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180501&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10647; excluded rows=12.
+QSO:   144 PH 2018-05-01 2056 G6MML         52 1 IO83SO          M0HWO         58 24 IO83MI
+QSO:   144 PH 2018-05-01 2106 G6MML         51 2 IO83SO          MM0CCC/P      55 105 IO85QU
+QSO:   144 PH 2018-05-01 2111 G6MML         57 3 IO83SO          MM0GPZ/P      59 130 IO85AK
+QSO:   144 PH 2018-05-01 2116 G6MML         59 4 IO83SO          M1OMB         59 61 IO83PO
+QSO:   144 PH 2018-05-01 2122 G6MML         59 5 IO83SO          GW8ASD        58 68 IO83LB
+QSO:   144 PH 2018-05-01 2128 G6MML         59 6 IO83SO          G4BKF         59 32 IO83KJ
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0TVZ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92DE
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230801&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=853; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 FM 2023-08-01 1803 M0TVZ         59 1 IO92DE          M1DST         59 6 IO91BN
+QSO:   144 FM 2023-08-01 1807 M0TVZ         59 2 IO92DE          2E0WHQ/P      59 9 IO91CL
+QSO:   144 FM 2023-08-01 1809 M0TVZ         59 3 IO92DE          G0PLA/P       59 10 IO82XJ
+QSO:   144 FM 2023-08-01 1811 M0TVZ         59 4 IO92DE          G0RMG/P       59 14 IO92BA
+QSO:   144 FM 2023-08-01 1825 M0TVZ         59 6 IO92DE          G0ORE/P       59 7 IO92AG
+END-OF-LOG:

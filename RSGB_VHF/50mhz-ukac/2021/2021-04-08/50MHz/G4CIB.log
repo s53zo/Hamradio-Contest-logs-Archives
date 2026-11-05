@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4CIB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81VX
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210408&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6375; excluded rows=1.
+QSO:    50 PH 2021-04-08 1947 G4CIB         59 1 IO81VX          G4ILI         59 19 IO81WV
+QSO:    50 PH 2021-04-08 1948 G4CIB         59 2 IO81VX          G1YBB/P       59 61 IO82LB
+QSO:    50 PH 2021-04-08 2014 G4CIB         59 3 IO81VX          2E0MDJ/P      59 43 IO81WU
+QSO:    50 PH 2021-04-08 2015 G4CIB         59 4 IO81VX          G4ASR         59 76 IO81MX
+END-OF-LOG:

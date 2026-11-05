@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G0PLA/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93FF
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=230411&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=392; excluded rows=0.
+QSO:   432 FM 2023-04-11 1801 G0PLA/P       59 1 IO93FF          G4ODA         59 2 IO92WS
+QSO:   432 FM 2023-04-11 1802 G0PLA/P       59 2 IO93FF          G4FZN/P       57 1 IO94JF
+QSO:   432 FM 2023-04-11 1805 G0PLA/P       57 3 IO93FF          2E0VPX        57 3 IO92UX
+QSO:   432 FM 2023-04-11 1807 G0PLA/P       59 4 IO93FF          M1DDD/P       59 2 IO93DG
+QSO:   432 FM 2023-04-11 1837 G0PLA/P       59 5 IO93FF          G4PDF         59 1 IO93VH
+QSO:   432 FM 2023-04-11 1842 G0PLA/P       59 6 IO93FF          M0NRD         59 1 IO93OB
+QSO:   432 FM 2023-04-11 1854 G0PLA/P       57 7 IO93FF          GW8ASD        58 16 IO83LB
+END-OF-LOG:

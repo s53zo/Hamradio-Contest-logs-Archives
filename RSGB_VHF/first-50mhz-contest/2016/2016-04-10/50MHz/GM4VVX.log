@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-50MHZ-CONTEST
+CALLSIGN: GM4VVX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO78TA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+50MHz+Contest&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1641; excluded rows=1.
+QSO:    50 PH 2016-04-10 0909 GM4VVX        59 1 IO78TA IV       GM4WJA        59 1 IO87MN AB
+QSO:    50 CW 2016-04-10 1006 GM4VVX        559 2 IO78TA IV      GM6NX         559 1 IO86BC FK
+QSO:    50 PH 2016-04-10 1047 GM4VVX        26 3 IO78TA IV       GW4BVE        R26 1 IO82KQ SY
+QSO:    50 PH 2016-04-10 1100 GM4VVX        26 4 IO78TA IV       G4BWP         R26 62 JO02FH IP
+QSO:    50 PH 2016-04-10 1138 GM4VVX        26 5 IO78TA IV       G0LFF         R26 6 IO90WX SA
+END-OF-LOG:

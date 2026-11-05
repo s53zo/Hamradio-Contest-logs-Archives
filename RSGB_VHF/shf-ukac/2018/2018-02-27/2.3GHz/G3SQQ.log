@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G3SQQ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO93JC
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=180227&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=276; excluded rows=0.
+QSO:  2.3G PH 2018-02-27 1931 G3SQQ         52 1 IO93JC          M0ORO         41 1 IO93EQ
+QSO:  2.3G PH 2018-02-27 1935 G3SQQ         59 2 IO93JC          G3YJR         59 1 IO93FJ
+QSO:  2.3G PH 2018-02-27 1936 G3SQQ         55 3 IO93JC          G8EOP         52 4 IO93EQ
+QSO:  2.3G PH 2018-02-27 1950 G3SQQ         59 4 IO93JC          M0MDY         59 2 IO93HH
+QSO:  2.3G PH 2018-02-27 1951 G3SQQ         55 5 IO93JC          M5DWI         53 2 IO93HL
+QSO:  2.3G PH 2018-02-27 1953 G3SQQ         51 6 IO93JC          G4DBN         51 5 IO93NR
+QSO:  2.3G PH 2018-02-27 2007 G3SQQ         51 7 IO93JC          G4RQI         51 9 IO93IR
+QSO:  2.3G CW 2018-02-27 2021 G3SQQ         529 8 IO93JC         G3UVR         529 11 IO83KH
+QSO:  2.3G PH 2018-02-27 2035 G3SQQ         59 9 IO93JC          G8OHM         57 9 IO92AJ
+QSO:  2.3G PH 2018-02-27 2042 G3SQQ         59 10 IO93JC         G1ZAR/P       58 3 IO92IR
+QSO:  2.3G PH 2018-02-27 2045 G3SQQ         59 11 IO93JC         G4ODA         59 6 IO92WS
+QSO:  2.3G PH 2018-02-27 2051 G3SQQ         55 12 IO93JC         G8SFI         52 14 IO93LW
+QSO:  2.3G PH 2018-02-27 2110 G3SQQ         51 13 IO93JC         G8BUN         41 5 IO93EQ
+QSO:  2.3G PH 2018-02-27 2221 G3SQQ         42 14 IO93JC         G4BRK         42 16 IO91HP
+END-OF-LOG:

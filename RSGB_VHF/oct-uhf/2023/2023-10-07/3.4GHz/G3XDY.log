@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G3XDY
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02OB
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7; excluded rows=0.
+QSO:  3.4G CW 2023-10-07 1454 G3XDY         539 1 JO02OB         PI4GN         539 1 JO33II
+QSO:  3.4G PH 2023-10-07 1555 G3XDY         57 2 JO02OB          G3ZEZ         55 1 JO01NT
+QSO:  3.4G CW 2023-10-07 1941 G3XDY         539 3 JO02OB         DL4M          559 6 JO31QX
+QSO:  3.4G CW 2023-10-08 1158 G3XDY         559 4 JO02OB         DL3IAE        559 8 JN49DG
+QSO:  3.4G PH 2023-10-08 1252 G3XDY         57 5 JO02OB          M0UGA/P       59 1 JO01QD
+QSO:  3.4G PH 2023-10-08 1348 G3XDY         59 6 JO02OB          G4HWA         59 24 IO92ME
+END-OF-LOG:

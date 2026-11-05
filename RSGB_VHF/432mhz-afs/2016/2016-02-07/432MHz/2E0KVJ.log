@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: 2E0KVJ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO80IR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3779; excluded rows=2.
+QSO:   432 PH 2016-02-07 1200 2E0KVJ        59 1 IO80IR          G3ZVW         59 40 IO80MS
+QSO:   432 PH 2016-02-07 1206 2E0KVJ        55 2 IO80IR          G6XUV/M       59 1 IO80HQ
+QSO:   432 PH 2016-02-07 1212 2E0KVJ        55 3 IO80IR          G6XUV/M       59 2 IO80IQ
+QSO:   432 PH 2016-02-07 1225 2E0KVJ        55 4 IO80IR          G4FJK/A       57 36 IO80FV
+QSO:   432 PH 2016-02-07 1233 2E0KVJ        55 5 IO80IR          G4WBV/P       59 56 IO81PH
+END-OF-LOG:

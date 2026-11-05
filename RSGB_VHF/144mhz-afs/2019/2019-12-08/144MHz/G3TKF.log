@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G3TKF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81RI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6102; excluded rows=2.
+QSO:   144 PH 2019-12-08 1145 G3TKF         59 1 IO81RI          G6ZXN/P       59 41 IO80UU
+QSO:   144 PH 2019-12-08 1150 G3TKF         59 2 IO81RI          M0GHZ/P       59 78 IO81UN
+QSO:   144 PH 2019-12-08 1153 G3TKF         59 3 IO81RI          G8CMU         59 2 IO81RW
+QSO:   144 CW 2019-12-08 1210 G3TKF         559 4 IO81RI         G7RAU         529 78 IN79JX
+QSO:   144 PH 2019-12-08 1215 G3TKF         55 5 IO81RI          G3TBK/P       55 90 IO93RA
+QSO:   144 PH 2019-12-08 1217 G3TKF         58 6 IO81RI          GW4JQP/P      57 16 IO81AS
+QSO:   144 CW 2019-12-08 1314 G3TKF         559 7 IO81RI         G4YPC         519 64 IO91RH
+QSO:   144 PH 2019-12-08 1321 G3TKF         59 8 IO81RI          G0LTG         59 12 IO81RF
+END-OF-LOG:

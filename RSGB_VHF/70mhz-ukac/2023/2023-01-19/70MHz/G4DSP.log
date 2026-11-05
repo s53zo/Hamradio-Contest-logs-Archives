@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G4DSP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92WU
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=230119&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2875; excluded rows=1.
+QSO:    70 PH 2023-01-19 2000 G4DSP         59 1 IO92WU          G4ODA         59 1 IO92WS
+QSO:    70 PH 2023-01-19 2001 G4DSP         59 2 IO92WU          M7DQO         59 2 JO02AR
+QSO:    70 PH 2023-01-19 2004 G4DSP         59 3 IO92WU          G4AFF         57 4 JO02LO
+QSO:    70 PH 2023-01-19 2015 G4DSP         55 4 IO92WU          G4HGT/P       57 14 IO93DV
+QSO:    70 PH 2023-01-19 2043 G4DSP         55 5 IO92WU          G3TBK         58 21 IO93QA
+QSO:    70 PH 2023-01-19 2054 G4DSP         59 6 IO92WU          G0WUS/P       59 42 IO92MP
+QSO:    70 PH 2023-01-19 2102 G4DSP         55 7 IO92WU          G3SQQ         58 25 IO93JC
+END-OF-LOG:

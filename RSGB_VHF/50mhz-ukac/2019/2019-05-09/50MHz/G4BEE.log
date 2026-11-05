@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4BEE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83RQ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190509&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4275; excluded rows=0.
+QSO:    50 PH 2019-05-09 1903 G4BEE         58 1 IO83RQ          M1MHZ         56 3 IO92WV
+QSO:    50 PH 2019-05-09 1908 G4BEE         59 2 IO83RQ          GW8REQ/P      59 8 IO82KW
+QSO:    50 PH 2019-05-09 1909 G4BEE         59 3 IO83RQ          GW4ZAR/P      57 14 IO83JF
+QSO:    50 PH 2019-05-09 1910 G4BEE         57 4 IO83RQ          G8ZRE         52 12 IO83NE
+QSO:    50 PH 2019-05-09 1918 G4BEE         57 5 IO83RQ          G4ASR         54 33 IO81MX
+QSO:    50 PH 2019-05-09 1924 G4BEE         56 6 IO83RQ          GW4SHF        54 17 IO82HP
+QSO:    50 PH 2019-05-09 1931 G4BEE         59 7 IO83RQ          G4FZN/P       59 41 IO94JF
+QSO:    50 PH 2019-05-09 1932 G4BEE         57 8 IO83RQ          G8DMU/P       57 25 IO94CB
+QSO:    50 PH 2019-05-09 1959 G4BEE         57 9 IO83RQ          MM0CEZ        54 18 IO75XU
+QSO:    50 CW 2019-05-09 2043 G4BEE         599 10 IO83RQ        GW0MDQ        599 13 IO83KC
+QSO:    50 PH 2019-05-09 2058 G4BEE         56 11 IO83RQ         G8YMW/P       54 26 IO93MM
+QSO:    50 PH 2019-05-09 2116 G4BEE         59 12 IO83RQ         G3UVR         59 60 IO83KH
+END-OF-LOG:

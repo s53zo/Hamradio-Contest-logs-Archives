@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM1BXF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75VW
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220503&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13100; excluded rows=3.
+QSO:   144 PH 2022-05-03 1926 MM1BXF        59 1 IO75VW          GM0OQV        59 18 IO85AT
+QSO:   144 PH 2022-05-03 1927 MM1BXF        59 2 IO75VW          GM0WRR        59 12 IO75VT
+QSO:   144 PH 2022-05-03 1929 MM1BXF        59 3 IO75VW          MM0CEZ        59 29 IO75XU
+QSO:   144 PH 2022-05-03 1932 MM1BXF        55 4 IO75VW          2M0KAU/P      57 9 IO86JF
+QSO:   144 PH 2022-05-03 1937 MM1BXF        57 5 IO75VW          MM0CDW        52 9 IO75NV
+QSO:   144 PH 2022-05-03 1941 MM1BXF        59 6 IO75VW          GM8GAX        59 13 IO86CD
+QSO:   144 PH 2022-05-03 1945 MM1BXF        57 7 IO75VW          GM4IGS        53 12 IO75QN
+QSO:   144 CW 2022-05-03 2000 MM1BXF        529 8 IO75VW         GS3PYE/P      559 17 IO67QK
+END-OF-LOG:

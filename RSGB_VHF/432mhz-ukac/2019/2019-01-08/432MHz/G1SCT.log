@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G1SCT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92XT
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=190108&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6835; excluded rows=2.
+QSO:   432 PH 2019-01-08 2008 G1SCT         59 1 IO92XT          G3TBK/P       58 10 IO93RA
+QSO:   432 PH 2019-01-08 2009 G1SCT         59 2 IO92XT          M1MHZ         59 8 IO92WV
+QSO:   432 PH 2019-01-08 2025 G1SCT         59 3 IO92XT          G4ODA         59 31 IO92WS
+QSO:   432 PH 2019-01-08 2030 G1SCT         55 4 IO92XT          2E0DXK/P      55 23 IO93FG
+QSO:   432 PH 2019-01-08 2037 G1SCT         57 5 IO92XT          M1DDD/P       59 56 IO93CH
+QSO:   432 PH 2019-01-08 2040 G1SCT         55 6 IO92XT          G4CLA         59 81 IO91JL
+QSO:   432 PH 2019-01-08 2047 G1SCT         55 7 IO92XT          G0EAK/P       55 29 IO93NI
+QSO:   432 PH 2019-01-08 2138 G1SCT         57 8 IO92XT          2E0VPX        57 25 IO92UX
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4OED
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91CN
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250107&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=357; excluded rows=0.
+QSO:   144 FM 2025-01-07 1906 G4OED         59 1 IO91CN          M5CBS         59 2 IO91DN
+QSO:   144 FM 2025-01-07 1910 G4OED         59 2 IO91CN          M0ZGB         59 4 IO91CM
+QSO:   144 FM 2025-01-07 1911 G4OED         59 3 IO91CN          G8EFK         59 6 IO91CN
+QSO:   144 FM 2025-01-07 1912 G4OED         59 4 IO91CN          G3WRA         59 15 IO82RJ
+QSO:   144 FM 2025-01-07 1916 G4OED         59 5 IO91CN          2E0VGP        59 5 IO91BO
+QSO:   144 FM 2025-01-07 1931 G4OED         59 6 IO91CN          G4ILI         59 13 IO81WV
+QSO:   144 FM 2025-01-07 1941 G4OED         59 7 IO91CN          GW6UAJ/P      59 3 IO81KR
+QSO:   144 FM 2025-01-07 1943 G4OED         59 8 IO91CN          M0UHF         59 9 IO91IP
+END-OF-LOG:

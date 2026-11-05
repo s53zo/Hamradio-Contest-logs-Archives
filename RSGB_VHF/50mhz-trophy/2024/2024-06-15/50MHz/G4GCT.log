@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-TROPHY
+CALLSIGN: G4GCT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81TK
+CATEGORY: 6O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Trophy&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11196; excluded rows=3.
+QSO:    50 PH 2024-06-15 1401 G4GCT         59 1 IO81TK          ME5W          59 2 IO80FV
+QSO:    50 PH 2024-06-15 1401 G4GCT         59 2 IO81TK          M0BAO/P       59 1 IO80LV
+QSO:    50 PH 2024-06-15 1417 G4GCT         59 3 IO81TK          G4ASR         59 23 IO81MV
+QSO:    50 PH 2024-06-15 1424 G4GCT         59 4 IO81TK          2E0NEY        55 13 IO81VK
+QSO:    50 PH 2024-06-15 1437 G4GCT         51 5 IO81TK          M1W           57 18 IO83RO
+END-OF-LOG:

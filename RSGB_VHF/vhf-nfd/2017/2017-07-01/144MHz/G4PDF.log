@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4PDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93VH
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9822; excluded rows=9.
+QSO:   144 PH 2017-07-01 1740 G4PDF         59 1 IO93VH          G0HDV/P       59 23 IO93QN
+QSO:   144 PH 2017-07-01 1747 G4PDF         59 2 IO93VH          G5TO/P        59 102 IO93FL
+QSO:   144 PH 2017-07-01 1755 G4PDF         59 3 IO93VH          G3CKR/P       59 131 IO93AD
+QSO:   144 PH 2017-07-01 1758 G4PDF         55 4 IO93VH          G4NPH/P       59 62 IO92TH
+QSO:   144 PH 2017-07-01 1923 G4PDF         57 5 IO93VH          M0HRF/P       59 232 IO91GI
+QSO:   144 PH 2017-07-01 1927 G4PDF         57 6 IO93VH          G8LED/P       55 50 IO92LE
+QSO:   144 PH 2017-07-01 1952 G4PDF         55 7 IO93VH          G4ZAP/P       55 226 JO01PU
+QSO:   144 PH 2017-07-01 2016 G4PDF         59 8 IO93VH          G0OLE/P       57 98 IO93PX
+QSO:   144 PH 2017-07-02 0721 G4PDF         59 9 IO93VH          G3YDD/P       57 170 IO82QL
+QSO:   144 PH 2017-07-02 0908 G4PDF         55 10 IO93VH         G3PIA/P       55 160 IO91IN
+QSO:   144 PH 2017-07-02 1256 G4PDF         57 11 IO93VH         GX0OOO/P      59 45 IO94AD
+END-OF-LOG:

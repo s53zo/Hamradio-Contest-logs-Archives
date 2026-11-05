@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3HRH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91HA
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180807&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11553; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   144 PH 2018-08-07 1900 G3HRH         59 1 IO91HA          G4TSQ         59 1 IO90QT
+QSO:   144 PH 2018-08-07 1900 G3HRH         59 2 IO91HA          G6DOD/P       59 5 IO90JO
+QSO:   144 PH 2018-08-07 1902 G3HRH         59 3 IO91HA          F1BHL/P       59 3 IN99PI
+QSO:   144 PH 2018-08-07 1903 G3HRH         59 4 IO91HA          G0GMY/P       59 4 IO90IO
+QSO:   144 PH 2018-08-07 1906 G3HRH         58 5 IO91HA          G0RSD         59 4 IO82WM
+QSO:   144 PH 2018-08-07 1907 G3HRH         59 6 IO91HA          G4ASR         59 15 IO81MX
+QSO:   144 PH 2018-08-07 1911 G3HRH         57 7 IO91HA          M0GAV/P       59 22 IO93EH
+QSO:   144 PH 2018-08-07 1915 G3HRH         58 8 IO91HA          G0HEL/P       59 23 IO81WG
+QSO:   144 PH 2018-08-07 1916 G3HRH         59 9 IO91HA          M0BUL         59 22 IO82NG
+QSO:   144 PH 2018-08-07 1920 G3HRH         59 11 IO91HA         G4CZP/P       59 21 IO90JO
+QSO:   144 PH 2018-08-07 1923 G3HRH         59 12 IO91HA         G0MJW/A       57 32 IO83RO
+QSO:   144 PH 2018-08-07 1927 G3HRH         57 13 IO91HA         M0VAA/P       57 55 IO93CH
+END-OF-LOG:

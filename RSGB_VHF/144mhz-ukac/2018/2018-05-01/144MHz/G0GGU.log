@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0GGU
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92OG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180501&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10647; excluded rows=12.
+QSO:   144 PH 2018-05-01 1902 G0GGU         55 1 IO92OG          G3PYE/P       57 1 JO02CE
+QSO:   144 PH 2018-05-01 1909 G0GGU         59 2 IO92OG          G4CLA         59 19 IO92JL
+QSO:   144 PH 2018-05-01 1911 G0GGU         59 3 IO92OG          2E0MLM/P      55 8 IO91RU
+QSO:   144 PH 2018-05-01 1920 G0GGU         59 4 IO92OG          M0DXR/P       59 53 JO01DH
+QSO:   144 PH 2018-05-01 1928 G0GGU         59 5 IO92OG          G3MEH         57 30 IO91QS
+QSO:   144 PH 2018-05-01 1935 G0GGU         55 6 IO92OG          G3NFC/P       59 25 IO92EQ
+QSO:   144 CW 2018-05-01 1950 G0GGU         599 7 IO92OG         G4CZB/P       599 21 IO92LH
+QSO:   144 PH 2018-05-01 2004 G0GGU         57 8 IO92OG          M1MHZ         54 65 IO92WV
+QSO:   144 PH 2018-05-01 2011 G0GGU         55 9 IO92OG          M0XMX/P       59 64 IO92IR
+END-OF-LOG:

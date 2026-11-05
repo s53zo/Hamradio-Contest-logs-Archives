@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0FYN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83UJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250410&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4665; excluded rows=1.
+QSO:    50 PH 2025-04-10 1901 G0FYN         59 1 IO83UJ          G4NTY         59 1 IO83TM
+QSO:    50 PH 2025-04-10 1902 G0FYN         59 2 IO83UJ          2E0ILJ        59 1 IO83TI
+QSO:    50 PH 2025-04-10 1906 G0FYN         57 3 IO83UJ          GI4SNA        51 10 IO64XR
+QSO:    50 PH 2025-04-10 1913 G0FYN         59 4 IO83UJ          G3TDH         59 7 IO83WI
+QSO:    50 PH 2025-04-10 1915 G0FYN         55 5 IO83UJ          G3RKF         56 4 IO83VH
+QSO:    50 PH 2025-04-10 1920 G0FYN         59 6 IO83UJ          G3TBK/P       59 38 IO93RA
+QSO:    50 PH 2025-04-10 1933 G0FYN         59 7 IO83UJ          G4CDA         59 16 IO83SJ
+END-OF-LOG:

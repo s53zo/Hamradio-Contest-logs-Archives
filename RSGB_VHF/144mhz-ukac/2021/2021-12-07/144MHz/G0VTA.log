@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0VTA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91CN
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=211207&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6901; excluded rows=4.
+QSO:   144 PH 2021-12-07 2202 G0VTA         59 1 IO91CN          G4OED         59 10 IO91CN
+QSO:   144 PH 2021-12-07 2207 G0VTA         58 2 IO91CN          G0BNC         55 22 IO91GT
+QSO:   144 PH 2021-12-07 2212 G0VTA         56 3 IO91CN          M0UHF         56 19 IO91IP
+QSO:   144 PH 2021-12-07 2216 G0VTA         59 4 IO91CN          2E0OUC        59 29 IO81WO
+QSO:   144 PH 2021-12-07 2218 G0VTA         57 5 IO91CN          G4KQH         57 73 IO92JD
+QSO:   144 PH 2021-12-07 2226 G0VTA         56 6 IO91CN          G3YYD         59 153 IO92NQ
+QSO:   144 PH 2021-12-07 2227 G0VTA         58 7 IO91CN          G4BRK         57 53 IO91HP
+QSO:   144 PH 2021-12-07 2229 G0VTA         59 8 IO91CN          M0BB          59 100 IO91PK
+END-OF-LOG:

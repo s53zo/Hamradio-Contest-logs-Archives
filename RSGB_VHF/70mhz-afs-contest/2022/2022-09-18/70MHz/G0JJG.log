@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G0JJG
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02ME
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2038; excluded rows=1.
+QSO:    70 PH 2022-09-18 0916 G0JJG         59 1 JO02ME          G4ODA         59 23 IO92WS
+QSO:    70 PH 2022-09-18 0919 G0JJG         59 2 JO02ME          G0DVJ         59 8 JO02MA
+QSO:    70 PH 2022-09-18 0920 G0JJG         59 3 JO02ME          G3MXH         59 20 JO02LF
+QSO:    70 CW 2022-09-18 1149 G0JJG         599 4 JO02ME         G6UW          599 55 JO02AF
+QSO:    70 PH 2022-09-18 1154 G0JJG         59 5 JO02ME          G5PI/P        57 71 JO02EB
+END-OF-LOG:

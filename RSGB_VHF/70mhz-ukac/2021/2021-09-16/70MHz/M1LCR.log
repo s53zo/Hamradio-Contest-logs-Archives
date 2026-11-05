@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: M1LCR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO82OD
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210916&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4928; excluded rows=2.
+QSO:    70 PH 2021-09-16 1901 M1LCR         59 1 IO82OD          GW1YBB/P      59 5 IO81KW
+QSO:    70 PH 2021-09-16 1906 M1LCR         59 2 IO82OD          M5TKA         59 5 IO91OX
+QSO:    70 PH 2021-09-16 1918 M1LCR         59 3 IO82OD          G4ASR         59 27 IO81MX
+QSO:    70 PH 2021-09-16 1932 M1LCR         59 4 IO82OD          2E0GZN        59 11 IO82NB
+QSO:    70 PH 2021-09-16 1936 M1LCR         59 5 IO82OD          G4BJD/P       56 14 IO82RA
+END-OF-LOG:

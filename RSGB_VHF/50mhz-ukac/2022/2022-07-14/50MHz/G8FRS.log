@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8FRS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92DE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220714&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4618; excluded rows=1.
+QSO:    50 PH 2022-07-14 1905 G8FRS         53 1 IO92DE          GW4SHF        53 3 IO82HP
+QSO:    50 PH 2022-07-14 1909 G8FRS         59 2 IO92DE          G3WAG/P       59 7 IO82QE
+QSO:    50 PH 2022-07-14 1912 G8FRS         59 3 IO92DE          G4KQH         59 7 IO92JD
+QSO:    50 PH 2022-07-14 1916 G8FRS         57 4 IO92DE          G0ODQ         57 10 IO91MR
+QSO:    50 PH 2022-07-14 1917 G8FRS         55 5 IO92DE          G4EPA         53 10 IO92KI
+QSO:    50 PH 2022-07-14 1919 G8FRS         59 6 IO92DE          G4ASR         59 28 IO81MX
+QSO:    50 PH 2022-07-14 1923 G8FRS         57 7 IO92DE          G4SVZ         55 20 IO91OW
+QSO:    50 PH 2022-07-14 1924 G8FRS         59 8 IO92DE          G1YBB/P       59 27 IO82LB
+QSO:    50 PH 2022-07-14 1928 G8FRS         59 9 IO92DE          M0TVZ         59 8 IO92DE
+QSO:    50 PH 2022-07-14 2102 G8FRS         57 10 IO92DE         G7LRQ/P       57 80 IO91RU
+END-OF-LOG:

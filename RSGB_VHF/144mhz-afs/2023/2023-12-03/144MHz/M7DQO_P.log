@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: M7DQO/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92TU
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5334; excluded rows=4.
+QSO:   144 PH 2023-12-03 1007 M7DQO/P       59 1 IO92TU          G4ODA         59 12 IO92WS
+QSO:   144 PH 2023-12-03 1010 M7DQO/P       59 2 IO92TU          M1MHZ         59 7 IO92WV
+QSO:   144 PH 2023-12-03 1034 M7DQO/P       59 3 IO92TU          G1SCT         59 20 IO92XT
+QSO:   144 PH 2023-12-03 1129 M7DQO/P       56 4 IO92TU          G3PYE/P       56 59 JO02CE
+QSO:   144 PH 2023-12-03 1137 M7DQO/P       56 5 IO92TU          G3TBK/P       56 28 IO93RA
+QSO:   144 PH 2023-12-03 1205 M7DQO/P       57 6 IO92TU          G4NBS         53 89 JO02AF
+QSO:   144 PH 2023-12-03 1236 M7DQO/P       57 7 IO92TU          GD8EXI        53 100 IO74PC
+END-OF-LOG:

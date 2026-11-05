@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: GW8ASD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO83LB
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1143; excluded rows=3.
+QSO:  1.2G PH 2019-07-06 1913 GW8ASD        57 1 IO83LB          G3CKR/P       55 35 IO93AD
+QSO:  1.2G PH 2019-07-06 2023 GW8ASD        59 2 IO83LB          G3PIA/P       59 35 IO91IN
+QSO:  1.2G PH 2019-07-06 2042 GW8ASD        55 3 IO83LB          G3ZME/P       55 30 IO82NN
+QSO:  1.2G PH 2019-07-06 2044 GW8ASD        59 4 IO83LB          GW3ZTT/P      55 20 IO82KW
+QSO:  1.2G PH 2019-07-06 2047 GW8ASD        56 5 IO83LB          G0VHF/P       52 75 JO01PU
+QSO:  1.2G PH 2019-07-07 1153 GW8ASD        57 6 IO83LB          M0NFD/P       57 64 IO94MJ
+END-OF-LOG:

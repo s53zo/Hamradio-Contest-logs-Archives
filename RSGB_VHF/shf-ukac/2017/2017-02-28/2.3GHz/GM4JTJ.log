@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: GM4JTJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO86RP
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=170228&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=220; excluded rows=0.
+QSO:  2.3G PH 2017-02-28 2031 GM4JTJ        57 1 IO86RP          G8KPD/P       57 1 IO85XF
+QSO:  2.3G PH 2017-02-28 2032 GM4JTJ        52 2 IO86RP          G8PNN         52 1 IO95EF
+QSO:  2.3G CW 2017-02-28 2055 GM4JTJ        519 3 IO86RP         GM4DIJ        529 2 IO85IW
+QSO:  2.3G PH 2017-02-28 2100 GM4JTJ        57 4 IO86RP          GM8BJF        52 2 IO85JV
+QSO:  2.3G CW 2017-02-28 2126 GM4JTJ        519 5 IO86RP         G4DBN         519 7 IO93NR
+QSO:  2.3G PH 2017-02-28 2135 GM4JTJ        52 6 IO86RP          G4KCT         52 15 IO93LW
+QSO:  2.3G PH 2017-02-28 2208 GM4JTJ        52 7 IO86RP          G8SFI         53 7 IO93LW
+END-OF-LOG:

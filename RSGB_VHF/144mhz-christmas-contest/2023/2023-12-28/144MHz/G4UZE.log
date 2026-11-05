@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CHRISTMAS-CONTEST
+CALLSIGN: G4UZE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91SO
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Christmas+Contest&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1523; excluded rows=3.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (2).
+QSO:   144 PH 2023-12-28 1404 G4UZE         59 1 IO91SO          G8GYX         58 2 IO91VH
+QSO:   144 PH 2023-12-28 1411 G4UZE         58 2 IO91SO          G4CCC         58 8 IO91EL
+QSO:   144 PH 2023-12-28 1418 G4UZE         58 3 IO91SO          G0XDI         53 18 IO91RQ
+QSO:   144 PH 2023-12-28 1429 G4UZE         55 4 IO91SO          2E0VKH        55 8 JO01EF
+QSO:   144 PH 2023-12-28 1437 G4UZE         56 5 IO91SO          G1KAR/P       54 33 JO00DR
+QSO:   144 PH 2023-12-28 1504 G4UZE         58 7 IO91SO          G0SKA         55 44 IO91OK
+QSO:   144 PH 2023-12-28 1543 G4UZE         55 8 IO91SO          G4FOY         55 4 IO91MD
+QSO:   144 PH 2023-12-28 1553 G4UZE         59 9 IO91SO          G0GJV         59 32 IO91OK
+END-OF-LOG:

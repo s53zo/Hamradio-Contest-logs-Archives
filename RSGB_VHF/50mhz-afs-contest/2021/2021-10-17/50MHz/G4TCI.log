@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G4TCI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81OI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3983; excluded rows=0.
+QSO:    50 PH 2021-10-17 0935 G4TCI         59 1 IO81OI BS       G3XTT         59 30 IO81PE BA
+QSO:    50 PH 2021-10-17 0949 G4TCI         59 2 IO81OI BS       G3XSV         59 28 IO81OI BS
+QSO:    50 PH 2021-10-17 1008 G4TCI         59 3 IO81OI BS       G0JLF/P       59 20 IO81EE TA
+QSO:    50 PH 2021-10-17 1016 G4TCI         59 4 IO81OI BS       G4ASR         59 67 IO81MX HR
+QSO:    50 PH 2021-10-17 1025 G4TCI         59 5 IO81OI BS       G3TKF         59 7 IO81RI BS
+QSO:    50 PH 2021-10-17 1038 G4TCI         55 6 IO81OI BS       GW4CC         55 53 IO71UN SA
+QSO:    50 PH 2021-10-17 1238 G4TCI         55 7 IO81OI BS       G4NKT         54 19 IO81RL BS
+END-OF-LOG:

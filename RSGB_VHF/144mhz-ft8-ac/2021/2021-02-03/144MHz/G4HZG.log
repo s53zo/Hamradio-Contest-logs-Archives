@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G4HZG
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1901 G4HZG         -02 IO93             G0ISX         -02 IO93
+QSO:   144 FT8 2021-02-03 1904 G4HZG         -16 IO93             G4WKY         -17 IO92
+QSO:   144 FT8 2021-02-03 1909 G4HZG         -09 IO93             2E0GPU        -21 IO92
+QSO:   144 FT8 2021-02-03 1911 G4HZG         -02 IO93             G1PPA         -07 IO93
+QSO:   144 FT8 2021-02-03 1914 G4HZG         +02 IO93             M1BGT         +00 IO92
+QSO:   144 FT8 2021-02-03 1916 G4HZG         +34 IO93             G0JEI         +11 IO93
+QSO:   144 FT8 2021-02-03 1921 G4HZG         +06 IO93             G8EKG         +04 IO92
+QSO:   144 FT8 2021-02-03 1922 G4HZG         -06 IO93             M0OLT         +01 IO92
+QSO:   144 FT8 2021-02-03 1926 G4HZG         +23 IO93             G0DJA         +15 IO93
+QSO:   144 FT8 2021-02-03 1928 G4HZG         -01 IO93             M1DDD         +05 IO93
+QSO:   144 FT8 2021-02-03 1930 G4HZG         -03 IO93             M0RTQ         -08 IO93
+QSO:   144 FT8 2021-02-03 1934 G4HZG         -11 IO93             2E0NER        -13 IO93
+QSO:   144 FT8 2021-02-03 1937 G4HZG         +15 IO93             G4PDF         +10 IO93
+QSO:   144 FT8 2021-02-03 1945 G4HZG         -06 IO93             M0KKM         -10 JO02
+QSO:   144 FT8 2021-02-03 1953 G4HZG         +24 IO93             G6EIH         +21 IO92
+QSO:   144 FT8 2021-02-03 2010 G4HZG         +09 IO93             G4DPZ         +07 IO82
+END-OF-LOG:

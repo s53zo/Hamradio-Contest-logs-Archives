@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2E0PKS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92EU
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=220301&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1063; excluded rows=0.
+QSO:   144 FM 2022-03-01 1903 2E0PKS        59 1 IO92EU          G5ROC         59 4 IO93GE
+QSO:   144 FM 2022-03-01 1911 2E0PKS        59 2 IO92EU          G6CZD         59 1 IO92FU
+QSO:   144 FM 2022-03-01 1939 2E0PKS        51 3 IO92EU          M0VXX/P       53 51 IO82QL
+QSO:   144 FM 2022-03-01 1953 2E0PKS        51 4 IO92EU          M1EYP/P       57 30 IO83WE
+END-OF-LOG:

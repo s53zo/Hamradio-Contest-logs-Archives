@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M1CNK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO90HX
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160823&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7264; excluded rows=9.
+QSO:    50 PH 2016-08-23 1901 M1CNK         59 1 IO90HX          G3HRH         59 1 IO91HA
+QSO:    50 PH 2016-08-23 1903 M1CNK         59 2 IO90HX          G4CZP/P       59 4 IO90JO
+QSO:    50 PH 2016-08-23 1905 M1CNK         59 3 IO90HX          G0PEB/P       59 2 IO90JO
+QSO:    50 PH 2016-08-23 1907 M1CNK         55 4 IO90HX          M0SAT         55 8 IO91TP
+QSO:    50 PH 2016-08-23 1910 M1CNK         57 5 IO90HX          G8BCG         59 13 IO70RK
+QSO:    50 PH 2016-08-23 1934 M1CNK         55 6 IO90HX          G8XVJ/P       59 48 IO93AD
+QSO:    50 PH 2016-08-23 1937 M1CNK         57 7 IO90HX          M0WLF         54 39 IO81QJ
+QSO:    50 PH 2016-08-23 1941 M1CNK         53 8 IO90HX          G4FKA         53 25 IO81SM
+QSO:    50 PH 2016-08-23 1947 M1CNK         59 9 IO90HX          G4YUP/P       59 18 IO91JA
+QSO:    50 PH 2016-08-23 1951 M1CNK         57 10 IO90HX         G4CLA         57 71 IO92JL
+QSO:    50 PH 2016-08-23 2002 M1CNK         57 11 IO90HX         G4GFI         59 24 IO91VH
+END-OF-LOG:

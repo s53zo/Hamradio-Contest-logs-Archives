@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G8PCB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91BB
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=211109&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8713; excluded rows=2.
+QSO:   432 PH 2021-11-09 2103 G8PCB         59 1 IO91BB          G7RRQ         59 5 IO91EC
+QSO:   432 PH 2021-11-09 2109 G8PCB         58 2 IO91BB          G1JRU         55 3 IO90HU
+QSO:   432 PH 2021-11-09 2111 G8PCB         55 3 IO91BB          G4WEY         55 15 IO90AS
+QSO:   432 PH 2021-11-09 2143 G8PCB         55 4 IO91BB          M6OVN         55 4 IO91EC
+QSO:   432 PH 2021-11-09 2158 G8PCB         59 5 IO91BB          G0HEL/P       59 67 IO81WG
+QSO:   432 PH 2021-11-09 2200 G8PCB         59 6 IO91BB          G8OFA         59 2 IO91DC
+END-OF-LOG:

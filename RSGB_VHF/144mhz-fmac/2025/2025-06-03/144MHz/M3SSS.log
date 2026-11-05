@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M3SSS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83LV
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250603&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=631; excluded rows=2.
+QSO:   144 FM 2025-06-03 1801 M3SSS         59 1 IO83LV          M0JFE         59 1 IO83LW
+QSO:   144 FM 2025-06-03 1810 M3SSS         59 2 IO83LV          M7GHW/P       59 11 IO83PN
+QSO:   144 FM 2025-06-03 1811 M3SSS         59 3 IO83LV          G3TNN         57 5 IO83NS
+QSO:   144 FM 2025-06-03 1813 M3SSS         59 4 IO83LV          M0HZP         59 4 IO83LU
+QSO:   144 FM 2025-06-03 1825 M3SSS         59 5 IO83LV          2E0MOW        59 1 IO83LU
+QSO:   144 FM 2025-06-03 1827 M3SSS         59 6 IO83LV          2E0OTG        51 8 IO83QP
+QSO:   144 FM 2025-06-03 1833 M3SSS         59 7 IO83LV          M0LOR         59 16 IO83OR
+QSO:   144 FM 2025-06-03 1839 M3SSS         59 8 IO83LV          2E0SQK        52 15 IO83QR
+QSO:   144 FM 2025-06-03 1848 M3SSS         59 9 IO83LV          G4KCP/P       59 14 IO83QO
+END-OF-LOG:

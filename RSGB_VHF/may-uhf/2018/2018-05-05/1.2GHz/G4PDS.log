@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G4PDS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO80LR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=438; excluded rows=0.
+QSO:  1.2G PH 2018-05-05 1752 G4PDS         57 1 IO80LR          M1CRO/P       55 40 JO01PU
+QSO:  1.2G PH 2018-05-05 2000 G4PDS         57 2 IO80LR          G8OHM         52 15 IO92AJ
+QSO:  1.2G PH 2018-05-06 0815 G4PDS         57 3 IO80LR          M0HNA/P       55 4 IO91RF
+QSO:  1.2G PH 2018-05-06 0942 G4PDS         55 4 IO80LR          GI6ATZ        52 3 IO74AJ
+QSO:  1.2G PH 2018-05-06 0947 G4PDS         57 5 IO80LR          G3MEH         54 11 IO91QS
+QSO:  1.2G PH 2018-05-06 1018 G4PDS         54 6 IO80LR          G3VPF         57 1 IO80RQ
+QSO:  1.2G PH 2018-05-06 1323 G4PDS         58 7 IO80LR          G3TCT         55 8 IO81QC
+QSO:  1.2G PH 2018-05-06 1336 G4PDS         55 8 IO80LR          G4BAO         52 24 JO02CG
+QSO:  1.2G PH 2018-05-06 1349 G4PDS         55 9 IO80LR          G4DBN         55 5 IO93NR
+QSO:  1.2G PH 2018-05-06 1353 G4PDS         56 10 IO80LR         G3XDY         54 43 JO02OB
+QSO:  1.2G PH 2018-05-06 1358 G4PDS         59 11 IO80LR         GU6EFB        59 10 IN89RK
+QSO:  1.2G PH 2018-05-06 1359 G4PDS         59 12 IO80LR         G4LDR         57 14 IO91EC
+END-OF-LOG:

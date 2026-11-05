@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GW4MBS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO71XW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=231221&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1059; excluded rows=1.
+QSO:    70 PH 2023-12-21 2033 GW4MBS        55 1 IO71XW          G4NTY         55 16 IO83TM
+QSO:    70 PH 2023-12-21 2037 GW4MBS        59 2 IO71XW          G4ASR         59 25 IO81MX
+QSO:    70 PH 2023-12-21 2039 GW4MBS        59 3 IO71XW          G4CLA         59 31 IO92JL
+QSO:    70 CW 2023-12-21 2055 GW4MBS        339 4 IO71XW         G4BCA         559 10 IO81VV
+QSO:    70 CW 2023-12-21 2106 GW4MBS        339 5 IO71XW         G3TKF         559 22 IO81RI
+END-OF-LOG:

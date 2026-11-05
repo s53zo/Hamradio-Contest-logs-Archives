@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8IXK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91SV
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230112&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2400; excluded rows=1.
+QSO:    50 PH 2023-01-12 2134 G8IXK         52 1 IO91SV          G0WUS/P       57 54 IO92MP
+QSO:    50 PH 2023-01-12 2142 G8IXK         58 2 IO91SV          G8CUL         57 35 IO91JO
+QSO:    50 PH 2023-01-12 2151 G8IXK         53 3 IO91SV          G0SKA         53 66 IO91OQ
+QSO:    50 PH 2023-01-12 2201 G8IXK         57 4 IO91SV          G4CLA         59 94 IO92JL
+QSO:    50 PH 2023-01-12 2212 G8IXK         58 5 IO91SV          G3ZNU         56 33 IO91PQ
+END-OF-LOG:

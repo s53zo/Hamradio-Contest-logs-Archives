@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-CW-MARCONI
+CALLSIGN: GW5L
+CATEGORY-MODE: CW
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO83KF
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+CW+Marconi&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=1130; excluded rows=3.
+QSO:   144 CW 2019-11-02 1555 GW5L          599 1 IO83KF         G3ZOD         599 7 IO83WJ
+QSO:   144 CW 2019-11-02 1601 GW5L          599 2 IO83KF         M0WBG         599 8 IO83WJ
+QSO:   144 CW 2019-11-02 1622 GW5L          559 3 IO83KF         G7HAH         559 7 IO93NN
+QSO:   144 CW 2019-11-02 1632 GW5L          549 4 IO83KF         PA4VHF        599 47 JO32JE
+QSO:   144 CW 2019-11-02 1639 GW5L          599 5 IO83KF         GW5D          599 13 IO83LE
+QSO:   144 CW 2019-11-02 1829 GW5L          599 6 IO83KF         OR6T          599 44 JO20KV
+QSO:   144 CW 2019-11-02 2110 GW5L          599 7 IO83KF         G3UVR         599 10 IO83KH
+QSO:   144 CW 2019-11-03 0804 GW5L          559 8 IO83KF         MM0C          599 22 IO75XU
+QSO:   144 CW 2019-11-03 0820 GW5L          559 9 IO83KF         M0PNN         559 23 IO82TS
+QSO:   144 CW 2019-11-03 0922 GW5L          559 10 IO83KF        G4HVC         599 23 IO93QA
+QSO:   144 CW 2019-11-03 1231 GW5L          599 11 IO83KF        G3PHO         599 31 IO93GG
+QSO:   144 CW 2019-11-03 1241 GW5L          599 12 IO83KF        G4BEE         599 5 IO83RQ
+QSO:   144 CW 2019-11-03 1247 GW5L          599 13 IO83KF        G0SYP         599 37 IO83TK
+QSO:   144 CW 2019-11-03 1251 GW5L          599 14 IO83KF        G4GMZ         599 5 IO83WD
+QSO:   144 CW 2019-11-03 1300 GW5L          559 15 IO83KF        GW9J          559 35 IO72VE
+END-OF-LOG:

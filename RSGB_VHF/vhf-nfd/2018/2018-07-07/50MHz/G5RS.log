@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G5RS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91RF
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3223; excluded rows=8.
+QSO:    50 PH 2018-07-07 1532 G5RS          59 1 IO91RF          M0HRF/P       59 44 IO91GI
+QSO:    50 PH 2018-07-07 1541 G5RS          59 2 IO91RF          G4ALE/P       59 42 IO91XG
+QSO:    50 PH 2018-07-07 1544 G5RS          59 3 IO91RF          M0RDK/P       58 31 IO91PD
+QSO:    50 PH 2018-07-07 1548 G5RS          55 4 IO91RF          EI9E/P        59 86 IO62OM
+QSO:    50 PH 2018-07-07 1554 G5RS          55 5 IO91RF          G2LO/P        59 54 IO92GB
+QSO:    50 PH 2018-07-07 1556 G5RS          57 6 IO91RF          G2BQY/P       52 67 IO81RF
+QSO:    50 PH 2018-07-07 1558 G5RS          55 7 IO91RF          G8SRC/P       59 39 IO91CL
+QSO:    50 PH 2018-07-07 1601 G5RS          51 8 IO91RF          G0ARC/P       59 40 IO91EH
+QSO:    50 PH 2018-07-07 1619 G5RS          55 9 IO91RF          G3PIA/P       59 39 IO91IN
+QSO:    50 PH 2018-07-07 1621 G5RS          55 10 IO91RF         G3ZME/P       59 41 IO82NN
+QSO:    50 PH 2018-07-07 1625 G5RS          59 11 IO91RF         G4BRA/P       59 59 IO80ST
+QSO:    50 PH 2018-07-07 1628 G5RS          58 12 IO91RF         G3PYE/P       59 55 JO02CE
+QSO:    50 PH 2018-07-07 1634 G5RS          51 13 IO91RF         GM4ZUK/P      53 59 IO86RW
+QSO:    50 CW 2018-07-07 1938 G5RS          519 14 IO91RF        GM3HAM/P      559 86 IO74WV
+QSO:    50 CW 2018-07-07 1945 G5RS          599 15 IO91RF        G0FBB/P       599 112 JO01LD
+QSO:    50 CW 2018-07-07 1949 G5RS          559 16 IO91RF        G3TBK/P       599 64 IO93RA
+QSO:    50 CW 2018-07-07 2003 G5RS          559 17 IO91RF        G4DDL         599 14 IO91PJ
+QSO:    50 PH 2018-07-07 2157 G5RS          55 18 IO91RF         M0NFD/P       57 95 IO94MJ
+QSO:    50 PH 2018-07-07 2159 G5RS          55 19 IO91RF         G3TCR/P       59 32 IO91JG
+END-OF-LOG:

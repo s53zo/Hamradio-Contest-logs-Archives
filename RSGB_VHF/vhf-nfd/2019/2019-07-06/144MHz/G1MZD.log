@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G1MZD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92NB
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10315; excluded rows=4.
+QSO:   144 PH 2019-07-06 1538 G1MZD         59 1 IO92NB          G8OHM/P       59 67 IO92GB
+QSO:   144 PH 2019-07-06 1551 G1MZD         59 2 IO92NB          G0SAC/P       59 61 IO91XG
+QSO:   144 PH 2019-07-06 1621 G1MZD         59 3 IO92NB          G7APD/P       59 42 IO92LI
+QSO:   144 PH 2019-07-06 2056 G1MZD         59 4 IO92NB          G8LED/P       59 100 IO92LD
+QSO:   144 PH 2019-07-07 1116 G1MZD         59 5 IO92NB          M5MK/P        59 61 IO92RA
+END-OF-LOG:

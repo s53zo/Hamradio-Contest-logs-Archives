@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M7HFD
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82UE
+CATEGORY: FND
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=240604&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=539; excluded rows=1.
+QSO:   144 FM 2024-06-04 1801 M7HFD         59 1 IO82UE          G0ORE/P       59 2 IO92AI
+QSO:   144 FM 2024-06-04 1803 M7HFD         59 2 IO82UE          G4ILI/P       59 3 IO81WU
+QSO:   144 FM 2024-06-04 1804 M7HFD         59 3 IO82UE          G0PLA/P       59 4 IO82XJ
+QSO:   144 FM 2024-06-04 1807 M7HFD         59 4 IO82UE          G3WRA         59 9 IO82RJ
+QSO:   144 FM 2024-06-04 1813 M7HFD         57 5 IO82UE          2E0VWJ        51 1 IO82XC
+END-OF-LOG:

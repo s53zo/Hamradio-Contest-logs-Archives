@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4DBN
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93NR
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180510&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5089; excluded rows=0.
+QSO:    50 PH 2018-05-10 2038 G4DBN         59 1 IO93NR          OH1Z          59 189 KP10FC
+QSO:    50 CW 2018-05-10 2050 G4DBN         599 2 IO93NR         OH0Z          599 0 JP90XI
+QSO:    50 CW 2018-05-10 2054 G4DBN         599 3 IO93NR         ES2DF         599 18 KO29GG
+QSO:    50 CW 2018-05-10 2056 G4DBN         599 4 IO93NR         OH1TM         599 0 KP01VJ
+QSO:    50 CW 2018-05-10 2059 G4DBN         599 5 IO93NR         OH1XX         599 1 KP10KJ
+QSO:    50 PH 2018-05-10 2101 G4DBN         59 6 IO93NR          G4LKD         59 36 IO93OQ
+QSO:    50 PH 2018-05-10 2103 G4DBN         59 7 IO93NR          M6KMB         59 45 IO93EQ
+QSO:    50 CW 2018-05-10 2118 G4DBN         599 8 IO93NR         OH8WW         599 0 KP24HP
+QSO:    50 PH 2018-05-10 2124 G4DBN         59 9 IO93NR          M5DWI/P       55 63 IO93FL
+QSO:    50 PH 2018-05-10 2127 G4DBN         59 10 IO93NR         M0GAV/P       59 90 IO93EH
+QSO:    50 PH 2018-05-10 2128 G4DBN         59 11 IO93NR         2E0DXK/P      57 67 IO93FJ
+END-OF-LOG:

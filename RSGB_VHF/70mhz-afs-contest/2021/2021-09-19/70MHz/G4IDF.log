@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G4IDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82VE
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1999; excluded rows=0.
+QSO:    70 PH 2021-09-19 1147 G4IDF         59 1 IO82VE          G4ASR         59 46 IO81MX
+QSO:    70 PH 2021-09-19 1154 G4IDF         57 2 IO82VE          G8NSZ         55 4 IO81XV
+QSO:    70 PH 2021-09-19 1155 G4IDF         59 3 IO82VE          2E0MDJ        59 14 IO81WV
+QSO:    70 PH 2021-09-19 1156 G4IDF         59 4 IO82VE          G0LGS/P       59 55 IO81WU
+QSO:    70 PH 2021-09-19 1159 G4IDF         59 5 IO82VE          G3TKF/P       59 74 IO81RI
+END-OF-LOG:

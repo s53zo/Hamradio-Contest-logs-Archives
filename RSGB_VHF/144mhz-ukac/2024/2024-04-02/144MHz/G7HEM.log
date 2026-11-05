@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G7HEM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO82WK
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=240402&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9420; excluded rows=3.
+QSO:   144 PH 2024-04-02 1933 G7HEM         59 1 IO82WK          GW1YBB/P      59 22 IO81KW
+QSO:   144 PH 2024-04-02 1936 G7HEM         59 2 IO82WK          M0RSD         59 18 IO82WM
+QSO:   144 PH 2024-04-02 1946 G7HEM         59 3 IO82WK          G0UFE         55 13 IO82SP
+QSO:   144 PH 2024-04-02 1950 G7HEM         59 4 IO82WK          G3WRA         59 55 IO82RJ
+QSO:   144 PH 2024-04-02 2001 G7HEM         59 5 IO82WK          G8EKG         57 49 IO92ES
+END-OF-LOG:

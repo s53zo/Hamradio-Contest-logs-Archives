@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: GM3TAL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO86GA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170226&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1361; excluded rows=1.
+QSO:    70 PH 2017-02-26 1042 GM3TAL        59 1 IO86GA          GM4DIJ        59 8 IO85IW
+QSO:    70 PH 2017-02-26 1055 GM3TAL        59 2 IO86GA          GM4JJJ        59 7 IO86GB
+QSO:    70 PH 2017-02-26 1100 GM3TAL        59 3 IO86GA          MM0GPZ        59 4 IO75WS
+QSO:    70 PH 2017-02-26 1112 GM3TAL        59 4 IO86GA          GM0ELP        59 4 IO75XR
+QSO:    70 PH 2017-02-26 1136 GM3TAL        55 5 IO86GA          G4SJH/P       52 53 IO91PF
+QSO:    70 PH 2017-02-26 1140 GM3TAL        59 6 IO86GA          G0HNW         59 12 IO93CN
+END-OF-LOG:

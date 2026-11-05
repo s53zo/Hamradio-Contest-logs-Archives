@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: M0PLA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO82SP
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=240521&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2244; excluded rows=0.
+QSO:  1.2G PH 2024-05-21 1902 M0PLA         59 1 IO82SP          G0UFE         59 2 IO82SP
+QSO:  1.2G PH 2024-05-21 1906 M0PLA         59 2 IO82SP          M0TBQ         59 2 IO82SQ
+QSO:  1.2G PH 2024-05-21 1926 M0PLA         59 3 IO82SP          GW8ASD        59 4 IO83LB
+QSO:  1.2G PH 2024-05-21 1928 M0PLA         59 4 IO82SP          G3YKI         57 4 IO82QL
+QSO:  1.2G PH 2024-05-21 1941 M0PLA         57 5 IO82SP          G3OHH         55 6 IO83VC
+QSO:  1.2G PH 2024-05-21 2005 M0PLA         59 6 IO82SP          G1JJA         59 6 IO92AH
+QSO:  1.2G PH 2024-05-21 2011 M0PLA         59 7 IO82SP          G3VKV         57 9 IO81XV
+END-OF-LOG:

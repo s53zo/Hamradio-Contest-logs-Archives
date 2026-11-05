@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G5UM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92KR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=190108&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6835; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   432 PH 2019-01-08 2001 G5UM          59 1 IO92KR          G4CLA         59 5 IO92JL
+QSO:   432 PH 2019-01-08 2002 G5UM          59 2 IO92KR          M1DDD/P       59 1 IO93CH
+QSO:   432 PH 2019-01-08 2011 G5UM          59 4 IO92KR          G3SQQ         59 7 IO93JC
+QSO:   432 PH 2019-01-08 2015 G5UM          59 5 IO92KR          G4ODA         59 21 IO92WS
+QSO:   432 PH 2019-01-08 2025 G5UM          57 6 IO92KR          2E0DXK/P      57 18 IO93FG
+QSO:   432 PH 2019-01-08 2037 G5UM          59 7 IO92KR          G3ZUD         59 35 IO92LU
+QSO:   432 PH 2019-01-08 2039 G5UM          59 8 IO92KR          G3TBK/P       59 35 IO93RA
+QSO:   432 PH 2019-01-08 2041 G5UM          59 9 IO92KR          M1MHZ         59 26 IO92WV
+QSO:   432 PH 2019-01-08 2056 G5UM          55 10 IO92KR         G1DFL/P       55 51 IO91IN
+END-OF-LOG:

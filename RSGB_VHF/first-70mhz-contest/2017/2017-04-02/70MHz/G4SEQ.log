@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-FIRST-70MHZ-CONTEST
+CALLSIGN: G4SEQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93EQ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=First+70MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1536; excluded rows=2.
+QSO:    70 PH 2017-04-02 0905 G4SEQ         59 1 IO93EQ          G8SFI/P       59 4 IO94KH
+QSO:    70 PH 2017-04-02 0910 G4SEQ         59 2 IO93EQ          GW4EVX/P      59 6 IO83JF
+QSO:    70 PH 2017-04-02 0914 G4SEQ         59 3 IO93EQ          G8EOP         59 5 IO93EQ
+QSO:    70 PH 2017-04-02 1007 G4SEQ         55 4 IO93EQ          GI4SNA        53 21 IO64XM
+QSO:    70 PH 2017-04-02 1040 G4SEQ         55 5 IO93EQ          G4BWP         55 67 JO02FH
+QSO:    70 PH 2017-04-02 1132 G4SEQ         59 6 IO93EQ          G3UVR         58 20 IO83KH
+QSO:    70 PH 2017-04-02 1156 G4SEQ         54 7 IO93EQ          G3MXH         53 62 JO02LF
+END-OF-LOG:

@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4CLA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO92JL
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=220125&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=151; excluded rows=2.
+QSO:   10G PH 2022-01-25 1931 G4CLA         59 1 IO92JL          G4ZTR         59 1 JO01KW
+QSO:   10G PH 2022-01-25 1933 G4CLA         59 2 IO92JL          G0WZV         59 1 JO01KV
+QSO:   10G PH 2022-01-25 1939 G4CLA         59 3 IO92JL          G4ASR         59 2 IO81MX
+QSO:   10G PH 2022-01-25 1955 G4CLA         59 4 IO92JL          M7TXR         59 1 IO92JO
+QSO:   10G PH 2022-01-25 1957 G4CLA         57 5 IO92JL          G3PHO         54 2 IO93GG
+QSO:   10G CW 2022-01-25 2039 G4CLA         539 6 IO92JL         G3XDY         539 3 JO02OB
+QSO:   10G PH 2022-01-25 2049 G4CLA         59 7 IO92JL          G4LDR         59 3 IO91EC
+QSO:   10G PH 2022-01-25 2057 G4CLA         54 8 IO92JL          G8CUB         52 1 JO01DP
+QSO:   10G PH 2022-01-25 2100 G4CLA         53 9 IO92JL          2E0MDJ/P      53 6 IO81WU
+QSO:   10G PH 2022-01-25 2119 G4CLA         55 10 IO92JL         G0LGS/P       55 7 IO81WU
+QSO:   10G PH 2022-01-25 2121 G4CLA         59 11 IO92JL         G4BXD         59 7 IO82UJ
+QSO:   10G PH 2022-01-25 2125 G4CLA         59 12 IO92JL         G3VKV         59 8 IO81XV
+QSO:   10G PH 2022-01-25 2134 G4CLA         54 13 IO92JL         G1DFL/P       56 6 IO91OQ
+QSO:   10G PH 2022-01-25 2138 G4CLA         55 14 IO92JL         G4KUX         54 1 IO94BP
+QSO:   10G PH 2022-01-25 2148 G4CLA         59 15 IO92JL         M0GHZ         59 10 IO81VK
+QSO:   10G PH 2022-01-25 2150 G4CLA         59 16 IO92JL         G0WUS         59 7 IO92KO
+QSO:   10G PH 2022-01-25 2154 G4CLA         59 17 IO92JL         G4HWA         59 7 IO92ME
+END-OF-LOG:

@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: G0CNN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO94
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=230301&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1287; excluded rows=0.
+QSO:   144 FT8 2023-03-01 1901 G0CNN         -01 IO94             G8EEM         +13 IO93
+QSO:   144 FT8 2023-03-01 1903 G0CNN         -07 IO94             G8SEI         -13 IO92
+QSO:   144 FT8 2023-03-01 1906 G0CNN         -04 IO94             2E0IEN        -12 IO93
+QSO:   144 FT8 2023-03-01 1927 G0CNN         -13 IO94             MM0CEZ        -19 IO75
+QSO:   144 FT8 2023-03-01 1928 G0CNN         -04 IO94             G1GEY         +12 IO94
+QSO:   144 FT8 2023-03-01 1929 G0CNN         +21 IO94             G8AOE/P       +25 IO94
+QSO:   144 FT8 2023-03-01 1937 G0CNN         +01 IO94             M0WRE         +00 IO93
+QSO:   144 FT8 2023-03-01 1940 G0CNN         -12 IO94             G7KHV         -22 IO93
+QSO:   144 FT8 2023-03-01 1941 G0CNN         -13 IO94             G4PDF         -20 IO93
+QSO:   144 FT8 2023-03-01 1945 G0CNN         -09 IO94             G7SXR         -15 IO93
+QSO:   144 FT8 2023-03-01 1949 G0CNN         -18 IO94             GM8MJV        -11 IO85
+QSO:   144 FT8 2023-03-01 1951 G0CNN         -09 IO94             G4ZRS         -17 IO93
+QSO:   144 FT8 2023-03-01 1955 G0CNN         -18 IO94             G4BEE         -11 IO83
+QSO:   144 FT8 2023-03-01 2000 G0CNN         -18 IO94             GI6ATZ        -16 IO74
+QSO:   144 FT8 2023-03-01 2031 G0CNN         +01 IO94             2E0VOE        -03 IO93
+QSO:   144 FT8 2023-03-01 2036 G0CNN         +00 IO94             G4VCJ         -13 IO94
+QSO:   144 FT8 2023-03-01 2043 G0CNN         -17 IO94             M0RTQ         -16 IO93
+END-OF-LOG:

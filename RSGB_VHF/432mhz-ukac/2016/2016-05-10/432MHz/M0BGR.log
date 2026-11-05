@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0BGR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: JO01AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=160510&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7019; excluded rows=1.
+QSO:   432 PH 2016-05-10 2006 M0BGR         51 1 JO01AL          G4CLA         59 99 IO92JL
+QSO:   432 PH 2016-05-10 2008 M0BGR         51 2 JO01AL          G4GFI         55 16 IO91VH
+QSO:   432 PH 2016-05-10 2012 M0BGR         55 3 JO01AL          G3MEH         53 55 IO91QS
+QSO:   432 CW 2016-05-10 2044 M0BGR         559 4 JO01AL         G3ZMF         559 25 IO91VH
+QSO:   432 PH 2016-05-10 2056 M0BGR         52 5 JO01AL          G3XDY         55 60 JO02OB
+QSO:   432 PH 2016-05-10 2104 M0BGR         51 6 JO01AL          G0XDI/P       52 100 JO01KJ
+END-OF-LOG:

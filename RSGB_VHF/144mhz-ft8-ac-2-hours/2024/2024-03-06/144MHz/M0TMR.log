@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: M0TMR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=240306&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1133; excluded rows=0.
+QSO:   144 FT8 2024-03-06 1850 M0TMR         -09 IO93             G8EEM         -24 IO93
+QSO:   144 FT8 2024-03-06 1905 M0TMR         +07 IO93             G4DBI         +09 IO93
+QSO:   144 FT8 2024-03-06 1908 M0TMR         +15 IO93             2E0VOE        +12 IO93
+QSO:   144 FT8 2024-03-06 1921 M0TMR         -12 IO93             G4PDF         -05 IO93
+QSO:   144 FT8 2024-03-06 1930 M0TMR         +12 IO93             G3RIK         -08 IO83
+QSO:   144 FT8 2024-03-06 1931 M0TMR         -23 IO93             2E0FQT        -19 -
+QSO:   144 FT8 2024-03-06 1947 M0TMR         -13 IO93             G7COU         -14 IO93
+QSO:   144 FT8 2024-03-06 1951 M0TMR         -07 IO93             G7ABT         +04 IO93
+QSO:   144 FT8 2024-03-06 2001 M0TMR         -19 IO93             GM8MJV        -07 IO85
+QSO:   144 FT8 2024-03-06 2019 M0TMR         -11 IO93             G0WUU         -19 IO93
+QSO:   144 FT8 2024-03-06 2022 M0TMR         -16 IO93             G6LUE         -12 IO93
+QSO:   144 FT8 2024-03-06 2027 M0TMR         +01 IO93             G4EII         -02 IO83
+QSO:   144 FT8 2024-03-06 2033 M0TMR         -17 IO93             G1YEF         -14 IO83
+END-OF-LOG:

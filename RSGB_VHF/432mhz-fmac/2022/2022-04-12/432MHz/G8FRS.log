@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G8FRS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92DE
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=220412&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=885; excluded rows=1.
+QSO:   432 FM 2022-04-12 1800 G8FRS         59 1 IO92DE          G0PLA/P       59 2 IO82XJ
+QSO:   432 FM 2022-04-12 1803 G8FRS         59 2 IO92DE          G0RMG/P       59 5 IO92BA
+QSO:   432 FM 2022-04-12 1812 G8FRS         59 3 IO92DE          G3WRA         59 8 IO82RJ
+QSO:   432 FM 2022-04-12 1820 G8FRS         57 4 IO92DE          2E0YCC/P      55 14 IO91CM
+QSO:   432 FM 2022-04-12 1822 G8FRS         59 5 IO92DE          M0KYB/P       59 23 IO91FN
+QSO:   432 FM 2022-04-12 1825 G8FRS         59 6 IO92DE          M0TVZ         59 10 IO92DE
+QSO:   432 FM 2022-04-12 1827 G8FRS         59 7 IO92DE          M0VKB         59 12 IO92CC
+QSO:   432 FM 2022-04-12 1834 G8FRS         59 8 IO92DE          G0ORE/P       59 15 IO92AG
+QSO:   432 FM 2022-04-12 1840 G8FRS         59 9 IO92DE          M7HFD/P       59 17 IO82TC
+END-OF-LOG:

@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: GW0MDQ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83KC
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=191112&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4778; excluded rows=1.
+QSO:   432 PH 2019-11-12 2117 GW0MDQ        55 1 IO83KC          GM3SEK        52 39 IO74SR
+QSO:   432 PH 2019-11-12 2121 GW0MDQ        59 2 IO83KC          GD8EXI        54 65 IO74PC
+QSO:   432 PH 2019-11-12 2122 GW0MDQ        59 3 IO83KC          G4NTY         59 20 IO83TM
+QSO:   432 PH 2019-11-12 2124 GW0MDQ        59 4 IO83KC          G8REQ         59 30 IO83KI
+QSO:   432 PH 2019-11-12 2129 GW0MDQ        59 5 IO83KC          G0CDA         59 24 IO83SJ
+QSO:   432 PH 2019-11-12 2134 GW0MDQ        57 6 IO83KC          G4JLG         59 30 IO83TM
+QSO:   432 PH 2019-11-12 2136 GW0MDQ        59 7 IO83KC          M0XGS         59 19 IO83RM
+QSO:   432 PH 2019-11-12 2140 GW0MDQ        59 8 IO83KC          M1DDD/P       55 75 IO93DH
+QSO:   432 PH 2019-11-12 2144 GW0MDQ        55 9 IO83KC          G7LRQ         55 84 IO91TQ
+QSO:   432 PH 2019-11-12 2147 GW0MDQ        55 10 IO83KC         M6KMB         58 26 IO93EQ
+QSO:   432 PH 2019-11-12 2150 GW0MDQ        59 11 IO83KC         GD0AMD/P      59 30 IO74QD
+QSO:   432 CW 2019-11-12 2155 GW0MDQ        599 12 IO83KC        G4BEE         599 5 IO83RQ
+QSO:   432 CW 2019-11-12 2200 GW0MDQ        599 13 IO83KC        M0WBG         599 16 IO83JK
+QSO:   432 PH 2019-11-12 2206 GW0MDQ        55 14 IO83KC         2E0XJP        55 4 IO83MN
+QSO:   432 PH 2019-11-12 2208 GW0MDQ        57 15 IO83KC         M1MHZ         55 70 IO92WV
+QSO:   432 PH 2019-11-12 2211 GW0MDQ        57 16 IO83KC         GI6ATZ        55 72 IO74AJ
+QSO:   432 PH 2019-11-12 2216 GW0MDQ        59 17 IO83KC         G3UVR         59 72 IO83KH
+END-OF-LOG:

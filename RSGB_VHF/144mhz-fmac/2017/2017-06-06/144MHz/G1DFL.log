@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G1DFL
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91NL
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170606&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=305; excluded rows=0.
+QSO:   144 FM 2017-06-06 1803 G1DFL         57 1 IO91NL          G3WCB/P       57 1 IO80EI
+QSO:   144 FM 2017-06-06 1805 G1DFL         59 2 IO91NL          2E0PNO/P      59 1 IO91SF
+QSO:   144 FM 2017-06-06 1809 G1DFL         59 3 IO91NL          G4GFI         59 1 IO91VH
+QSO:   144 FM 2017-06-06 1811 G1DFL         59 4 IO91NL          G0ACK         59 2 IO91TN
+QSO:   144 FM 2017-06-06 1814 G1DFL         59 5 IO91NL          G8FKH         59 1 IO91SN
+QSO:   144 FM 2017-06-06 1815 G1DFL         59 6 IO91NL          M0IEP         59 1 IO91DP
+QSO:   144 FM 2017-06-06 1815 G1DFL         59 7 IO91NL          G8FUO         59 2 IO91QL
+QSO:   144 FM 2017-06-06 1820 G1DFL         59 8 IO91NL          M0SAT         59 1 IO91TP
+QSO:   144 FM 2017-06-06 1837 G1DFL         59 9 IO91NL          G4SWY         51 2 IO91TP
+QSO:   144 FM 2017-06-06 1838 G1DFL         59 10 IO91NL         M0RKX/P       59 14 IO91BA
+QSO:   144 FM 2017-06-06 1845 G1DFL         58 11 IO91NL         G6RC          59 5 IO91VC
+QSO:   144 FM 2017-06-06 1846 G1DFL         59 12 IO91NL         G8LZE         59 2 IO91SO
+QSO:   144 FM 2017-06-06 1857 G1DFL         57 13 IO91NL         G1MZD/P       57 5 IO92NC
+END-OF-LOG:

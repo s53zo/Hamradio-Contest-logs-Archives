@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0MHZ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91OT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230309&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3531; excluded rows=2.
+QSO:    50 PH 2023-03-09 2000 G0MHZ         59 1 IO91OT          G0SKA         59 1 IO91OQ
+QSO:    50 PH 2023-03-09 2007 G0MHZ         53 2 IO91OT          G4CLA         59 14 IO92JL
+QSO:    50 PH 2023-03-09 2009 G0MHZ         59 3 IO91OT          G3MEH         59 9 IO91QS
+QSO:    50 PH 2023-03-09 2017 G0MHZ         59 4 IO91OT          G7RDX/P       59 15 IO91TU
+QSO:    50 PH 2023-03-09 2018 G0MHZ         57 5 IO91OT          G8CUL         57 11 IO91JO
+QSO:    50 PH 2023-03-09 2029 G0MHZ         55 6 IO91OT          M5TKA         58 18 IO91OX
+QSO:    50 PH 2023-03-09 2052 G0MHZ         59 7 IO91OT          G6GDI         59 3 IO91PT
+QSO:    50 PH 2023-03-09 2055 G0MHZ         57 8 IO91OT          G8GYX         57 18 IO91VH
+QSO:    50 PH 2023-03-09 2104 G0MHZ         59 9 IO91OT          G3ZNU         59 21 IO91PQ
+QSO:    50 PH 2023-03-09 2137 G0MHZ         57 10 IO91OT         G4KQH         58 31 IO92JD
+QSO:    50 PH 2023-03-09 2146 G0MHZ         57 11 IO91OT         G4HWA         58 41 IO92ME
+QSO:    50 PH 2023-03-09 2222 G0MHZ         59 12 IO91OT         G8FMC         59 27 IO91NW
+END-OF-LOG:

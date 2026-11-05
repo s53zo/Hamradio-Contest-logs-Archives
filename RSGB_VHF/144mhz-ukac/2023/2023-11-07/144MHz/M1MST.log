@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M1MST
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82PH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=231107&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10130; excluded rows=2.
+QSO:   144 PH 2023-11-07 2001 M1MST         59 1 IO82PH          MW0LKX/P      59 4 IO82KL
+QSO:   144 PH 2023-11-07 2003 M1MST         59 2 IO82PH          G1YBB/P       59 10 IO82LB
+QSO:   144 PH 2023-11-07 2005 M1MST         59 3 IO82PH          G0JCC         59 10 IO82MA
+QSO:   144 PH 2023-11-07 2012 M1MST         59 4 IO82PH          M1MLM/P       57 20 IO93AD
+QSO:   144 PH 2023-11-07 2023 M1MST         55 5 IO82PH          M0KYB/P       55 25 IO91FN
+QSO:   144 PH 2023-11-07 2108 M1MST         55 6 IO82PH          G0XBU         51 20 IO83UF
+QSO:   144 PH 2023-11-07 2112 M1MST         57 7 IO82PH          M1EYP/P       57 53 IO83WE
+QSO:   144 PH 2023-11-07 2116 M1MST         59 8 IO82PH          G4ASR/P       59 49 IO81MW
+QSO:   144 PH 2023-11-07 2118 M1MST         55 9 IO82PH          G6AD/P        51 43 IO92LJ
+QSO:   144 PH 2023-11-07 2142 M1MST         55 10 IO82PH         G4ILI/P       55 58 IO81WU
+END-OF-LOG:

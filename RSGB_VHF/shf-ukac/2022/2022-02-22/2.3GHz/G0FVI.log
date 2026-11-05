@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G0FVI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO93RE
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=220222&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=411; excluded rows=0.
+QSO:  2.3G PH 2022-02-22 1933 G0FVI         59 1 IO93RE          G3SQQ         59 2 IO93JC
+QSO:  2.3G PH 2022-02-22 1946 G0FVI         59 2 IO93RE          G1PPA/P       57 4 IO93RI
+QSO:  2.3G PH 2022-02-22 2010 G0FVI         55 3 IO93RE          G6GEI/P       51 9 IO92RA
+QSO:  2.3G PH 2022-02-22 2012 G0FVI         59 4 IO93RE          G4ODA         59 8 IO92WS
+QSO:  2.3G PH 2022-02-22 2014 G0FVI         59 5 IO93RE          G4CLA         59 6 IO92JL
+QSO:  2.3G PH 2022-02-22 2024 G0FVI         59 6 IO93RE          G0EAK/P       59 5 IO93NI
+QSO:  2.3G PH 2022-02-22 2059 G0FVI         59 7 IO93RE          G1ZAR/P       59 7 IO92IR
+END-OF-LOG:

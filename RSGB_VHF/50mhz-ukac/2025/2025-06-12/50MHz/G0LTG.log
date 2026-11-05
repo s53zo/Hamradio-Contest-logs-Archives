@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0LTG
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81RF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250612&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3777; excluded rows=0.
+QSO:    50 CW 2025-06-12 1904 G0LTG         599 1 IO81RF         CT1EPS        559 1 IM57XC
+QSO:    50 CW 2025-06-12 1905 G0LTG         599 2 IO81RF         G3USE         599 1 IO80LR
+QSO:    50 CW 2025-06-12 1916 G0LTG         599 3 IO81RF         G4FJK         59 13 IO80EW
+QSO:    50 PH 2025-06-12 1917 G0LTG         59 4 IO81RF          G3TCT         59 6 IO81QC
+QSO:    50 PH 2025-06-12 1925 G0LTG         59 5 IO81RF          CT1EHI        59 1 IM67AA
+QSO:    50 PH 2025-06-12 1929 G0LTG         57 6 IO81RF          2E0VCC/P      57 20 IO70SP
+QSO:    50 PH 2025-06-12 1942 G0LTG         59 7 IO81RF          G4BAD         59 13 IO81RI
+QSO:    50 PH 2025-06-12 1943 G0LTG         59 8 IO81RF          G8FRS         59 5 IO91AR
+QSO:    50 PH 2025-06-12 1951 G0LTG         57 9 IO81RF          M0RDX         52 42 IO83WB
+END-OF-LOG:

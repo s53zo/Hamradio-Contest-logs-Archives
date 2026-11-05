@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G3RCW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93KH
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=190221&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4580; excluded rows=2.
+QSO:    70 PH 2019-02-21 2144 G3RCW         59 1 IO93KH          G0EAK/P       59 52 IO93NI
+QSO:    70 PH 2019-02-21 2150 G3RCW         51 2 IO93KH          G8BUN         57 32 IO93EQ
+QSO:    70 PH 2019-02-21 2153 G3RCW         55 3 IO93KH          G4HGT/P       59 99 IO93BV
+QSO:    70 PH 2019-02-21 2155 G3RCW         59 4 IO93KH          G3VCA         59 81 IO93MG
+QSO:    70 PH 2019-02-21 2158 G3RCW         52 5 IO93KH          M1DDD/P       55 132 IO93CH
+QSO:    70 PH 2019-02-21 2201 G3RCW         55 6 IO93KH          G8PNN/P       58 69 IO95AF
+QSO:    70 PH 2019-02-21 2221 G3RCW         52 7 IO93KH          GW4MBS        43 29 IO71XW
+END-OF-LOG:

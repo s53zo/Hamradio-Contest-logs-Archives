@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0KZC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90CW
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160405&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12814; excluded rows=26.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2016-04-05 1903 M0KZC         59 1 IO90CW          GD8EXI        57 5 IO74PC
+QSO:   144 PH 2016-04-05 1905 M0KZC         59 2 IO90CW          G5BBL/P       59 4 IO81UC
+QSO:   144 PH 2016-04-05 1909 M0KZC         59 3 IO90CW          F8BRK         59 10 IN99VF
+QSO:   144 PH 2016-04-05 1912 M0KZC         59 4 IO90CW          F1BHL/P       58 3 IN99RI
+QSO:   144 PH 2016-04-05 1921 M0KZC         59 5 IO90CW          G6RC          59 22 IO91VC
+QSO:   144 PH 2016-04-05 1924 M0KZC         59 6 IO90CW          G4CZP/P       59 24 IO90JO
+QSO:   144 PH 2016-04-05 1932 M0KZC         57 8 IO90CW          M0GHZ/P       56 43 IO81UN
+QSO:   144 PH 2016-04-05 1953 M0KZC         57 9 IO90CW          G3LAS         57 34 IO93UC
+QSO:   144 PH 2016-04-05 2001 M0KZC         57 10 IO90CW         G4HGT/P       57 67 IO93BV
+QSO:   144 PH 2016-04-05 2004 M0KZC         59 11 IO90CW         G6DOD/P       59 75 IO90JO
+QSO:   144 PH 2016-04-05 2014 M0KZC         59 12 IO90CW         G4CLA         59 158 IO92JL
+QSO:   144 PH 2016-04-05 2028 M0KZC         59 13 IO90CW         G4RRA         59 96 IO80BS
+QSO:   144 PH 2016-04-05 2050 M0KZC         53 14 IO90CW         G4LKD         51 62 IO93OQ
+QSO:   144 PH 2016-04-05 2056 M0KZC         57 15 IO90CW         G8FMC         56 31 IO91NW
+END-OF-LOG:

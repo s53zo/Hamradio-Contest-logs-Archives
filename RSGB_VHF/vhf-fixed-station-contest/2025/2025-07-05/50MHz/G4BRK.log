@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G4BRK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91HP
+CATEGORY: FSQ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=483; excluded rows=0.
+QSO:    50 PH 2025-07-05 1454 G4BRK         57 1 IO91HP          G2BQY/P       57 62 IO81RF
+QSO:    50 PH 2025-07-05 1456 G4BRK         59 2 IO91HP          G8SRC/P       59 52 IO91CL
+QSO:    50 PH 2025-07-05 1459 G4BRK         57 3 IO91HP          G3PYE/P       59 31 JO02CE
+QSO:    50 PH 2025-07-05 1749 G4BRK         59 4 IO91HP          G8NVI         55 30 IO91JO
+QSO:    50 PH 2025-07-05 1752 G4BRK         59 5 IO91HP          G3PIA/P       59 11 IO91IN
+END-OF-LOG:

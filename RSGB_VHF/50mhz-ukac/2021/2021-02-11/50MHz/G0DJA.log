@@ -1,0 +1,38 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0DJA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93IF
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210211&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5018; excluded rows=2.
+QSO:    50 PH 2021-02-11 2016 G0DJA         55 1 IO93IF          M1MHZ         54 2 IO92WV
+QSO:    50 PH 2021-02-11 2017 G0DJA         59 2 IO93IF          M7DON         59 10 IO93KD
+QSO:    50 PH 2021-02-11 2021 G0DJA         59 3 IO93IF          G3TBK         57 23 IO93QA
+QSO:    50 PH 2021-02-11 2023 G0DJA         55 4 IO93IF          G8SFI         55 9 IO93LW
+QSO:    50 PH 2021-02-11 2024 G0DJA         59 5 IO93IF          G3SQQ         59 13 IO93JC
+QSO:    50 PH 2021-02-11 2033 G0DJA         59 6 IO93IF          G4ODA         59 15 IO92WS
+QSO:    50 PH 2021-02-11 2041 G0DJA         59 7 IO93IF          G4CLA         59 62 IO92JL
+QSO:    50 PH 2021-02-11 2042 G0DJA         55 8 IO93IF          M0LLW         55 21 IO93MK
+QSO:    50 PH 2021-02-11 2045 G0DJA         55 9 IO93IF          G3ZUD         58 19 IO92LU
+QSO:    50 PH 2021-02-11 2047 G0DJA         59 10 IO93IF         G8DMU         59 23 IO93FX
+QSO:    50 PH 2021-02-11 2050 G0DJA         59 11 IO93IF         G3VCA         59 44 IO93MG
+QSO:    50 CW 2021-02-11 2058 G0DJA         539 12 IO93IF        G0MCV         539 17 IO92KR
+QSO:    50 CW 2021-02-11 2059 G0DJA         559 13 IO93IF        G4HIV         559 10 IO93QE
+QSO:    50 CW 2021-02-11 2104 G0DJA         599 14 IO93IF        G4LPD         599 11 IO92KW
+QSO:    50 PH 2021-02-11 2122 G0DJA         59 15 IO93IF         G1HLT         599 32 IO93JD
+QSO:    50 PH 2021-02-11 2126 G0DJA         59 16 IO93IF         G4HVC         59 50 IO93QA
+QSO:    50 PH 2021-02-11 2128 G0DJA         59 17 IO93IF         M0BEW         59 62 IO82RJ
+QSO:    50 PH 2021-02-11 2130 G0DJA         59 18 IO93IF         G3SDY         59 19 IO93DO
+QSO:    50 CW 2021-02-11 2140 G0DJA         559 19 IO93IF        G3ZNU         559 49 IO91PQ
+QSO:    50 PH 2021-02-11 2143 G0DJA         59 20 IO93IF         G8NRY         55 16 IO93JI
+QSO:    50 CW 2021-02-11 2151 G0DJA         599 21 IO93IF        G0EAK         599 22 IO93MH
+QSO:    50 PH 2021-02-11 2204 G0DJA         59 22 IO93IF         G6NUM         57 44 IO93MA
+END-OF-LOG:

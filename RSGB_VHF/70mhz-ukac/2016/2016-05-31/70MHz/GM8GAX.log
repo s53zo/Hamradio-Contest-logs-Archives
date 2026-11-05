@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GM8GAX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO86CD
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=160531&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3613; excluded rows=1.
+QSO:    70 PH 2016-05-31 1908 GM8GAX        55 1 IO86CD          GM3WUX        55 1 IO75UU
+QSO:    70 PH 2016-05-31 1916 GM8GAX        59 2 IO86CD          GM4NFC        59 6 IO75RI
+QSO:    70 PH 2016-05-31 1922 GM8GAX        55 3 IO86CD          GM4JR         51 10 IO85FB
+QSO:    70 PH 2016-05-31 1932 GM8GAX        56 4 IO86CD          GM3TAL        55 3 IO86GA
+QSO:    70 PH 2016-05-31 1935 GM8GAX        55 5 IO86CD          GM4DIJ        55 5 IO85IW
+QSO:    70 PH 2016-05-31 2008 GM8GAX        53 6 IO86CD          G0EHV/P       53 39 IO84XT
+END-OF-LOG:

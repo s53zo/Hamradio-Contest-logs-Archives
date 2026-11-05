@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G3TDH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83WI
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6354; excluded rows=5.
+QSO:   144 PH 2024-07-07 1010 G3TDH         59 1 IO83WI          GW3ZTT/P      59 116 IO82KW
+QSO:   144 PH 2024-07-07 1013 G3TDH         59 2 IO83WI          G3SRT/P       59 141 IO82KV
+QSO:   144 PH 2024-07-07 1015 G3TDH         59 3 IO83WI          G4ATH/P       59 55 IO83NU
+QSO:   144 PH 2024-07-07 1055 G3TDH         59 4 IO83WI          G3CKR/P       59 164 IO93AD
+QSO:   144 PH 2024-07-07 1106 G3TDH         57 5 IO83WI          G3ZME/P       55 150 IO82NN
+END-OF-LOG:

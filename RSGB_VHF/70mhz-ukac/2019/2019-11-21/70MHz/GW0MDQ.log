@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: GW0MDQ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83KC
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=191121&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2808; excluded rows=2.
+QSO:    70 PH 2019-11-21 2004 GW0MDQ        59 1 IO83KC          G8REQ         59 2 IO83KI
+QSO:    70 PH 2019-11-21 2005 GW0MDQ        59 2 IO83KC          G3UVR         59 11 IO83KH
+QSO:    70 PH 2019-11-21 2007 GW0MDQ        59 3 IO83KC          GW4ZAR        55 5 IO83KF
+QSO:    70 PH 2019-11-21 2042 GW0MDQ        59 4 IO83KC          G4ASR         52 46 IO81MX
+QSO:    70 PH 2019-11-21 2044 GW0MDQ        55 5 IO83KC          G4NTY         55 17 IO83TM
+QSO:    70 PH 2019-11-21 2046 GW0MDQ        56 6 IO83KC          G4OAR/A       56 9 IO82PV
+QSO:    70 PH 2019-11-21 2048 GW0MDQ        59 7 IO83KC          M1SMH         59 13 IO83JJ
+QSO:    70 PH 2019-11-21 2114 GW0MDQ        52 8 IO83KC          G3VCA         539 37 IO93MG
+QSO:    70 PH 2019-11-21 2119 GW0MDQ        56 9 IO83KC          G3TDH         569 15 IO83WI
+QSO:    70 PH 2019-11-21 2131 GW0MDQ        55 10 IO83KC         G8DMU/P       53 70 IO94CB
+QSO:    70 PH 2019-11-21 2205 GW0MDQ        55 11 IO83KC         G4HGT/P       549 80 IO93BV
+QSO:    70 CW 2019-11-21 2216 GW0MDQ        559 12 IO83KC        G4ODA         539 68 IO92WS
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0IWI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO90AT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180510&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5089; excluded rows=0.
+QSO:    50 PH 2018-05-10 1913 M0IWI         56 1 IO90AT          G0FVH         55 3 IO80XR
+QSO:    50 PH 2018-05-10 2100 M0IWI         59 2 IO90AT          G4WEY         59 14 IO90AS
+QSO:    50 PH 2018-05-10 2103 M0IWI         59 3 IO90AT          G3PFM         59 22 IO80XS
+QSO:    50 PH 2018-05-10 2110 M0IWI         53 4 IO90AT          G6DOD         59 62 IO90JO
+END-OF-LOG:

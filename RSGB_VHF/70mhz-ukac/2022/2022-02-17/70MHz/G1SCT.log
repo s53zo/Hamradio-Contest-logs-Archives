@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G1SCT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92XT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=220217&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2382; excluded rows=2.
+QSO:    70 PH 2022-02-17 2002 G1SCT         59 1 IO92XT          G3VCA         59 3 IO93MG
+QSO:    70 PH 2022-02-17 2004 G1SCT         59 2 IO92XT          G4FZN/P       58 6 IO94JF
+QSO:    70 PH 2022-02-17 2023 G1SCT         59 3 IO92XT          G4TVR         57 27 IO92CI
+QSO:    70 PH 2022-02-17 2025 G1SCT         59 4 IO92XT          G4CLA         57 41 IO92JL
+QSO:    70 PH 2022-02-17 2046 G1SCT         51 5 IO92XT          G4HGT         53 26 IO93DV
+QSO:    70 PH 2022-02-17 2053 G1SCT         59 6 IO92XT          G4ODA         59 16 IO92WS
+QSO:    70 PH 2022-02-17 2055 G1SCT         55 7 IO92XT          M0WGD         55 12 IO93QE
+QSO:    70 PH 2022-02-17 2056 G1SCT         52 8 IO92XT          G4HIV         52 6 IO93QE
+QSO:    70 CW 2022-02-17 2111 G1SCT         599 9 IO92XT         G4LPP         599 27 JO02SS
+END-OF-LOG:

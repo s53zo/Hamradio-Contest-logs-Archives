@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G3PHO
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO93GG
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=190723&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=126; excluded rows=0.
+QSO:   10G PH 2019-07-23 1850 G3PHO         53 1 IO93GG          G4CLA         53 4 IO92JL
+QSO:   10G CW 2019-07-23 1901 G3PHO         519 2 IO93GG         G3UVR         519 6 IO83KH
+QSO:   10G PH 2019-07-23 1925 G3PHO         55 3 IO93GG          M0GHZ         55 5 IO81VK
+QSO:   10G CW 2019-07-23 1933 G3PHO         559 4 IO93GG         G4ASR/P       559 9 IO81FD
+QSO:   10G CW 2019-07-23 1946 G3PHO         519 5 IO93GG         G3YJR         519 4 IO93FJ
+QSO:   10G CW 2019-07-23 1954 G3PHO         559 6 IO93GG         G3YKI         569 6 IO92BD
+QSO:   10G PH 2019-07-23 2006 G3PHO         55 7 IO93GG          G0HEL/P       52 6 IO81WG
+QSO:   10G PH 2019-07-23 2010 G3PHO         58 8 IO93GG          G3VKV         58 6 IO81XV
+END-OF-LOG:

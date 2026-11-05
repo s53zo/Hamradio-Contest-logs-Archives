@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-2-HOURS
+CALLSIGN: M7REV
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO82
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%282+hours%29&Date=230308&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=563; excluded rows=0.
+QSO:   432 FT8 2023-03-08 1908 M7REV         -06 IO82             G4VPD         -13 IO92
+QSO:   432 FT8 2023-03-08 1910 M7REV         -03 IO82             G0TFD         +20 IO82
+QSO:   432 FT8 2023-03-08 1921 M7REV         -12 IO82             G3ZPB         -20 IO91
+QSO:   432 FT8 2023-03-08 1927 M7REV         -02 IO82             2E1FMS        -09 IO82
+QSO:   432 FT8 2023-03-08 1934 M7REV         -11 IO82             M0IEP         -06 IO91
+QSO:   432 FT8 2023-03-08 1935 M7REV         -12 IO82             G5MAT         -11 IO92
+QSO:   432 FT8 2023-03-08 1946 M7REV         -07 IO82             G4EII         -07 IO83
+QSO:   432 FT8 2023-03-08 2018 M7REV         -18 IO82             G4ZTR         -13 JO01
+QSO:   432 FT8 2023-03-08 2020 M7REV         -18 IO82             G4NBS         -13 JO02
+QSO:   432 FT8 2023-03-08 2034 M7REV         -16 IO82             G0XDI         -17 IO91
+QSO:   432 FT8 2023-03-08 2038 M7REV         -14 IO82             G4PMZ         -16 IO91
+QSO:   432 FT8 2023-03-08 2042 M7REV         -14 IO82             M0NPT         -09 IO92
+QSO:   432 FT8 2023-03-08 2043 M7REV         -09 IO82             G0LGS         -09 IO81
+END-OF-LOG:

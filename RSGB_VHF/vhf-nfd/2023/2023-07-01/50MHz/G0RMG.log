@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G0RMG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92AG
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3729; excluded rows=1.
+QSO:    50 PH 2023-07-01 1951 G0RMG         53 1 IO92AG          EI9E/P        59 183 IO62OM
+QSO:    50 PH 2023-07-01 1958 G0RMG         53 2 IO92AG          SN9J          59 41 JO90GE
+QSO:    50 PH 2023-07-01 2002 G0RMG         55 3 IO92AG          G2BQY/P       59 179 IO81RF
+QSO:    50 PH 2023-07-01 2004 G0RMG         53 4 IO92AG          GW3ZTT/P      59 97 IO82KW
+QSO:    50 PH 2023-07-01 2042 G0RMG         58 5 IO92AG          G3ZME/P       59 109 IO82NN
+QSO:    50 PH 2023-07-01 2044 G0RMG         54 6 IO92AG          GW4SHF        59 77 IO82HP
+QSO:    50 PH 2023-07-01 2046 G0RMG         55 7 IO92AG          G3CKR/P       59 130 IO93AD
+END-OF-LOG:

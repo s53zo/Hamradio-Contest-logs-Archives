@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2E0OUR
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91TM
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=190305&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=371; excluded rows=0.
+QSO:   144 FM 2019-03-05 1901 2E0OUR        59 1 IO91TM          G1MZD         59 1 IO92NB
+QSO:   144 FM 2019-03-05 1903 2E0OUR        59 2 IO91TM          G0ACK         59 1 IO91TN
+QSO:   144 FM 2019-03-05 1914 2E0OUR        58 3 IO91TM          G1YBB/P       59 7 IO82LB
+QSO:   144 FM 2019-03-05 1917 2E0OUR        55 4 IO91TM          2E0PUT/P      56 7 IO90KQ
+QSO:   144 FM 2019-03-05 1918 2E0OUR        59 5 IO91TM          M0NVS/P       59 1 IO91QU
+QSO:   144 FM 2019-03-05 1921 2E0OUR        57 6 IO91TM          G4ODA         59 9 IO92WS
+QSO:   144 FM 2019-03-05 1923 2E0OUR        57 7 IO91TM          G4FZN/P       59 5 IO94JF
+QSO:   144 FM 2019-03-05 1923 2E0OUR        59 8 IO91TM          2E0LPZ        59 2 IO91UN
+QSO:   144 FM 2019-03-05 1933 2E0OUR        59 9 IO91TM          G8GYX         59 9 IO91VH
+QSO:   144 FM 2019-03-05 1952 2E0OUR        59 10 IO91TM         G8LZE         59 4 IO91SO
+END-OF-LOG:

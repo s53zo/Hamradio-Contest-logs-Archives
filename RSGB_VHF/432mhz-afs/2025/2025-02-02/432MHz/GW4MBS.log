@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: GW4MBS
+CATEGORY-MODE: CW
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO71XW
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=4480; excluded rows=1.
+QSO:   432 CW 2025-02-02 1158 GW4MBS        339 1 IO71XW         G4CWH/P       559 90 IO92XA
+QSO:   432 CW 2025-02-02 1240 GW4MBS        539 2 IO71XW         G0NZI/P       559 49 IO92FM
+QSO:   432 CW 2025-02-02 1246 GW4MBS        599 3 IO71XW         G4ODA         599 117 IO92WS
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-LOW-POWER
+CALLSIGN: G0KYS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO80GO
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+Low+Power&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2773; excluded rows=0.
+QSO:   144 PH 2023-08-05 1635 G0KYS         59 1 IO80GO EX       TM5R          59 160 JN19BQ
+QSO:   144 PH 2023-08-05 1637 G0KYS         57 2 IO80GO EX       F5SGT/P       55 75 IN88KD
+QSO:   144 PH 2023-08-05 1644 G0KYS         54 3 IO80GO EX       M5IC/P        56 39 JO01DJ DA
+QSO:   144 PH 2023-08-05 1647 G0KYS         59 4 IO80GO EX       M0BAO/P       59 35 IO80PT DT
+QSO:   144 PH 2023-08-05 1649 G0KYS         52 5 IO80GO EX       G0XDI         53 60 IO91RQ HP
+QSO:   144 PH 2023-08-05 1655 G0KYS         51 6 IO80GO EX       G0EAK/P       59 63 IO93NI DN
+END-OF-LOG:

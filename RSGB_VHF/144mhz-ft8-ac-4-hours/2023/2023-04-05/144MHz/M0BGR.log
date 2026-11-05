@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: M0BGR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=230405&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=883; excluded rows=0.
+QSO:   144 FT8 2023-04-05 1811 M0BGR         +03 JO01             M6DRS         -19 JO01
+QSO:   144 FT8 2023-04-05 1834 M0BGR         +21 JO01             M0CFV         +15 IO91
+QSO:   144 FT8 2023-04-05 1839 M0BGR         +11 JO01             G0BIX         +02 JO01
+QSO:   144 FT8 2023-04-05 1851 M0BGR         +28 JO01             G7WIR         +15 JO01
+QSO:   144 FT8 2023-04-05 1915 M0BGR         -04 JO01             G3WZK         -03 IO91
+QSO:   144 FT8 2023-04-05 1927 M0BGR         -12 JO01             G6HIE         -16 JO00
+QSO:   144 FT8 2023-04-05 1943 M0BGR         +06 JO01             M0IEP         +08 IO91
+QSO:   144 FT8 2023-04-05 1945 M0BGR         +08 JO01             G7RDX         -08 IO91
+QSO:   144 FT8 2023-04-05 1954 M0BGR         -11 JO01             G3WAG/P       -17 IO82
+QSO:   144 FT8 2023-04-05 1957 M0BGR         +01 JO01             G4ZTR         -18 JO01
+QSO:   144 FT8 2023-04-05 2008 M0BGR         +12 JO01             F4FET         -10 JO00
+QSO:   144 FT8 2023-04-05 2014 M0BGR         -11 JO01             G4FFY         -23 JO01
+QSO:   144 FT8 2023-04-05 2031 M0BGR         +01 JO01             G0GJV         -13 IO91
+QSO:   144 FT8 2023-04-05 2035 M0BGR         -01 JO01             G4DCV         -18 IO91
+QSO:   144 FT8 2023-04-05 2037 M0BGR         -03 JO01             G8IQL         -22 IO90
+QSO:   144 FT8 2023-04-05 2047 M0BGR         +02 JO01             G0JJG         -09 JO02
+QSO:   144 FT8 2023-04-05 2048 M0BGR         +00 JO01             G3YDY         +07 JO01
+QSO:   144 FT8 2023-04-05 2050 M0BGR         +01 JO01             G0XDI         -14 IO91
+END-OF-LOG:

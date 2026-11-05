@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M1DDD
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93DG
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210302&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1123; excluded rows=1.
+QSO:   144 FM 2021-03-02 1917 M1DDD         55 1 IO93DG          M7ALE         51 4 IO93NR
+QSO:   144 FM 2021-03-02 1924 M1DDD         57 2 IO93DG          G8EOP         57 12 IO93EQ
+QSO:   144 FM 2021-03-02 1928 M1DDD         55 3 IO93DG          2W0JYN        51 7 IO83LA
+QSO:   144 FM 2021-03-02 1931 M1DDD         59 4 IO93DG          G3SQQ         59 8 IO93JC
+QSO:   144 FM 2021-03-02 1932 M1DDD         57 5 IO93DG          GW4ZAR        57 18 IO83KF
+QSO:   144 FM 2021-03-02 1933 M1DDD         59 6 IO93DG          GW8ASD        59 17 IO83LB
+QSO:   144 FM 2021-03-02 1952 M1DDD         59 7 IO93DG          G0JCC         59 42 IO82MA
+END-OF-LOG:

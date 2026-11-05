@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0CYX
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90LS
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230307&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=811; excluded rows=1.
+QSO:   144 FM 2023-03-07 1901 M0CYX         56 1 IO90LS          M7SUX/P       59 1 IO90MX
+QSO:   144 FM 2023-03-07 1905 M0CYX         54 2 IO90LS          G0WEJ         57 1 IO90LV
+QSO:   144 FM 2023-03-07 1909 M0CYX         57 3 IO90LS          G4SPS         59 4 IO90JT
+QSO:   144 FM 2023-03-07 1913 M0CYX         59 4 IO90LS          G7LMJ/P       59 5 IO90LU
+END-OF-LOG:

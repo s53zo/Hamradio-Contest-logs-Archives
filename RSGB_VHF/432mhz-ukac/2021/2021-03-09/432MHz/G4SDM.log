@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4SDM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91SI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210309&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7837; excluded rows=1.
+QSO:   432 PH 2021-03-09 2109 G4SDM         57 1 IO91SI          M0SAT         57 46 IO91TP
+QSO:   432 PH 2021-03-09 2112 G4SDM         53 2 IO91SI          M0MCV         55 35 JO01AL
+QSO:   432 PH 2021-03-09 2114 G4SDM         55 3 IO91SI          G4SJH         55 23 IO91PI
+QSO:   432 PH 2021-03-09 2116 G4SDM         59 4 IO91SI          G4GFI         59 65 IO91VH
+QSO:   432 PH 2021-03-09 2118 G4SDM         54 5 IO91SI          G3MEH         54 63 IO91QS
+QSO:   432 PH 2021-03-09 2125 G4SDM         59 6 IO91SI          G4YPC         57 32 IO91RH
+QSO:   432 PH 2021-03-09 2138 G4SDM         54 7 IO91SI          G0XDI         54 86 IO91RQ
+QSO:   432 PH 2021-03-09 2143 G4SDM         55 8 IO91SI          G8GYX         55 71 IO91VH
+END-OF-LOG:

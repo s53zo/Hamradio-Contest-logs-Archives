@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: M6OPV/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO94DO
+CATEGORY: MS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3183; excluded rows=2.
+QSO:    70 PH 2019-07-06 1210 M6OPV/P       59 1 IO94DO          G4DXP         58 1 IO94HO
+QSO:    70 PH 2019-07-06 1223 M6OPV/P       59 2 IO94DO          2E0BJA        59 1 IO94DR
+END-OF-LOG:

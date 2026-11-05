@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: F4HRD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO00XX
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4656; excluded rows=3.
+QSO:   144 PH 2017-03-04 1824 F4HRD         59 1 JO00XX          G3M           59 220 JO01QD
+QSO:   144 PH 2017-03-04 1827 F4HRD         59 2 JO00XX          G8T           57 252 JO01KJ
+QSO:   144 PH 2017-03-04 1830 F4HRD         59 3 JO00XX          M0WCO         55 89 JO00EW
+QSO:   144 PH 2017-03-04 1835 F4HRD         55 4 JO00XX          G8W           53 137 IO90JO
+QSO:   144 PH 2017-03-04 1839 F4HRD         59 5 JO00XX          F6HPP/P       59 197 JN19PG
+QSO:   144 PH 2017-03-04 1923 F4HRD         55 6 JO00XX          M0MDG/P       56 18 IO91MP
+QSO:   144 PH 2017-03-04 2050 F4HRD         55 7 JO00XX          G4JED         53 22 JO01CF
+END-OF-LOG:

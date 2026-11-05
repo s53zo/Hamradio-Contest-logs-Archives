@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CHRISTMAS-CONTEST
+CALLSIGN: G3YJR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93FJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Christmas+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=491; excluded rows=2.
+QSO:    50 PH 2022-12-26 1411 G3YJR         59 1 IO93FJ          G0VUH         59 1 IO93IL
+QSO:    50 PH 2022-12-26 1420 G3YJR         58 2 IO93FJ          G4ODA         589 10 IO92WS
+QSO:    50 CW 2022-12-26 1429 G3YJR         589 3 IO93FJ         G4HIV         589 1 IO93QE
+QSO:    50 PH 2022-12-26 1441 G3YJR         59 4 IO93FJ          G0CDA         59 7 IO83SJ
+END-OF-LOG:

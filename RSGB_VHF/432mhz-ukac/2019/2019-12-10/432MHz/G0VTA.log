@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0VTA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91CN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=191210&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3490; excluded rows=1.
+QSO:   432 PH 2019-12-10 2001 G0VTA         57 1 IO91CN          M0GHZ         57 2 IO81VK
+QSO:   432 PH 2019-12-10 2015 G0VTA         53 2 IO91CN          G0SKA         53 9 IO91OQ
+QSO:   432 PH 2019-12-10 2025 G0VTA         55 3 IO91CN          G8DVK         55 16 IO91IN
+QSO:   432 PH 2019-12-10 2029 G0VTA         56 4 IO91CN          G3IRA         56 2 IO91DM
+QSO:   432 PH 2019-12-10 2033 G0VTA         59 5 IO91CN          G0BNC/P       59 2 IO91EU
+QSO:   432 PH 2019-12-10 2108 G0VTA         59 6 IO91CN          2E0OUT/P      59 12 IO81WO
+QSO:   432 PH 2019-12-10 2204 G0VTA         57 7 IO91CN          G4ODA         57 145 IO92WS
+END-OF-LOG:

@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G8PMA
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210901&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1213; excluded rows=0.
+QSO:   144 FT8 2021-09-01 1926 G8PMA         -05 IO92             2E0FTX        -03 JO01
+QSO:   144 FT8 2021-09-01 1928 G8PMA         -03 IO92             M0ABT         -07 JO00
+QSO:   144 FT8 2021-09-01 1931 G8PMA         -17 IO92             2E0DBS        -16 JO02
+QSO:   144 FT8 2021-09-01 1944 G8PMA         -13 IO92             G1IVL         -23 IO82
+END-OF-LOG:

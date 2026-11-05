@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4CIB
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81VX
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160426&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5602; excluded rows=4.
+QSO:    50 PH 2016-04-26 1927 G4CIB         59 1 IO81VX          M6XMM         59 1 IO81WV
+QSO:    50 PH 2016-04-26 1933 G4CIB         55 2 IO81VX          G4ELJ         53 24 IO91PH
+QSO:    50 PH 2016-04-26 1937 G4CIB         56 3 IO81VX          2E0LDZ/P      56 50 IO91MP
+QSO:    50 PH 2016-04-26 1947 G4CIB         59 4 IO81VX          G8CMU         59 5 IO81RW
+QSO:    50 PH 2016-04-26 1952 G4CIB         59 5 IO81VX          M0RKX/P       59 12 IO92BA
+QSO:    50 PH 2016-04-26 2015 G4CIB         59 6 IO81VX          M0HFY         59 9 IO81UT
+QSO:    50 PH 2016-04-26 2016 G4CIB         59 7 IO81VX          G7FMF         59 3 IO82TI
+QSO:    50 PH 2016-04-26 2016 G4CIB         55 8 IO81VX          G4IDF         55 9 IO82VE
+QSO:    50 PH 2016-04-26 2017 G4CIB         55 9 IO81VX          M0BUL         55 2 IO82NG
+QSO:    50 PH 2016-04-26 2020 G4CIB         59 10 IO81VX         G3TA          59 3 IO81XS
+QSO:    50 PH 2016-04-26 2039 G4CIB         59 11 IO81VX         G3XMM         55 2 IO81VV
+QSO:    50 PH 2016-04-26 2042 G4CIB         59 12 IO81VX         G0ULH         59 1 IO81VU
+QSO:    50 PH 2016-04-26 2045 G4CIB         53 13 IO81VX         2E0JIA        59 2 IO81WU
+QSO:    50 PH 2016-04-26 2053 G4CIB         55 14 IO81VX         G8XYJ         55 10 IO82PJ
+QSO:    50 CW 2016-04-26 2115 G4CIB         559 15 IO81VX        G3NYY         599 1 IO82WA
+END-OF-LOG:

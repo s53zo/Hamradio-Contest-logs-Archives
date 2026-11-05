@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85IW
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=221206&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9135; excluded rows=3.
+QSO:   144 PH 2022-12-06 2009 GM4DIJ        59 1 IO85IW          G4GUF         59 5 IO85EP
+QSO:   144 PH 2022-12-06 2013 GM4DIJ        59 2 IO85IW          GM3SEK        59 8 IO74SR
+QSO:   144 PH 2022-12-06 2022 GM4DIJ        55 3 IO85IW          G8REQ         57 15 IO83KI
+QSO:   144 PH 2022-12-06 2032 GM4DIJ        55 4 IO85IW          GW8ASD        52 17 IO83LB
+QSO:   144 PH 2022-12-06 2039 GM4DIJ        59 5 IO85IW          G4CLA         59 86 IO92JL
+QSO:   144 PH 2022-12-06 2050 GM4DIJ        52 6 IO85IW          GM4IGS        52 8 IO75QN
+QSO:   144 PH 2022-12-06 2055 GM4DIJ        55 7 IO85IW          G4ODA         56 58 IO92WS
+QSO:   144 PH 2022-12-06 2110 GM4DIJ        57 8 IO85IW          GM4YXI        57 2 IO87WK
+QSO:   144 PH 2022-12-06 2138 GM4DIJ        59 9 IO85IW          GI4SNA        51 77 IO64XM
+QSO:   144 PH 2022-12-06 2145 GM4DIJ        59 10 IO85IW         GM4BYF        59 32 IO85JV
+QSO:   144 PH 2022-12-06 2149 GM4DIJ        59 11 IO85IW         GM6CMQ        59 3 IO86GB
+QSO:   144 CW 2022-12-06 2207 GM4DIJ        539 12 IO85IW        G4ASR/P       559 114 IO82LB
+QSO:   144 PH 2022-12-06 2210 GM4DIJ        55 13 IO85IW         G4FZN/P       55 129 IO94JF
+QSO:   144 CW 2022-12-06 2216 GM4DIJ        539 14 IO85IW        G0LBK         529 101 JO03BD
+END-OF-LOG:

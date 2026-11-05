@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G3UKV
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO82RR
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=231128&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=166; excluded rows=0.
+QSO:  3.4G PH 2023-11-28 2032 G3UKV         52 1 IO82RR          G3VKV         51 2 IO81XV
+QSO:  3.4G PH 2023-11-28 2035 G3UKV         51 2 IO82RR          G4BRK         529 3 IO91HP
+QSO:  3.4G PH 2023-11-28 2054 G3UKV         54 3 IO82RR          G4JLG/P       58 9 IO83RO
+QSO:  3.4G CW 2023-11-28 2111 G3UKV         519 4 IO82RR         G4ODA         539 6 IO92WS
+QSO:  3.4G CW 2023-11-28 2122 G3UKV         519 5 IO82RR         M0GHZ         529 8 IO81VK
+QSO:  3.4G PH 2023-11-28 2134 G3UKV         32 6 IO82RR          G4NTY         55 6 IO83TM
+QSO:  3.4G PH 2023-11-28 2136 G3UKV         53 7 IO82RR          G4AQB         53 5 IO83TN
+QSO:  3.4G PH 2023-11-28 2153 G3UKV         54 8 IO82RR          G1ZAR/P       55 7 IO93EI
+QSO:  3.4G CW 2023-11-28 2158 G3UKV         529 10 IO82RR        G4CLA         539 19 IO92JL
+END-OF-LOG:

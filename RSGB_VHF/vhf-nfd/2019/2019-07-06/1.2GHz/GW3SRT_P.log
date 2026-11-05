@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: GW3SRT/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO82LQ
+CATEGORY: L
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1143; excluded rows=3.
+QSO:  1.2G PH 2019-07-07 0833 GW3SRT/P      59 1 IO82LQ          G3CKR/P       59 68 IO93AD
+QSO:  1.2G PH 2019-07-07 0837 GW3SRT/P      57 2 IO82LQ          G0VHF/P       57 99 JO01PU
+QSO:  1.2G PH 2019-07-07 0920 GW3SRT/P      59 3 IO82LQ          G3PYE/P       57 62 JO02CE
+QSO:  1.2G CW 2019-07-07 1026 GW3SRT/P      559 4 IO82LQ         EI9E/P        559 45 IO62OM
+QSO:  1.2G PH 2019-07-07 1045 GW3SRT/P      59 5 IO82LQ          G3ZME/P       59 41 IO82NN
+QSO:  1.2G CW 2019-07-07 1120 GW3SRT/P      559 6 IO82LQ         M5MK/P        579 24 IO92RA
+QSO:  1.2G PH 2019-07-07 1224 GW3SRT/P      59 7 IO82LQ          GW3ZTT/P      59 28 IO82KW
+QSO:  1.2G CW 2019-07-07 1245 GW3SRT/P      599 8 IO82LQ         G3OHH         559 8 IO83VC
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G4HGV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91CO
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6102; excluded rows=2.
+QSO:   144 PH 2019-12-08 1238 G4HGV         57 1 IO91CO          G0LTG         57 7 IO81RF
+QSO:   144 PH 2019-12-08 1242 G4HGV         57 2 IO91CO          M0GHZ/P       57 6 IO81UN
+QSO:   144 PH 2019-12-08 1523 G4HGV         57 3 IO91CO          G4GFI         52 90 IO91VH
+QSO:   144 PH 2019-12-08 1530 G4HGV         56 4 IO91CO          2E0OUT        56 56 IO81WO
+QSO:   144 PH 2019-12-08 1544 G4HGV         56 5 IO91CO          G4BRK         56 59 IO91HP
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G3TCT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO81QC
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=759; excluded rows=1.
+QSO:  1.2G PH 2018-07-07 1601 G3TCT         59 1 IO81QC          G4RFR/P       59 10 IO80ST
+QSO:  1.2G PH 2018-07-07 1603 G3TCT         59 2 IO81QC          G2BQY/P       59 19 IO81RF
+QSO:  1.2G PH 2018-07-07 1610 G3TCT         59 3 IO81QC          EI9E/P        59 14 IO62OM
+QSO:  1.2G PH 2018-07-07 1627 G3TCT         57 4 IO81QC          G0FBB/P       57 20 JO01LD
+QSO:  1.2G PH 2018-07-07 1635 G3TCT         58 5 IO81QC          G0VHF/P       57 46 JO01PU
+QSO:  1.2G PH 2018-07-07 1637 G3TCT         57 6 IO81QC          G3TCU         57 9 IO91QE
+QSO:  1.2G PH 2018-07-07 1649 G3TCT         56 7 IO81QC          G3CKR/P       55 20 IO93AD
+QSO:  1.2G PH 2018-07-07 1658 G3TCT         55 8 IO81QC          G3OHM/P       55 17 IO92GB
+QSO:  1.2G PH 2018-07-07 1722 G3TCT         59 9 IO81QC          G4KIY         59 11 IO92WN
+QSO:  1.2G PH 2018-07-07 1944 G3TCT         56 10 IO81QC         G3ZME/P       59 19 IO82NN
+QSO:  1.2G PH 2018-07-07 2010 G3TCT         59 11 IO81QC         G3PYE/P       59 42 JO02CE
+QSO:  1.2G PH 2018-07-07 2015 G3TCT         57 12 IO81QC         G3PIA/P       55 10 IO91IN
+QSO:  1.2G PH 2018-07-08 1239 G3TCT         58 13 IO81QC         G0IVR/P       57 7 IO91HB
+QSO:  1.2G CW 2018-07-08 1254 G3TCT         549 14 IO81QC        GM3HAM/P      539 30 IO74WV
+END-OF-LOG:

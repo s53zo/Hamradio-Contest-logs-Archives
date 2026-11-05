@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: 2E0GNC
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91FF
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220503&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13100; excluded rows=3.
+QSO:   144 PH 2022-05-03 1903 2E0GNC        58 1 IO91FF          M0NVS/P       58 4 IO91LT
+QSO:   144 PH 2022-05-03 1907 2E0GNC        52 2 IO91FF          MW1LCR/P      51 9 IO81LT
+QSO:   144 PH 2022-05-03 1908 2E0GNC        55 3 IO91FF          G0LTG         55 8 IO81RF
+QSO:   144 PH 2022-05-03 1912 2E0GNC        55 4 IO91FF          M0UGA/P       55 20 IO91GI
+QSO:   144 PH 2022-05-03 1916 2E0GNC        57 5 IO91FF          G1DFL/P       57 32 IO91LO
+QSO:   144 PH 2022-05-03 1926 2E0GNC        59 6 IO91FF          G0HEL/P       59 32 IO81WG
+QSO:   144 PH 2022-05-03 1930 2E0GNC        59 7 IO91FF          G8XDD/P       59 14 IO90MX
+QSO:   144 PH 2022-05-03 1948 2E0GNC        59 8 IO91FF          M0WLF         59 40 IO81QJ
+QSO:   144 PH 2022-05-03 1952 2E0GNC        57 9 IO91FF          2E0NEY        57 48 IO81VK
+QSO:   144 PH 2022-05-03 2021 2E0GNC        55 10 IO91FF         G4LDL/P       55 35 IO91DM
+QSO:   144 PH 2022-05-03 2044 2E0GNC        56 11 IO91FF         G8GYX         56 47 IO91VH
+QSO:   144 PH 2022-05-03 2047 2E0GNC        54 12 IO91FF         G4RUL/P       54 107 JO00DR
+QSO:   144 PH 2022-05-03 2116 2E0GNC        59 13 IO91FF         G0SKA         59 144 IO91OQ
+QSO:   144 PH 2022-05-03 2119 2E0GNC        59 14 IO91FF         G3LTF         59 20 IO91GG
+QSO:   144 PH 2022-05-03 2122 2E0GNC        59 15 IO91FF         M0ALW/P       59 43 IO81RF
+END-OF-LOG:

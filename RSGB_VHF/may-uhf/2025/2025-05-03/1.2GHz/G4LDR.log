@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G4LDR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91EC
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=143; excluded rows=0.
+QSO:  1.2G PH 2025-05-03 1509 G4LDR         55 1 IO91EC          G8XVJ/P       57 11 IO93AD
+QSO:  1.2G PH 2025-05-03 1547 G4LDR         59 2 IO91EC          G8IKP/P       59 2 IO80QR
+QSO:  1.2G PH 2025-05-03 1615 G4LDR         52 3 IO91EC          DL5EBS        52 4 JO31NH
+QSO:  1.2G PH 2025-05-04 0908 G4LDR         59 4 IO91EC          M0HNA/P       59 10 IO91RF
+QSO:  1.2G PH 2025-05-04 0914 G4LDR         55 5 IO91EC          PI4Z          55 13 JO11WM
+QSO:  1.2G PH 2025-05-04 0928 G4LDR         54 6 IO91EC          GW4JQP        54 3 IO71KR
+QSO:  1.2G PH 2025-05-04 0940 G4LDR         59 7 IO91EC          G3TCT         59 7 IO80QC
+END-OF-LOG:

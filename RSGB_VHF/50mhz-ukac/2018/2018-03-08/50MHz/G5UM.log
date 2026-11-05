@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G5UM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92KR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=180308&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3778; excluded rows=2.
+QSO:    50 PH 2018-03-08 2010 G5UM          57 1 IO92KR          2E0DXK/P      57 9 IO93FG
+QSO:    50 PH 2018-03-08 2017 G5UM          59 2 IO92KR          G4CLA         59 16 IO92JL
+QSO:    50 PH 2018-03-08 2018 G5UM          58 3 IO92KR          G3VCA         58 14 IO93MG
+QSO:    50 PH 2018-03-08 2025 G5UM          59 4 IO92KR          M1MHZ         59 33 IO92WV
+QSO:    50 PH 2018-03-08 2029 G5UM          59 5 IO92KR          G4VCN         59 1 IO92JS
+QSO:    50 PH 2018-03-08 2036 G5UM          57 6 IO92KR          G4CLB         57 7 IO92HM
+QSO:    50 CW 2018-03-08 2041 G5UM          529 7 IO92KR         G0GGU         579 4 IO92OG
+QSO:    50 CW 2018-03-08 2050 G5UM          599 8 IO92KR         G0WUS         599 2 IO92KO
+QSO:    50 CW 2018-03-08 2054 G5UM          569 9 IO92KR         G4EHT         579 6 IO92CQ
+QSO:    50 CW 2018-03-08 2058 G5UM          579 10 IO92KR        G3PHO         579 31 IO93GG
+QSO:    50 PH 2018-03-08 2102 G5UM          58 11 IO92KR         G4CAJ         58 2 IO92HV
+QSO:    50 PH 2018-03-08 2106 G5UM          59 12 IO92KR         G7RIS/P       59 28 IO93DA
+QSO:    50 PH 2018-03-08 2114 G5UM          58 13 IO92KR         G4ASR         58 71 IO81MX
+QSO:    50 PH 2018-03-08 2126 G5UM          59 14 IO92KR         G4DZL         59 6 IO92IS
+END-OF-LOG:

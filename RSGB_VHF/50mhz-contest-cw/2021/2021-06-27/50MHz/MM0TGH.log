@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CONTEST-CW
+CALLSIGN: MM0TGH
+CATEGORY-MODE: CW
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO87IK
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Contest+CW&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=486; excluded rows=0.
+QSO:    50 CW 2021-06-27 0909 MM0TGH        599 1 IO87IK         GM3WOJ        599 1 IO77WS
+QSO:    50 CW 2021-06-27 0927 MM0TGH        599 2 IO87IK         GM4ZUK/P      559 1 IP90JD
+QSO:    50 CW 2021-06-27 0956 MM0TGH        559 3 IO87IK         GM3WIJ        559 2 IO87WD
+QSO:    50 CW 2021-06-27 1121 MM0TGH        599 4 IO87IK         GM4VVX        599 2 IO78TA
+QSO:    50 CW 2021-06-27 1130 MM0TGH        559 5 IO87IK         GM4ODA/P      579 3 IO99IV
+END-OF-LOG:

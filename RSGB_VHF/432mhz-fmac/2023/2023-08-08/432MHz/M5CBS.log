@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: M5CBS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO91DN
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=230808&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=881; excluded rows=2.
+QSO:   432 FM 2023-08-08 1800 M5CBS         59 1 IO91DN          2E0WHQ/P      59 1 IO91CL
+QSO:   432 FM 2023-08-08 1801 M5CBS         59 2 IO91DN          M0KYB/P       59 1 IO91FN
+QSO:   432 FM 2023-08-08 1802 M5CBS         59 3 IO91DN          2E0YCC/P      59 2 IO91CM
+QSO:   432 FM 2023-08-08 1805 M5CBS         59 4 IO91DN          M1DST         59 7 IO91BN
+QSO:   432 FM 2023-08-08 1814 M5CBS         59 5 IO91DN          2E0CYS        59 5 IO91CN
+QSO:   432 FM 2023-08-08 1830 M5CBS         59 6 IO91DN          G4LDL/P       59 8 IO91DM
+QSO:   432 FM 2023-08-08 1836 M5CBS         59 7 IO91DN          G4OED         59 13 IO91CN
+QSO:   432 FM 2023-08-08 1840 M5CBS         59 8 IO91DN          G8EFK         57 15 IO91CN
+END-OF-LOG:

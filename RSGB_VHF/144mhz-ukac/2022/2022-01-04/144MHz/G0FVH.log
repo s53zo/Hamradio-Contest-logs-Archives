@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0FVH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80XR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220104&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11936; excluded rows=1.
+QSO:   144 PH 2022-01-04 2003 G0FVH         59 1 IO80XR          G4WEY         59 3 IO90AS
+QSO:   144 PH 2022-01-04 2004 G0FVH         59 2 IO80XR          M0RJL         59 3 IO90AR
+QSO:   144 PH 2022-01-04 2004 G0FVH         55 3 IO80XR          M0NTV         57 3 IO90BU
+QSO:   144 PH 2022-01-04 2009 G0FVH         57 4 IO80XR          G4GTH         58 3 IO90BV
+QSO:   144 PH 2022-01-04 2014 G0FVH         55 5 IO80XR          G3SED         55 15 IO90IV
+QSO:   144 PH 2022-01-04 2025 G0FVH         59 6 IO80XR          F1BHL/P       59 31 IN99CQ
+QSO:   144 PH 2022-01-04 2040 G0FVH         55 7 IO80XR          G4LDR         56 6 IO91EC
+QSO:   144 PH 2022-01-04 2044 G0FVH         57 8 IO80XR          M0VXX         59 3 IO90AO
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: GW4MBS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO71XW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=210921&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3740; excluded rows=1.
+QSO:  1.2G PH 2021-09-21 2001 GW4MBS        53 1 IO71XW          G0FVI/P       55 22 IO93RD
+QSO:  1.2G PH 2021-09-21 2011 GW4MBS        55 2 IO71XW          GW0RHC        56 10 IO71UN
+QSO:  1.2G PH 2021-09-21 2022 GW4MBS        52 3 IO71XW          G1PPA/P       52 42 JO03AE
+QSO:  1.2G PH 2021-09-21 2041 GW4MBS        53 4 IO71XW          M0AFJ/P       55 33 IO70JF
+QSO:  1.2G CW 2021-09-21 2102 GW4MBS        529 5 IO71XW         GW4JQP        539 22 IO71KR
+QSO:  1.2G PH 2021-09-21 2121 GW4MBS        52 6 IO71XW          G4CLA         55 110 IO92JL
+END-OF-LOG:

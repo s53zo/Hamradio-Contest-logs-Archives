@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G4LZD
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO80EI
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210601&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1054; excluded rows=0.
+QSO:   144 FM 2021-06-01 1801 G4LZD         59 1 IO80EI          G0UHY         59 3 IO80EK
+QSO:   144 FM 2021-06-01 1804 G4LZD         59 2 IO80EI          G3WCB         59 3 IO80EI
+QSO:   144 FM 2021-06-01 1805 G4LZD         59 3 IO80EI          G8XST         59 3 IO80FL
+QSO:   144 FM 2021-06-01 1814 G4LZD         59 4 IO80EI          M7NZL         59 3 IO80FK
+QSO:   144 FM 2021-06-01 1820 G4LZD         59 5 IO80EI          M1CJE         59 4 IO80OT
+QSO:   144 FM 2021-06-01 1830 G4LZD         59 6 IO80EI          G4CLN         59 4 IO80FK
+END-OF-LOG:

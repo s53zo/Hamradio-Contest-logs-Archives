@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-AFS-CONTEST
+CALLSIGN: G0GRI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO80SX
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+AFS+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2748; excluded rows=2.
+QSO:    70 PH 2019-09-15 0929 G0GRI         53 1 IO80SX          G2BQY/P       57 34 IO81RF
+QSO:    70 PH 2019-09-15 0930 G0GRI         53 2 IO80SX          G3NPI         59 17 IO92MA
+QSO:    70 PH 2019-09-15 0933 G0GRI         43 3 IO80SX          G3TKF/P       59 28 IO81RI
+QSO:    70 PH 2019-09-15 0934 G0GRI         54 4 IO80SX          M0GHZ         57 20 IO81VK
+QSO:    70 PH 2019-09-15 1000 G0GRI         53 5 IO80SX          G4CWH/P       57 34 IO92XA
+QSO:    70 PH 2019-09-15 1003 G0GRI         55 6 IO80SX          G4ODA         59 56 IO92WS
+QSO:    70 PH 2019-09-15 1125 G0GRI         52 7 IO80SX          M1MHZ         59 66 IO92WV
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4DRS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80UQ
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210311&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3441; excluded rows=1.
+QSO:    50 PH 2021-03-11 2017 G4DRS         59 1 IO80UQ          G3TKF         59 16 IO81RI
+QSO:    50 PH 2021-03-11 2021 G4DRS         52 2 IO80UQ          M0GHZ         54 11 IO81VK
+QSO:    50 PH 2021-03-11 2023 G4DRS         55 3 IO80UQ          G3SED         55 14 IO90IV
+QSO:    50 PH 2021-03-11 2031 G4DRS         55 4 IO80UQ          G3VYI         57 10 IO91OF
+QSO:    50 PH 2021-03-11 2037 G4DRS         55 5 IO80UQ          G1DFL         59 11 IO91NL
+QSO:    50 PH 2021-03-11 2115 G4DRS         55 6 IO80UQ          M0CGF         59 16 IO91WI
+QSO:    50 PH 2021-03-11 2142 G4DRS         57 7 IO80UQ          M0BB          57 52 IO91PK
+QSO:    50 PH 2021-03-11 2153 G4DRS         54 8 IO80UQ          G4YPC         53 26 IO91RH
+QSO:    50 PH 2021-03-11 2155 G4DRS         55 9 IO80UQ          G4KQH         57 36 IO92JD
+QSO:    50 PH 2021-03-11 2158 G4DRS         55 10 IO80UQ         G3YDY         55 10 JO01FQ
+END-OF-LOG:

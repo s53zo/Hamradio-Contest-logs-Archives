@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G4VPD
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO92BJ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FMAC&Date=170110&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=221; excluded rows=0.
+QSO:   432 FM 2017-01-10 1901 G4VPD         59 1 IO92BJ          G4ENZ         59 1 IO81VV
+QSO:   432 FM 2017-01-10 1905 G4VPD         59 2 IO92BJ          G7CST         56 1 IO92AO
+QSO:   432 FM 2017-01-10 1906 G4VPD         59 3 IO92BJ          G4PGJ         59 1 IO92ET
+QSO:   432 FM 2017-01-10 1907 G4VPD         59 4 IO92BJ          2E0UAC        59 2 IO92FJ
+QSO:   432 FM 2017-01-10 1908 G4VPD         59 5 IO92BJ          G0NES         59 1 IO92BJ
+QSO:   432 FM 2017-01-10 1910 G4VPD         55 6 IO92BJ          G6AHX         55 1 IO82WA
+QSO:   432 FM 2017-01-10 1935 G4VPD         59 7 IO92BJ          G8OHM         59 3 IO92AJ
+QSO:   432 FM 2017-01-10 1946 G4VPD         59 8 IO92BJ          G1EBW         55 3 IO92II
+END-OF-LOG:

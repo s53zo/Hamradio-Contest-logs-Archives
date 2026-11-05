@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: MM0GHM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75TO
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5229; excluded rows=1.
+QSO:   144 PH 2021-07-04 1008 MM0GHM        59 1 IO75TO          GM4NFC/P      59 9 IO75PJ
+QSO:   144 PH 2021-07-04 1023 MM0GHM        57 2 IO75TO          GM7PKT        41 3 IO76JR
+QSO:   144 PH 2021-07-04 1034 MM0GHM        59 3 IO75TO          GM4PPT        59 17 IO75SK
+QSO:   144 PH 2021-07-04 1142 MM0GHM        55 4 IO75TO          MM7POL/P      55 3 IO85DT
+QSO:   144 PH 2021-07-04 1154 MM0GHM        52 5 IO75TO          GM0HBK        53 7 IO77BC
+QSO:   144 PH 2021-07-04 1158 MM0GHM        55 6 IO75TO          MM0TSS        55 2 IO75US
+END-OF-LOG:

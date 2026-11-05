@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: M0EUK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO95CA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210112&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8205; excluded rows=3.
+QSO:   432 PH 2021-01-12 2001 M0EUK         59 1 IO95CA          G8KPD         59 1 IO95DB
+QSO:   432 PH 2021-01-12 2003 M0EUK         59 2 IO95CA          M0XVF         59 1 IO94EQ
+QSO:   432 PH 2021-01-12 2006 M0EUK         59 3 IO95CA          G3ZWR         59 2 IO94FX
+QSO:   432 PH 2021-01-12 2009 M0EUK         52 4 IO95CA          G8FWY         53 2 IO94ET
+QSO:   432 PH 2021-01-12 2009 M0EUK         56 5 IO95CA          G8AOE         56 3 IO94IM
+QSO:   432 PH 2021-01-12 2020 M0EUK         59 6 IO95CA          G8CYW         59 4 IO94CX
+QSO:   432 PH 2021-01-12 2028 M0EUK         56 7 IO95CA          GM4JTJ        57 19 IO86RP
+QSO:   432 PH 2021-01-12 2035 M0EUK         51 8 IO95CA          GI6ATZ        51 20 IO74AJ
+QSO:   432 PH 2021-01-12 2042 M0EUK         53 9 IO95CA          GM4BYF        57 15 IO85JV
+QSO:   432 PH 2021-01-12 2044 M0EUK         54 10 IO95CA         GM4AFF        54 13 IO86TS
+QSO:   432 PH 2021-01-12 2048 M0EUK         57 11 IO95CA         GM4FVM        57 4 IO85WU
+QSO:   432 PH 2021-01-12 2049 M0EUK         59 12 IO95CA         G8PNN         59 10 IO95EF
+QSO:   432 PH 2021-01-12 2058 M0EUK         56 13 IO95CA         G4KUX         55 29 IO94BP
+QSO:   432 PH 2021-01-12 2129 M0EUK         51 14 IO95CA         G8DMU         54 44 IO93FX
+QSO:   432 PH 2021-01-12 2135 M0EUK         55 15 IO95CA         GD1MIP        56 25 IO74TI
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-CHRISTMAS-CONTEST
+CALLSIGN: GM4PPT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO75SK
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+Christmas+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=491; excluded rows=2.
+QSO:    50 PH 2022-12-26 1416 GM4PPT        59 1 IO75SK          PE1EWR        59 1 JO11SL
+QSO:    50 PH 2022-12-26 1417 GM4PPT        59 2 IO75SK          G4AFF         57 5 JO02LO
+QSO:    50 PH 2022-12-26 1430 GM4PPT        55 3 IO75SK          G4ODA         53 12 IO92WS
+QSO:    50 PH 2022-12-26 1436 GM4PPT        59 4 IO75SK          GM4CXM        57 1 IO75TW
+QSO:    50 PH 2022-12-26 1439 GM4PPT        54 5 IO75SK          G0CDA         55 5 IO83SJ
+END-OF-LOG:

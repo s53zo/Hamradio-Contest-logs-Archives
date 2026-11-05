@@ -1,0 +1,35 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G4SSW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92II
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7394; excluded rows=0.
+QSO:   144 PH 2022-12-04 1007 G4SSW         59 1 IO92II          G8LYB         59 2 IO92JI
+QSO:   144 PH 2022-12-04 1009 G4SSW         59 2 IO92II          M0KNV         59 2 IO92JH
+QSO:   144 PH 2022-12-04 1028 G4SSW         59 3 IO92II          G4ODA         59 41 IO92WS
+QSO:   144 PH 2022-12-04 1031 G4SSW         59 4 IO92II          G0ODQ         59 30 IO91MR
+QSO:   144 PH 2022-12-04 1036 G4SSW         59 5 IO92II          2E0SBM/P      58 8 IO92GH
+QSO:   144 PH 2022-12-04 1041 G4SSW         59 6 IO92II          G3MEH         59 38 IO91QS
+QSO:   144 PH 2022-12-04 1055 G4SSW         56 7 IO92II          M0LYF         56 2 IO93LT
+QSO:   144 PH 2022-12-04 1102 G4SSW         59 8 IO92II          G3SQQ         57 35 IO93JC
+QSO:   144 PH 2022-12-04 1106 G4SSW         59 9 IO92II          G8DOH         59 60 IO92FA
+QSO:   144 PH 2022-12-04 1120 G4SSW         57 10 IO92II         GD8EXI        56 70 IO74PC
+QSO:   144 PH 2022-12-04 1145 G4SSW         59 11 IO92II         GX5BBC        59 17 IO92GM
+QSO:   144 PH 2022-12-04 1148 G4SSW         59 12 IO92II         G1VNB         59 26 IO92GL
+QSO:   144 PH 2022-12-04 1154 G4SSW         59 13 IO92II         M0ICK/P       59 62 IO83RO
+QSO:   144 PH 2022-12-04 1203 G4SSW         55 14 IO92II         GW4CC         56 68 IO71UN
+QSO:   144 PH 2022-12-04 1222 G4SSW         57 15 IO92II         G3XDY         57 87 JO02OB
+QSO:   144 PH 2022-12-04 1228 G4SSW         59 16 IO92II         G0XDI         59 110 IO91RQ
+QSO:   144 PH 2022-12-04 1341 G4SSW         59 17 IO92II         G4CZB/P       59 104 IO92LH
+QSO:   144 PH 2022-12-04 1348 G4SSW         59 18 IO92II         M1MHZ         59 178 IO92WV
+END-OF-LOG:

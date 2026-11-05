@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: M0BAO/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80LV
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160628&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6312; excluded rows=5.
+QSO:    50 PH 2016-06-28 1902 M0BAO/P       59 1 IO80LV          G8XVJ/P       59 3 IO93AD
+QSO:    50 PH 2016-06-28 1905 M0BAO/P       53 2 IO80LV          M0COP/P       53 3 IO82NN
+QSO:    50 PH 2016-06-28 1908 M0BAO/P       53 3 IO80LV          MW0LGE        41 5 IO81NO
+QSO:    50 PH 2016-06-28 1911 M0BAO/P       59 4 IO80LV          G4FJK         59 5 IO80HV
+QSO:    50 PH 2016-06-28 1919 M0BAO/P       53 5 IO80LV          M0IMS         52 5 IO81UI
+QSO:    50 PH 2016-06-28 1920 M0BAO/P       55 6 IO80LV          G4FKA         55 5 IO81SM
+QSO:    50 PH 2016-06-28 1924 M0BAO/P       53 7 IO80LV          G3MEH         42 19 IO91QS
+QSO:    50 PH 2016-06-28 1930 M0BAO/P       55 8 IO80LV          G4CLA         59 28 IO92JL
+QSO:    50 PH 2016-06-28 1937 M0BAO/P       59 9 IO80LV          M0WLF         59 29 IO81QJ
+QSO:    50 PH 2016-06-28 1947 M0BAO/P       59 10 IO80LV         G3WCB/P       59 9 IO80EJ
+QSO:    50 PH 2016-06-28 1959 M0BAO/P       55 11 IO80LV         G0ODQ         55 30 IO91MR
+QSO:    50 PH 2016-06-28 2008 M0BAO/P       55 12 IO80LV         G5LK          51 63 IO91SG
+END-OF-LOG:

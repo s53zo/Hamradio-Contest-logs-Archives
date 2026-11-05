@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4HGI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO83PL
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1293; excluded rows=0.
+QSO:    70 PH 2024-07-07 0803 G4HGI         57 1 IO83PL          G0VHF/P       55 3 JO01PU
+QSO:    70 PH 2024-07-07 0807 G4HGI         57 2 IO83PL          G3PYE/P       55 3 JO02CE
+QSO:    70 PH 2024-07-07 0811 G4HGI         59 3 IO83PL          G3ZME/P       59 9 IO82NN
+QSO:    70 PH 2024-07-07 0814 G4HGI         59 4 IO83PL          G3SRT/P       59 6 IO82KV
+QSO:    70 PH 2024-07-07 0822 G4HGI         57 5 IO83PL          G8SRC/P       59 18 IO91CL
+QSO:    70 PH 2024-07-07 0836 G4HGI         59 6 IO83PL          EI9E/P        59 10 IO62OM
+QSO:    70 PH 2024-07-07 0900 G4HGI         55 7 IO83PL          MM0CPS/P      55 5 IO84BT
+QSO:    70 CW 2024-07-07 0916 G4HGI         559 8 IO83PL         GM3HAM/P      569 19 IO84WV
+QSO:    70 PH 2024-07-07 1059 G4HGI         57 9 IO83PL          G5LK/P        59 44 JO01QD
+QSO:    70 PH 2024-07-07 1101 G4HGI         57 10 IO83PL         G0FBB/P       57 44 JO01LD
+QSO:    70 PH 2024-07-07 1104 G4HGI         59 11 IO83PL         GW3ZTT/P      59 5 IO82KW
+QSO:    70 PH 2024-07-07 1106 G4HGI         58 12 IO83PL         G2BQY/P       58 47 IO81RF
+QSO:    70 PH 2024-07-07 1112 G4HGI         57 13 IO83PL         GM6MD/P       57 25 IO75VG
+QSO:    70 CW 2024-07-07 1206 G4HGI         559 14 IO83PL        G4ALE/P       599 41 IO90QV
+END-OF-LOG:

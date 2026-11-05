@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M7ICL
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO02
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210303&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1852; excluded rows=0.
+QSO:   144 FT8 2021-03-03 1912 M7ICL         -12 JO02             G0DJA         -20 IO93
+QSO:   144 FT8 2021-03-03 1917 M7ICL         +25 JO02             G4OZG         +13 JO02
+QSO:   144 FT8 2021-03-03 1918 M7ICL         +04 JO02             G4NBS         +13 JO02
+QSO:   144 FT8 2021-03-03 1940 M7ICL         -03 JO02             G8DMU         +13 IO93
+QSO:   144 FT8 2021-03-03 1942 M7ICL         -11 JO02             2E1SKY        -16 IO93
+QSO:   144 FT8 2021-03-03 2001 M7ICL         +04 JO02             M0KKM         -07 JO02
+QSO:   144 FT8 2021-03-03 2028 M7ICL         +01 JO02             2E0AKA        -09 IO92
+QSO:   144 FT8 2021-03-03 2033 M7ICL         -10 JO02             G0ITL         -13 IO92
+QSO:   144 FT8 2021-03-03 2035 M7ICL         +06 JO02             2E0FQT        -13 IO93
+QSO:   144 FT8 2021-03-03 2037 M7ICL         +06 JO02             2E0FQT        -13 IO93
+QSO:   144 FT8 2021-03-03 2038 M7ICL         +09 JO02             G4PDF         -13 IO93
+QSO:   144 FT8 2021-03-03 2051 M7ICL         +02 JO02             G7COU         -05 IO93
+QSO:   144 FT8 2021-03-03 2059 M7ICL         -01 JO02             2E0HED        -19 IO92
+END-OF-LOG:

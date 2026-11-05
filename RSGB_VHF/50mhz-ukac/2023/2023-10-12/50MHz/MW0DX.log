@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: MW0DX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO71OT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=231012&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3950; excluded rows=2.
+QSO:    50 PH 2023-10-12 1909 MW0DX         59 1 IO71OT          G3TBK/P       59 14 IO93RA
+QSO:    50 PH 2023-10-12 1910 MW0DX         59 2 IO71OT          G4CLA         59 17 IO92JL
+QSO:    50 PH 2023-10-12 1912 MW0DX         59 3 IO71OT          G0CNN/P       57 24 IO94AI
+QSO:    50 PH 2023-10-12 1918 MW0DX         59 4 IO71OT          GI4SNA        59 29 IO64XM
+QSO:    50 PH 2023-10-12 1921 MW0DX         53 5 IO71OT          EI3JE         59 3 IO61AV
+END-OF-LOG:

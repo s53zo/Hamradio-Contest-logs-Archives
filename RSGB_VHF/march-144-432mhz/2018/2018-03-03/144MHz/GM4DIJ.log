@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO85IW
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3776; excluded rows=3.
+QSO:   144 PH 2018-03-03 1550 GM4DIJ        59 1 IO85IW          GM4PPT        54 5 IO75SK
+QSO:   144 PH 2018-03-03 1612 GM4DIJ        59 2 IO85IW          GM4BYF        59 3 IO85JV
+QSO:   144 PH 2018-03-03 1646 GM4DIJ        52 3 IO85IW          M0XVF         57 5 IO94EQ
+QSO:   144 CW 2018-03-04 1357 GM4DIJ        539 4 IO85IW         M0HOM         539 33 IO93QO
+END-OF-LOG:

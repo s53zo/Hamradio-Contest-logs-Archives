@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G7MHF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO82LW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=250318&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2354; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:  1.2G PH 2025-03-18 2007 G7MHF         57 1 IO82LW          G8DIR         57 3 IO82MP
+QSO:  1.2G PH 2025-03-18 2026 G7MHF         55 2 IO82LW          G8SEI         55 11 IO82FO
+QSO:  1.2G PH 2025-03-18 2053 G7MHF         55 3 IO82LW          GD8EXI        53 24 IO74PC
+QSO:  1.2G PH 2025-03-18 2104 G7MHF         58 4 IO82LW          G4CLA         59 57 IO92JL
+QSO:  1.2G PH 2025-03-18 2112 G7MHF         58 5 IO82LW          M0TXE         58 15 IO82OQ
+QSO:  1.2G PH 2025-03-18 2123 G7MHF         53 6 IO82LW          G4ASR         51 26 IO81MX
+END-OF-LOG:

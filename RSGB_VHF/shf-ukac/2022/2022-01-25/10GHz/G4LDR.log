@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4LDR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO91EC
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=220125&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=151; excluded rows=2.
+QSO:   10G PH 2022-01-25 1943 G4LDR         53 1 IO91EC          G4ASR         55 3 IO81MX
+QSO:   10G PH 2022-01-25 1948 G4LDR         56 2 IO91EC          G4ZTR         56 2 JO01KW
+QSO:   10G PH 2022-01-25 2050 G4LDR         59 3 IO91EC          G4CLA         59 7 IO92JL
+QSO:   10G PH 2022-01-25 2145 G4LDR         59 4 IO91EC          M0GHZ         59 9 IO81VK
+QSO:   10G PH 2022-01-25 2152 G4LDR         56 5 IO91EC          G4BXD         57 9 IO82UJ
+QSO:   10G PH 2022-01-25 2200 G4LDR         59 6 IO91EC          G0HEL/P       59 3 IO81WG
+QSO:   10G CW 2022-01-25 2205 G4LDR         519 7 IO91EC         G3UKV         519 7 IO82RR
+QSO:   10G PH 2022-01-25 2218 G4LDR         52 8 IO91EC          G4ODA         57 11 IO92WS
+END-OF-LOG:

@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8VPE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: JO02TP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170511&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5466; excluded rows=1.
+QSO:    50 PH 2017-05-11 1914 G8VPE         59 1 JO02TP          G3LDI         59 2 JO02ON
+QSO:    50 PH 2017-05-11 1937 G8VPE         57 2 JO02TP          G3TBK/P       55 58 IO93RA
+QSO:    50 PH 2017-05-11 1941 G8VPE         59 3 JO02TP          M0CGL         59 18 JO03BF
+QSO:    50 PH 2017-05-11 1947 G8VPE         57 4 JO02TP          G4DCJ         55 7 JO02IT
+QSO:    50 CW 2017-05-11 2018 G8VPE         599 5 JO02TP         G3MPN         559 2 JO02NN
+QSO:    50 CW 2017-05-11 2025 G8VPE         599 6 JO02TP         G4DYC         579 10 JO02MP
+QSO:    50 PH 2017-05-11 2055 G8VPE         59 7 JO02TP          G4PFZ         59 10 JO02PP
+QSO:    50 PH 2017-05-11 2059 G8VPE         55 8 JO02TP          M0GAV/P       52 112 IO93EH
+QSO:    50 PH 2017-05-11 2128 G8VPE         56 9 JO02TP          M1MHZ         54 108 IO92WV
+END-OF-LOG:

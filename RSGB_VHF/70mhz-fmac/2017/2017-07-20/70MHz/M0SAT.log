@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-FMAC
+CALLSIGN: M0SAT
+CATEGORY-MODE: FM
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91TP
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+FMAC&Date=170720&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=112; excluded rows=0.
+QSO:    70 FM 2017-07-20 1806 M0SAT         53 1 IO91TP          G3WCB/P       58 1 IO80EI
+QSO:    70 FM 2017-07-20 1808 M0SAT         57 2 IO91TP          M0IEP         59 1 IO91DP
+QSO:    70 FM 2017-07-20 1811 M0SAT         57 3 IO91TP          G4FKK         59 1 IO91WI
+QSO:    70 FM 2017-07-20 1812 M0SAT         59 4 IO91TP          G3WJG         59 3 IO91RP
+QSO:    70 FM 2017-07-20 1818 M0SAT         51 5 IO91TP          GW8ASD        56 6 IO83LB
+QSO:    70 FM 2017-07-20 1832 M0SAT         57 6 IO91TP          M0RKX/P       59 9 IO92BA
+QSO:    70 FM 2017-07-20 1833 M0SAT         57 7 IO91TP          G6GEI         57 2 IO92PA
+END-OF-LOG:

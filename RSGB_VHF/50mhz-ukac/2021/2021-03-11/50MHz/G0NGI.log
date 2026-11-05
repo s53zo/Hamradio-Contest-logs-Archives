@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0NGI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91QH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210311&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3441; excluded rows=1.
+QSO:    50 PH 2021-03-11 2000 G0NGI         59 1 IO91QH          G4YPC         59 1 IO91RH
+QSO:    50 PH 2021-03-11 2021 G0NGI         52 2 IO91QH          M0BB          52 22 IO91PK
+QSO:    50 PH 2021-03-11 2024 G0NGI         55 3 IO91QH          G3VYI         55 7 IO91OF
+QSO:    50 PH 2021-03-11 2025 G0NGI         57 4 IO91QH          M0IAM         57 5 IO91QE
+QSO:    50 PH 2021-03-11 2032 G0NGI         56 5 IO91QH          G8CUL         57 16 IO91JO
+QSO:    50 PH 2021-03-11 2105 G0NGI         52 6 IO91QH          G1DFL         54 23 IO91NL
+QSO:    50 PH 2021-03-11 2114 G0NGI         53 7 IO91QH          G0GJV         59 8 IO91OK
+QSO:    50 PH 2021-03-11 2115 G0NGI         53 8 IO91QH          G8KQH         55 11 IO91RI
+QSO:    50 PH 2021-03-11 2150 G0NGI         51 9 IO91QH          G3SED         51 29 IO90IV
+END-OF-LOG:

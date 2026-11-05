@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: 2E0WHQ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91DN
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210105&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=837; excluded rows=2.
+QSO:   144 FM 2021-01-05 1900 2E0WHQ        59 1 IO91DN          M5CBS         59 1 IO91DN
+QSO:   144 FM 2021-01-05 1901 2E0WHQ        59 2 IO91DN          G0UWS         59 1 IO91CO
+QSO:   144 FM 2021-01-05 1902 2E0WHQ        59 3 IO91DN          M5OTA         57 1 IO81WR
+QSO:   144 FM 2021-01-05 1903 2E0WHQ        59 4 IO91DN          G4LDL         59 2 IO91DN
+QSO:   144 FM 2021-01-05 1906 2E0WHQ        57 5 IO91DN          M1CJE         54 3 IO91CJ
+QSO:   144 FM 2021-01-05 1910 2E0WHQ        59 6 IO91DN          G1ERM         59 4 IO91CN
+QSO:   144 FM 2021-01-05 1914 2E0WHQ        59 7 IO91DN          G6UAJ         59 4 IO91CN
+QSO:   144 FM 2021-01-05 1915 2E0WHQ        59 8 IO91DN          M0IEP         59 6 IO91DP
+QSO:   144 FM 2021-01-05 1917 2E0WHQ        59 9 IO91DN          M1CZI         59 9 IO91CN
+QSO:   144 FM 2021-01-05 1919 2E0WHQ        59 10 IO91DN         M0KYB         59 3 IO91BN
+QSO:   144 FM 2021-01-05 1924 2E0WHQ        52 11 IO91DN         M0RFI         55 1 IO91CJ
+QSO:   144 FM 2021-01-05 1925 2E0WHQ        59 12 IO91DN         M0UHF         59 2 IO91IP
+QSO:   144 FM 2021-01-05 1929 2E0WHQ        59 13 IO91DN         M0GHZ         55 5 IO81VK
+QSO:   144 FM 2021-01-05 1931 2E0WHQ        59 14 IO91DN         G4HGV         59 3 IO91CO
+QSO:   144 FM 2021-01-05 1933 2E0WHQ        59 15 IO91DN         G4AJA         59 2 IO91DP
+QSO:   144 FM 2021-01-05 1939 2E0WHQ        59 16 IO91DN         M0ACM         59 1 IO91CO
+QSO:   144 FM 2021-01-05 1941 2E0WHQ        59 17 IO91DN         2E0OUT        59 3 IO81WO
+QSO:   144 FM 2021-01-05 1954 2E0WHQ        56 18 IO91DN         G4VWG         59 2 IO91CO
+END-OF-LOG:

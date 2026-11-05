@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4BRK
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91HP
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=251113&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2655; excluded rows=0.
+QSO:    50 PH 2025-11-13 2000 G4BRK         59 1 IO91HP          M0UHF         59 1 IO91IP
+QSO:    50 PH 2025-11-13 2003 G4BRK         59 2 IO91HP          G8CUL         59 1 IO91JO
+QSO:    50 PH 2025-11-13 2016 G4BRK         59 3 IO91HP          G0ODQ         57 11 IO91MR
+QSO:    50 PH 2025-11-13 2133 G4BRK         55 5 IO91HP          G4CLA         55 69 IO92JL
+QSO:    50 PH 2025-11-13 2136 G4BRK         58 6 IO91HP          G0FEH/P       58 47 IO92HD
+QSO:    50 PH 2025-11-13 2144 G4BRK         59 7 IO91HP          G8GYX         57 28 IO91VH
+QSO:    50 PH 2025-11-13 2145 G4BRK         58 8 IO91HP          G8FMC         57 35 IO91NW
+QSO:    50 PH 2025-11-13 2149 G4BRK         57 9 IO91HP          G4HWA         55 42 IO92ME
+QSO:    50 PH 2025-11-13 2201 G4BRK         59 10 IO91HP         G4GFI         54 34 IO91VH
+QSO:    50 CW 2025-11-13 2207 G4BRK         539 11 IO91HP        G4LPP         519 34 JO02SS
+QSO:    50 PH 2025-11-13 2211 G4BRK         57 12 IO91HP         G0SKA         57 57 IO91OQ
+QSO:    50 PH 2025-11-13 2215 G4BRK         56 13 IO91HP         2E0OUT        51 25 IO81WO
+QSO:    50 PH 2025-11-13 2216 G4BRK         58 14 IO91HP         G8SEI         51 49 IO92FO
+QSO:    50 PH 2025-11-13 2226 G4BRK         52 15 IO91HP         MW0LKX/P      55 94 IO82KL
+QSO:    50 PH 2025-11-13 2228 G4BRK         54 16 IO91HP         M5BFL         51 47 JO02RJ
+END-OF-LOG:

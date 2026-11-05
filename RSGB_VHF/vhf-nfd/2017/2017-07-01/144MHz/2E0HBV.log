@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: 2E0HBV
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81UF
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9822; excluded rows=9.
+QSO:   144 PH 2017-07-01 1453 2E0HBV        59 1 IO81UF          G0ARC/P       55 49 IO91EH
+QSO:   144 PH 2017-07-01 1513 2E0HBV        59 2 IO81UF          G2BQY/P       55 41 IO81RF
+QSO:   144 PH 2017-07-01 1529 2E0HBV        59 3 IO81UF          G4WAW         59 40 IO81QJ
+QSO:   144 PH 2017-07-01 1542 2E0HBV        59 4 IO81UF          G4RFR         55 27 IO80ST
+QSO:   144 PH 2017-07-02 0926 2E0HBV        58 5 IO81UF          M0HRF/P       57 398 IO91GI
+QSO:   144 PH 2017-07-02 1007 2E0HBV        59 6 IO81UF          G8SRC/P       59 94 IO91CL
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: MM0C
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO75XU
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4083; excluded rows=1.
+QSO:   144 PH 2025-05-04 0908 MM0C          59 1 IO75XU ML       GM6MD/P       59 36 IO75VG DG
+QSO:   144 PH 2025-05-04 0914 MM0C          59 2 IO75XU ML       GM4PPT        59 2 IO75SK KA
+QSO:   144 PH 2025-05-04 0921 MM0C          55 3 IO75XU ML       G0XDI         55 37 IO91RP WD
+QSO:   144 PH 2025-05-04 0944 MM0C          54 4 IO75XU ML       G1V           54 44 IO90JO PO
+QSO:   144 PH 2025-05-04 0946 MM0C          59 5 IO75XU ML       G8T           59 118 JO01NC CT
+END-OF-LOG:

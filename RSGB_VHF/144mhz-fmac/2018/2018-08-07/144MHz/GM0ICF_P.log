@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: GM0ICF/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75OR
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=180807&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=355; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (1).
+QSO:   144 FM 2018-08-07 1801 GM0ICF/P      59 1 IO75OR          MM3OJE        59 1 IO75UO
+QSO:   144 FM 2018-08-07 1808 GM0ICF/P      59 3 IO75OR          MI6XZZ        59 1 IO74CU
+QSO:   144 FM 2018-08-07 1810 GM0ICF/P      59 4 IO75OR          GM3OXK        59 1 IO85FC
+QSO:   144 FM 2018-08-07 1812 GM0ICF/P      59 5 IO75OR          GM7PKT/P      59 1 IO85BD
+QSO:   144 FM 2018-08-07 1813 GM0ICF/P      59 6 IO75OR          GM4COX        59 1 IO85BR
+QSO:   144 FM 2018-08-07 1817 GM0ICF/P      59 7 IO75OR          GM4ISM        59 1 IO85AR
+QSO:   144 FM 2018-08-07 1820 GM0ICF/P      59 8 IO75OR          GM3WIL        59 1 IO75QL
+QSO:   144 FM 2018-08-07 1839 GM0ICF/P      59 9 IO75OR          MM0GCT/M      59 1 IO75RK
+QSO:   144 FM 2018-08-07 1848 GM0ICF/P      59 10 IO75OR         MM0TMZ        59 1 IO75WV
+QSO:   144 FM 2018-08-07 1850 GM0ICF/P      59 11 IO75OR         GM0USI/M      59 1 IO75UV
+QSO:   144 FM 2018-08-07 1855 GM0ICF/P      59 12 IO75OR         GM4PPT        59 1 IO75SK
+END-OF-LOG:

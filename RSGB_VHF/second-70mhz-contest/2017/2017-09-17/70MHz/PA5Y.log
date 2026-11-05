@@ -1,0 +1,39 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SECOND-70MHZ-CONTEST
+CALLSIGN: PA5Y
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO21VO
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Second+70MHz+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=715; excluded rows=2.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:    70 PH 2017-09-17 0907 PA5Y          55 1 JO21VO          G3NPI         55 4 IO92MA
+QSO:    70 PH 2017-09-17 0922 PA5Y          26 2 JO21VO          OH7TE         26 1 KP30JS
+QSO:    70 CW 2017-09-17 0927 PA5Y          559 3 JO21VO         OK1DIG        559 1 JO60XJ
+QSO:    70 PH 2017-09-17 0930 PA5Y          55 4 JO21VO          G8CUL         53 18 IO91JO
+QSO:    70 PH 2017-09-17 0932 PA5Y          56 5 JO21VO          G3MEH         54 14 IO91QS
+QSO:    70 PH 2017-09-17 0934 PA5Y          55 6 JO21VO          G8LZE         53 13 IO91SO
+QSO:    70 PH 2017-09-17 0939 PA5Y          55 7 JO21VO          M0HYX         55 7 IO92VN
+QSO:    70 PH 2017-09-17 0944 PA5Y          52 8 JO21VO          G0EHV/P       52 17 IO84XT
+QSO:    70 PH 2017-09-17 0956 PA5Y          55 9 JO21VO          G4YPC         51 11 IO91RH
+QSO:    70 PH 2017-09-17 0957 PA5Y          53 10 JO21VO         G1TPA         59 5 IO91VF
+QSO:    70 CW 2017-09-17 1013 PA5Y          549 11 JO21VO        OZ3ZW         529 4 JO54RS
+QSO:    70 PH 2017-09-17 1022 PA5Y          52 12 JO21VO         GW8ASD        52 22 IO83LB
+QSO:    70 PH 2017-09-17 1033 PA5Y          55 13 JO21VO         GI4SNA        51 17 IO64XM
+QSO:    70 PH 2017-09-17 1035 PA5Y          57 14 JO21VO         G4YHF         58 2 IO92XW
+QSO:    70 PH 2017-09-17 1048 PA5Y          57 15 JO21VO         G8LED/P       55 35 IO92LH
+QSO:    70 PH 2017-09-17 1050 PA5Y          57 16 JO21VO         G4FKK         55 27 IO91WI
+QSO:    70 PH 2017-09-17 1054 PA5Y          56 17 JO21VO         G0HEL         52 24 IO81WH
+QSO:    70 CW 2017-09-17 1100 PA5Y          559 18 JO21VO        G3TA          559 2 IO81XS
+QSO:    70 PH 2017-09-17 1133 PA5Y          26 20 JO21VO         SP9HWY        28 1 JO90NH
+END-OF-LOG:

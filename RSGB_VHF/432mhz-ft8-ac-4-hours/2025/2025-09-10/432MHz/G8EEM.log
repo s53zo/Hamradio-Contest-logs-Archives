@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FT8-AC-4-HOURS
+CALLSIGN: G8EEM
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=432&Contest=432MHz+FT8+AC+%284+hours%29&Date=250910&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=252; excluded rows=0.
+QSO:   432 FT8 2025-09-10 1740 G8EEM         +33 IO93             G6DDN         +04 IO93
+QSO:   432 FT8 2025-09-10 1857 G8EEM         -15 IO93             F1NQP         -25 JN19
+QSO:   432 FT8 2025-09-10 1903 G8EEM         -14 IO93             GM8MJV        -10 IO85
+QSO:   432 FT8 2025-09-10 1908 G8EEM         +00 IO93             G8VHI         -12 IO92
+QSO:   432 FT8 2025-09-10 1920 G8EEM         -13 IO93             PD7RON        -19 JO22
+QSO:   432 FT8 2025-09-10 1925 G8EEM         +22 IO93             G8SEI         -03 IO92
+QSO:   432 FT8 2025-09-10 1958 G8EEM         -17 IO93             PH2M          -19 JO22
+QSO:   432 FT8 2025-09-10 2017 G8EEM         +00 IO93             G4ZTR         -13 JO01
+QSO:   432 FT8 2025-09-10 2033 G8EEM         -16 IO93             G0JDL         -20 JO02
+END-OF-LOG:

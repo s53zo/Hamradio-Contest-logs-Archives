@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8XDD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90MX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=191203&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10707; excluded rows=1.
+QSO:   144 PH 2019-12-03 2013 G8XDD         59 1 IO90MX          G6DOD         59 4 IO90JR
+QSO:   144 PH 2019-12-03 2017 G8XDD         59 2 IO90MX          G4RUL/P       58 16 JO00DR
+QSO:   144 PH 2019-12-03 2018 G8XDD         59 3 IO90MX          G4YPC         57 14 IO91RH
+QSO:   144 PH 2019-12-03 2044 G8XDD         59 4 IO90MX          G0ODQ         59 44 IO91MR
+QSO:   144 PH 2019-12-03 2133 G8XDD         58 5 IO90MX          G0LTG         57 61 IO81RF
+END-OF-LOG:

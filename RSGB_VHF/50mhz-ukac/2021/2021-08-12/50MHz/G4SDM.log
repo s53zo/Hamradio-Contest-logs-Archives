@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4SDM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91SI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210812&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5832; excluded rows=2.
+QSO:    50 PH 2021-08-12 1900 G4SDM         59 1 IO91SI          G8GYX         59 1 IO91VH
+QSO:    50 PH 2021-08-12 1902 G4SDM         59 2 IO91SI          G4YPC         59 2 IO91RH
+QSO:    50 PH 2021-08-12 1917 G4SDM         59 3 IO91SI          M0BB          59 11 IO91PK
+QSO:    50 PH 2021-08-12 1926 G4SDM         54 4 IO91SI          G4ASR         59 38 IO81MX
+QSO:    50 PH 2021-08-12 1935 G4SDM         59 5 IO91SI          G8KQH         59 4 IO91RI
+QSO:    50 PH 2021-08-12 1939 G4SDM         55 6 IO91SI          G4CTP         55 7 IO91RG
+QSO:    50 PH 2021-08-12 1940 G4SDM         54 7 IO91SI          G0XDI         59 27 IO91RQ
+QSO:    50 PH 2021-08-12 1943 G4SDM         59 8 IO91SI          G0GJV         59 14 IO91OK
+QSO:    50 PH 2021-08-12 2002 G4SDM         57 9 IO91SI          IK7LMX        59 17 JN80XP
+QSO:    50 PH 2021-08-12 2008 G4SDM         59 10 IO91SI         G8ZAX         59 4 IO91RF
+QSO:    50 PH 2021-08-12 2014 G4SDM         55 11 IO91SI         G8YKM         59 11 IO91PF
+QSO:    50 PH 2021-08-12 2017 G4SDM         59 12 IO91SI         M0CGF         59 9 IO91WI
+QSO:    50 PH 2021-08-12 2028 G4SDM         59 13 IO91SI         2E0CBP        59 1 IO91SI
+QSO:    50 PH 2021-08-12 2039 G4SDM         54 14 IO91SI         G8KPS         55 8 IO91MH
+QSO:    50 PH 2021-08-12 2043 G4SDM         53 15 IO91SI         F1CBC         59 29 JN09BO
+QSO:    50 PH 2021-08-12 2056 G4SDM         54 16 IO91SI         G0SKA         59 60 IO91OQ
+QSO:    50 PH 2021-08-12 2059 G4SDM         54 17 IO91SI         G8FMC         58 4 IO91NW
+QSO:    50 PH 2021-08-12 2123 G4SDM         52 18 IO91SI         G4LPP         52 38 JO02SS
+END-OF-LOG:

@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G0GRI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO80SX
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6704; excluded rows=2.
+QSO:   144 PH 2021-05-15 1825 G0GRI         55 1 IO80SX BA       G4JBH         57 12 IO80QW BA
+QSO:   144 PH 2021-05-15 1827 G0GRI         57 2 IO80SX BA       G3TKF         59 21 IO81RI BS
+QSO:   144 PH 2021-05-15 1830 G0GRI         54 3 IO80SX BA       M0GHZ         59 108 IO81UN BS
+QSO:   144 PH 2021-05-15 1848 G0GRI         57 4 IO80SX BA       2E0OUT        59 27 IO81WO SN
+QSO:   144 PH 2021-05-16 1204 G0GRI         55 5 IO80SX BA       G4CZP/P       59 126 IO90JO PO
+QSO:   144 PH 2021-05-16 1207 G0GRI         54 6 IO80SX BA       2E0NEY        55 62 IO81VK SN
+QSO:   144 PH 2021-05-16 1214 G0GRI         42 7 IO80SX BA       G4NKTBS       53 8 IO81SH BS
+QSO:   144 PH 2021-05-16 1216 G0GRI         54 8 IO80SX BA       G4WCK         54 6 IO90AR BH
+QSO:   144 PH 2021-05-16 1217 G0GRI         55 9 IO80SX BA       M1CJE/P       59 17 IO91DI SN
+QSO:   144 PH 2021-05-16 1221 G0GRI         54 10 IO80SX BA      M0BAO/P       55 24 IO80LV TA
+END-OF-LOG:

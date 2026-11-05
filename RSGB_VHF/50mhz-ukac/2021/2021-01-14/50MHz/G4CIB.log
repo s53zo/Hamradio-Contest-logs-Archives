@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4CIB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81VX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210114&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4780; excluded rows=0.
+QSO:    50 PH 2021-01-14 2102 G4CIB         59 1 IO81VX          G4BCA         59 15 IO81VV
+QSO:    50 PH 2021-01-14 2106 G4CIB         59 2 IO81VX          G4ILI         59 31 IO81WV
+QSO:    50 PH 2021-01-14 2108 G4CIB         55 3 IO81VX          M0WYB         53 21 IO81SH
+QSO:    50 PH 2021-01-14 2108 G4CIB         59 4 IO81VX          M0BUL         59 38 IO82NG
+QSO:    50 PH 2021-01-14 2112 G4CIB         59 5 IO81VX          G3WRA         59 25 IO82PB
+QSO:    50 PH 2021-01-14 2126 G4CIB         57 6 IO81VX          2E0OUT        57 23 IO81WO
+QSO:    50 PH 2021-01-14 2129 G4CIB         59 7 IO81VX          2E0IEI        59 22 IO81VU
+QSO:    50 PH 2021-01-14 2130 G4CIB         57 8 IO81VX          M0GHZ         57 39 IO81VK
+QSO:    50 PH 2021-01-14 2137 G4CIB         55 9 IO81VX          G4GUG         57 23 IO81WQ
+QSO:    50 PH 2021-01-14 2141 G4CIB         59 10 IO81VX         G4ASR         59 71 IO81MX
+END-OF-LOG:

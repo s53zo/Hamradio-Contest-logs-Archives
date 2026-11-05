@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: GM1MYF
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO87
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210602&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1442; excluded rows=1.
+QSO:   144 FT8 2021-06-02 1908 GM1MYF        +10 IO87             G8AOE         +03 IO94
+QSO:   144 FT8 2021-06-02 1913 GM1MYF        +06 IO87             GM8MJV        +00 IO85
+QSO:   144 FT8 2021-06-02 1921 GM1MYF        -02 IO87             GM4FVM        -10 IO85
+QSO:   144 FT8 2021-06-02 1929 GM1MYF        +03 IO87             G4FVP         -11 IO94
+QSO:   144 FT8 2021-06-02 1933 GM1MYF        -03 IO87             MM0GPZ        -07 IO75
+QSO:   144 FT8 2021-06-02 1941 GM1MYF        -06 IO87             GM1BAN        -10 IO88
+QSO:   144 FT8 2021-06-02 1949 GM1MYF        -09 IO87             G4PLZ         -17 JO02
+QSO:   144 FT8 2021-06-02 1951 GM1MYF        -03 IO87             G8EEM         -04 IO93
+QSO:   144 FT8 2021-06-02 1958 GM1MYF        -11 IO87             G4NBS         -19 JO02
+QSO:   144 FT8 2021-06-02 2004 GM1MYF        -06 IO87             GM0HTT        -12 IO89
+QSO:   144 FT8 2021-06-02 2011 GM1MYF        +05 IO87             MM0CEZ        -07 -
+QSO:   144 FT8 2021-06-02 2025 GM1MYF        -17 IO87             G0JCC         -14 IO82
+QSO:   144 FT8 2021-06-02 2030 GM1MYF        -17 IO87             M0BWU         -15 JO02
+QSO:   144 FT8 2021-06-02 2047 GM1MYF        -01 IO87             G8REM         -02 IO93
+END-OF-LOG:

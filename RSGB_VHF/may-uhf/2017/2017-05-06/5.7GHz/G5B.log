@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G5B
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: IO92WS
+CATEGORY: O
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=27; excluded rows=0.
+QSO:  5.7G PH 2017-05-06 1523 G5B           59 1 IO92WS          G8OHM         55 1 IO92AJ
+QSO:  5.7G PH 2017-05-06 1550 G5B           55 2 IO92WS          M1CRO/P       55 1 JO01PU
+QSO:  5.7G CW 2017-05-06 1856 G5B           569 3 IO92WS         G3XDY         559 3 JO02OB
+END-OF-LOG:

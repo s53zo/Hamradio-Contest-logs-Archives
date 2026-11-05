@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4PDF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO93VH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=190314&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3583; excluded rows=1.
+QSO:    50 PH 2019-03-14 2000 G4PDF         59 1 IO93VH          G3VCA         59 1 IO93MG
+QSO:    50 PH 2019-03-14 2002 G4PDF         53 2 IO93VH          G4HVC         56 1 IO93QA
+QSO:    50 PH 2019-03-14 2012 G4PDF         57 3 IO93VH          M1MHZ         59 15 IO92WV
+QSO:    50 PH 2019-03-14 2017 G4PDF         57 4 IO93VH          M1DDD/P       59 31 IO93CH
+QSO:    50 PH 2019-03-14 2037 G4PDF         55 5 IO93VH          M0CES/P       59 14 JO03AE
+QSO:    50 PH 2019-03-14 2047 G4PDF         57 6 IO93VH          G7LRQ/P       57 61 IO91RU
+QSO:    50 PH 2019-03-14 2049 G4PDF         57 7 IO93VH          G0EAK/P       59 32 IO93NI
+QSO:    50 PH 2019-03-14 2101 G4PDF         55 8 IO93VH          G4ODA         59 37 IO92WS
+QSO:    50 PH 2019-03-14 2103 G4PDF         59 9 IO93VH          2E0DKY        59 10 IO93SF
+END-OF-LOG:

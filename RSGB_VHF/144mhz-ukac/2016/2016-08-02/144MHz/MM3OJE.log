@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: MM3OJE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75UO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=160802&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11634; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2016-08-02 1904 MM3OJE        59 1 IO75UO          GM4PTT        59 6 IO75SK
+QSO:   144 PH 2016-08-02 1908 MM3OJE        59 2 IO75UO          GM3SEK        59 10 IO74SR
+QSO:   144 PH 2016-08-02 1915 MM3OJE        59 3 IO75UO          MM0CEZ        52 6 IO75XU
+QSO:   144 PH 2016-08-02 1930 MM3OJE        59 5 IO75UO          GM3UCI        55 2 IO85BR
+QSO:   144 PH 2016-08-02 1936 MM3OJE        55 6 IO75UO          GM4JJJ        55 25 IO86GB
+QSO:   144 PH 2016-08-02 1948 MM3OJE        59 7 IO75UO          GM3PMB        59 16 IO75QJ
+QSO:   144 PH 2016-08-02 1950 MM3OJE        59 8 IO75UO          GM6JNJ        59 17 IO75SO
+QSO:   144 PH 2016-08-02 1954 MM3OJE        55 9 IO75UO          MM6POV        57 5 IO75TH
+QSO:   144 PH 2016-08-02 1956 MM3OJE        59 10 IO75UO         GM3MWX        59 5 IO75NU
+QSO:   144 PH 2016-08-02 2015 MM3OJE        52 11 IO75UO         MM1DDD/P      55 118 IO93CN
+QSO:   144 PH 2016-08-02 2100 MM3OJE        55 12 IO75UO         GM4GUF        55 11 IO85EP
+END-OF-LOG:

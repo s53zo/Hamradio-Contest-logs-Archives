@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8FRS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91AR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250612&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3777; excluded rows=0.
+QSO:    50 PH 2025-06-12 1912 G8FRS         59 1 IO91AR          G4ASR         59 18 IO81MX
+QSO:    50 PH 2025-06-12 1914 G8FRS         59 2 IO91AR          G4BAD         59 2 IO81RI
+QSO:    50 PH 2025-06-12 1916 G8FRS         59 3 IO91AR          2E0OUT        59 7 IO81WO
+QSO:    50 PH 2025-06-12 1919 G8FRS         55 4 IO91AR          G4FJK         55 22 IO80EW
+QSO:    50 PH 2025-06-12 1945 G8FRS         59 5 IO91AR          G0LTG         59 8 IO81RF
+QSO:    50 PH 2025-06-12 2101 G8FRS         55 6 IO91AR          M0UHF         55 45 IO91IP
+END-OF-LOG:

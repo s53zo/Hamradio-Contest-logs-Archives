@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM3PPE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO85SP
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=170112&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3122; excluded rows=5.
+QSO:    50 PH 2017-01-12 2022 GM3PPE        53 1 IO85SP          GW4BVE        53 19 IO82KQ
+QSO:    50 PH 2017-01-12 2030 GM3PPE        56 2 IO85SP          G3VCA         56 30 IO93MG
+QSO:    50 PH 2017-01-12 2034 GM3PPE        54 3 IO85SP          G8ZRE         54 24 IO83NE
+QSO:    50 PH 2017-01-12 2049 GM3PPE        55 4 IO85SP          GM4JJJ        55 11 IO86GB
+QSO:    50 PH 2017-01-12 2113 GM3PPE        57 5 IO85SP          G1YBB/P       55 73 IO82LB
+QSO:    50 PH 2017-01-12 2129 GM3PPE        55 6 IO85SP          G4FZN/P       55 58 IO94JF
+QSO:    50 CW 2017-01-12 2201 GM3PPE        559 7 IO85SP         MM0ZBH        559 4 IO86IB
+END-OF-LOG:

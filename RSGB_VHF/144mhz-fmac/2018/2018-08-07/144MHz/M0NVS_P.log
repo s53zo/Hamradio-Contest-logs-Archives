@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: M0NVS/P
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91OS
+CATEGORY: 50R
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=180807&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=355; excluded rows=1.
+QSO:   144 FM 2018-08-07 1855 M0NVS/P       59 1 IO91OS          G1MZD         59 8 IO92NB
+QSO:   144 FM 2018-08-07 1857 M0NVS/P       59 2 IO91OS          G0OIW/P       59 14 IO91MP
+QSO:   144 FM 2018-08-07 1858 M0NVS/P       57 3 IO91OS          G0MJW/A       57 13 IO83RO
+QSO:   144 FM 2018-08-07 1859 M0NVS/P       59 4 IO91OS          M0RKX/P       59 48 IO92BA
+END-OF-LOG:

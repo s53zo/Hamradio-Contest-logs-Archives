@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G8CZW
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO83WG
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=250805&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=462; excluded rows=0.
+QSO:   144 FM 2025-08-05 1800 G8CZW         59 1 IO83WG          M0XXD/P       59 2 IO83RP
+QSO:   144 FM 2025-08-05 1800 G8CZW         59 2 IO83WG          M1EYP/P       59 16 IO83WE
+QSO:   144 FM 2025-08-05 1800 G8CZW         58 3 IO83WG          G0XBU/P       59 25 IO83XO
+QSO:   144 FM 2025-08-05 1800 G8CZW         59 4 IO83WG          2E0DGP/P      59 32 IO83RO
+QSO:   144 FM 2025-08-05 1800 G8CZW         59 5 IO83WG          GW0TQM/P      59 13 IO83JF
+END-OF-LOG:

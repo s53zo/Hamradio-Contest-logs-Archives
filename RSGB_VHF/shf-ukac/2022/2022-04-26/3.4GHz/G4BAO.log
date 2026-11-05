@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4BAO
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: JO02CG
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=220426&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=183; excluded rows=0.
+QSO:  3.4G CW 2022-04-26 2011 G4BAO         579 1 JO02CG         G4ZTR         579 4 JO01KW
+QSO:  3.4G CW 2022-04-26 2032 G4BAO         599 2 JO02CG         G3XDY         599 2 JO02OB
+QSO:  3.4G CW 2022-04-26 2049 G4BAO         559 3 JO02CG         G8CUL         539 11 IO91JO
+QSO:  3.4G CW 2022-04-26 2058 G4BAO         539 4 JO02CG         G4BRK         529 12 IO91HP
+QSO:  3.4G PH 2022-04-26 2127 G4BAO         55 5 JO02CG          G4CLA         53 17 IO92JL
+END-OF-LOG:

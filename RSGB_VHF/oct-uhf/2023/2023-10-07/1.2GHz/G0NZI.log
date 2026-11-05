@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: G0NZI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO92GM
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1242; excluded rows=3.
+QSO:  1.2G PH 2023-10-07 1706 G0NZI         59 1 IO92GM          M0ICK/P       57 46 IO93AD
+QSO:  1.2G PH 2023-10-07 1708 G0NZI         59 2 IO92GM          G8OHM         55 43 IO92AJ
+QSO:  1.2G PH 2023-10-07 2144 G0NZI         59 3 IO92GM          G3XDY         57 79 JO02OB
+QSO:  1.2G PH 2023-10-07 2148 G0NZI         59 4 IO92GM          M1CRO/P       58 126 JO01PU
+END-OF-LOG:

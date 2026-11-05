@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GW0MDQ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83KC
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=220310&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4405; excluded rows=1.
+QSO:    50 PH 2022-03-10 2058 GW0MDQ        57 1 IO83KC          GD0AMD/P      57 14 IO74QD
+QSO:    50 PH 2022-03-10 2102 GW0MDQ        59 2 IO83KC          G8ZRE         59 31 IO83NE
+QSO:    50 PH 2022-03-10 2103 GW0MDQ        59 3 IO83KC          GD8EXI        59 17 IO74PC
+QSO:    50 PH 2022-03-10 2112 GW0MDQ        55 4 IO83KC          GI4SNA        51 45 IO64XM
+QSO:    50 PH 2022-03-10 2113 GW0MDQ        59 5 IO83KC          M1EYP/P       59 33 IO83WE
+QSO:    50 PH 2022-03-10 2116 GW0MDQ        54 6 IO83KC          G0CDA         54 28 IO83SJ
+QSO:    50 PH 2022-03-10 2126 GW0MDQ        59 7 IO83KC          G4OAR         59 14 IO82PV
+QSO:    50 PH 2022-03-10 2134 GW0MDQ        59 8 IO83KC          G4EII         59 20 IO83PM
+QSO:    50 PH 2022-03-10 2135 GW0MDQ        55 9 IO83KC          G3TDH         55 22 IO83WI
+QSO:    50 PH 2022-03-10 2139 GW0MDQ        56 10 IO83KC         G3TBK/P       56 79 IO93RA
+QSO:    50 PH 2022-03-10 2142 GW0MDQ        59 11 IO83KC         G8REQ         59 34 IO83KI
+QSO:    50 CW 2022-03-10 2159 GW0MDQ        559 12 IO83KC        G4CLA         569 103 IO92JL
+QSO:    50 PH 2022-03-10 2204 GW0MDQ        56 13 IO83KC         G1YBB/P       56 111 IO82LB
+QSO:    50 CW 2022-03-10 2212 GW0MDQ        599 14 IO83KC        G3RKF         559 20 IO83VH
+QSO:    50 PH 2022-03-10 2216 GW0MDQ        59 15 IO83KC         GW8ASD        59 35 IO83LB
+QSO:    50 PH 2022-03-10 2221 GW0MDQ        55 16 IO83KC         G3WRA         55 6 IO82RJ
+QSO:    50 CW 2022-03-10 2227 GW0MDQ        559 17 IO83KC        G4ASR         559 109 IO81MX
+END-OF-LOG:

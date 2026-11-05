@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G8VPE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO02TP
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220201&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12850; excluded rows=11.
+QSO:   144 PH 2022-02-01 2048 G8VPE         56 1 JO02TP          G6VOV         55 14 JO02QT
+QSO:   144 PH 2022-02-01 2056 G8VPE         59 2 JO02TP          M5MC/P        59 18 JO02QI
+QSO:   144 PH 2022-02-01 2103 G8VPE         59 3 JO02TP          G4PFZ         59 17 JO02PP
+QSO:   144 PH 2022-02-01 2154 G8VPE         59 4 JO02TP          G0AJJ         59 11 JO02QT
+QSO:   144 PH 2022-02-01 2156 G8VPE         59 5 JO02TP          G4LPP         59 51 JO02SS
+END-OF-LOG:

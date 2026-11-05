@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4LPD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92KW
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=241010&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3336; excluded rows=367.
+SOAPBOX: WARNING: 4 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (4).
+QSO:    50 PH 2024-10-10 1933 G4LPD         59 1 IO92KW          G5ROC         59 18 IO93GE
+QSO:    50 PH 2024-10-10 1945 G4LPD         59 2 IO92KW          G7LRQ/P       59 36 IO91TU
+QSO:    50 PH 2024-10-10 1946 G4LPD         59 3 IO92KW          M1ABK         58 12 IO92QN
+QSO:    50 PH 2024-10-10 2019 G4LPD         59 7 IO92KW          G4ODA         59 30 IO92WS
+QSO:    50 PH 2024-10-10 2026 G4LPD         59 9 IO92KW          G3TBK/P       59 56 IO93RA
+QSO:    50 PH 2024-10-10 2028 G4LPD         59 10 IO92KW         G4CLA         59 62 IO92JL
+QSO:    50 PH 2024-10-10 2031 G4LPD         59 11 IO92KW         MW0LKX/P      59 68 IO82KL
+QSO:    50 PH 2024-10-10 2035 G4LPD         59 12 IO92KW         G3OVH         59 17 IO92JP
+QSO:    50 PH 2024-10-10 2039 G4LPD         59 13 IO92KW         G8CUL         57 43 IO91JO
+QSO:    50 PH 2024-10-10 2046 G4LPD         59 14 IO92KW         G6HPR/P       59 55 IO92MO
+QSO:    50 PH 2024-10-10 2100 G4LPD         59 15 IO92KW         G4DZL         59 13 IO92IS
+QSO:    50 PH 2024-10-10 2104 G4LPD         59 16 IO92KW         G1YBB/P       59 90 IO81KW
+QSO:    50 PH 2024-10-10 2112 G4LPD         59 17 IO92KW         G1HLT         59 22 IO93JD
+QSO:    50 PH 2024-10-10 2119 G4LPD         56 18 IO92KW         G4LPP         56 43 JO02SS
+END-OF-LOG:

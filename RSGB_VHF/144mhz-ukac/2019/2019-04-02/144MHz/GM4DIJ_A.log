@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4DIJ/A
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO74MT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190402&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11652; excluded rows=2.
+QSO:   144 PH 2019-04-02 1908 GM4DIJ/A      59 1 IO74MT          M1MHZ         59 15 IO92WV
+QSO:   144 PH 2019-04-02 1913 GM4DIJ/A      59 2 IO74MT          GM3SEK        59 4 IO74SR
+QSO:   144 PH 2019-04-02 1923 GM4DIJ/A      59 3 IO74MT          GI4SNA        55 25 IO64XM
+QSO:   144 PH 2019-04-02 1943 GM4DIJ/A      55 4 IO74MT          MM6POV        55 5 IO75TH
+QSO:   144 PH 2019-04-02 1952 GM4DIJ/A      55 5 IO74MT          GM6NX         59 12 IO86BC
+QSO:   144 PH 2019-04-02 1955 GM4DIJ/A      59 6 IO74MT          G0EHV/P       57 37 IO84XT
+QSO:   144 PH 2019-04-02 2008 GM4DIJ/A      55 7 IO74MT          GM4BYF        529 17 IO85JV
+QSO:   144 PH 2019-04-02 2013 GM4DIJ/A      59 8 IO74MT          GM4JTJ        59 30 IO86RP
+QSO:   144 PH 2019-04-02 2015 GM4DIJ/A      57 9 IO74MT          G4ODA         58 52 IO92WS
+QSO:   144 CW 2019-04-02 2056 GM4DIJ/A      519 10 IO74MT        GM4VVX        559 7 IO78TA
+QSO:   144 CW 2019-04-02 2108 GM4DIJ/A      579 11 IO74MT        MM0CEZ        579 30 IO75XU
+QSO:   144 CW 2019-04-02 2127 GM4DIJ/A      559 12 IO74MT        GM8IEM        519 6 IO78HF
+END-OF-LOG:

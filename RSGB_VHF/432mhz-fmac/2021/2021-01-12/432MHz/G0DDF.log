@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-FMAC
+CALLSIGN: G0DDF
+CATEGORY-MODE: FM
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO80FL
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+FMAC&Date=210112&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=710; excluded rows=0.
+QSO:   432 FM 2021-01-12 1901 G0DDF         59 1 IO80FL          G0UHY         59 3 IO80EK
+QSO:   432 FM 2021-01-12 1904 G0DDF         56 2 IO80FL          G4LZD         59 3 IO80EI
+QSO:   432 FM 2021-01-12 1908 G0DDF         59 3 IO80FL          G3WCB         59 2 IO80EI
+QSO:   432 FM 2021-01-12 1909 G0DDF         59 4 IO80FL          G8XST         59 3 IO80FL
+QSO:   432 FM 2021-01-12 1910 G0DDF         59 5 IO80FL          2E0SPS        59 2 IO80EK
+QSO:   432 FM 2021-01-12 1918 G0DDF         59 6 IO80FL          M0TRU         59 3 IO80FJ
+QSO:   432 FM 2021-01-12 1921 G0DDF         59 7 IO80FL          G8XTO         59 3 IO80FK
+END-OF-LOG:

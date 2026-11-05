@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M3EMO
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92AN
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250805&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8847; excluded rows=3.
+QSO:   144 PH 2025-08-05 1901 M3EMO         59 1 IO92AN          GW4SHF        59 2 IO82HP
+QSO:   144 PH 2025-08-05 1902 M3EMO         59 2 IO92AN          G8SEI         59 2 IO92FO
+QSO:   144 PH 2025-08-05 1904 M3EMO         59 3 IO92AN          M0RSD         59 3 IO82WM
+QSO:   144 PH 2025-08-05 1905 M3EMO         59 4 IO92AN          G4CLA         59 13 IO92JL
+QSO:   144 PH 2025-08-05 1910 M3EMO         59 5 IO92AN          M0TVU         59 8 IO92BN
+QSO:   144 PH 2025-08-05 1917 M3EMO         59 6 IO92AN          G1YBB/P       59 34 IO82LB
+QSO:   144 PH 2025-08-05 2016 M3EMO         59 8 IO92AN          G0NZI/P       59 24 IO92FM
+QSO:   144 PH 2025-08-05 2026 M3EMO         59 9 IO92AN          G4HWA         59 75 IO92ME
+QSO:   144 PH 2025-08-05 2056 M3EMO         59 10 IO92AN         G0RMG/P       59 67 IO91AW
+QSO:   144 PH 2025-08-05 2058 M3EMO         59 11 IO92AN         G4KQH         58 52 IO92JD
+QSO:   144 PH 2025-08-05 2107 M3EMO         52 12 IO92AN         GI4SNA        53 137 IO64XM
+QSO:   144 PH 2025-08-05 2127 M3EMO         59 13 IO92AN         G8DOH         59 58 IO92FA
+QSO:   144 PH 2025-08-05 2128 M3EMO         59 14 IO92AN         G8ZRE         56 62 IO83NE
+END-OF-LOG:

@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0EUK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO95CA
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220201&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12850; excluded rows=11.
+QSO:   144 PH 2022-02-01 2000 M0EUK         59 1 IO95CA          G8KPD         59 1 IO95CB
+QSO:   144 PH 2022-02-01 2001 M0EUK         59 2 IO95CA          M0XVF         59 2 IO94EQ
+QSO:   144 PH 2022-02-01 2008 M0EUK         59 3 IO95CA          G0DFT         59 1 IO94DX
+QSO:   144 PH 2022-02-01 2009 M0EUK         59 4 IO95CA          G3ZWR         59 4 IO94FX
+QSO:   144 PH 2022-02-01 2014 M0EUK         59 5 IO95CA          G8PNN/P       59 13 IO95AF
+QSO:   144 PH 2022-02-01 2026 M0EUK         59 6 IO95CA          G4CLA         57 79 IO92JL
+QSO:   144 PH 2022-02-01 2042 M0EUK         55 7 IO95CA          G3TBK/P       55 48 IO93RA
+QSO:   144 PH 2022-02-01 2047 M0EUK         56 8 IO95CA          G1HLT         56 30 IO93JD
+QSO:   144 PH 2022-02-01 2120 M0EUK         59 9 IO95CA          G8CYW         59 5 IO94CX
+QSO:   144 PH 2022-02-01 2123 M0EUK         59 10 IO95CA         G8DMU/P       57 112 IO94CB
+QSO:   144 PH 2022-02-01 2129 M0EUK         59 11 IO95CA         GM4AFF        57 73 IO86TS
+QSO:   144 PH 2022-02-01 2132 M0EUK         59 12 IO95CA         GM4JTJ        59 32 IO86RP
+QSO:   144 PH 2022-02-01 2135 M0EUK         59 13 IO95CA         G4ITR         59 1 IO95CA
+QSO:   144 PH 2022-02-01 2200 M0EUK         59 14 IO95CA         G4FZN/P       57 148 IO94JF
+QSO:   144 PH 2022-02-01 2214 M0EUK         59 15 IO95CA         G0EAK/P       56 63 IO93NI
+QSO:   144 PH 2022-02-01 2225 M0EUK         55 16 IO95CA         GI4SNA        53 122 IO64XM
+END-OF-LOG:

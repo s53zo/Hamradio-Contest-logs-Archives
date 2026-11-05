@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G0SRC/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO92FT
+CATEGORY: postentry/L
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=407; excluded rows=0.
+QSO:  1.2G PH 2025-07-05 0943 G0SRC/P       59 1 IO92FT          G3CKR/P       59 19
+QSO:  1.2G PH 2025-07-05 1045 G0SRC/P       59 2 IO92FT          2E0JQY        59 1
+QSO:  1.2G PH 2025-07-05 1130 G0SRC/P       55 3 IO92FT          G4ZTR         56 20
+QSO:  1.2G PH 2025-07-05 1206 G0SRC/P       56 4 IO92FT          G4DSP/P       57 20
+END-OF-LOG:

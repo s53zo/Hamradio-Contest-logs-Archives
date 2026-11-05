@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3YPE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93CN
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190507&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12041; excluded rows=5.
+QSO:   144 PH 2019-05-07 1904 G3YPE         59 1 IO93CN          G0BFJ/P       59 7 IO93DO
+QSO:   144 PH 2019-05-07 1910 G3YPE         57 2 IO93CN          G3TBK/P       57 17 IO93RA
+QSO:   144 PH 2019-05-07 1918 G3YPE         59 3 IO93CN          G4FZN/P       59 22 IO94JF
+QSO:   144 PH 2019-05-07 1929 G3YPE         55 4 IO93CN          G8DMU/P       55 37 IO94CB
+QSO:   144 PH 2019-05-07 1934 G3YPE         59 5 IO93CN          G3VCA         59 33 IO93MG
+QSO:   144 PH 2019-05-07 1935 G3YPE         55 6 IO93CN          M0KZX         59 3 IO93FU
+QSO:   144 PH 2019-05-07 2034 G3YPE         59 7 IO93CN          M0GAV/P       59 136 IO93EH
+QSO:   144 PH 2019-05-07 2039 G3YPE         55 8 IO93CN          G4LKD         55 36 IO93OQ
+QSO:   144 PH 2019-05-07 2040 G3YPE         59 9 IO93CN          G3SDY         59 9 IO93DO
+QSO:   144 CW 2019-05-07 2046 G3YPE         599 10 IO93CN        G3ZXZ         59 40 IO93CU
+QSO:   144 PH 2019-05-07 2049 G3YPE         59 11 IO93CN         G0TVM         59 20 IO93CT
+QSO:   144 PH 2019-05-07 2118 G3YPE         58 12 IO93CN         G8YMW/P       58 38 IO93MM
+END-OF-LOG:

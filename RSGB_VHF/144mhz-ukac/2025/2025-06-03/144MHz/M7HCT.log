@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M7HCT
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92XX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=250603&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9591; excluded rows=3.
+QSO:   144 PH 2025-06-03 1901 M7HCT         59 1 IO92XX          G3TBK/P       59 2 IO93RA
+QSO:   144 PH 2025-06-03 1903 M7HCT         59 2 IO92XX          G4ODA         59 3 IO92WS
+QSO:   144 PH 2025-06-03 1904 M7HCT         59 3 IO92XX          G7LRQ         59 2 JO03BC
+QSO:   144 PH 2025-06-03 1918 M7HCT         59 4 IO92XX          M0WLF         55 13 IO81QJ
+QSO:   144 PH 2025-06-03 1922 M7HCT         59 5 IO92XX          G3SQQ         59 19 IO93JC
+QSO:   144 PH 2025-06-03 1933 M7HCT         59 6 IO92XX          G7RIS/P       59 45 IO93DB
+QSO:   144 PH 2025-06-03 1948 M7HCT         59 7 IO92XX          G6AD/P        59 30 IO92LJ
+QSO:   144 PH 2025-06-03 1952 M7HCT         59 8 IO92XX          G4CLA         59 110 IO92JL
+QSO:   144 PH 2025-06-03 2021 M7HCT         59 9 IO92XX          G4AFF         59 78 JO02LO
+QSO:   144 PH 2025-06-03 2029 M7HCT         59 10 IO92XX         G0EAK/P       59 56 IO93NI
+QSO:   144 PH 2025-06-03 2032 M7HCT         59 11 IO92XX         G4FAL         59 34 IO93EJ
+QSO:   144 PH 2025-06-03 2037 M7HCT         59 12 IO92XX         G1HLT         59 46 IO93JD
+QSO:   144 PH 2025-06-03 2038 M7HCT         59 13 IO92XX         2E0VPX        59 28 IO92UX
+QSO:   144 PH 2025-06-03 2124 M7HCT         59 14 IO92XX         G4NBS         57 67 JO02AF
+QSO:   144 PH 2025-06-03 2126 M7HCT         57 15 IO92XX         GI4SNA        55 129 IO64XM
+END-OF-LOG:

@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4ODA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO92WS
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=180424&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=122; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   10G PH 2018-04-24 1838 G4ODA         59 1 IO92WS          M0GHZ         59 1 IO81VK
+QSO:   10G PH 2018-04-24 1853 G4ODA         51 2 IO92WS          PA0S          51 3 JO21FW
+QSO:   10G PH 2018-04-24 1857 G4ODA         59 3 IO92WS          G8DMU/P       59 8 IO94CB
+QSO:   10G PH 2018-04-24 1904 G4ODA         58 4 IO92WS          G3VKV         58 3 IO81XV
+QSO:   10G PH 2018-04-24 1913 G4ODA         54 5 IO92WS          M0MDY         58 5 IO93HH
+QSO:   10G PH 2018-04-24 1915 G4ODA         57 6 IO92WS          G3UVR         57 6 IO83KH
+QSO:   10G PH 2018-04-24 1918 G4ODA         42 7 IO92WS          G4RQI         55 6 IO93IR
+QSO:   10G PH 2018-04-24 1919 G4ODA         57 8 IO92WS          G4ASR         55 4 IO81MX
+QSO:   10G PH 2018-04-24 1944 G4ODA         58 9 IO92WS          G3YJR         59 8 IO93FJ
+QSO:   10G PH 2018-04-24 1952 G4ODA         59 11 IO92WS         G4KUX         57 6 IO94BP
+QSO:   10G CW 2018-04-24 2014 G4ODA         539 12 IO92WS        ON7FLY        519 4 JO10LT
+QSO:   10G PH 2018-04-24 2115 G4ODA         58 13 IO92WS         G4LDR         56 7 IO91EC
+QSO:   10G PH 2018-04-24 2118 G4ODA         59 14 IO92WS         G4CLA         59 14 IO91JL
+END-OF-LOG:

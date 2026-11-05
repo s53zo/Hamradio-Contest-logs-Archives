@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G8EEM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO93MX
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=180508&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7141; excluded rows=3.
+QSO:   432 PH 2018-05-08 1901 G8EEM         59 1 IO93MX          G8DMU/P       59 4 IO94CB
+QSO:   432 PH 2018-05-08 1903 G8EEM         59 2 IO93MX          G0UUU/P       57 3 IO94SG
+QSO:   432 PH 2018-05-08 1905 G8EEM         56 3 IO93MX          G4RQI         51 4 IO93IR
+QSO:   432 PH 2018-05-08 1912 G8EEM         55 4 IO93MX          G8PNN/P       53 5 IO95AF
+QSO:   432 PH 2018-05-08 1912 G8EEM         56 5 IO93MX          G0EHV/P       53 7 IO84XT
+QSO:   432 PH 2018-05-08 1918 G8EEM         59 6 IO93MX          G4FZN/P       57 10 IO94AK
+QSO:   432 PH 2018-05-08 1920 G8EEM         57 7 IO93MX          G0BFJ/P       55 9 IO93DO
+END-OF-LOG:

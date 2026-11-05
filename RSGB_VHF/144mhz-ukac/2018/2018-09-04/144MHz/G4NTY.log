@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4NTY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83TM
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=180904&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13461; excluded rows=5.
+QSO:   144 PH 2018-09-04 2112 G4NTY         59 1 IO83TM          G4JLG         59 66 IO83TM
+QSO:   144 PH 2018-09-04 2115 G4NTY         59 2 IO83TM          GW4ZAR/P      59 66 IO83JF
+QSO:   144 PH 2018-09-04 2117 G4NTY         59 3 IO83TM          M0OMB         55 78 IO83PO
+QSO:   144 PH 2018-09-04 2122 G4NTY         59 4 IO83TM          M0VXX/P       55 189 IO82QL
+END-OF-LOG:

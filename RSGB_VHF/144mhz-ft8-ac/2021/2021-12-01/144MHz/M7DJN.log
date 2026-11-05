@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: M7DJN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=211201&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=747; excluded rows=0.
+QSO:   144 FT8 2021-12-01 1901 M7DJN         +34 IO82             2E0YYB        +34 IO82
+QSO:   144 FT8 2021-12-01 1913 M7DJN         -01 IO82             GW4FRX        +05 -
+QSO:   144 FT8 2021-12-01 1928 M7DJN         -08 IO82             M7ENV         +04 IO82
+QSO:   144 FT8 2021-12-01 1953 M7DJN         -16 IO82             2E0TXE        -19 IO83
+QSO:   144 FT8 2021-12-01 1957 M7DJN         -06 IO82             GI6ATZ        -17 IO74
+QSO:   144 FT8 2021-12-01 2007 M7DJN         -08 IO82             G3WAG/P       -14 IO82
+END-OF-LOG:

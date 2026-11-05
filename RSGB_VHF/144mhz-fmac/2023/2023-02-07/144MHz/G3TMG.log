@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G3TMG
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90LU
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230207&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1103; excluded rows=0.
+QSO:   144 FM 2023-02-07 1905 G3TMG         59 1 IO90LU          G8XDD/P       58 4 IO90MX
+QSO:   144 FM 2023-02-07 1909 G3TMG         59 2 IO90LU          M0CYX         59 2 IO90LS
+QSO:   144 FM 2023-02-07 1911 G3TMG         59 3 IO90LU          M7SUX         59 4 IO90MX
+QSO:   144 FM 2023-02-07 1912 G3TMG         58 4 IO90LU          2E0TKT/P      59 1 IO91JA
+QSO:   144 FM 2023-02-07 1914 G3TMG         59 5 IO90LU          G3WIE/P       57 4 IO90EW
+QSO:   144 FM 2023-02-07 1916 G3TMG         57 6 IO90LU          G4KLX         59 1 IO90LV
+QSO:   144 FM 2023-02-07 1928 G3TMG         58 7 IO90LU          M5JFS         59 3 IO90KU
+QSO:   144 FM 2023-02-07 1930 G3TMG         59 8 IO90LU          G7LMJ         59 6 IO90LU
+QSO:   144 FM 2023-02-07 1932 G3TMG         58 9 IO90LU          M0ABT/P       59 5 JO00DR
+QSO:   144 FM 2023-02-07 1935 G3TMG         58 10 IO90LU         G8IQL         59 6 IO90LX
+END-OF-LOG:

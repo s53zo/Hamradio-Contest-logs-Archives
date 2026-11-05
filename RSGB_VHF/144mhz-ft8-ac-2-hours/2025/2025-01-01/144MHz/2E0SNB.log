@@ -1,0 +1,18 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: 2E0SNB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=250101&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=567; excluded rows=0.
+QSO:   144 FT8 2025-01-01 2004 2E0SNB        -14 IO91             F1NQP         -15 JN19
+QSO:   144 FT8 2025-01-01 2045 2E0SNB        -02 IO91             G4ZTR         -08 JO01
+QSO:   144 FT8 2025-01-01 2054 2E0SNB        -11 IO91             G0JJG         -12 JO02
+END-OF-LOG:

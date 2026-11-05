@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0DJA
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93IF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=211102&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12629; excluded rows=4.
+QSO:   144 PH 2021-11-02 2015 G0DJA         59 1 IO93IF          G1HLT         59 9 IO93JD
+QSO:   144 PH 2021-11-02 2048 G0DJA         59 2 IO93IF          G3SQQ         59 29 IO93JC
+QSO:   144 PH 2021-11-02 2053 G0DJA         59 3 IO93IF          G3VCA         59 25 IO93MG
+QSO:   144 PH 2021-11-02 2055 G0DJA         59 4 IO93IF          G3TBK/P       59 54 IO93RA
+QSO:   144 PH 2021-11-02 2059 G0DJA         59 5 IO93IF          G3YYD         59 93 IO92NQ
+QSO:   144 PH 2021-11-02 2105 G0DJA         59 6 IO93IF          G8DMU/P       57 66 IO94CB
+QSO:   144 PH 2021-11-02 2207 G0DJA         59 7 IO93IF          G0XDI         55 127 IO91RQ
+QSO:   144 PH 2021-11-02 2212 G0DJA         55 8 IO93IF          G3RGS         55 141 JO01DH
+QSO:   144 PH 2021-11-02 2214 G0DJA         59 9 IO93IF          G3RCW         59 19 IO93KH
+QSO:   144 PH 2021-11-02 2218 G0DJA         55 10 IO93IF         G4FEV         51 71 IO92RG
+END-OF-LOG:

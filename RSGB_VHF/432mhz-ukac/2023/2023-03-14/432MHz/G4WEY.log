@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G4WEY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO90AS
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=230314&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6732; excluded rows=3.
+QSO:   432 PH 2023-03-14 2002 G4WEY         59 1 IO90AS          G0FVH         59 2 IO80XR
+QSO:   432 PH 2023-03-14 2003 G4WEY         59 2 IO90AS          M0RJL         59 2 IO90AR
+QSO:   432 PH 2023-03-14 2004 G4WEY         55 3 IO90AS          G8IQL         57 1 IO90LX
+QSO:   432 PH 2023-03-14 2013 G4WEY         54 4 IO90AS          MW0LKX        51 13 IO82LH
+QSO:   432 PH 2023-03-14 2029 G4WEY         59 5 IO90AS          M0GHZ         59 26 IO81VK
+QSO:   432 PH 2023-03-14 2037 G4WEY         59 6 IO90AS          G1YBB/P       59 46 IO82LB
+QSO:   432 PH 2023-03-14 2041 G4WEY         59 7 IO90AS          G0GRI         59 9 IO80SX
+QSO:   432 PH 2023-03-14 2048 G4WEY         59 8 IO90AS          G4CLA         59 66 IO92JL
+QSO:   432 PH 2023-03-14 2056 G4WEY         59 9 IO90AS          G8XDD/P       59 15 IO90MX
+QSO:   432 PH 2023-03-14 2114 G4WEY         58 10 IO90AS         GD8EXI        55 67 IO74PC
+END-OF-LOG:

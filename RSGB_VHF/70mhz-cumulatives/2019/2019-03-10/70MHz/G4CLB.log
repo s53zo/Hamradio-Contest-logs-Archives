@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4CLB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92HM
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=190310&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=464; excluded rows=0.
+QSO:    70 PH 2019-03-10 1044 G4CLB         59 1 IO92HM          G4CAJ         59 4 IO92HN
+QSO:    70 PH 2019-03-10 1051 G4CLB         59 2 IO92HM          G3OVH         59 5 IO92JP
+QSO:    70 PH 2019-03-10 1059 G4CLB         55 3 IO92HM          GM4AFF        55 9 IO86TS
+QSO:    70 PH 2019-03-10 1104 G4CLB         56 4 IO92HM          G4FZN/P       54 28 IO94JF
+QSO:    70 PH 2019-03-10 1105 G4CLB         53 5 IO92HM          M7DON         53 4 IO93KD
+END-OF-LOG:

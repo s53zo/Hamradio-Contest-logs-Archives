@@ -1,0 +1,17 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G4PRS/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO80XS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3241; excluded rows=20.
+QSO:    50 PH 2016-07-02 1510 G4PRS/P       59 1 IO80XS          G8SRC/P       59 35 IO91CI
+QSO:    50 PH 2016-07-02 1524 G4PRS/P       57 2 IO80XS          G0IVR/P       59 19 IO91HB
+QSO:    50 PH 2016-07-02 1555 G4PRS/P       57 3 IO80XS          G2BQY         - 0 IO81RF
+END-OF-LOG:

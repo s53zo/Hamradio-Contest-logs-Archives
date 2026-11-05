@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: 2E1DJN
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=240403&year=2024
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=995; excluded rows=1.
+QSO:   144 FT8 2024-04-03 1910 2E1DJN        +30 IO82             2E1FMS        +04 IO82
+QSO:   144 FT8 2024-04-03 1911 2E1DJN        +18 IO82             GW4FRX        +11 IO82
+QSO:   144 FT8 2024-04-03 1924 2E1DJN        +03 IO82             2E0LTQ        -06 IO82
+QSO:   144 FT8 2024-04-03 1946 2E1DJN        +03 IO82             GM4JTJ        -05 IO86
+QSO:   144 FT8 2024-04-03 1949 2E1DJN        -24 IO82             G7LII/P       -16 IO92
+QSO:   144 FT8 2024-04-03 2003 2E1DJN        +13 IO82             G7LRQ         -10 IO91
+QSO:   144 FT8 2024-04-03 2007 2E1DJN        +00 IO82             G8VHI         -08 IO92
+QSO:   144 FT8 2024-04-03 2020 2E1DJN        +04 IO82             MW0PJE        +02 IO82
+END-OF-LOG:

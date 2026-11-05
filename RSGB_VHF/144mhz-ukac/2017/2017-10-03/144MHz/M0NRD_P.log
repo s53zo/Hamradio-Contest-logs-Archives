@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0NRD/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO70KJ
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=171003&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12071; excluded rows=2.
+QSO:   144 PH 2017-10-03 1926 M0NRD/P       59 1 IO70KJ          M0MLZ/P       59 17 IO70UM
+QSO:   144 PH 2017-10-03 1935 M0NRD/P       59 2 IO70KJ          G4RRA         59 38 IO80BS
+QSO:   144 PH 2017-10-03 1953 M0NRD/P       55 3 IO70KJ          G4CLA         55 110 IO92JL
+QSO:   144 PH 2017-10-03 2005 M0NRD/P       55 4 IO70KJ          2E0VCC        55 10 IO70TP
+QSO:   144 PH 2017-10-03 2010 M0NRD/P       52 5 IO70KJ          G4ODA         55 48 IO92WS
+QSO:   144 PH 2017-10-03 2023 M0NRD/P       51 6 IO70KJ          M1MHZ         53 89 IO92WV
+END-OF-LOG:

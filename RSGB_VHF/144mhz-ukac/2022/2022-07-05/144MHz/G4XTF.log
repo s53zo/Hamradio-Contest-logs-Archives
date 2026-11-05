@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4XTF
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO82OA
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220705&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11582; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2022-07-05 1950 G4XTF         59 1 IO82OA          G4ILI/P       54 35 IO81WU
+QSO:   144 PH 2022-07-05 1959 G4XTF         59 2 IO82OA          M0BUL         59 23 IO82NG
+QSO:   144 PH 2022-07-05 2000 G4XTF         59 3 IO82OA          M0VXX/P       59 79 IO82RJ
+QSO:   144 PH 2022-07-05 2004 G4XTF         59 4 IO82OA          G1YBB/P       59 91 IO82LB
+QSO:   144 PH 2022-07-05 2014 G4XTF         57 6 IO82OA          G6NUM         59 33 IO93MA
+QSO:   144 PH 2022-07-05 2026 G4XTF         57 7 IO82OA          M1MHZ         59 74 IO92WV
+QSO:   144 PH 2022-07-05 2028 G4XTF         59 8 IO82OA          G4ASR         59 80 IO81MX
+QSO:   144 PH 2022-07-05 2034 G4XTF         59 9 IO82OA          G7LRQ         55 72 IO91TQ
+QSO:   144 PH 2022-07-05 2036 G4XTF         55 10 IO82OA         G6HPR         53 27 IO92KO
+QSO:   144 PH 2022-07-05 2045 G4XTF         59 11 IO82OA         G4CLA         57 191 IO92JL
+END-OF-LOG:

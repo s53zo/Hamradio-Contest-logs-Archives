@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G0GGU
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO92MG
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230713&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5467; excluded rows=3.
+QSO:    50 PH 2023-07-13 1900 G0GGU         57 1 IO92MG          G1MZD/P57     58 1 IO92NC
+QSO:    50 PH 2023-07-13 1902 G0GGU         55 2 IO92MG          G8LED         59 2 IO92NF
+QSO:    50 PH 2023-07-13 1903 G0GGU         54 3 IO92MG          G8FMC         55 2 IO91NW
+QSO:    50 PH 2023-07-13 1906 G0GGU         54 4 IO92MG          G0SKA         57 8 IO91OQ
+QSO:    50 PH 2023-07-13 1911 G0GGU         56 5 IO92MG          G4FVZ         57 8 IO91OW
+QSO:    50 PH 2023-07-13 1915 G0GGU         59 6 IO92MG          G4HWA         59 4 IO92ME
+QSO:    50 PH 2023-07-13 1918 G0GGU         59 7 IO92MG          G4CLA         59 21 IO92JL
+QSO:    50 PH 2023-07-13 1920 G0GGU         57 8 IO92MG          G6HPR/P       58 8 IO92MO
+END-OF-LOG:

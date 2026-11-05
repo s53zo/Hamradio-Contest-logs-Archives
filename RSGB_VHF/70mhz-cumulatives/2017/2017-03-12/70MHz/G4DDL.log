@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4DDL
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91PJ
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170312&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1073; excluded rows=1.
+QSO:    70 PH 2017-03-12 1014 G4DDL         59 1 IO91PJ          G7LRQ         59 6 IO91TQ
+QSO:    70 PH 2017-03-12 1017 G4DDL         59 2 IO91PJ          G3MEH         59 12 IO91QS
+QSO:    70 PH 2017-03-12 1018 G4DDL         55 3 IO91PJ          G3MXH         55 15 JO02LF
+QSO:    70 PH 2017-03-12 1019 G4DDL         59 4 IO91PJ          M0SAT         57 12 IO91TP
+QSO:    70 PH 2017-03-12 1021 G4DDL         55 5 IO91PJ          G4RFR         54 13 IO90AS
+QSO:    70 PH 2017-03-12 1026 G4DDL         59 6 IO91PJ          G4SJH/P       59 21 IO91PF
+QSO:    70 PH 2017-03-12 1027 G4DDL         55 7 IO91PJ          G4BRK         52 15 IO91HP
+QSO:    70 PH 2017-03-12 1042 G4DDL         59 8 IO91PJ          G8LZE         59 14 IO91SO
+QSO:    70 PH 2017-03-12 1044 G4DDL         56 9 IO91PJ          G3TCU         54 17 IO91QE
+QSO:    70 PH 2017-03-12 1049 G4DDL         57 10 IO91PJ         G4CDF         56 6 IO91NK
+QSO:    70 PH 2017-03-12 1049 G4DDL         59 11 IO91PJ         G4CLB         59 3 IO91RO
+QSO:    70 PH 2017-03-12 1051 G4DDL         59 12 IO91PJ         G8FUO         59 11 IO91QL
+QSO:    70 PH 2017-03-12 1054 G4DDL         52 13 IO91PJ         G1DFL         55 23 IO91NL
+QSO:    70 PH 2017-03-12 1058 G4DDL         55 14 IO91PJ         G4YPC         53 14 IO91RH
+QSO:    70 PH 2017-03-12 1101 G4DDL         55 15 IO91PJ         M0ICR         58 25 IO91SO
+QSO:    70 CW 2017-03-12 1110 G4DDL         599 16 IO91PJ        G4KFK         599 2 IO91PK
+END-OF-LOG:

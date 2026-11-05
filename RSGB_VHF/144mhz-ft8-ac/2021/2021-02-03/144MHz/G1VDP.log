@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G1VDP
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1902 G1VDP         -03 IO92             G7IGC         +04 IO92
+QSO:   144 FT8 2021-02-03 1908 G1VDP         -16 IO92             M7SPS         +01 IO92
+QSO:   144 FT8 2021-02-03 1917 G1VDP         -08 IO92             G3YDY         +02 JO01
+QSO:   144 FT8 2021-02-03 1922 G1VDP         -20 IO92             G3ZNU         -06 IO91
+QSO:   144 FT8 2021-02-03 1925 G1VDP         -06 IO92             G8DLX         +16 IO92
+QSO:   144 FT8 2021-02-03 1930 G1VDP         -16 IO92             M1DDD         +14 IO93
+QSO:   144 FT8 2021-02-03 1932 G1VDP         -11 IO92             G4TUH         +14 IO92
+QSO:   144 FT8 2021-02-03 2001 G1VDP         -13 IO92             G4VPD         -14 IO92
+QSO:   144 FT8 2021-02-03 2041 G1VDP         +00 IO92             G0XDI         +07 IO91
+END-OF-LOG:

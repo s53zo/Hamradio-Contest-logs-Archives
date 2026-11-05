@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: GM4VVX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO78TA
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=160426&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5602; excluded rows=4.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (2).
+QSO:    50 PH 2016-04-26 1904 GM4VVX        59 1 IO78TA          MM0LOZ        53 1 IO77SL
+QSO:    50 PH 2016-04-26 1906 GM4VVX        59 2 IO78TA          GM4ILS        59 1 IO87IP
+QSO:    50 CW 2016-04-26 1950 GM4VVX        599 3 IO78TA         GM4KLN        599 1 IO77WO
+QSO:    50 PH 2016-04-26 2112 GM4VVX        55 6 IO78TA          GM8IEM        56 1 IO78HF
+END-OF-LOG:

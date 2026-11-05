@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G1HCM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO90JR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11408; excluded rows=1.
+QSO:   144 PH 2016-12-04 1257 G1HCM         59 1 IO90JR          G7RAU         59 127 IO90IR
+QSO:   144 PH 2016-12-04 1302 G1HCM         59 2 IO90JR          G1KAR/P       59 31 JO00DR
+QSO:   144 PH 2016-12-04 1305 G1HCM         59 3 IO90JR          G3PZB         59 1 IO90IR
+QSO:   144 PH 2016-12-04 1308 G1HCM         59 4 IO90JR          G6RC          59 115 IO91VC
+QSO:   144 PH 2016-12-04 1338 G1HCM         59 5 IO90JR          M0BAA/P       55 228 JO01KJ
+QSO:   144 PH 2016-12-04 1342 G1HCM         59 6 IO90JR          G0VVE         59 156 IO91SG
+QSO:   144 PH 2016-12-04 1506 G1HCM         59 7 IO90JR          G7LQR         57 113 IO91TQ
+QSO:   144 PH 2016-12-04 1552 G1HCM         59 8 IO90JR          G6DOD         59 47 IO90JR
+END-OF-LOG:

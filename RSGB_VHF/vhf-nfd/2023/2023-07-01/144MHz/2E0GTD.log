@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: 2E0GTD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: CHECKLOG
+GRID-LOCATOR: IO91GE
+CATEGORY: CheckLog
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6579; excluded rows=6.
+QSO:   144 PH 2023-07-01 2043 2E0GTD        59 1 IO91GE          G4ZAP/P       59 348 JO01PU
+QSO:   144 PH 2023-07-01 2149 2E0GTD        57 2 IO91GE          G8SRC/P       57 88 IO91CL
+QSO:   144 PH 2023-07-01 2225 2E0GTD        59 3 IO91GE          G3TCR/P       59 34 IO91JG
+QSO:   144 PH 2023-07-02 1055 2E0GTD        59 4 IO91GE          G0SAC/P       59 127 IO91XH
+QSO:   144 PH 2023-07-02 1140 2E0GTD        59 5 IO91GE          G5LK/P        59 545 JO01QD
+QSO:   144 PH 2023-07-02 1143 2E0GTD        59 6 IO91GE          G3PYE/P       59 188 JO02CE
+END-OF-LOG:

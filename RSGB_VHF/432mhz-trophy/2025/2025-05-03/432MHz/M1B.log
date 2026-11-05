@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-TROPHY
+CALLSIGN: M1B
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82PA
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+Trophy&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1856; excluded rows=1.
+QSO:   432 PH 2025-05-03 1511 M1B           59 1 IO82PA          G2P           59 25 IO82MA
+QSO:   432 PH 2025-05-03 1515 M1B           59 2 IO82PA          G0B           59 9 IO82NG
+QSO:   432 PH 2025-05-03 1520 M1B           59 3 IO82PA          G4ASR         59 35 IO81MX
+QSO:   432 PH 2025-05-03 1525 M1B           54 4 IO82PA          G4ODA         53 63 IO92WS
+QSO:   432 PH 2025-05-03 1537 M1B           51 5 IO82PA          G4EPA         51 18 IO92KI
+END-OF-LOG:

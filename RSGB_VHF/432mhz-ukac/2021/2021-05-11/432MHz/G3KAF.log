@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G3KAF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO83WI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=210511&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8947; excluded rows=3.
+QSO:   432 PH 2021-05-11 1906 G3KAF         57 1 IO83WI          GD0AMD/P      55 8 IO74QD
+QSO:   432 PH 2021-05-11 1910 G3KAF         59 2 IO83WI          M0ICK/P       59 14 IO83RO
+QSO:   432 PH 2021-05-11 1927 G3KAF         56 3 IO83WI          GD8EXI        53 27 IO74PC
+QSO:   432 PH 2021-05-11 1935 G3KAF         59 4 IO83WI          M1EYP         57 9 IO83WG
+QSO:   432 CW 2021-05-11 1942 G3KAF         599 5 IO83WI         G3TDH         59 14 IO83PM
+END-OF-LOG:

@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0WMS
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO93RE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=181106&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10216; excluded rows=3.
+QSO:   144 PH 2018-11-06 2001 M0WMS         59 1 IO93RE          G4ODA         59 2 IO92WS
+QSO:   144 PH 2018-11-06 2003 M0WMS         59 2 IO93RE          2E0VPX        54 3 IO92UX
+QSO:   144 PH 2018-11-06 2007 M0WMS         59 3 IO93RE          M0CGL         59 10 JO03BF
+QSO:   144 PH 2018-11-06 2008 M0WMS         59 4 IO93RE          M1MHZ         58 17 IO92WV
+QSO:   144 PH 2018-11-06 2011 M0WMS         59 5 IO93RE          M0GAV/P       59 21 IO93EK
+QSO:   144 PH 2018-11-06 2016 M0WMS         59 6 IO93RE          M0ZMF/P       59 23 IO93NJ
+QSO:   144 PH 2018-11-06 2018 M0WMS         59 7 IO93RE          G3VCA         57 17 IO93MG
+QSO:   144 PH 2018-11-06 2021 M0WMS         59 8 IO93RE          M6NLL/P       57 8 IO93GE
+QSO:   144 PH 2018-11-06 2026 M0WMS         59 9 IO93RE          G0EAK/P       59 30 IO93NI
+QSO:   144 PH 2018-11-06 2050 M0WMS         59 10 IO93RE         2E0DKY        59 9 IO93SF
+QSO:   144 PH 2018-11-06 2052 M0WMS         59 11 IO93RE         G7FAR         59 13 IO93RE
+END-OF-LOG:

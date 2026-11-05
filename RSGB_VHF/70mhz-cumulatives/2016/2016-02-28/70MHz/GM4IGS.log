@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: GM4IGS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO75QN
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=160228&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=667; excluded rows=1.
+QSO:    70 CW 2016-02-28 1008 GM4IGS        559 1 IO75QN         GM4VVX        549 1 IO78TA
+QSO:    70 PH 2016-02-28 1020 GM4IGS        59 2 IO75QN          GM3WIL        59 1 IO75QL
+QSO:    70 PH 2016-02-28 1100 GM4IGS        59 3 IO75QN          GM4NFC        59 1 IO75RI
+QSO:    70 PH 2016-02-28 1118 GM4IGS        55 4 IO75QN          GM4DIJ        55 8 IO85IW
+END-OF-LOG:

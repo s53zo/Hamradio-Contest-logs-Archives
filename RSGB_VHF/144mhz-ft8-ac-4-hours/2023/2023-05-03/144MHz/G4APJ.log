@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-4-HOURS
+CALLSIGN: G4APJ
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%284+hours%29&Date=230503&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1444; excluded rows=5.
+QSO:   144 FT8 2023-05-03 1810 G4APJ         -10 IO83             G0LBK         -09 JO03
+QSO:   144 FT8 2023-05-03 1812 G4APJ         +11 IO83             M5LMG         -05 IO82
+QSO:   144 FT8 2023-05-03 1815 G4APJ         -05 IO83             GU0UVH        -08 IN89
+QSO:   144 FT8 2023-05-03 1816 G4APJ         +09 IO83             GR4NBS        -07 JO02
+QSO:   144 FT8 2023-05-03 1819 G4APJ         -05 IO83             2E0DUE        -05 JO01
+QSO:   144 FT8 2023-05-03 1822 G4APJ         -09 IO83             F4FET         -15 JO00
+QSO:   144 FT8 2023-05-03 1824 G4APJ         +02 IO83             M3HJG         -01 IO83
+QSO:   144 FT8 2023-05-03 1826 G4APJ         -17 IO83             GR0LGS        -15 IO81
+QSO:   144 FT8 2023-05-03 1828 G4APJ         -11 IO83             G4PMZ         -14 IO91
+QSO:   144 FT8 2023-05-03 1844 G4APJ         +04 IO83             G8EEM         -04 IO93
+QSO:   144 FT8 2023-05-03 1850 G4APJ         -16 IO83             G7LII/P       -04 IO92
+QSO:   144 FT8 2023-05-03 1858 G4APJ         -11 IO83             EI3IS         -05 IO53
+QSO:   144 FT8 2023-05-03 1900 G4APJ         +14 IO83             GI6ATZ        +09 IO74
+QSO:   144 FT8 2023-05-03 1903 G4APJ         -02 IO83             GM4JIB        -06 IO85
+QSO:   144 FT8 2023-05-03 1908 G4APJ         -01 IO83             MM0CEZ        -13 IO75
+QSO:   144 FT8 2023-05-03 1909 G4APJ         -08 IO83             G4YTD/P       +06 IO84
+END-OF-LOG:

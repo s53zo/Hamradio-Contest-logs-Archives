@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GI4SJQ
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO64SJ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=190402&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11652; excluded rows=2.
+QSO:   144 PH 2019-04-02 1915 GI4SJQ        59 1 IO64SJ          GI4SNA        59 16 IO64XM
+QSO:   144 PH 2019-04-02 1944 GI4SJQ        59 2 IO64SJ          MI5KAW        59 5 IO64XS
+QSO:   144 PH 2019-04-02 2004 GI4SJQ        55 3 IO64SJ          M0GHZ/P       53 71 IO81UN
+QSO:   144 PH 2019-04-02 2035 GI4SJQ        55 4 IO64SJ          G4CLA         54 204 IO92JL
+QSO:   144 PH 2019-04-02 2043 GI4SJQ        52 5 IO64SJ          GD8EXI        53 120 IO74PC
+END-OF-LOG:

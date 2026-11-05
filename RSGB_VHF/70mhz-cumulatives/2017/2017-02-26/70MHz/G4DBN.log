@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4DBN
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93NR
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=170226&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1361; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:    70 PH 2017-02-26 1042 G4DBN         59 1 IO93NR          G4FZN/P       59 35 IO94JF
+QSO:    70 PH 2017-02-26 1044 G4DBN         59 2 IO93NR          G8EOP         59 12 IO93EQ
+QSO:    70 PH 2017-02-26 1045 G4DBN         59 3 IO93NR          G1FFH         59 6 IO93HO
+QSO:    70 PH 2017-02-26 1051 G4DBN         59 4 IO93NR          G4HGT/P       59 36 IO93BV
+QSO:    70 PH 2017-02-26 1111 G4DBN         57 5 IO93NR          G3MXH         56 36 JO02LF
+QSO:    70 CW 2017-02-26 1138 G4DBN         559 7 IO93NR         GM4DIJ        52 14 IO85IW
+QSO:    70 PH 2017-02-26 1142 G4DBN         57 8 IO93NR          G3NPI         56 41 IO92MA
+QSO:    70 PH 2017-02-26 1145 G4DBN         57 9 IO93NR          G3MEH         53 50 IO91QS
+QSO:    70 CW 2017-02-26 1155 G4DBN         559 10 IO93NR        G4RFR         529 44 IO90AS
+END-OF-LOG:

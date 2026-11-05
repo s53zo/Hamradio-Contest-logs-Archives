@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: MW0DX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO71OT
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=220308&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7332; excluded rows=1.
+QSO:   432 PH 2022-03-08 2001 MW0DX         54 1 IO71OT          G0SKA         54 2 IO91OQ
+QSO:   432 PH 2022-03-08 2002 MW0DX         59 2 IO71OT          GW4JQP        59 1 IO71KR
+QSO:   432 PH 2022-03-08 2053 MW0DX         57 3 IO71OT          EI8KN         52 14 IO62IE
+QSO:   432 PH 2022-03-08 2055 MW0DX         57 4 IO71OT          GW8JWP        57 1 IO72QC
+QSO:   432 PH 2022-03-08 2107 MW0DX         55 5 IO71OT          G4CLA         55 102 IO92JL
+END-OF-LOG:

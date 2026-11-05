@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4BEE
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO83RQ
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=210311&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3441; excluded rows=1.
+QSO:    50 PH 2021-03-11 2000 G4BEE         59 1 IO83RQ          GW4ZAR        59 1 IO83KF
+QSO:    50 PH 2021-03-11 2001 G4BEE         59 2 IO83RQ          G8REQ         59 1 IO83KI
+QSO:    50 PH 2021-03-11 2003 G4BEE         59 3 IO83RQ          G8ZRE         59 6 IO83NE
+QSO:    50 PH 2021-03-11 2008 G4BEE         57 4 IO83RQ          G0VAX         55 2 IO83JJ
+QSO:    50 PH 2021-03-11 2023 G4BEE         57 5 IO83RQ          G3VCA         57 19 IO93MG
+QSO:    50 PH 2021-03-11 2027 G4BEE         57 6 IO83RQ          G1HLT         54 9 IO93JD
+QSO:    50 PH 2021-03-11 2048 G4BEE         54 7 IO83RQ          G3TDH         55 11 IO83WI
+QSO:    50 PH 2021-03-11 2100 G4BEE         59 8 IO83RQ          G4CLA         59 71 IO92JL
+QSO:    50 PH 2021-03-11 2137 G4BEE         59 9 IO83RQ          G0CDA         59 20 IO83SJ
+END-OF-LOG:

@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G4DJX
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91US
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2799; excluded rows=0.
+QSO:    50 PH 2022-10-16 0907 G4DJX         59 1 IO91US AL       G3MXH         59 3 JO02LF IP
+QSO:    50 PH 2022-10-16 0910 G4DJX         59 2 IO91US AL       G6UW          59 8 JO02AF CB
+QSO:    50 PH 2022-10-16 0913 G4DJX         59 3 IO91US AL       G4BWP         59 22 JO02FH IP
+QSO:    50 PH 2022-10-16 0915 G4DJX         59 4 IO91US AL       G7LRQ/P       59 12 IO91TU LU
+QSO:    50 PH 2022-10-16 0917 G4DJX         56 5 IO91US AL       G8CUL         57 13 IO91JO OX
+QSO:    50 PH 2022-10-16 1036 G4DJX         59 6 IO91US AL       G8FMC         59 39 IO91NW MK
+QSO:    50 PH 2022-10-16 1039 G4DJX         57 7 IO91US AL       G5TO/P        59 33 IO93FL SD
+QSO:    50 PH 2022-10-16 1046 G4DJX         53 8 IO91US AL       G4RRA         55 58 IO80BS EX
+QSO:    50 CW 2022-10-16 1052 G4DJX         579 9 IO91US AL      G3XZG         599 21 IO91QQ HP
+QSO:    50 CW 2022-10-16 1054 G4DJX         599 10 IO91US AL     G4YPC         599 10 IO91RH GU
+QSO:    50 PH 2022-10-16 1058 G4DJX         59 11 IO91US AL      G4ASR         59 10 IO81MX HR
+END-OF-LOG:

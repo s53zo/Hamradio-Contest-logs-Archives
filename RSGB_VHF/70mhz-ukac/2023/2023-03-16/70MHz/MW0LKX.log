@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: MW0LKX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO82LI
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=230316&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3618; excluded rows=2.
+QSO:    70 PH 2023-03-16 2214 MW0LKX        51 1 IO82LI          G6UAJ/P       52 61 IO91CL
+QSO:    70 PH 2023-03-16 2219 MW0LKX        51 2 IO82LI          G4ASR         55 95 IO81MX
+QSO:    70 PH 2023-03-16 2220 MW0LKX        59 3 IO82LI          GW1YBB/P      55 108 IO81KW
+QSO:    70 PH 2023-03-16 2228 MW0LKX        55 4 IO82LI          GW4SHF        59 68 IO82HP
+QSO:    70 PH 2023-03-16 2229 MW0LKX        51 5 IO82LI          G3TKF         52 41 IO81RF
+END-OF-LOG:

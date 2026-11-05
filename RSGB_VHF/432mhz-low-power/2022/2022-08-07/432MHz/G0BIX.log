@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-LOW-POWER
+CALLSIGN: G0BIX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01GI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+Low+Power&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1612; excluded rows=1.
+QSO:   432 PH 2022-08-07 1057 G0BIX         59 1 JO01GI ME       G3MEH         59 39 IO91QS HP
+QSO:   432 PH 2022-08-07 1100 G0BIX         59 2 JO01GI ME       GW1YBB/P      59 85 IO81KW NP
+QSO:   432 PH 2022-08-07 1105 G0BIX         59 3 JO01GI ME       G0VHF/P       59 53 JO01LW CO
+QSO:   432 PH 2022-08-07 1119 G0BIX         57 4 JO01GI ME       M0UHF         57 38 IO91IP OX
+END-OF-LOG:

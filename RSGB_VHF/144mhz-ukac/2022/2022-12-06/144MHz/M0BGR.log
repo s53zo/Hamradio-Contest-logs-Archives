@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: M0BGR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO01AL
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=221206&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9135; excluded rows=3.
+QSO:   144 PH 2022-12-06 2030 M0BGR         55 1 JO01AL          G0SKA         53 43 IO91OQ
+QSO:   144 PH 2022-12-06 2035 M0BGR         55 2 JO01AL          G0XDI         55 34 IO91RQ
+QSO:   144 PH 2022-12-06 2037 M0BGR         56 3 JO01AL          M0ABT/P       59 30 JO00BT
+QSO:   144 PH 2022-12-06 2051 M0BGR         59 4 JO01AL          M0SJW/P       59 10 JO01BH
+QSO:   144 PH 2022-12-06 2057 M0BGR         58 5 JO01AL          M0KUK         59 8 JO01AK
+QSO:   144 PH 2022-12-06 2103 M0BGR         55 6 JO01AL          G7LRQ         57 43 IO91TQ
+QSO:   144 PH 2022-12-06 2110 M0BGR         55 7 JO01AL          G3XDY         56 48 JO02OB
+QSO:   144 PH 2022-12-06 2114 M0BGR         55 8 JO01AL          G8GYX         57 36 IO91VH
+QSO:   144 PH 2022-12-06 2118 M0BGR         56 9 JO01AL          G4GFI         59 42 IO91VH
+QSO:   144 PH 2022-12-06 2122 M0BGR         51 10 JO01AL         G4CLA         59 156 IO92JL
+QSO:   144 PH 2022-12-06 2200 M0BGR         51 11 JO01AL         G4FVZ         54 86 IO91OW
+QSO:   144 PH 2022-12-06 2210 M0BGR         53 12 JO01AL         G4HWA         58 47 IO92ME
+END-OF-LOG:

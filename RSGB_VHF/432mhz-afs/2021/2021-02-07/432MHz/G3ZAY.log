@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G3ZAY
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO02BF
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 PH 2021-02-07 0900 G3ZAY         59 1 JO02BF          G4NBS         56 1 JO02AF
+QSO:   432 PH 2021-02-07 0906 G3ZAY         55 2 JO02BF          G4ERO         55 3 JO02DJ
+QSO:   432 PH 2021-02-07 0913 G3ZAY         55 3 JO02BF          G4ODA         54 14 IO92WS
+QSO:   432 PH 2021-02-07 0916 G3ZAY         59 4 JO02BF          M0VFC         59 5 JO02BG
+QSO:   432 PH 2021-02-07 0940 G3ZAY         55 5 JO02BF          G4CWH         55 10 JO01BV
+QSO:   432 PH 2021-02-07 1055 G3ZAY         55 6 JO02BF          M1MHZ         55 54 IO92WV
+END-OF-LOG:

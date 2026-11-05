@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G4RRM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83SC
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210105&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10676; excluded rows=1.
+QSO:   144 PH 2021-01-05 2147 G4RRM         59 1 IO83SC          2W0JYN        59 27 IO83LA
+QSO:   144 PH 2021-01-05 2148 G4RRM         55 2 IO83SC          G8REQ         55 50 IO83KI
+QSO:   144 PH 2021-01-05 2150 G4RRM         57 3 IO83SC          M1MLM         59 33 IO83WB
+QSO:   144 PH 2021-01-05 2204 G4RRM         59 4 IO83SC          G0XBU         59 41 IO83UF
+END-OF-LOG:

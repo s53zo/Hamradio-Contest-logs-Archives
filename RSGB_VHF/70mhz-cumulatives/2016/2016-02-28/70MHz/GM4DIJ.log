@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: GM4DIJ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO85IW
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=160228&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=667; excluded rows=1.
+QSO:    70 PH 2016-02-28 1017 GM4DIJ        59 1 IO85IW          GM4DTH        59 1 IO85JW
+QSO:    70 PH 2016-02-28 1019 GM4DIJ        59 2 IO85IW          GM1CNH        59 1 IO85IW
+QSO:    70 PH 2016-02-28 1027 GM4DIJ        55 3 IO85IW          GW8ASD        59 10 IO83LB
+QSO:    70 PH 2016-02-28 1028 GM4DIJ        57 4 IO85IW          GM4JR         57 5 IO85FB
+QSO:    70 PH 2016-02-28 1037 GM4DIJ        53 5 IO85IW          G4ASR         55 32 IO81MX
+QSO:    70 PH 2016-02-28 1056 GM4DIJ        59 6 IO85IW          GM8OEG        57 3 IO86NM
+QSO:    70 PH 2016-02-28 1115 GM4DIJ        55 7 IO85IW          GM3WIL        55 3 IO75QL
+QSO:    70 PH 2016-02-28 1119 GM4DIJ        55 8 IO85IW          GM4IGS        55 4 IO75QN
+QSO:    70 CW 2016-02-28 1146 GM4DIJ        519 9 IO85IW         G3UKV         539 32 IO82RR
+END-OF-LOG:

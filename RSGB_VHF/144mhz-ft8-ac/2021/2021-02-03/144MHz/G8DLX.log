@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC
+CALLSIGN: G8DLX
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC&Date=210203&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1753; excluded rows=1.
+QSO:   144 FT8 2021-02-03 1905 G8DLX         -11 IO92             G6ZYF         -17 IO92
+QSO:   144 FT8 2021-02-03 1908 G8DLX         +04 IO92             G6ORE         -10 IO92
+QSO:   144 FT8 2021-02-03 1911 G8DLX         +08 IO92             G4HGI         -11 IO83
+QSO:   144 FT8 2021-02-03 1913 G8DLX         -13 IO92             GI6ATZ        -15 IO74
+QSO:   144 FT8 2021-02-03 1922 G8DLX         +21 IO92             M7ERZ         +13 IO92
+QSO:   144 FT8 2021-02-03 1922 G8DLX         +01 IO92             2E0IEI        +13 IO81
+QSO:   144 FT8 2021-02-03 1925 G8DLX         +16 IO92             G1VDP         -06 IO92
+QSO:   144 FT8 2021-02-03 1946 G8DLX         +05 IO92             G4ASR         -13 IO81
+QSO:   144 FT8 2021-02-03 1954 G8DLX         +15 IO92             2E1ART        +02 IO92
+QSO:   144 FT8 2021-02-03 2013 G8DLX         -15 IO92             G3ZNU         -11 IO91
+QSO:   144 FT8 2021-02-03 2020 G8DLX         -08 IO92             G4RRA         -06 IO80
+QSO:   144 FT8 2021-02-03 2027 G8DLX         +00 IO92             G4TUH         -07 IO92
+QSO:   144 FT8 2021-02-03 2029 G8DLX         -07 IO92             G0JEI         -12 IO93
+QSO:   144 FT8 2021-02-03 2035 G8DLX         -08 IO92             G7IGC         -13 IO92
+QSO:   144 FT8 2021-02-03 2038 G8DLX         -15 IO92             G3YKI         -14 IO92
+QSO:   144 FT8 2021-02-03 2039 G8DLX         +04 IO92             2E1DFS        -04 IO92
+QSO:   144 FT8 2021-02-03 2046 G8DLX         -18 IO92             EI3KD         -19 IO51
+QSO:   144 FT8 2021-02-03 2052 G8DLX         -14 IO92             G3YDY         -20 JO01
+END-OF-LOG:

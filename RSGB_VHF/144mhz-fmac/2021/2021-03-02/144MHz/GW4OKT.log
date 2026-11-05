@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: GW4OKT
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83LE
+CATEGORY: 10W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=210302&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1123; excluded rows=1.
+QSO:   144 FM 2021-03-02 1900 GW4OKT        59 1 IO83LE          G7ICY         59 1 IO83NE
+QSO:   144 FM 2021-03-02 1901 GW4OKT        59 2 IO83LE          G8ZRE         59 3 IO83NE
+QSO:   144 FM 2021-03-02 1912 GW4OKT        59 3 IO83LE          GW4ZAR        59 13 IO83KF
+QSO:   144 FM 2021-03-02 1913 GW4OKT        59 4 IO83LE          M6OXO         59 8 IO83KI
+QSO:   144 FM 2021-03-02 1915 GW4OKT        59 5 IO83LE          GW3ATZ        59 13 IO83LE
+QSO:   144 FM 2021-03-02 1920 GW4OKT        55 6 IO83LE          G7WKX         57 4 IO83NI
+QSO:   144 FM 2021-03-02 1921 GW4OKT        55 7 IO83LE          G0XBU         57 11 IO83UF
+QSO:   144 FM 2021-03-02 1929 GW4OKT        57 8 IO83LE          G0UXC         59 7 IO83OJ
+QSO:   144 FM 2021-03-02 1947 GW4OKT        57 9 IO83LE          GW8ASD        59 22 IO83LB
+END-OF-LOG:

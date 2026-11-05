@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G4LDR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO91EC
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250109&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2410; excluded rows=1.
+QSO:    50 PH 2025-01-09 2016 G4LDR         55 1 IO91EC          G4GFI         59 10 IO91VH
+QSO:    50 PH 2025-01-09 2018 G4LDR         57 2 IO91EC          G8GYX         59 19 IO91VH
+QSO:    50 PH 2025-01-09 2025 G4LDR         57 3 IO91EC          M0UHF         59 16 IO91IP
+QSO:    50 PH 2025-01-09 2033 G4LDR         59 4 IO91EC          M0GHZ         59 12 IO81VK
+QSO:    50 PH 2025-01-09 2034 G4LDR         57 5 IO91EC          G8IQL/P       57 10 IO90LU
+QSO:    50 PH 2025-01-09 2037 G4LDR         58 6 IO91EC          G0SKA         59 25 IO91OQ
+QSO:    50 PH 2025-01-09 2044 G4LDR         59 7 IO91EC          G4CLA         59 51 IO92JL
+QSO:    50 PH 2025-01-09 2054 G4LDR         57 8 IO91EC          M0JWU         59 18 IO91SG
+QSO:    50 PH 2025-01-09 2055 G4LDR         59 9 IO91EC          G4CIZ         59 13 IO91FG
+QSO:    50 PH 2025-01-09 2058 G4LDR         57 10 IO91EC         G4ASR         59 48 IO81MX
+QSO:    50 PH 2025-01-09 2101 G4LDR         55 11 IO91EC         2E0OUT        55 10 IO81WO
+QSO:    50 PH 2025-01-09 2105 G4LDR         56 12 IO91EC         G4YPC         55 29 IO91RH
+QSO:    50 PH 2025-01-09 2111 G4LDR         54 13 IO91EC         G8FMC         54 22 IO91NW
+QSO:    50 PH 2025-01-09 2112 G4LDR         59 14 IO91EC         G7WHI/P       59 2 IO80XT
+QSO:    50 PH 2025-01-09 2131 G4LDR         55 15 IO91EC         G8DOH         55 25 IO92FA
+QSO:    50 PH 2025-01-09 2135 G4LDR         55 16 IO91EC         G8KQH         55 14 IO91RI
+END-OF-LOG:

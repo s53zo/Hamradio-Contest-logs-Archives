@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4ODA
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: IO92WS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+10+GHz&Date=160726&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=102; excluded rows=1.
+QSO:   10G PH 2016-07-26 1916 G4ODA         52 1 IO92WS          G8SFI/P       51 4 IO93OX
+QSO:   10G PH 2016-07-26 1930 G4ODA         57 2 IO92WS          G4LDR         57 2 IO91EC
+QSO:   10G PH 2016-07-26 1943 G4ODA         58 3 IO92WS          G3XDY         55 3 JO02OB
+QSO:   10G PH 2016-07-26 1950 G4ODA         58 4 IO92WS          G8OHM         55 5 IO92AJ
+QSO:   10G CW 2016-07-26 2021 G4ODA         419 5 IO92WS         G3UVR         559 6 IO83KH
+QSO:   10G PH 2016-07-26 2027 G4ODA         56 6 IO92WS          G0MJW         53 5 IO91IO
+QSO:   10G CW 2016-07-26 2110 G4ODA         429 7 IO92WS         G3UKV         419 7 IO82RR
+END-OF-LOG:

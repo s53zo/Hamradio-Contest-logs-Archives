@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: M0COP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO82OM
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=170216&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3667; excluded rows=1.
+QSO:    70 PH 2017-02-16 2001 M0COP         59 1 IO82OM          G4ASR         59 2 IO81MX
+QSO:    70 PH 2017-02-16 2003 M0COP         57 2 IO82OM          G0HEL/P       55 3 IO81WG
+QSO:    70 PH 2017-02-16 2004 M0COP         59 3 IO82OM          G1YBB/P       59 5 IO82LB
+QSO:    70 PH 2017-02-16 2048 M0COP         55 4 IO82OM          GW4BVE        57 17 IO82QK
+QSO:    70 PH 2017-02-16 2057 M0COP         53 5 IO82OM          M0GAV/P       53 45 IO93EH
+QSO:    70 PH 2017-02-16 2111 M0COP         55 6 IO82OM          2E0DXK/P      51 35 IO93FG
+QSO:    70 PH 2017-02-16 2115 M0COP         59 7 IO82OM          G0CER         59 15 IO82RV
+QSO:    70 PH 2017-02-16 2142 M0COP         55 8 IO82OM          M0RKX/P       57 31 IO92BA
+QSO:    70 PH 2017-02-16 2210 M0COP         53 9 IO82OM          G8PEF/P       56 25 IO83RO
+QSO:    70 PH 2017-02-16 2229 M0COP         55 10 IO82OM         G4NTY         52 45 IO83TM
+END-OF-LOG:

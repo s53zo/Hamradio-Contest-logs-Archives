@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G3WAG
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO82PB
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=230112&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2400; excluded rows=1.
+QSO:    50 PH 2023-01-12 2003 G3WAG         59 1 IO82PB          G3TKF         59 3 IO81RI
+QSO:    50 PH 2023-01-12 2004 G3WAG         59 2 IO82PB          G6UAJ/P       59 3 IO91CL
+QSO:    50 PH 2023-01-12 2006 G3WAG         59 3 IO82PB          G1YBB/P       59 9 IO82LB
+QSO:    50 PH 2023-01-12 2014 G3WAG         59 4 IO82PB          M0WLF         59 7 IO81QJ
+END-OF-LOG:

@@ -1,0 +1,36 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM7WOS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO75TW
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=221101&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8484; excluded rows=2.
+QSO:   144 PH 2022-11-01 2000 GM7WOS        59 1 IO75TW          MM0JTV        59 1 IO75TS
+QSO:   144 PH 2022-11-01 2007 GM7WOS        59 2 IO75TW          GM4DIJ        59 2 IO85IW
+QSO:   144 PH 2022-11-01 2011 GM7WOS        59 3 IO75TW          GM3SEK        57 10 IO74SR
+QSO:   144 PH 2022-11-01 2013 GM7WOS        59 4 IO75TW          GM4PPT        59 14 IO75SK
+QSO:   144 PH 2022-11-01 2017 GM7WOS        55 5 IO75TW          G0XDI         54 16 IO91RQ
+QSO:   144 PH 2022-11-01 2021 GM7WOS        59 6 IO75TW          GM7KIM        59 4 IO85AW
+QSO:   144 PH 2022-11-01 2040 GM7WOS        59 7 IO75TW          G4CLA         57 80 IO92JL
+QSO:   144 PH 2022-11-01 2043 GM7WOS        59 8 IO75TW          GM4BYF        59 18 IO85JV
+QSO:   144 PH 2022-11-01 2057 GM7WOS        59 9 IO75TW          MM7SWM        59 9 IO75UT
+QSO:   144 PH 2022-11-01 2104 GM7WOS        59 10 IO75TW         GM4GUF        59 20 IO85EP
+QSO:   144 PH 2022-11-01 2107 GM7WOS        55 11 IO75TW         G0CNN         53 39 IO94AI
+QSO:   144 PH 2022-11-01 2112 GM7WOS        59 12 IO75TW         GM0PJD        59 4 IO85EP
+QSO:   144 PH 2022-11-01 2115 GM7WOS        55 13 IO75TW         G0ODQ         57 46 IO91MR
+QSO:   144 PH 2022-11-01 2120 GM7WOS        55 14 IO75TW         M1MHZ         54 54 IO92WV
+QSO:   144 PH 2022-11-01 2122 GM7WOS        59 15 IO75TW         MM0GHM        59 9 IO75TO
+QSO:   144 PH 2022-11-01 2129 GM7WOS        59 16 IO75TW         GM4JTJ        57 38 IO86RP
+QSO:   144 PH 2022-11-01 2147 GM7WOS        59 17 IO75TW         MM0OKG        59 20 IO86DB
+QSO:   144 PH 2022-11-01 2156 GM7WOS        59 18 IO75TW         M0KYB/P       55 69 IO91FN
+QSO:   144 PH 2022-11-01 2208 GM7WOS        59 19 IO75TW         MM0ZBH        55 12 IO86IB
+QSO:   144 CW 2022-11-01 2223 GM7WOS        579 20 IO75TW        G4ASR/P       529 118 IO82LB
+END-OF-LOG:

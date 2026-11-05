@@ -1,0 +1,33 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: G1DSP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO92WU
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7394; excluded rows=0.
+QSO:   144 PH 2022-12-04 1005 G1DSP         59 2 IO92WU          G3TBK/P       59 6 IO93RA
+QSO:   144 PH 2022-12-04 1008 G1DSP         59 3 IO92WU          G4ODA         59 17 IO92WS
+QSO:   144 PH 2022-12-04 1020 G1DSP         59 4 IO92WU          G1PPA/P       59 13 JO03AE
+QSO:   144 PH 2022-12-04 1028 G1DSP         59 5 IO92WU          G3PYE/P       59 28 JO02CE
+QSO:   144 PH 2022-12-04 1101 G1DSP         55 6 IO92WU          G0XDI         55 60 IO91RQ
+QSO:   144 PH 2022-12-04 1113 G1DSP         55 7 IO92WU          M0JRU         55 7 IO92UQ
+QSO:   144 PH 2022-12-04 1132 G1DSP         59 8 IO92WU          G4NBS         59 61 JO02AF
+QSO:   144 PH 2022-12-04 1200 G1DSP         55 9 IO92WU          G4CWH/P       58 56 IO92XA
+QSO:   144 PH 2022-12-04 1215 G1DSP         59 10 IO92WU         G1SCT         59 44 IO92XT
+QSO:   144 PH 2022-12-04 1220 G1DSP         59 11 IO92WU         G0EAK/P       59 73 IO93NI
+QSO:   144 PH 2022-12-04 1236 G1DSP         59 12 IO92WU         M7DQO         59 18 IO92XR
+QSO:   144 PH 2022-12-04 1002 G1DSP         59 1 IO92WU          M1MHZ         59 2 IO92WV
+QSO:   144 PH 2022-12-04 1314 G1DSP         55 13 IO92WU         GD8EXI        53 124 IO74PC
+QSO:   144 PH 2022-12-04 1341 G1DSP         59 14 IO92WU         M6DAC         59 4 IO92WT
+QSO:   144 PH 2022-12-04 1349 G1DSP         55 15 IO92WU         G3MEH         54 118 IO91QS
+QSO:   144 PH 2022-12-04 1400 G1DSP         59 16 IO92WU         G4HPE         59 20 IO92XA
+END-OF-LOG:

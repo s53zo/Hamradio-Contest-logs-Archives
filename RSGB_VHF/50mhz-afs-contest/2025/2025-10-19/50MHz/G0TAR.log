@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-AFS-CONTEST
+CALLSIGN: G0TAR
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: JO01GI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+AFS+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2706; excluded rows=0.
+QSO:    50 PH 2025-10-19 1000 G0TAR         59 1 JO01GI ME       G4LIP         59 50 IO92JL LE
+QSO:    50 PH 2025-10-19 1002 G0TAR         59 2 JO01GI ME       G5PI/P        59 48 JO02EB CB
+QSO:    50 PH 2025-10-19 1008 G0TAR         59 3 JO01GI ME       G6UW          59 27 JO02AF CB
+QSO:    50 PH 2025-10-19 1011 G0TAR         59 4 JO01GI ME       G4BWP         59 64 JO02FH IP
+QSO:    50 PH 2025-10-19 1022 G0TAR         57 5 JO01GI ME       G3LDI         57 24 JO02ON NK
+QSO:    50 PH 2025-10-19 1117 G0TAR         54 6 JO01GI ME       M0NKR         54 36 JO02HK IP
+QSO:    50 PH 2025-10-19 1126 G0TAR         58 7 JO01GI ME       G4CWH/P       58 70 IO92XA SG
+QSO:    50 PH 2025-10-19 1129 G0TAR         57 8 JO01GI ME       G0SKA         57 61 IO91OQ HP
+QSO:    50 PH 2025-10-19 1133 G0TAR         59 9 JO01GI ME       G1DSP/P       59 29 IO92VU PE
+QSO:    50 PH 2025-10-19 1139 G0TAR         59 10 JO01GI ME      G4LPP         59 43 JO02SS NK
+QSO:    50 PH 2025-10-19 1227 G0TAR         55 11 JO01GI ME      G3TBK/P       55 69 IO93RA NG
+QSO:    50 PH 2025-10-19 1229 G0TAR         59 12 JO01GI ME      G8SEI         59 65 IO92FO CV
+END-OF-LOG:

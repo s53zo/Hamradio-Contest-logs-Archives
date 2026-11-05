@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: GW8REQ/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO82KW
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=170725&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=232; excluded rows=2.
+SOAPBOX: WARNING: 2 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: invalid source locator (2).
+QSO:  2.3G PH 2017-07-25 2030 GW8REQ/P      59 1 IO82KW          G4JLG/P       59 1 IO83RO
+QSO:  2.3G PH 2017-07-25 2037 GW8REQ/P      59 2 IO82KW          G4CBW         59 2 IO83UB
+QSO:  2.3G PH 2017-07-25 2041 GW8REQ/P      59 3 IO82KW          G3UVR         55 1 IO83KH
+QSO:  2.3G PH 2017-07-25 2045 GW8REQ/P      59 4 IO82KW          GW8ASD        59 2 IO83LB
+QSO:  2.3G PH 2017-07-25 2057 GW8REQ/P      57 5 IO82KW          G8KPD/P       55 4 IO85XF
+QSO:  2.3G PH 2017-07-25 2103 GW8REQ/P      52 6 IO82KW          G8SFI/P       52 9 IO93OX
+QSO:  2.3G PH 2017-07-25 2117 GW8REQ/P      59 8 IO82KW          G4CLA         57 8 IO92JL
+QSO:  2.3G PH 2017-07-25 2155 GW8REQ/P      53 10 IO82KW         G4DBN         53 12 IO93NR
+END-OF-LOG:

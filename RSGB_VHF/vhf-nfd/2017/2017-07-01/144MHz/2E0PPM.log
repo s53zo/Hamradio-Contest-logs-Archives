@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: 2E0PPM
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91UO
+CATEGORY: FSO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=9822; excluded rows=9.
+QSO:   144 PH 2017-07-01 1715 2E0PPM        59 1 IO91UO          G0SAC/P       57 87 IO91XG
+QSO:   144 PH 2017-07-01 1815 2E0PPM        55 2 IO91UO          G8OHM/P       55 155 IO92GB
+QSO:   144 PH 2017-07-01 1824 2E0PPM        55 3 IO91UO          G5LK/P        55 235 JO01QD
+QSO:   144 PH 2017-07-01 1854 2E0PPM        57 4 IO91UO          G4ZAP/P       57 187 JO01PU
+QSO:   144 PH 2017-07-01 1903 2E0PPM        55 5 IO91UO          G4RFR/P       55 119 IO80ST
+QSO:   144 PH 2017-07-01 1916 2E0PPM        57 6 IO91UO          G3PIA/P       59 88 IO91IN
+QSO:   144 PH 2017-07-01 1945 2E0PPM        56 7 IO91UO          G0ARC/P       55 141 IO91EH
+QSO:   144 PH 2017-07-02 0846 2E0PPM        57 8 IO91UO          M0HRF/P       57 372 IO91GI
+QSO:   144 CW 2017-07-02 0853 2E0PPM        599 9 IO91UO         G0FBB/P       57 326 JO01LD
+QSO:   144 PH 2017-07-02 0904 2E0PPM        59 10 IO91UO         G0KDV/P       59 51 JO01CJ
+QSO:   144 PH 2017-07-02 0920 2E0PPM        55 11 IO91UO         M0MDG/P       57 174 IO91MP
+QSO:   144 PH 2017-07-02 1013 2E0PPM        54 12 IO91UO         G3WKS/P       54 141 JO01ED
+END-OF-LOG:

@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: GW9J
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO72VE
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8218; excluded rows=5.
+QSO:   144 PH 2022-05-21 1935 GW9J          57 1 IO72VE SA       GM3HAM/P      53 71 IO74WV DG
+QSO:   144 PH 2022-05-21 1938 GW9J          59 2 IO72VE SA       GD0AMD/P      59 16 IO74QD IM
+QSO:   144 PH 2022-05-21 2002 GW9J          55 3 IO72VE SA       G3TBK/P       55 87 IO93RA NG
+QSO:   144 PH 2022-05-22 1102 GW9J          55 4 IO72VE SA       G8T           45 388 JO01KJ ME
+QSO:   144 PH 2022-05-22 1104 GW9J          59 5 IO72VE SA       GW1YBB/P      58 7 IO81KW NP
+QSO:   144 CW 2022-05-22 1123 GW9J          419 6 IO72VE SA      MM0GPZ        529 50 IO75WS GS
+QSO:   144 PH 2022-05-22 1157 GW9J          55 7 IO72VE SA       M1N           53 109 IO91CL SN
+QSO:   144 PH 2022-05-22 1203 GW9J          55 8 IO72VE SA       G0VHF/P       51 348 JO01PU CO
+QSO:   144 PH 2022-05-22 1207 GW9J          55 9 IO72VE SA       GW8OVZ/P      59 16 IO71OW SA
+QSO:   144 PH 2022-05-22 1218 GW9J          41 10 IO72VE SA      2E0NEY        55 125 IO81VK SN
+QSO:   144 PH 2022-05-22 1249 GW9J          55 11 IO72VE SA      G4ASR         55 198 IO81MX HR
+QSO:   144 PH 2022-05-22 1310 GW9J          55 12 IO72VE SA      GM6MD/P       55 93 IO75VG DG
+QSO:   144 PH 2022-05-22 1331 GW9J          55 13 IO72VE SA      GI6ATZ        52 36 IO74AJ BT
+QSO:   144 CW 2022-05-22 1337 GW9J          519 14 IO72VE SA     G0B           529 78 IO82NG HR
+QSO:   144 PH 2022-05-22 1348 GW9J          51 15 IO72VE SA      M5TKA         52 161 IO91OX MK
+QSO:   144 PH 2022-05-22 1351 GW9J          59 16 IO72VE SA      GW4ZHI        59 2 IO82AH SY
+END-OF-LOG:

@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: GM4ODA/P
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO99IV
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=220607&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=11893; excluded rows=8.
+QSO:   144 PH 2022-06-07 1900 GM4ODA/P      59 1 IO99IV          GM4JTJ        58 1 IO86RP
+QSO:   144 PH 2022-06-07 1901 GM4ODA/P      58 2 IO99IV          G8KPD/P       58 1 IO85XF
+QSO:   144 PH 2022-06-07 1902 GM4ODA/P      57 3 IO99IV          G8PNN/P       58 1 IO95AF
+QSO:   144 PH 2022-06-07 1903 GM4ODA/P      59 4 IO99IV          GM4YXI        59 1 IO87WK
+QSO:   144 CW 2022-06-07 1930 GM4ODA/P      529 5 IO99IV         SM6VTZ        559 2 JO58UJ
+QSO:   144 CW 2022-06-07 2020 GM4ODA/P      579 6 IO99IV         G0LBK         529 16 JO03BD
+QSO:   144 PH 2022-06-07 2021 GM4ODA/P      59 7 IO99IV          G0UUU/P       59 21 IO94RJ
+QSO:   144 PH 2022-06-07 2046 GM4ODA/P      55 8 IO99IV          G8DMU/P       52 104 IO94CB
+QSO:   144 PH 2022-06-07 2113 GM4ODA/P      55 9 IO99IV          G4CLA         55 230 IO92JL
+QSO:   144 PH 2022-06-07 2122 GM4ODA/P      59 10 IO99IV         G4KUX         549 64 IO94BP
+END-OF-LOG:

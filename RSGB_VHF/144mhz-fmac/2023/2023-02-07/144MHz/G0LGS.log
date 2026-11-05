@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: G0LGS
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81WV
+CATEGORY: 50W
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+FMAC&Date=230207&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=1103; excluded rows=0.
+QSO:   144 FM 2023-02-07 1901 G0LGS         59 1 IO81WV          G4ILI/P       59 2 IO81WU
+QSO:   144 FM 2023-02-07 1905 G0LGS         59 2 IO81WV          M7TPE         59 3 IO81PV
+QSO:   144 FM 2023-02-07 1907 G0LGS         59 3 IO81WV          G0RMG/P       59 6 IO92BA
+QSO:   144 FM 2023-02-07 1911 G0LGS         59 4 IO81WV          2E0YCC/P      59 9 IO91CM
+QSO:   144 FM 2023-02-07 1912 G0LGS         59 5 IO81WV          G0ORE/P       59 6 IO82XJ
+QSO:   144 FM 2023-02-07 1914 G0LGS         59 6 IO81WV          GW4ASR/P      59 3 IO81NV
+QSO:   144 FM 2023-02-07 1916 G0LGS         59 7 IO81WV          G0USL         59 1 IO81WV
+QSO:   144 FM 2023-02-07 1918 G0LGS         57 8 IO81WV          G8LNR/P       59 6 IO81VR
+QSO:   144 FM 2023-02-07 1922 G0LGS         59 9 IO81WV          M0KYB/P       59 24 IO91FN
+QSO:   144 FM 2023-02-07 1924 G0LGS         57 10 IO81WV         M1DST         53 18 IO91BN
+QSO:   144 FM 2023-02-07 1925 G0LGS         59 11 IO81WV         G0PLA/P       59 17 IO82XJ
+QSO:   144 FM 2023-02-07 1929 G0LGS         59 12 IO81WV         M0TVZ         59 6 IO92DE
+QSO:   144 FM 2023-02-07 1938 G0LGS         59 13 IO81WV         G1YBB/P       59 7 IO82LB
+QSO:   144 FM 2023-02-07 1942 G0LGS         47 14 IO81WV         M5CBS/P       59 21 IO91CL
+QSO:   144 FM 2023-02-07 1944 G0LGS         59 15 IO81WV         2E0MDJ        59 4 IO81WV
+END-OF-LOG:

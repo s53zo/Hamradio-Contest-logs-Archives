@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: G8ONK
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO83MR
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=1143; excluded rows=3.
+QSO:  1.2G PH 2019-07-06 1714 G8ONK         59 1 IO83MR          EI9E/P        57 19 IO62OM
+QSO:  1.2G PH 2019-07-06 1836 G8ONK         55 2 IO83MR          G3PIA/P       57 32 IO91IN
+QSO:  1.2G PH 2019-07-06 1854 G8ONK         59 3 IO83MR          G3ZME/P       59 26 IO82NN
+QSO:  1.2G PH 2019-07-06 1912 G8ONK         56 4 IO83MR          GM3HAM/P      57 13 IO74WV
+QSO:  1.2G PH 2019-07-07 1025 G8ONK         56 5 IO83MR          G3SVJ/P       55 50 IO92XA
+END-OF-LOG:

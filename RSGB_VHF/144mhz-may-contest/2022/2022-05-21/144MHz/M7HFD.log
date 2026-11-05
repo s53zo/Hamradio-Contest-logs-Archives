@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: M7HFD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82UC
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8218; excluded rows=5.
+QSO:   144 PH 2022-05-21 1428 M7HFD         59 1 IO82UC WR       G4ASR         59 16 IO81MX HR
+QSO:   144 PH 2022-05-21 1431 M7HFD         57 2 IO82UC WR       G2P           54 20 IO82MA HR
+QSO:   144 PH 2022-05-21 1440 M7HFD         58 3 IO82UC WR       G3WRA         55 10 IO82RJ DY
+QSO:   144 PH 2022-05-21 1518 M7HFD         57 4 IO82UC WR       M1L           52 19 IO81WV GL
+QSO:   144 PH 2022-05-21 1528 M7HFD         59 5 IO82UC WR       G4ROR         59 1 IO82VE WR
+QSO:   144 PH 2022-05-21 1538 M7HFD         59 6 IO82UC WR       M4W           59 34 IO91CL SN
+QSO:   144 PH 2022-05-21 1615 M7HFD         58 7 IO82UC WR       G8LNR/P       55 24 IO81VR GL
+QSO:   144 PH 2022-05-21 1632 M7HFD         59 8 IO82UC WR       M1CFK         59 6 IO92AG BM
+QSO:   144 PH 2022-05-21 1712 M7HFD         57 9 IO82UC WR       M1G           54 9 IO91CL SN
+END-OF-LOG:

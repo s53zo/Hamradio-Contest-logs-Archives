@@ -1,0 +1,28 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G1DSP
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO92WU
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=230207&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=13224; excluded rows=7.
+QSO:   144 PH 2023-02-07 2001 G1DSP         59 1 IO92WU          M1MHZ         59 2 IO92WV
+QSO:   144 PH 2023-02-07 2008 G1DSP         59 2 IO92WU          G4ODA         59 6 IO92WS
+QSO:   144 PH 2023-02-07 2014 G1DSP         59 3 IO92WU          G0LBK         59 19 JO03BD
+QSO:   144 PH 2023-02-07 2019 G1DSP         59 4 IO92WU          G0WUS/P       59 14 IO92MP
+QSO:   144 PH 2023-02-07 2030 G1DSP         59 5 IO92WU          G3MEH         54 28 IO91QS
+QSO:   144 PH 2023-02-07 2033 G1DSP         59 6 IO92WU          G4CLA         59 90 IO92JL
+QSO:   144 PH 2023-02-07 2108 G1DSP         55 7 IO92WU          2E0VPX        55 20 IO92UX
+QSO:   144 PH 2023-02-07 2111 G1DSP         59 8 IO92WU          G3TBK/P       59 92 IO93RA
+QSO:   144 PH 2023-02-07 2122 G1DSP         55 9 IO92WU          G4FZN/P       57 103 IO94JF
+QSO:   144 PH 2023-02-07 2126 G1DSP         59 10 IO92WU         M7DQO         59 12 IO92XR
+QSO:   144 PH 2023-02-07 2130 G1DSP         55 11 IO92WU         G4AFF         55 74 JO02LO
+QSO:   144 PH 2023-02-07 2148 G1DSP         59 12 IO92WU         M0JRU         59 15 IO92UQ
+QSO:   144 PH 2023-02-07 2154 G1DSP         59 13 IO92WU         G8SEI         59 81 IO92FO
+END-OF-LOG:

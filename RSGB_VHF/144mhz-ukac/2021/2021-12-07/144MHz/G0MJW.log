@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0MJW
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91IO
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=211207&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6901; excluded rows=4.
+QSO:   144 PH 2021-12-07 2125 G0MJW         59 1 IO91IO          M0DXR/P       59 130 JO01DH
+QSO:   144 PH 2021-12-07 2128 G0MJW         59 2 IO91IO          G8FMC         55 39 IO91NW
+QSO:   144 PH 2021-12-07 2130 G0MJW         59 3 IO91IO          G4KQH         57 49 IO92JD
+QSO:   144 PH 2021-12-07 2140 G0MJW         59 4 IO91IO          M0UHF         59 18 IO91IP
+QSO:   144 CW 2021-12-07 2155 G0MJW         519 5 IO91IO         F4VRB         519 19 IN98PT
+QSO:   144 PH 2021-12-07 2158 G0MJW         53 6 IO91IO          F1BHL/P       55 51 IN99PI
+QSO:   144 PH 2021-12-07 2159 G0MJW         59 7 IO91IO          G0SKA         59 103 IO91OQ
+QSO:   144 PH 2021-12-07 2200 G0MJW         59 8 IO91IO          G8DVK         59 65 IO91IN
+QSO:   144 PH 2021-12-07 2204 G0MJW         59 9 IO91IO          G4BRK         59 43 IO91HP
+QSO:   144 PH 2021-12-07 2207 G0MJW         59 10 IO91IO         G0BNC         59 23 IO91GT
+QSO:   144 PH 2021-12-07 2215 G0MJW         53 11 IO91IO         GI4SNA        51 88 IO64XM
+QSO:   144 PH 2021-12-07 2217 G0MJW         57 12 IO91IO         GD8EXI        55 110 IO74PC
+QSO:   144 PH 2021-12-07 2219 G0MJW         53 13 IO91IO         G1MDG/P       56 98 IO90VV
+QSO:   144 PH 2021-12-07 2225 G0MJW         55 14 IO91IO         G0CNN/P       52 90 IO94AI
+QSO:   144 PH 2021-12-07 2229 G0MJW         59 15 IO91IO         G1VNB         55 31 IO92GL
+END-OF-LOG:

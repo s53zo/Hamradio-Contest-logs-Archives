@@ -1,0 +1,38 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CUMULATIVES
+CALLSIGN: G4RQI
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO93IR
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=70&Contest=70MHz+Cumulatives&Date=180225&year=2018
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=924; excluded rows=0.
+QSO:    70 PH 2018-02-25 1003 G4RQI         55 1 IO93IR          G4CZB         55 2 IO92MF
+QSO:    70 PH 2018-02-25 1005 G4RQI         59 2 IO93IR          G8EOP         59 3 IO93EQ
+QSO:    70 PH 2018-02-25 1006 G4RQI         59 3 IO93IR          G4FZN/P       59 4 IO94JF
+QSO:    70 PH 2018-02-25 1007 G4RQI         57 4 IO93IR          G3NPI         59 3 IO92MA
+QSO:    70 PH 2018-02-25 1011 G4RQI         52 5 IO93IR          G8FMC         52 6 IO91NW
+QSO:    70 PH 2018-02-25 1012 G4RQI         55 6 IO93IR          G0EAK/P       59 7 IO93NI
+QSO:    70 PH 2018-02-25 1012 G4RQI         55 7 IO93IR          M6XAK         58 5 IO93MH
+QSO:    70 PH 2018-02-25 1013 G4RQI         59 8 IO93IR          2E1SKY        59 4 IO93KH
+QSO:    70 PH 2018-02-25 1020 G4RQI         52 9 IO93IR          G4RFR         55 13 IO90AS
+QSO:    70 PH 2018-02-25 1032 G4RQI         53 10 IO93IR         G4HGI         55 16 IO83PL
+QSO:    70 PH 2018-02-25 1034 G4RQI         55 11 IO93IR         GW8ASD        59 15 IO83LB
+QSO:    70 PH 2018-02-25 1036 G4RQI         53 12 IO93IR         GW4ZAR        53 8 IO83KF
+QSO:    70 PH 2018-02-25 1037 G4RQI         59 13 IO93IR         G4HGT/P       59 29 IO93BV
+QSO:    70 CW 2018-02-25 1049 G4RQI         559 14 IO93IR        G3TDH         599 11 IO83WI
+QSO:    70 CW 2018-02-25 1053 G4RQI         559 15 IO93IR        G3PWK         559 3 IO93GX
+QSO:    70 CW 2018-02-25 1101 G4RQI         529 16 IO93IR        GW4HBK        559 2 IO81KP
+QSO:    70 PH 2018-02-25 1106 G4RQI         53 17 IO93IR         G4CLB         59 10 IO92HM
+QSO:    70 PH 2018-02-25 1120 G4RQI         59 18 IO93IR         G4DBN         59 3 IO93NR
+QSO:    70 PH 2018-02-25 1126 G4RQI         55 19 IO93IR         G8LZE         57 19 IO91SO
+QSO:    70 PH 2018-02-25 1128 G4RQI         57 20 IO93IR         G4ASR         59 56 IO81MX
+QSO:    70 PH 2018-02-25 1129 G4RQI         54 21 IO93IR         M0AHN/P       57 31 IO91BJ
+QSO:    70 PH 2018-02-25 1131 G4RQI         54 22 IO93IR         G4FKK         58 13 IO91WI
+END-OF-LOG:

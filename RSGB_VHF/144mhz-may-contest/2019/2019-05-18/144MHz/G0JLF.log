@@ -1,0 +1,32 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G0JLF
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81OJ
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6690; excluded rows=1.
+QSO:   144 PH 2019-05-19 0903 G0JLF         59 1 IO81OJ BS       M9T           57 15 IO80AQ EX
+QSO:   144 PH 2019-05-19 0909 G0JLF         59 2 IO81OJ BS       G4L           55 64 IO91CL SN
+QSO:   144 PH 2019-05-19 1244 G0JLF         53 3 IO81OJ BS       M5IC/P        55 170 JO01LH ME
+QSO:   144 PH 2019-05-19 1249 G0JLF         53 4 IO81OJ BS       G8T           52 407 JO01KJ ME
+QSO:   144 PH 2019-05-19 1255 G0JLF         59 5 IO81OJ BS       GW1YBB/P      59 103 IO81KW NP
+QSO:   144 PH 2019-05-19 1257 G0JLF         59 6 IO81OJ BS       G8VVY/P       59 10 IO81FF TA
+QSO:   144 PH 2019-05-19 1304 G0JLF         52 7 IO81OJ BS       2E0VCC/P      57 37 IO70SP PL
+QSO:   144 PH 2019-05-19 1308 G0JLF         55 8 IO81OJ BS       GW4SHF        53 119 IO82HP SY
+QSO:   144 PH 2019-05-19 1315 G0JLF         55 9 IO81OJ BS       G3M           59 366 JO01QD CT
+QSO:   144 PH 2019-05-19 1321 G0JLF         59 10 IO81OJ BS      G4ASR         59 227 IO81MX HR
+QSO:   144 PH 2019-05-19 1325 G0JLF         55 11 IO81OJ BS      M0YCG/P       52 116 IO94
+QSO:   144 CW 2019-05-19 1337 G0JLF         512 12 IO81OJ BS     M1CJE/P       59 26 IO81VR GL
+QSO:   144 PH 2019-05-19 1343 G0JLF         59 13 IO81OJ BS      M0BUL         55 50 IO82NG HR
+QSO:   144 PH 2019-05-19 1349 G0JLF         59 14 IO81OJ BS      G0VHF/P       59 373 JO01PU CO
+END-OF-LOG:

@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: G4NKT
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO81RL
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5208; excluded rows=2.
+QSO:   432 CW 2021-02-07 1016 G4NKT         513 1 IO81RL         G4IZZ         59 13 IO81XX
+QSO:   432 PH 2021-02-07 1016 G4NKT         59 2 IO81RL          G8GRS         59 7 IO81QJ
+QSO:   432 PH 2021-02-07 1017 G4NKT         59 3 IO81RL          M0GHZ         59 30 IO81VK
+QSO:   432 PH 2021-02-07 1028 G4NKT         59 4 IO81RL          G3TKF         59 15 IO81RI
+QSO:   432 PH 2021-02-07 1035 G4NKT         57 5 IO81RL          G8LNR         57 7 IO81UR
+QSO:   432 PH 2021-02-07 1053 G4NKT         59 6 IO81RL          G0JCC         59 49 IO82MA
+END-OF-LOG:

@@ -1,0 +1,29 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: G5B
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 3CM
+GRID-LOCATOR: JO03AD
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2016
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=112; excluded rows=1.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: mode cannot be established from source or contest context (1).
+QSO:   10G PH 2016-05-07 1424 G5B           59 1 JO03AD          G8OHM         59 2 IO92AJ
+QSO:   10G CW 2016-05-07 1457 G5B           539 2 JO03AD         G4BAO         559 1 JO02CG
+QSO:   10G PH 2016-05-07 1510 G5B           59 3 JO03AD          M1CRO/P       59 7 JO01PU
+QSO:   10G CW 2016-05-07 1614 G5B           519 5 JO03AD         F6DKW         559 2 JN18CS
+QSO:   10G PH 2016-05-07 1620 G5B           57 6 JO03AD          G4KUX         55 4 IO94BP
+QSO:   10G PH 2016-05-07 1630 G5B           59 7 JO03AD          G3Z           59 8 IO82QL
+QSO:   10G PH 2016-05-07 1638 G5B           57 8 JO03AD          G4RGK         57 2 IO91ON
+QSO:   10G PH 2016-05-07 1713 G5B           59 9 JO03AD          G3XDY         59 8 JO02OB
+QSO:   10G PH 2016-05-07 1900 G5B           52 10 JO03AD         G4LDR         52 3 IO91EC
+QSO:   10G PH 2016-05-07 1929 G5B           55 11 JO03AD         PI4GN         56 3 JO33II
+QSO:   10G CW 2016-05-07 1950 G5B           539 12 JO03AD        G3UVR         589 1 IO83KH
+QSO:   10G PH 2016-05-07 2148 G5B           59 13 JO03AD         G2L           59 4 IO92XA
+END-OF-LOG:

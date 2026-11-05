@@ -1,0 +1,36 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: MM0GPZ
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO75WS
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=190117&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3360; excluded rows=1.
+QSO:    70 PH 2019-01-17 2000 MM0GPZ        59 1 IO75WS          GM4JTJ        55 1 IO86RP
+QSO:    70 PH 2019-01-17 2001 MM0GPZ        57 2 IO75WS          G8KPD/P       57 2 IO85XF
+QSO:    70 PH 2019-01-17 2002 MM0GPZ        51 3 IO75WS          G8PNN/P       51 2 IO95AF
+QSO:    70 PH 2019-01-17 2004 MM0GPZ        59 4 IO75WS          GM4DIJ        59 1 IO85IW
+QSO:    70 PH 2019-01-17 2005 MM0GPZ        57 5 IO75WS          GM4AFF        59 2 IO86TS
+QSO:    70 PH 2019-01-17 2005 MM0GPZ        59 6 IO75WS          GM0OQV        59 1 IO85AT
+QSO:    70 PH 2019-01-17 2012 MM0GPZ        52 7 IO75WS          GM4VVX        51 1 IO78TA
+QSO:    70 PH 2019-01-17 2014 MM0GPZ        57 8 IO75WS          GM8OEG        57 1 IO86NM
+QSO:    70 PH 2019-01-17 2018 MM0GPZ        54 9 IO75WS          G8BUN         52 8 IO93EQ
+QSO:    70 PH 2019-01-17 2022 MM0GPZ        52 10 IO75WS         GW8ASD        54 11 IO83LB
+QSO:    70 PH 2019-01-17 2026 MM0GPZ        57 11 IO75WS         G3VCA         57 24 IO93MG
+QSO:    70 PH 2019-01-17 2028 MM0GPZ        59 12 IO75WS         GM4ZMK        59 1 IO75TW
+QSO:    70 PH 2019-01-17 2044 MM0GPZ        51 13 IO75WS         MM0GPZ        52 43 IO81MX
+QSO:    70 PH 2019-01-17 2049 MM0GPZ        55 14 IO75WS         G4FZN/P       59 50 IO94JF
+QSO:    70 PH 2019-01-17 2052 MM0GPZ        55 15 IO75WS         G4HGT/P       56 48 IO93BV
+QSO:    70 PH 2019-01-17 2105 MM0GPZ        53 16 IO75WS         M1BXF         52 44 JO02FE
+QSO:    70 PH 2019-01-17 2110 MM0GPZ        55 17 IO75WS         GW4ZAR        52 17 IO83KF
+QSO:    70 CW 2019-01-17 2122 MM0GPZ        559 18 IO75WS        G4ASR         559 69 IO81MX
+QSO:    70 PH 2019-01-17 2139 MM0GPZ        53 19 IO75WS         M1MHZ         55 49 IO92WV
+QSO:    70 PH 2019-01-17 2142 MM0GPZ        55 20 IO75WS         G4VFL         56 4 IO84FL
+END-OF-LOG:

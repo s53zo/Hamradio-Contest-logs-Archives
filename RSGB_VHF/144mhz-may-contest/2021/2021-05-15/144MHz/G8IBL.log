@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G8IBL
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+GRID-LOCATOR: IO90KR
+CATEGORY: SO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6704; excluded rows=2.
+QSO:   144 PH 2021-05-15 1742 G8IBL         59 1 IO90KR GU       M0ICK/P       59 108 IO93AD ST
+QSO:   144 PH 2021-05-15 1747 G8IBL         59 2 IO90KR GU       G8W           56 92 IO90KQ PO
+QSO:   144 PH 2021-05-15 1756 G8IBL         59 3 IO90KR GU       G3V           55 84 IO91RU LU
+END-OF-LOG:

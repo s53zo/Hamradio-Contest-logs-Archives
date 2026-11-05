@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: GM4JIB
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO85
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=250507&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=1075; excluded rows=1.
+QSO:   144 FT8 2025-05-07 1905 GM4JIB        +03 IO85             GM0HTT        -06 IO89
+QSO:   144 FT8 2025-05-07 1909 GM4JIB        -08 IO85             GM4VVX        -03 IO78
+QSO:   144 FT8 2025-05-07 1911 GM4JIB        -04 IO85             GM7GAX        -10 IO86
+QSO:   144 FT8 2025-05-07 1915 GM4JIB        +03 IO85             GW0WZL        +15 IO73
+QSO:   144 FT8 2025-05-07 1917 GM4JIB        -15 IO85             GM7PKT        -15 IO76
+QSO:   144 FT8 2025-05-07 1921 GM4JIB        +03 IO85             GM4OAS        +11 IO76
+QSO:   144 FT8 2025-05-07 1923 GM4JIB        +00 IO85             G4GUF/P       -11 IO93
+END-OF-LOG:

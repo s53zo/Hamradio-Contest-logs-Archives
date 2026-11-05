@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4BRK
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 9CM
+GRID-LOCATOR: IO91HP
+CATEGORY: SAO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+3.4+GHz&Date=170228&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=32; excluded rows=0.
+QSO:  3.4G CW 2017-02-28 2032 G4BRK         529 1 IO91HP         G4ODA         529 3 IO92WS
+QSO:  3.4G PH 2017-02-28 2042 G4BRK         56 2 IO91HP          M0GHZ         56 2 IO81VK
+QSO:  3.4G CW 2017-02-28 2057 G4BRK         559 3 IO91HP         G3UKV         559 2 IO82RR
+QSO:  3.4G CW 2017-02-28 2112 G4BRK         539 4 IO91HP         G3ZUD         539 2 IO92LU
+QSO:  3.4G PH 2017-02-28 2141 G4BRK         42 5 IO91HP          G4JLG/P       56 3 IO83RO
+END-OF-LOG:

@@ -1,0 +1,30 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G3ZNH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81VE
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=210302&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=16095; excluded rows=6.
+SOAPBOX: WARNING: 1 source QSO rows excluded from this station log.
+SOAPBOX: WARNING: Excluded QSO rows: unsupported submitting or worked callsign (1).
+QSO:   144 PH 2021-03-02 2004 G3ZNH         59 1 IO81VE          M0IMS         59 1 IO81UI
+QSO:   144 PH 2021-03-02 2009 G3ZNH         59 3 IO81VE          2E0NEY        59 9 IO81VK
+QSO:   144 PH 2021-03-02 2016 G3ZNH         55 4 IO81VE          G0XDI         55 20 IO91RQ
+QSO:   144 PH 2021-03-02 2020 G3ZNH         57 5 IO81VE          G0LTG         57 27 IO81RF
+QSO:   144 PH 2021-03-02 2024 G3ZNH         57 6 IO81VE          M0PTZ         57 10 IO91FE
+QSO:   144 PH 2021-03-02 2028 G3ZNH         55 7 IO81VE          G8IBL         55 17 IO91QE
+QSO:   144 PH 2021-03-02 2032 G3ZNH         57 8 IO81VE          G4RRA         57 41 IO80BS
+QSO:   144 PH 2021-03-02 2035 G3ZNH         57 9 IO81VE          G4CLA         57 108 IO92JL
+QSO:   144 PH 2021-03-02 2055 G3ZNH         59 10 IO81VE         G3TKF         59 26 IO81RI
+QSO:   144 PH 2021-03-02 2058 G3ZNH         58 11 IO81VE         G4GTH         58 12 IO90BV
+QSO:   144 PH 2021-03-02 2112 G3ZNH         59 12 IO81VE         M0KJR         59 17 IO81VH
+QSO:   144 PH 2021-03-02 2141 G3ZNH         59 13 IO81VE         G8DER         59 24 IO81XB
+QSO:   144 PH 2021-03-02 2205 G3ZNH         57 14 IO81VE         G3RGS         57 153 JO01DH
+END-OF-LOG:

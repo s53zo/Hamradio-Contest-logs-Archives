@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-MAY-CONTEST
+CALLSIGN: G0EUN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93QE
+CATEGORY: 6S
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+May+Contest&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6302; excluded rows=10.
+QSO:   144 PH 2017-05-20 1400 G0EUN         59 1 IO93QE LN       G1B           59 1 IO93UK LN
+QSO:   144 PH 2017-05-20 1402 G0EUN         59 2 IO93QE LN       M0CGL         59 3 JO03BF PE
+QSO:   144 PH 2017-05-20 1406 G0EUN         59 3 IO93QE LN       M0HYX         57 4 IO92VN PE
+QSO:   144 PH 2017-05-20 1412 G0EUN         59 4 IO93QE LN       G4ODA         59 8 IO92WS PE
+QSO:   144 PH 2017-05-20 1416 G0EUN         59 5 IO93QE LN       G3MEH         55 5 IO91QS HP
+QSO:   144 PH 2017-05-20 1419 G0EUN         57 6 IO93QE LN       M0WCO         56 20 JO00EW TN
+QSO:   144 PH 2017-05-20 1425 G0EUN         56 7 IO93QE LN       G0HVF/P       56 32 JO01PU CO
+QSO:   144 PH 2017-05-20 1431 G0EUN         59 8 IO93QE LN       G4TSQ         59 11 IO90QT BN
+QSO:   144 PH 2017-05-20 1437 G0EUN         57 9 IO93QE LN       G8W           54 37 IO90JO PO
+QSO:   144 PH 2017-05-20 1540 G0EUN         57 10 IO93QE LN      GI4SNA        55 16 IO64XM BT
+QSO:   144 PH 2017-05-20 1554 G0EUN         57 11 IO93QE LN      G0ODQ         57 42 IO91MR OX
+QSO:   144 PH 2017-05-20 1605 G0EUN         59 12 IO93QE LN      G3M           57 105 JO01QD CT
+QSO:   144 PH 2017-05-20 1611 G0EUN         54 13 IO93QE LN      M4W           56 31 IO91CL SN
+QSO:   144 PH 2017-05-20 1615 G0EUN         59 14 IO93QE LN      M3P           55 36 IO91JO OX
+END-OF-LOG:

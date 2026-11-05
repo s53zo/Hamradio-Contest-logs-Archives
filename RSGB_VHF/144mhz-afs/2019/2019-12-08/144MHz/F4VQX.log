@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-AFS
+CALLSIGN: F4VQX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IN87LX
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=6102; excluded rows=2.
+QSO:   144 PH 2019-12-08 1039 F4VQX         59 1 IN87LX          G7RAU         59 16 IN79JX
+QSO:   144 PH 2019-12-08 1049 F4VQX         52 2 IN87LX          F8KGU         52 192 JN19BQ
+QSO:   144 PH 2019-12-08 1052 F4VQX         55 3 IN87LX          M0GHZ/P       55 33 IO81UN
+QSO:   144 PH 2019-12-08 1108 F4VQX         57 4 IN87LX          G3MEH         56 41 IO91QS
+QSO:   144 PH 2019-12-08 1152 F4VQX         55 5 IN87LX          G6DOD         56 30 IO90JR
+QSO:   144 PH 2019-12-08 1157 F4VQX         59 6 IN87LX          G8GRS/A       59 34 IO81RF
+END-OF-LOG:

@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-50MHZ-UKAC
+CALLSIGN: G8DMN
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 6M
+GRID-LOCATOR: IO81RD
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=50MHz+UKAC&Date=250313&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=3811; excluded rows=5.
+QSO:    50 PH 2025-03-13 2000 G8DMN         59 1 IO81RD          G3TKF         59 1 IO81RI
+QSO:    50 PH 2025-03-13 2004 G8DMN         59 2 IO81RD          G3USE         59 2 IO80LR
+QSO:    50 PH 2025-03-13 2007 G8DMN         59 3 IO81RD          G4CLA         59 11 IO92JL
+QSO:    50 PH 2025-03-13 2010 G8DMN         55 4 IO81RD          2E0VCC/P      55 8 IO70SP
+QSO:    50 PH 2025-03-13 2034 G8DMN         55 5 IO81RD          2E0OUT        55 15 IO81WO
+QSO:    50 PH 2025-03-13 2041 G8DMN         57 6 IO81RD          G4ASR         59 40 IO81MX
+QSO:    50 PH 2025-03-13 2045 G8DMN         57 7 IO81RD          G3SED         55 28 IO90IV
+QSO:    50 PH 2025-03-13 2047 G8DMN         58 8 IO81RD          G4LDR         57 13 IO91EC
+QSO:    50 PH 2025-03-13 2051 G8DMN         56 9 IO81RD          G8IQL/P       55 25 IO90MX
+QSO:    50 PH 2025-03-13 2057 G8DMN         58 10 IO81RD         GW0RHC        55 24 IO71UN
+QSO:    50 PH 2025-03-13 2105 G8DMN         53 11 IO81RD         MW0LKX/P      55 48 IO82KL
+END-OF-LOG:

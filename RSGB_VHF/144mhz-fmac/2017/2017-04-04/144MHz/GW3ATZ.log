@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FMAC
+CALLSIGN: GW3ATZ
+CATEGORY-MODE: FM
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83LE
+CATEGORY: FR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FMAC&Date=170404&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FMAC rules and sent RS report.
+SOAPBOX: Export source rows=459; excluded rows=0.
+QSO:   144 FM 2017-04-04 1801 GW3ATZ        59 1 IO83LE          GW8ASD        59 1 IO83LB
+QSO:   144 FM 2017-04-04 1803 GW3ATZ        59 2 IO83LE          G8ZRE         59 1 IO83NE
+QSO:   144 FM 2017-04-04 1817 GW3ATZ        54 3 IO83LE          G3UD          57 1 IO82VX
+QSO:   144 FM 2017-04-04 1819 GW3ATZ        59 4 IO83LE          2W0MLG/P      59 2 IO83LC
+QSO:   144 FM 2017-04-04 1836 GW3ATZ        57 5 IO83LE          M1DDD/P       57 32 IO93CH
+QSO:   144 FM 2017-04-04 1839 GW3ATZ        59 6 IO83LE          2E0DGP        59 3 IO83QP
+QSO:   144 FM 2017-04-04 1850 GW3ATZ        59 7 IO83LE          G3TDH         59 2 IO83WI
+QSO:   144 FM 2017-04-04 1858 GW3ATZ        57 8 IO83LE          M0RKX/P       57 11 IO92BA
+END-OF-LOG:

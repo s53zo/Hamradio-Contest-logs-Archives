@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-CONTEST-CW
+CALLSIGN: G1SCT
+CATEGORY-MODE: CW
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO92XT
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+Contest+CW&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Export source rows=305; excluded rows=0.
+QSO:    70 CW 2023-05-14 1001 G1SCT         599 1 IO92XT PE      G4CWH/P       599 18 IO92XA SG
+QSO:    70 CW 2023-05-14 1007 G1SCT         559 2 IO92XT PE      G4RQI         529 9 IO93IR WF
+QSO:    70 CW 2023-05-14 1017 G1SCT         599 3 IO92XT PE      G4LPP         569 13 JO02SS NK
+QSO:    70 CW 2023-05-14 1030 G1SCT         559 4 IO92XT PE      G4HGI         559 12 IO83PL WN
+QSO:    70 CW 2023-05-14 1052 G1SCT         559 5 IO92XT PE      G3TCU/P       599 30 IO91GI RG
+END-OF-LOG:

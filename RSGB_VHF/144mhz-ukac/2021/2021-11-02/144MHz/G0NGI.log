@@ -1,0 +1,25 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0NGI
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO91QH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=211102&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=12629; excluded rows=4.
+QSO:   144 PH 2021-11-02 2006 G0NGI         59 1 IO91QH          G4YPC         59 1 IO91RH
+QSO:   144 PH 2021-11-02 2009 G0NGI         59 2 IO91QH          G8YKM         59 2 IO91PF
+QSO:   144 PH 2021-11-02 2027 G0NGI         58 3 IO91QH          F1BHL/P       57 36 IN99CQ
+QSO:   144 PH 2021-11-02 2030 G0NGI         59 4 IO91QH          G0SWC         59 8 IO91RF
+QSO:   144 PH 2021-11-02 2042 G0NGI         55 5 IO91QH          M0BB          54 33 IO91PK
+QSO:   144 PH 2021-11-02 2046 G0NGI         59 6 IO91QH          G3RGS         59 49 JO01DH
+QSO:   144 PH 2021-11-02 2049 G0NGI         59 7 IO91QH          G4GFI         59 29 IO91VH
+QSO:   144 PH 2021-11-02 2115 G0NGI         59 8 IO91QH          M0ABT/P       59 89 JO00BT
+QSO:   144 PH 2021-11-02 2138 G0NGI         59 9 IO91QH          M0JSB/P       59 34 IO91SF
+QSO:   144 PH 2021-11-02 2159 G0NGI         59 10 IO91QH         M0IAM         59 26 IO91QE
+END-OF-LOG:

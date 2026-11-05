@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: G0VCW
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO02UK
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=231107&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=10130; excluded rows=2.
+QSO:   144 PH 2023-11-07 2005 G0VCW         59 1 JO02UK          G4PFZ         59 5 JO02PP
+QSO:   144 PH 2023-11-07 2007 G0VCW         59 2 JO02UK          G3PXT         59 4 JO02PP
+QSO:   144 PH 2023-11-07 2012 G0VCW         59 3 JO02UK          G00JDL        59 5 JO02SI
+QSO:   144 PH 2023-11-07 2024 G0VCW         59 4 JO02UK          G4KQY         59 10 JO02OP
+QSO:   144 PH 2023-11-07 2027 G0VCW         59 5 JO02UK          G4LPP         59 14 JO02SS
+END-OF-LOG:

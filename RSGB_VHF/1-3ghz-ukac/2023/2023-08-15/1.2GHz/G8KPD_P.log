@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-1-3GHZ-UKAC
+CALLSIGN: G8KPD/P
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+GRID-LOCATOR: IO85XF
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=1.3GHz+UKAC&Date=230815&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=2972; excluded rows=1.
+QSO:  1.2G PH 2023-08-15 1901 G8KPD/P       59 1 IO85XF          GM4JTJ        59 2 IO86RP
+QSO:  1.2G PH 2023-08-15 1907 G8KPD/P       59 2 IO85XF          G8AOE/P       59 2 IO94MJ
+QSO:  1.2G PH 2023-08-15 1909 G8KPD/P       55 3 IO85XF          G4ITR         55 1 IO95CA
+QSO:  1.2G PH 2023-08-15 1912 G8KPD/P       59 4 IO85XF          G3ZWR/P       59 3 IO84XT
+END-OF-LOG:

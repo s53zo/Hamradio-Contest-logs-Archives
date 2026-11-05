@@ -1,0 +1,26 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: G4FRE
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: IO82UC
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=210525&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=508; excluded rows=0.
+QSO:  2.3G PH 2021-05-25 1831 G4FRE         59 1 IO82UC          G4CLA         599 1 IO92JL
+QSO:  2.3G PH 2021-05-25 1854 G4FRE         59 2 IO82UC          G0NZI/P       59 2 IO92FM
+QSO:  2.3G PH 2021-05-25 1855 G4FRE         59 3 IO82UC          G1ZAR/P       57 3 IO92IR
+QSO:  2.3G PH 2021-05-25 1931 G4FRE         59 4 IO82UC          G4BXD         59 6 IO82UJ
+QSO:  2.3G PH 2021-05-25 1944 G4FRE         53 5 IO82UC          G8AIM         56 6 IO92FH
+QSO:  2.3G PH 2021-05-25 1953 G4FRE         59 6 IO82UC          G4NZV         59 3 IO82WA
+QSO:  2.3G PH 2021-05-25 2018 G4FRE         59 7 IO82UC          2E0MDJ/P      59 7 IO81XW
+QSO:  2.3G CW 2021-05-25 2039 G4FRE         559 8 IO82UC         G0WUS         519 10 IO92KO
+QSO:  2.3G PH 2021-05-25 2104 G4FRE         59 9 IO82UC          G4HWA         58 14 IO92ME
+QSO:  2.3G PH 2021-05-25 2125 G4FRE         59 10 IO82UC         G0LGS/P       59 11 IO81XW
+END-OF-LOG:

@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MARCH-144-432MHZ
+CALLSIGN: MW0LKX
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO82LI
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=March+144+432MHz&year=2023
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5831; excluded rows=0.
+QSO:   144 PH 2023-03-04 1420 MW0LKX        59 1 IO82LI          MW8R          59 13 IO82HP
+QSO:   144 PH 2023-03-04 1422 MW0LKX        59 2 IO82LI          M1B           59 16 IO82LB
+QSO:   144 PH 2023-03-04 1427 MW0LKX        59 3 IO82LI          G4ASR         59 18 IO81MX
+QSO:   144 PH 2023-03-04 1430 MW0LKX        59 4 IO82LI          M1L           59 18 IO81WU
+QSO:   144 PH 2023-03-04 1434 MW0LKX        55 5 IO82LI          G4ODA         55 26 IO92WS
+QSO:   144 PH 2023-03-04 1439 MW0LKX        59 6 IO82LI          G2P           59 39 IO82MA
+END-OF-LOG:

@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-FIXED-STATION-CONTEST
+CALLSIGN: G0TCD
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO91VX
+CATEGORY: FSQ
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+Fixed+Station+Contest&year=2025
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=268; excluded rows=0.
+QSO:    70 PH 2025-07-06 0837 G0TCD         59 1 IO91VX          G3PYE/P       59 27 JO02CE
+QSO:    70 PH 2025-07-06 0850 G0TCD         53 2 IO91VX          G4DSP/P       58 14 IO92VU
+QSO:    70 PH 2025-07-06 0857 G0TCD         59 3 IO91VX          G3CKR/P       58 26 IO93AD
+QSO:    70 PH 2025-07-06 0915 G0TCD         57 4 IO91VX          G5LK/P        59 39 JO01QD
+QSO:    70 PH 2025-07-06 0918 G0TCD         55 5 IO91VX          G0FBB/P       57 2 JO01LD
+QSO:    70 PH 2025-07-06 0936 G0TCD         59 6 IO91VX          G8SRC/P       59 40 IO91CL
+END-OF-LOG:

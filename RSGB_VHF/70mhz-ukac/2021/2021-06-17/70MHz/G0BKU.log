@@ -1,0 +1,23 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-70MHZ-UKAC
+CALLSIGN: G0BKU
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 4M
+GRID-LOCATOR: IO81VH
+CATEGORY: AO
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=70MHz+UKAC&Date=210617&year=2021
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5886; excluded rows=2.
+QSO:    70 PH 2021-06-17 2016 G0BKU         57 1 IO81VH          2E0VCC/P      57 40 IO70SP
+QSO:    70 PH 2021-06-17 2017 G0BKU         59 2 IO81VH          G3TKF         59 27 IO81RI
+QSO:    70 PH 2021-06-17 2019 G0BKU         59 3 IO81VH          M0GHZ         59 29 IO81VK
+QSO:    70 PH 2021-06-17 2021 G0BKU         52 4 IO81VH          M0IEP         55 28 IO91DP
+QSO:    70 CW 2021-06-17 2101 G0BKU         559 5 IO81VH         G0GRI         559 4 IO80SX
+QSO:    70 PH 2021-06-17 2121 G0BKU         59 6 IO81VH          G4CLA         59 132 IO92JL
+QSO:    70 PH 2021-06-17 2129 G0BKU         59 7 IO81VH          G1DFL/P       55 83 IO91LO
+END-OF-LOG:

@@ -1,0 +1,20 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-UKAC
+CALLSIGN: G0MOH
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+GRID-LOCATOR: IO70XR
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+UKAC&Date=220712&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=7507; excluded rows=3.
+QSO:   432 PH 2022-07-12 1901 G0MOH         57 1 IO70XR          G4KQH         57 1 IO92JD
+QSO:   432 PH 2022-07-12 1909 G0MOH         59 2 IO70XR          G4CLA         59 21 IO92JL
+QSO:   432 PH 2022-07-12 1916 G0MOH         52 3 IO70XR          M0AFJ/P       53 16 IO70JF
+QSO:   432 PH 2022-07-12 1921 G0MOH         55 4 IO70XR          M0GHZ         53 23 IO81VK
+QSO:   432 PH 2022-07-12 1926 G0MOH         55 5 IO70XR          G4GFI         54 12 IO91VH
+END-OF-LOG:

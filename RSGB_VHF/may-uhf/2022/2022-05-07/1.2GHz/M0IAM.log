@@ -1,0 +1,21 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-MAY-UHF
+CALLSIGN: M0IAM
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 23CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO91QE
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=May+UHF&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=477; excluded rows=2.
+QSO:  1.2G PH 2022-05-08 0930 M0IAM         51 1 IO91QE          G4GFI         57 2 IO91VH
+QSO:  1.2G PH 2022-05-08 0946 M0IAM         51 2 IO91QE          G5RS/P        51 21 JO00EW
+QSO:  1.2G PH 2022-05-08 0953 M0IAM         53 3 IO91QE          M0HNA/P       55 22 IO91GI
+QSO:  1.2G PH 2022-05-08 1049 M0IAM         57 4 IO91QE          G7L           59 14 IO91TQ
+END-OF-LOG:

@@ -1,0 +1,22 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-VHF-NFD
+CALLSIGN: PG7M
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: JO21CW
+CATEGORY: FSR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=VHF+NFD&year=2022
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=5874; excluded rows=2.
+QSO:   144 PH 2022-07-02 1544 PG7M          59 1 JO21CW          G4ZAP/P       59 72 JO01PU
+QSO:   144 PH 2022-07-02 1548 PG7M          59 2 JO21CW          TM5R          59 143 JN19BQ
+QSO:   144 PH 2022-07-02 1550 PG7M          59 3 JO21CW          G5LK/P        59 137 JO01QD
+QSO:   144 PH 2022-07-02 1554 PG7M          59 4 JO21CW          G3PYE/P       59 26 JO02CE
+QSO:   144 PH 2022-07-02 1639 PG7M          59 5 JO21CW          PA1T          59 146 JO33JF
+QSO:   144 PH 2022-07-03 1134 PG7M          59 6 JO21CW          OZ1ALS        59 271 JO44XX
+QSO:   144 PH 2022-07-03 1202 PG7M          59 7 JO21CW          OR6T          59 489 JO20KV
+END-OF-LOG:

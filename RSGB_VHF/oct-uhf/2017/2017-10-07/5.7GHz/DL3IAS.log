@@ -1,0 +1,27 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-OCT-UHF
+CALLSIGN: DL3IAS
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 6CM
+GRID-LOCATOR: JN49EJ
+CATEGORY: IARULOGS
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=Oct+UHF&year=2017
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=179; excluded rows=4.
+QSO:  5.7G PH 2017-10-07 1532 DL3IAS        59 1 JN49EJ          DL3IAE        59 2 JN49DG
+QSO:  5.7G PH 2017-10-07 1547 DL3IAS        59 2 JN49EJ          DG5FEB/P      59 3 JO40PL
+QSO:  5.7G PH 2017-10-07 1619 DL3IAS        59 3 JN49EJ          DK2DB         53 2 JN48FW
+QSO:  5.7G PH 2017-10-07 1724 DL3IAS        59 4 JN49EJ          DR9A          59 9 JN48EQ
+QSO:  5.7G PH 2017-10-07 1743 DL3IAS        53 5 JN49EJ          F1AZJ/P       51 4 JN28OK
+QSO:  5.7G PH 2017-10-07 1849 DL3IAS        57 6 JN49EJ          DB6NT         59 8 JO50TI
+QSO:  5.7G CW 2017-10-07 1916 DL3IAS        559 7 JN49EJ         DL0GTH        559 5 JO50JP
+QSO:  5.7G PH 2017-10-07 2136 DL3IAS        53 8 JN49EJ          DK0PU         55 11 JO31JN
+QSO:  5.7G PH 2017-10-08 0905 DL3IAS        59 9 JN49EJ          DL8YG         59 1 JN49DL
+QSO:  5.7G CW 2017-10-08 0957 DL3IAS        519 10 JN49EJ        OT5A/P        559 7 JO20MW
+QSO:  5.7G CW 2017-10-08 1115 DL3IAS        539 11 JN49EJ        OE5VRL/5      559 17 JN78DK
+END-OF-LOG:

@@ -1,0 +1,34 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-432MHZ-AFS
+CALLSIGN: M7DON
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 70CM
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-STATION: FIXED
+GRID-LOCATOR: IO93KD
+CATEGORY: SF
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=432MHz+AFS&year=2019
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=4093; excluded rows=1.
+QSO:   432 PH 2019-02-03 0903 M7DON         55 1 IO93KD          M6PGU         59 1 IO93KD
+QSO:   432 PH 2019-02-03 0907 M7DON         59 2 IO93KD          G3SQQ         59 4 IO93JC
+QSO:   432 PH 2019-02-03 0908 M7DON         59 3 IO93KD          G0EAK/P       59 6 IO93NI
+QSO:   432 PH 2019-02-03 0908 M7DON         59 4 IO93KD          G1HLT         59 6 IO93JD
+QSO:   432 PH 2019-02-03 0909 M7DON         59 5 IO93KD          G8NRY         55 7 IO93JI
+QSO:   432 PH 2019-02-03 0924 M7DON         59 6 IO93KD          M0GAV/P       59 7 IO93EH
+QSO:   432 PH 2019-02-03 0937 M7DON         59 7 IO93KD          G1PPA         59 19 IO93OJ
+QSO:   432 PH 2019-02-03 0941 M7DON         59 8 IO93KD          2E0UAW/P      59 19 IO93JJ
+QSO:   432 PH 2019-02-03 1133 M7DON         54 9 IO93KD          G4ODA         59 107 IO92WS
+QSO:   432 PH 2019-02-03 1135 M7DON         52 10 IO93KD         M1MHZ         57 68 IO92WV
+QSO:   432 PH 2019-02-03 1140 M7DON         59 11 IO93KD         G3TBK         58 55 IO93QA
+QSO:   432 PH 2019-02-03 1155 M7DON         54 12 IO93KD         M7GGM/A       55 5 IO93KH
+QSO:   432 PH 2019-02-03 1157 M7DON         57 13 IO93KD         G4LPD         59 24 IO92KW
+QSO:   432 PH 2019-02-03 1159 M7DON         54 14 IO93KD         G4PDF         54 18 IO93VH
+QSO:   432 PH 2019-02-03 1200 M7DON         59 15 IO93KD         M6XAK         57 18 IO93MH
+QSO:   432 PH 2019-02-03 1220 M7DON         57 16 IO93KD         G4YHF         58 66 IO92XW
+QSO:   432 PH 2019-02-03 1245 M7DON         59 17 IO93KD         G3RCW         59 26 IO93KH
+END-OF-LOG:
