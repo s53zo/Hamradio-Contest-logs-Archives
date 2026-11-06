@@ -76,12 +76,12 @@ requests through this repository's Issues.
 ## Archive Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-11-05:
+SH6-indexed snapshot counted on 2026-11-06:
 
-- total indexed log files: 2,494,380
-- source/public indexed log files: 2,020,811
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 473,569
-- unique source/public callsigns in the SH6 index: 184,137
+- total indexed log files: 2,495,060
+- source/public indexed log files: 2,021,379
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 473,681
+- unique source/public callsigns in the SH6 index: 184,143
 - contest roots in the SH6 index: 39
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -96,7 +96,7 @@ directories are not indexed.
 | Top-level directory | Available years | Indexed logs |
 |---|---|---:|
 | 9A HRS Contest | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 21,687 |
-| ARRL | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 331,419 |
+| ARRL | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 331,538 |
 | CQ160 | 2022, 2023, 2024, 2025, 2026 | 17,838 |
 | CQWPX | 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 272,647 |
 | CQWPXRTTY | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 62,174 |
@@ -109,27 +109,27 @@ directories are not indexed.
 | HamSpiritContest | 2024, 2025 | 1,783 |
 | Istra Open Contest | 2026 | 107 |
 | OK OM DX Contest | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 25,238 |
-| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,071 |
+| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,257 |
 | OK_Contest | 2026 | 61 |
 | OK_DX_RTTY_contest | 2025 | 1,043 |
 | RCCCup | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,377 |
 | RDAContest | 2018, 2019, 2020, 2021, 2022, 2023 | 8,115 |
 | REF | 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 41,552 |
 | RFChampionshipCW | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 2,488 |
-| RSGB_HF | 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 | 82,052 |
+| RSGB_HF | 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 | 82,197 |
 | RSGB_VHF | 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 | 145,868 |
 | RussianDXContest | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 10,755 |
 | RussianRadioTeamChampionship | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,883 |
 | SAC | 2021, 2023, 2024, 2025 | 11,330 |
 | SPDX contest | 2019, 2020, 2021, 2023, 2024, 2025, 2026 | 18,880 |
-| TTC-SPCWC | 2026 | 2,217 |
+| TTC-SPCWC | 2026 | 2,359 |
 | URE | 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 58,424 |
 | WAE | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,708 |
 | WRTC | 2018, 2026 | 3,216 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 8,818 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 15,190 |
-| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,911 |
-| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 14,219 |
+| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,965 |
+| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 14,253 |
 | YOTA_Contest | 2021, 2022, 2023, 2024, 2025, 2026 | 14,102 |
 | YU DX Contest | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 5,165 |
 | YuriGagarinDXContest | 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,858 |
