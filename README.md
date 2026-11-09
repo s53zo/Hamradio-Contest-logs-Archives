@@ -76,11 +76,11 @@ requests through this repository's Issues.
 ## Archive Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-11-06:
+SH6-indexed snapshot counted on 2026-11-09:
 
-- total indexed log files: 2,495,060
-- source/public indexed log files: 2,021,379
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 473,681
+- total indexed log files: 2,495,262
+- source/public indexed log files: 2,021,542
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 473,720
 - unique source/public callsigns in the SH6 index: 184,143
 - contest roots in the SH6 index: 39
 - SQLite shard files in `SH6/`: 256
@@ -109,7 +109,7 @@ directories are not indexed.
 | HamSpiritContest | 2024, 2025 | 1,783 |
 | Istra Open Contest | 2026 | 107 |
 | OK OM DX Contest | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 25,238 |
-| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,257 |
+| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,457 |
 | OK_Contest | 2026 | 61 |
 | OK_DX_RTTY_contest | 2025 | 1,043 |
 | RCCCup | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,377 |
@@ -128,8 +128,8 @@ directories are not indexed.
 | WRTC | 2018, 2026 | 3,216 |
 | WW PMC | 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 8,818 |
 | WWDIGI | 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 15,190 |
-| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,965 |
-| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 14,253 |
+| WednesdayMiniTest40m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 4,966 |
+| WednesdayMiniTest80m | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 14,254 |
 | YOTA_Contest | 2021, 2022, 2023, 2024, 2025, 2026 | 14,102 |
 | YU DX Contest | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 | 5,165 |
 | YuriGagarinDXContest | 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 11,858 |
