@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CONTEST: CQ-WW-SSB
+CALLSIGN: DO5EKG
+LOCATION: DX
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: 10M
+CATEGORY-POWER: LOW
+CATEGORY-MODE: SSB
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-STATION:
+CATEGORY-OVERLAY: ROOKIE
+GRID-LOCATOR: JN47nq
+CLAIMED-SCORE:
+NAME: Ferenc Czetö
+OPERATORS: DO5EKG
+SOAPBOX: First license 2026-05
+SOAPBOX: Operator confirms UTC times, no use of spotting assistance, and UA4CC zone 16.
+SOAPBOX: Other received zones inferred from station locations where not logged.
+SOAPBOX: DL6RY exact frequency absent from HamDash 28000 indicates band only.
+SOAPBOX: First licensed: May 2026
+CREATED-BY: ChatGPT from HamDash ADIF
+QSO:   28404 PH 2026-10-24 0813 DO5EKG           59  14    RY7C             59   16       
+QSO:   28000 PH 2026-10-24 0819 DO5EKG           59  14    DL6RY            59   14       
+QSO:   28408 PH 2026-10-24 0824 DO5EKG           59  14    P33W             59   20       
+QSO:   28545 PH 2026-10-24 0828 DO5EKG           59  14    HB2T             59   14       
+QSO:   28411 PH 2026-10-24 0958 DO5EKG           59  14    RK4FAO           56   16       
+QSO:   28583 PH 2026-10-24 1004 DO5EKG           59  14    UA4CC            56   16       
+QSO:   28557 PH 2026-10-24 1538 DO5EKG           59  14    LS7X             59   13       
+QSO:   28552 PH 2026-10-24 1547 DO5EKG           59  14    CT9/3Z1NY        59   33       
+END-OF-LOG:
