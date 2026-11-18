@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-SHF-UKAC
+CALLSIGN: PE1EWR
+CATEGORY-MODE: MIXED
+CATEGORY-BAND: 13CM
+GRID-LOCATOR: JO11SL
+CATEGORY: SAR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=SHF+UKAC+2.3+GHz&Date=261027&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from three-digit sent RST report.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=331; excluded rows=1.
+QSO:  2.3G PH 2026-10-27 1943 PE1EWR        59 1 JO11SL          PA1FZH        59 1 JO11TL
+QSO:  2.3G CW 2026-10-27 2014 PE1EWR        539 2 JO11SL         G3XDY         539 4 JO02OB
+QSO:  2.3G CW 2026-10-27 2133 PE1EWR        539 3 JO11SL         G8CUL         529 25 IO91JO
+END-OF-LOG:

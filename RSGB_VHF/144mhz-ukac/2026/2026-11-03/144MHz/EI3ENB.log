@@ -1,0 +1,19 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-UKAC
+CALLSIGN: EI3ENB
+CATEGORY-MODE: SSB
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO62JH
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Contest=144MHz+UKAC&Date=261103&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from two-digit sent RS report.
+SOAPBOX: Export source rows=8054; excluded rows=3.
+QSO:   144 PH 2026-11-03 2051 EI3ENB        55 1 IO62JH          G4ODA         58 20 IO92WS
+QSO:   144 PH 2026-11-03 2057 EI3ENB        53 2 IO62JH          G7LII/P       53 45 IO92LJ
+QSO:   144 PH 2026-11-03 2059 EI3ENB        59 3 IO62JH          G4CLA         59 110 IO92JL
+QSO:   144 PH 2026-11-03 2207 EI3ENB        59 4 IO62JH          MW0DX         59 65 IO71OT
+END-OF-LOG:

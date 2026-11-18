@@ -1,0 +1,31 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: MW0CVT
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO81
+CATEGORY: AR
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=261104&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=948; excluded rows=0.
+QSO:   144 FT8 2026-11-04 1903 MW0CVT        -17 IO81             G4RFR         -15 IO90
+QSO:   144 FT8 2026-11-04 1912 MW0CVT        +00 IO81             G0RMG         -13 IO92
+QSO:   144 FT8 2026-11-04 1913 MW0CVT        +00 IO81             G0XDI         -19 IO91
+QSO:   144 FT8 2026-11-04 1927 MW0CVT        -04 IO81             M1EYP/P       -12 -
+QSO:   144 FT8 2026-11-04 1930 MW0CVT        -10 IO81             G3WZK         -16 IO91
+QSO:   144 FT8 2026-11-04 1937 MW0CVT        +14 IO81             MM0CEZ        -01 IO75
+QSO:   144 FT8 2026-11-04 1950 MW0CVT        -03 IO81             M9VGP         -03 IO91
+QSO:   144 FT8 2026-11-04 2004 MW0CVT        -03 IO81             G7LRQ         -15 JO03
+QSO:   144 FT8 2026-11-04 2008 MW0CVT        -20 IO81             G8IXK         -22 IO91
+QSO:   144 FT8 2026-11-04 2010 MW0CVT        -16 IO81             G3WZK         -18 IO91
+QSO:   144 FT8 2026-11-04 2012 MW0CVT        -17 IO81             G0HSP         -12 IO90
+QSO:   144 FT8 2026-11-04 2022 MW0CVT        +10 IO81             G4NBS         +00 JO02
+QSO:   144 FT8 2026-11-04 2037 MW0CVT        -10 IO81             M0MHX         -19 JO01
+QSO:   144 FT8 2026-11-04 2041 MW0CVT        -14 IO81             G8IXK         -20 IO91
+QSO:   144 FT8 2026-11-04 2042 MW0CVT        -14 IO81             G8IXK         -20 -
+QSO:   144 FT8 2026-11-04 2054 MW0CVT        -09 IO81             G4ZTR         -13 JO01
+END-OF-LOG:

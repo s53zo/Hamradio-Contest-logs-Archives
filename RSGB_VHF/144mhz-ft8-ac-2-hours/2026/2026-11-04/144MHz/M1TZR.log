@@ -1,0 +1,24 @@
+START-OF-LOG: 3.0
+CREATED-BY: RSGB-public-qso-downloader
+CONTEST: RSGB-144MHZ-FT8-AC-2-HOURS
+CALLSIGN: M1TZR
+CATEGORY-MODE: DIGI
+CATEGORY-BAND: 2M
+GRID-LOCATOR: IO83
+CATEGORY: AL
+SOAPBOX: Recreated from the public RSGB QSO export; not an original submission.
+SOAPBOX: Source: https://www.rsgbcc.org/cgi-bin/vhfresults.pl?Band=144&Contest=144MHz+FT8+AC+%282+hours%29&Date=261104&year=2026
+SOAPBOX: Source band/frequency precision and duplicate rows retained.
+SOAPBOX: Hyphens denote absent reports/exchanges, not invented measured values.
+SOAPBOX: Mode inferred from FT8 contest context (source mode is generic or absent).
+SOAPBOX: Export source rows=948; excluded rows=0.
+QSO:   144 FT8 2026-11-04 1902 M1TZR         -11 IO83             G4HGI         +09 IO83
+QSO:   144 FT8 2026-11-04 1908 M1TZR         -25 IO83             M1EYP/P       -09 IO83
+QSO:   144 FT8 2026-11-04 1910 M1TZR         -08 IO83             M1DYU         -14 IO83
+QSO:   144 FT8 2026-11-04 1916 M1TZR         -21 IO83             G0XDI         -18 IO91
+QSO:   144 FT8 2026-11-04 1922 M1TZR         -22 IO83             G8CZW         +03 IO83
+QSO:   144 FT8 2026-11-04 1934 M1TZR         -20 IO83             G8LIY         -05 IO83
+QSO:   144 FT8 2026-11-04 1958 M1TZR         -18 IO83             MM0CEZ        -11 IO75
+QSO:   144 FT8 2026-11-04 2010 M1TZR         -19 IO83             MW0PJE        -01 IO82
+QSO:   144 FT8 2026-11-04 2037 M1TZR         -18 IO83             G4BEE         +07 IO83
+END-OF-LOG:
