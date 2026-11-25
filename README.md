@@ -76,12 +76,12 @@ requests through this repository's Issues.
 ## Archive Snapshot
 
 <!-- STATS:START -->
-SH6-indexed snapshot counted on 2026-11-20:
+SH6-indexed snapshot counted on 2026-11-25:
 
-- total indexed log files: 2,513,516
-- source/public indexed log files: 2,036,603
-- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 476,913
-- unique source/public callsigns in the SH6 index: 185,445
+- total indexed log files: 2,515,405
+- source/public indexed log files: 2,038,404
+- reconstructed mock log files in `RECONSTRUCTED_LOGS/`: 477,001
+- unique source/public callsigns in the SH6 index: 185,485
 - contest roots in the SH6 index: 39
 - SQLite shard files in `SH6/`: 256
 <!-- STATS:END -->
@@ -105,19 +105,19 @@ directories are not indexed.
 | DARC | 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,469 |
 | EU VHF CONTESTS | 1980, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 621,335 |
 | EUDX contest | 2023, 2024, 2025, 2026 | 9,326 |
-| EUHFC | 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025 | 27,342 |
+| EUHFC | 2001, 2002, 2003, 2004, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025, 2026 | 28,736 |
 | HamSpiritContest | 2024, 2025 | 1,783 |
 | Istra Open Contest | 2026 | 107 |
 | OK OM DX Contest | 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 25,238 |
-| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,667 |
+| OK1WC Memorial | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 50,870 |
 | OK_Contest | 2026 | 61 |
 | OK_DX_RTTY_contest | 2025 | 1,043 |
 | RCCCup | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,377 |
 | RDAContest | 2018, 2019, 2020, 2021, 2022, 2023 | 8,115 |
 | REF | 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 41,552 |
 | RFChampionshipCW | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 2,488 |
-| RSGB_HF | 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 | 82,525 |
-| RSGB_VHF | 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 | 146,304 |
+| RSGB_HF | 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 | 82,753 |
+| RSGB_VHF | 2016, 2017, 2018, 2019, 2021, 2022, 2023, 2024, 2025, 2026 | 146,368 |
 | RussianDXContest | 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 10,755 |
 | RussianRadioTeamChampionship | 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026 | 3,883 |
 | SAC | 2021, 2023, 2024, 2025 | 11,330 |
